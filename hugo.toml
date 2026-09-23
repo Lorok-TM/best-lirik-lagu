@@ -16,3 +16,29 @@ theme = "blowfish"
 [[related.indices]]
   name = 'date'
   weight = 10
+
+# Perbaikan Variabel Undakan Blowfish siji file (Anti-Error Vercel)
+[params]
+  mainSections = ["post"]
+  article.showRelated = true
+  article.relatedLimit = 3
+  homepage.layout = "card"
+  homepage.showRecent = true
+  homepage.showRecentItems = 12
+  homepage.showRecentHeader = true
+  homepage.cardView = true
+
+[[menu.main]]
+  name = "Home"
+  pageRef = "/"
+  weight = 10
+
+[[menu.main]]
+  name = "Semua Lirik"
+  pageRef = "/post/"
+  weight = 20
+
+[[menu.main]]
+  name = "Kategori"
+  pageRef = "/categories/"
+  weight = 30
