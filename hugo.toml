@@ -21,17 +21,12 @@ theme = "blowfish"
   showRelated = true
   relatedLimit = 3
 
-# 2. LOGIKA UTAMA HOMEPAGE (LAYOUT CARD CEKATAN + RECENT POSTS RAME)
 [params.homepage]
-  layout = "card"             # Tampilan kartu kothak-kothak modern cocok nggo lirik
+  layout = "card"
   showRecent = true
-  recentLimit = 12            # Langsung keki 12 list artikel neng ngarep ben ketok rame lan kebak
+  recentLimit = 12
   showRecentHeader = true
   cardView = true
-  
-  showFeatured = true
-  featuredLimit = 5 
-  showFeaturedHeader = true
 
 [[menu.main]]
   name = "Home"
