@@ -4,25 +4,25 @@ title = 'Best Lirik Lagu'
 theme = "blowfish"
 
 [permalinks]
-  post = '/:slug/'
+post = '/:slug/'
 
 [related]
-  includeNewer = false
-  threshold = 80
-  toLower = true
+includeNewer = false
+threshold = 80
+toLower = true
 [[related.indices]]
-  name = 'categories'
-  weight = 100
+name = 'categories'
+weight = 100
 [[related.indices]]
-  name = 'tags'
-  weight = 80
+name = 'tags'
+weight = 80
   
 [params]
-  # Fitur umum Blowfish
+# Fitur umum Blowfish
 
 [params.article]
-  showRelated = true          # <--- Pindah mrene ben logikane nyambung neng artikel!
-  relatedLimit = 3
+showRelated = true
+relatedLimit = 3
 
 # LOGIKA UTAMA HOMEPAGE (LAYOUT CARD CEKATAN + RECENT POSTS RAME)
 [params.homepage]
