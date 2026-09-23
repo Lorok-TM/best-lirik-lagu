@@ -1,16 +1,6 @@
 baseURL = "https://best-lirik-lagu.vercel.app/"
 locale = "id"
 title = "Best Lirik Lagu"
-theme = "blowfish"
-
-[params.author]
-name = "Katrok"
-image = "img/author.jpg"
-headline = "A generally awesome human"
-bio = "A little bit about me"
-links = [
-  { twitter = "https://twitter.com/username" }
-]
 
 [permalinks]
   post = '/:slug/'
