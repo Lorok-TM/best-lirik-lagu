@@ -36,3 +36,11 @@ theme = "hugo-theme-stack"
   showRelated = true
   relatedLimit = 3
   
+[params.homepage]
+  layout = "page"
+  showRecent = true
+  recentLimit = 5
+  showRecentHeader = true
+  showFeatured = true
+  featuredLimit = 5 
+  showFeaturedHeader = true
