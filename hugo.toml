@@ -1,6 +1,7 @@
 baseURL = "https://best-lirik-lagu.vercel.app/"
 locale = "id"
 title = "Best Lirik Lagu"
+theme = "blowfish"
 
 [permalinks]
   post = '/:slug/'
