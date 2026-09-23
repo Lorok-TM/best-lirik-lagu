@@ -2,21 +2,3 @@ baseURL = "https://best-lirik-lagu.vercel.app/"
 locale = "id"
 title = "Best Lirik Lagu"
 theme = "Stack"
-
-[permalinks]
-  post = '/:slug/'
-
-[[menu.main]]
-  name = "Home"
-  pageRef = "/"
-  weight = 10
-
-[[menu.main]]
-  name = "Semua Lirik"
-  pageRef = "/post/"
-  weight = 20
-
-[[menu.main]]
-  name = "Kategori"
-  pageRef = "/categories/"
-  weight = 30
