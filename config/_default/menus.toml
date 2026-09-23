@@ -1,0 +1,15 @@
+# config/_default/menus.toml
+[[main]]
+  name = "Home"
+  pageRef = "/"
+  weight = 10
+
+[[main]]
+  name = "Semua Lirik"
+  pageRef = "/post/"
+  weight = 20
+
+[[main]]
+  name = "Kategori"
+  pageRef = "/categories/"
+  weight = 30
