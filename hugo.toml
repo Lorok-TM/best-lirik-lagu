@@ -17,11 +17,9 @@ theme = "blowfish"
   name = 'tags'
   weight = 80
 
-[params]
-  # Ngaktifake mode blog supaya halaman ngarep nampilake daftar artikel
-  homepage = { layout = "profile" } 
-  
 [params.homepage]
-  showRecent = true          # Nampilake Recent Posts ing halaman ngarep
-  recentLimit = 5            # Jumlah maksimal artikel sing muncul neng ngarep
-  showRecentHeader = true    # Nampilake tulisan judul "Recent Posts"
+  layout = "profile"
+  showRecent = true
+  recentLimit = 5
+  showRecentHeader = true
+
