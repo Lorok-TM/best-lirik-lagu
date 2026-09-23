@@ -42,10 +42,12 @@ showFeaturedHeader = true
   name = "Home"
   pageRef = "/"
   weight = 10
+  
 [[menu.main]]
   name = "Semua Lirik"
   pageRef = "/post/"
   weight = 20
+  
 [[menu.main]]
   name = "Kategori"
   pageRef = "/categories/"
