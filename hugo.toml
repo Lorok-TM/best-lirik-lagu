@@ -11,6 +11,9 @@ theme = "blowfish"
   threshold = 80
   toLower = true
 [[related.indices]]
+  name = 'categories'
+  weight = 100
+[[related.indices]]
   name = 'keywords'
   weight = 100
 [[related.indices]]
@@ -23,8 +26,14 @@ theme = "blowfish"
   recentLimit = 5
   showRecentHeader = true
 
+[params.homepage]
+  layout = "page"
+  showRecent = true
+  recentLimit = 5
+  showRecentHeader = true
+  
   showFeatured = true
-  featuredLimit = 5
+  featuredLimit = 5 
   showFeaturedHeader = true
 
 [params]
