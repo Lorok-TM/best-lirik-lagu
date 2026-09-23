@@ -29,8 +29,7 @@ theme = "blowfish"
   recentLimit = 5
   showRecentHeader = true
 
-[params.homepage]
-  layout = "page"
+
   showFeatured = true
   featuredLimit = 5 
   showFeaturedHeader = true
