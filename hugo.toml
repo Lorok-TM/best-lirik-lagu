@@ -12,12 +12,12 @@ theme = "hugo-theme-stack"
   weight = 10
 
 [[menu.main]]
-  name = "Semua Lirik"
+  name = "Posts"
   pageRef = "/post/"
   weight = 20
 
 [[menu.main]]
-  name = "Kategori"
+  name = "Category"
   pageRef = "/categories/"
   weight = 30
 
