@@ -6,12 +6,6 @@ theme = "blowfish"
 [permalinks]
   post = '/:slug/'
 
-[params.homepage]
-  layout = "page"
-  showRecent = true
-  recentLimit = 5
-  showRecentHeader = true
-
 [[menu.main]]
   name = "Home"
   pageRef = "/"
