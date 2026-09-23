@@ -14,11 +14,9 @@ theme = "blowfish"
   name = 'categories'
   weight = 100
 [[related.indices]]
-  name = 'keywords'
-  weight = 100
-[[related.indices]]
   name = 'tags'
   weight = 80
+  
 [params]
   showRelated = true
   relatedLimit = 3
@@ -28,8 +26,6 @@ theme = "blowfish"
   showRecent = true
   recentLimit = 5
   showRecentHeader = true
-
-
   showFeatured = true
   featuredLimit = 5 
   showFeaturedHeader = true
