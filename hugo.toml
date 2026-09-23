@@ -18,10 +18,7 @@ theme = "blowfish"
   weight = 80
   
 [params]
-  # Fitur umum Blowfish
-
-[params.article]
-  showRelated = true          # <--- Pindah mrene ben logikane nyambung neng artikel!
+  showRelated = true
   relatedLimit = 3
 
 [params.homepage]
@@ -29,9 +26,7 @@ theme = "blowfish"
   showRecent = true
   recentLimit = 5
   showRecentHeader = true
-  
-  # Perbaikan Variabel Featured Blowfish sing asli:
-  showFeaturedItems = true    # <--- Jeneng variabel sing bener miturut dokumentasi!
+  showFeatured = true
   featuredLimit = 5 
   showFeaturedHeader = true
 
