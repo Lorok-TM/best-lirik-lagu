@@ -23,6 +23,10 @@ theme = "blowfish"
   recentLimit = 5
   showRecentHeader = true
 
+  showFeatured = true
+  featuredLimit = 5
+  showFeaturedHeader = true
+
 [params]
-  showRelated = true        # Ngaktifake list artikel terkait ing ngisor post
-  relatedLimit = 3          # Maksimal nampilake 3 artikel terkait
+  showRelated = true
+  relatedLimit = 3
