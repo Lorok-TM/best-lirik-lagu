@@ -22,11 +22,10 @@ theme = "blowfish"
   relatedLimit = 3
 
 [params.homepage]
-  layout = "card"
+  layout = "page"
   showRecent = true
-  recentLimit = 12
+  recentLimit = 5
   showRecentHeader = true
-  cardView = true
 
 [[menu.main]]
   name = "Home"
