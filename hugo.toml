@@ -30,3 +30,18 @@ theme = "blowfish"
 [params]
   showRelated = true
   relatedLimit = 3
+
+[[menu.main]]
+  name = "Home"
+  pageRef = "/"
+  weight = 10
+
+[[menu.main]]
+  name = "Semua Lirik"
+  pageRef = "/post/"
+  weight = 20
+
+[[menu.main]]
+  name = "Kategori"
+  pageRef = "/categories/"
+  weight = 30
