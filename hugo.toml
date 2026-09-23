@@ -16,32 +16,3 @@ theme = "blowfish"
 [[related.indices]]
   name = 'date'
   weight = 10
-
-[params]
-  mainSections = ["post"]     # <--- Bagean penting sing nggugah Related & Card neng Home!
-
-[params.article]
-  showRelated = true
-  relatedLimit = 3
-
-[params.homepage]
-  layout = "card"
-  showRecent = true
-  recentLimit = 12
-  showRecentHeader = true
-  cardView = true
-
-[[menu.main]]
-  name = "Home"
-  pageRef = "/"
-  weight = 10
-
-[[menu.main]]
-  name = "Semua Lirik"
-  pageRef = "/post/"
-  weight = 20
-
-[[menu.main]]
-  name = "Kategori"
-  pageRef = "/categories/"
-  weight = 30
