@@ -24,29 +24,28 @@ theme = "blowfish"
   showRelated = true          # <--- Pindah mrene ben logikane nyambung neng artikel!
   relatedLimit = 3
 
-# 2. LOGIKA UTAMA HOMEPAGE (LAYOUT CARD CEKATAN + RECENT POSTS RAME)
+# LOGIKA UTAMA HOMEPAGE (LAYOUT CARD CEKATAN + RECENT POSTS RAME)
 [params.homepage]
-  layout = "card"             # Tampilan kartu kothak-kothak modern cocok nggo lirik
-  showRecent = true
-  recentLimit = 12            # Langsung keki 12 list artikel neng ngarep ben ketok rame lan kebak
-  showRecentHeader = true
-  cardView = true
+layout = "card"
+showRecent = true
+recentLimit = 12
+showRecentHeader = true
+cardView = true
   
-  # Perbaikan Variabel Featured Blowfish sing asli:
-  showFeaturedItems = true    # <--- Jeneng variabel sing bener miturut dokumentasi!
-  featuredLimit = 5 
-  showFeaturedHeader = true
+# Perbaikan Variabel Featured Blowfish sing asli:
+showFeaturedItems = true
+featuredLimit = 5 
+showFeaturedHeader = true
 
+# LOGIKA MENU NAVIGASI
 [[menu.main]]
   name = "Home"
   pageRef = "/"
   weight = 10
-
 [[menu.main]]
   name = "Semua Lirik"
   pageRef = "/post/"
   weight = 20
-
 [[menu.main]]
   name = "Kategori"
   pageRef = "/categories/"
