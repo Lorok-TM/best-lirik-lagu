@@ -19,6 +19,9 @@ theme = "blowfish"
 [[related.indices]]
   name = 'tags'
   weight = 80
+[params]
+  showRelated = true
+  relatedLimit = 3
 
 [params.homepage]
   layout = "profile"
@@ -28,17 +31,9 @@ theme = "blowfish"
 
 [params.homepage]
   layout = "page"
-  showRecent = true
-  recentLimit = 5
-  showRecentHeader = true
-  
   showFeatured = true
   featuredLimit = 5 
   showFeaturedHeader = true
-
-[params]
-  showRelated = true
-  relatedLimit = 3
 
 [[menu.main]]
   name = "Home"
