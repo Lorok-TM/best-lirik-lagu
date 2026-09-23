@@ -10,27 +10,30 @@ theme = "blowfish"
   includeNewer = false
   threshold = 80
   toLower = true
-
 [[related.indices]]
   name = 'categories'
   weight = 100
-
 [[related.indices]]
   name = 'tags'
   weight = 80
   
 [params]
+  # Fitur umum Blowfish
 
 [params.article]
-  showRelated = true
+  showRelated = true          # <--- Pindah mrene ben logikane nyambung neng artikel!
   relatedLimit = 3
 
 [params.homepage]
-  layout = "card"
+  layout = "page"
   showRecent = true
-  recentLimit = 12
+  recentLimit = 5
   showRecentHeader = true
-  cardView = true
+  
+  # Perbaikan Variabel Featured Blowfish sing asli:
+  showFeaturedItems = true    # <--- Jeneng variabel sing bener miturut dokumentasi!
+  featuredLimit = 5 
+  showFeaturedHeader = true
 
 [[menu.main]]
   name = "Home"
