@@ -1,0 +1,18 @@
+baseURL = 'https://best-lirik-lagu.vercel.app'
+languageCode = 'id'
+title = 'Best Lirik Lagu'
+theme = "blowfish"
+
+[permalinks]
+  post = '/:slug/'
+
+[related]
+  includeNewer = false
+  threshold = 80
+  toLower = true
+[[related.indices]]
+  name = 'keywords'
+  weight = 100
+[[related.indices]]
+  name = 'tags'
+  weight = 80
