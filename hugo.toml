@@ -10,34 +10,32 @@ post = '/:slug/'
 includeNewer = false
 threshold = 80
 toLower = true
+
 [[related.indices]]
 name = 'categories'
 weight = 100
+
 [[related.indices]]
 name = 'tags'
 weight = 80
   
 [params]
-# Fitur umum Blowfish
 
 [params.article]
 showRelated = true
 relatedLimit = 3
 
-# LOGIKA UTAMA HOMEPAGE (LAYOUT CARD CEKATAN + RECENT POSTS RAME)
 [params.homepage]
 layout = "card"
 showRecent = true
 recentLimit = 12
 showRecentHeader = true
 cardView = true
-  
-# Perbaikan Variabel Featured Blowfish sing asli:
+
 showFeaturedItems = true
 featuredLimit = 5 
 showFeaturedHeader = true
 
-# LOGIKA MENU NAVIGASI
 [[menu.main]]
   name = "Home"
   pageRef = "/"
