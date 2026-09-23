@@ -1,4 +1,3 @@
-# config/_default/menus.toml
 [[main]]
   name = "Home"
   pageRef = "/"
