@@ -26,6 +26,9 @@ theme = "blowfish"
   showRecent = true
   recentLimit = 5
   showRecentHeader = true
+  showFeatured = true
+  featuredLimit = 5 
+  showFeaturedHeader = true
 
 [[menu.main]]
   name = "Home"
