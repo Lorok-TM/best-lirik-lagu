@@ -1,0 +1,13 @@
+# config/_default/params.toml
+mainSections = ["post"]
+
+[homepage]
+  layout = "card"
+  showRecent = true
+  showRecentItems = 12       # Variabel Blowfish asli: showRecentItems, dudu recentLimit
+  showRecentHeader = true
+  cardView = true
+
+[article]
+  showRelated = true
+  relatedLimit = 3
