@@ -24,7 +24,7 @@ theme = "blowfish"
   relatedLimit = 3
 
 [params.homepage]
-  layout = "profile"
+  layout = "page"
   showRecent = true
   recentLimit = 5
   showRecentHeader = true
