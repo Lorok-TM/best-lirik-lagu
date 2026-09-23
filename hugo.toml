@@ -6,30 +6,28 @@ theme = "blowfish"
 [permalinks]
   post = '/:slug/'
 
-# 1. LOGIKA UTAMA RELATED POSTS (MEKSA HUGO MUNG MACA CATEGORIES)
 [related]
   includeNewer = true
-  threshold = 10              # threshold didhunke pol ben gampang nyangkut
+  threshold = 10
   toLower = true
 [[related.indices]]
-  name = 'categories'         # Murni mung nggoleki kecocokan kategori (minang / sunda)
+  name = 'categories'
   weight = 100
 [[related.indices]]
-  name = 'date'               # Yen kategorine padha, diurutne adhedhasar tanggal sing cedhak
+  name = 'date'
   weight = 10
 
 [params]
-  # Fitur bawaan Blowfish
+  mainSections = ["post"]     # <--- Bagean penting sing nggugah Related & Card neng Home!
 
 [params.article]
-  showRelated = true          # Ngaktifake terkait neng ngisor artikel
+  showRelated = true
   relatedLimit = 3
 
-# 2. LOGIKA UTAMA HOMEPAGE (LAYOUT CARD CEKATAN + RECENT POSTS RAME)
 [params.homepage]
-  layout = "card"             # Tampilan kartu kothak-kothak modern cocok nggo lirik
+  layout = "card"
   showRecent = true
-  recentLimit = 12            # Langsung keki 12 list artikel neng ngarep ben ketok rame lan kebak
+  recentLimit = 12
   showRecentHeader = true
   cardView = true
 
