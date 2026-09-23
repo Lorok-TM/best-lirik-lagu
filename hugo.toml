@@ -17,7 +17,6 @@ theme = "blowfish"
   name = 'date'
   weight = 10
 
-# Perbaikan Variabel Undakan Blowfish siji file (Anti-Error Vercel)
 [params]
   mainSections = ["post"]
   article.showRelated = true
