@@ -25,6 +25,9 @@
 {{ define "main" }}
     {{ partial "article/article.html" . }}
 
+    {{/* KIYE KODE SING DISISIPKE */}}
+    {{ partial "article/components/navigation.html" . }}
+
     {{ if .Params.links }}
         {{ partial "article/components/links" . }}
     {{ end }}
