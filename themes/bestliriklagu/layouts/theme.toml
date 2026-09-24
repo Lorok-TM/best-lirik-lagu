@@ -1,6 +1,0 @@
-name = "bestliriklagu"
-description = "Best Theme"
-author = "Katrok"
-license = "MIT"
-homepage = "https://best-lirik-lagu.vercel.app/"
-hugo_version = "0.166.0"
