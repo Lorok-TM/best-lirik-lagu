@@ -7,7 +7,7 @@
             {{ $color := partial "helper/color-from-str" .LinkTitle }}
             {{ $BackgroundColor := default $color.BackgroundColor .Params.style.background }}
             {{ $TextColor := default $color.TextColor .Params.style.color }}
-            <a href="{{ .RelPermalink }}" style="background-color: {{ $BackgroundColor | safeCSS }}; color: {{ $TextColor | safeCSS }};">
+            <a href="{{ .RelPermalink }}">
                 {{ .LinkTitle }}
             </a>
         {{ end }}
