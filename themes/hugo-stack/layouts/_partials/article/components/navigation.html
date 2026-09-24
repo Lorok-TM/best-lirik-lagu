@@ -1,0 +1,23 @@
+<div class="article-navigation" style="display: flex; justify-content: space-between; gap: 1rem; margin-top: 2rem; border-top: 1px solid var(--card-border-color); padding-top: 1.5rem;">
+    
+    {{/* Tombol Artikel Sakdurunge (Prev) */}}
+    <div class="nav-prev" style="flex: 1; text-align: left;">
+        {{ with .PrevInSection }}
+        <a href="{{ .Permalink }}" style="display: flex; flex-direction: column; text-decoration: none; color: inherit;">
+            <span style="font-size: 0.8rem; opacity: 0.6; text-transform: uppercase;">← Post Sebelumnya</span>
+            <span style="font-weight: bold; font-size: 1rem; margin-top: 0.25rem; color: var(--card-text-color-main);">{{ .Title }}</span>
+        </a>
+        {{ end }}
+    </div>
+
+    {{/* Tombol Artikel Sakwuse (Next) */}}
+    <div class="nav-next" style="flex: 1; text-align: right;">
+        {{ with .NextInSection }}
+        <a href="{{ .Permalink }}" style="display: flex; flex-direction: column; align-items: flex-end; text-decoration: none; color: inherit;">
+            <span style="font-size: 0.8rem; opacity: 0.6; text-transform: uppercase;">Post Selanjutnya →</span>
+            <span style="font-weight: bold; font-size: 1rem; margin-top: 0.25rem; color: var(--card-text-color-main);">{{ .Title }}</span>
+        </a>
+        {{ end }}
+    </div>
+
+</div>
