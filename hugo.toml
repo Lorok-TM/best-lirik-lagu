@@ -44,3 +44,12 @@ theme = "hugo-stack"
   showFeatured = true
   featuredLimit = 5 
   showFeaturedHeader = true
+
+# =======================================================
+# SETELAN WAJIB SUPAYA SEARCH ORA 404 (OUTPUT FORMATS)
+# =======================================================
+
+[outputs]
+    home = ["HTML", "RSS", "JSON"]
+    page = ["HTML"]
+    section = ["HTML", "RSS"]
