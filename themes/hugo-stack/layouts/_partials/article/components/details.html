@@ -45,12 +45,14 @@
                     </time>
                 {{ end }}
 
-                {{/* if $showReadingTime */}}
-                    {{/* partial "helper/icon" "clock" */}}
+                {{/* 
+                {{ if $showReadingTime }}
+                    {{ partial "helper/icon" "clock" }}
                     <time class="article-time--reading">
                         {{ T "article.readingTime" $Page.ReadingTime }}
                     </time>
-                {{/* end */}}
+                {{ end }}
+                 */}}
             </div>
         {{ end }}
 
