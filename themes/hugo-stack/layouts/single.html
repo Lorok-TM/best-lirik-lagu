@@ -33,10 +33,12 @@
     {{ end }}
 
     {{ partial "article/components/related-content" . }}
-     
+    
+    {{/* AKU RA BUTUH KOWE LEK ............
     {{ if not (eq .Params.comments false) }}
         {{ partial "comments/include" . }}
     {{ end }}
+    ................................... */}}
 
     {{ partialCached "footer/footer" . }}
 
