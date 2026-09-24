@@ -24,16 +24,12 @@ theme = "hugo-stack"
 [[menu.main]]
     name = "Archive"
     pageRef = "/archives/"
-    weight = 30
-    [menu.main.params]
-        icon = "archive"
+    weight = 40
 
 [[menu.main]]
     name = "Search"
     pageRef = "/search/"
-    weight = 20
-    [menu.main.params]
-        icon = "search"
+    weight = 50
 
 [related]
   includeNewer = false
