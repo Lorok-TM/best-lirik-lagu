@@ -21,16 +21,6 @@ theme = "hugo-stack"
   pageRef = "/categories/"
   weight = 30
 
-[[menu.main]]
-    name = "Archive"
-    pageRef = "/archives/"
-    weight = 40
-
-[[menu.main]]
-    name = "Search"
-    pageRef = "/search/"
-    weight = 50
-
 [related]
   includeNewer = false
   threshold = 80
