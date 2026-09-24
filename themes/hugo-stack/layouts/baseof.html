@@ -60,6 +60,7 @@
             {{- end -}}
             {{- block "right-sidebar" . -}}{{ end }}
             <main class="main full-width">
+                {{ partial "breadcrumbs.html" . }}
                 {{- block "main" . }}{{- end }}
             </main>
         </div>
