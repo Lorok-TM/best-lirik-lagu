@@ -3,6 +3,57 @@
     <head>
         {{- partial "head/head.html" . -}}
         {{- block "head" . -}}{{ end }}
+
+<style>
+    
+    {{- if .IsPage -}}
+    .article-navigation {
+        display: flex;
+        justify-content: space-between;
+        gap: 1.5rem;
+        margin-top: 3rem;
+        padding-top: 2rem;
+        border-top: 1px solid var(--card-border-color);
+    }
+
+    .nav-prev, .nav-next {
+        flex: 1;
+    }
+
+    .nav-next {
+        text-align: right;
+    }
+
+    .article-navigation a {
+        display: flex;
+        flex-direction: column;
+        text-decoration: none;
+        color: inherit;
+        transition: transform 0.2s ease;
+    }
+
+    .article-navigation a:hover {
+        transform: translateY(-2px); /* Efek ngambang sithik pas di-hover */
+    }
+
+    .nav-subtitle {
+        font-size: 0.8rem;
+        opacity: 0.6;
+        text-transform: uppercase;
+        letter-spacing: 0.05em;
+    }
+
+    .nav-title {
+        font-weight: bold;
+        font-size: 1.1rem;
+        margin-top: 0.35rem;
+        color: var(--card-text-color-main);
+        line-height: 1.4;
+    }
+    {{- end -}}
+    
+</style>
+    
     </head>
     <body class="{{ block `body-class` . }}{{ end }}">
         {{- partial "head/colorScheme" . -}}
