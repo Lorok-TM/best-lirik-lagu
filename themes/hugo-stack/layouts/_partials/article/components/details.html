@@ -39,14 +39,14 @@
         {{ if $showTime }}
             <div class="inline-meta">
                 {{ if $showDate }}
-                    {{ partial "helper/icon" "date" }}
+                    {{/* partial "helper/icon" "date" */}}
                     <time class="article-time--published" datetime='{{ $Page.Date.Format "2006-01-02T15:04:05Z07:00" }}'>
                         {{- $Page.Date | time.Format $Page.Site.Params.dateFormat.published -}}
                     </time>
                 {{ end }}
 
                 {{ if $showReadingTime }}
-                    {{ partial "helper/icon" "clock" }}
+                    {{/* partial "helper/icon" "clock" */}}
                     <time class="article-time--reading">
                         {{ T "article.readingTime" $Page.ReadingTime }}
                     </time>
