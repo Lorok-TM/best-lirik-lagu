@@ -2,7 +2,7 @@
     {{ partial "article/components/header" (dict "Page" . "IsList" false) }}
 
     {{ if .Scratch.Get "TOCEnabled" }}
-    <aside class="article-toc">
+    <div class="article-toc">
         <details>
             <summary>
                 <div class="article-toc-title">
@@ -14,7 +14,7 @@
                 {{ partial "article/components/toc" . | safeHTML }}
             </nav>
         </details>
-    </aside>
+    </div>
     {{ end }}
 
     {{ partial "article/components/content" . }}

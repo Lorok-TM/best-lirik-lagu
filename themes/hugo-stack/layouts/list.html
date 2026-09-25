@@ -46,7 +46,7 @@
     {{- end -}}
 
     {{- with $subsections -}}
-        <aside>
+        <div>
             <h2 class="section-title">{{ T "list.subsection" (len $subsections) }}</h2>
             <div class="subsection-list">
                 <div class="article-list--tile">
@@ -55,17 +55,17 @@
                     {{ end }}
                 </div>
             </div>
-        </aside>
+        </div>
     {{- end -}}
     
     {{/* List only pages that are not a subsection */}}
     {{ $paginator := partial "helper/paginator.html" . }}
     {{ with $paginator }}
-        <section class="article-list--compact">
+        <div class="article-list--compact">
             {{ range .Pages }}
                 {{ partial "article-list/compact" . }}
             {{ end }}
-        </section>
+        </div>
     {{ end }}
 
     {{- partial "pagination.html" . -}}

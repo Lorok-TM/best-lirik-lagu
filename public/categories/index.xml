@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Categories on Best Lirik Lagu</title>
+        <link>http://localhost:1313/categories/</link>
+        <description>Recent content in Categories on Best Lirik Lagu</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>id</language>
+        <lastBuildDate>Mon, 12 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>Minang</title>
+            <link>http://localhost:1313/categories/minang/</link>
+            <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/categories/minang/</guid>
+            <description></description>
+        </item><item>
+            <title>Sunda</title>
+            <link>http://localhost:1313/categories/sunda/</link>
+            <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/categories/sunda/</guid>
+            <description></description>
+        </item><item>
+            <title>Indonesia</title>
+            <link>http://localhost:1313/categories/indonesia/</link>
+            <pubDate>Tue, 02 Sep 2025 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/categories/indonesia/</guid>
+            <description></description>
+        </item><item>
+            <title>Tarling</title>
+            <link>http://localhost:1313/categories/tarling/</link>
+            <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/categories/tarling/</guid>
+            <description></description>
+        </item><item>
+            <title>Balinese</title>
+            <link>http://localhost:1313/categories/balinese/</link>
+            <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/categories/balinese/</guid>
+            <description></description>
+        </item><item>
+            <title>Timur</title>
+            <link>http://localhost:1313/categories/timur/</link>
+            <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/categories/timur/</guid>
+            <description></description>
+        </item><item>
+            <title>Java</title>
+            <link>http://localhost:1313/categories/java/</link>
+            <pubDate>Thu, 05 Sep 2024 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/categories/java/</guid>
+            <description></description>
+        </item><item>
+            <title>Madura</title>
+            <link>http://localhost:1313/categories/madura/</link>
+            <pubDate>Fri, 02 Aug 2024 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/categories/madura/</guid>
+            <description></description>
+        </item></channel>
+</rss>
