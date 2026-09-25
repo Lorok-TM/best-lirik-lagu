@@ -72,7 +72,9 @@
             {{- if and (ge .PageNumber $start) (le .PageNumber $end) -}}
                 {{- $hideOnMobile := and (ne .PageNumber $curr) (ne .PageNumber (sub $curr 1)) (ne .PageNumber (add $curr 1)) -}}
                 <a class="page-link {{ if eq .PageNumber $curr }}current{{ end }} {{ if $hideOnMobile }}hide-on-mobile{{ end }}"
-                    {{- if eq .PageNumber $curr -}}aria-current="page"{{- end -}}
+                    {{ if eq .PageNumber $curr }}
+                    aria-current="page"
+                    {{ end }}
                     href="{{ .URL }}"
                     aria-label="Page {{ .PageNumber }}">
                     {{ .PageNumber }}
@@ -91,22 +93,26 @@
         {{- end -}}
 
         {{- /* Last page */ -}}
-        <a
-            class="page-link {{ if eq $curr $total }}current{{ end }}"
-            {{- if ne $curr $total -}}href="{{ $pag.Last.URL }}"{{- end -}}
+        <a class="page-link {{ if eq $curr $total }}current{{ end }}"
+            {{ if ne $curr $total }}
+            href="{{ $pag.Last.URL }}"
+            {{ end }}
             aria-label="Page {{ $total }}"
-            {{- if eq $curr $total -}}aria-current="page"{{- end -}}>
+            {{ if eq $curr $total }}
+            aria-current="page"
+            {{ end }}>
             {{ $total }}
         </a>
 
         {{- /* Next page button */ -}}
-        <a
-            class="page-link {{ if not $pag.Next }}disabled{{ end }}"
-            {{- if $pag.Next -}}
-                href="{{ $pag.Next.URL }}"
-                aria-label="Next page"
-            {{- end -}}
-            {{- if not $pag.Next -}}aria-disabled="true"{{- end -}}>
+        <a class="page-link {{ if not $pag.Next }}disabled{{ end }}"
+            {{ if $pag.Next }}
+            href="{{ $pag.Next.URL }}"
+            aria-label="Next page"
+            {{ end }}
+            {{ if not $pag.Next }}
+            aria-disabled="true"
+            {{ end }}>
             {{ partial "helper/icon" "chevron-right" }}
         </a>
     </nav>
