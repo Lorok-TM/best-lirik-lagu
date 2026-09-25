@@ -1,5 +1,7 @@
 {{ if .IsPage }}
 
+{{- $Page := .Page -}}
+
 <div class="article-details">
 {{ if $Page.Params.categories }}
 <div class="article-category">
