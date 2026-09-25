@@ -1,10 +1,8 @@
 {{- $ThemeVersion := "4.0.3" -}}
-<footer class="site-footer">
-    <section class="copyright">
-        &copy; 
-        {{ if and (.Site.Params.footer.since) (ne .Site.Params.footer.since (int (now.Format "2006"))) }}
-            {{ .Site.Params.footer.since }} - 
-        {{ end }}
-        {{ now.Format "2006" }} {{ default .Site.Title .Site.Copyright }}
-    </section>
+<footer class="site-footer" id="colophon" itemtype="https://schema.org/WPFooter" itemscope="itemscope" itemid="#colophon">
+<div class="footer container">
+<div class="copyright">
+&copy; {{ if and (.Site.Params.footer.since) (ne .Site.Params.footer.since (int (now.Format "2006"))) }}{{ .Site.Params.footer.since }} - {{ end }}{{ now.Format "2006" }} {{ default .Site.Title .Site.Copyright }}
+</div>
+</div>
 </footer>
