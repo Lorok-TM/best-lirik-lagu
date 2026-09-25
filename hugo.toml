@@ -21,6 +21,12 @@ theme = "hugo-stack"
   pageRef = "/categories/"
   weight = 30
 
+[[menu.main]]
+name = "Search"
+pageRef = "/search"
+weight = 40
+params = { icon = "search" }
+
 [related]
   includeNewer = false
   threshold = 80
