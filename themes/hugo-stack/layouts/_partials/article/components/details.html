@@ -14,11 +14,9 @@
 {{ end }}
 
 <div class="article-title-wrapper">
-  {{- if not .IsHome -}}
-    <h1 class="article-title">{{ $Page.Title }}</h1>
-  {{- else -}}
+
     <h2 class="article-title"><a href="{{ $Page.RelPermalink }}">{{ $Page.Title }}</a></h2>
-  {{- end -}} 
+
 
 {{/* ..............................
 {{ with $Page.Params.description }}
