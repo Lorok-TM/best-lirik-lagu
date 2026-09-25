@@ -14,8 +14,9 @@
 {{ end }}
 
 <div class="article-title-wrapper">
+
 {{/* Langsung cek properti IsPage dari variabel $Page */}}
-{{ if $Page.IsPage }}
+{{ if $Page.Title }}
 <h1 class="article-title">Lirik Lagu {{ $Page.Title }}</h1>
 {{ else }}
 <h2 class="article-title"><a href="{{ $Page.RelPermalink }}">Lirik Lagu {{ $Page.Title }}</a></h2>
