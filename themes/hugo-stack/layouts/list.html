@@ -1,4 +1,5 @@
 {{ define "main" }}
+{{- partial "breadcrumbs.html" . -}}
     <header>
         <h3 class="section-title">
             {{ if eq .Parent (.GetPage "/") }}

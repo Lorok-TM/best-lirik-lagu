@@ -2,6 +2,8 @@
 {{- $Page := .Page -}}
 
 <div class="article-details">
+
+{{- if $IsList -}}
 {{ if $Page.Params.categories }}
 <div class="article-category">
 {{ range ($Page.GetTerms "categories") }}
@@ -12,16 +14,40 @@
 {{ end }}
 </div>
 {{ end }}
+{{- end -}}
 
 <div class="article-title-wrapper">
 
 {{- if not $IsList -}}
-<h1 class="article-title">Lirik Lagu {{ $Page.Title }}</h1>
+    {{/* --- KONDISI SINGLE (DUDU LIST) --- */}}
+    
+    {{- if eq $Page.Section "post" -}}
+        {{/* 1. MURNI NGGO POST SINGLE */}}
+        <h1 class="article-title">Lirik Lagu {{ $Page.Title }}</h1>
+        
+    {{- else if eq $Page.Section "page" -}}
+        {{/* 2. MURNI NGGO PAGE SINGLE */}}
+        <h1 class="article-title">{{ $Page.Title }}</h1>
+        
+    {{- end -}}
+
 {{- else -}}
-<h2 class="article-title"><a href="{{ $Page.RelPermalink }}">Lirik Lagu {{ $Page.Title }}</a></h2>
+    {{/* --- 3. KONDISI LIST (HOMEPAGE / ARCHIVE / TAXONOMY) --- */}}
+    <h2 class="article-title">
+        <a href="{{ $Page.RelPermalink }}">Lirik Lagu {{ $Page.Title }}</a>
+    </h2>
+
 {{- end -}}
 
 </div>
+
+{{- if or $IsList (eq $Page.Section "post") -}}
+{{/* 
+      KODE NENG KENE BAKAL METU YEN:
+      1. Kahanane lagi wujud LOOP LIST 
+      utawa
+      2. Kahanane lagi neng njero SINGLE POSTINGAN (lirik lagu)
+*/}}
 
     {{ $showReadingTime := $Page.Params.readingTime | default ($Page.Site.Params.article.readingTime) }}
     {{ $showDate := not $Page.Date.IsZero }}
@@ -69,4 +95,7 @@
 {{ end }}
 </div>
 {{ end }}
+
+{{- end -}}
+
 </div>
