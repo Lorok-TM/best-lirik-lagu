@@ -8,22 +8,20 @@
         {{- end -}}
     {{- end -}}
 
-    <nav
-        class="pagination"
-        role="navigation"
-        aria-label="pagination"
-        data-total="{{ $pag.TotalPages }}"
-        data-first-url="{{ $pag.First.URL }}"
-        data-format-url="{{ $page2Url }}">
-        {{- /* Previous page button */ -}}
-        <a
-            class="page-link {{ if not $pag.Prev }}disabled{{ end }}"
-            {{- if $pag.Prev -}}
-                href="{{ $pag.Prev.URL }}"
-                aria-label="Previous page"
-            {{- end -}}
-            {{- if not $pag.Prev -}}aria-disabled="true"{{- end -}}>
-            {{ partial "helper/icon" "chevron-left" }}
+<nav class="pagination" role="navigation"
+    data-total="{{ $pag.TotalPages }}"
+    data-first-url="{{ $pag.First.URL }}"
+    data-format-url="{{ $page2Url }}">
+    {{- /* Previous page button */ -}}
+    <a class="page-link {{ if not $pag.Prev }}disabled{{ end }}"
+        {{ if $pag.Prev }}
+        href="{{ $pag.Prev.URL }}"
+        aria-label="Previous page"
+        {{ end }}
+        {{ if not $pag.Prev }}
+        aria-disabled="true"
+        {{ end }}>
+        {{ partial "helper/icon" "chevron-left" }}
         </a>
 
         {{- /* Page numbers logic */ -}}
@@ -49,8 +47,7 @@
         {{- end -}}
 
         {{- /* First page */ -}}
-        <a
-            class="page-link {{ if eq $curr 1 }}current{{ end }}"
+        <a class="page-link {{ if eq $curr 1 }}current{{ end }}"
             aria-label="Page 1"
             {{- if eq $curr 1 -}}aria-current="page"{{- end -}}
             {{- if ne $curr 1 -}}href="{{ $pag.First.URL }}"{{- end -}}>
@@ -71,8 +68,7 @@
         {{- range $pag.Pagers -}}
             {{- if and (ge .PageNumber $start) (le .PageNumber $end) -}}
                 {{- $hideOnMobile := and (ne .PageNumber $curr) (ne .PageNumber (sub $curr 1)) (ne .PageNumber (add $curr 1)) -}}
-                <a
-                    class="page-link {{ if eq .PageNumber $curr }}current{{ end }} {{ if $hideOnMobile }}hide-on-mobile{{ end }}"
+                <a class="page-link {{ if eq .PageNumber $curr }}current{{ end }} {{ if $hideOnMobile }}hide-on-mobile{{ end }}"
                     {{- if eq .PageNumber $curr -}}aria-current="page"{{- end -}}
                     href="{{ .URL }}"
                     aria-label="Page {{ .PageNumber }}">
