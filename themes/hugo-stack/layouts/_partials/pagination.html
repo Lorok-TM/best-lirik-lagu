@@ -49,8 +49,12 @@
         {{- /* First page */ -}}
         <a class="page-link {{ if eq $curr 1 }}current{{ end }}"
             aria-label="Page 1"
-            {{- if eq $curr 1 -}}aria-current="page"{{- end -}}
-            {{- if ne $curr 1 -}}href="{{ $pag.First.URL }}"{{- end -}}>
+            {{ if eq $curr 1 }}
+            aria-current="page"
+            {{ end }}
+            {{ if ne $curr 1 }}
+            href="{{ $pag.First.URL }}"
+            {{ end }}>
             1
         </a>
 
