@@ -1,34 +1,3 @@
-{{ if .IsPage }}
-
-{{- $Page := .Page -}}
-
-<div class="article-details">
-<div class="article-title-wrapper"> 
-<h1 class="article-title">Lirik Lagu {{ $Page.Title }}</h1>
-</div>
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-{{ else }}
-
 {{- $IsList := .IsList -}}
 {{- $Page := .Page -}}
 
@@ -102,7 +71,3 @@
 </div>
 {{ end }}
 </div>
-
-
-
-{{ end }}
