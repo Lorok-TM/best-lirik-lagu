@@ -1,16 +1,16 @@
 {{ define "main" }}
-    {{- $paginator := partial "helper/paginator.html" . -}}
+{{- $paginator := partial "helper/paginator.html" . -}}
 
-    <section class="article-list">
-        {{ range $index, $element := $paginator.Pages }}
-            {{ partial "article-list/default" . }}
-        {{ end }}
-    </section>
+<div class="article-list">
+{{ range $index, $element := $paginator.Pages }}
+{{ partial "article-list/default" . }}
+{{ end }}
+</div>
 
-    {{- partial "pagination.html" . -}}
-    {{- partial "footer/footer" . -}}
+{{- partial "pagination.html" . -}}
+{{- partial "footer/footer" . -}}
 {{ end }}
 
 {{ define "right-sidebar" }}
-    {{ partial "sidebar/right.html" (dict "Context" . "Scope" "homepage") }}
+{{ partial "sidebar/right.html" (dict "Context" . "Scope" "homepage") }}
 {{ end }}
