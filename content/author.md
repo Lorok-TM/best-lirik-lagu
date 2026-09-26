@@ -1,11 +1,8 @@
 ---
-title: Contact
-description: Contact Best Lirik Lagu
+title: Author
+description: Author @bestliriklagu.
 date: 2026-09-25
 lastmod: 2026-09-24
-menu:
- main:
-  weight: 30
 ---
 
 Name : Katrok  

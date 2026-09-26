@@ -7,25 +7,25 @@ theme = "hugo-stack"
   post = '/:slug/'
 
 [[menu.main]]
+name = "Search"
+pageRef = "/page/search"
+weight = 10
+params = { icon = "search" }
+
+[[menu.main]]
   name = "Home"
   pageRef = "/"
-  weight = 10
+  weight = 20
 
 [[menu.main]]
   name = "Posts"
   pageRef = "/post/"
-  weight = 20
+  weight = 90
 
 [[menu.main]]
   name = "Category"
   pageRef = "/categories/"
-  weight = 30
-
-[[menu.main]]
-name = "Search"
-pageRef = "/page/search"
-weight = 50
-params = { icon = "search" }
+  weight = 90
 
 [related]
   includeNewer = false
