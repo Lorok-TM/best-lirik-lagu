@@ -23,8 +23,8 @@ theme = "hugo-stack"
 
 [[menu.main]]
 name = "Search"
-pageRef = "page/search"
-weight = 40
+pageRef = "/page/search"
+weight = 50
 params = { icon = "search" }
 
 [related]
