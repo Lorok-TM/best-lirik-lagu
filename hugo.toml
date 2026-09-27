@@ -64,8 +64,3 @@ theme = "hugo-stack"
     page = ["HTML"]
     section = ["HTML", "RSS"]
 
-[minify]
-  minifyOutput = true
-  disableCSS = false
-  disableJS = false
-  disableHTML = true
