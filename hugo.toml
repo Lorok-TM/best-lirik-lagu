@@ -63,4 +63,3 @@ theme = "hugo-stack"
     home = ["HTML", "RSS", "JSON"]
     page = ["HTML"]
     section = ["HTML", "RSS"]
-
