@@ -1,5 +1,4 @@
 {{- define "main_wrapper" -}}
-
 <!DOCTYPE html><html lang="{{ .Site.Language.Locale }}" dir="{{ default `ltr` .Language.Direction }}"><head>
 {{- partial "head/head.html" . -}}
 {{- block "head" . -}}{{- end -}}
@@ -314,17 +313,5 @@ if ('serviceWorker' in navigator) { window.addEventListener('load', function() {
 {{- partial "footer/include.html" . -}}
 </body>
 </html>
-
 {{- end -}}
-
-{{- /* 1. Render kabeh HTML dadi string */ -}}
-{{- \$mentahan := string (renderString . (block "main_wrapper" . "" )) -}}
-
-{{- /* 2. JURUS SAPU JAGAD COET: Mbusak slas (/>) dadi (>) */ -}}
-{{- tanpaSlas := mentahan | replaceRE `\s*/>` ">" -}}
-
-{{- /* 3. JURUS KERA SAKTI: Mbusak enter (\n, \r) lan spasi benggangan */ -}}
-{{- rapetPet := tanpaSlas | replaceRE `[\r\n\t]+` "" | replaceRE `\s{2,}` " " -}}
-
-{{- /* 4. Sajike menyang browser kanthi aman */ -}}
-{{- \$rapetPet | safeHTML -}}
+{{- string (renderString . (block "main_wrapper" . "" )) | replaceRE `\s*/>` ">" | safeHTML -}}
