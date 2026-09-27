@@ -7,25 +7,29 @@ theme = "hugo-stack"
   post = '/:slug/'
 
 [[menu.main]]
-name = "Search"
-pageRef = "/page/search"
-weight = 10
-params = { icon = "search" }
-
-[[menu.main]]
   name = "Home"
   pageRef = "/"
+  weight = 10
+
+[[menu.main]]
+  name = "Author"
+  pageRef = "/author/"
+  weight = 20
+
+[[menu.main]]
+  name = "Pages"
+  pageRef = "/page/"
   weight = 20
 
 [[menu.main]]
   name = "Posts"
   pageRef = "/post/"
-  weight = 90
+  weight = 20
 
 [[menu.main]]
   name = "Category"
   pageRef = "/categories/"
-  weight = 90
+  weight = 20
 
 [related]
   includeNewer = false
@@ -59,3 +63,9 @@ params = { icon = "search" }
     home = ["HTML", "RSS", "JSON"]
     page = ["HTML"]
     section = ["HTML", "RSS"]
+
+[minify]
+  minifyOutput = true
+  disableCSS = false
+  disableJS = false
+  disableHTML = false

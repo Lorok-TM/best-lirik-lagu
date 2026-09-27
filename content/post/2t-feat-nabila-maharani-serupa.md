@@ -1,7 +1,6 @@
 ---
 title: "2T feat. Nabila Maharani - Serupa"
 date: 2025-09-02
-featured: true
 categories: 
   - "indonesia"
 ---

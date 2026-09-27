@@ -1,18 +1,18 @@
-<div class="article-navigation">
-<div class="nav-prev">
-        {{ with .PrevInSection }}
-        <a href="{{ .Permalink }}">
-            <span>Prev «</span>
-            <span>Lirik Lagu {{ .Title }}</span>
+<nav class="navigation post-navigation" aria-label="Posts">
+<div class="nav-links">
+<div class="nav-previous">
+        {{- with .PrevInSection -}}
+        <a href="{{ .Permalink }}" rel="prev">
+            <span aria-hidden="true">Prev «</span><span>Lirik Lagu {{ .Title }}</span>
         </a>
-        {{ end }}
-    </div>
-    <div class="nav-next">
-        {{ with .NextInSection }}
-        <a href="{{ .Permalink }}">
-            <span>» Next</span>
-            <span>Lirik Lagu {{ .Title }}</span>
-        </a>
-        {{ end }}
-    </div>
+        {{- end -}}
 </div>
+<div class="nav-next">
+        {{- with .NextInSection -}}
+        <a href="{{ .Permalink }}" rel="next">
+            <span aria-hidden="true">» Next</span><span>Lirik Lagu {{ .Title }}</span>
+        </a>
+        {{- end -}}
+</div>
+</div>
+</nav>

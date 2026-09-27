@@ -1,18 +1,21 @@
 {{ define "main" }}
 {{- partial "breadcrumbs.html" . -}}
-    <header>
-        <h3 class="section-title">
+<div class="ast-row">
+<header class="page-header">
+<h2 class="page-title">{{ .Title }}</h2>
+<span class="count">{{ T "list.page" (len .Pages) }}</span>
+
+{{/* <h3 class="section-title">
             {{ if eq .Parent (.GetPage "/") }}
                 {{ T "list.section" }}
             {{ else }}
                 {{ .Parent.Title }}
             {{ end }}
         </h3>
-
         <div class="section-card">
             <div class="section-details">
                 <h3 class="section-count">{{ T "list.page" (len .Pages) }}</h3>
-                <h1 class="section-term">{{ .Title }}</h1>
+               
                 {{ with .Params.description }}
                     <h2 class="section-description">{{ . }}</h2>
                 {{ end }}
@@ -36,7 +39,7 @@
                     ) }}
                 </div>
             {{ end }}
-        </div>
+        </div> */}}
     </header>
 
     {{- $pages := partial "helper/pages.html" . -}}
@@ -62,15 +65,16 @@
     {{/* List only pages that are not a subsection */}}
     {{ $paginator := partial "helper/paginator.html" . }}
     {{ with $paginator }}
-        <div class="article-list--compact">
+        <ul>
             {{ range .Pages }}
                 {{ partial "article-list/compact" . }}
             {{ end }}
-        </div>
+        </ul>
     {{ end }}
 
+</div>
+
     {{- partial "pagination.html" . -}}
-    {{ partialCached "footer/footer" . }}
 {{ end }}
 
 {{ define "right-sidebar" }}

@@ -1,13 +1,11 @@
 {{ $related := (.Site.RegularPages.Related .) | first 5 }}
 {{ with $related }}
-<aside>
-    <h2 class="section-title">{{ T "article.relatedContent" }}</h2>
-    <div class="subsection-list">
-        <div class="article-list--tile">
+<aside class="related-post">
+<h2 class="title">Related Songs</h2>
+<ul>
             {{ range . }}
                 {{ partial "article-list/tile" . }}
             {{ end }}
-        </div>
-    </div>
+</ul>
 </aside>
 {{ end }}

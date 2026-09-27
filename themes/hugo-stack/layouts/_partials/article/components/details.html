@@ -1,11 +1,10 @@
 {{- $IsList := .IsList -}}
 {{- $Page := .Page -}}
 
-<div class="article-details">
 
 {{- if $IsList -}}
 {{ if $Page.Params.categories }}
-<div class="article-category">
+<div class="category">
 {{ range ($Page.GetTerms "categories") }}
 {{ $color := partial "helper/color-from-str" .LinkTitle }}
 {{ $BackgroundColor := default $color.BackgroundColor .Params.style.background }}
@@ -16,30 +15,25 @@
 {{ end }}
 {{- end -}}
 
-<div class="article-title-wrapper">
-
 {{- if not $IsList -}}
     {{/* --- KONDISI SINGLE (DUDU LIST) --- */}}
     
     {{- if eq $Page.Section "post" -}}
         {{/* 1. MURNI NGGO POST SINGLE */}}
-        <h1 class="article-title">Lirik Lagu {{ $Page.Title }}</h1>
+        <h1 class="entry-title" itemprop="headline">Lirik Lagu {{ $Page.Title }}</h1>
         
     {{- else if eq $Page.Section "page" -}}
         {{/* 2. MURNI NGGO PAGE SINGLE */}}
-        <h1 class="article-title">{{ $Page.Title }}</h1>
+        <h1 class="entry-title" itemprop="headline">{{ $Page.Title }}</h1>
         
     {{- end -}}
 
 {{- else -}}
     {{/* --- 3. KONDISI LIST (HOMEPAGE / ARCHIVE / TAXONOMY) --- */}}
-    <h2 class="article-title">
-        <a href="{{ $Page.RelPermalink }}">Lirik Lagu {{ $Page.Title }}</a>
-    </h2>
+    <h2 class="entry-title" itemprop="headline"><a href="{{ $Page.RelPermalink }}" rel="bookmark">Lirik Lagu {{ $Page.Title }}</a></h2>
 
 {{- end -}}
 
-</div>
 
 {{- if or $IsList (eq $Page.Section "post") -}}
 {{/* 
@@ -56,12 +50,11 @@
     {{ $showTags := and $Page.Site.Params.Article.List.ShowTags ($Page.GetTerms "tags") $IsList }}
     
 {{ if or $showTime $showTranslations $showTags }}
-<div class="article-meta">
-{{ if $showTime }}
-<div class="inline-meta">
+<div class="entry-meta">
+By <span class="posted-by vcard author" itemtype="https://schema.org/Person" itemscope="itemscope" itemprop="author"><a href="/author/katrok/" rel="author" class="url fn n" itemprop="url"><span class="author-name" itemprop="name">Katrok</span></a></span> / {{ if $showTime }}<span class="posted-on">
 {{ if $showDate }}
 {{/* partial "helper/icon" "date" */}}
-<time class="article-time--published" datetime='{{ $Page.Date.Format "2006-01-02T15:04:05Z07:00" }}'>
+<time class="published" itemprop="datePublished" datetime='{{ $Page.Date.Format "2006-01-02T15:04:05Z07:00" }}'>
 {{- $Page.Date | time.Format $Page.Site.Params.dateFormat.published -}}
 </time>
 {{ end }}
@@ -73,7 +66,7 @@
                     </time>
                 {{ end }}
                  */}}
-</div>
+</span>
 {{ end }}
 
 {{ if $showTranslations }}
@@ -97,5 +90,3 @@
 {{ end }}
 
 {{- end -}}
-
-</div>

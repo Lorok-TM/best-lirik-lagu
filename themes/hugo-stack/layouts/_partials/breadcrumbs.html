@@ -2,8 +2,7 @@
 <ul>
     {{/* 1. KABEH ALUR PASTI DUWE: HOME (POSITION 1) */}}
     <li itemprop='itemListElement' itemscope='itemscope' itemtype='https://schema.org/ListItem'>
-      <a itemprop="item" href="{{ site.BaseURL }}"><span itemprop="name">Home</span></a>
-      <meta itemprop='position' content='1'>
+      <a itemprop="item" href="{{ site.BaseURL }}"><span itemprop="name">Home</span></a><meta itemprop='position' content='1'>
     </li>
 
     {{/* --- LOGIKA NYARING ALUR FOLDER --- */}}
@@ -15,14 +14,12 @@
             {{- $categoryPage := site.GetPage (printf "categories/%s" (. | urlize)) -}}
             {{- if $categoryPage -}}
               <li itemprop='itemListElement' itemscope='itemscope' itemtype='https://schema.org/ListItem'>
-                <a itemprop="item" href="{{ $categoryPage.Permalink }}"><span itemprop="name">{{ $categoryPage.Title }}</span></a>
-                <meta itemprop="position" content="2">
+                <a itemprop="item" href="{{ $categoryPage.Permalink }}"><span itemprop="name">{{ $categoryPage.Title }}</span></a><meta itemprop="position" content="2">
               </li>
             {{- else -}}
               <li itemprop='itemListElement' itemscope='itemscope' itemtype='https://schema.org/ListItem'>
                 <link itemprop="item" href="{{ site.BaseURL }}categories/{{ . | urlize }}/">
-                <span itemprop="name">{{ . }}</span>
-                <meta itemprop="position" content="2">
+                <span itemprop="name">{{ . }}</span><meta itemprop="position" content="2">
               </li>
             {{- end -}}
           {{- end -}}
@@ -32,8 +29,7 @@
         {{/* ===== B. KUSUS SINGLE PAGE (About, Contact) (POSITION 2) Hasil murni: Home > About ===== */}}
         <li itemprop='itemListElement' itemscope='itemscope' itemtype='https://schema.org/ListItem'>
           <link itemprop="item" href="{{ .Permalink }}">
-          <span itemprop="name">{{ .Title }}</span>
-          <meta itemprop="position" content="2">
+          <span itemprop="name">{{ .Title }}</span><meta itemprop="position" content="2">
         </li>
 
       {{- end -}}
@@ -43,8 +39,7 @@
       {{- if ne .IsHome true -}}
         <li itemprop='itemListElement' itemscope='itemscope' itemtype='https://schema.org/ListItem'>
           <link itemprop="item" href="{{ .Permalink }}">
-          <span itemprop="name">{{ .Title }}</span>
-          <meta itemprop="position" content="2">
+          <span itemprop="name">{{ .Title }}</span><meta itemprop="position" content="2">
         </li>
       {{- end -}}
 

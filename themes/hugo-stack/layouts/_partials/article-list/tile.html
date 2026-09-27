@@ -1,5 +1,7 @@
 {{ $image := partial "helper/image" (dict "Image" .Params.image "Resources" .Resources "Context" .) }}
-<article class="{{ if $image }}has-image{{ end }}">
+<li><a href="{{ .RelPermalink }}">Lirik Lagu {{ .Title }}</a></li>
+
+{{/* <article class="{{ if $image }}has-image{{ end }}">
     <a href="{{ .RelPermalink }}">
         {{ if $image }}
         <div class="article-image">
@@ -33,3 +35,4 @@
         </div>
     </a>
 </article>
+*/}}

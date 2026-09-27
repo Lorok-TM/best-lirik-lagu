@@ -6,14 +6,9 @@
 {{ end }}
 {{ define "main" }}
 <form action="{{ .RelPermalink }}" class="search-form"{{ with .OutputFormats.Get "json" -}} data-json="{{ .RelPermalink }}"{{- end }}>
-    <p>
-        <label>{{ T "search.title" }}</label>
-        <input name="keyword" placeholder="{{ T `search.placeholder` }}" />
-    </p>
-
-    <button title="{{ T `search.title` }}">
-        {{ partial "helper/icon" "search" }}
-    </button>
+<label for="search-input-field" class="visually-hidden">{{ T "search.title" }}</label>
+<input id="search-input-field" name="keyword" placeholder="{{ T `search.placeholder` }}" />
+<button title="{{ T `search.title` }}">{{ T "search.title" }}</button>
 </form>
 
 <div class="search-result hidden">
@@ -28,6 +23,4 @@
 {{- $opts := dict "minify" hugo.IsProduction "JSXFactory" "createElement" -}}
 {{- $searchScript := resources.Get "ts/search.tsx" | js.Build $opts -}}
 <script type="text/javascript" src="{{ $searchScript.RelPermalink }}" defer></script>
-
-{{ partialCached "footer/footer" . }}
 {{ end }}

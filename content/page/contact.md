@@ -1,11 +1,7 @@
 ---
 title: Contact
-description: Contact Best Lirik Lagu
-date: 2026-09-25
-lastmod: 2026-09-24
-menu:
- main:
-  weight: 30
+description: Kontak Best Lirik Lagu.
+slug: "contact"
 ---
 
 Name : Katrok  

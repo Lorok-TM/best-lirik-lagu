@@ -1,7 +1,17 @@
-<article>
-    <a href="{{ .RelPermalink }}">
-        <div class="article-details">
-            <h2 class="article-title">Lirik Lagu {{ .Title }}</h2>
+<li>
+<h3 class="entry-title"><a href="{{ .RelPermalink }}">
+
+{{- if and (eq .Type "author") -}}
+{{ .Title }}
+{{- else if and (eq .Type "page") -}}
+{{ .Title }}
+{{- else if and (eq .Type "categories") -}}
+{{ .Title }}
+{{- else -}}
+Lirik Lagu {{ .Title }}
+{{- end -}}
+
+</a></h3>
             
             {{- $description := .Params.description -}}
             {{- $IsTerm := in .Kind "term" -}}
@@ -13,17 +23,16 @@
                     If it's a term, the date is extracted from the first page of the collection, which is not very useful.
                     In that case, we prefer to display the description (if set), or the number of pages within the collection.
                 */}}
-                <div class="article-meta">
+                
                     {{- if or $IsTerm .Date.IsZero -}}
-                        <span class="article-description">{{- $description -}}</span>
+                        <span class="description">{{- $description -}}</span>
                     {{- else if not .Date.IsZero -}}
-                        <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
+                        <span class="meta"><time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
                             {{- .Date | time.Format .Site.Params.dateFormat.published -}}
-                        </time>
+                        </time></span>
                     {{- end }}
-                </div>
             {{- end -}}
-        </div>
+
 
         {{- $image := partial "helper/image" (dict "Image" .Params.image "Resources" .Resources "Context" .) -}}
         {{ if $image }}
@@ -43,5 +52,5 @@
             ) }}
         </div>
         {{ end }}
-    </a>
-</article>
+
+</li>

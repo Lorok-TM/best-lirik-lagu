@@ -1,7 +1,6 @@
 ---
 title: "2 Minggu - Glenn Samuel"
 date: 2025-03-16
-featured: true
 categories: 
   - "indonesia"
 ---
