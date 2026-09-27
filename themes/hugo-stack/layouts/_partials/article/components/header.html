@@ -1,10 +1,9 @@
 {{- $IsList := .IsList -}}
 {{- $Page := .Page -}}
 <header class="entry-header">
-    {{- $image := partial "helper/image" (dict "Image" $Page.Params.image "Resources" $Page.Resources "Context" $Page) -}}
-    {{ if $image }}
-    <div class="article-image">
-        <a href="{{ $Page.RelPermalink }}">
+{{- $image := partial "helper/image" (dict "Image" $Page.Params.image "Resources" $Page.Resources "Context" $Page) -}}
+{{- if $image -}}
+<div class="article-image"><a href="{{ $Page.RelPermalink }}">
             {{ partial "helper/responsive-image" (dict
                 "Resource" $image.Resource
                 "Widths" (cond $Page.Site.Params.ImageProcessing.Content.Enabled $Page.Site.Params.ImageProcessing.Content.Widths nil)
@@ -18,8 +17,7 @@
                 )
             ) }}
         </a>
-    </div>
-    {{ end }}
-
-    {{ partial "article/components/details" (dict "Page" $Page "IsList" $IsList) }}
+</div>
+{{- end -}}
+{{- partial "article/components/details" (dict "Page" $Page "IsList" $IsList) -}}
 </header>

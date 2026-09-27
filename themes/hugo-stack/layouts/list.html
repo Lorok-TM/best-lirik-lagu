@@ -1,11 +1,8 @@
-{{ define "main" }}
+{{- define "main" -}}
 {{- partial "breadcrumbs.html" . -}}
-<div class="ast-row">
-<header class="page-header">
-<h2 class="page-title">{{ .Title }}</h2>
-<span class="count">{{ T "list.page" (len .Pages) }}</span>
+<div class="ast-row"><header class="page-header"><h2 class="page-title">{{ .Title }}</h2><span class="count">{{ T "list.page" (len .Pages) }}</span>
 
-{{/* <h3 class="section-title">
+{{- /* <h3 class="section-title">
             {{ if eq .Parent (.GetPage "/") }}
                 {{ T "list.section" }}
             {{ else }}
@@ -39,8 +36,9 @@
                     ) }}
                 </div>
             {{ end }}
-        </div> */}}
-    </header>
+        </div> 
+*/ -}}
+</header>
 
     {{- $pages := partial "helper/pages.html" . -}}
     {{- $subsections := .Sections -}}
@@ -62,21 +60,20 @@
         </div>
     {{- end -}}
     
-    {{/* List only pages that are not a subsection */}}
-    {{ $paginator := partial "helper/paginator.html" . }}
-    {{ with $paginator }}
-        <ul>
-            {{ range .Pages }}
-                {{ partial "article-list/compact" . }}
-            {{ end }}
-        </ul>
-    {{ end }}
-
+{{- /* List only pages that are not a subsection */ -}}
+{{- $paginator := partial "helper/paginator.html" . -}}
+{{- with $paginator -}}
+<ul>
+{{- range .Pages -}}
+{{- partial "article-list/compact" . -}}
+{{- end -}}
+</ul>
+{{- end -}}
 </div>
 
-    {{- partial "pagination.html" . -}}
-{{ end }}
+{{- partial "pagination.html" . -}}
+{{- end -}}
 
-{{ define "right-sidebar" }}
-    {{ partial "sidebar/right.html" (dict "Context" . "Scope" "homepage") }}
-{{ end }}
+{{- define "right-sidebar" -}}
+{{- partial "sidebar/right.html" (dict "Context" . "Scope" "homepage") -}}
+{{- end -}}

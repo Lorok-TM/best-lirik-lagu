@@ -63,12 +63,3 @@ theme = "hugo-stack"
     home = ["HTML", "RSS", "JSON"]
     page = ["HTML"]
     section = ["HTML", "RSS"]
-
-[minify]
-  disableHTML = false
-  minifyOutput = true
-
-[minify.tdewolff.html]
-  keepEndTags = true
-  keepWhitespace = false
-  keepQuotes = true
