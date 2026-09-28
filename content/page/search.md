@@ -1,6 +1,6 @@
 ---
 title: "Search"
-description: Pencarian Best Lirik Lagu.
+description: Search Best Lirik Lagu. Anda bisa mencari lirik lagu terlengkap dan terbaru melalui halaman pencarian disini.
 slug: "search"
 layout: "search"
 outputs:

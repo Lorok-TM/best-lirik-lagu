@@ -1,13 +1,26 @@
 <meta charset='utf-8'><meta name='viewport' content='width=device-width, initial-scale=1'>
 
+{{- $title := partial "data/title" . -}}
+<title>
+{{- if .IsHome -}}
+{{ .Site.Title }} - Gudang Lyrics Terlengkap dan Terbaru
+{{- else if and .IsPage (strings.HasSuffix .RelPermalink "/author/katrok/") -}}
+Author Name: {{ $title }} - {{ .Site.Title }}
+{{- else if and .IsPage (ne .Section "page") -}}
+Lirik Lagu {{ $title }}
+{{- else if and .IsPage (eq .Section "page") -}}
+Page {{ $title }} - {{ .Site.Title }}
+{{- else -}}
+List {{ $title }} - {{ .Site.Title }}
+{{- end -}}
+</title>
+
 {{- $description := partialCached "data/description" . .RelPermalink -}}
-<meta name='description' {{ printf "content=%q" $description | safeHTMLAttr }}>
+<meta name="description" {{ printf "content=\"%s\"" ($description | plainify | replaceRE "\n" " " | replaceRE "\r" " " | truncate 155 "...") | safeHTMLAttr }}>
+{{- /* <meta name='description' {{ printf "content=%q" $description | safeHTMLAttr }}> */ -}}
 {{- with .Params.Keywords -}}
 <meta name="keywords" content="{{ delimit . ", " }}">
 {{- end -}}
-
-{{- $title := partial "data/title" . -}}
-<title>{{ $title }}</title>
 
 {{- with .Params.canonicalUrl -}}
 <link rel="canonical" href="{{ . }}">

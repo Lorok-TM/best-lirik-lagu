@@ -1,7 +1,6 @@
 baseURL = "https://best-lirik-lagu.vercel.app"
 locale = "id"
 title = "Best Lirik Lagu"
-description = "Kumpulan lirik lagu terbaru dan terbaik para penyanyi dan musisi dari Daerah Sabang sampai Merauke Indonesia hingga Manca Negara."
 theme = "hugo-stack"
 disableHugoGeneratorInject = true
 
@@ -45,6 +44,8 @@ disableHugoGeneratorInject = true
   weight = 80
   
 [params]
+  description = "Kumpulan lirik lagu terbaru dan terbaik para penyanyi dan musisi dari Daerah Sabang sampai Merauke Indonesia hingga Manca Negara."
+  author = "Katrok"
   showRelated = true
   relatedLimit = 3
   
@@ -62,6 +63,11 @@ disableHugoGeneratorInject = true
 # =======================================================
 
 [outputs]
-    home = ["HTML", "RSS"]
+    home = ["HTML", "RSS", "NewsSitemap"]
     page = ["HTML"]
     section = ["HTML", "RSS"]
+
+[outputFormats.NewsSitemap]
+  mediaType = "application/xml"
+  baseName = "sitemap-news"
+  isHTML = false

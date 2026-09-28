@@ -1,6 +1,6 @@
 ---
 title: About
-description: Tentang Best Lirik Lagu.
+description: Best Lirik Lagu adalah situs lirik lagu terlengkap yang menghadirkan keindahan bahasa dari Sabang sampai Merauke.
 slug: "about"
 ---
 

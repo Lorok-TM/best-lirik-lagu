@@ -1,7 +1,35 @@
 {{- $title := partialCached "data/title" . .RelPermalink -}}
 {{- $description := partialCached "data/description" . .RelPermalink -}}
 
-<meta property='og:title' {{ printf "content=%q" $title | safeHTMLAttr }}><meta property='og:description' {{ printf "content=%q" $description | safeHTMLAttr }}><meta property='og:url' content='{{ .Permalink }}'><meta property='og:site_name' content='{{ .Site.Title }}'><meta property='og:type' content='
+{{- if .IsHome -}}
+<meta property="og:title" {{ printf "content=\"%s - Gudang Lyrics Terlengkap dan Terbaru\"" $title | safeHTMLAttr }}>
+{{- else if and .IsPage (strings.HasSuffix .RelPermalink "/author/katrok/") -}}
+<meta property="og:title" {{ printf "content=\"Author Name: %s - %s\"" $title .Site.Title | safeHTMLAttr }}>
+{{- else if and .IsPage (ne .Section "page") -}}
+<meta property="og:title" {{ printf "content=\"Lirik Lagu %s\"" ($title | plainify | replaceRE "\n" " " | replaceRE "\r" " ") | safeHTMLAttr }}>
+{{- else if eq .Kind "taxonomy" -}}
+<meta property="og:title" {{ printf "content=\"List %s - %s\"" $title .Site.Title | safeHTMLAttr }}>
+{{- else if eq .Kind "term" -}}
+<meta property="og:title" {{ printf "content=\"Kumpulan Lirik Lagu %s - %s\"" $title .Site.Title | safeHTMLAttr }}>
+{{- else if not .Page.IsPage -}}
+<meta property="og:title" {{ printf "content=\"List %s - %s\"" $title .Site.Title | safeHTMLAttr }}>
+{{- else if .Page.IsPage -}}
+<meta property="og:title" {{ printf "content=\"%s - %s\"" $title .Site.Title | safeHTMLAttr }}>
+{{- else if eq .Kind "section" -}}
+<meta property="og:title" {{ printf "content=\"Arsip Artikel %s - %s\"" $title .Site.Title | safeHTMLAttr }}>
+{{- else -}}
+<meta property="og:title" {{ printf "content=%q" $title | safeHTMLAttr }}>
+{{- end -}}
+
+    {{- /*
+<meta property='og:title' {{ printf "content=\"Lirik Lagu %s\"" ($title | plainify | replaceRE "\n" " " | replaceRE "\r" " " | truncate 70 "...") | safeHTMLAttr }}>
+<meta property='og:title' {{ printf "content=%q" $title | safeHTMLAttr }}> 
+    */ -}}
+
+<meta property="og:description" {{ printf "content=\"%s\"" ($description | plainify | replaceRE "\n" " " | replaceRE "\r" " " | truncate 155 "...") | safeHTMLAttr }}>
+{{- /* <meta property="og:description" {{ printf "content=%q" $description | safeHTMLAttr }}> */ -}}
+
+<meta property='og:url' content='{{ .Permalink }}'><meta property='og:site_name' content='{{ .Site.Title }}'><meta property='og:type' content='
 {{- if .IsPage -}}
 article
 {{- else -}}
@@ -33,7 +61,11 @@ website
 {{- end -}}
 {{- end -}}
 
+<meta property='og:image' content='#'>
+
+{{- /* 
 {{ $image := partial "helper/image" (dict "Image" .Params.image "Resources" .Resources "Context" .) }}
 {{- if $image -}}
 <meta property='og:image' content='{{ absURL $image.Permalink }}'>
 {{- end -}}
+ */ -}}

@@ -1,13 +1,31 @@
+{{- /* 
 {{- with .Site.Params.opengraph.twitter.site -}}
 <meta name="twitter:site" content="@{{ . }}"><meta name="twitter:creator" content="@{{ . }}">
 {{- end -}}
+ */ -}}
+
+<meta name="twitter:site" content="@bestliriklagu">
 
 {{- $title := partialCached "data/title" . .RelPermalink -}}
 {{- $description := partialCached "data/description" . .RelPermalink -}}
 
-<meta name="twitter:title" {{ printf "content=%q" $title | safeHTMLAttr }}><meta name="twitter:description" {{ printf "content=%q" $description | safeHTMLAttr }}>
+{{- if and .IsPage (ne .Section "page") -}}
+<meta name="twitter:title" {{ printf "content=\"Lirik Lagu %s\"" ($title | plainify | replaceRE "\n" " " | replaceRE "\r" " ") | safeHTMLAttr }}>
+{{- else -}}
+<meta name="twitter:title" {{ printf "content=%q" $title | safeHTMLAttr }}>
+{{- end -}}
+{{- /* <meta name="twitter:title" {{ printf "content=%q" $title | safeHTMLAttr }}> */ -}}
 
+<meta name="twitter:description" {{ printf "content=\"%s\"" ($description | plainify | replaceRE "\n" " " | replaceRE "\r" " " | truncate 155 "...") | safeHTMLAttr }}>
+{{- /* <meta name="twitter:description" {{ printf "content=%q" $description | safeHTMLAttr }}> */ -}}
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content='#'>
+
+{{- /* 
 {{- $image := partial "helper/image" (dict "Image" .Params.image "Resources" .Resources "Context" .) -}}
 {{- if $image -}}
-<meta name="twitter:card" content="{{ .Site.Params.opengraph.twitter.card }}"><meta name="twitter:image" content='{{ absURL $image.Permalink }}'>
+<meta name="twitter:card" content="{{ .Site.Params.opengraph.twitter.card }}">
+<meta name="twitter:image" content='{{ absURL $image.Permalink }}'>
 {{- end -}}
+ */ -}}

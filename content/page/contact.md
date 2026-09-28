@@ -1,6 +1,6 @@
 ---
 title: Contact
-description: Kontak Best Lirik Lagu.
+description: Contact Best Lirik Lagu. Anda bisa memberikan kritik dan saran langsung hubungi kami melalui halaman kontak disini.
 slug: "contact"
 ---
 

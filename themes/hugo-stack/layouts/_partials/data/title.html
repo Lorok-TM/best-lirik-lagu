@@ -5,10 +5,10 @@
 {{- $title := slice -}}
 
 {{- if and $paginator $paginator.HasPrev -}}
-    <!-- Add page number-->
-    {{ $title = $title | append (printf "Page %d" $paginator.PageNumber) }}
+{{- /* Add page number */ -}}
+{{- $title = $title | append (printf "Page %d" $paginator.PageNumber) -}}
 {{- end -}}
 
 {{- $title = $title | append (default $siteTitle $pageTitle) -}}
 
-{{ return delimit $title " - " }}
+{{- return delimit $title " - " -}}
