@@ -1,10 +1,12 @@
-baseURL = 'https://best-lirik-lagu.vercel.app'
-languageCode = 'id'
-title = 'Best Lirik Lagu'
+baseURL = "https://best-lirik-lagu.vercel.app"
+locale = "id"
+title = "Best Lirik Lagu"
+description = "Kumpulan lirik lagu terbaru dan terbaik para penyanyi dan musisi dari Daerah Sabang sampai Merauke Indonesia hingga Manca Negara."
 theme = "hugo-stack"
+disableHugoGeneratorInject = true
 
 [permalinks]
-  post = '/:slug/'
+  post = "/:slug/"
 
 [[menu.main]]
   name = "Home"
@@ -36,10 +38,10 @@ theme = "hugo-stack"
   threshold = 80
   toLower = true
 [[related.indices]]
-  name = 'categories'
+  name = "categories"
   weight = 100
 [[related.indices]]
-  name = 'tags'
+  name = "tags"
   weight = 80
   
 [params]
@@ -60,6 +62,6 @@ theme = "hugo-stack"
 # =======================================================
 
 [outputs]
-    home = ["HTML", "RSS", "JSON"]
+    home = ["HTML", "RSS"]
     page = ["HTML"]
     section = ["HTML", "RSS"]
