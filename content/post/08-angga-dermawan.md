@@ -1,6 +1,6 @@
 ---
 title: "08 - Angga Dermawan"
-date: 2025-03-07
+date: 2026-09-29T02:00:00+07:00
 featured: true
 categories: 
   - "timur"
