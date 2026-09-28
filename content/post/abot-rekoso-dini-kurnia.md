@@ -1,7 +1,6 @@
 ---
 title: "Abot Rekoso - Dini Kurnia"
 date: 2024-09-05
-featured: true
 categories: 
   - "java"
 ---

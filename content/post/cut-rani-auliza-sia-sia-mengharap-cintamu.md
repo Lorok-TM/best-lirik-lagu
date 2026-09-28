@@ -1,0 +1,34 @@
+---
+title: "Cut Rani Auliza - Sia Sia Mengharap Cintamu"
+date: 2023-04-09
+categories: 
+  - "melayu"
+---
+
+Lirik Lagu Melayu dengan judul Sia Sia Mengharap Cintamu yang dinyanyikan oleh Cut Rani Auliza dan diciptakan oleh Gustrian Geno dengan irama musik Pop.
+
+"_percuma sia sia diriku mengharap cinta darimu kini ku sadari dirimu tak punya rasa untukku_" itulah cuplikan dari lirik lagu Cut Rani Auliza - Sia Sia Mengharap Cintamu.
+
+Situs bestliriklagu.com tidak menyediakan chord dasar / kunci gitar / Mp3 lagu Sia Sia Mengharap Cintamu ini. Halaman ini hanya menuliskan syair / liriknya saja. Berikut dibawah ini lyrics lengkapnya. Semoga lagu ini dapat menghibur anda.
+
+Title : Sia Sia Mengharap Cintamu Artist : Cut Rani Auliza Songwriter : Gustrian Geno Label : Senja Musik Category : Lagu Pop Melayu
+
+## Lirik Sia Sia Mengharap Cintamu - Cut Rani Auliza
+
+> Percuma sia sia Diriku mengharap cinta darimu
+> 
+> Kini ku sadari Dirimu tak punya rasa untukku
+> 
+> Perjuanganku Tak pernah bernilai di matamu Cintaku seakan tak berharga
+> 
+> Dalam tangismu Akulah yang selalu ada Aku kecewa mengapa kau pilih dia
+> 
+> Tidakkah kau rasakan Getaran cinta yang telah ku berikan Ataukah kau sengaja Permainkan diriku
+> 
+> Haruskah kurelakan Dirimu yang selama ini ku harapkan Jujur aku terluka Melihat kau bersamanya
+> 
+> Musnah sudah harapan cinta Yang kuharap selama ini Kini senanglah kau bersamanya Tinggal aku di dalam sepi
+
+![Cut Rani Auliza - Sia Sia Mengharap Cintamu](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDH8e_r27uFuRZdncvcJdZUkTnhq4QL1fPsRG1q7EIY9sazaBvOuI-v2uSvCL-F6iaT8yj5cdMKF_YkJJ-rFJaB7OJ0zvD9PFKjk1AYaGqvh0slxkR43Ql18Nivb6Cz0POrkSfZuVR5UCQyuw2sjffe5B3J_BqW3qs6-YNYfCAQeizTxBAAZhDw6G8Sg/s800/cut-rani-auliza-sia-sia-mengharap-cintamu.webp)
+
+Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Cut Rani Auliza - Sia Sia Mengharap Cintamu. Silahkan bagikan juga ke teman anda.

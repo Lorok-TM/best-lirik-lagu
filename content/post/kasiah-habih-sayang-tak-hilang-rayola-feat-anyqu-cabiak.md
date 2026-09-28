@@ -1,0 +1,34 @@
+---
+title: "Kasiah Habih Sayang Tak Hilang - Rayola feat. Anyqu, Cabiak"
+date: 2026-01-01
+categories: 
+  - "minang"
+---
+
+Biduaklah tirih pandayuang patah Sansailah badan di amuak badai Biduaklah tirih pandayuang patah Sansailah badan di amuak badai
+
+Jikok lah banci katokan malah Usah di tulak den jo parangai Jikok lah banci katokan malah Usah di tulak den jo parangai
+
+Ambiaklah batang yo nan babuah Bia kan pandan nan tak babungo Ambiak lah batang yo nan babuah Bia kan pandan nan tak babungo
+
+Turuik dek uda yo nan batuah Tinggakan badan nan tak babungo Turuik dek uda yo nan batuah Tinggakan badan nan tak babungo
+
+Malang oi Untuang bak batu nan di lautan Sansai oi Antah pabilo ka tarapuangnyo
+
+Ciek di denai yo nan marusuah Kasiahlah habih sayang tak hilang Ciek di denai yo nan marusuah Kasiahlah habih sayang tak hilang
+
+Jikok lai dapek pintak ko buliah Jan baliak juo dalam rasian Jikok lai dapek pintak ko buliah Jan baliak juo dalam rasian
+
+Ambiaklah batang yo nan babuah Bia kan pandan nan tak babungo Ambiaklah batang yo nan babuah Bia kan pandan nan tak babungo
+
+Turuik dek uda yo nan batuah Tingga kan badan nan tak babungo Turuik dek uda yo nan batuah Tingga kan badan nan tak babungo
+
+Malang oi Untuang bak batu nan di lautan Sansai oi Antah pabilo ka tarapuangnyo
+
+Ciek di denai yo nan marusuah Kasiah lah habih sayang tak hilang Ciek di denai yo nan marusuah Kasiah lah habih sayang tak hilang
+
+Jikok lai dapek pintak ko buliah Jan baliak juo dalam rasian Jikok lai dapek pintak ko buliah Jan baliak juo dalam rasian
+
+#Credits: Judul : Kasiah Habih Sayang Tak Hilang Voc : Rayola ft. Anyqu & Cabiak Cipt : Sexri Budiman Arr : Harbivi Thm
+
+![Kasiah Habih Sayang Tak Hilang - Rayola feat. Anyqu, Cabiak](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijC5g4Pr4XQ47lcoD_odc5yNB_TaKGLLfRK6uYamJWayVj8OkU-fdj9gDgFFmBIaWAmU2IQnZBUGIr-szLJdzEGh2FFhyNy0k0t3l8FE9_4maBtrM3_ObcCt6-qV8qAF-Frbuth0i7R3OHSokY7EVkwgQJJDTecSNG_LnknoEyuZqEqnIQfgi2PdxA5LMW/s1280/kasiah-habih-sayang-tak-hilang-rayola-feat-anyqu-cabiak.webp)

@@ -1,7 +1,6 @@
 ---
 title: "Zinidin Zidan - Rasonyo Jatuah Cinto Feat. Yaya Nadila"
 date: 2025-06-23
-featured: true
 categories: 
   - "minang"
 ---

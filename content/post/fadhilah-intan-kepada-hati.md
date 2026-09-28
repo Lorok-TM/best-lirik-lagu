@@ -1,0 +1,22 @@
+---
+title: "Fadhilah Intan - Kepada Hati"
+date: 2025-11-29
+categories: 
+  - "indonesia"
+---
+
+Ku berhenti di batas ini Antara cinta dan mimpi bersamamu Aku sadari kini bahwa memang hatimu Bukan untukku
+
+Ku kembali kepada sunyi Ku ikhlaskan semua pada takdir Tuhan pasti tahu yang terbaik untukku Tenanglah hatiku
+
+Tegarlah diri walaupun perih Berjalanlah lagi sejauh mungkin Hingga suatu hari nanti pasti bertemu Dengan hati yang tak menyakiti
+
+Ku genggam hati dan sakit ini Memang suratan tak bisa ku memaksa Tuhan pasti tahu yang terbaik untukku Tenanglah hati
+
+Tegarlah diri walaupun perih Berjalanlah lagi sejauh mungkin Hingga suatu hari nanti pasti bertemu Dengan hati yang tak menyakiti
+
+Kepada hati aku katakan Jangan jatuh lagi ke hati yang salah Hingga suatu hari nanti pasti bertemu Dengan hati yang tak menyakiti Dengan hati yang tak menyakiti
+
+#Credits: Title : Kepada Hati Artist : Fadhilah Intan Composer : Ahmad Fredy Label : My Music Records
+
+![Fadhilah Intan - Kepada Hati](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1BT4JoaJZ4uC7n5gMO42aZQxJjBKiQenC5eGsE8KuwtGeQjM6Fs3c68pI-JOjLl_rOQifVcM_zXJcKrRhTIPxsTqVna45sVJRRiMuK5tfNzaLGHDH5a-2JZtffWEgbk1CZdm2-FIfyFgxaWUU55PPdCK3vM_CulvI_kbCbWQ3V_uSXRgHWQxSEJWQxdh2/s480/fadhilah-intan-kepada-hati.webp)

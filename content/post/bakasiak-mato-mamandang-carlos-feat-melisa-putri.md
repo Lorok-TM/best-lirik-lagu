@@ -1,0 +1,24 @@
+---
+title: "Bakasiak Mato Mamandang - Carlos Feat Melisa Putri"
+date: 2025-04-09
+categories: 
+  - "minang"
+---
+
+Manukiak alang nan dari bukik Tapakiak ayam jinak dilaman Sampai hati urang maambiak Pamenan diri nan denai sayang Sampai hati urang maambiak Pamenan diri nan denai sayang
+
+Samantang alang dek pandai tabang Malayok sakandak hati sajo Caliak caliak nan kadiambiak Punyo urang usah disemba juo Caliak caliak nan kadiambiak Punyo urang usah disemba juo
+
+Bakasiak bana mato kawan mamandang Sampai hati ondeh ndeh lukoi denai Apo nan denai punyo kawan nak iyo pulo Urang nan den cinto baambiak pulo
+
+Jikok nyo malu bisa dikubua dalam Indak denai katarumuak cando iko Dimalam bainai isuak alek katibo Hilang yo hilang urang nan den sayang Dimalam bainai isuak alek katibo Hilang yo hilang urang nan den sayang
+
+Manukiak alang nan dari bukik Tapakiak ayam jinak dilaman Sampai hati urang maambiak Pamenan diri nan denai sayang Sampai hati urang maambiak Pamenan diri nan denai sayang
+
+Samantang alang dek pandai tabang Malayok sakandak hati sajo Caliak caliak nan kadiambiak Punyo urang usah disemba juo Caliak caliak nan kadiambiak Punyo urang usah disemba juo
+
+Bakasiak bana mato kawan mamandang Sampai hati ondeh ndeh lukoi denai Apo nan denai punyo kawan nak iyo pulo Urang nan den cinto baambiak pulo
+
+Jikok nyo malu bisa dikubua dalam Indak denai katarumuak cando iko Dimalam bainai isuak alek katibo Hilang yo hilang urang nan den sayang Dimalam bainai isuak alek katibo Hilang yo hilang urang nan den sayang
+
+![Bakasiak Mato Mamandang - Carlos Feat Melisa Putri](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRfZQ27FsRwEiYE8VIk1hYQ6kc7ZaHMfk24V1CiBYcGeewysw-poRv_OnzcAYGM3VjgmhyphenhyphenBhOsE6XmeIinpNjTHOggxBnLjndvAYG3xzWHCBUSE43uSy1Ys7sHzWnAYfAYlFKGajHYrIQxkA9zZx57JX6PEnOAIeMAZ8zuPs4BeqrRYHDRMLUDjvue77FS/s480/bakasiak-mato-mamandang-carlos-feat-melisa-putri.webp)

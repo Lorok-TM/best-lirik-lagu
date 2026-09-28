@@ -1,7 +1,6 @@
 ---
 title: "Abiel Jatnika - Udar"
 date: 2025-11-10
-featured: true
 categories: 
   - "sunda"
 ---

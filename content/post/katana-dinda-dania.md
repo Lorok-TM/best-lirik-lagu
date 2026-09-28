@@ -1,0 +1,34 @@
+---
+title: "Katana - Dinda Dania"
+date: 2025-04-18
+categories: 
+  - "malaysia"
+---
+
+Verse : Puas.. hati ku dah puas.. Dirimu tertumpas.. Dan aku terlepas..
+
+Rampas.. segalanya ku rampas.. Buatkan kau lemas.. Kau takkan terlepas..
+
+Pre Chorus : Aku dah cakap Aku, aku dah pesan Jangan di jolok Sarang-sarang tebuan
+
+Chorus : Biarkan api membara Biar kau merasa.. Jiwa berdendam yang terpendam.. Bara semalam tak terpadam..
+
+Kau rasa kau maharaja Atas singgahsana.. Usahlah kau rasa selesa.. Tunggu ku balas Bagai ku libas katana..
+
+Verse : Lantang.. suara ku yang lantang.. Buat kau terlentang.. Kan aku dah bilang..
+
+Malang.. dah pecah tembelang.. Terlepas peluang.. Kerna kau temberang..
+
+Pre Chorus : Aku dah cakap Aku, aku dah pesan Jangan di jolok Sarang-sarang tebuan
+
+Chorus : Biarkan api membara Biar kau merasa.. Jiwa berdendam yang terpendam.. Bara semalam tak terpadam..
+
+Kau rasa kau maharaja Atas singgahsana.. Usahlah kau rasa selesa.. Tunggu ku balas Bagai ku libas katana..
+
+Bridge : Ku serah segala Kau memberi dusta dan buat ku merana Kini kau merasa padahnya..
+
+Chorus : Biarkanlah api membara Biar kau merasa.. Jiwa berdendam yang terpendam.. Bara semalam tak terpadam..
+
+Kau rasa kau maharaja Atas singgahsana.. Usahlah kau rasa selesa.. Tunggu ku balas Bagai ku libas katana..
+
+![Katana - Dinda Dania](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAoFfbnA4eSLNBM4_LooGMUpYh6iaVDObKnRnzNRlRr5qFj64ikaYS1zljRM3Z5P1n2NG4bCkgOFaRxHdqKbqX2JMjfd58P7SpvSz4Fhzpyt9UjpFmUC3WXtqEmVmnZ1DWt3bvggoM_F-q6p4kWt0xGpBWhfvfGnBDYPtLsxkTm6QV-dbIGpNYPXwHzn1F/s1280/katana-dinda-dania.webp)

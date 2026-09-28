@@ -1,7 +1,6 @@
 ---
 title: "Aan Anisa - Bli Maning Maning"
 date: 2025-09-01
-featured: true
 categories: 
   - "tarling"
 ---

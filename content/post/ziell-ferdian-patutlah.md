@@ -1,7 +1,6 @@
 ---
 title: "Ziell Ferdian - Patutlah"
 date: 2025-11-24
-featured: true
 categories: 
   - "indonesia"
 ---

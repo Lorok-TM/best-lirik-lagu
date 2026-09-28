@@ -1,0 +1,22 @@
+---
+title: "David Iztambul - Kamari Pentang"
+date: 2025-08-15
+categories: 
+  - "minang"
+---
+
+Lahia jo batin denai rilakan Indak kamungkin jo denai bajalin Cando tamakan buah simalakamo Kamari pentang badan jadinyo
+
+Cando tamakan buah simalakamo Kamari pentang badan jadinyo
+
+Cando manapuak aia di dulang Nan kabasah tantu dado denaiko Hati tacurah juo ka adiak surang Rang tuo adiak nan malarainyo
+
+Hati tacurah juo ka adiak surang Rang tuo adiak nan malarainyo
+
+Reff :
+
+Usah buruak sangko adiak ka bakeh denaiko Bukan niaik di hati mamutuih tali cinto Nan kito jago kini alah baungkai jalin
+
+Jiko ditanyokan apo nan denai raso Hanyolah adiak balahan hatiko Harok pintak ka nyato bapisah juo kito jadi nyo
+
+![David Iztambul - Kamari Pentang](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgt1mrAQ32aLKhnV4dvd-hmudFtvViTj6fbOYEQ1VplavtV-1GseurAIZMlPihl4m-TOQOKwuhR_e1yiutH03kzpp-daeLIh9AlwThQFq-Ro6vY2ZB1UmnA_KpIb9zW7Q_sk_xkoGLal77wqi8ueAYLBX5HY1HJS2sfMaA3CCwFXCPwXAnDSKROqUWUqVZr/s480/david-iztambul-kamari-pentang.webp)

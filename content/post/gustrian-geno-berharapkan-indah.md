@@ -1,0 +1,28 @@
+---
+title: "Gustrian Geno - Berharapkan Indah"
+date: 2023-06-07
+categories: 
+  - "melayu"
+---
+
+Lirik Lagu Melayu dengan judul Berharap Kan Indah yang dinyanyikan oleh Gustrian Geno dan diciptakan oleh Koko dengan irama musik Pop.
+
+"_kini hanyalah tinggal cerita kenangan cinta yang kita bina sewaktu kita hidup bersama_" itulah cuplikan dari lirik lagu Gustrian Geno - Berharapkan Indah.
+
+Situs bestliriklagu.com tidak menyediakan chord dasar / kunci gitar / Mp3 lagu Berharapkan Indah ini. Halaman ini hanya menuliskan syair / liriknya saja. Berikut dibawah ini lyrics lengkapnya. Semoga lagu ini dapat menghibur anda.
+
+Title : Berharapkan Indah Artist : Gustrian Geno Songwriter : Koko Label : Koko Record Category : Lagu Pop Melayu
+
+## Lirik Berharapkan Indah - Gustrian Geno
+
+> Kini hanyalah tinggal cerita Kenangan cinta yang kita bina Sewaktu kita hidup bersama
+> 
+> Aku yang dulu kau cinta Kau minta untuk setia Namun nyatanya dirimu berdusta
+> 
+> Musnah sudah harapan cinta Kerana kau telah berubah Semenjak kau mengenal dia Usailah cinta kita
+> 
+> Ku semai benih cinta berharap kan indah Namun duri menusuk di hati Bagaikan ku berlayar di lautan luas Tak tahu arah dan tujuan Biarlah ku pendam luka sendiri
+
+![Gustrian Geno - Berharapkan Indah](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzbYq9XvnUnaxnrZ-K33IBqXmMqBT13jh7PazNKZWSPRTCk7-KCCrfs9CroH4G3WcJDEj36R32I7sG1slc_ZJLr21qXJWpUwHGVYVfGajqMYtuI69j5U6Cfp0K6O_pUd69YH8Ov6wp6R7cvGcdTWoQ85gfyVKdRLD2cnwl9mLSNTfGWOdI_73qAJ86Nw/s800/gustrian-geno-berharapkan-indah.webp)
+
+Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Gustrian Geno - Berharapkan Indah. Silahkan bagikan juga ke teman anda.

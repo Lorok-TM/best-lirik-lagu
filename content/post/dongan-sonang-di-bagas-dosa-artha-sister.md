@@ -1,0 +1,30 @@
+---
+title: "Dongan Sonang Di Bagas Dosa - Artha Sister"
+date: 2025-04-05
+categories: 
+  - "batak"
+---
+
+Aut sura ma nian ito Dingding i boi makkatai Adong ma na gabe saksi nian Di hita nadua
+
+Didok ho tu au di borngin i On dope diboto ho Dai ni na marhallet da ito Dihaol ho ma au
+
+Dung piga-piga bulan ito Tadalani hubunganta on Dapotmu ma sude na di roham Muba ma ho
+
+Hu rippu do au cinta pertama Hape ho nunga pemain lama Sega ma au ito dibahen ho Sega hian hasian
+
+Donganmu sonang do au Di bagas dosa dibahen ho Hu rippu do na gabe au ito Donganmu matua
+
+Ai dang hu tagam ikkon putus ito Hita na dua Au do na salah ito papolos hu Marhallet tu ho Dang tarsolsolan be Ai dang tarjua be parsirangantaon
+
+Dung piga-piga bulan ito Tadalani hubunganta on Dapotmu ma sude na di roham Muba ma ho
+
+Hu rippu do au cinta pertama Hape ho nunga pemain lama Sega ma au ito dibahen ho Sega hian hasian
+
+Donganmu sonang do au Di bagas dosa dibahen ho Hu rippu do na gabe au ito Donganmu matua
+
+Ai dang hu tagam ikkon putus ito Hita na dua Au do na salah ito papolos hu Marhallet tu ho Dang tarsolsolan be Ai dang tarjua be parsirangantaon
+
+Dang tarsolsolan be Ai dang tarjua be parsirangantaon
+
+![Dongan Sonang Di Bagas Dosa - Artha Sister](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEga-BjRm-9O-nDn03DeQ_OhjEY8haBDdtzxrPvHNAdNcgMJ171IUr-9fqAVCQlFZDSWHFDNtayNP9Q6YuQYvViIR6vEgPml3Z3YDrbZb-pyodYG3QojWvlFjwQVBwgmc28dLm7ou_UlwRXrwLmuE5Ib3cK7DS74JNqjeYshHx9lHI8Y7R-ijj7C4JchRGkX/s480/dongan-sonang-di-bagas-dosa-artha-sister.webp)

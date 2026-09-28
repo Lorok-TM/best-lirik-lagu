@@ -1,7 +1,6 @@
 ---
 title: "Abay - Gadang Di Rantau"
 date: 2025-08-24
-featured: true
 categories: 
   - "minang"
 ---

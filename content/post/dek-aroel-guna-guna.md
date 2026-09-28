@@ -1,0 +1,24 @@
+---
+title: "Dek Aroel - Guna Guna"
+date: 2025-08-28
+categories: 
+  - "aceh"
+---
+
+Peudeh rukung loen ka teurhok Teuka batok tiba tiba Bak uloen pandang adinda
+
+Pu keuh mata loen ka saroek Lage teujok meunan cinta Pu kakeunoeng guna guna
+
+Senyum mameh tari ruman Adak wajah tan meudadan Teutap ceudah rupa gata
+
+Neuk loen peukhem male hate Neuk loen sapa seungkak dada Kiban cara loen peunyata
+
+Di kheun lam hate sang nyan judoe loen Hate dirawoen lam hayalan cinta O’h disenyum meugeudhum lam jantoeng Alah hai poe loen ka jatoh cinta
+
+Cinta samboeh umpang guni Han loen peumeuri hana Loen teujeut peunyata Loen takoet han tapeuduli sadar diri Karna hana ganteng rupa
+
+Cut adek cukop lagak hi Sang permaisuri Lage aneuk ratu raja Di abang kop hitam hi Sehari hari abg but panjat kelapa
+
+Di kheun lah hate sang nyan judoe loen Hate dirawoen lam khayalan cinta
+
+![Dek Aroel - Guna Guna](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVTj8_18_ynthEM2XV5pm62hrBvV6_3qhMx1RRTwHAhVhQi27Upl6T9T2MocaFKf6erNe5ix9uvkR1dT-Ni6irSLVZx79fK5CadgHe-kZuIZjvRbKRE-JL8r_Zo2aZpPOND4BpRFncRmB_Jg8-jJwHuWpEdCSecDb8NfauyPZ_8CL-oTdLi4SitJ3eYf8M/s480/dek-aroel-guna-guna.webp)

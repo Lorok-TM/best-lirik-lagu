@@ -1,0 +1,34 @@
+---
+title: "Shinta Arsinta feat. Ririn DA - Ay"
+date: 2025-12-08
+categories: 
+  - "dangdut"
+---
+
+Ay, apa kabarmu? Lama kita tidak bertemu Ay, dengarkan aku Saat ini 'ku merindumu
+
+Dan bintang malam berkedip mesra Melihat kurindu wajah cantikmu Dan bulan terang menatap riang Melihat ku rindu wajah cantikmu
+
+Ayang, kurindu kamu Ingin mencium kening kamu Ayang, kurindu kamu Ingin memeluk mesra kamu Sungguh rinduku menggelitik Ingin bertemu, ingin bertemu sama kamu
+
+Ay, di mana kamu? Bagaimana keadaanmu? oh Ay, di sini aku Melamun memikirkan kamu
+
+Dan bintang malam berkedip mesra Melihat kurindu wajah cantikmu Dan bulan terang menatap riang Melihat kurindu wajah cantikmu
+
+Ayang, kurindu kamu Ingin mencium kening kamu Ayang, kurindu kamu Ingin memeluk mesra kamu Sungguh rinduku menggelitik Ingin bertemu, ingin bertemu sama kamu
+
+Dan bintang malam berkedip mesra Melihat kurindu wajah cantikmu Dan bulan terang menatap riang Melihat kurindu wajah cantikmu
+
+Ayang, kurindu kamu Ingin mencium kening kamu Ayang, kurindu kamu Ingin memeluk mesra kamu
+
+Sungguh rinduku menggelitik Ingin bertemu, ingin bertemu sama kamu
+
+Ayang, kurindu kamu Ingin mencium kening kamu Ayang, kurindu kamu Ingin memeluk mesra kamu
+
+Ayang, kurindu kamu Ingin mencium kening kamu Ayang, kurindu kamu Ingin memeluk mesra kamu
+
+Sungguh rinduku menggelitik Ingin bertemu, ingin bertemu, oh Sungguh rinduku menggelitik Ingin bertemu, ingin bertemu sama kamu
+
+#Credits: Title : Ay Singer : Shinta Arsinta Ft Ririn Da Songwriter : Michael Christian Production : Beta Creative
+
+![Shinta Arsinta feat. Ririn DA - Ay](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJQEkLdeyZx4bplko7FNREl7a1GKWTscAA1WTZ5mZoWsezjlqJx8Nb0p4mtNfw4IKgvvjXNNqJziSA34E00hRHPyKD35JU9oGReXk2oku2IoV6jrpO6dY4Vdh34eQIAW8mYE3dR_Iwbe2UJor834lUdXKStTDGicS3b2Mj-__-V3lsDeuJKGx-gZqP5w0q/s480/shinta-arsinta-feat-ririn-da-ay.webp)

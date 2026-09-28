@@ -1,0 +1,30 @@
+---
+title: "Sampaikan Rindu - Yeni Inka"
+date: 2025-02-14
+categories: 
+  - "dangdut"
+---
+
+**BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Sampaikan Rindu yang dibawakan oleh Yeni Inka.
+
+Di langitku tak lagi biru Tak lagi cerah seperti dulu Sepi ini masih disini Hanya bayangmu yang menemani
+
+Ku memanggil namamu Tapi apa kau tahu Atau kau tak mau tahu rasa sedihku
+
+Angin sampaikan rindu Hujan rintikkan kalbu Dingin hati membeku Ingin ku memelukmu
+
+Bersamamu menyadarkanku Kelemahanku ada di kamu Mengenangmu sudah pasti sakit Tapi aku cinta sakit ini
+
+Angin sampaikan rindu Hujan rintikkan kalbu Dingin hati membeku Ingin ku memelukmu Ingin ku memeluk dirimu
+
+Angin sampaikan rindu Hujan rintikkan kalbu Dingin hati ini membeku Ingin ku memelukmu
+
+Oh-oh-oh Angin sampaikan rindu Hujan rintikkan kalbu Dingin hatiku membeku Ingin ku memelukmu
+
+Ingin ku memeluk dirimu
+
+Demikian lirik 'Sampaikan Rindu' sebagaimana di atas.
+
+**Credit:** Judul : Sampaikan Rindu Voc : Yeni Inka Cipt : Ade Nurulianto
+
+![Sampaikan Rindu - Yeni Inka](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJtOxn63T_RNZoVJqPW4lFdpSlxiI1BtJqZNF6pykz8X6pV4XVYNJ-euPsizIH26H5qaQvTC4nh-7nInbYh9J7HLTNpvgMdG0omGnNnb5pboxwo2gOojnl47N5Fif2zAC5sOyVvzawj3fYGXBybWZODzEkYAXoDTCPRZRJXAgPnHkFDIEPqJ92f17ci_OQ/s1280/sampaikan-rindu-yeni-inka.webp)

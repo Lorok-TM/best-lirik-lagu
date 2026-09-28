@@ -1,0 +1,20 @@
+---
+title: "Jan Banyak Kandak - Ridho Zulma Feat Sisna Cinaka"
+date: 2025-04-06
+categories: 
+  - "minang"
+---
+
+Usah di ikuik bana Usah di turuik bana Caro urang nan di jaman kini Caliak urang ba oto Inyo nak iyo pulo Tapi ndak bapiti
+
+Rila inyo bautang Bia di pandang urang Kok tibo mambayia nyo mahilang Ba kusuak kusuak dado Paniang paniang kapalo Baa rasonyo
+
+Ondeh Lalok tasiktak makan tak lamak Ondeh Lalok tasintak makan tak lamak
+
+Reff : Jan jan jan banyak bnyak bana kandak Hiduik sa ado ado nyo sajo Tingga dulu salero Usah di paso paso Kok ndak cukuik pitinyo
+
+Pandai pandai kito mambujuak hati Jan sampai indak taukua lai Mancik usah di bali Kantong panuah bairisi Rompong tacicia habih
+
+Maminteh sabalun anyuik malantai sabalun lapuak Ingek ingek sabalun takanai Jikok alah tasobok nan mambuek tatunduak Tagak juo raso ndak ka sampai
+
+![Jan Banyak Kandak - Ridho Zulma Feat Sisna Cinaka](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYR5-duso_PzMBxEWFRWi0nXxQ8r7x-cntIxQ1FZoIzMra0-Z15j4EDkMPNIx01TxyI_JcioUNMnvJa5dHchuiOVoNmBPxE-KhyphenhyphenKXxIekETAB_LjyLwUNuh-TO37ijoSizofwOY8cOV0uhUr4iO53OWhCf9csDpJb04sVBuRArakoqLcyLRdgfaCptHaY4/s480/jan-banyak-kandak-ridho-zulma-feat-sisna-cinaka.webp)

@@ -1,0 +1,30 @@
+---
+title: "Kau Tetap Harapan - Tryana"
+date: 2025-02-10
+categories: 
+  - "indonesia"
+---
+
+**BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Kau Tetap Harapan yang dibawakan oleh Tryana.
+
+Ku satukan kembali Riwayat cintaku yang hilang Agar tak pernah pudar di dalam kenangan Derita bersamamu dulu Jelas aku terluka Beribu salah ku maafkan Oh mengapa kau tinggalkan jua
+
+Ku khayalkan dirimu Yang ikhlas sepenuh hati Namun hanya igauan Didalam tidurku Benarkah pikiranku Yang tak mengerti Arti kecurangan Yang selama ini tak pernah kuharapkan Dalam impianku
+
+Kasih tidakkah kau pahami Aku mencintaimu Ku merindukan belaianmu Bagai bertahun dulu
+
+Renungkanlah segalanya Apa yang pernah ku berikan Cinta kasih sepenuh hati Tak pernah engkau meminati Harusnya aku kecewa Berpaling lagi seperti dulu
+
+Mengertilah kasih Mengertilah sayang Siksa yang kau beri tak kan kusesali Pulanglah kau sayang demi janji kita Moga kau insyafi kesalahanmu
+
+Kasih tidakkah kau pahami Aku mencintaimu Ku merindukan belaianmu Bagai bertahun dulu
+
+Renungkanlah segalanya Apa yang pernah ku berikan Cinta kasih sepenuh hati Tak pernah engkau meminati Harusnya aku kecewa Berpaling lagi seperti dulu
+
+Mengertilah kasih Mengertilah sayang Siksa yang kau beri tak kan kusesali Pulanglah kau sayang demi janji kita Moga kau insyafi kesalahanmu
+
+Demikian lirik 'Kau Tetap Harapan' sebagaimana di atas.
+
+**Credit:** Judul : Kau Tetap Harapan Voc : Tryana Cipt : Faisal Asahan Arr : Decky Ryan
+
+![Kau Tetap Harapan - Tryana](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfMyJscd1L4j5z5eTGOGurLlesUYSXSGTPH6ku_QM1Oj0pRQF2INn-Oc-z6Ue8Ub__7r8o2YpNpe32OFKn3FHmNUGt8PFfYKJummvhzGIrhx7LeFUCayPd5_ngeeyc4wW05oqMFwftQftAnDk8nyPV6e2LxbJjs5JwS1Z1rNbxQhVW9_JMGEtI23CyYej_/s1280/kau-tetap-harapan-tryana.webp)

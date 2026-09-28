@@ -1,7 +1,6 @@
 ---
 title: "Ziva Magnolya - 200k"
 date: 2025-05-11
-featured: true
 categories: 
   - "indonesia"
 ---

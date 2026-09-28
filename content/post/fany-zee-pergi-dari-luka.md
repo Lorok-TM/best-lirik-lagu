@@ -1,0 +1,20 @@
+---
+title: "Fany Zee - Pergi Dari Luka"
+date: 2025-05-22
+categories: 
+  - "slow-rock"
+---
+
+Lelah sudah kumenanti Cintamu yang tiada pasti Segala rasa telah ku berikan Namun kau tak pedulikan
+
+Masih ku genggam janji setia Tapi kau dustai semua Kata maaf selalu ku beri Disaat hatiku kau bagi
+
+Tertanam dihati niatku menyerah Terulang kembali dirimu mendua
+
+Kesabaranku ada batasnya Sampai bila hatiku terus mengalah Diriku dipaksa keadaan Berulang luka kau berikan
+
+Aku hanyalah insan biasa Tak kuat selalu menahan luka Berjuang sendiri ku tak mampu Bahagialah dirimu tanpa ku
+
+Selamat tinggal selamat jalan Aku ikhlaskan engkau sayang Selamat tinggal selamat jalan Aku ikhlaskan engkau sayang
+
+![Fany Zee - Pergi Dari Luka](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinfvyaaXzAlyOtuJXPO6XW2-vxzHdTGF-AR-upj5yYC8MVn5GHLMvGtdO4jEt3R5gyC3DZ0SCtnN0QdXt2ju01hDQe2ofKPrKypV_MmG52yGoidc1osFuIsVNkFPEpAT7LJ8U94SQNBDqhPxcxOF1ttizP9AuIAl9fZQIkWnqsDfvqzk8h0M-jvKBlNeXB/s480/fany-zee-pergi-dari-luka.webp)

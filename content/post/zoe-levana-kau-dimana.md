@@ -1,7 +1,6 @@
 ---
 title: "Zoe Levana - Kau Dimana"
 date: 2025-04-29
-featured: true
 categories: 
   - "indonesia"
 ---
