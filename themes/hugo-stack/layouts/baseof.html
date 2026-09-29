@@ -1,6 +1,7 @@
 <!DOCTYPE html><html lang="{{ .Site.Language.Locale }}" dir="{{ default `ltr` .Language.Direction }}"><head>
 {{- partial "head/head.html" . -}}
 {{- block "head" . -}}{{- end -}}
+<link rel="manifest" href="https://bestliriklagu.com/manifest.json">
 <link href="https://bestliriklagu.com/favicon.ico" rel="icon" type="image/x-icon">
 <link rel="icon" href="https://bestliriklagu.com/favicon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="https://bestliriklagu.com/apple-touch-icon.png">
@@ -41,8 +42,7 @@ body{background-color:var(--bg-basic-node)}.pagination{margin:24px 0;display:fle
 {{- if eq .Kind "404" -}}
 .not-found{margin:0 0 24px 0}.search-form{position:relative;display:flex;background-color:var(--gray-1);padding:15px;margin:15px 0;border-radius:10px}.search-form input{padding:10px;width:calc(100% - 30px);border-radius:10px;border:0;font-size:16px}.search-form input:focus{outline:0}.search-form button{font-size:16px;cursor:pointer;background-color:transparent;border:0;padding:10px}.search-form button:focus{outline:0}.search-result.hidden{display:none}.search-result--title,.article-preview{font-size:14px;line-height:1.4}.search-result--title{margin:15px 0}.article-list--compact{background-color:var(--bg-basic-node);box-shadow:var(--shadow-1);border-radius:10px}.article-list--compact .article-title{margin:0 0 5px 0}.article-list--compact article>a{display:flex;align-items:center;padding:15px;gap:15px}.article-list--compact article:not(:last-of-type){border-bottom:1px solid var(--gray-2)}
 {{- end -}}
-#tombol-pwa-notif{position:fixed;bottom:20px;right:20px;width:50px;height:50px;background-color:#007bff;color:white;border-radius:50%;border:none;box-shadow:0 4px 10px rgb(0 0 0/.3);cursor:pointer;z-index:9999;display:flex;align-items:center;justify-content:center;font-size:20px;transition:all .3s ease}
-#tombol-pwa-notif:hover{transform:scale(1.1)}
+#tombol-pwa-notif{position:fixed;bottom:20px;right:20px;width:50px;height:50px;background-color:#007bff;color:white;border-radius:50%;border:none;box-shadow:0 4px 10px rgb(0 0 0/.3);cursor:pointer;z-index:9999;display:flex;align-items:center;justify-content:center;font-size:20px;transition:all .3s ease}#tombol-pwa-notif:hover{transform:scale(1.1)}
 </style>
 {{- /* SCRIPT STORAGE */ -}}
 <script>document.addEventListener("DOMContentLoaded", () => { const t = localStorage.getItem('theme'), chk = document.getElementById('dark-toggle'), isDark = t === 'dark' || (!t && window.matchMedia('(prefers-color-scheme:dark)').matches); if (chk) { chk.checked = isDark; chk.addEventListener('change', () => localStorage.setItem('theme', chk.checked ? 'dark' : 'light'));}});</script>
