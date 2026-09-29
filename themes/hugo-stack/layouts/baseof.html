@@ -23,8 +23,16 @@ html{scrollbar-width:thin;scrollbar-color:#777 transparent}:root{color-scheme:li
 .sharethis-inline-share-buttons{margin:24px 0}blockquote{margin:24px 0;padding:15px;background-color:var(--gray-1);border-radius:5px}blockquote p:last-child{margin-bottom:0}
 {{- /* RECENT FEATURED SIDEBAR */ -}}
 .ads-sidebar{margin-top:20px}.featured-posts ul{border:1px solid var(--gray-2);display:flex;flex-direction:column;border-radius:10px;overflow:hidden}.featured-posts ul li{padding:10px 15px;background-color:var(--bg-basic-node);line-height:1.5}.featured-posts ul li:not(:last-of-type){border-bottom:1px solid var(--gray-2)}.featured a,.recent a{font-weight:bold}.featured-posts span,.featured span,.recent span{display:block}.secondary{margin:0 auto 24px auto}
+
 {{- /* LUWIH LEBAR SOKO 768px */ -}}
-@media (min-width:768px){.site-main .container::after{display:block;content:"";clear:both}.primary,.secondary{top:50px;position:sticky}.primary{float:left;width:calc(100% - 320px);margin-right:20px}.secondary{float:right;max-width:300px}}
+@media (min-width:768px){
+.site-main + .container{display:flex;justify-content:space-between}
+.site-main + .container::after{display:block;content:"";clear:both}
+.primary,.secondary{top:50px;position:sticky}
+.primary{width:calc(100% - 320px)}
+.secondary{width:100%;max-width:300px}
+}
+
 {{- /* LUWIH LEBAR SOKO 1201px */ -}}
 @media (min-width:1201px){.container{padding:30px}.site-header{max-width:300px;position:fixed;height:100vh;border-right:1px solid var(--gray-2)}.site-header .container{padding:30px}.ast-row,.ast-row ul{gap:30px}.ast-row .post,.ast-row ul li{padding:25px}.menu{width:100%}.site-main,.site-footer{padding-left:300px}.primary,.secondary{top:0}}
 {{- /* LUWIH SEMPIT SOKO 1200px */ -}}
