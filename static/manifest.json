@@ -1,0 +1,19 @@
+{ 
+"name": "Best Lirik Lagu", 
+"short_name": "Best Lirik", 
+"start_url": "https://bestliriklagu.com/",
+"display": "standalone", 
+"background_color": "#ffffff", 
+"theme_color": "#000000", 
+"description": "Kumpulan Lirik Lagu Dan Video Klip Terbaik Dari Para Penyanyi Dan Musisi Indonesia Hingga Mancanegara.", 
+"icons": 
+[ 
+{"src":"https://bestliriklagu.com/image/192.webp","sizes":"192x192","type":"image/png","purpose":"any"}, 
+{"src":"https://bestliriklagu.com/image/512.webp","sizes":"512x512","type":"image/png","purpose":"any"} 
+], 
+"screenshots": 
+[ 
+{"src":"https://bestliriklagu.com/image/wide.webp","sizes":"1280x720","type":"image/png","form_factor":"wide","label":"Tampilan Desktop"}, 
+{"src":"https://bestliriklagu.com/image/narrow.webp","sizes":"720x1280","type":"image/png","form_factor":"narrow","label":"Tampilan Mobile"} 
+] 
+} 

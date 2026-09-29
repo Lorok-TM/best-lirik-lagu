@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://bestliriklagu.com/sitemap.xml
+Sitemap: https://bestliriklagu.com/sitemap-news.xml
+Sitemap: https://bestliriklagu.com/sitemap.rss
