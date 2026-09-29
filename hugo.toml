@@ -76,7 +76,7 @@ disableHugoGeneratorInject = true
 
 [modules]
   [modules.timeout]
-    timeout = "1s"
+    remoteGet = "1s"
 
 [security]
   [security.http]
