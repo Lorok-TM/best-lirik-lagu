@@ -1,22 +1,22 @@
 {{- $current := . -}}
 {{- $found := false -}}
 
-{{- /* Golek artikel soko kategori sing podo, tapi dudu artikel iki dewe */ -}}
-{{- range first 5 (where .Site.RegularPages "Section" .Section) -}}
-{{- if and (not $found) (ne .Permalink $current.Permalink) -}}
-{{- if intersect .Params.categories $current.Params.categories -}}
-<p class="baca-juga"><strong>Baca Juga:</strong> <a href="{{ .Permalink }}">Lirik Lagu {{ .Title }}</a></p>
-{{- $found = true -}}
-{{- end -}}
-{{- end -}}
+{{- /* Golek artikel soko kategori sing podo, Diurutke soko sing PALING LAWAS (.ByDate) */ -}}
+{{- range first 5 (where .Site.RegularPages.ByDate "Section" .Section) -}}
+  {{- if and (not $found) (ne .Permalink $current.Permalink) -}}
+    {{- if intersect .Params.categories $current.Params.categories -}}
+      <p class="baca-juga"><strong>Baca Juga:</strong> <a href="{{ .Permalink }}">Lirik Lagu {{ .Title }}</a></p>
+      {{- $found = true -}}
+    {{- end -}}
+  {{- end -}}
 {{- end -}}
 
-{{- /* Variasi Backup: Yen ra ono kategori sing podo, njupuk soko artikel paling anyar liyane */ -}}
+{{- /* Variasi Backup: Yen ra ono kategori sing podo, njupuk soko artikel PALING LAWAS sak-situs (.ByDate) */ -}}
 {{- if not $found -}}
-{{- range first 2 .Site.RegularPages -}}
-{{- if and (not $found) (ne .Permalink $current.Permalink) -}}
-<p class="baca-juga"><strong>Baca Juga:</strong> <a href="{{ .Permalink }}">Lirik Lagu {{ .Title }}</a></p>
-{{- $found = true -}}
-{{- end -}}
-{{- end -}}
+  {{- range first 2 .Site.RegularPages.ByDate -}}
+    {{- if and (not $found) (ne .Permalink $current.Permalink) -}}
+      <p class="baca-juga"><strong>Baca Juga:</strong> <a href="{{ .Permalink }}">Lirik Lagu {{ .Title }}</a></p>
+      {{- $found = true -}}
+    {{- end -}}
+  {{- end -}}
 {{- end -}}
