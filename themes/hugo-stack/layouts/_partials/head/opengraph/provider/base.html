@@ -61,11 +61,9 @@ website
 {{- end -}}
 {{- end -}}
 
-<meta property='og:image' content='#'>
-
-{{- /* 
-{{ $image := partial "helper/image" (dict "Image" .Params.image "Resources" .Resources "Context" .) }}
+{{- $image := partial "helper/image" (dict "Image" .Params.image "Resources" .Resources "Context" .) -}}
 {{- if $image -}}
 <meta property='og:image' content='{{ absURL $image.Permalink }}'>
+{{- else -}}
+<meta property='og:image' content='https://bestliriklagu.com/image/best-lirik-lagu.webp'>
 {{- end -}}
- */ -}}
