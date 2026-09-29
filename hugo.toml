@@ -58,10 +58,6 @@ disableHugoGeneratorInject = true
   featuredLimit = 5 
   showFeaturedHeader = true
 
-# =======================================================
-# SETELAN WAJIB SUPAYA SEARCH ORA 404 (OUTPUT FORMATS)
-# =======================================================
-
 [outputs]
     home = ["HTML", "RSS", "NewsSitemap"]
     page = ["HTML"]
@@ -71,3 +67,9 @@ disableHugoGeneratorInject = true
   mediaType = "application/xml"
   baseName = "sitemap-news"
   isHTML = false
+
+[minify]
+  minifyOutput = true
+
+[minify.tdewolff.html]
+    keepQuotes = true
