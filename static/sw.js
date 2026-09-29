@@ -1,7 +1,6 @@
 const CACHE_NAME = 'lirik-pwa-cache-v3'; 
 const urlsToCache = [
   '/',
-  '/index.php',
   '/favicon.ico'
 ];
 
