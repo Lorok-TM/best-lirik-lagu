@@ -74,10 +74,6 @@ disableHugoGeneratorInject = true
 [minify.tdewolff.html]
     keepQuotes = true
 
-[modules]
-  [modules.timeout]
-    remoteGet = "1s"
-
 [security]
   [security.http]
-    allowedDomains = []
+    urls = []
