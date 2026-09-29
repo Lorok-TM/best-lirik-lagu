@@ -3,7 +3,7 @@ author: Katrok
 title: "Adaik Salingka Nagari - Innani Sarifa"
 date: 2025-02-22T14:11:00Z
 slug: adaik-salingka-nagari-innani-sarifa
-featured: true
+featured: false
 draft: false
 categories: 
   - "Minang"

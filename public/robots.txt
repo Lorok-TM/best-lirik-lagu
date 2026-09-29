@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /categories/
+Disallow: /tags/
+
+Sitemap: https://bestliriklagu.com/sitemap.xml
+Sitemap: https://bestliriklagu.com/sitemap-news.xml

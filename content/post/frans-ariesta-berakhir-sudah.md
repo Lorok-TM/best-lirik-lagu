@@ -3,7 +3,7 @@ author: Katrok
 title: "Frans Ariesta - Berakhir Sudah"
 date: 2026-09-28T16:25:00Z
 slug: frans-ariesta-berakhir-sudah
-featured: true
+featured: false
 draft: false
 categories: 
   - "Melayu"
