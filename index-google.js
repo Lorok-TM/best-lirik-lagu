@@ -13,8 +13,8 @@ const axios = require('axios');
 const { google } = require('googleapis');
 
 const contentDir = './content'; 
-const domain = "https://best-lirik-lagu.vercel.app"; // GANTI nganggo domain TLD .com mu sesuk
-const mediamu = "Nama Mediamu"; // GANTI nganggo jeneng mediamu
+const domain = "https://bestliriklagu.com"; // GANTI nganggo domain TLD .com mu sesuk
+const mediamu = "Bestliriklagu"; // GANTI nganggo jeneng mediamu
 
 let xmlEntries = '';
 let urlsToNotify = [];
@@ -41,7 +41,7 @@ function readDir(dir) {
             const slug = data.slug || path.basename(file, '.md');
             const permalink = `${domain}/${slug}/`;
             const formattedDate = postDate.toISOString();
-            const imgUrl = data.image || "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-sSY1q6nfon_8cqZg7zNO3sCy4t_90JTgX6LiYllxOR5WOFN1bVsYsXJxHZaixmB94qbYcLHh9Gg2tl-AhyNmBMHud3nyVVteinMtTfNjO6MhzYAPkFVh3X-3cPOpeACARtBGQIGOxnTbDeNJYEMwn1yKBKWAXeWCr7jpBIshs5mjMRZpwFCsi6LI3-2y/s1280/lorok-tm.webp";
+            const imgUrl = data.image || "https://bestliriklagu.com/image/best-lirik-lagu.webp";
 
             urlsToNotify.push(permalink);
             xmlEntries += `  <url>
