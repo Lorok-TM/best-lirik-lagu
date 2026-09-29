@@ -26,8 +26,8 @@ html{scrollbar-width:thin;scrollbar-color:#777 transparent}:root{color-scheme:li
 
 {{- /* LUWIH LEBAR SOKO 769px */ -}}
 @media (min-width:769px){
-.site-main + .container{display:flex;justify-content:space-between}
-.site-main + .container::after{display:block;content:"";clear:both}
+.site-main .container{display:flex;justify-content:space-between}
+.site-main .container::after{display:block;content:"";clear:both}
 .primary,.secondary{top:50px;position:sticky}
 .primary{width:calc(100% - 320px)}
 .secondary{width:100%;max-width:300px;margin-right:0}
