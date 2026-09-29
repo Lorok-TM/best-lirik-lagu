@@ -1,4 +1,4 @@
-baseURL = "https://best-lirik-lagu.com"
+baseURL = "https://bestliriklagu.com"
 locale = "id"
 title = "Best Lirik Lagu"
 theme = "hugo-stack"
