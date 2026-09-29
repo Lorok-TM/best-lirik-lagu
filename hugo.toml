@@ -73,3 +73,11 @@ disableHugoGeneratorInject = true
 
 [minify.tdewolff.html]
     keepQuotes = true
+
+[modules]
+  [modules.timeout]
+    timeout = "1s"
+
+[security]
+  [security.http]
+    allowedDomains = []
