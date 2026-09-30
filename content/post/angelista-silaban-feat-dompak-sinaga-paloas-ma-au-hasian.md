@@ -24,5 +24,3 @@ Arian nang bodari Sai huelek do ho Anggiat boi tarbukka Harbangan ni rohami
 Pos roham di au hasian Tung so sega bahenonku roham Sai papitaonku doi Hapeahan ni holongtai
 
 Husiphon ma alusmu Tu sipareonki Asa pintor huboto Nasib ni holongki
-
-![Angelista Silaban feat. Dompak Sinaga - Paloas Ma Au Hasian](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPZytYoL7GJPIW3-4vvjc4T5hbpxRV-1GwvHbIjdnwocPFwaNEOgbUQjx-WK62iRZbo46fk5daar2cPpBHhhBiRCJvNaKCCFV2B-Zjnq_Ey6bOkqdaMTLzrMUux3BIh5aPrr56XKvsPgzNL6oTGNn6ST6s6ynCsSzjbgwNyWssOcNgDAsqfywzZop8_xJl/s480/angelista-silaban-feat-dompak-sinaga-paloas-ma-au-hasian.webp)

@@ -16,5 +16,3 @@ Kau harus tahu Tak ada yang seperti aku ohh Menghadapimu Kuat bertahan untukmu T
 Hoo hoo
 
 Terus menerus memaksamu Tak peduli sakitnya bersamamu Tapi jujur ku tak mau Terus menerus memaksamu Ku tak tahu bertahan atau menyerah Ku tak tahu bertahan atau menyerah
-
-![Anggis Devaki - Bertahan Atau Menyerah](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjW0N8wpF05u-0fv3Kcb1egAw6lTrbv2IQtV_sLwdpcqeYsVJY_KvX9bcATCP4TAyhZP2k9Vml8B4Pzgdv6KxX1Rbivgeps55JWQaDL-Enj1uHWkqHfe5Upmt8osRmyBsNZccfVXoH4VUfCjMqxyfHn3hyphenhyphenMyfD8bEIAUsmGNmm75RUTlsdVvwOKjKdn2-00/s480/anggis-devaki-bertahan-atau-menyerah.webp)

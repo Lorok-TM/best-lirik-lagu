@@ -20,5 +20,3 @@ Reff: (anggrek) Rindu-rindu nan nyalo Jo apo ka dipadamkan Angan-angan nan taban
 (anggrek) Malam manjadi mimpi siang manjadi bayang-bayang Harok denai batamu Mangko katanang
 
 (pinki) Kok rusuah nan adiak padalam Indak ado gunonyo sayang Denai dirantau urang Ko diak . . . Harok isuak adiak lai sanang . Denai dirantau urang Ko diak . . . Harok isuak adiak lai sanang .
-
-![Anggrek - Rantau Pambateh Rindu Feat. Pinki Prananda](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwd5N5KQktnH6KkuVsmJ7k-lfIxbrsA7n09xs4QYELz_aRNWhE4q5c9gngZO6fT_iPvtq6rYdkOXMqMWE6s5sy-iqkrWoUqdcxcFsoIUua-R2bZwZzpGRPUQVN_NX7yZFZOVDGqsFq3OXsw4HSB2DIFbSahh-VVW2IzA-7Qyj6wcxSmDYaLN_eLdVVxQdH/s1280/anggrek-rantau-pambateh-rindu-feat-pinki-prananda.webp)

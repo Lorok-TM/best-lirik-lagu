@@ -20,5 +20,3 @@ Dinlah badindin dundan Baharaklah sakaliliang kampuang Dinlah badindin dundan Ba
 Dinlah badindin dundan Baharaklah sakaliliang kampuang Dinlah badindin dundan Baharaklah sakaliliang kampuang
 
 #Credits: Judul : Alek Rang Minang Voc : Aniqu ft. Pinki Prananda Cipt : Rozac Tanjung Arr : Aditya Fajrul
-
-![Aniqu - Alek Rang Minang feat. Pinki Prananda](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirkD3nOF0PuClDvy1x3kLsghX5b3yNP4zstc-L7FjTUVbsrazbEgOlY8J6ewZCPWXQbquZ0mgyQSmGtHKjGIb5c08uUDFkRUVVe1TkogsySAphbKUztP0cOjMfdm0tkwfe5WGEXUD1MsHzkYNdElTzwSfK065jNiupuT-nc75dbwmAWMLMyDz6Qu-iaEl_/s1280/aniqu-alek-rang-minang-feat-pinki-prananda.webp)

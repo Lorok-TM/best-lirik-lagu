@@ -23,6 +23,4 @@ Title : Tarimolah Cinto Denai Artist : Anggi Rayns Songwriter : Vandy Satria Cat
 > 
 > Tarimolah diak sayang cinto nan denai barikan Kok untuang isuak adiak den pinang Tarimolah diak sayang cinto nan denai barikan Kok untuang kito kapalaminan
 
-![Anggi Rayns - Tarimolah Cinto Denai](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghKFcm9p0nQUqTZ-kKRx6EDRtLApnHtuHFMU5ImY1kxBntv2YH7QF_OcyRe6_HaZn1gr6wJv_yha91YujzZ67EmkSuqPKWChHB_fQl0ai5hCdX3mi2IBhT5qbwXH8YovKH7hL8bZgM_oti--DDSkjoWjSDuSjD96S5BBSuF5eQGNIpHAc1Mq9RZAifNQ/s800/anggi-rayns-tarimolah-cinto-denai.webp)
-
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Anggi Rayns - Tarimolah Cinto Denai. Silahkan bagikan juga ke teman anda.

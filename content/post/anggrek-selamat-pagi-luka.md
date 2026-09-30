@@ -25,6 +25,4 @@ Title : Selamat Pagi Luka Artist : Anggrek Songwriter : Ajhay Pasma Published : 
 > 
 > Selamat pagi luka Sembuhlah jangan berdarah lagi Ku ingin bahagia seperti yang lain Akhiri derita di jiwa
 
-![Anggrek - Selamat Pagi Luka](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxDGh6D9yJRCq2HBTINZmY4THIQuyxlTZ445xLNfB6QSJhzwWOrRKjVg88ngbWiHMBqR86EDYSmZDpV_lXPQX7Gy8Agez5srq3bism3j6ntlV0DFBwc_WGS_priu4ZeRw3n2iA26BqDg2to-vJXBEampyYJAWW8zA0jBk82qIc4cpM5wUrtljKh_hCDQ/s800/anggrek-selamat-pagi-luka.webp)
-
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Anggrek - Selamat Pagi Luka. Silahkan bagikan juga ke teman anda.

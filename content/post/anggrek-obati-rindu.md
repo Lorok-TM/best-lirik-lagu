@@ -5,8 +5,6 @@ categories:
   - "melayu"
 ---
 
-![Anggrek - Obati Rindu](https://raw.githubusercontent.com/Lorok-TM/2026-08/img/anggrek-obati-rindu.webp)
-
 ## Lirik Lagu Obati Rindu - Anggrek
 
 Kaulah yang kucinta Kaulah yang kupuja Bila siang ku terkenang, Kala malam ku terbayang

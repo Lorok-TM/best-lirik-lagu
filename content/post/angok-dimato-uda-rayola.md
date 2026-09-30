@@ -16,5 +16,3 @@ Manga kok dulunyo uda nan manikahi Lah jauah kito di rantau urang Ayah jo mande 
 Jikok tau co iko Ndak mungkin uda den tarimo Harok baliak ka kampuang Lah malu juo jadinyo
 
 #Credits: Judul : Angok Dimato Uda Voc : Rayola Cipt : Safril Saha Arr : Iwan Romeo
-
-![Angok Dimato Uda - Rayola](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhm-D0OarnP_kmhjlpL7n8dOAHvNhROb2puwueOk89JX9__oWNC1t33VZnG2ByaUDnC8Ql5jKgWN0fNAoiN7A_E_Oe47uQUBYgO6GHkEX9lCij2LxMCWALalgxI1rVsg1Hc90chkf-kASuFWJxenCwwDsU7kQSJ58xgPNg1UGENNduK9SwoYJ4fXgx4K-CR/s480/angok-dimato-uda-rayola.webp)

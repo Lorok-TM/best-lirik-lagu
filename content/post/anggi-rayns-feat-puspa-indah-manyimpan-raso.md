@@ -24,5 +24,3 @@ Title : Manyimpan Raso Artist : Anggi Rayns ft Puspa Indah Songwriter : Erwin Ag
 > Kok dulu uda sampaikan nan taraso di hati Mungkin kini ko kito sajalan babimbiangan
 > 
 > Antah manga muluik takunci kini baru katakatokan Adiak lah dalam pinangan
-
-![Anggi Rayns feat Puspa Indah - Manyimpan Raso](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjphr2BrNFRFTUqL0DSablaSC7iA3XLqkAvLcSWk279RvXC0DunOvPnPlgpo-GEaEIDFroCq_YlpCMNpohyAA8Sal_RwT2g8fXIrnvvWuR19cAHRu3nOAFcB71b8-fKQS8dWgWMtxdAE_ZZE54Rm4cIElLZQQVO0VQORQ0Xrmz1nwUAdKvwmP2lfL2dkw/s1280/anggi-rayns-feat-puspa-indah-manyimpan-raso.webp)

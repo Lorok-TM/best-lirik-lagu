@@ -29,8 +29,6 @@ Situs bestliriklagu.com tidak menyediakan chord dasar / kunci gitar / Mp3 lagu L
 > 
 > Padiah Padiah bana Hati taluko tapi indak mangasan
 
-![Anggrek - Luko Indak Mangasan](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjn4nSm0oWSWyDIjMi7Yf7baQMezSLSo7foSVN97govvAm8TSZtg78okn0xhC6Xi2totigrs3zcJJP_22O3ZBoWlAeoqjSqtDP9we5ss6q2KHbn1nXbtsWGw2JKVqUih-IZPGAMWWmqWbNKm2H6zFyPuiIHzxDzKdlZiRQ3YDrOLchw-OMtrdAOKWFuSQ/s800/anggrek-luko-indak-mangasan.webp)
-
 Tujuan kami berbagi ini ialah menyediakan dan menambah sebanyak mungkin informasi arsip lirik lagu untuk mempermudah bagi Anda yang ingin menghafalkan lagu Luko Indak Mangasan ini, maupun belajar bermain musik.
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Anggrek - Luko Indak Mangasan. Silahkan bagikan juga ke teman anda.

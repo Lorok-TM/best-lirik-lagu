@@ -23,6 +23,4 @@ Title : Janji Mamak Maracun Hati Artist : Anggi Rayns Songwriter : Erwin Agam Pu
 > 
 > Indak tantu kama badan ka batenggang Kok ka baliak ka rantau ndak ka mungkin lai Poko habih hutang lah sabaliak pinggang
 
-![Anggi Rayns - Janji Mamak Maracun Hati](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFP2X1Stqiq3X6duCOmG6SNUEJCEMsnGH7-JvHs5zpjZcYEGmgnYrYowHJY1MSZ4Y-8GZJI0IYYyLSM9Za9_8b6SuItarNt1udUqlpPoqWoqLL2uRuGD8llKOJlqA3OxmTNi76YmCe7bf4_3_E0NPXc_i3ULiE9hSx2vTCH4KC6doGBQWERZSNpcQ3uJG4/s800/anggi-rayns-janji-mamak-maracun-hati.webp)
-
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Anggi Rayns - Janji Mamak Maracun Hati. Silahkan bagikan juga ke teman anda.

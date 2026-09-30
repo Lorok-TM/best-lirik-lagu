@@ -29,6 +29,4 @@ Title : Alek Tak Jadi Artist : Anggrek Songwriter : Roza'c Tanjung Production : 
 > 
 > Sampai hati bana uda Ma ulak cando mambuang
 
-![Anggrek - Alek Tak Jadi](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSDXjBKMCdGvoFRdkZoZZv_c5s2FAvzLXJVW10C02cDbze9LHBep0fgh5Z90Kjh6iycw8XpLw1dOA37znJEiSXFQy87ZGARvLOnbCOFr47VweHPFxD3Y0FB39_NnyNG7-fDk6JaGymsKhM-PFC-ZsKtrkBCoCQnKMf-svO2BEHVETOryq6JtaV1gNiEw/s800/anggrek-alek-tak-jadi.webp)
-
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Anggrek - Alek Tak Jadi. Silahkan bagikan juga ke teman anda.

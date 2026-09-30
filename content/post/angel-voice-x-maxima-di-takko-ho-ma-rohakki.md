@@ -12,5 +12,3 @@ Jari jariku do manjalang ho Alai tarotok akka bukbak Ala lambok ni soaram ito Ma
 Reff:
 
 Ima mulana sai huingot ho Mambaen masihol au tu ho ooo Ditakko ho ma rohakki ito Dibuat ho nang holongki Ditakko ho ma rohakki ito Gabe laos tadi do di ho
-
-![Angel Voice X Maxima - Ditakko Ho Ma Rohakki](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpWSAwvaTjHetXerexlZ1uevvgwLz2tKjhMbRRz-HipzdZxxdYlicWxDAHI0LlA8MYI6lekLd9I0-ydeERPKr-yxgPBEH4MgdIwKv01KH4xAd2bs8L7bXfZZMzpoBi4RtDg8EPsPCf4ZJdaFHA7UNkaCQ44CAD7xOJCOCyAm7EXiZmo_j8aV5VLfMtcBYO/s480/angel-voice-x-maxima-di-takko-ho-ma-rohakki.webp)

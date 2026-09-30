@@ -18,5 +18,3 @@ Gamang jo aia mato taurai Rusuah hati den kasiah kok bacari Den tampuah juo jala
 Dek uda lah biaso Babuai sanang baaleh jo lapiak ameh Nan den takuikan rang tuo uda Manaruah bateh
 
 Kok cinto denai Usah ditanyo yo hanyo ka uda surang Den harok juo di ujuang jalan Cinto nan manang
-
-![Anggrek - Maharok Cinto Nan Manang](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJFCU7d7W_B9HsvkiYnLj8XoR6mmVpGfeyHdzNIdGz7onX1SnN53l9Bx79PDBmP8bH1U61HlMxENQ-A-LRUI4j4P2et72M6Fx3lV1ZCv1ScRf4cYdlWyq_SKjIgkakiuY7EdLK_Hpmx-62dYiGUAvuU_wTxDbDLMEc40lpmojSAgtlvlVARq0RwQ8Xl_XB/s480/anggrek-maharok-cinto-nan-manang.webp)

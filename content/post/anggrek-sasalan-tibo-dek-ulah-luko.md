@@ -23,6 +23,4 @@ Title : Sasalan Tibo Dek Ulah Luko Artist : Anggrek Songwriter : Ajhay Pasma Pub
 > 
 > Kini uda datang manyasali Jajak cinto nan lamo Lah den hapuih di bathin ko Carilah cinto nan lain
 
-![Anggrek - Sasalan Tibo Dek Ulah Luko](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5d8ksTfqjjLup4AeDp3QUfa3AWJkjaTp69JJ787wWTQ9dDM7SXxqntwsyLuWEtwh3m5Gk7eeCj7hKbBF7SbjpG1RnhylZfCMfU5-TrzTUOcknzMaO9fGIPkjMwkWA_lYH2g21lfLqJKO4NnYmKyCxo7IZpSBbpiycNFcUApguDo0txvrc-dLz544NtA/s800/anggrek-sasalan-tibo-dek-ulah-luko.webp)
-
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Anggrek - Sasalan Tibo Dek Ulah Luko. Silahkan bagikan juga ke teman anda.

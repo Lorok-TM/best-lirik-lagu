@@ -32,5 +32,3 @@ Inda harani sarjana Jurang pamisah di hita Cinta na tulus sian roha Rap ho do au
 Aek disiborang inda bisa au marlange Au tarhalang angan mamendam rasa satonga mate
 
 Aek disiborang inda bisa au marlange Au tarhalang angan mamendam rasa satonga mate
-
-![Angga Eqino - Harani Sarjana Feat Vifa Agora Nasution](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_GznZpSqShxotJOQIHoSYjhG6EcJLsewGSkmr2a-A4XmU3FJ4vPk1JORkwG5TVAdtTwy7EHnS5oD09rcjUVP3wIrCuOUOvnXZncHBNMU8_ipdHuFMQ39AqICgiAFVTb3yvktSw6DgjGPEVJLfQdixOqTZZFdmOzt4MZ9xouXQzM85Swwb9dYCpz1_1ltK/s1280/angga-eqino-harani-sarjana-feat-vifa-agora-nasution.webp)

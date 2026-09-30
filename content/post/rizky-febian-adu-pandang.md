@@ -3,7 +3,7 @@ author: Katrok
 title: "Rizky Febian - Adu Pandang"
 date: 2026-09-27T18:01:00Z
 slug: rizky-febian-adu-pandang
-featured: true
+featured: false
 draft: false
 categories: 
   - "Indo"

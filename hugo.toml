@@ -67,6 +67,7 @@ disableHugoGeneratorInject = true
   mediaType = "application/xml"
   baseName = "sitemap-news"
   isHTML = false
+  isPlainText = false
 
 [minify]
   minifyOutput = true

@@ -30,5 +30,3 @@ Kurangnya apa salahku dimana Setulus hatiku menyayangi Mengapa tega kau hianati
 Tak ku menyangka begini akhirnya Cintamu yang dulu ku banggakan Ternyata hanyalah satu permainan
 
 Satu masa kau pasti merasai Karma cinta kan menghukummu nanti
-
-![Anggrek - Karma Cinta](https://i.ytimg.com/vi_webp/HyH63uxMYPM/maxresdefault.webp)

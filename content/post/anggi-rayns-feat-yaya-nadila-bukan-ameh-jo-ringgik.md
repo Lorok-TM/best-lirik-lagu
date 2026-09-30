@@ -22,5 +22,3 @@ Title : Bukan Ameh Jo Ringgik Artist : Anggi Rayns feat Yaya Nadila Songwriter :
 > Di cari rundiang saiyo kok dapek kato sabuah Babimbiang kito baduo sairiang saayun langkah
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik lagu dan lain sebagainya. Terimakasih atas kunjungan Anda.
-
-![Anggi Rayns feat. Yaya Nadila - Bukan Ameh Jo Ringgik](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfVN4VEyX20Hh8ws7X7DrxV8ytpBLXKuRzJjw3c45Bxnz6vsSDFgJBXpMShsvuN_NFYD8tLK57VQkZKoPksB42kHEK8saewDTU8oLRvdv9D9J2JXAoMVJQjJCHhv7Fjm1OQzNWi2X8X3NYwTGyFu3cgkujwPJQyDUiSDWLvttTDZ2-ZPme0W7SwYYpPA/s1280/anggi-rayns-feat-yaya-nadila-bukan-ameh-jo-ringgik.webp)
