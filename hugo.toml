@@ -59,9 +59,14 @@ disableHugoGeneratorInject = true
   showFeaturedHeader = true
 
 [outputs]
-    home = ["HTML", "RSS", "NewsSitemap"]
-    page = ["HTML"]
-    section = ["HTML", "RSS"]
+  home = ["HTML", "RSS", "NewsSitemap", "LinkScanner"]
+  page = ["HTML"]
+  section = ["HTML", "RSS"]
+
+[outputFormats.LinkScanner]
+  mediaType = "application/json"
+  baseName = "link-report"
+  isHTML = false
 
 [outputFormats.NewsSitemap]
   mediaType = "application/xml"
