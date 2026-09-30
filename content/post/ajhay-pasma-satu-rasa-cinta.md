@@ -25,6 +25,4 @@ Title : Satu Rasa Cinta Artist : Ajhay Pasma Songwriter : Ajhay Pasma Category :
 > 
 > Ku akan membuktikan cinta dihatimu Satu rasa menggapai bahagia Ku pinang dirimu sebagai teman hidupku Berjanjilah kasih setia bersamaku
 
-![Ajhay Pasma - Satu Rasa Cinta](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhD35osCyktupXiGYNqUFFaN9awjlxd5IbAq5PFeY1hkbAFajYlSHmRbSsvA1IaBIdrgOMksJucW9TOCYKQBcmMusfCODAw0-htOWa984aGtEa8Q_W-X0Xu0aXH0lbiJTPY1cTjUSjve8oy46yWsSlWxaBIEWh6a5YRaQIWdYH3acYGpijOPUJtPbVYqQ/s800/ajhay-pasma-satu-rasa-cinta.webp)
-
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Ajhay Pasma - Satu Rasa Cinta. Silahkan bagikan juga ke teman anda.

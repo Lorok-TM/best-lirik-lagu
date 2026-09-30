@@ -26,5 +26,3 @@ Baok lah denai tabang malayang Jan tinggakan diri den surang Den ndak harok jo k
 Kini ko kito maetong untuang Jan tabali kuciang dalam karuang Awai lah denai tapek di jantuang Ndak tabilang mak imar di sanjuang
 
 Indak kapindiang itam basayok Kama mak imar indakny mancogok Hati takanai yo nak ka hinggok Kama mak imar situ den malakok
-
-![Alfina Braner Feat Dayu Koto - Awai Lah Denai](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8yj-TfBWa159DXFiySe2ZNyIqb5wbHByoaZ0E8EmzUPwkOHsn-roVphv9mZHjQqv3_9SlquZVLPCDcPSCjkzB0QILVg7oS7Xjpr8-72yw7Vy66aS2opwOaqx7h-YgZwwqLNv9IESrXC59InU63cGsvfPQKcKMFcz0pgy8s3JtFjofY5_Vz7UV5qEeWn7F/s480/alfina-braner-feat-dayu-koto-awai-lah-denai.webp)

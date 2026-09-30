@@ -23,6 +23,4 @@ Title : Mengagumimu Artist : Andra Respati Songwriter : Andra Respati Category :
 > 
 > Ku sangat mencintai dirimu Ku sangat menyayangi dirimu Ku sangat mengagumi dirimu Segalanya ku curahkan untukmu
 
-![Andra Respati - Mengagumimu](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkKc55fKOgCpWezAatwGXaOcFUVtnJSFhHN0uLrF3NsRy2JbdtWTTOwxplsEgWXLOF5cCc0P97sQd3WO-wr40OKQR5Xb683S9W7g-cJBRB3D1J6sQOGCHJrHIffYp-wNrCBNYjKpBFlvlYd0IHJOEnAyMvIaj3Z8rfw-r23cNydctNQJxVWMhDd68dkA/s800/andra-respati-mengagumimu.webp)
-
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Andra Respati - Mengagumimu. Silahkan bagikan juga ke teman anda.

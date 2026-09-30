@@ -22,5 +22,3 @@ Title : Orang Ketiga Artist : Andra Respati ft Gisma Wandira Songwriter : Thomas
 > Tlah kau gores luka dihati Saat engkau berpaling tiada Kini dirimu bersama dia Tinggalkan aku yang tak berdaya
 > 
 > Cintamu sedalam samudra Namun tak bertepi Cintamu kini dah terbagi Bersama dirinya
-
-![Andra Respati feat Gisma Wandira - Orang Ketiga](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtUE7sAtPUY0JOGumWDHq7qvvrdkz3m92xucVwXz3MCLYSPrSumIZsrNRsYHHX43dmDV1K_w6Vy7z4k-h0fMp7P4xL32OFMta7WGAm3msUYz_anr7TFleqO4lRXLL38O7c_v8fSzXLQF8bJvj9Yd-wMgv4_ZJ5jwqh_WNhPeb0QY9Y38XqNWB80EdpiQ/s1280/andra-respati-feat-gisma-wandira-orang-ketiga.webp)

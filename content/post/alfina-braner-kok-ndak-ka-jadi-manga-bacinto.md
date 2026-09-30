@@ -24,5 +24,3 @@ Siang manjadi oi angan angan Jikoknyo malam tabao mimpi Jikoknyo malam tabao mim
 Dek denai kasiah sabana dalam Dek uda indak di dalam hati Dek uda indak di dalam hati
 
 Basipetiang dulu lah nyo uda marayu Kian lah kamari lalai uda mangaja Kiniko denai ondeh lah babuek malu Kasiah tacurah lalai uda balengah
-
-![Alfina Braner - Kok Ndak Ka Jadi Manga Bacinto](https://i.ytimg.com/vi_webp/Kp_qEBqN944/hqdefault.webp)

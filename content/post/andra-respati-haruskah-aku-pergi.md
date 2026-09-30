@@ -26,5 +26,3 @@ Kasih kau anggap apa diriku Orang yang selalu menyayangimu Perih batinku menghar
 Bila tak cinta katakan saja Agar tenang jiwa yang merana Ku tak memaksa untuk kau cinta Bila hanya menjadi beban derita
 
 Aku lelah Aku lelah Aku lelah
-
-![Andra Respati - Haruskah Aku Pergi](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwxyQTmwlrnKG39eWmywkUx5OljsbfZlUY7ml_wnPDTJOkVP1uK-ILtu6TAHLsUJpVq1FMUDQoIoBA4i7UnC7xKizmK2XjYWqnhuHIID3qS6opXhpGGQXFhIfgBIs9BWiPp7Go3K2NQLPbP8nuz9pSJYrtlEchcmVD_FPL-WSobJh2ljmnUD-3N2ewDCxk/s480/andra-respati-haruskah-aku-pergi.webp)

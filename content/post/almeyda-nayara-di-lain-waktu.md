@@ -27,5 +27,3 @@ categories:
 > Semoga tercapai semua mimpimu Begitu juga mimpi mimpiku Sampai jumpa aa Sampai jumpa mmm hmm Sampai jumpa di lain waktu
 
 Title : Di Lain Waktu Artist : Almeyda Nayara Song & Lyric : Bayu Ramadhan Mixed & Mastered : Roads Studio ( Singkawang ) Music arranger : Ridho Anugrah
-
-![Almeyda Nayara - Di Lain Waktu](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5rNAE52jyWcEQ_05pxa5lf4C15oW0DRnTOb8a0PyO671x-py6w72ZBuePrnbKq3zh-kb1RJ_y3wl3AphZJvYFoNu8eBGATcnyB-oNtFt_9UTjd-o3efU6k2T2GhjKcPdxSi2GqlGiPzoXFye67pYgFdC7STMEr8RKf6aPHy1NqRNk_zgdi9foAy5bfw/s1280/almeyda-nayara-di-lain-waktu.webp)

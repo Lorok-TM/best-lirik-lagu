@@ -28,5 +28,3 @@ categories:
 > Cintaku kepadamu sedalam pusaran bumi Tak terselami siapapun
 
 Title : Cintaku Sedalam Pusaran Bumi Artist : Andra Respati Composed : Jhonef Sas Post Production : Andra Respati Management
-
-![Andra Respati - Cintaku Sedalam Pusaran Bumi](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9ogWbhX4ihHWNwW9dTotEp-z8vAIjMxXBxfwh90fjLXVb0_gY_w7g8j0S4G2Nq-5g8Pk-TXJvIyGG_c8mGfqJGnhKAFq8Joixwl2aaOSmRqz3GVwjYDg38V9cXP-Q1hoJ88dEQglh3ijei_oWOhBDUDd9wkq9NhpVBU5HxNH8OC8xho0A-GcK_zaMBQ/s1280/andra-respati-cintaku-sedalam-pusaran-bumi.webp)

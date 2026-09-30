@@ -24,5 +24,3 @@ Tuhan lupakan ingatan aku tentangnya Tunjukkan hati ke mana harus melangkah Semo
 Selamat bahagia damailah engkau dengannya Terima kasih aku yang kau beri luka Selamat tinggal kekasih yang tak berharga Aku kecewa sumpahmu sebatas kata
 
 Tuhan lupakan ingatan aku tentangnya Tunjukkan hati ke mana harus melangkah Semoga semua sakitku menjadi indah Takdirkan aku dengan pengganti dirinya
-
-![Andra Respati - Selingkuh Berulang Kali](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhweektj1xy0HjifpPvPrhu6AKIrifovavwujQBDw7CNzVHiKzJAhxG-L0iNwfMZR5cZn4USrjoi6R_5f-QjAwN5Y6QYj0wbgN3TTk_WbTHYLkPaUDnDMUmzgph-e-SBuSC1dbhss2uu_shjwb8T7bMjy-8V1YXoT-x4UnJfcfB01297U-0g2kjycQyjmcr/s1280/andra-respati-selingkuh-berulang-kali.webp)

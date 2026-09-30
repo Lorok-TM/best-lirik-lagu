@@ -34,5 +34,3 @@ Ingatkah dulu kita bersama Melakukan semua hal yang gila.. Kau dan aku satu Tapi
 Nyatanya kita.. tumbuh berbeda.. Bukan salah siapa Bukan karna apa Kita hanya mendewasa..
 
 Ingatkah dulu kita bersama Melakukan semua hal yang gila.. Kau dan aku satu Tapi itu dulu Kini hanya masa lalu..
-
-![Anarcute - Mendewasa](https://i.ytimg.com/vi_webp/4QHIiidDNL8/maxresdefault.webp)

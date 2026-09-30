@@ -24,5 +24,3 @@ Ulau mangandrö ufabu'u Uröi lagu lagugu bawa'areu Menaö naso niha solohe tang
 No ara iröido satuagu Hatö ya'o lö talifusö bangaigu Fa'aurigu awai zino mate fandu Teno da'ö mege wangandögu ba wa'atumbu
 
 Teno da'ö mege wangandögu ba wa'atumbu
-
-![Alui Lase - Mangandrö Ufabu'u](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj32K5oSH4zXr9f3YznxEQlViW5SuML7TAylbDJj2-jbaGGg6nuhR2vThbwZelV5mGXjBiTfaPIWWm4XeecJKDhfHwym4R82iSwQRaxOk0YznwW0HpYMyKcvQTHG6lWjoc42d2cV18vaYTi2nldLwkilCqwgQgupeYDdiDpwzsc9L-AgI8GZ3kajF3S9okR/s480/alui-lase-mangandro-ufabuu.webp)

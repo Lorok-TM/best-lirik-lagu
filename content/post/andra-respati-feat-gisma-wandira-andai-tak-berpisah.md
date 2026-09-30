@@ -31,6 +31,4 @@ Title : Andai Tak Berpisah Artist : Andra Respati ft Gisma Wandira Songwriter : 
 > 
 > Andaikan kita dulu tak berpisah tak kan seperti ini Egoku dan egomu tak mengalah ingin menang sendiri
 
-![Andra Respati feat. Gisma Wandira - Andai Tak Berpisah](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyvXX3EEgTGDWxY_9hat1gboSTZ0KV8fQQ2DEhPD3xzSvYxRBdROTkmuXFTsl5pBDglooC7ZfxGOWNFUVxq7Ru6EqRZpOe6XnS_Gk2NF8PVIW7BTLEkfsvkQciE0bwyfI44arUsL9zcLoW9zYVmCdYpM3jPa0T_5KKnLWmQoGSss4b5SYMzub5ix2nXg/s800/andra-respati-feat-gisma-wandira-andai-tak-berpisah.webp)
-
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Andra Respati feat. Gisma Wandira - Andai Tak Berpisah. Silahkan bagikan juga ke teman anda.

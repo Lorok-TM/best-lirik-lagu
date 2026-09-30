@@ -18,5 +18,3 @@ Hati bakato didalam dado Adiak jodoh dari nan kuaso Nantikan denai datang maanta
 Den nanti uda jo urangtuo Kok dapek jan balamo lamo
 
 Cinto lah nyato ka adiak sajo Sacapeknyo denai tibo maminang
-
-![Ali Gama - Jan Balamo Lamo feat. Febhy Febyola](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXk16IjocQu65wemvJlJDxGar2U2AgdyKImvlmct4BqMKfjIW2dcVLsFIU8ZKR-5DXRWPAKlHHa1YtFSvNF9rwKrsPRsqzwxVEu-mW3ajhnvx3ynjesZpgRlUnscKuZmboQbHLmFZk_jkiWlWw1kgWccFzCttLxfc7qO6dvQHyTjmc9ZxDkQ_dNIXvGiYT/s480/ali-gama-jan-balamo-lamo-feat-febhy-febyola.webp)

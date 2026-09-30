@@ -24,5 +24,3 @@ Cuma ale se orang yang beta sayang
 Kacil dong pung papa Kacil dong pung papa
 
 Cuma ale se orang yang beta sayang
-
-![Alice Sia - Kacil Pung Papa](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZVde0q9cQq6FhIa8W4x0DWr9pCcAHwlrgsFU18SaZGxy0Ts44cE1b5gNBiJ0Fnv8_KDlmiBqqmhhHH3Oh51_-H-mzNZOClcMmu6Bd4bC1iQZ8QxEtpsrwAFfi_qio23I8F6DQ75hyphenhyphenfB_f3rZNklSUCjQ1mUXb57qQu46iMYTXO-0y924V619mfRqQWljU/s480/alice-sia-kacil-pung-papa.webp)

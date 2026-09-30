@@ -16,5 +16,3 @@ Duh kangmas kulo sampun ngerti Sampun ngerti usahamu kangge bukti \*mbok ono nes
 Demikian lirik 'All In For You' sebagaimana di atas.
 
 **Credit:** Judul : All In For You Voc : Shinta Arsinta Cipt : Zulian Achmad Yuniarto
-
-![All In For You - Shinta Arsinta](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHbgg8jeccWttiTsS1wViw8wSgDlDanPGq-arFjNzb-FqlRsM3q3y17AiA5nwBgbA9iW0ROpg-WzBCYvhl90biiM7IFqvRVnRfKpV9wDigUeRG-hSJehbk8kwQtIM0UZaImivd0RVkBbZl0kVszGVFWXysq8Q9J7db6mzuE8kgqcghM93ok9qdBdwLSJsz/s1280/all-in-for-you-shinta-arsinta.webp)

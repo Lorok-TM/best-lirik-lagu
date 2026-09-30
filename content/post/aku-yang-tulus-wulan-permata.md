@@ -22,5 +22,3 @@ Aku tak kuat sayang Kau tinggal lukamu Cinta ku tulus Kau jadi cambuk Untukku Ya
 Demikian lirik 'Aku Yang Tulus' sebagaimana di atas.
 
 **Credit:** Judul : Aku Yang Tulus Voc : Wulan Permata Cipt : Rofikoh Isnaini Arr : Dayung Pratama
-
-![Aku Yang Tulus - Wulan Permata](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOzHN-uSS7Wk90a1hNrsaOiLp3uNTaDfHGbpH5nZTG_qa91VFpBedyobRXy3GfBNZswsltn10BqEfhGNLriJfviY1HTJ4LZQ8H-C7-xPZzJPudJF5gAZPdQM0YHSjrGSnPqKkVT9TSG5ZwFQ__gns6lbTGAeBPvNCjyglp1-SSRgkTQgHn13J8jUsA6msN/s1280/aku-yang-tulus-wulan-permata.webp)

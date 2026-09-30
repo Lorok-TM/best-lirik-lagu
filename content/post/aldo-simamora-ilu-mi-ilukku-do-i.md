@@ -33,6 +33,4 @@ Title : Ilu Mi Ilukku Do I Artist : Aldo Simamora Songwriter : Aldo Simamora Pro
 > 
 > Unang be sai tumatangis ho ito Ilu mi ilukku do i Papos ma rohami Dang lupa au tu ho Papos ma rohami Dang lupa au tu ho
 
-![Aldo Simamora - Ilu Mi Ilukku Do I](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgY235KNx09ODvUpfMWzdQ9wLtQOnPsItf8XC2EHKe9drrSkCEVoVF8Y6zZ2Hcnki3I2YbNF9fqiC_9AO5u0yeUmENw64M6G2VyfZaLZTSqgcbsQ2ixFAz-zV-m7oa_-gW4lSpotk_MOy7A4BseG5OVErEbBKeX9Qw5uiwuvBJdWoeLCJiPwtpokcwQmA/s800/aldo-simamora-ilu-mi-ilukku-do-i.webp)
-
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Aldo Simamora - Ilu Mi Ilukku Do I. Silahkan bagikan juga ke teman anda.

@@ -25,6 +25,4 @@ Title : Baok Lah Denai Artist : Alfina Braner Songwriter : Alkawi Studio / Mixin
 > 
 > Ondeh uda timbang timbang lah Denai baharok juo Ondeh uda japuik denai da Gungguang baok badan ko
 
-![Alfina Braner - Baok Lah Denai](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtJpPRivxrqj2YqNn6pf-2FHCQZGFFIgPTtJnaNLhMCE8u2s12K29GyEbSB3d6HCqXkt5uZl9IulygsKkAsXg90YY71yb8kSF32zwxNZc6aiec0XbXQr5nGoYNgh12WP2jwobnb3bmcbrjA6UOSCJvmYzYfkdiTGYm7xcMyUL4F5BK4X4ymfY5vJTW5g/s800/alfina-braner-baok-lah-denai.webp)
-
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Alfina Braner - Baok Lah Denai. Silahkan bagikan juga ke teman anda.

@@ -21,5 +21,3 @@ categories:
 > O-o-o-oh Syahara
 
 Title : Syahara Artist : Andra Respati Songwriter : Emen Post Production : Andra Respati Management
-
-![Andra Respati - Syahara](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmJqORd-q3NIkroS12NhyaEH_qU1SKFGdef1JXO8d2BlF2FpB8zXX6So6bzoSoDaVewAgMZ_D25twyrQUuJZ1u0R6CG9V8_jkoIaY6mcqlgvw0xdcjWj1GRH8olS-KH09BlkqohmOnJgBYt2czj8eTnoXd4odDVkhu21m0HwF893RpNGtmXXqymCRjmA/s1280/andra-respati-syahara.webp)

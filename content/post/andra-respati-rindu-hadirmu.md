@@ -16,5 +16,3 @@ Semoga dia merasa Apa yang aku rasa Diriku yang sedang dilanda asmara
 Berulang ku berdoa pada tuhan kupinta Semoga engkau di sana selalu setia Meski terlalu lama jarak kita terpisah Diriku di sini selalu setia
 
 Beri kabarmu sayang untuk diriku Beri kabarmu sayang untuk diriku
-
-![Andra Respati - Rindu Hadirmu](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgphnhW1F_8bVUoZ8UAuhbG9BAsdcsgf2eMoeM_mUI5UstytaZ3aKaUHmvPFFyk2iDxVN3qRvUdP2YoOlu-T1h5f969NSPDAA-1RBzcMFdYSZhcKuQnM7_MAawwp9EZDnQtz9uOi6-hRDC8EImMs2fVbva_Mrxmzsavx3yNE_FUTynnEPVHP6wb02QQ-zSf/s480/andra-respati-rindu-hadirmu.webp)

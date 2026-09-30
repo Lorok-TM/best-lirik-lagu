@@ -30,5 +30,3 @@ Jangan jangan kau paksa aku Ikuti semua mahumu To-to-to tolong me-me-mengerti Ap
 Aku sayang tapi takut terjerat Mahu dekat tapi hati tersesat Bila cuba rasa ragu Antara cinta atau perlu ku berlalu
 
 Demikian lirik 'Aku Bilang Jangan' sebagaimana di atas.
-
-![Aku Bilang Jangan - Mikky Zia Feat F4dli](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0UV-cDDQby5tY4b9wcdhiwIw17j55i-5FRizH2v3ZHw9DP1qYiaNRKkNYG3Ofd9AZ1njrkcttLIUaxHi00YPVINbGe6x2E2zZNArRuk8mj0GVDVwNZJqRD16mL0IzRfwB9_n7N1HyKWxk9HEUt9AsY52BUSTnDuOYogLGtAfQPxqV7oVpDtbHqDrPntZK/s1280/aku-bilang-jangan-mikky-zia-feat-f4dli.webp)

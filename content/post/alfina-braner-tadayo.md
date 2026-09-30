@@ -34,5 +34,3 @@ Tasilau juo urang di kampuang Ndeh ndeh ndeh da Tabangkik juo batang tarandam Ta
 Tabangkik juo batang tarandam
 
 #Credits: Judul : Tadayo Voc : Alfina Braner Cipt : Misramolai Arr : Novan Solkey
-
-![Alfina Braner - Tadayo](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiI4VL9cGV7g0xbXyvwa-7YjBnPCQ5IxmSfvzU2sh1ehucjVEzfdlZ6rutwP00uenW0mXT5zBae-v5mmbPcftWvmi7blRwXdjMb_iwcaZv0WlHYgeX5nN0OEnS49gmUr7nwKHipKDFcUPCCajT8LiNagC-_PfJC0zknkd1fgCJQrN7dADnuAx7pyil2fOzn/s1280/alfina-braner-tadayo.webp)

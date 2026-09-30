@@ -31,8 +31,6 @@ Situs bestliriklagu.com tidak menyediakan chord dasar / kunci gitar / Mp3 lagu R
 > 
 > Walau patah tumbuh Hilangkan berganti Namun luka ini Sukar diubati
 
-![Andra Respati - Retak Hatiku](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinq_tfDAlqUt19DTB2afiF8oN-gku1z0XIbwiKC_Ml2glDt22CgpKfS8WOu6IpL-KUiTeFocpOfPbqrsLjYk2hllp7zR4dHCmzjF7DA2tyKdy2GtGhKRodMgTs-Sp-0tdPUl22ZJWjhzxZNv7S7r6mVrpMDtR7pMnHKzbcancJZHm7cTehbUjxLFytI8YW/s800/andra-respati-retak-hatiku.webp)
-
 Tujuan kami berbagi ini ialah menyediakan dan menambah sebanyak mungkin informasi arsip lirik lagu untuk mempermudah bagi Anda yang ingin menghafalkan lagu Retak Hatiku ini, maupun belajar bermain musik.
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Andra Respati - Retak Hatiku. Silahkan bagikan juga ke teman anda.

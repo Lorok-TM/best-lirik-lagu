@@ -5,8 +5,6 @@ categories:
   - "minang"
 ---
 
-![Alfina Braner - Caliak Caliaklah Dulu](https://raw.githubusercontent.com/Lorok-TM/2026-08/img/alfina-braner-caliak-caliaklah-dulu.webp)
-
 Caliak Caliaklah dulu Pikia Pikialah dulu Sabalun badan malngkah jauah
 
 Patuik patuiklah dulu Timbang timbanglah dulu Buliah nak jaleh nan kaditampuah

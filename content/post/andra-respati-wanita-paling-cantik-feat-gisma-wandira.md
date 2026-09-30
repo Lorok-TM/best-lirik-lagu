@@ -24,5 +24,3 @@ Revolusi cinta matiku Telah bergema ke seluruh negeri Ini adalah tonggak sejarah
 Kamu adalah perempuan paling cantik Di negeriku indonesia kamulah yang nomor satu Aku tak akan bisa sukai lagi perempuan yang lainnya
 
 Kamu adalah perempuan paling cantik Di negeriku indonesia kamulah yang nomor satu Aku tak akan bisa sukai lagi perempuan yang lainnya Kamu adalah perempuan paling cantik Di negeriku indonesia kamulah yang nomor satu Aku tak akan bisa sukai lagi perempuan yang lainnya
-
-![Andra Respati - Wanita Paling Cantik feat. Gisma Wandira](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBSbeBDfPErTlZjXC9YQr0TxwaGjdYa0bC7kI0_oJD20n_m_bCT1SYxyexzWxkb0i93rWrUnoLYNaD4n1AyGJUiMJlZfqByrbTzVnhax3ZVtVEOKfyzhIqCIZstwSILoyqc8cbt1yt2boY4TBVO6PksA4ETE0b0wvad4YbXedVZnTRwJp2iAdEtkThyCfl/s480/andra-respati-wanita-paling-cantik-feat-gisma-wandira.webp)

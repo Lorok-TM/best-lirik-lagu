@@ -26,5 +26,3 @@ Ku ingin bahagia seperti dulu Walau tanpa kamu di rumah ini Ku coba bernyanyi me
 Demikian lirik 'Aku Ingin Bahagia' sebagaimana di atas.
 
 **Credit:** Judul : Aku Ingin Bahagia Voc : Diana Malelak Cipt : Sosipather Francescho
-
-![Aku Ingin Bahagia - Diana Malelak](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9a_OqmDYaMB_h02TjFEefwt-c32RsFulmfoKs0iKPhmCgwQgTFmC7yfn0rObxklwGIrMsYohwQfd7EytcGmKRbfD35s0az7BTcocLp1psqt_NZqbsKqKeCXk6GdLnZRXLfu_RbO-lbWnNPdw4QKlq_Hd9kWOGCnqZn4gg1RifZMmc3RMlp7fPflq-Xbm_/s480/aku-ingin-bahagia-diana-malelak.webp)

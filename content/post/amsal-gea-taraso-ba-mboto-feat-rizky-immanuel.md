@@ -14,5 +14,3 @@ Okafutö ndrao mondroi bakha Dõdõ Afökhö sa khögu Taraso ba mboto gu
 Hawa ölau khögu Lö khöu Famakhölö No uhaogö wombaloi ö Enaö sa fao ita
 
 He afökhö la’ua sa khonia
-
-![Amsal Gea - Taraso Ba Mboto feat. Rizky Immanuel](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_Hh5_tgzs8aClezE6pvvYv1sGb-gwKQHQ7kSAhb1sTzO4JFinPh5JEDfa4iAxs8DX_jhxjqcf1-233vjxq-3sLMFr7KuxHpyfvYbES3yT9T66UUjcXEiFa0Wt06sHYKYz6y3eGLlKiJ2KnyhYxDuPqHcH9iuFNBUa-vItpaquU0WtrDrqfPMO-uh8l6-2/s480/amsal-gea-taraso-ba-mboto-feat-rizky-immanuel.webp)

@@ -29,8 +29,6 @@ Situs bestliriklagu.com tidak menyediakan chord dasar / kunci gitar / Mp3 lagu R
 > 
 > Ku tetap disini Ku tetap menanti Dirimu tak terganti Ku akui sayangku Ku akui cintaku Hanya satu Hanyalah namamu
 
-![Andre Mastijan - Ranting Emas](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgawr-_PlI21PJGJNYDIQB2IvxtYRQ1WbyAA-Y_HjcZrVRPiWgx4QNXggYtzUxp-8OT-ssKHdcchtJ4r__VgpcHHt-PRhRL44bqIdnOjr1bhvCaAicNYchQnjICBeYM2D_JauEEOqXZz5VrHivBj48nDHp0fEHg8Ep5Ea1S17v1D-IZzXaLW4dTeF6LOmPd/s800/andre-mastijan-ranting-emas.webp)
-
 Tujuan kami berbagi ini ialah menyediakan dan menambah sebanyak mungkin informasi arsip lirik lagu untuk mempermudah bagi Anda yang ingin menghafalkan lagu Ranting Emas ini, maupun belajar bermain musik.
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Andre Mastijan - Ranting Emas. Silahkan bagikan juga ke teman anda.

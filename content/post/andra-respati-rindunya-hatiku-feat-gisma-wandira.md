@@ -20,5 +20,3 @@ Sucinya cintamu Meluluhkan hatiku Sucinya cintamu Meluluhkan hatiku
 Oh seluruh tubuhku Bagai tak berdaya Cinta suci oh suci Kita bina bersama
 
 Rindunya hatiku padamu kasih Aku cinta kepadamu Bersemilah dalam hatiku Oh kasihku oh sayangku
-
-![Andra Respati - Rindunya Hatiku Feat. Gisma Wandira](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlGB5rci3_WyHh5ZiDAN8l_Xa3yXmAwg4CpdAFOe7LPs0Mzih-LIAnEo5hJ5j3ld-najgkLtpl6WDpr8Tw7N39Z1BvNE9c7-zxGFBKyBfIq6gbn0DAonZfWFYcS-VBhPldld01dJvBTFu_h-n5ADYafW85KPez-lJlC0ioCroiBjZ_NX9kc3KyjxIwv9q2/s1280/andra-respati-rindunya-hatiku-feat-gisma-wandira.webp)

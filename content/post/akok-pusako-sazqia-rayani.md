@@ -22,5 +22,3 @@ Dimano tuo nan pandai bicaro Habih sagan mamak ka nan kayo Ambiak lah bana tanah
 Demikian lirik 'Akok Pusako' sebagaimana di atas.
 
 **Credit:** Judul : Akok Pusako Voc : Sazqia Rayani Cipt : Nurman Arr : Oky
-
-![Akok Pusako - Sazqia Rayani](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjU_jkBvRTa7sqdl-MAp5Daw3VgTX2j98mE_3hXlf4J1PHH-m-9_Bb9DCR4aN8rx46z7plee_vnk_Eg7LTQdoOicVUxAbU-fy4rW3bGwKu-otWZ3ix0HCg8buD7EvZbC3hG0DSS5Q1hMMBkRUI6UyYTu6zvJZS-W-iwf1ovshQe9nZWtCe_0v8zLhgq-dct/s1280/akok-pusako-sazqia-rayani.webp)

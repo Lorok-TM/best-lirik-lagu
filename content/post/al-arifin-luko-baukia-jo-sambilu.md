@@ -5,8 +5,6 @@ categories:
   - "minang"
 ---
 
-![Al Arifin - Luko Baukia Jo Sambilu](https://raw.githubusercontent.com/Lorok-TM/2026-08/img/al-arifin-luko-baukia-jo-sambilu.webp)
-
 ## Lirik Lagu Luko Baukia Jo Sambilu - Al Arifin
 
 Samuik nan jauah adiak tapandang Gajah nan di muko mato balupokan Baitu lah denai ko padiah manangguang seso Antah dianggap apo nan salamo ko

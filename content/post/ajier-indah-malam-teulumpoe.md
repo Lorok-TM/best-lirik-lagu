@@ -18,5 +18,3 @@ Dum nan keuh lon rindu dak jeut beulaju Beu di sampeng dinda sayang Peu lom deuh
 Uroe malam lon teubayang Wajah gata adoe Sampe dek teuba lam lumpoe Meubayang dinda di mata
 
 Ho...ho...o...ho...ho...ho...o... Ho...ho...o...ho...o....o...o...ho... Ho...ho...o...ho...ho...ho...o... Syala...la...la...la...la..ha...
-
-![Ajier Indah Malam - Teulumpoe](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6k0GjP74BAylWB-1IujZyz-zkK46pSzpzGqNGmOlCntrbOXXsW_fx_qsSDMpz83MB8cvpzeUFKdInWJXONHukAagbTCwJp0SuMDsXcaNsz2I8pczp4trtsGrcA59VuZJNZO9ITr2Hz7nktIU8alSZNZUQ3V5FppuRoS4q4kqzsjlRj1BcUV_0xl3FofU3/s480/ajier-indah-malam-teulumpoe.webp)

@@ -34,5 +34,3 @@ Sayang terima kasih.. Kau telah menyakiti hati.. Lalu beranjak pergi.. Meninggal
 Sayang aku kecewa.. Kau usaikan cerita kita.. Hati ini terluka.. Semenjak dirimu tak ada..
 
 Outro : Huwoo.. uwooaa..
-
-![Andika & Dodhy Kangen Band ft. Eren Hill - Sayang Terima Kasih](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwx7xuTXUJJNL0ldLHbJweDDZEz8SqQEChRnsr6WeOraqJCs16TvirzLfrmQHCMDCXtDD6WPfOFccp37SIpCLO5X5JZGyqEozc5tNzucqTHHZUbdO1LUEfJEc5k3hwqTnSjRYUAq_svNVan5OpOveBLhx-rbjJ-afHEC_pD5JbNK88p_zjAJZIlyVnoa7t/s1280/andika-dodhy-kangen-band-ft-eren-hill-sayang-terima-kasih.webp)

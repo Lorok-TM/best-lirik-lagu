@@ -25,6 +25,4 @@ Title : Kaulah Cinta Matiku Artist : Andra Respati ft Gisma Wandira Songwriter :
 > 
 > Kaulah cinta matiku Kaulah pengobat rindu Kaulah nyawa cintaku Kau lengkapi jalan hidupku
 
-![Andra Respati ft. Gisma Wandira - Kaulah Cinta Matiku](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEib3RaIhuxEBaS12N2VXRJBUS-hieqTfpMPsYBJXBe8uLl3SeB77TMAtUp11S2GunV1FEdHOlhDMjpCnYvDuhvTlRv7WMRJV1ZXC7QUnAmuaHIsu2AWHlqeQJMH9PWuZfP9Ds2uZ5FQIG_sf8m8WCCwTR3zj6uiAG02s2_MNaI9EHSRHHp9Japnfp9iGQ/s800/andra-respati-ft-gisma-wandira-kaulah-cinta-matiku.webp)
-
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Andra Respati ft. Gisma Wandira - Kaulah Cinta Matiku. Silahkan bagikan juga ke teman anda.

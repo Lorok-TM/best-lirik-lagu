@@ -5,8 +5,6 @@ categories:
   - "dangdut"
 ---
 
-![Andai Kau Maafkan - Selvi Ayunda Feat Zian Alfin Mubarak](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjm2lY3DbJXX7njBNLSZyywqb6NMgPFE46-shyphenhyphenYIOnC3YLEcv8j05-tYZ1uMuRvQ4E3wXtNPHjOoeiltEwEBn7AfUgJb99V2S2IfkNkKOrDdR0KbvnLk-d1lDTeEKDeVytIBAHh7YYugPEA45PpxyYAy5m562LwekNDT5lamr0IXfoQYkY8OS11HPHmX2YD/s1280/andai-kau-maafkan-selvi-ayunda-feat-zian-alfin-mubarak.webp)
-
 Andai aku bisa mengulang waktu Tak kan pernah ku siakan dirimu Andai aku bisa mengulang waktu Tak kan pernah ku siakan dirimu
 
 Namun semua telah terjadi Masa lalu tak kan pernah kembali

@@ -29,8 +29,6 @@ Situs bestliriklagu.com tidak menyediakan chord dasar / kunci gitar / Mp3 lagu S
 > 
 > Harusnya ku akhiri sejak dulu Dari pertama kau duakan aku Memaafkanmu kesalahanku
 
-![Ajhay Pasma - Satu Cinta Seribu Maaf](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAhEVYCOKYaP6BfSA3-CKJTmvoeI9SI2D3tKrk4_pOqqoe4yAMrfGz_LAhWuJHatr67D3S5yGHKOmK-Dpg8Y9PqHYpx3OK9ZL6aBLIP6COJTzaRVbPoYnPp2QMoAayt6Rc5TAdUCOSL6NbBTEAoSXUKzaN3LI5ANf6hBrmWQhmspvJ8QSTBSOykxoS4gf5/s800/ajhay-pasma-satu-cinta-seribu-maaf.webp)
-
 Tujuan kami berbagi ini ialah menyediakan dan menambah sebanyak mungkin informasi arsip lirik lagu untuk mempermudah bagi Anda yang ingin menghafalkan lagu Satu Cinta Seribu Maaf ini, maupun belajar bermain musik.
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Ajhay Pasma - Satu Cinta Seribu Ma'af. Silahkan bagikan juga ke teman anda.

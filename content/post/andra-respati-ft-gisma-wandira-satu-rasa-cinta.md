@@ -25,6 +25,4 @@ Title : Satu Rasa Cinta Artist : Andra Respati ft Gisma Wandira Songwriter : Ajh
 > 
 > Ku akan membuktikan cinta di hatimu Satu rasa menggapai bahagia Ku pinang dirimu sebagai teman hidupku Berjanjilah kasih setia bersamaku
 
-![Andra Respati ft. Gisma Wandira - Satu Rasa Cinta](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2nJh4Irxucru2G_duHrMe9SAhB7BfCidtAr7iDCKRKFV10olIl9XTNkQj0uQvknbt19r1K2jvy-1vthQu3YfdQtTU4qHz07l3kOIaO4Crtlwp4NWZ_DfscHqFRuZuvcH76uRta9Lqln18JuHbjGmHe8ctpsDprYxpQ0B2DyUGiH5_C5zt5laAzEttWQ/s800/andra-respati-ft-gisma-wandira-satu-rasa-cinta.webp)
-
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Andra Respati ft. Gisma Wandira - Satu Rasa Cinta. Silahkan bagikan juga ke teman anda.

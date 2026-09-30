@@ -24,5 +24,3 @@ O puang ranggimi pasambayangki Sola dua Dennoupa' ki sitammu sule Sipakaboro' sa
 O puang ranggimi pasambayangki Sola dua Dennoupa' ki sitammu sule Sipakaboro' sae lakona
 
 Dennoupa' ki sitammu sule Sipakaboro' sae lakona Tontong sipakaboro' sae lakona
-
-![Aldhy Tiranda feat Hillary Tangyong - Mali'na Penaangki](https://i.ytimg.com/vi_webp/2yWh_i9KpLA/maxresdefault.webp)
