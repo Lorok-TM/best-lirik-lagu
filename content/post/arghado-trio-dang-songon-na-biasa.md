@@ -3,7 +3,7 @@ author: Katrok
 title: "Arghado Trio - Dang Songon Na Biasa"
 date: 2026-09-29T02:50:00Z
 slug: arghado-trio-dang-songon-na-biasa
-featured: true
+featured: false
 draft: false
 categories: 
   - "Batak"

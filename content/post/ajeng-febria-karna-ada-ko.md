@@ -5,8 +5,6 @@ categories:
   - "timur"
 ---
 
-![Ajeng Febria - Karna Ada Ko](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMHpFgsTmpwSsPNDzdule6ugW7h_sHGj6FzNktH5RodgQUHnHQZpa-2mbJHGua4icrQJOC_6Jdpgr_yWRb_PyutJaEkHzzMmjvu8Cpsiv3N1vcvhZMYyAvBnCL13DqdCE1Vt2Tb_tamtQcDPnP-DjNgKUkMlPh9NoFQHmB5ZgGq93SNR4_J7dxxXPYPhpz/s1280/ajeng-febria-karna-ada-ko.webp)
-
 Sedih itu kalo sa tra dengan ko Jang tanyakan sa pu rasa untuk ko Setiap hari sa berdoa Semoga kita sanggup baku jaga
 
 Jang hiraukan dong yang tra suka Tutup mata juga telinga Anggap saja dunia tong punya Cukup senyum dengar cerita

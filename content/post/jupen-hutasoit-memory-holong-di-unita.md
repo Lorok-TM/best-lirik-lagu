@@ -3,7 +3,7 @@ author: Katrok
 title: "Jupen Hutasoit - Memory Holong Di Unita"
 date: 2026-09-29T02:42:00Z
 slug: jupen-hutasoit-memory-holong-di-unita
-featured: true
+featured: false
 draft: false
 categories: 
   - "Batak"

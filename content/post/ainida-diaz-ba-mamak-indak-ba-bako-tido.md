@@ -24,5 +24,3 @@ Oi aruah nan kamandanga Jalehkan malah duduak tagaknyo Jan di biakan kami taseso
 Saba di hati bia denai pandam Jo isak tangih di tangah malam Pado dunsanak denai sasali Denai tangguang nasib surang diri
 
 Nyampang ta angkek harago diri Jadi urang denai di nagari Denai salamaikan dunsanak sadonyo Dari pado bacirabuik harato pusako
-
-![Ainida Diaz - Ba Mamak Indak Ba Bako Tido](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8sgqS4zkp55a7SHLIIjn9sdXG23kzESkX5lBT6KAsgzpGGdyMI4uZyRGxOUlErQ5WStUowXwl3IMRpQD0sShvs2TO9ltnhXgEVCXhetx2o_7HYv4ASppYgUIVa2pvKIXIPC4nDxwm3V6DV-1Q3hcbbjGwa1qwUM0yAQKvMlWZzvWozJFhbaIo4VTg0WE0/s480/ainida-diaz-ba-mamak-indak-ba-bako-tido.webp)

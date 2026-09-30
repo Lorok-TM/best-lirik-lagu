@@ -37,6 +37,4 @@ Title : Datang Dengan Cinta Artist : Aether Songwriter : Ipoet, Capoenk Producti
 > 
 > Aku tahu kamu ingin cinta yang tak main main Di dirimu ku labuhkan hatiku Di dirimu ku labuhkan hatiku
 
-![Aether - Datang Dengan Cinta](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTvWshn1IM_0D1JnQmFjSa38JTk9o3wuptNqnA6ex0qSXaLJ1ATRU5iI_N8cW_-TiG2oTYXzkqUE4ibPMqWLgX_hz8__58-7oxQbt00k50D2umYBCEiL_w9WgkPc4PkrRCClUnN3vshLrxVYYOCuiJx8wFmtwUPl3NsFFHW2bXmgglC6P9VvHt7AY1sqFb/s800/aether-datang-dengan-cinta.webp)
-
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Aether - Datang Dengan Cinta. Silahkan bagikan juga ke teman anda.

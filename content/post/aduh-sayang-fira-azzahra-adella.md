@@ -24,5 +24,3 @@ Dari omong mu
 Demikian lirik 'Aduh Sayang' sebagaimana di atas.
 
 **Credit:** Judul : Aduh Sayang Voc : Fira Azzahra Adella Cipt : Muchtar B Arr : Om Adella
-
-![Aduh Sayang - Fira Azzahra Adella](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEim_DecDb8uiATeTB_57OyqiaGCbrggUWIUtbKZeOj76pMcKdUepW4CISEQARkGrdJDjqEzP22HnY9qakdATSVDz8vh1c378934JKnp6OhQKYguWzsOP0egj_WdUEIpwyVId1sPdo-xhB3QeUXAh2bLolJ_wxAFbOzd49v9JwUkeBWRyZrftl0ygxIkffvG/s1280/aduh-sayang-fira-azzahra-adella.webp)

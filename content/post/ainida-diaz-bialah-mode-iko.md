@@ -20,5 +20,3 @@ Di rantau man cari untuang Pai pagi pulang patang Kok lai dapek galeh ba runtuan
 Oi mandeh tolong jo do'a Buliah jinak nan lia nanko Razaki datang bak aia hilia Mudah sagalo nan di kakok
 
 Santano dakek jalan ka kampuang Denai tampuah ba jalan kaki Mudah mudahan laku galeh tampuruang Bisa ta bali kapa basi
-
-![Ainida Diaz - Bialah Mode Iko](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbQf72S6gwYCMMfQw4TNHAEkFRy8wM0gofF8z9fS1kl4BiEtHR0-d6IhgOCX1REbYM1MR3_njWnQT1ZAbCUYiwbqj6eKwEkEUu7tvQeItND0WgLD5juRFP4xcHg52fkOLYj7YFToUB9la_MOAvEXgUIdmS1MHT8GNI_OwzZgsh3AjHgxaXutmdnmYFjHXA/s480/ainida-diaz-bialah-mode-iko.webp)

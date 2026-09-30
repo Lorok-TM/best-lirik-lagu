@@ -30,5 +30,3 @@ Kosong delapan nga pe nama sapa Kalau jomblo tong lanjut di wa Tong lanjut di wa
 Demikian lirik '08' sebagaimana di atas.
 
 **Credit:** Judul : 08 Voc : Angga Dermawan Cipt : Angga Dermawan Arr : Angga Dermawan
-
-![08 - Angga Dermawan](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMhqZ_3vN2MQ-7vKIdWCVasninrrpeekcIQBvdIxVBi8Twci9XgbM2FTDgKR1zNotyPN6A091sxNRD-qPw7qP0DY6_8TUOOT3PTEG_XKAUIBF4ztlc6V66-2q2aVh_cXbaDCRP-QwNA7BaoMt5ofJb4FGhOvLqXHRiS8Vnz8jWkWeir8xWk9qfDy1OJk1b/s1280/08-angga-dermawan.webp)

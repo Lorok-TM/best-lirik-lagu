@@ -28,5 +28,3 @@ Rap 2 Betadin deng varban Beta nikah dinda bulan depan Masalah bugjet itu gampan
 Play song lagu disko dong Mo pesta di kota atau di kampong tong Yakin ade jadi takdir Amin ade yang terahir Bilang dong plis tong nikah hari kamis Kan minggu tong pi inggris selasa lanjut paris manis
 
 Lemon nipis taguling guling Ade ko cantik pipi congka itam manis Kk su lapis cinta di belis Ko tau aman saja kk yang tangkis
-
-![Adella Girls - Ngapain Repot](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgz9Tv0hoCWceMK7r0HBzxJ4YB0ht_ogZPngf5N8CO9lE-VzVS81_KTLLwiWdHW85sKHsqyEvj61fX6YoAgbhGsMLP268yvyGLj1zeXVBvnfZbqdIQnB9putgZywYqfN5yaRKc5ZiOHM6CP_u4UmD0ZRevg1mG8LxaTxyuoOjM1Ad33OqdZnRCJvfLHfH6I/s480/adella-girls-ngapain-repot.webp)

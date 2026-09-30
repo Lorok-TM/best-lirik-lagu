@@ -16,5 +16,3 @@ Jikok lai buliah denai mamiliah Bialah sarupo dahulu sajo Bialah sarupo dahulu s
 Demikian lirik 'Ado Samo Dimakan Kok Indak Samo Di Cari' sebagaimana di atas.
 
 **Credit:** Judul : Ado Samo Dimakan Kok Indak Samo Di Cari Voc : Anyqu Cipt : Ibel Santano Arr : Nanda Cabiak
-
-![Ado Samo Dimakan Kok Indak Samo Di Cari - Anyqu](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLrXwtr6ZjjC_8qSRuAxaM1j0_sSffJY8TD6tPxeAHVAlMPdCniIJENcTBKa46Kfp960ipS2-eKx0baLJzuClWesarhBXLKPxUr-Ip3K7zXBtNb5v4vMOhGP3Qo1pzawqEb4MB_v9lPKgZzhpWTsmSblQDokOoKOvm6_AcRcrDfBbONbZ37bezAJ1bBlij/s1280/ado-samo-dimakan-kok-indak-samo-di-cari-anyqu.webp)

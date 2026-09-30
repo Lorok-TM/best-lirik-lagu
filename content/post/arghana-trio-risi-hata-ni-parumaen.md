@@ -3,7 +3,7 @@ author: Katrok
 title: "Arghana Trio - Risi Hata Ni Parumaen"
 date: 2026-09-29T02:33:00Z
 slug: arghana-trio-risi-hata-ni-parumaen
-featured: true
+featured: false
 draft: false
 categories: 
   - "Batak"

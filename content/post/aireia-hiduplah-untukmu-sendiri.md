@@ -28,5 +28,3 @@ Hiduplah untukmu sendiri Karena tak ada yang kan peduli Tapi kini kau telah meng
 Hiduplah untukmu sendiri Dan biar waktu yang membuktikan Bahwa bahagia sejati Bisa tumbuh dari sendiri
 
 #Credits: Judul : Hiduplah Untukmu Sendiri Voc : Aireia Cipt : Imam Hasan
-
-![Aireia - Hiduplah Untukmu Sendiri](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjirt0hd82ohEZlyF1zQIFDvXfUjSZ4AMv4AXzZefP9lCoQBG0QecPrQ14xQDbloIKVazuGxGyG7w6iFCzl-bblEzxLXRf_MtVCwQRTFDxAPcv_2Z8NxKR0rVy7717GZpO7ixtR5MkV3PGnyHJ7uPt9lgT7KjIP1XYGrUWoX31kgCBZLjOFQ8QhJ4WNPo4X/s1280/aireia-hiduplah-untukmu-sendiri.webp)

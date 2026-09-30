@@ -31,6 +31,4 @@ Title : Bae Bae Disana Artist : Adista Composer : Resar Publisher : PT. Proaktif
 > 
 > Bae bae disana jaga hati dan rasa Tunggu diriku kembali untukmu Bae bae disana jaga hati dan rasa Ku yakin hati kita kan menyatu
 
-![Adista - Bae Bae Disana](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4odHcWpvOqmFoW12Htx-CWmI5Xt3b_0MlRZ07ElGHr4KWdbJBjmMG-FFxLtj1i0lVWr0ujTmD9LFVlXJFy6S1lRbyKWQzQw2gYnCoXEnxqvq0c0q6zi0CHprj24BrgynnhSIQLsjTCFHSw8053LuTvizT8_jZ7AXbHyyhiA7VxdRncGMdVySvy_k9ag/s800/adista-bae-bae-disana.webp)
-
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Adista - Bae Bae Disana. Silahkan bagikan juga ke teman anda.

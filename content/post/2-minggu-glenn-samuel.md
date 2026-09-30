@@ -26,5 +26,3 @@ Maafkanku terlalu jahat biarkan egoku menang Tak terfikirkan akan menyesal ku te
 Demikian lirik '2 Minggu' sebagaimana di atas.
 
 **Credit:** Judul : 2 Minggu Voc : Glenn Samuel Cipt : Glenn Samuel Arr : Ano Stevano
-
-![2 Minggu - Glenn Samuel](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhou8Ldgfb6QDJe_RmP7FPqO0LTm7vhkm82c9nRsjbioX5kzbMB91jTj6FfmaOas060miXHq8LKyHH7sU62YJHbrdhGpv9p3PKkontBbK1jAO7sPUAyl_ZXN1N940iq4gYwZqSMm4w4uat0zSBg-nTVXj7cFU19Zkaein7j5c4watPxUmh-Yhl531wo7zdB/s1280/2-minggu-glenn-samuel.webp)

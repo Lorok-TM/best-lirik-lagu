@@ -30,5 +30,3 @@ Di stasion bandung (di stasiun bandung) Urang kungsi mengkeut asih (kita pernah 
 Di stasion bandung (di stasiun bandung) Bulan nu jadi saksi na (bulan menjadi saksi) Cinta urang duaan (cinta kira berdua) Pinuh asih pinuh ku kaheman (penuh kasih dan ketulusan)
 
 Stasion bandung mawa harepan (stasiun bandung bawa harapan) Stasion bandung tinggal lamunan (stasiun bandung tinggal kenangan) Stasion bandung (stasiun bandung)
-
-![Ade Astrid X Gerengseng Team - Stasion Bandung](https://i.ytimg.com/vi_webp/7VKrQkI9_L0/maxresdefault.webp)

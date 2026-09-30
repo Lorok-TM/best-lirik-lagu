@@ -49,6 +49,4 @@ Title : Bukan Orang Kaya Artist : Adibal Sahrul Songwriter : Adibal Sahrul Label
 > 
 > Apalagi yang bisa kulakukan Apalagi yang harus kubuktikan
 
-![Adibal Sahrul - Bukan Orang Kaya](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKeeymRNJ9XQ3WTg7udafswxh3WO-DQwRJtVwi-iWNB_xRaHwyh2G3YIl6Oct3lcrictb4SHsNSVKB91atU1xfVIIpswcnv_9XVVJsBk3Si7DOBdaPApkPN4QG46FEkPtmpZmX8dvWFxPTlCSetRc63tlDgzVkAPsK6KCYcNkXZs-SNq2xpc8vM7d5FB5C/s800/adibal-sahrul-bukan-orang-kaya.webp)
-
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Adibal Sahrul - Bukan Orang Kaya. Silahkan bagikan juga ke teman anda.

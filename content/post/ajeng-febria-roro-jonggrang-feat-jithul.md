@@ -24,5 +24,3 @@ categories:
 > Roro jonggrang manuto sun pundhut garwo Joko bandung aku darbe bebono Candi sewu sewengi kudu dadi Iyo jonggrang panyuwunmu tak turuti
 
 Title : Roro Jonggrang Artist : Ajeng Febria feat Jithul Songwriter : Jithul Sumarji Prod : Jithul
-
-![Ajeng Febria - Roro Jonggrang feat Jithul](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1wTUtF_KCuBH7du8ShproWWnlqrKwu5aRdD7u0xuYZ--4RDzYhSIfgb3FxWguobbXxy-cz5oZTjSakaOVFZxLc22wXegr1AfKnqIKhf42Dw-LF0e1ybOMVkB-Hq9fbOHCE9aot3F1wSrr3xuc0mLMhPQyeEHcXazo4g2PtRo11E64qW6r-NQK8P73RQ/s1280/ajeng-febria-roro-jonggrang-feat-jithul.webp)

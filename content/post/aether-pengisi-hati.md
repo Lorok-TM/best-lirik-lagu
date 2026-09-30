@@ -33,6 +33,4 @@ Title : Pengisi Hati Artist : Aether Composed : Ipoet & Bobby Production : Ascad
 > 
 > Jika saat nanti kita tak dipertemukan cinta Ku relakan kau selamanya
 
-![Aether - Pengisi Hati](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpAW6CsEnxftQKrrHtb6cozfS-QVNdW0dnv79D3yPpfFLi2qLteWe37vSExWisRpTUeTPXD8f7kG2UcxsvaeaW3Pd3xvHLKvKMa79D4A-aRiCEU3XeFfJFjhZX1E5z9ORzJRnXc0gcSyy7nIi7yhiFTq8tNFADdsePmSuT1k6PTI7PKBS2DXse1af7Rqun/s800/aether-pengisi-hati.webp)
-
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Aether - Pengisi Hati. Silahkan bagikan juga ke teman anda.

@@ -33,6 +33,4 @@ Title : Sukar Kulupakan Artist : Adan Putra Songwriter : Ag Astillah Publishing 
 > 
 > Tak pernah ku menduga Tak pernah ku menyangka Kau hadir hanyalah dalam mimpi Sukar tuk ku lupakan
 
-![Adan Putra - Sukar Kulupakan](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8RhhjRfollZfsTBCtHE-j3eIi28fK6Sw6JjTw6yb2l7UMPiQURaiV3Di5dBD58EIOElbn_XZFVwsZTDf8ycleGiTbREIl26FWRyHgmp69nH8qDoKQUcHltRPS04XzcoiR9abwCSpKoPAITBG__jFlE0-55HF40P8iJdGnN36iLgX-UpC_qLFDpsn61w/s800/adan-putra-sukar-kulupakan.webp)
-
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Adan Putra - Sukar Kulupakan. Silahkan bagikan juga ke teman anda.

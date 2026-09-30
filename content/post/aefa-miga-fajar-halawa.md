@@ -26,5 +26,3 @@ Naso dodou mangandauli He'akhigu ofuli'o Aefa miga ubaloi'o
 Naso dodou mangandauli He'akhigu ofuli'o Aefa miga ubaloi'o
 
 #Credits: Judul : Aefa Miga Voc : Fajar Halawa Cipt : Fajar Halawa Publisher : Tube Nias
-
-![Aefa Miga - Fajar Halawa](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8Yfc9mQwaZ7lv46u1IiGPAXqFAs3C82PrHtWxUoBcHiSKwSamUzislpztO1_cmAFHT3IXQ5zj4RmfCkWT7akGtzOH-CVo7Z8BfZAlwBc654I32BMtf5TDBpnOsAi73xtySDUts597naxePxeG0cqbF2TMhgtelYBtgm5NgJs47qi5EdMqIsDOsIOc2rmR/s480/aefa-miga-fajar-halawa.webp)

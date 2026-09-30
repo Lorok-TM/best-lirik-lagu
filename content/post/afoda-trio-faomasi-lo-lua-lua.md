@@ -28,5 +28,3 @@ Umbu nidanö zoafu Ae okafui dödögu selungu Ube manö saohagölö Hewa'ae no a
 He soaya fatunö khögu Heza so döla nosugu Malaika ae wa'ö khögu Heza so dambaligu
 
 Malaika ae wa'ö khögu Heza so dambaligu
-
-![Afoda Trio - Fa'omasi Lö Lua Lua](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh92oYuDRwjUHultNiR6AGY_xeteo8o9fZflX0n-8bT5gRCk7TBCPUOubvAUCiz-qnadSmOLqIVNafUAho86YgtCEru2B56PMPn_paOaeBeAtUxJmH5ou6ZaRaUVmHOCAX729TcnRBBoZSf8BKuWnsM8gHj1UWCnm8PloCuydJd4vutG56f4Mt4L7KLLUmo/s480/afoda-trio-faomasi-lo-lua-lua.webp)

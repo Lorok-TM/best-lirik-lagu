@@ -24,5 +24,3 @@ Ko tolong bilang cinta ka tidak cinta ka tidak Jang sampe dukun bertindak Ko tin
 Play song lagu disko dong Mo pesta di kota atau di kampong tong Yakin ade jadi takdir Amin ade yang terahir Bilang dong plis tong nikah hari kamis Kan minggu tong pi inggris selasa lanjut paris manis
 
 Lemon nipis taguling guling Ade ko cantik pipi congka itam manis Kk su lapis cinta di belis Ko tau aman saja kk yang tangkis
-
-![Ajeng Febria - Ngapain Repot](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTftUOhftacTb8QzvaMl-ph1vH3L6YXIBoBxTKi6Vm1qeRu_XD7v1EsagbhCpCq1wdE5zYPceMgcM_RfQyBUOZY5iPB6PZiIuwjgqU0ZKj5teeye0ITwKSHRJZjrrkN5QIYaCgrlqB-rbAxrL9OoeEnKLogobWe8DowRJqCE6GDGUHqrthxsbKRSvDDx5K/s480/ajeng-febria-ngapain-repot.webp)

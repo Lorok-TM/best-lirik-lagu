@@ -20,5 +20,3 @@ Oi kumayan ndak maha bana saribu bisa bakandak Usahlah adiak bagarah garah Kok p
 Jikok indak nio diak tulak elok elok Masih banyak caro diak untuak manyampaikan Jan balanteh angan diak mantang den baharok Kok tapadiah bana diak ubeknyo kumayan
 
 #Credits: Judul : Kumayan Saribu Voc : Abay Cipt : Erwin Agam Arr : Vandy Satria
-
-![Abay - Kumayan Saribu](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfUTsgRrrq1pydgp5yWKEUCS0Fus8ziL2c_qEewiw3q3rGCvu13k3tSWAQkbP8hQTyjpZueEyTeo8CwGTo5Rf_TcXDr-m8HztoAwuRcH4UDHF4Z4FX65PWoReg6SlgYUYVeWSozkEA54vjFozDkGsgt4rp_RQqhPawpfcv5U1hhgKs762VruoH2F3bx6ee/s1280/abay-kumayan-saribu.webp)

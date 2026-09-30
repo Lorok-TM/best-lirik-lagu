@@ -33,8 +33,6 @@ Situs bestliriklagu.com tidak menyediakan chord dasar / kunci gitar / Mp3 lagu S
 > 
 > Sekarang tinggal pilihlah Di surga atau neraka Sekarang tinggal pilihlah Di surga atau neraka
 
-![Ai Khodijah - Surga Atau Neraka](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmi1L1jQEU20tZw6sfGpvhqr9rBPFpEgd5RZK1jCoJNaMYiufR6nfBCA_gWSH3zujVAUh1SLSaly3YLBdg1nzLBeBtZaFzPtV5MlvErVNkf_dPQb7mzziCgxtCiawhW-RE8K1Ne067lu9sXy_6KmGjRuKTG1U0pl9v_32KLoCXR308YkGlG8dd_r1X71SF/s800/ai-khodijah-surga-atau-neraka.webp)
-
 Tujuan kami berbagi ini ialah menyediakan dan menambah sebanyak mungkin informasi arsip lirik lagu untuk mempermudah bagi Anda yang ingin menghafalkan lagu Surga Atau Neraka ini, maupun belajar bermain musik.
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Ai Khodijah - Surga Atau Neraka. Silahkan bagikan juga ke teman anda.

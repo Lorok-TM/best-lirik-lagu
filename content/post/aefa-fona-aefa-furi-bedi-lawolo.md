@@ -38,5 +38,3 @@ Böi lulu Böi olulu zinali Ö angeraigö Faböi dania so fatahi
 Afuriata dania Aefa föna aefa furi Awena tumbu waniasa Ö e'esi
 
 Demikian lirik 'Aefa Föna Aefa Furi' sebagaimana di atas.
-
-![Aefa Föna Aefa Furi - Bedi Lawolo](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikqFMCCvj6B_27RonPBFqrwZBFFk2A2TwNuAWKowBtsmC0_3vxv9BANaxwUrEG8qolYLmTD0aXd2gyeOKqm0ySh1RM0dHE5mZMQSBMcUVg-3BM_-36xjcuApLnjlvgWVtNilgmAY7fEKjbsDKzPuIK_6AMJYkwTuDCKi1fBRyqPuKmu3QjM0zWNYCKfhDg/s480/aefa-fona-aefa-furi-bedi-lawolo.webp)

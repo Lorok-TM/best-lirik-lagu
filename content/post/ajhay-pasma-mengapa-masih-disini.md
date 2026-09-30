@@ -35,6 +35,4 @@ Title : Mengapa Masih Disini Artist : Ajhay Pasma Songwriter : Ajhay Pasma Produ
 > 
 > Jangan kau balut luka hatiku Biarlah aku sendiri Semakin kau obati lukaku Semakin sulit ku melupakanmu Carilah penggantiku Carilah penggantiku
 
-![Ajhay Pasma - Mengapa Masih Disini](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcH8xmM71pz2-bDR2cGRlgapNrQ5GyQ1_p__NgyM8RLRKe7iVKFY-na44d3TzZOw5wDHzeIY0cX5t6dYUVTHd_kRljA8a1KV7AXDL0RsFtXUECRScC9dNdpJHQE1HKlLdfil87hw-d_ZnUE_TkD_bptHe8DJNauNRKTIvRegC9EepP0V6YNsFcqnNf5A/s800/ajhay-pasma-mengapa-masih-disini.webp)
-
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Ajhay Pasma - Mengapa Masih Disini. Silahkan bagikan juga ke teman anda.

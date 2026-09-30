@@ -30,5 +30,3 @@ Arepan jajal tek coba (ingin rasanya mencoba) Ngungkapaken rasa cinta (mengungka
 Siji akeh saingane (satu banyak saingannya) Loro ngrasa wong bli due (dua merasa orang tak punya) Apa mungkin bisa kepilih (apa mungkin bisa terpilih) Kanggo kita dadi jodone (buat aku jadi jodohnya)
 
 Pengen ndueni ngomong ora wani (ingin memiliki namun tak sanggup mengungkapkan) Rasa tek simpen ning jero ati (rasa aku simpan dalam hati)
-
-![Ade Astrid - Pengen Ndueni](https://i.ytimg.com/vi_webp/YiGKPZdoPc0/maxresdefault.webp)

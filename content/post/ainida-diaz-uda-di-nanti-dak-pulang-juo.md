@@ -36,5 +36,3 @@ Yo yo Adiak sayang Dulu denai marantau di Jakarta Tapi indak dapek lapak Denai p
 Ditampi bareh ditampi Ditampi ba dadak juo Dinanti uda dinanti Tapi indak pulang juo
 
 Sikucua banda nyo dalam Sakambuik pinang mudonyo Rindu dihati sabana mandalam Uda bamain di ruang mato
-
-![Ainida Diaz - Uda Di Nanti Dak Pulang Juo](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCXa9HVbQ9WhXqUXCnnxcBauqCdkf0DAJ-f7RSpzyB0A0VQ43abUyPMKtYIQbunMwI2UIDu4hiEXPBTv3PVSjbgkroo-4b-t1oPP6yBlzMlXI5sfeB2zbzp-78bAMHnRv5n5hmT-O1988j4OB1d93xLlm7cqi8l1_sQYc8lxxUtNbpFtcVjnsfsKvkoTee/s480/ainida-diaz-uda-di-nanti-dak-pulang-juo.webp)
