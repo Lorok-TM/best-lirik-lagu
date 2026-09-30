@@ -21,4 +21,3 @@ Cut adek cukop lagak hi Sang permaisuri Lage aneuk ratu raja Di abang kop hitam 
 
 Di kheun lah hate sang nyan judoe loen Hate dirawoen lam khayalan cinta
 
-![Dek Aroel - Guna Guna](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVTj8_18_ynthEM2XV5pm62hrBvV6_3qhMx1RRTwHAhVhQi27Upl6T9T2MocaFKf6erNe5ix9uvkR1dT-Ni6irSLVZx79fK5CadgHe-kZuIZjvRbKRE-JL8r_Zo2aZpPOND4BpRFncRmB_Jg8-jJwHuWpEdCSecDb8NfauyPZ_8CL-oTdLi4SitJ3eYf8M/s480/dek-aroel-guna-guna.webp)

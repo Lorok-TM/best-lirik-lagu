@@ -27,4 +27,3 @@ Tung haccit parir dangol Maniak badanki di rantokon Sotung manarita ho inang Tu 
 
 Sotung manarita ho inang Tu au anak na dangol on
 
-![Soro Ni Ariki - Nagabe Trio](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2PFMyLV-CWDCY2nZosMKYrYJhRrIVNsj_q1mQ86X7Cfr_1VsR49HMVqi4xaMQ7bSejl2a36z0UmQMWv83Ab5MeeAGoSSydg_wHZ1jACyiIoI_eFCRS8FEZjQHb0FYio1rY16j6vG728oqixdK2uViSavXlL2Z7owmyoz7S8fDV2PTmHKy_svDrw-Yx2BF/s480/soro-ni-ariki-nagabe-trio.webp)

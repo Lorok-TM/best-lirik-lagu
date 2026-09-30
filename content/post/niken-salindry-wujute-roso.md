@@ -21,4 +21,3 @@ Iki tondone welas isun Wujute roso mung kanggo riko Mugo welase riko terimo Myak
 
 Iki wujute roso, iki wujute roso
 
-![Niken Salindry - Wujute Roso](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeujFQwLpmB6h0qKZEGVELtzGZB3MzhcxmmfDXd5d_-xosJWj1KpQDuq6RyrpZWaFxdNxMAj4LeJasWOBocjmEPkxe6P3rmdH1jlqDh6hER2GFXnS6sCGTm7o8ldjUTmhGW5g3P9Cj69OIuVLjB-WkIexkwA2t884sTvLvsoqKqcLTOj0gJGQ-mLF0IUEk/s480/niken-salindry-wujute-roso.webp)

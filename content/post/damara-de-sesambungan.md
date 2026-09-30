@@ -32,4 +32,3 @@ categories:
 > 
 > Wis nyobo milih come back Opo wae kahanane Nanging aku malah salah nemu kleru Nanging aku malah salah milih kowe
 
-![Damara De - Sesambungan](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNpTpiawXdJGoWTigcF9UOgg661LyJ-04GXz4OsIeboDBTg_AfNmMFELD1SwObYEg2asBpqr6IHx-paQz8Km5LWaTpdvfRrG25Nx_hrJgTEbDjiuwoUzCGSEu5XhfLCGEpJhItSg0PmFiLHzLIQEaPrWR2JImPnLJHfUfip1yK6MtdaXhPsnmmoDo6-A/s1280/damara-de-sesambungan.webp)

@@ -23,6 +23,5 @@ Title : Mambuang Raso Cinto Artist : Ratu Sikumbang Songwriter : Windra Label : 
 > 
 > Bialah kini bia denai surang Mambaok cinto nan lah taniayo Kok lai tau uda jo raso cinto Ndak mungkin cinto hanyo sakijok mato
 
-![Mambuang Raso Cinto](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTyrV4PpUtsg54NpQQw4pr2Ctjmg2MJOh5xtfrUkzrTjBCp5t-KCAj3SfViJbBO0Fsdxv_SA1qWJ3Kqngznq2r5BDsHAofc8P8KfBmbrYIMyyiD86ColOiukldh82TIf1ZNjHOMiegm-_z9nO070FO4W6F50n-eCwaV2UKs-IF-wSgsL2WaIO_qqadNA/s800/ratu-sikumbang-mambuang-raso-cinto.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Ratu Sikumbang - Mambuang Raso Cinto. Silahkan bagikan juga ke teman anda.

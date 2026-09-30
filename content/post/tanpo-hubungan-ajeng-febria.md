@@ -5,7 +5,6 @@ categories:
   - "java"
 ---
 
-![Tanpo Hubungan - Ajeng Febria](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0KIv-Anuc2cAg-ov-TT7_rO9SjkpHUUPHhXA42j6KNsE6XTPcBsLi0HCZAZgInovXdBcT-X4VE_cbxtg4zSB3bZ8SvOSiueY8QZMTmtMl1nsKCNuaCWmIfRyVXCy1qlcLBOvZ7Ww8fXIIlH4W3N2lRziDtDlaIxlgYj6UiPws_u6IjauCd478HOIE_9uL/s1280/tanpo-hubungan-ajeng-febria.webp)
 
 Kadang aku kelingan yen krungu Tembang lagu senenganmu Sing kerep mbok weruh ne neng aku Saben ketemu Gawe aku kangen kebayang teko ngimpiku
 

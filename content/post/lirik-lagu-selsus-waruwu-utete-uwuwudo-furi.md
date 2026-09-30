@@ -27,4 +27,3 @@ categories:
 > 
 > Matenga tönu nahia nakhi Wamalua khöda faomasi
 
-![Selsus Waruwu - Utete Uwuwudo Furi](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZLEIfCqrdGotnedxJ0qTCSNsculrxIiOo5Cg5h7n8KCauUpY0kvr93mrvztCfXAn0xfigdWFOV14qddgnOoB2AzK92sc4wzN7mStap4HQcn3JIq6a4Q_h28cmls7_iCgnRCt9ezgpNuBEqJ-x8trqiY7yVkllXpfPstUiNHkkv3gWFmvvKjVO84U1nQ/s1280/selsus-waruwu-utete-uwuwudo-furi.webp)

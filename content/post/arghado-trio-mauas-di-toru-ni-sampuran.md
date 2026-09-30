@@ -23,6 +23,4 @@ Title : Mauas Di Toru Ni Sampuran Artist : Arghado Trio Personil : Rahot Sihaloh
 > 
 > Hape lupa do ho di au amng mon Haccit nai Pulut do rohami mamereg amang mon Mangan so mangan
 
-![Arghado Trio - Mauas Di Toru Ni Sampuran](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdAfvDdABTdMgJiUcpyQzc5ZYcrhq1ai6mMBOwdekQaokeEy4WR70ZFvf454jjL04xyYdNLqvssN7zvsF4SIKFljEAuXZ_hBcjBTNSUQ5ptMcChCMnYwSMhxCz-i0GKcEYyEKYjXPfUBCvKK-aNF2MFA5BM6W707I5k6zpsOLGnRjWkR8cMfvI8SLcAQ/s800/arghado-trio.webp)
-
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Arghado Trio - Mauas Di Toru Ni Sampuran. Silahkan bagikan juga ke teman anda.

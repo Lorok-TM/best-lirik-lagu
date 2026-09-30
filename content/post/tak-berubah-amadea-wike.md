@@ -19,4 +19,3 @@ Demikian lirik 'Tak Berubah' sebagaimana di atas.
 
 **Credit:** Judul : Tak Berubah Voc : Amadea Wike Cipt : Andy Suryono Arr : Danny Rico Novianto Sali
 
-![Tak Berubah - Amadea Wike](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3VowqGm9heZiJ0NovfXEP6iJHSPFx_bnP_yHl4jqqu4iQ-tQtd-qpd9fbYgVfbpvqgUQcMVudgBJHuUbu4f239zkIyPdg0b7ts95emu1fUtuQMDu0zRj8c0O_8RXIFVKdbzXfKeiQ3bxN_ULTbQhdlGnkfLoeK2VFtoI0PooIEtu1_Hr4FOIdvAnsdxna/s1280/tak-berubah-amadea-wike.webp)

@@ -5,7 +5,6 @@ categories:
   - "indonesia"
 ---
 
-![Ricky Febriansyah - Wasiat Cintaku](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1W28a5oAwfpNmZHo88R1QGQIV4qEF1KLdzz-gd9siYytUIn3fPtD0uXWs15LxYKjblN7wIZ0APzn8RqxLetd4PqvWN3W6ZldU90S-Bzm1689fjsEt2qCaYzQ0ob-aK27CeE__NtD2jDMnMYT4g2-2gkPu4ncNgrL6aAposXYd8nL379EukQ9QaKuTvsbq/s1024/ricky-febriansyah-wasiat-cintaku.webp)
 
 Diriku ini tidaklah sempurna Selalu salah dan membuatmu lelah Di setiap hariku kusebut namamu Dalam doa yang sederhana Maafkan jika kau tidak bahagia Tapi ku kan selalu berusaha Jangan kau bersedih dan bermurung hati Yakinkan indah pada waktunya
 

@@ -15,4 +15,3 @@ He nakhi tabe'e saohagõlõ Fefu wa'omasi si no mobõrõ La'ua utema'õ hewae af
 
 #Credits: Judul : Tenga Sinehe Penyanyi : Astani Trio Cipt : Dermawan Zebua Arr : Chical Telaumbanua
 
-![Astani Trio - Tenga Sinehe](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhN3Kz8CIyUYlTGRh7DnrvvXMuXBEXEBE8ThKBxGTbGmh_fbZ2ZacgyvuRp0DYeSA22DINmIcN55SA0rBUczucjZbyL63k8qeyqM_ybhXPomuuYXz8jkQ5PABYqWMo2w0POo3qetQAclWJXkVx7axbd7bdrh0BQ_UhEQPxQVp7lNAvJthQzElMXOPcPmul_/s480/astani-trio-tenga-sinehe.webp)

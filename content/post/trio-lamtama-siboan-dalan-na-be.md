@@ -19,4 +19,3 @@ Diose ho do akka janjita Di ussat hodo cintami sian au
 
 Sai hurimang rimangi pambahenami hasian Soada sitioponku sian ho Ai so mar arga cintaki di rohami ale ito Tumagon hita sirang hasian Marsiboan dalan na mahita ale ito
 
-![Trio Lamtama - Siboan Dalan Na Be](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjL8dVhwoFTqrxpJfhk-W_6Oqrm3WnWiWpiRyCqCMfzVqT1poTlKIa-7wMV_41gA7n8J1B-_IcVI_f-0-9GjhRdaqG_6ipY9T98jiQoFdZDnQ4L8eo0ORkoqxvq49DGuUl3pD5Lh6UTEdsS9K24uOmzj0MgrFu4aq0mhV40LY9-cD8-NesU6wt0AorT-N7_/s480/trio-lamtama-siboan-dalan-na-be.webp)

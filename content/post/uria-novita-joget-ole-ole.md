@@ -21,4 +21,3 @@ Oi nan rambutan babuah labek Dijua urang ampek angkek Bia talambek denai baralek
 
 Ondeh ola la olai Mari kito bagoyang Ondeh ola la olai Mari ktio badendang Ondeh ola la olai Ola ola olai mari kito bagoyang
 
-![Uria Novita - Joget Ole Ole](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjw23bumhf9xB4gzMd4IYwyzCWIGIWsJxxFhY6VCm0fgURyzM56Cc-CykX98l3Cypbk1jZiWrv02GrirBdOnIaTaNPCLElyzXE7hml09aZ-TwNG-6r1FpmasDs6UbhcpZH2rIwNvcEPLStqxZ8_Dg9sfKsRrOeRtjfEH3GE5mJmROHcZrHIdxDFgXuUncVN/s480/uria-novita-joget-ole-ole.webp)

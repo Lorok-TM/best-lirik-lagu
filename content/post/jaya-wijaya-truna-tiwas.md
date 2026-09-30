@@ -35,4 +35,3 @@ categories:
 
 Title : Truna Tiwas Artist : Jaya Wijaya Songwriter : Bayu Krisna Poduction : IKIP PGRI Bali
 
-![Jaya Wijaya - Truna Tiwas](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirbX62o8czpwNtKVAhMfNXdoJ3ktdCLxSc1P5pMzGWxgjrysYZ9lQqLPm19QUD9hsLaI5zL1BfQMO7C2TN_2M7PoKl03q2KkQ14-pIeUI0jDbR_B3EqY-9WpgMtePLi3KyT6GG8Txn5inaDbgYwHDV5LoFjCp4xM8jsAseAdRF7p8EVjNkf8NByW6jTA/s320/jaya-wijaya-truna-tiwas.webp)

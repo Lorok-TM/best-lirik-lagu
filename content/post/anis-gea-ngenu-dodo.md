@@ -22,5 +22,3 @@ categories:
 > Nasa dania öbaso Ba ö törö tödömö nrdao
 
 Title : Ngenu Dodo Artist : Anis Gea Songwriter : Anis Gea Production : Wiranis Production
-
-![Anis Gea - Ngenu Dödö](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMCx9ycM4fkEiApwPDvaGk9zhrFQRNb5qgC6SHAnCXAdKbcdBAhUzHwlDRB_CRI_29IDEGRTg3gIH570-jowSZf77RlNP4V3f4_-8Hugl_1wXCnnrTmb_Dagooaaom2nTxoHIUWBe-YYkv8LwlLkv6-brzIZtLivHoTFvm34qP7yxZOU2fBP6TXcUtdw/s1280/anis-gea-ngenu-dodo.webp)

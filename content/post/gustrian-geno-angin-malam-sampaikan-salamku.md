@@ -25,6 +25,5 @@ Title : Angin Malam Sampaikan Salamku Artist : Gustrian Geno Songwriter : Koko L
 > 
 > Bila kau jauh aku rindu Ku ingin slalu bersamamu Bila kau resah hatiku Ku ingin slalu disampingmu
 
-![Gustrian Geno - Angin Malam Sampaikan Salamku](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyCAxxySvtsJ_Vnr7j1vd2BsHTVnl1fvzlVSm_kbSF9O7lVRRl3xEME7V8UqC1Va07IJLk7MnlA9bk-Yik6ivPRLDl_0G3_fp_SsV2uDIbRvAEXjwUUE-1dRfk6XoOF_Oqa8uM1ImKZKMZzbVdmMfOSaGd8loQ8v4Dv-BadCKnJ6Ms7cv0VZk_gyeGVA/s800/gustrian-geno-angin-malam-sampaikan-salamku.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Gustrian Geno - Angin Malam Sampaikan Salamku. Silahkan bagikan juga ke teman anda.

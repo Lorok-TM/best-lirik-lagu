@@ -5,7 +5,6 @@ categories:
   - "dangdut"
 ---
 
-![Mutiara - Laila Ayu](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6OJKKGTHc4DJELb0zt9MplHAcVMTtKjczh-lOrhAzRih33K_vNBpgg6HyzX-4HT5VWKx5hVfNu3ltTOkoeOmQeCyj0fTWV2_-jDjx4-Ig06x9PcTR2-CvCnN0WKumWdpCg9kDatuKX79rUE_YnDsIOdub3ZLy1X8eB6xoIEVfqer1AtUOkLymYh52OZM2/s1280/mutiara-laila-ayu.webp)
 
 Engkaukah mutiara itu Rela kuselami di laut biru Tingkahmu bagai purnama Paras bertaburkan cahaya
 

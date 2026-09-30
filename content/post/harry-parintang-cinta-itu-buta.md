@@ -29,6 +29,5 @@ Title : Cinta Itu Buta Artist : Harry Parintang Songwriter : Saari Amri, Habsah 
 > 
 > Jika itu tiada apalah artinya Penantian ini hanya untuk luka
 
-![Harry Parintang - Cinta Itu Buta](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRabc_4CcYrqH70JtOqsqg1aZ85nNJCAZ4LZjnJHt1KpS7dTiNi-jj6QA0WA3cRVllk2yx78rRtx-zeSyO8oKcC6cTI7gjKHOiqr_A6ZaAw-7VQG5Zg-2gqE2dezi-MByKevEq8kEkvqAx4fuloaj84W92w8pfuawJSsZ5fq8nRu9qjxDrDFyiHPfpQA/s800/harry-parintang-cinta-itu-buta.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Harry Parintang - Cinta Itu Buta. Silahkan bagikan juga ke teman anda.

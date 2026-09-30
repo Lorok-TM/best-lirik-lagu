@@ -25,6 +25,5 @@ Title : Indahnya Natal Artist : Putri Siagian Songwriter : Leopold Parinussa Pub
 > 
 > Gloria Gloria Gloria Sambut Raja Damai
 
-![Putri Siagian - Indahnya Natal](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjddOp9qiU0vjBrt9ovcdjVz7sK-I-iw2ix52WqsTUy-jkafmRPTbbAUlFMULV429dUXhcaCpPpfNtGttnNsCW57zhGuEqRrJFTHrFijSuuM7DZWekM9HEokxLXa8O1AvpMbhVSybp4DXRaSXqMu9EmSeoG2PE6DJNltbf0FFava_RrL9Lm8PyqRP5QXw/s800/putri-siagian-indahnya-natal.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Putri Siagian - Indahnya Natal. Silahkan bagikan juga ke teman anda.

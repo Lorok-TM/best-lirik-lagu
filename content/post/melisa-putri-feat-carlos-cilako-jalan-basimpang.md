@@ -5,7 +5,6 @@ categories:
   - "minang"
 ---
 
-![Melisa Putri Feat Carlos - Cilako Jalan Basimpang](https://raw.githubusercontent.com/Lorok-TM/2026-08/img/melisa-putri-feat-carlos-cilako-jalan-basimpang.webp)
 
 Ulah cilako jalan basimpang Sadang sabimbiang nan bapisahkan Cangguang sabana cangguang Seso sabana seso badan
 

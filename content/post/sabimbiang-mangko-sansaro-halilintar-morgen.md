@@ -17,4 +17,3 @@ Demikian lirik 'Sabimbiang Mangko Sansaro' sebagaimana di atas.
 
 **Credit:** Judul : Sabimbiang Mangko Sansaro Voc : Halilintar Morgen Cipt : Amri Damanin Arr : Decky Ryan
 
-![Sabimbiang Mangko Sansaro - Halilintar Morgen](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgApaSP0aNK95C0rfcld610_VYrn8Okdjn2N7q96_fclgpi78BsHvnxdua6i8BeWYm7jHg1md-2EnZjIDR5XNsKUzgPmk89jOXRR2OEuHT66AB_Ni-Kx_YdAhK6n6YzpdDchSYfibQ7D7I6fUJDEvt25XjXVmJW6g6cYNYl1OQN7abf7eTWKZdKwBYDpiFb/s1280/sabimbiang-mangko-sansaro-halilintar-morgen.webp)

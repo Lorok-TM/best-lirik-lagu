@@ -25,4 +25,3 @@ Dulu wakatu den pacaran jo pajatu Gaji den satahun abih dalam saminggu Mintak ba
 
 Bantuaknyo nan lugu tapi ruponyo suhu Pandai manggili ondeh santiang bana marayu Sia nan mandakek inyo ndak ragu ragu Mangaruak isi saku
 
-![Jobeang - Co Buruang Indak Babulu](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwfAk5ZAnkdxKPoLzevcYDH8vvgnenYzXh-hG6QxbojNuzY993J4N-n9URjkATjKdfckkeCu-n4UEd_aG3al1BqRkLxeyNnKP4NHvHL046QqWGQTcShz_hqRTXpl1yg6fIYEvdimOOMTb3O9goxQ8Alii73KKZ4uLpX8sIQoJmBzKxkOgmLOx6hjlBneQe/s1280/jobeang-co-buruang-indak-babulu.webp)

@@ -17,4 +17,3 @@ Uda sayang tarisau satangah badan Tabayang uda ka pulang mambujuak dalam rangkua
 
 #Credits: Judul : Aia Raso Baduri Voc : Rayola Cipt : Safril Saha Arr : Iwan Romeo
 
-![Rayola - Aia Raso Baduri](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuZLxF9cDY-DRKLf1_z8ovw2FJLBVfy1WGqUuOeMoUlkNkpOOiTCbKEvdIaTeEgzxtIrv5XXwHnwnqy2FF9AqRd8CRX-MJmjiG1MELPzTUH4h6d-lCn4uJtUmvu7Z_2FNsGVC0ZM1d3CDrc-H9p11o_5EEuSEzT-lAfKaJtcrP7poZ_J0dWcxX1zbe8Dcu/s1280/rayola-aia-raso-baduri.webp)

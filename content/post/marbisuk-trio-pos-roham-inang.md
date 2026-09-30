@@ -23,6 +23,5 @@ Title : Pos Roham Inang Artist : Marbisuk Trio Vocal : Frans Sirait, Andri Silae
 > 
 > Pos roham inang tu au anakkon mon Pasonang ma roham adong do au Pos roham inang tu au anakkon mon Pasonang ma roham disomn do au
 
-![Marbisuk Trio - Pos Roham Inang](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjudvm56dyUyYi3mtEa_fU18-QjZQmKT8qpy2sYzPeS0NFkxe0djNZabn48n5YsexeZ-81Wo6hWBaM74CkJiQtpDFjMRMVfBiGG0wFdO64Mfgq103YTjf5EjWgeO0U9zQfLmtn6a_VtfiWonSEOi9EXan_nuuTcXB1BCWwkuziaIDoFz8S_q_GLos0Y-GO/s800/marbisuk-trio-pos-roham-inang.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Marbisuk Trio - Pos Roham Inang. Silahkan bagikan juga ke teman anda.

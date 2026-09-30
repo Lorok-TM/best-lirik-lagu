@@ -23,6 +23,5 @@ Title : Mangalah Untuak Cinto Artist : Daniel Maestro Songwriter : Muhammad Zeki
 > 
 > Walau di lahia oi adiak denai tarimo Namun di batin ndeh adiak taisak juo Bialah kini rantau denai adok i Untuak kok lai dapek paubek hati
 
-![Daniel Maestro - Mangalah Untuak Cinto](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuF5zsJIVupkSNFi_8Pap_17P8i_mke9VItbeuUxrE86-2pgPawVAM9f51s0YlZrCf7ESnt37rh89UB3cOVUzJgCuUluKV7s_YDQZQlXiGVXCuZVXhDauQy1zR2U45i81dYSWqCer3HLFBdIorbQCApsrq9PCKCn_gheuqkIjaXHeZSOn-ep9skLJ9Nw/s800/daniel-maestro-mangalah-untuak-cinto.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Daniel Maestro - Mangalah Untuak Cinto. Silahkan bagikan juga ke teman anda.

@@ -35,4 +35,3 @@ categories:
 
 #Credits: Judul : Teman Raya Voc : Mark Adam, Furhan Zahari, Chaca Trisha Cipt : Zukha, Efry Arwis Arr : Karazey, Efry Arwis
 
-![Teman Raya - Mark Adam, Furhan Zahari, Chaca Trisha](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSdGKA1mXdhGl22NC4nTmrp2_NvrUatJafROwiXS7SthCmUdnaOJI-IiXqh7B9qPKBpemiYvR17DHEF9aaDvXmDbEx8pbEr3iEuZFuUCWqsXeQHzAKkjHbH27jrNXu71JvNoWM67n1X5kmuHJCco2rosxIZfC-Bwd0FAcIIHg5Yq0OYLHt8udgcUPE5Hlp/s910/teman-raya-mark-adam-furhan-zahari-chaca-trisha.webp)

@@ -31,6 +31,5 @@ Title : Ku Tunggu Kau Di Jalan Pulang Artist : Samuel Cipta Songwriter : Audree 
 > 
 > Dan jika memang maumu pergi Tinggalkan aku sendiri Ku mengerti Mungkin kau lupa diri Bila ingatku lagi Ku tunggu kau dijalan pulang
 
-![Samuel Cipta - Ku Tunggu Kau Di Jalan Pulang](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGJEjJ8vHMp5bfaWLWZKaifJRysnHVHj1n-PuqNuC94A71iwjbs8koLtxJrcql8VkMzwD--IIT5wa9jsBO378ZPlDt_J3LLvjAIVMZL_Z0pYX9qf4nQn--rQJxB-d4YWooayYn9ltMshucB6MEJAkvQ-0C4ioj6LdoYsSTUQGR795JWeZ_44uvQM3Asg/s800/samuel-cipta-ku-tunggu-kau-di-jalan-pulang.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Samuel Cipta - Ku Tunggu Kau Di Jalan Pulang. Silahkan bagikan juga ke teman anda.

@@ -27,4 +27,3 @@ Demikian lirik 'Dongani Au Di Ngolukki' sebagaimana di atas.
 
 **Credit:** Judul : Dongani Au Di Ngolukki Voc : Jhon Kenedy Nadeak Cipt : Jhon Kenedy Nadeak Arr : Hermes Sihombing
 
-![Dongani Au Di Ngolukki - Jhon Kenedy Nadeak](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi76l_FgsVKrnWhOA66F67AFjyWyN4XoEm4sT_YveUtcH7cJKOHBAkXFHvVEGyEVWm5FKn6_HpbgoEEWMQ14trtoVxO4kguGej4DLWryz9ENNW8NzrXEYqFOD6D8lW-Uk7z3-wNDo7bXKgW_CEOYlPXSrrgJ5-p9QyspbyU3bj9GuSa42mO71nq07_uhoz6/s1280/dongani-au-di-ngolukki-jhon-kenedy-nadeak.webp)

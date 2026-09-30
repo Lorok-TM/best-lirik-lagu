@@ -15,4 +15,3 @@ Ba hadia uwa'ö uwa'ö ba da'ö Tandraigö ua ö'alui ba mbö'ö Simae fa'omasig
 
 #Credits: Judul : Tola Sa Menaö Voc : Frans Buluaro Cipt : Ratinudin Telaumbanua Arr : Kasmen Zebua
 
-![Frans Buluaro - Tolasa Menao](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3mUmir8POzUMSz24Oyc6sEAkXpedMuMrzCuusnKS_muz3qf4xQ74yYqSisZl39Ahi8vnWCDAA2_YLEbfJmcU5TYnTPlTWf1ekLYYqXuDNQiXMYDHVvWf2Uh_RLgn_sEmEU7BDYoeIrgT8BVNY8ILhVoPz-TqXo6mx4uMFp_tKJPv0kQCWfQjtR5NxXhGv/s480/frans-buluaro-tola-sa-menao.webp)

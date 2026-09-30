@@ -27,7 +27,6 @@ Situs bestliriklagu.com tidak menyediakan chord dasar / kunci gitar / Mp3 lagu K
 > 
 > Andai kau rasakan seperti aku Pasti takkan sanggup kau bertahan Sakit sungguh sangat menyiksa Bagai tertusuk sembilu berbisa
 
-![Ziell Ferdian - Kau Perkenalkan Dia](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwlZqcSaMTwSYlmud5A7FM23jPQFnRJdpHwP4Jhz-AhaBHGJfC_XnIwp0UZV68WykTM-qKRF3OYoEJzxJ6ws2qZKOqk53L_9QGuEb8fTCXCRAICrH6nx0mOlbsjjVbOc58_J4pd20p3-7KeJAljt390Rb1xyr23eUOF1tq88cAhG454X1ecUgojXfCSXiM/s800/ziell-ferdian-kau-perkenalkan-dia.webp)
 
 Tujuan kami berbagi ini ialah menyediakan dan menambah sebanyak mungkin informasi arsip lirik lagu untuk mempermudah bagi Anda yang ingin menghafalkan lagu Kau Perkenalkan Dia ini, maupun belajar bermain musik.
 

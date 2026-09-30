@@ -66,6 +66,5 @@ _Pasrah Kahanan = Pasrah Sama Keadaan_
 > 
 > Pergi ketika aku begitu sayang Kenapa kemarin kamu bikin nyaman Sekarang berubah hanya pasrah sama keadaan Kita tak lagi sejalan
 
-![Tikus Jahat - Pasrah Kahanan](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOFnU7na2aFUSa4YushCPFaXSWzDjMaKe5FbEiJW52MhukAv0-0j9Mc52XVY3ZsU1Ig0L7UkQp8zekeRo1Y5pdIIVUc9KZSxi-rJuls5hN9_ic4xtv2w7x8htzSa-OzVN79wv4M8UDd_rREl2-2v5YTiqId3pi9n5OMq3ODJz8BXBqpBrRAbs_cG7t_K6K/s1280/tikus-jahat-pasrah-kahanan.web)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Tikus Jahat feat Hamboll, Alpina Dewi - Pasrah Kahanan. Silahkan bagikan juga ke teman anda.

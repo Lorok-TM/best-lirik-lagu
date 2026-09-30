@@ -23,4 +23,3 @@ Stop dhika abrri arebben arebben Stop dhika duh mon tak ongkuen Stop dhika abrri
 
 **Credit:** Title : Atemmuh Sakalean Vocal : Winda Nefira Modeling : Fajar Syahid Lyric : Malvin Ramanda Mixing / Mastering : Widya Nada Studio Video Editing : Rifin Editing
 
-![Atemmuh Sakalean - Winda Nefira](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaBKAzqzTHqWbcnbM0iDoRRsWePvQCfoRaVtaPxUwNLpweGnqDZp_mL9U2MRRnDfe0iebp8HA5As5esE_bpztu7A-6yx7oCAbtOSw29DNYW23cq_yXPdmphyh5IuBy5m0pQGQlh721dHtapB-FmaRQgZNE82irwGzZ3ja-g141TGEnbOSzk2XhZmD1vxYE/s480/atemmuh-sakalean-winda-nefira.webp)

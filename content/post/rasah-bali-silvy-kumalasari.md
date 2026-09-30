@@ -25,4 +25,3 @@ Demikian lirik 'Rasah Bali' sebagaimana di atas.
 
 **Credit:** Judul : Rasah Bali Voc : Silvy Kumalasari Cipt : Dika Fajar Arr : Talenta Music
 
-![Rasah Bali - Silvy Kumalasari](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjE62Wguj33H0dUxdVA5LJeKpBBuavsyR2n6xDtFqwLUxIWfaE9yN4a_gx9PgnRmsB8wVE_2H0QGy51hwQNtEH3QqOXnYpA7ofLCo59Z5gEJsLmrNEI8u5YU4jC_DGcpsWIdtlc-InPIluSE2QbuofZkPR_JDZkx_XST332YWfxX6fJ1A5Gd7pul1aW_okg/s1280/rasah-bali-silvy-kumalasari.webp)

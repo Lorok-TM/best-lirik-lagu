@@ -29,4 +29,3 @@ categories:
 > 
 > Ba jari orang oo oo Ba jari orang
 
-![Ademond Lim - Kelanjur Sayau Suba](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_PrsKs7LKcolqbCacu7CKPD18kPZRvZlAHIqa7J_l2suNixHIiUtIqES0-UnqRn0KfKPGLZGChrlC39QPSOZAFSmmvTyaL_7U1tTLoAFvY2di_8DWTXC1-KJvwb7G_-IjKpTpYPMiDrJlREsl5gQyfJ1oM9ZHc237wIx8f8G9xFHcVyf-Pj65IXo9Pg/s1280/ademond-lim-kelanjur-sayau-suba.webp)

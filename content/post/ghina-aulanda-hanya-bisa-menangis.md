@@ -23,6 +23,5 @@ Title : Hanya Bisa Menangis Artist : Ghina Aulanda Songwriter : Harry Parintang 
 > 
 > Ku percaya semua kata mu dulu Tiada sedikit pun hatiku ragu Tak sedar ku telah engkau dustai Dan kini ku hanya bisa menangis
 
-![Ghina Aulanda - Hanya Bisa Menangis](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjq3nQn9XTiumrBhH_DViGkv3UFdxpucYM9tkB6JzrzPX4mq8D0SYGSGAxQe5jdOuj8rkn0nzKTddo_l9lAZAE5jIDOqKsjv7AGxNQGXgrhTVySQ2r_BfDF4Rp8-L9opBDTs039oND4gPubHmN1DlKfSa2331vI4ixxkwshez6B05tZx_TLC3TKcbxnqQ/s800/ghina-aulanda-hanya-bisa-menangis.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Ghina Aulanda - Hanya Bisa Menangis. Silahkan bagikan juga ke teman anda.

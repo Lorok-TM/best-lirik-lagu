@@ -13,4 +13,3 @@ Faya nauwao fefu oi tola uhalo Fefu nilhamo dodo lo aoi ikhamo olo Monono saae n
 
 Naso ndraugo heha same'e ogu idano Solifudo ba otoro todo Heha odoni khogu zuzumo Yaugo khogu wondrarara dodo
 
-![Rocky B Duha - Oya Halowo](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimlI9j9eA4jVXHr2ekj9tcrHNjzOucXUVXlPIpstkE1k3q-ttx6sWmrHh14K5nht60FNYkqGSvr-u7ncLSl9Xmt7Y32L6O7Moa02FVwKgCKJka9j_8rVaONMJDcVwkr4lLiarwOnY3Gygx8Fpds0lU17GlJLE2vdk6aAC5AWFAAr8wBhY1ENpXeUXeZIhf/s480/rocky-b-duha-oya-halowo.webp)

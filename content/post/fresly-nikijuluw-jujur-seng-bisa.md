@@ -23,6 +23,5 @@ Title : Jujur Seng Bisa Artist : Fresly Nikijuluw Songwriter : Jerry Saptenno Pu
 > 
 > Jalani semua rasa yang ada Biar seng taroba di katong dua pung doa Sayang beta seng bisa Jalani tanpa cinta
 
-![Fresly Nikijuluw - Jujur Seng Bisa](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuTpB7RY-17nlZv4Jd2I5p0yyMwjdr_F3fagDsajuancTk5BbjIjaKsgCJ8FcEWkMF4I__S57UvKB4KR7zpOO9SEd3e4KH1JFDQRpmSxPh-A6QWeMeFZARuZF0sTDeRylFzW3JNfngVRmrjLz5EOPHDphsADd9Hvqk5l41n5qRTULrnpkJawQH6te-5g/s800/fresly-nikijuluw-jujur-seng-bisa.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Fresly Nikijuluw - Jujur Seng Bisa. Silahkan bagikan juga ke teman anda.

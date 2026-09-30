@@ -39,4 +39,3 @@ Janji bapadan lah dibuek Usah diniaek ka maungkai Agiah bana ondeh agiah bana
 
 Tali cinto lah di kabek arek Adiak maurak mangko salasai Agiah bana ondeh agiah bana
 
-![Ayu Amanda - Agiah Bana feat. Ridho Zulma, Cabiak](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaUlZUPYI4eojLSIdtsAEdx3XDCpvmibp_76n-6Th7prXG96Ylkq7Fe9dRmQJTJP0tJ6YxqXXuAI71cZXg0FeP49qGKhURMEqSYoweDmX_aSl1QJKY8WGpOWw0plVEDlHDO41hQqB1cXXMsBQXoGdf9MOuTmtSnXpkLfEprHLWfdMpiRBdeXdFbLrPmNjy/s480/ayu-amanda-agiah-bana-feat-ridho-zulma-cabiak.webp)

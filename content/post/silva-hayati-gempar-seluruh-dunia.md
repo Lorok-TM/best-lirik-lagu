@@ -31,6 +31,5 @@ Situs bestliriklagu.com tidak menyediakan chord dasar / kunci gitar / Mp3 lagu G
 > 
 > Kini tetes air mata tak mampu membasuh luka Sakitnya rasa tamparan tak sanggup engkau menahan Walau diriku kecewa engkau mengkhianatiku Tapi kini kan ku buka pintu hatiku untukmu
 
-![Silva Hayati - Gempar Seluruh Dunia](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbBUmg3qR6hkQVnfghjmC6QTAJSq0hkCoyWCT0YC68WCYpqojjwmkdGFHzGOmu0rR1nlt7P7ZVw7vdIXWb1BbHJAZfW2rzIZ6FZRgUvAe-aJdXV_MBWwixWo1u6KUYRr7CT3AOMyfFVKYzebkaDe7CKp-_Uq_Ub0KyR9HD_p-odWNhKg6Z9oeNo4yGHA/s800/silva-hayati-gempar-seluruh-dunia.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Silva Hayati - Gempar Seluruh Dunia. Silahkan bagikan juga ke teman anda.

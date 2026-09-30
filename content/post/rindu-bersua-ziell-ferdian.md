@@ -5,7 +5,6 @@ categories:
   - "indonesia"
 ---
 
-![Rindu Bersua - Ziell Ferdian](https://raw.githubusercontent.com/Lorok-TM/2026-08/img/rindu-bersua-ziell-ferdian.webp)
 
 Entah mengapa dengan diriku Slalu mengingat tentang dirimu Bayang wajahmu selalu Menghantui diriku
 

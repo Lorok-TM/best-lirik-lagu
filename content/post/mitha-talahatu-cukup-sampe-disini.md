@@ -37,6 +37,5 @@ Title : Cukup Sampe Disini Artist : Mitha Talahatu Songwriter : Teddy Balubun Ca
 > 
 > Hoo oo Beta pigi
 
-![Mitha Talahatu - Cukup Sampe Disini](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRq0CVG2rvAIDAfkkZOkoOl12jq1KShaF7y_8bX0ZDckmvMXFetK9wH-mg5kJ9gWkGCuEfOi5fZNHw5ds_aV930picC5v8WBu6z52c-CX6kkCVbj2oGxu54IY7MqVXzHrzCbUmcAHNKpDQb8AiMaN56g7iG0ITAjwpbw0BPjuh9BBym_L3H96WAYmjYA/s800/mitha-talahatu-cukup-sampe-disini.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Mitha Talahatu - Cukup Sampe Disini. Silahkan bagikan juga ke teman anda.

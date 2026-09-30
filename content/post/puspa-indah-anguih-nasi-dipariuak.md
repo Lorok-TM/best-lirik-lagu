@@ -17,4 +17,3 @@ Dek cinto hatilah mabuak Lupo nasi anguik di pariuak Malu dapek indak tasuruak T
 
 #Credits: Judul : Anguih Nasi Dipariuak Voc : Puspa Indah Cipt : Bakhtiar Putra Arr : Wadri Pelok
 
-![Puspa Indah - Anguih Nasi Dipariuak](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyLslnXpB4cJ9wmuwvAUlkuBPYRBjjDQnWrwnEiczLyPUzMIU5E_41uGX5FGnlyy3OEq96ejF5wq4yV_Pto3viKgYUMDBQZ793J1CbhpRoaCnwXOI16tgo350ZGpfN9wZetySvbyKbl4R2SPB58xuGQ4s-P7wpS2jY7xyeCuPkyLqI7Qp7PxBzx64sDF_O/s1280/puspa-indah-anguih-nasi-dipariuak.webp)

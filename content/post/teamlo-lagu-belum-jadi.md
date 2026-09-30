@@ -23,4 +23,3 @@ Verse : Lagunya belum jadi Musiknya udah jadi Terus harus nyanyi apa..? Ya sudah
 
 Lagunya belum jadi Musiknya udah jadi.. Terus nyanyinya gimana..? Ya sudah berhenti aja
 
-![Teamlo - Lagu Belum Jadi](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2Vm_1_z8on5-4Goh0dyRLWmIWxQfjpt5zbilrkSo_sRciJ3etaaipITcsiwVcobzpQAgA4UiXdu30BltWK69WNYrAWQFXB56o3kp1m8TYDuMA3DGLe95Y0dobMETpZbz51HXCTyUhBUwjjrQj-Sn7644WYJBdatkyfwDg3BMttrC-naVY8IlUN4f9ikP7/s1280/teamlo-lagu-belum-jadi.webp)

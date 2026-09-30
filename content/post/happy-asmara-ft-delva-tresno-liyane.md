@@ -60,4 +60,3 @@ Kowe nyanding tresno liyane Kowe nyanding Kowe nyanding tresno liyane
 
 _Kamu bersanding cinta yang lain Kamu bersanding Kamu bersanding cinta lainnya_
 
-![Happy Asmara ft Delva - Tresno Liyane](https://i.ytimg.com/vi_webp/8hUe1J5T80U/maxresdefault.webp)

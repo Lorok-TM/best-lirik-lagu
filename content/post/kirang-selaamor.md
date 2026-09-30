@@ -5,7 +5,6 @@ categories:
   - "dangdut"
 ---
 
-![Kirang - Selaamor](https://raw.githubusercontent.com/Lorok-TM/2026-08/img/kirang-selaamor.webp)
 
 Kembang sing layu Wingi wes mbok sirami Ati sing tatu Wingi wes mbok obati Nanging ngopo saiki Aku dewe njalani Mbok punthes ati Ora ngelingi
 

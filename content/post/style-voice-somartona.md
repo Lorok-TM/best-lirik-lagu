@@ -19,4 +19,3 @@ Pulut ni roha mi Ditinggalhon ho do au Somartona somartading hata ho tu au
 
 Somartona somartading hata ho tu au
 
-![Style Voice - Somartona](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaC7OnuhTua277Lxak-slUphgiF6SG0Ulwx5lhFfAxySfrBJzlHpzkrDebn-nQSd4HQpFkzIocALxMYsyfwG8GsvDXsN_5rsDHBFibhZ7RbBpxKGjSB8sUFQLZ4UjQ6Dxnl2rc49qQctGOTosVl5opV37TkRxY7d7s5qvGyVA30uZVZMSzN7CJmaF5rccQ/s480/style-voice-somartona.webp)

@@ -39,6 +39,5 @@ Title : Saling Percaya Artist : Thomas Arya ft Fany Zee Songwriter : Rino RWpro 
 > 
 > Saling percaya walau terpisah raga Namun tetap satu dalam cinta Saling percaya walau terpisah raga Namun tetap satu dalam cinta
 
-![Thomas Arya feat. Fany Zee - Saling Percaya](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-ZRKBn8jm9YBfitpyht0wH208G4eNFpGwPSliPahkknvD4a2E4AIwySur0iLZvzCs-RyBX6VcfBJ_oG8v_EKlRZtjA860KGa518evWWd2pvuxoRgabnNqoxJdbIUhbBYLSEzjrLQdE7nox9YWWEH_-RXsTHhlul9VZkw4RLfAvK_07XPKC6Lne6rJmODI/s800/thomas-arya-feat-fany-zee-saling-percaya.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Thomas Arya feat. Fany Zee - Saling Percaya. Silahkan bagikan juga ke teman anda.

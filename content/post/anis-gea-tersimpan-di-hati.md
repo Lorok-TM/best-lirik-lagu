@@ -33,6 +33,4 @@ Title : Tersimpan Di Hati Artist : Anis Gea Songwriter : Eka Gustiwana Productio
 > 
 > Saat kau menari dengan tawa rasa terkesima mulai melebur dalam hati ini Dan ku telah arungi luas semesta tapi tak ada yang mengalahkan indah parasmu Uu uu
 
-![Anis Gea - Tersimpan Di Hati](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFzg50n_LGW53KFCdd1qTIdfUsI9z_EVhK8wx9REBmisO_BkCLUfL7PP4kTx0Nr_YjMfqkVc3Cjv1w0vieT-jn5HZsvL2X-iW5G5pB05oOjT8igldnZySfaGEH2tm4918h7CeqBUtk3LLB0lrycfinKsR6Jv1byUtWslFHZ-IPj0iJHYDLPRqpiC4YNA/s800/anis-gea-tersimpan-di-hati.webp)
-
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Anis Gea - Tersimpan Di Hati. Silahkan bagikan juga ke teman anda.

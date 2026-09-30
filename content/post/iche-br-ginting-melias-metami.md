@@ -29,4 +29,3 @@ Title : Melias Metami Artist : Iche Br Ginting Songwriter : Ersada Sembiring Pro
 > 
 > Kena kena kena kena Kena kel ngenca si pepalem pusuhku Kena kel ngenca tambar tedehku Kena kel ngenca si pepalem pusuhku
 
-![Iche Br Ginting - Melias Metami](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLTs96zsZ5XVjuY9IFxenYms5rOnNish7ZW4tvZC3Mmeced1txMGnY9wVMZYbQq2ZZcRrsorLETkgnH42O9Ep_nuEqwzFkzgA9SPZnmDT7SFKj8KEeihS6ZX9AZZLUZaNyyGUkQIDFEPqudI4pphUyFaI-zPgG_JeQNTF8a2fHyw45L0O8-QXZiXgLwQ/s1280/iche-br-ginting-melias-metami.webp)

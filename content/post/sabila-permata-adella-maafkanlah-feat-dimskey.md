@@ -19,4 +19,3 @@ Tak mungkin lagi kita bersama Dan harus berpisah Semoga kisah cinta kita Abadi s
 
 #Credits: Title : Maafkanlah Artist : Sabila Permata Adella ft. DimsKey Songwriter : Nono Suwarno & Achmad Fatoni Prod : CV. Henny Adella
 
-![Sabila Permata Adella - Maafkanlah feat. Dimskey](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIJSPK7kPgAXhXYTlPhtKMmOvDfSqlkDTh6kZN87MD2ujDTd6t0ZL8INcAHudaWB6J-vII-1T-vdR6BYZcM1ZkOjflgwBz_LqsjQvvJL6KZ0kz9RM2zTeIkUBbxJgNV-mbQVd6RGSZIGY7Ron0Y0dEw0dPJ8TLDCzDH9QJqh4pYRT05YuPVjecxkRWg7jw/s480/sabila-permata-adella-maafkanlah-feat-dimskey.webp)

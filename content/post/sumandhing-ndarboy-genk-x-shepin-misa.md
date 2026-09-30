@@ -6,7 +6,6 @@ categories:
   - "java"
 ---
 
-![Sumandhing - Ndarboy Genk x Shepin Misa](https://raw.githubusercontent.com/Lorok-TM/2026-08/img/sumandhing-ndarboy-genk-x-shepin-misa.webp)
 
 Karya musik berjudul "Sumandhing" yang diciptakan oleh Wahyu F. Giri dan dibawakan kolaboratif oleh Ndarboy Genk bersama Shepin Misa mengangkat narasi tentang kesetaraan, penerimaan, dan pencarian harmoni dalam hubungan interpersonal. Secara etimologis, istilah bahasa Jawa "sumandhing" merujuk pada konsep kesepadanan atau kedekatan yang sejajar antara dua entitas. Melalui pendekatan aransemen yang kontemplatif, latar belakang cerita lagu ini menyoroti dinamika emosional individu yang mendambakan figur pendamping hidup yang sejalan, baik dalam visi maupun komitmen spiritual dan sosial. Alih-alih mengeksploitasi melankolia romantis yang dangkal, komposisi ini merefleksikan nilai filosofis kultural Jawa mengenai pentingnya keselarasan (keseimbangan) dan kematangan bersikap guna menghadapi realitas konflik dalam sebuah ikatan komitmen jangka panjang.
 

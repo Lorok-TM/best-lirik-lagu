@@ -5,7 +5,6 @@ categories:
   - "nias"
 ---
 
-![Nadozi Niha Kayo - Gailham Sarahönö](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggnCpElwT2yOaZ2y89l9Qu7azh-ZAFepVQiDTPC2BIWSXXA9TQIop5zibjWbx3mK62KqvHlnUyX1TxwhakraMBzhb6R346PSyO7JDf187CfWCewzuwl4czvpCEoyVdIrPx1C2-dd1rM7olvmOHe5v6v2C6nCYbSdMnfyX3F6sen493YmhtddEQLvp9ruhh/s1280/nadozi-niha-kayo-gailham-sarahono.webp)
 
 Uröi furi mbanua Zatuagu omasi'ö U'ötö nasi sebolo Usösö hili danö
 

@@ -37,4 +37,3 @@ Saling percaya saling mengerti Hindarilah cemburu buta Usah prasangka hilangkan 
 
 Akan ku cuba hidup bahagia Akan ku tempuh lumrahnya bercinta Akan ku cuba hidup bahagia Akan ku tempuh lumrahnya bercinta
 
-![Tajul & Muna Shahirah - Resipi Berkasih](https://i.ytimg.com/vi_webp/qhxk2wznE2M/maxresdefault.webp)

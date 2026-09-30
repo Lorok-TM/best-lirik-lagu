@@ -52,6 +52,5 @@ _Ora Iso Move On = Gak Bisa Move On_
 > 
 > _Dengarkanlah jeritan hatiku ini Sebenarnya aku gak bisa lupa Aku ingin kamu kembali menjalani cinta suci Karena kamu yang ku cintai Tetap dihati_
 
-![Fida AP X James AP - Ora Iso Move On](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjy33oilK-NidhZqyydaiypP3iYdMFouArVx3OXNCFp1eqz2aIHAY7Cznp7E3iu_RD2uZm3FyX9aQVUMJWXu-JEcDap6vXbhw9iTCrh9dV6zB4sZRNM9uCWqjl3nlSVN0cEHRKBvYBJwfMM3MnTBzm1JSAC_czoYwzUjJEFy4neXoywcP8JM2r_nRzKXg/s800/fida-ap-x-james-ap-ora-iso-move-on.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Fida AP X James AP - Ora Iso Move On. Silahkan bagikan juga ke teman anda.

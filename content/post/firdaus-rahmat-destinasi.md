@@ -27,4 +27,3 @@ Chorus : Amati biru langit.. Terbang burung demi hidup dijuangi.. Saban dini pag
 
 Bayu bawalah.. ku ke arah.. Yang pasti untuk ku.. Destinasi yang pasti untuk ku.. Destinasi yang pasti untuk mu..
 
-![Firdaus Rahmat - Destinasi](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjv8qVzRs4USxBzlzi643VOczHTp2kbAZeEcURU7Emsz6Ne_5yxJQsNwRgAvVn3TFdLf5TD_VtB-z78bd42-f0aTH019OWkLROb8H_U6QeyJ2T3kNyl7P_qgGzR-msb6FemnQSZOuUjpeBgoSrgviXlbaP-564Lt5tqYzL-TM5HnLbCE7RYEUQ5ay7gPD9J/s1280/firdaus-rahmat-destinasi.webp)

@@ -17,4 +17,3 @@ Allahumma sholli wa sallim'ala Sayyidina wa maulana muhammadin Adada ma fi'ilmil
 
 Demikian lirik 'Kiu Kiu Supir Truk' sebagaimana di atas.
 
-![Kiu Kiu Supir Truk - Difarina Indra Adella Feat Fendik Adella](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRLC1fKT4u2DKKwO7Fwssb3zD3fPMyF-jR6TrNOs4gKKr37Xsdpsvlac9NK2wh9mCSwDJtz14Pd7jojh61NoXgsvcAA36NwdwfKY9S8j1Nyebln0KVoC7sxbSlb9wlaDs7r8e20YMzMsGzjoq9HjndWxsZKsW2JPilW2nLtxF5BBmSutVj14jxu6eCg-iN/s1280/kiu-kiu-supir-truk-difarina-indra-adella-feat-fendik-adella.webp)

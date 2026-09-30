@@ -13,4 +13,3 @@ Opo aku iki, mung sewates ngancani Ngancani kowe nganti ketemu jodone
 
 Kadung jero le nresnani, jebul e mung gur njagani Tulus e ati mbok wales nglarani Ngopo aku kudu ngrasakke loro, lagi kowe crito Nek slama iki, mung mbok anggep satpam ati
 
-![Satpam Ati - Sasya Arkhisna](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxYFReLGtcir64lCtLp5HDY379mnicPb1BPKomxM1lNtyQL857yTMZFBy6KCDskXkd9ArvGV_IpZjbjKcU27mGGF4xloPfPP_7xUtLHAt6YYga_XVK0NSFplpqB2zQFfblS9BJ8AxHac6QzX1WNoN7EdEpTMhuUmBKn24pHPxx0ObLp1Mk-UgRfSBM3F_3/s1280/satpam-ati-sasya-arkhisna.webp)

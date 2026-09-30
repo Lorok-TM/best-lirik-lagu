@@ -89,6 +89,5 @@ _Sebagian yang voice variation tidak kami terjemahkan, seperti Ta tarerat terore
 > 
 > _Baiklah terima kasih_
 
-![Ray Peni - Disyong Disyong](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHPOiCbQzM1RP8xwJswPY0SQh0Uxb7pN6SpsfsL6w2QAMedlHb-z5QS1RAUN3dPyfJTc0sEf9JzRJf3nU7OhvAVhHkPw1Bw1Dr1-E6MmFEJWHsPOgVyu0U-2UfAS9Yl5p50CaDK8VLGkuDgyz_DglhcMp0tgZZpVPgGThWf5Yk8qrRxAwqXc-ejSLrvg/s800/ray-peni-disyong-disyong.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Ray Peni - Disyong Disyong. Silahkan bagikan juga ke teman anda.

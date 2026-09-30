@@ -35,4 +35,3 @@ dot hidup pang berubah hutange pang mebayah sing buin hidup susah masa depan ne 
 
 ejoh ngalahin umah ulian jengah hidupe pang ngelah
 
-![Ulian Jengah - Evan Daryata](https://i.ytimg.com/vi_webp/MPWIRmW_k-E/maxresdefault.webp)

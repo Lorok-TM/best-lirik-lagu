@@ -29,4 +29,3 @@ Dima lah latak kurang nyo denaiko Dimalah kurang nyo gagah denaiko Nan elok ko n
 
 Picayolah adiak ka diri denaiko Indak ka den buek adiak ka sansaro Kito jalani baduo
 
-![Ridho Zulma - Pesona Gadis Minang](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVLvR8s123EvCSI0o2T4iLlS2j9Kw9nMRMlMCpCxOrk-oiUhC_j0kE_Ro2tTbdD-k0L6SjDEC4l2pFwWxlRa7-JETSBtkFaYRmbzBRX9W0YthD9SFZ5mWAwaS-FF7hZLSscKla5rsdRSpRjkEJH8TbXsp30DTZl7P5nvWOR6DPV_0FzIvzY7BXPmPB_Rfc/s480/ridho-zulma-pesona-gadis-minang.webp)

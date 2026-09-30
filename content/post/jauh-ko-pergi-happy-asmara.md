@@ -5,7 +5,6 @@ categories:
   - "dangdut"
 ---
 
-![Jauh Ko Pergi - Happy Asmara](https://raw.githubusercontent.com/Lorok-TM/2026-08/img/jauh-ko-pergi-happy-asmara.webp)
 
 Sa ceritakan pada bintang bintang Ko su hilang di malam panjang Su tarada lagi yang panggil sa sayang
 

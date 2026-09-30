@@ -31,6 +31,5 @@ Title : Saputiah Kasiah Mandeh Artist : Maysa Songwriter : Muhammad Zeki Product
 > 
 > Indak ka basuo yo salamonyo Nan saputiah kasiah mandeh
 
-![Maysa - Saputiah Kasiah Mandeh](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtPVvGraJYBUnhJaJtn8nOnGwQxd4cXWs6WeUF2KVAw8IhLBD-nXFFYT5HRWDorLr2uReVRrrd97hpJM1eM6VKf_5dAhUr9GfUJZ6EkP0Kw0lHNHOQ-Rlilo2ZyhjZNdA75JJsTAohh0Z379SHs07r-Eq27uRphtG4w-E2Ee-ilVpsax-RTErq1XoBZNYV/s800/maysa-saputiah-kasiah-mandeh.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Maysa - Saputiah Kasiah Mandeh. Silahkan bagikan juga ke teman anda.

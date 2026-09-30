@@ -51,4 +51,3 @@ Senenge lamonan duwe laki Jagat atis ana sing ngekepi Sun isin setatus ning kate
 
 _Bahagianya bila punya suami Musim dingin ada yang memeluk Aku malu status di KTP Sudah tua belum menikah juga_
 
-![Dian Anic - Pengen Duwe Mertua](https://i.ytimg.com/vi_webp/ttkHqa3Vb8w/maxresdefault.webp)

@@ -25,4 +25,3 @@ Demikian lirik 'Kelangan' sebagaimana di atas.
 
 **Credit:** Judul : Kelangan Voc : Cantika Davinca Cipt : Ali Px
 
-![Kelangan - Cantika Davinca](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZ66QgCz4lAdlkWM9xBoKK_P70Osxt4-DNsggvYDTdq4flKK91thXHhvEz1zkLP2VmuBPHvFjSFxBAuM2uZ7c1Qewl7sdmyiHx7zr5JzC8bbzWvXUZ6hDzQY75qHJcFVNhblyGjCQ2N2PiZ2qWm9ND0ocYrDwc9zPOMgj_8xIIgRzMZam0Xy1_29jfe2U6/s1280/kelangan-cantika-davinca.webp)

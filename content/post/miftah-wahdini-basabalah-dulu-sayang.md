@@ -17,4 +17,3 @@ Basabalah kito oi sayang Samo bado’a kito ka nan kuaso Jikok lauiklah mulai ta
 
 Samo badayuang ka pulau cinto
 
-![Miftah Wahdini - Basabalah Dulu Sayang](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEie1kK8eYRhZt3ExnjpuTfevxzyjtzSTUYsWy0gtWA_BdjoCvETDPR7MvBNaAkLh6vp0xRgLGZ2YOESvG9tr2OyDZLRGDM2LYOSV6XnxG8nMP4noIRTilLtxaXCv5gJmmgpwXpwwoz6jJ63gMR03T-HanWghCqHeAyUt-635JU4svvu6o1IuhKUBiXRPWg-/s1280/miftah-wahdini-basabalah-dulu-sayang.webp)

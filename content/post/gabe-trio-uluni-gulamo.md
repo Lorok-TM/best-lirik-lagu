@@ -33,4 +33,3 @@ categories:
 
 Title : Uluni Gulamo Artist : Gabe Trio Songwriter : Serli Napitu Production : Serli Napitu
 
-![Gabe Trio - Uluni Gulamo](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjk0YJD8-TKHGtsSWcVXjX_GZsHEoFSdxlKD4lVC1P6NOVVFn6_nDD_t9i5oUjkxb6aLk8jtwnnAvRKBL9AkifbVSScdE2Q3mJS2mLNrA5IgMJ9-L_wHJ-n_WRcGfR9ms9YU57sfeL0CNkm2PVlSMNtzAf5hm-C9NHWCI6VRXulX9mJmr4KvunylNa3ag/s1280/gabe-trio-uluni-gulamo.webp)

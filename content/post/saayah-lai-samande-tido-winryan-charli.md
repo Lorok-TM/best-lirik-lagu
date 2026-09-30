@@ -23,4 +23,3 @@ usah dunsanak bakcando itu kadiri denai apo nyo salah jo doso denai katokan mala
 
 sahinggo dunsanak cando rang lain kadiri denai bakcando sibungsu indak baradiak situo indak bakakak
 
-![Saayah Lai Samande Tido - Winryan Charli](https://i.ytimg.com/vi_webp/X7RxeGBqSeI/maxresdefault.webp)

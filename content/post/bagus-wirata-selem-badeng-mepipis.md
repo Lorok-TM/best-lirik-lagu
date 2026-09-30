@@ -25,6 +25,5 @@ Title : Selem Badeng Mepipis Artist : Bagus Wirata Songwriter : Bolot and Loyok 
 > 
 > Gadang gadang buah bonine Ngadepne kebo ke banyuatis Bajang bajang care janine Sing mandang bodo yang penting mepipis
 
-![Bagus Wirata - Selem Badeng Mepipis](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizGIkGeFn08P1oKtruBjyj4j02oRMVRcPV2G76dtUH64sD6QtMhdHLTmrmMLO3-SQNePGolLbVM5uLo_jHg7o6WZOP4A1mRs7FaRVyfnKxp4ftxjd2ZRQ2x7vMc0_BhG7B-BKgPTZNMw3SIG4FnXakjEzYSEtpVS7vKCqWeHmk8qA2W7_yPGFEj4_DfA/s800/bagus-wirata-selem-badeng-mepipis.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Bagus Wirata - Selem Badeng Mepipis. Silahkan bagikan juga ke teman anda.

@@ -29,4 +29,3 @@ categories:
 > 
 > Hooo Ini harga diri bangsa Hooo Ini harga diri bangsa
 
-![Pujiono feat Nyonk Kunci - Dengarkan](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAgNdiUvH-hCp-RGm6cJGPi7Op5rYHy7Ora8a_mawyfXagCFHRM8m4MQDihlquR2xPzTUtI8eLt9Y4CHKkpH__7tdp97eHq9Vm0LUOwzXq0XjBz44qAnDc3w3g4pSOPSACRX9LS-uyRtLeWqg-FiFwSrwvTUjvyijgaddRmdHa60qbg89F8wJab4MJog/s1280/pujiono-feat-nyonk-kunci-dengarkan.webp)

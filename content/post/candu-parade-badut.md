@@ -37,4 +37,3 @@ Demikian lirik 'Candu' sebagaimana di atas.
 
 **Credit:** Judul : Candu Voc : Parade Badut Cipt : Khoirul Rizal Arif, Reza Ferdinan Adhyaksa, Wildan Ruruh Sentika Arr : Khoirul Rizal Arif, Reza Ferdinan Adhyaksa, Wildan Ruruh Sentika, Yohan Syah Metekohi
 
-![Candu - Parade Badut](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiomphiAvDu8wZxeyxUzfsbJYpKxv_pfcQtrzrtVEzogXc8wtbKqueWYyVP2JkR_Aq1L6zOmP-Svzrd41mXG_wB4Gg4lUJytk8USS0kyy3-grsTb9HYNIi6laIWDy8Tnr3JpwILumQrip3hP8coPQReZDO1NRs1x5hCtbndFE4cmhXwIey8k16w5yeyXWok/s1280/candu-parade-badut.webp)

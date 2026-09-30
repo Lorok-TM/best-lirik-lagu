@@ -33,4 +33,3 @@ Tak rewangi tak pateni Lahire tresna kang suci Kasunyatan yen ta aku Sliramu isi
 
 Demikian lirik 'Ayang Ayang' sebagaimana di atas.
 
-![Ayang Ayang - Damara De Feat Tadeus Lavora](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwC9ybgPrCi2yI5viNmJqnevdiB331ppcdgQIxDUKcIPmH0NjDqDmhhgl7HC60bZ07Iw1vKHxZMARzKosWE2rznNJl_odiW50iQGsUGI77L2yhqhSrao1fAU5FNUVH74YNtU6p-RYbLvZ8iZqb7L4h20xYm1fMRFFDlaPNO7R2UbAuTysTzEOjkA8Czs7L/s1280/ayang-ayang-damara-de-feat-tadeus-lavora.webp)

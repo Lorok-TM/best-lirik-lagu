@@ -49,7 +49,6 @@ _Elok Bacamin Diri = Lebih Baik Bercermin Diri_
 > 
 > _Jangan dituruti sayang Hapuslah jejak jika tersinggung Jika bersalah tolong maafkan_
 
-![David Iztambul - Elok Bacamin Diri](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVfh-U0FRdmjyr2rt98aNxAv0S-6Q4-jrWKWisS5a1tpPbG21Y2souAx3DZqxW6wq7uQhb9a_n64b9oVmm1MtqeRKGB04VSNcua3CAZzvEH-JXA260habxAtSRIHwOvqeoqydcspRWCPwKraXfXZ0o6aMg5pwjuktvPlH0xO5FNp37D4V9NJ6xjqZw4QG1/s800/david-iztambul-elok-bacamin-diri.webp)
 
 Tujuan kami berbagi ini ialah menyediakan dan menambah sebanyak mungkin informasi arsip lirik lagu untuk mempermudah bagi Anda yang ingin menghafalkan lagu Elok Bacamin Diri ini, maupun belajar bermain musik.
 

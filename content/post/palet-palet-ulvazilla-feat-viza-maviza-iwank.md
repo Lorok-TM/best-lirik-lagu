@@ -21,4 +21,3 @@ Manyang-manyang gunong yang manyang Rot seuleudang tinggai mayam Meuhambo bhe Re
 
 Manyang-manyang gunong geureudong Di ateuh tampong jidong cempala Pihak lon timang peulake gampong Tuboh meunanggong nyawoeng lam gala
 
-![Palet Palet - Ulvazilla Feat. Viza Maviza & Iwank](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEia-gClcI1GEertEEv3NdqCvnVzn7LAAqVpSVk24TuqjPnOJW749xg1WIHbjON9oKpjaX_eDPwOKyWbilYaLGAsuKnCU6sUDB_OH7vk7PL4eQKYRwmnHdfqU07cXanwscmCZAwOGZQNFVr_e9NwvNk-Hw-hwKyymITjajev0TZGXd9tYSplwbUjFUa0AXP2/s1280/palet-palet-ulvazilla-feat-viza-maviza-iwank.webp)

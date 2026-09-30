@@ -5,7 +5,6 @@ categories:
   - "java"
 ---
 
-![Awas Do Minggir - Reva Wijaya](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRH4inLYytMjQOLc7HeKqi0JijWqFv3_jdYFxTqYCoz8LoFLqHogFy94puSPYJhLiksjpVvxLHDZlbB9q9LARR_K1ngCSk55viTeL8mmdlBXVUYDVLNIl_GG_-GNVCNa7UWpGtHiR1tz0mm02jMz33BcosbU3roOS1mAahDsqjnDIQcWYQKP-VIMGTIn_C/s686/awas-do-minggir-reva-wijaya.webp)
 
 Awas do minggir ojo ning tengah dalan Aku wis ra mikir cinta cintaan Mending aku kerjo wae nambahi tabungan Rasah abot mikir sing gampang
 

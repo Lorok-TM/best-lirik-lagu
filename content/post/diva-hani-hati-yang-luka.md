@@ -25,4 +25,3 @@ Dulu segenggam emas Kau pinang aku Dulu bersumpah janji Di depan saksi Namun sem
 
 #Credits: Judul : Hati Yang Luka Voc : Diva Hani Cipt : Obbie Messakh Arr : Lembayung Music
 
-![Diva Hani - Hati Yang Luka](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8Bb60hzK4gFVxFhIKXn5Uo2DT4q43x_CovGHsPoGbb1eFWZydq3DLLimlgNvde0SsBe8Utg1LHX2yS0nTYHnFA79P64coxT52qnAaTLxIvtYc0IH40m4ln7gN74rKRv1AV5zW4p8LA8CO2NhhjJZli5EY4dbenX-fHmTr5gonqCLvnV0aJs4toppbBIye/s910/diva-hani-hati-yang-luka.webp)

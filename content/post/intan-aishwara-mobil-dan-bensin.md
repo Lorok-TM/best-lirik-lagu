@@ -42,6 +42,5 @@ Title : Mobil Dan Bensin Artist : Intan Aishwara Songwriter : Obbie Messakh Prod
 > 
 > Bagaikan mobil dan bensin Kita seiring sejalan Bagaikan sayur dan garam Kita memang sejoli
 
-![Intan Aishwara - Mobil Dan Bensin](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggbZBW89YKZ3c1WCvHyFe37yq0AC1tyZXWSDQSG_Hth3xOI0wB7WkSFwPgb3mbZXUVHTPj2W190PdyeX0vYU8sr0lAKNMypHZFRj0pS1oGW1JqKxDohT3I5Sg_lFiowdjMwIAHbKbBQygR637HU52IGYhI5Laa9KPXDCRxdVpy_r63cMUubXHHx9n99A/s800/intan-aishwara-mobil-dan-bensin.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Intan Aishwara - Mobil Dan Bensin. Silahkan bagikan juga ke teman anda.

@@ -15,4 +15,3 @@ Na ufaigi mboto mö Yae wa'o pödö pödö Ya'ugö khögu nakhi zamo börö hor�
 
 #Credits: Judul : Oroma Wusö Voc : Yarman Ndruru Cipt : Yarman Ndruru
 
-![Yarman Ndruru - Oroma Wuso](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMN6CSsRc08NQRCnvUcgP4HgS_EyKVDS8CEtv0q6hghEWnN1msRH1gzo5MiDlj2P5366MhzqynWrmFJ8tcu_vxa-Ayzv-Qgz3EOCtulRkSn9Thq7sq4FermkgZAdKgsv2WIFfLdas7yC0vTHv4ECoZ1MG36PxTHG40iBxsNnRC27GJ75hgC0X1Q9HccAnN/s480/yarman-ndruru-oroma-wuso.webp)

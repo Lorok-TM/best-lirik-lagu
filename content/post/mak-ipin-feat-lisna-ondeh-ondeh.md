@@ -23,4 +23,3 @@ Title : Ondeh Ondeh Artist : Mak Ipin Ft. Lisna Songwriter : Eddy Palangki Label
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik lagu dan lain sebagainya. Terimakasih atas kunjungan Anda.
 
-![Mak Ipin Feat. Lisna - Ondeh Ondeh](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgERGCZeOUMxSjy8eKXMidx6_ghgQmJ622lg5r3Cva40Ccg6zrg93fMzRny4CXT6hTMP9KLEXH7IyY3d09L0swkI5SkGJNFPFXFduUpe4CqN4K__-eOlz1Q99Bvvs9Pzfixdq-q0BtPkY62_4QFKViJjMnlKkAznYJaVG2K_pgEcvkMxvp3OCvU8DarHg/s1280/mak-ipin-feat-lisna-ondeh-ondeh.webp)

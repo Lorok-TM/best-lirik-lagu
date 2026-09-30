@@ -21,4 +21,3 @@ Sungguh diri tak mampu andai terpisah
 
 Demikian lirik 'Dambaan Hati' sebagaimana di atas.
 
-![Dambaan Hati - Aprilian](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4AIXFMLBaPbtLqB3w-hwV1mlsDGW4_CPpw0gh1FhELf7xW4-0fTUOChp1ZEFNu-eLuulObV8AI3gfSjq1y30pRmZhgnVqVmWbam6kBcudyBsP_TMIBFqIky6A3eOXRfY5nhKd_vHpC8_cOs-vgfl2JeZ26YUGLkS9cV83zwoWBrM2CGi2u8sBYYeHEkFk/s1280/dambaan-hati-aprilian.webp)

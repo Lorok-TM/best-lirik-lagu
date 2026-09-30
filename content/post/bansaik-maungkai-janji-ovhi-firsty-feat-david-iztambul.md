@@ -33,4 +33,3 @@ Sungguah sungguah sampai sampai hati Uda nan ka denai kini Ramuakan angan jo mim
 
 Maafkanlah sayang cinto indak ka hilang Walau rago denai jo urang
 
-![Bansaik Maungkai Janji - Ovhi Firsty Feat David Iztambul](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnaKrbMfUWdTovAD36_2vyiUoXbO8fnDg9NyWgv-bAuwDGZskolBz4t7uBc3QiEmfPASb3_j2rCUrZ1oNECSvLyD4pe1TJGZkSmZTEkLGLX1DdYxI4XvZqE3c_S6a_HO6MLYPH24k-0WjjO5LBcpraVsloePxncmxkZYTblZsEmBvws1we_5j3AzokYtdz/s480/bansaik-maungkai-janji-ovhi-firsty-feat-david-iztambul.webp)

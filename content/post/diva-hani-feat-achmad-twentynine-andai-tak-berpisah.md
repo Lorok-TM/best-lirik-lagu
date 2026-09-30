@@ -25,4 +25,3 @@ Demi waktu kan ku ubah Karna sayangku padamu kasih Walaupun kucoba mengalihkan r
 
 Andaikan kita dulu tak berpisah Tak kan seperti ini Egoku dan egomu tak mengalah Ingin menang sendiri
 
-![Diva Hani Feat Achmad Twentynine - Andai Tak Berpisah](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtapLNK1K5Q63CsYVUi59zVedpdzTCpSiFBIBM2zAz6nc2ctvsMNXlalrcMvkmTbx60rUnCrkSR7V2TJYxQCahve5yXDoMw6XprH46a_m4Th9DvmW1SuDGxAgfh2IQnVFyycimtQaSzeRed5hncvJzp9V9hEmsO65DEtlYcarR8mw8Wz2pq1iidoLPbvDF/s480/diva-hani-feat-achmad-twentynine-andai-tak-berpisah.webp)

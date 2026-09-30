@@ -5,7 +5,6 @@ categories:
   - "java"
 ---
 
-![Siji Di Ping Selawe - Shinta Arsinta](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0Erma2c_4KSWXTzfvmp04GpxPwMiPsWXHMjIyp5UWXHUNK1f_vSa4k5SfGIUHuKlWc2IcHCtOIXVSn8dRMv8KlWtQgvJ_HNlOUEzdTUKS_DrawX8Xs-9LDilEqNjz20xlVlfCTSwHy7URtf2Pg0joTFWOYuMNfqut-Gt6T4q1DXSomQYjSHOiwhxbG6Qh/s1280/siji-di-ping-selawe-shinta-arsinta.webp)
 
 Siji diping selawe Kowe mung siji Tekan selawase Siji diping sedaso Siji–sijine mung kowe sing tak tresno
 

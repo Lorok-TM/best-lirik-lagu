@@ -21,4 +21,3 @@ Title : Bila Nanti Artist : Era Syaqira Songwriter : Tri Suaka Published : Indod
 
 Video musiknya telah tersedia di channel Youtube Indodangdut Digital yang dirilis pada tanggal 27 Januari 2022. Anda bisa menonton video musik lagu Bila Nanti - Era Syaqira di bawah ini.
 
-![Era Syaqira - Bila Nanti](https://i.ytimg.com/vi_webp/LaAp5glFlPk/maxresdefault.webp)

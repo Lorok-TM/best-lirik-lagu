@@ -21,4 +21,3 @@ Demikian lirik 'Terima Kasih Sayang' sebagaimana di atas.
 
 **Credit:** Judul : Terima Kasih Sayang Voc : Wulandari Cipt : Ihsan Poedys'ta / Anton Hendrik Arr : Trizz
 
-![Terima Kasih Sayang - Wulandari](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlto9QZBjg_xuZbb_G73LXOcre1PMGSF6VZfv783To1jbHTkcxEHp5MHRlOPebo4KD3hNXNKRzu6h-QKXUZ9XXywADMhnmFPK60SSQbFdTSyVGnN_sB9C5sf2C3QKNZh_-O0aq1i1SCu0lcDTEvH928iQ0pzl8j3PHgwfLL_-Ncg-uWodxw-1zurpqGgz9/s1280/terima-kasih-sayang-wulandari.webp)

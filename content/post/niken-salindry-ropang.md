@@ -23,4 +23,3 @@ Rap : Kenapa wong kere s'lalu dicampakkan Mental health hatiku ajur remuk kau ab
 
 Sprono seprene ku berjuang Cintaku tak akan pernah lekang Kowe tetap tak sanding rasaku tak berpaling Aku tiada tanding kupastikan happy ending
 
-![Niken Salindry - Ropang](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijW4s3GWNDndad-Myc-1lZV82WzA-MLhAqyhA2Z8KAJdUTCTy_w2VZX6VjKL1KMwahtX73AZpDDERc5lnIXTo9EatrmK8wJL3vsQ5VBjq4zZGMxCfjAuPQLfrA7K9lZyYbzQsbzoLmIGRgVunDs-TSGMejVe7akOQ1iE8zR72GGviU004BuSbVF2xyFFsX/s480/niken-salindry-ropang.webp)

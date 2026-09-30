@@ -5,7 +5,6 @@ categories:
   - "melayu"
 ---
 
-![Demi Sisa Cinta - Rahma Rahmi](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-4Frh5x3Yi5MqGKGDnsg8dimvkh_Pg5bBu3f_SgDmqvlBB1XIVK5SwWkQuBdMcgX6-IYLMwqy7pc67ZVXMLj7zTzcaQ306GphelR2EVBQQwr-zQMBVScWvL3tpZv24heBIUOS2XRmq1dE5AaXTmqgdcrMPZR2JvUZgX1Tpvo70LMrzGPj-Z6-xRHDsnp9/s686/demi-sisa-cinta-rahma-rahmi.webp)
 
 Mengapa tidak pernah kau fikirkan Rasa sakit setelah perpisahan Sedangkan cinta masih ada Direlung hati kita
 

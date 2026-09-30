@@ -35,4 +35,3 @@ Demikian lirik 'Kasiah Dilarai Urang Tuo' sebagaimana di atas.
 
 **Credit:** Judul : Kasiah Dilarai Urang Tuo Voc : Salma Cipt : Iswandi Sh
 
-![Kasiah Dilarai Urang Tuo - Salma](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmR4qFMEELwMIhAG1ShoehjUeE4w23Kkoi5K__yQMZN2KPUtmv1foNLBClK2KwGYsErmP-pU5Cv_Sk8rM221MhbwZhsGFqnz65xR9c58Zld-Sa8lblqqjlerOAr0TTaC6CDu_xxi_3-YaAXGLx_Sf7y9xwDUjmYvNuJEBpE97DLYKrTVKei9nhnCCUudTA/s1280/kasiah-dilarai-urang-tuo-salma.webp)

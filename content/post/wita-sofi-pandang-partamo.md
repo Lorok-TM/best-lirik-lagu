@@ -23,4 +23,3 @@ Tuhan tolong jago cinto kami ko Satukanlah hinggo barumah tanggo Untuak salamony
 
 #Credits: Judul : Pandang Partamo Voc : Wita Sofi Cipt : David Iztambul Arr : Chito Deona
 
-![Wita Sofi - Pandang Partamo](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhs2-wYnBxKPbN2GS2pmilHHKIBarkC5DVkwa1cz-QMiOttxRbkq5okuWgUNjFyBGJn3LtBmXYQGySE03Xk4qKTiD1U49xz_cEW-zFGvkyQuRBBoyfXrupUMxOg_nXvp4RBe9wXYM1y-iQcrGE_FRUQ0Qn5KRALc_j3Ge9qYT_SE42qyTnHHviieUImJARH/s1280/wita-sofi-pandang-partamo.webp)

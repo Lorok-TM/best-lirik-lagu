@@ -23,6 +23,5 @@ Title : Jika Hanya Gurauan Artist : Rahma Maulana Ft. Rahmi Maulani Songwriter :
 > 
 > Jika harus menyerah Hanya sampai disini Lebih baik dulu tak ku mulai Aku harus bertahan Engkau kan ku dapatkan Demi masa yang telah ku habiskan
 
-![Rahma Rahmi - Jika Hanya Gurauan](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQFwTbja5GM1EwyooT72CIHC41j-WlWdZKc0bytHPxcRaG2DsupehtnQmulGpbedop6X5b_DpBhWu-nCkBVndY7faqJUGuC4ACUzrf1uRe7BZ94ERXWXLTzTIsrzBfkLeozhcy8RuARij_PtxzKto5WkVZ1EMf6r9bbzuJahhjIWV3hJbGbXz4OQVd0w/s800/rahma-rahmi-jika-hanya-gurauan.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Rahma Rahmi - Jika Hanya Gurauan. Silahkan bagikan juga ke teman anda.

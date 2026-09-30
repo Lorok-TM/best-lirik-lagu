@@ -29,4 +29,3 @@ Tangih ba tahan ka dado Kadang lai dapek makan Kok lai ado nan ibo
 
 Tangih ba tahan ka dado Kadang lai dapek makan Kok lai ado nan ibo
 
-![Diva Aurel - Dek Tido Manampuang Juo](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQxAAVCX6kIIkNxXd6DCVYbwgh-SihRZBLz7Hn76rUkpE9uO038_ZmhTygCjjkdSg2qUzFevuXoHwZw5nP4vkYuU7H9el2zfPI0_fQDRyLsIN6Ecxjozyk7OfOXGM7051O_HJxd77ViD08VAt1EjGIf5i_Z_J2jj0kgeZY0gpk0PF6vP84UD1kMcScHHYV/s480/diva-aurel-dek-tido-manampuang-juo.webp)

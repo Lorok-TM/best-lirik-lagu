@@ -33,4 +33,3 @@ He angi okafui bakha dodogu Saukhu moroi ba hola hola galito Me ya'ugo nawogu si
 
 Me ya'ugo nawogu siloli Loirai molau safokho
 
-![Suniwati Halawa - Safutanga](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHrJHezQQq8Y50f7KPcS1TNBTxotg6QZw5dMf__7TG5h1YlUgUymrR22oQfl0s7ShG6E-E4Pifdla_2LdHCBxH3eAFmDz9wqQZhzSxr-RXDBlvLeTvjenS1YBFe8V_rmUEKwZWVJUrZh9D93ZCaeJuzXxWp83p5CLh5p6pGkBen8gqtu_MYKLeQzRVfUYF/s480/suniwati-halawa-safutanga.webp)

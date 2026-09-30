@@ -19,4 +19,3 @@ Diatei tupa Tuhan Bani ganup pasu-pasumu Terima kasih ma bamu Bani baggal ni hol
 
 Sehat jorgit sayur matua Nami na dua manogu nogu pahoppu Sehat jorgit ganup niombah Gok malas uhur upah ni ganup horja
 
-![Gogoh Ni Tonggo - Duo Naimarata](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijMkO5j9ROhCb5mV67aGIs_6i_hZK0PJTejaVUR_nJCvFDSAbvhdxqQkdrNmbRudwT8Ua3KjqSwdxkJSexIr6-h0Z51tN2hyphenhyphen2f5ec9CEKfomtL9eV7JDFQXvFVaHt3RBfP2xnjo1OAjIHwsfEWw44ZDJJ3njrAX9irAgQsNrlaBDWsnEm_WA89EKO9XHWR/s1280/gogoh-ni-tonggo-duo-naimarata.webp)

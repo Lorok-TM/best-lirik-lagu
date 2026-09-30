@@ -47,4 +47,3 @@ Yang banyak orang bicara Itu semua tipu daya.. Yang banyak orang bicara jang mud
 
 Demikian lirik 'Kaka Sayang' sebagaimana di atas.
 
-![Kaka Sayang - Eny Freitas](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjXIA3uSg1nFbZAz-q7dCc73r2lptjBlaY228JQ1w8Xna_CrJJ1qT88ee4QwvQZHNTV5nGmfGtiqbnALO4aWH6RGeBf6yo5QB4CRwOERcBGrwH0cTZYbG5P8QdfO19gQDIDY696ovCTpKgdpdJELcq9MQJglWfmj9Ss-fw-uaHmqJsHCLenZEJw3mqBlU-/s1280/kaka-sayang-eny-freitas.webp)

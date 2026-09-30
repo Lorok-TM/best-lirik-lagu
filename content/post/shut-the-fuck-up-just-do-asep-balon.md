@@ -39,4 +39,3 @@ Aku hidup bukan untuk mati Tapi nanti suatu hari kan terjadi Kan datang waktunya
 
 Everybody say "Gas trus!" Persetan semua fuck you! Shut the fuck up just do! Do! Do! Everybody say "Gas trus!" Persetan semua fuck you! Shut the fuck up just do! Do! Do!
 
-![Shut The Fuck Up Just Do - Asep Balon](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqBPWJ0GrFvPP8jMemBa7jYBdwFDZUchuJK8CAIvN_3IC9rnOk8K9rk9sZps1VIJlxUsbBvjeob7JKe8CXi3aTjs4SB9d1kTBHGSYoRiT3pvSb8j3TiviGIQHJ6echhamX5NoE8kg8bwcYhpdDOH5lmzOd9cHOPJe7ovRIF_on_EdBJcYsveme5gWE-jT1/s1280/shut-the-fuck-up-just-do-asep-balon.webp)

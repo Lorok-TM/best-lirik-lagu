@@ -64,6 +64,5 @@ _Aku Lan Kamu Nduwe History = Aku Dan Kamu Punya History_
 > 
 > _Kenanglah aku Aku yang pernah ada untukmu Walau kini cintamu bukanlah aku_
 
-![SKA 86 - Aku Lan Kamu Nduwe History](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikPFGnB1o3S4JMXyNXyAAg4uYvq0yT84wDFS_MYc3OUvuhRzMYFB3sZMcQmiqfHNMXixcBXu3D4UzcuqGfc-p-tWkMKE2WH3G-5UUNz9cmYF1SN78flMgH-i1BekwJIkwoSGiq4bA1rJa6fgcY0scTl_r8rtc9H0q1e8PyeCwF5NSRZInz9sHmHM153A/s800/ska-86-aku-lan-kamu-nduwe-history.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu SKA 86 - Aku Lan Kamu Nduwe History. Silahkan bagikan juga ke teman anda.

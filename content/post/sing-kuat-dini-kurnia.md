@@ -27,4 +27,3 @@ Ha ha ha ha
 
 Arep turu eling nong riko Dinggo mangan sing keroso sego Gelibekan katon katonen Ati bingung sing karuan
 
-![Sing Kuat - Dini Kurnia](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5s3YuwjjWqyjClz3bMvyovxR71UVCV5Ymv4V40f6ca-XzAcu_A3qgQxu-dEULSwgntRT3Uqgl5ASo1CmB-BDHh3xIF5ZtYi9sUXhoJVhxPzEVFAfBv07zR-e-WIeUQnlP2DNyffbACvzZVxLnsWYIBePnyVAfP9kp5ToZ8FR62euzjBL9gqot8uurgAcg/s480/sing-kuat-dini-kurnia.webp)

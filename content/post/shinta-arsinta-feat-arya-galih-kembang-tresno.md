@@ -55,6 +55,5 @@ _Kembang Tresno = Bunga Cinta_
 > 
 > _Di jalan kledung Wonosobo temanggung Menjadi saksi cintaku kepadamu_
 
-![Shinta Arsinta Feat Arya Galih - Kembang Tresno](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjO2vKDxoIWQVSg2bZ1ClFrIGzCuQa_Qag8bIlmTru7X2jkQdzrHyJ4gq1-u8YXqowE-aBvmpnHmXu5rb6_yRUwxVNmdE58wMCziHMg2ko03BcbCLTl2JkkklKDwKyBWsudw5ZUtwKEQfaUqaukHcPc1JaWZtuF9zW5iuwRb1H6QqjaKfXE6EGuCPQ5pC62/s800/shinta-arsinta-feat-arya-galih-kembang-tresno.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Shinta Arsinta Feat Arya Galih - Kembang Tresno. Silahkan bagikan juga ke teman anda.

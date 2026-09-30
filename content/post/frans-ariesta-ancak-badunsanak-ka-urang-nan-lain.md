@@ -23,6 +23,5 @@ Title : Ancak Badunsanak Ka Urang Nan Lain Artist : Frans Ariesta Songwriter : R
 > 
 > Usahlah usah ragu Denai indak kamanggaduah Ancak badunsanak jo urang nan lain Denai indak kataibo
 
-![Frans Ariesta - Ancak Badunsanak Ka Urang Nan Lain](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYXRLpkS4Q88SLh8Or9rwXMnGKjpdZ9T9tqIYrEZZ_K9j64C-ZW3eNee0obKXZXLvXIUPvvYjWHkyXQANvWOeioYDFxcjYE8ndTbzNdABApjrsm-EfWripMF9dNIMoZNu-0sVahr1-jkaz0m-S5F-g09bYF-5380cJbMIEO0lFKVpyap14A7SuZww3Iw/s800/frans-ariesta-ancak-badunsanak-ka-urang-nan-lain.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Frans Ariesta - Ancak Badunsanak Ka Urang Nan Lain. Silahkan bagikan juga ke teman anda.

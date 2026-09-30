@@ -31,4 +31,3 @@ Sungguh rinduku menggelitik Ingin bertemu, ingin bertemu, oh Sungguh rinduku men
 
 #Credits: Title : Ay Singer : Silvy Kumalasari Songwriter : Michael Christian Produksi : PT. Talenta Abadi Perkasa
 
-![Silvy Kumalasari - Ay](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVrzn6I7ZSYgOPlT_6eEeRJ-lkInh5ShJ06aAgHzZDZaz0NUn8Yq2uT8l-pFhyBPJcvd4XBh6_TBbktHz3DMCQOHlb1JADOqzXKjYtZiwY_EKzCfdfwMT6Cpita9sdBMimKkmY-Tj8cfnT_pVRyuCa8l-lz5P_wxDwyFpKQk_dx4405zGwK_60_ulZHnsv/s480/silvy-kumalasari-ay.webp)

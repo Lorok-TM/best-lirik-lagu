@@ -15,4 +15,3 @@ Ora ono sing njaluk di lahirke Nang keluarga sing koyo ngene Tak tompo opo anane
 
 Kudu iso kuat balungane Mergo ra di songgo wong tuane Kudu iso ngadek dewe Raono cekelane Ngene men anak sing rusak omahe
 
-![Difarina Indra Adella - Ego Wong Tuo](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi857qMyUVWJ1x0BF04-ggiwfiCb9u0lsym34dwnQzPfU7_1c6_r_9668AJ05l26zW_VHaEu12o_cdRm2ekwymWAPF-sXINGxIlFgf-EDlUTN38t2fdTMIE1DJrmvEarzuqE6WSGFAFQj0jX0Z3fZstGtEoy8DFcjk43Oo6sPXcyaJK_rfEwxAaI-c5DJ-c/s480/difarina-indra-adella-ego-wong-tuo.webp)

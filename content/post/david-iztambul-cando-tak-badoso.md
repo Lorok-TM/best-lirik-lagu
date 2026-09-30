@@ -15,4 +15,3 @@ Manga sampai hati bana Adiak manduo kacinto denai ko Manga sampai hati bana Bapu
 
 Apo bana salah denai Babuek sakik cando manaruah banci Padiah bana sabana padiah Tinggakan luko cando tak badoso
 
-![David Iztambul - Cando Tak Badoso](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhTWosiHiR_pIeP047G6tbLFCTxJuhBbIj0514CLbYsvAU4lTGn3zakncc2_6O9ZtWwyH4MdgKl7ef44YWBCwgeidvor1LSPFShK3fPGWTuoPOMdkORSJu4nHhuTlJ8kk0GCI2GaZ4RCmZ4a4DUz9KB4jMPaCP54ULkJgOSgqDZOjijZuQ6exWbThRiC5B/s480/david-iztambul-cando-tak-badoso.webp)

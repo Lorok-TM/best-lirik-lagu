@@ -29,4 +29,3 @@ Pantaskah kita saling menghujat Saling menghina Karena merasa mempunyai segala A
 
 Haruskah kita saling menghujat Saling menghina Hanya karena cara pandang yang berbeda Suku ras agama Kita semua saudara
 
-![Kita Semua Saudara - Stand Here Alone Feat Iksan Skuter](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMVe8w5_4BcOUg36LozoGwRT2l8kiIjqy7wxYdZ0YHN8sULprexRFpNeFyMp-N3RAzo5m6-vO6xSPE53f3qQ7XWetnEiyuwqJQpejGRL7XgUKjZggapuloipIRqCe0W70aPw0birkBNku26f0ECZOPV9-Xmq6DJuWK0NSnlSVeiHjPjCva9Iip6QCdrkc9/s480/kita-semua-saudara-stand-here-alone-feat-iksan-skuter.webp)

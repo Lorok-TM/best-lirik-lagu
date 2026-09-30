@@ -25,4 +25,3 @@ Denai hanyo manggamgam baro Uda bakawan ameh suaso Usah uda bakareh juo
 
 Dangakanlah kandak rang tuo Nan kito indak mungkin basamo Bialah den baok Cinto nan malang nanko
 
-![Kito Indak Sabilang - Rayola](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRgartKYGPekGXKNu2_4bdn16TtH8XtbbLu1s03W49vojnCszRRWZEoYzTX29TSM3I8geSC-CEhuO_7h1HQeePmepf4tthDcytWxGqAicqzL6ZpD-ZYreiZY3L_PqbwMAaXAP99BzcMJYbeESZ05ua7m_u3D9T9lAqE-crGlt2yY3MA40UlScSMB2oKetB/s480/kito-indak-sabilang-rayola.webp)

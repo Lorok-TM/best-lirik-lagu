@@ -40,4 +40,3 @@ categories:
 
 Title : Kowe Tego Artist : Brenda Vanessa Songwriter : Ayah Baskoro
 
-![Brenda Vanessa - Kowe Tego](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuyzUXpsYSCLZAfaf160UbipIMpdzxKFEagLkwZahMtI83MCnxNjuFCTGL2ADoX1sXzRvqIOX91ychDdTdMWYHRn947EcBJ_bNC4y30Y26BZRghmIJHMHZk-oemBj1OKelkENkdlMPLgM-Izu-kVTSRMRi3HgbmmBg7EFCmQ6JK5VEE8AcsSv4qnl4Lw/s1280/brenda-vanessa-kowe-tego.webp)

@@ -13,4 +13,3 @@ Bokong semok semok semok Bokong semok Rambut disanggul sanggul, sanggul, sanggul
 
 Sopo baen kepergok Mesti ngomplong melongok
 
-![Dini Kurnia - Bokong Semok](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUWMYc7_2XCR37PBGMHf6x6sZ3OpqHHEZa9DUFvGKgN7VRYaDRohiMddrtm1GLXR3FebXD49YNqYZPFk833xohyphenhyphenrFRzWctdECMQxX8Gbr1iW8uUznI6ITpXFxvESnNUhjJ50hGQU0BavoMn9iqmT9e5mCMidsA1TorOlf1KqTV4bKH-AnGaXdl5ixTuLXr/s480/dini-kurnia-bokong-semok.webp)

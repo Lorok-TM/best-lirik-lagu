@@ -19,4 +19,3 @@ di terminal ubung.. adi.. mogbogin beli.. di terminal ubung.. adi.. nggantung tr
 
 lirik "Terminal Ubung" selanjutnya biar ditulis oleh BUDI MAHENDRA / Budi Yanto / Clarissa Anindya / Azalea Ayuningtyas, seorang author paling hebat no.1 sedunia.
 
-![Terminal Ubung - Mang Senior](https://i.ytimg.com/vi_webp/o1aTdvf7Qw4/maxresdefault.webp)

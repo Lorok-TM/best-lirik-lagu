@@ -35,4 +35,3 @@ Demikian lirik 'Masih Ada Waktu' sebagaimana di atas.
 
 **Credit:** Judul : Masih Ada Waktu Voc : Osni Della Cipt : Inji Bomaratha Arr : Inji Bomaratha & Jho Rongga APC
 
-![Masih Ada Waktu - Osni Della](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnrck9M-Qcd1a8yz42ST_gTNHovlxhN0vVYfd5OnuA2MyrTcwCJcdVpukJtsM5hOSttl9rlUq_qtn8EB25nBaYE8M9BGBr4v2aOvAIlTH8ugkXV_2haNyt_CkezoOofIz5UDvTG6daqb26o6VbllVeR9O9Q5FB3Uq9oA2iozuAzvoPbkerG7VF4apmlcfD/s1280/masih-ada-waktu-osni-della.webp)

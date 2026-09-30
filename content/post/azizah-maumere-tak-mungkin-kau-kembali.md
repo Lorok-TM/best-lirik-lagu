@@ -29,6 +29,5 @@ Title : Tak Mungkin Kau Kembali Artist : Azizah Maumere Songwriter : Emen, Iwan 
 > 
 > Biarlah semua kenangan Menjadi dalam ingatan Akan ku simpan dihati ini
 
-![Azizah Maumere - Tak Mungkin Kau Kembali](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9Qs7KHpZqR8q-MPdW4m7V0Y78__0PoVbkoyzDEcKlpjnNQJ-khfF-lz5JGhYxhWyI4JEvB1VBvtNUsUkkMPqqGEr2w8vidFRUFIukpacKdCQAnSBghBpC9iOWb0gXuqlGQaAb6-trzRPJAUWuRxfB1ADmI5_eqmwYZG06yAKKW0gBV1Qb79XXgmyuAdfu/s800/azizah-maumere-tak-mungkin-kau-kembali.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Azizah Maumere - Tak Mungkin Kau Kembali. Silahkan bagikan juga ke teman anda.

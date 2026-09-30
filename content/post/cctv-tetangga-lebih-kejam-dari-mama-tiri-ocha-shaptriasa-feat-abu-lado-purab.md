@@ -37,4 +37,3 @@ Demikian lirik 'CCTV Tetangga Lebih Kejam Dari Mama Tiri' sebagaimana di atas.
 
 **Credit:** Judul : CCTV Tetangga Lebih Kejam Dari Mama Tiri Voc : Ocha Shaptriasa Ft Abu Lado Purab Cipt : Abu Lado Purab Arr : Abu Lado Purab
 
-![CCTV Tetangga Lebih Kejam Dari Mama Tiri - Ocha Shaptriasa Feat Abu Lado Purab](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisv1uYBUzJ-EFFjiSGHWE0RoSDKRXdhrWA1uW3IvTJhF4VVa8gJnIZupxda1hJWRmV_UzpvPJV0tJzD4SWGT1olJzgyNK0VQmov2nFoYvfwTG6noY4tDoeFb14aiYP_2uG1Doas8Umuo01CbFl5M1JtFXfuC-Yz0YGeal5BqR7HH2_DKEKT1fWB2GIPLmd/s480/cctv-tetangga-lebih-kejam-dari-mama-tiri-ocha-shaptriasa-feat-abu-lado-purab.webp)

@@ -19,4 +19,3 @@ Pujionku ma goarMu o ale Debatangki Ro di salelengnai
 
 Hagogoon nang arta na ni lehonMi Bahenonku ma I o ale Debata Patimbulhon harajaonMi Hata nang patik Mi na ni ajarhonMi Tioponhu mai o ale Debata Rodi saleleng-lelengna i
 
-![Dompak Sinaga - Pujionku Ma Goarmu Feat Meta Sinaga](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVP0mM8otJsyQCsw3Lyu-QYYn6zvh5n9loF1ro2IaWT56Yrvdsp5YcFeRIYh1vdgCOxRpW5hqb08gIlD7eUfCsfA3TMNbxZMH1YYITmmDGKVT8xDSj70oeczsgZS2v5jPWdp0OoVbwXwd-FnsxwNnOrH3foed32YeyIqEJaIzcwgUmrTIYQnUwXS549Eeo/s480/dompak-sinaga-pujionku-ma-goarmu-feat-meta-sinaga.webp)

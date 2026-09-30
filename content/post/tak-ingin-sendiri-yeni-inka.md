@@ -5,7 +5,6 @@ categories:
   - "dangdut"
 ---
 
-![Tak Ingin Sendiri - Yeni Inka](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWRL3ADLv-LcXNSK7FmHP-QBsbUJ5JAtZJwWixSw1hKuao4ZX3Pe1mgeJ_42jI3cAK1SHj5ZLtearJjqouUyt_qqjGCjI42fsn-n9PsKmg8ps62oZE-nQoTVvuMiJXeXNV5Jnf6xvaEMWAqOQIxWHQJiNU1sRrIlwuDGXcnyNRArBADModUNXqyUbV8vbf/s1280/tak-ingin-sendiri-yeni-inka.webp)
 
 Aku masih seperti yang dulu Menunggumu sampai akhir hidupku Kesetiaanku tak luntur hati pun rela berkorban Demi keutuhan kau dan aku
 

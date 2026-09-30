@@ -19,4 +19,3 @@ Mungkin dek dunia lah mulai tuo Harato di ateh sagalonyo Indak mangana hiduik ka
 
 #Credits: Judul : Dunsanak Pitih Dipinggang Voc : Dhea Amanda Cipt : Pepa Kampis Arr : Satria Wandra
 
-![Dunsanak Pitih Dipinggang - Dhea Amanda](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4eM4P7xi6YTGT4OTdmLZ0vsHYQ3ad3UmTw0p_2BPdb7zmtLIP9c_40y0Iz7thQI29xNQIFEH_ZycsSwI0guCWE-0t3wc9MIxHqq-EdwYfDgAb8sPUFdSdDv4n0E3Haj3UjxDxwXNeYFu01hMfWpKo4Xk67951qFs0sc1RNknDQU93Hf26Uymw6ia9k2A4/s1280/dunsanak-pitih-dipinggang-dhea-amanda.webp)

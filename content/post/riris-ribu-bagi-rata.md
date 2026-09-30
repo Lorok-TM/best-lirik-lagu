@@ -5,7 +5,6 @@ categories:
   - "karo"
 ---
 
-![Riris Ribu - Bagi Rata](https://raw.githubusercontent.com/Lorok-TM/2026-08/img/riris-ribu-bagi-rata.webp)
 
 Meriah riah nge benana Maka kita ngerana Labo min aku tergoda Apai nde jatuh cinta
 

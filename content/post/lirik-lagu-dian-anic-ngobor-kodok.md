@@ -37,4 +37,3 @@ Title : Ngobor Kodok Artist : Dian Anic Songwriter : Amin Hermawan Production : 
 > 
 > Yang menyebalkan istri dirumah suruh ngirit Belajar pelit Padahal dirinya yang menghambur hamburkan uang Bikin kesal saja
 
-![Dian Anic - Ngobor Kodok](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoGVaAXTJGcfwmZoP6eKwM_k6M50o9MzJ1gURFXPSBQHFi1h_sDg2ZoYV2orz4DWh8t2yEZgL7juO2f7w2jcwQ8mJ6dJTXG4l1gO9RsZ36X_aijXulhiPjNNggxz0HiytBM1WYkOCInmOsede55CsLhSuicHNwujzWwHkSgJ5q7EXrYrR29t9FbWNpIRPq/s800/dian-anic-ngobor-kodok.webp)

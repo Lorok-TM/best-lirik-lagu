@@ -21,4 +21,3 @@ Tak sehebat setegar yang mereka lihat Berpura pura demi terlihat kuat Kemarilah 
 
 Tak selamanya jiwa bertemankan duka Tak seharusnya diselimuti derita Kemarilah tenang Sebelum lagi rasakan keras kehidupan
 
-![Mahalini - Kemarilah Tenang](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilL0m0JWi3Yokwl4jWqpJv4_kjVfztGvEG4VGiyzpLZSpCfUYjpr2bj77OwkPnZ5LAuT4294BGeIIl2u8r4c9tTIPIWR9ZBW8iYT3d3ABeizu5T71bzwb-LCRQ1I_ebATYslTvXuatw_pv9wBaRtCi_KwVApWAsvs_5ZCTS3MAi6KebdFU-xd0AcTZesB4/s480/mahalini-kemarilah-tenang.webp)

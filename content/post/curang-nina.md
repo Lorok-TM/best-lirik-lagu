@@ -35,4 +35,3 @@ Salah naon diri kuring kasalira (salah apa diriku kepadamu) Dosa naon diri kurin
 
 Sacinta cintana kuring kasalira (secinta cintanya diriku padamu) Sadeudeuh deudeuhna kuring kasalira (sesayang sayangnya diriku padamu) Mun dihianat mun di sulaya (jika di khianati jika di ingkari) Wayahna urang papisah (sudah waktunya kita berpisah)
 
-![Curang - Nina](https://i.ytimg.com/vi_webp/pzFbGakHM5s/maxresdefault.webp)

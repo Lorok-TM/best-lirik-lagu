@@ -35,4 +35,3 @@ Jele jele solah beline ipidan Diastun kayang jani enu mecap jele Suksme adi sube
 
 #Credits: Judul : Mantan Bajingan Artis : Myfriends
 
-![Mantan Bajingan - MyFriends](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOQPM7MUmBzSlkd_PGKPbwJB6avkIfCV6ubSvtyRfxhuQS1BvsBsJp0OlMyE8TmVm0q3LzHHcdV4y_IoWOlwUXXUlhDYnrf4sCO8FHu06Z-Nf9vD0MeK7AYO922geigj3HTLMp1I8wOkgXi0e748mmTzXCJOuXg3-vOnrGf4pYmfP0MHoiv7b6Vew-gGXp/s910/mantan-bajingan-myfriends.webp)

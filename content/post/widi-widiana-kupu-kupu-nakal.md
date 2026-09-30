@@ -17,4 +17,3 @@ Bunga bungane miyik Ka encegin kupu kupu nakal Nika pinaka suluh Mangda adi kant
 
 Asiki tunas beli Becik becikang makta raga Kupu kupune akeh Pacang ngerauhin malih
 
-![Widi Widiana - Kupu Kupu Nakal](https://i.ytimg.com/vi_webp/r1A31Qw3Nqk/maxresdefault.webp)

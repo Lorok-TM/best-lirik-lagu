@@ -28,4 +28,3 @@ categories:
 > 
 > Oh Messenger of Allah peace be upon you Oh Prophet of Allah Oh beloved by Allah peace be upon you Oh Messenger of Allah
 
-![Nadia Nur Fatimah - Salam Alayka](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuhDJGUxHKmIBxJmzx8UXKS5NxjKv9N7ehf7Ra6oYR359T2Y9I9T4VQqgXcOD0XktWBtI27DCA3wnpQnoZ7qR61dbOKyFHmcHPZ5vXbrlvMg2jP6ea9EqCG5wb3lj1oRKGB4ucJRbUfsFuBXqU2px2OLdeyeMDR6e0uJpT1SgrxGccc2G74IBV5l1aVA/s1280/nadia-nur-fatimah-salam-alayka.webp)

@@ -5,7 +5,6 @@ categories:
   - "timur"
 ---
 
-![Mata Mata - Jacson Zeran Feat Toton Caribo, Wizz Baker](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtpW4kfmdr94PeT6zh21HhF7mCGAGIdcSJBQqMtFViolzE4KTjyfdeur3QlwhCxtDF1K5LB7fOyM0r6QbRElsp_cJe75c09_3HeiUx0N8hA3_qfb_pCwd6moWDqSv3yqqX36o14u1g8auvrKxdYXgDBvu5Ee_KZxorlkxvzZoxqC1UzVQ_BJX89RvqRI8C/s686/mata-mata-jacson-zeran-feat-toton-caribo-wizz-baker.webp)
 
 Ko mo sulo sa Please baby jangan Sa ni pemain lama di lapangan Sa minta tanda ko kasih tangan Kecup di atas bawah yang alangan
 

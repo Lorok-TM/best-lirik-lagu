@@ -21,4 +21,3 @@ Lelahnya aku menahan luka Tersiksa batin ini tersiksa Kusapu tetesan air mata Se
 
 Berjuta kisah diantara kita Hanya sebuah cerita
 
-![Ipank - Bahagialah Engkau Di Sana](https://i.ytimg.com/vi_webp/Me4IRIRAA64/maxresdefault.webp)

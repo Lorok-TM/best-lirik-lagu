@@ -5,7 +5,6 @@ categories:
   - "melayu"
 ---
 
-![Zicha Anesha - Bukan Drama Cina](https://raw.githubusercontent.com/Lorok-TM/2026-08/img/zicha-anesha-bukan-drama-cina.webp)
 
 Lagu berjudul "Bukan Drama Cina" yang dibawakan oleh Zicha Anesha serta diciptakan oleh kolaborasi Erwin Agam dan Vandy Satria menggunakan metafora fiksi audiovisual sebagai kritik sosial atas realitas hubungan romantis modern. Secara filosofis, karya bergenre dangdut ini menolak narasi romantisasi konflik cinta yang kerap dilebih-lebihkan demi estetika atau konsumsi publik, seperti yang jamak ditemui dalam formula cerita melodrama televisi. Latar belakang cerita berfokus pada penegasan salah satu pihak yang menuntut komitmen konkret dan transparansi, sekaligus menolak keterjebakan dalam siklus kepalsuan serta intrik emosional yang tidak realistis di dunia nyata. Dengan pendekatan lirik yang lugas, lagu ini memosisikan konflik interpersonal bukan sebagai tontonan yang penuh kepura-puraan, melainkan sebagai sebuah dinamika hidup yang memerlukan penyelesaian yang jujur dan rasional.
 

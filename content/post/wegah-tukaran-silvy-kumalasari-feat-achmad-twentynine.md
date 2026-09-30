@@ -19,4 +19,3 @@ Bulan gede sandingan karo lintange Koyo ndene tresnane awake dewe Kadang mendung
 
 Bulan gede sandingan karo lintange Koyo ndene tresnane awake dewe Kadang mendung teko ngalingi gedhene tresno Tulung percoyo atiku tak jogo Tulung percoyo atiku tak jogo Sayang, aku wes wegah tukaran
 
-![Wegah Tukaran - Silvy Kumalasari Feat Achmad Twentynine](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIM14duJ7JfyaM5-yEtwcuLos6D4iReEgg030eeDuIwgsf9wnzry8pwJkM8jcwGVMp-vc_gd432bEfbBoRzuNCRRHKb3X_BsDAe7QggmxMu25OF61TVeE-9WOJq6rzM0TKu47D92fogiXQGlEZKYeQ5JsSVNM3alxWTJLoPzhCI61j61Ss14iE6qjWjgyk/s1280/wegah-tukaran-silvy-kumalasari-feat-achmad-twentynine.webp)

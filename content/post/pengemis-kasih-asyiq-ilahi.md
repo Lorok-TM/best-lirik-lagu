@@ -31,4 +31,3 @@ Demikian lirik 'Pengemis Kasih' sebagaimana di atas.
 
 **Credit:** Judul : Pengemis Kasih Voc : Asyiq Ilahi Cipt : Kimi Anak Limbat
 
-![Pengemis Kasih - Asyiq Ilahi](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmbAyHgPNiipyjr7xMs97RLoIRNJAU_kcxOiL5EvvCr1LdK8gCo0Md3fzOlwTCiYTGx3mGDc4alHDyZonkHk3nBb9_N56c08ZACDuqPf4EVcMxl2hPsuH_ZeU5s3KohbOebcZVTsa15izSFTWPcZxUmxBbhgbS9GmPGt0XqkICz8ZV0eXKNOnfSu9JuBwW/s1280/pengemis-kasih-asyiq-ilahi.webp)

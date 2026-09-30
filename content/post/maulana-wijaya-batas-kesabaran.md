@@ -25,4 +25,3 @@ Batas kesabaranku habis sudah untukmu Percuma bila bersama Sayang ku mau putus d
 
 #Credits: Title : Batas Kesabaran Artist : Maulana Wijaya Song Writer : Ajhay Pasma Arranger : Decky Ryan
 
-![Maulana Wijaya - Batas Kesabaran](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimggyEDUDySyJ1MwqcVW83DUcYc5l5L5rcyPfmo2osujG6fGYpwsAkxZU0iU5dj3LMjFk4_gV9NSE3qx7TgL-YJNvg7hyphenhyphen6lDz520MCdIyBtQ4w45Xg72q1Z7YoL11_WKBWx_5f3CNPacwumbWXFdwIp_0vkt_E7TzI4ELz9rX4X1IRfmrRUoC01Ffo5U5n/s480/maulana-wijaya-batas-kesabaran.webp)

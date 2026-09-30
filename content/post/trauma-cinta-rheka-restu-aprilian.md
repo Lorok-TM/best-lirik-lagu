@@ -21,4 +21,3 @@ Halaman cinta ku telah berduri Tak mampu aku membenahi Ku tak memaksa mu Untuk m
 
 Maafkan aku yang tak mempercayai Ku kan berjuang walau kau tak pasti
 
-![Trauma Cinta - Rheka Restu & Aprilian](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhu6RXyv_vnWCPlOlziNMbtvnWpG5hXNUpyIZIFegRxf2geDAAa_j-rJRjChwZ74Sy40gz-wHIpFrPuEXPETylAQkS8SSQe-a3fVD7gqubgZeC14-MDp1f7nv2TIRBm0VuLc__7X7XsoQHq3fkCbR8XginoBslPNTCKsXfiimYdlpYtdfV05wwwJuiIxwbn/s1280/trauma-cinta-rheka-restu-aprilian.webp)

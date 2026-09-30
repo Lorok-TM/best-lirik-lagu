@@ -21,4 +21,3 @@ Bakasiak bana mato kawan mamandang Sampai hati ondeh ndeh lukoi denai Apo nan de
 
 Jikok nyo malu bisa dikubua dalam Indak denai katarumuak cando iko Dimalam bainai isuak alek katibo Hilang yo hilang urang nan den sayang Dimalam bainai isuak alek katibo Hilang yo hilang urang nan den sayang
 
-![Bakasiak Mato Mamandang - Carlos Feat Melisa Putri](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRfZQ27FsRwEiYE8VIk1hYQ6kc7ZaHMfk24V1CiBYcGeewysw-poRv_OnzcAYGM3VjgmhyphenhyphenBhOsE6XmeIinpNjTHOggxBnLjndvAYG3xzWHCBUSE43uSy1Ys7sHzWnAYfAYlFKGajHYrIQxkA9zZx57JX6PEnOAIeMAZ8zuPs4BeqrRYHDRMLUDjvue77FS/s480/bakasiak-mato-mamandang-carlos-feat-melisa-putri.webp)

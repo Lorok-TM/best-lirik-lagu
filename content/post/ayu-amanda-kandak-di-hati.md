@@ -27,4 +27,3 @@ Uda surang nan dinanti nanti Itu bana kandak di hati
 
 #Credits: Judul : Kandak Di Hati Voc : Ayu Amanda Cipt : Arif LIDA, TM Hendry,S Arr : Adytya Fajrul
 
-![Ayu Amanda - Kandak Di Hati](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNODJ6nS_gVDeRNwTU1c7_KWugP5vAaTLfbg4TdcySi-q05KepRaEoqHUOTkDTs26wyYCQwqPDvRbs6gSlr-yrR_0gWnlgXThIhAnmGX61F71O3hoO2nBPG-KoE1WHtAGbLC1HrjWba_Z4FtD-Wm_XD9Ztm1m5FjpPmQbw_5ih-nHCwiltLVGPWsjcUQCL/s1280/ayu-amanda-kandak-di-hati.webp)

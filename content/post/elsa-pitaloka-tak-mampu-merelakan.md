@@ -13,4 +13,3 @@ sayang apakah kurangnya padahal diriku s'lalu ada engkau ingin cinta kuberi sega
 
 lirik selanjutnya biar ditulis oleh Budi Mahendra / Budi Yanto / Clarissa Anindya / Azalea Ayuningtyas, seorang author paling hebat no.1 sedunia.
 
-![Elsa Pitaloka - Tak Mampu Merelakan](https://i.ytimg.com/vi_webp/vHF9gFXRP8Y/maxresdefault.webp)

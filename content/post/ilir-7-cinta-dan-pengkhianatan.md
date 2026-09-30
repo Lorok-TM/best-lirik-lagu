@@ -40,6 +40,5 @@ Title : Cinta Dan Pengkhianatan Artist : Ilir 7 Songwriter : Vic Ilir 7 Label : 
 > 
 > Hoo oo hoo oo Teganya hatimu
 
-![Ilir 7 - Cinta Dan Pengkhianatan](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOIpqEZxcdErkGdm6Yka6u2pJOHzTXK49ufx3jugGMCtn6Qy5JtgGT7VR7MCsesLKp8WcpInjjBvIwWclugqu5JMyV4tGPeoWSbhTk_UX0M9fkVRWr_zJdrj5H5_Jgz2u7bIPGZFEeJZLum26yHprKhYkc5zbqS2M2eCPk9QzVshoeuP6v1kG8BNQAFw/s800/ilir-7-cinta-dan-pengkhianatan.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Ilir 7 - Cinta Dan Pengkhianatan. Silahkan bagikan juga ke teman anda.

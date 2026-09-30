@@ -31,4 +31,3 @@ Demikian lirik 'Nanti Pulangnya Ke Aku Ya' sebagaimana di atas.
 
 **Credit:** Judul : Nanti Pulangnya Ke Aku, Ya? Voc : Dalia Farhana Cipt : Dalia Farhana Arr : Jeson Huang
 
-![Nanti Pulangnya Ke Aku Ya - Dalia Farhana](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdh2BFtG9qi8upNOfy4yHiy4i-JXfmk-MO2VbxIZQwC2oNN85W9-q21eAhqfzHoheIjPrhXUDCQ8RLcxMWRFsuInyIcjHHLAolOwu2DJ_-CJ6eRWzqS04hjBEDF03lxGSVpz-eZpH1FTC5XPqPB7esawySxm3YPnfCwVavi7RgzVQDGeN8iA6lfxINYJY5/s1280/nanti-pulangnya-ke-aku-ya-dalia-farhana.webp)

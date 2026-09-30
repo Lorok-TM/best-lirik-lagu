@@ -23,4 +23,3 @@ Talok lai masih dibadan Upah senjang jo parasaian Kandak lai sarupo urang
 
 Kok langik yo masih tarang Kalah tuah dalam galanggang Sansai jatuah hino pun datang
 
-![Daniel Maestro - Bagalimang Seso](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpzkLfw4FQw7AvYei6-azsWhzqtgcibxeONSaobeXnDiNV9itsG1jRW_nY0kjCaBgFIdMCFpuZ001C3AqBeg09Nt1Jk9xHxhrb3rKmLuGz8qTnf-B03w7teGhIaA4Y9IQFiAAJPp2AKxZOtC2ABtS-2au84_nlwZOxhKFVzZPs10xFJ80kvC4-I5wqvZ2m/s480/daniel-maestro-bagalimang-seso.webp)

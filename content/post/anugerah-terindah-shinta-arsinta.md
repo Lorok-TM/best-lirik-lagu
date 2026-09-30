@@ -22,5 +22,3 @@ Jangan abaikan niatku Jangan remehkan perasaanku ini Mungkin ku bukanlah yang te
 Demikian lirik 'Anugerah Terindah' sebagaimana di atas.
 
 **Credit:** Judul : Anugerah Terindah Voc : Niken Salindry Cipt : Admesh Kamaleng Arr : Safari Music
-
-![Anugerah Terindah - Shinta Arsinta](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3qlw6R75p40GsVLHgAgTn6RtNoP5JC_5B4zPdg5jrrO6bWjha8r9wrN6Efbqpp9fNl4_G13M5AyJitUn1FHBoSSE6xsUBSCjO5QHIbbZ6cbSpmHqUrK_qEI1tXtDHRGqB5j6qSsPOAwfN4lwoUqWlKebD8ic724lTWhdfeKlKnPlbAWOcc_g1ACv_IJ5R/s1280/anugerah-terindah-shinta-arsinta.webp)

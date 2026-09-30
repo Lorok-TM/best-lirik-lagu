@@ -15,4 +15,3 @@ Mana mungkin aku tau Bedanya cincin sama diriku Janganlah abang coba merayu Nant
 
 Cincin melekat di jari manis sayang Kalau adik melekat di hati abang
 
-![Carlos - Cinta Dari Seberang feat. Melisa Putri](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTGQ1hSB2nUTPrgegHhE7MNC01y_s0cY0MvK6UKbCdy-b0DL4zuvIVZxx4bjVL10zg-CxGknW7RsmLVnQSHpOw2SQP8S7X8BGGukdNrDvuvbE40zDsqR17iKZ-ZeHsj_h4XINuDDrVtJRYJ1IrMqrmhHjg2Q9l-9IC6jZphydQieNlOqwku5TTc9nRo4Ru/s480/carlos-cinta-dari-seberang-feat-melisa-putri.webp)

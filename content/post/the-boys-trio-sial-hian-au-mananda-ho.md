@@ -25,7 +25,6 @@ Situs bestliriklagu.com tidak menyediakan chord dasar / kunci gitar / Mp3 lagu S
 > 
 > Menyesal hian au sial hian au Mananda ho Lao maho ito lao maho ito Dao ho sian au
 
-![The Boy's Trio - Sial Hian Au Mananda Ho](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpUkxw3MU_k0jHK_yyqgu6FFvumXxqqUTrY1_FVqPqT-Y9hcl1O9xsC0aTDBsQBAXrQtst8xygg1rna4Bv7D_p76qo4GkNDIjynf91R5sp_ffCI8cGvJMTnfK_HMwFZTW0dspcVNtTOMbHPh2gDLDnvWZ3lyXDWHLBoFYAoNafBtfjUet8ZdlXNjEZcdDL/s800/the-boys-trio-sial-hian-au-mananda-ho.webp)
 
 Tujuan kami berbagi ini ialah menyediakan dan menambah sebanyak mungkin informasi arsip lirik lagu untuk mempermudah bagi Anda yang ingin menghafalkan lagu Sial Hian Au Mananda Ho ini, maupun belajar bermain musik.
 

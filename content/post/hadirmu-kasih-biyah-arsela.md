@@ -35,4 +35,3 @@ Kau benar-benar ku sayang.. Kau bayang-bayang ku hilang.. Kala bias cinta luka..
 
 Post Chorus : Mungkinkah cinta.. harus tulusnya.. Jangan di dusta.. Genggamlah cukup aku sayang..
 
-![Hadirmu Kasih - Biyah Arsela](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqFGHQaTpBFhqA-bzTyCX-SOu4M-ocyeRATtPbzUx20-CaAEj-Ys6ozg8ZGLV73o3kyuLhfiALlXIEG8yylPuLE7m6157P-def3Q-JiTWPvKkolDa5LRrm9RWleKMriyvR_7fP9eTzeXmIJPtP3IIIQEp-b2OD1T1Y40H74sW53_ja-v-VpemrSs2BxE6Z/s1280/hadirmu-kasih-biyah-arsela.webp)

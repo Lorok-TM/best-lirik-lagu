@@ -19,4 +19,3 @@ Si dohonon hu bege on mu Pangidoan hu ulahonon mu Patuduhon ho amang si olo i po
 
 Tu ho nama amang sahat tu ho ma tondikku Radoti anggi mi sarihon nang iboto mi Molo ias roham mangula si ulaon i Marhusor ma ngolu on tu na denggan Molo ias roham mangula si ulaon i Marhusor ma ngolu on tu na denggan
 
-![Kristina Silalahi - Sadarion](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGKUYTxLpZd6xaqHhiXzBAgC015prflEaVsLyfMtWQQU8dy_l3uYbmA-QDVJVkUTifE9-3HH8pPP4oWvrf2eUBFCZ4eY7fo9haneqVtNhMVCtVxfY5IPzLjGbkNMnPNdZqwntgHdl6_8bbISXh_WoDpfrudvibzREp-mj18QSXRAUTcQBGkskvvq3GEF1j/s480/kristina-silalahi-sadarion.webp)

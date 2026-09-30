@@ -54,6 +54,5 @@ _Kelingan Mbiyen = Teringat Waktu Dahulu_
 > 
 > _Mas serius maafkan aku Kisah asmara kita tolong lupakan saja Gak usah mengharap balikan sudah ku akhiri sejak kemarin Bapak ibu ku tetap tidak merestui_
 
-![NDX AKA - Kelingan Mbiyen](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIaJXWbEaaDK3NtV_QexNbh6QE35bGzRsm-M70REBaqRS3hm5b31JZTSuhuldjEC8itM1Lzu_in23mFHwOp2NPg8d1GqoStXcpdQy-UdLuxBQU6IABK98STUmsjv6NPqmv7_GLa4JIvlOQmsUxj9QQjzn89z-YjiPFVz6xEBqOI3G2Ea0sUZbneGWQgw/s800/ndx-aka-kelingan-mbiyen.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu NDX AKA - Kelingan Mbiyen. Silahkan bagikan juga ke teman anda.

@@ -37,4 +37,3 @@ Bawa sa pulang itu sa pinta 16 bar
 
 Demikian lirik 'Niang (Rumah)' sebagaimana di atas.
 
-![Niang (Rumah) - Lipooz](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQsBIfnETY9nN-kuEyMtpQKM9CUL_-VQKWOKlMmsG-TkZVFfMAGiTfATe7_TezFABkWMlpdwNnTBv34ZULe1FePTQ3_m7RhOLDKa-lxalHwU_WPgqQzOqOMALku8ZGVXWJ6s-mgK06bhMnTukARF0jfNiQgvWclkCh5MgOKponnJcWRjhc9nW9GpWL8odY/s1280/niang-rumah-lipooz.webp)

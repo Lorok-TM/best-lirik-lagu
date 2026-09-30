@@ -27,4 +27,3 @@ Reff : Hasian.. tinggal ma ho.. Tinggal ma ho.. borhat ma au.. Tinggal ma ho..
 
 Hasian.. lupahon ma.. Lupahon ma.. naung salpui.. Lupahon ma.. Hasian..
 
-![The Boy’s Trio - Lupahon Ma](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgND3YpO-0UAVbBx01J-QmwJhzqs_vq9PIatU0ZyrsW7RPj-z5AgFV2HHwgl9RQYuJ4AgHGS7LBn2hSmx7bo9PaRpIhTXwuARbhcb4jQ_xWNcsOH8rGtrS1Cft457tZKiuA2IUGNAidk5WC1eL9KEYHl9kuM9zdHTSYt4rUZrulOrCZAlkMOoGM2_Q6gbfx/s1280/the-boys-trio-lupahon-ma.webp)

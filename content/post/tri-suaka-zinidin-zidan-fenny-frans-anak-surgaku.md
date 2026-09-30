@@ -23,6 +23,5 @@ Title : Anak Surgaku Artist : Tri Suaka ft Zinidin Zidan, Fenny Frans Songwriter
 > 
 > Darimulah aku belajar bersyukur Kan ku lindungi dirimu dengan sepenuh hatiku Tak ku biarkan orang lain menyakiti hatimu Engkau anak surgaku
 
-![Tri Suaka, Zinidin Zidan, Fenny Frans - Anak Surgaku](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh20zV2p0CobRsmzeFoGuPKahTvjrrrJHy1asGI_LShZGZLqbFY2Yp7slqeqDhaWoh16jwD4HalKVW1voG0HFe5t6rv3TIeU7yeIMqoyqz00o39YvO6j6OfY0g4QEYacg_CHHzgQcCeZvbWu4lMqlc9jhal2Ib_vr1FMrqqtO9mxBxzWKCrlWiALea98Ffx/s800/tri-suaka-zinidin-zidan-fenny-frans-anak-surgaku.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Tri Suaka, Zinidin Zidan, Fenny Frans - Anak Surgaku. Silahkan bagikan juga ke teman anda.

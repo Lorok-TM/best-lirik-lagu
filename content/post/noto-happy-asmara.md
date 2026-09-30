@@ -6,7 +6,6 @@ categories:
   - "java"
 ---
 
-![Noto - Happy Asmara](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmhHvRyILPKft6iChFA0iBrTUSVC2HpwffJ55YaLI5-Z2C6kvXnus3RkSBLNkF10PGvXCJTeHUbvJPug6zo_Z_R-xGBpWpm2Ih8CYlyo9yXqibuECIfEM4wKBTjUFmNgQF80Gp_lLHNmO-yBvzVpGmKS7x4D6a3SW4AjmTBRDROmeSZ-hQwE0o6btibysz/s1280/noto-happy-asmara.webp)
 
 Akhire dino sing tak tunggu teko Diparingi roso tresno Tulus teko ati ora bakal ngelarani Tak jagani nganti tekan mati
 

@@ -35,6 +35,5 @@ Title : Insan Biasa Artist : Lesti Songwriter : Adibal Sahrul Published : PT. Ma
 > 
 > Aku insan biasa Maafkanlah
 
-![Lesti - Insan Biasa](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_m6Y9-mQqijJ-SxkpOj6MzGn-AeADyK9qBDSSz0pAaO8jVsTWeqT8TqaD5wJxhFYFWzUiDovTmLpJzcH0Q-E37xvxv8UCB5ip_okahzXqhvqgrRiddN76m9g8zpzPNhy6uBg3j3vCZme7qDEcOSsBd2UHnWrIzvvYoXzDJy4MId49yu8O8AgVBTmPAA/s800/lesti-insan-biasa.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Lesti - Insan Biasa. Silahkan bagikan juga ke teman anda.

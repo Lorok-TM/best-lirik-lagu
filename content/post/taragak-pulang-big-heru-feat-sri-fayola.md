@@ -23,4 +23,3 @@ Demikian lirik 'Taragak Pulang' sebagaimana di atas.
 
 **Credit:** Judul : Taragak Pulang Voc : Bigheru Feat Sri Fayola Cipt : Dira Sati
 
-![Taragak Pulang - Big Heru Feat Sri Fayola](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMsHP1lDp71GwZStVH6wciO46Cd0eqIHxPiqHnU_Pr_WgV2SgvEa8wESdtlDZ-_iIQZ1LAbo0GA_CMwoVAWT0vizOxjpuEKzoTj-1vGkUm_KLw_8LF06i-XrYBII7kK6V37wYIyGoOP8dxD4o6rT1okWm0nxp3Ms8CdEGwu2B-foYZ9A-lLm04pJ-V0qMw/s1280/taragak-pulang-big-heru-feat-sri-fayola.webp)

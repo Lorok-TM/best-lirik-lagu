@@ -33,4 +33,3 @@ Demikian lirik 'Rokkap ' sebagaimana di atas.
 
 **Credit:** Judul : Rokkap Voc : Gok Malau Cipt : Gok Malau Arr : Gok Malau, Dolly Lasido
 
-![Rokkap - Gok Malau](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEfvGvq5Bm5gv6DjS_8Mh9f2ilv7yAmjxDLIo6xAhNMI2vBkDGQUia7MwzrB3D-9f48bSoxGK2O0nF48njp9_iQk4PLYLGr7dX6rwubaC1z0A0PaMpT4wIL1KW7EKelyLHTrkh5OAHE68pdVlRmRf8X4djsBHLb0cN2z-P22KvlAZLYPWA12_Cr0rdPfHV/s1280/rokkap-gok-malau.webp)

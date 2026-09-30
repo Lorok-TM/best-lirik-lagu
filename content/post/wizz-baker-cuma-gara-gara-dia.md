@@ -27,4 +27,3 @@ Oooh itu hati ka apa Kayanya dolo seng mungkin maeng cinta Inikah yang nona bala
 
 Nona tau beta pu sayang bagemana
 
-![Wizz Baker - Cuma Gara Gara Dia](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjk1VP1rnbwp9Ks82o7CNOOrzIQ5pnqZVM7Qm0QEKQFz8fsfpvQaZMUuW4qrYrs1NBEzDsiZTePa4ZN95crMxbdOf4CXZDD7XJOKsHYe8jn2MB7GtVsLnDp90wqi7WPd6YY2xlv1zZ6couFqYZh-KEUtQXK3a4whqnLmXVQJKu2dQ6-KByk9IdARrvRr39R/s480/wizz-baker-cuma-gara-gara-dia.webp)

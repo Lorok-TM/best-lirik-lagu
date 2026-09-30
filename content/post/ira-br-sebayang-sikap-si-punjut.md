@@ -17,4 +17,3 @@ Kandi kandi buluh la riket Batang buluh i taka jadi bide Ateta keleng sikap engg
 
 Sada kam ngenca ibas pusuhku Sideban mama iting numpang lewat saja Sangap kal pagi aku erdemu Adi ras kam ma itingku i pasu pasu
 
-![Ira Br Sebayang - Sikap Si Punjut](https://i.ytimg.com/vi_webp/fAPLMBj_DuY/maxresdefault.webp)

@@ -15,4 +15,3 @@ Mung sampeyan sayang Tenan tak eman eman Tak jogo tenanan Aku sampeyan bebarenga
 
 Jogonen atimu Mung kanggon aku sayangku
 
-![Yeni Inka X Garryn - Ngupayakne](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhh5nsQSBvAMxYf3R-KvVEtm5Frszh3olsu3S6eBghVCjAplPAQenl0h-J00wXIc6b4pYXFRBQG3WQG29aWGExqLch5d9GxLqBO_qjJD3bAkL2bMo3IjcKHcNBRaRzbegH8gkPhvPxaJLXaG5WSjWAwFtfB4bKmxmD5eqmx3-Jaf7fSEo2f0p6R3ynpdtV_/s480/yeni-inka-x-garryn-ngupayakne.webp)

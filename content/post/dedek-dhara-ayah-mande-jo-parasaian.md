@@ -23,6 +23,5 @@ Title : Ayah Mande Jo Parasaian Artist : Dedek Dhara Songwriter : Roza'c Tanjung
 > 
 > Tido dapek nan denai pabuek Saumua jaguang si gadih ketek Hanyolah nan badoa Isuak gadang ayah mandeh denai sanangkan Hanyolah nan badoa Isuak gadang ayah mandeh denai sanangkan
 
-![Dedek Dhara - Ayah Mande Jo Parasaian](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiz79-D8okJHzy5wGDHhpBTk8Qxi3pB61jagLFqDrpA1kkI49P7U7uuKhqe5vL2RyLliBMg4Xx-k9NRxoHbseti0LDhx-VJ1c-3U5N_j_gNTuQ8V-j7h5oEqWHSdPQWHZtAhINWsBK3W4Sge1CeL-CzSl_wB1RiYIN-lab3FeozWyjvoTislR9QBJO0ag/s800/dedek-dhara-ayah-mande-jo-parasaian.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Dedek Dhara - Ayah Mande Jo Parasaian. Silahkan bagikan juga ke teman anda.

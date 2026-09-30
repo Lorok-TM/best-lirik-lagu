@@ -5,7 +5,6 @@ categories:
   - "minang"
 ---
 
-![Tacinto Sandaran Urang - Vany Thursdila](https://raw.githubusercontent.com/Lorok-TM/2026-08/img/tacinto-sandaran-urang-vany-thursdila.webp)
 
 Taimbau Imbau Nan Dirasian Bak Raso Uda Nan Manjagokan Tasintak Ditangah Malam Kironyo Mimpi Nan Datang Manggaduah Laloknyo Badan Tasintak Ditangah Malam Kironyo Mimpi Nan Datang Manggaduah Laloknyo Badan
 

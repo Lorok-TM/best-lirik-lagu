@@ -25,6 +25,5 @@ Title : Moru Moru Saotik Artist : Tama Boys Songwriter : Jhon Kenedy Nadeak Cate
 > 
 > Ho biasa saja Hape au manaon na haccit Sia sia holongki tu ho Mulai sonari sae ma holongki tu ho Santabi ma nga sae ho ito
 
-![Tama Boys - Moru Moru Saotik](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjepRSMgMdJavl1WCe-IISuZJdfNU5S2dLn9fIMGDgpXHUECp_ASEQ3CjTOazgvb-VBqdRGpF_AEN9kXNGsdQRXb2x0r5P2eriOqCWprxo_4OGzyazz4imxW60yVrJ5lu3pGh8swlrHW52rm8N9S-6B02n0qWDRLQDia9vLfBkSDa6Mh8x7qGtep0728g/s800/tama-boys-moru-moru-saotik.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Tama Boys - Moru Moru Saotik. Silahkan bagikan juga ke teman anda.

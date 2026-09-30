@@ -29,4 +29,3 @@ Telah ku bina istana gubuk yang kau inginkan Sia sia ku berkorban kasih Ku bendu
 
 Mengapa begini harus disini Engkau akhiri Bersama mendayung rumah tangga bahagia Mengapa harus berpisah
 
-![Cut Rani Auliza - Perceraian Lara](https://i.ytimg.com/vi_webp/1UwSGNxwexk/maxresdefault.webp)

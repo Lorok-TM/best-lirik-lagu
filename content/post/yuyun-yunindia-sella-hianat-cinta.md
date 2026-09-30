@@ -15,4 +15,3 @@ Sapa wonge sing pengen adoh adohan Karo anak laki lan keluarga
 
 Kakang sing nuntut pengen serba kecukupan Tapi nyatane malah hianat cinta
 
-![Yuyun Yunindia Sella - Hianat Cinta](https://i.ytimg.com/vi_webp/-90g7Svz_1s/maxresdefault.webp)

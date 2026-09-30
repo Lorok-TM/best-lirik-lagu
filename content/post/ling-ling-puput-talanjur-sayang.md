@@ -32,4 +32,3 @@ _Talanjur Sayang = Terlanjur Sayang_
 > 
 > Walaupun kita terpisah jauh Tak kan pernah mengurangi rasa cintaku padamu
 
-![Ling Ling Puput - Talanjur Sayang](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhldZ57ojL0uHFT3DllSSbJShIXAYrwwVO0kIzAUsQJ_j_0rXTK-sanSP4KYz5O-1LJwyWQMNjRo29joOmti41zoojpGh3Nob4S05NC1d-zeg5XvfuP14vtXtZKhgrEc64jqJBTthbwyF3m4XzFOVJOM_gcCeJe21KW8vOp31Q8NBhdBd65M3zh5pTVsKVl/s1280/ling-ling-puput-talanjur-sayang.webp)

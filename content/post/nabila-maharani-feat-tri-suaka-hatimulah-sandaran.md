@@ -5,7 +5,6 @@ categories:
   - "indonesia"
 ---
 
-![Nabila Maharani feat Tri Suaka - Hatimulah Sandaran](https://raw.githubusercontent.com/Lorok-TM/2026-08/img/nabila-maharani-feat-tri-suaka-hatimulah-sandaran.webp)
 
 Tetes embun di pagi hari Menyejukkan jiwaku ini Di saat ku lihat senyummu, oh kekasih Bahagia t’lah kau beri
 

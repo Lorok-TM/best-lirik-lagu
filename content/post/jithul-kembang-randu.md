@@ -17,6 +17,5 @@ Title : Kembang Randu Artist : Jithul Songwriter : Jithul Sumarji Category : Lag
 > 
 > Kapukku enggal meduno Tak enteni nek lawang asmoro Kembang randu sak umpomo Nandang bronto yo kok maruh tresno
 
-![Jithul - Kembang Randu](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEE1T73N34SdbllZgz1asmudorjKRxGErInvuNBvFu74Glc74L-x6kgFVt4iJygEOM8oQNwULyhGPLTFu_jCFX5y3yETg1_f66eV-SHZluKD_FPY9AduczMqdSX6bmIzBD1Gid6d6dxZfW5E506tglRqQFrJe2DMYkB-Vg3QykULJeUTh94Nyv8jFvk8mn/s1280/jithul-kembang-randu.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Jithul - Kembang Randu. Silahkan bagikan juga ke teman anda.

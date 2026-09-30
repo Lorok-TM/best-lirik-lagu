@@ -23,6 +23,5 @@ Title : Tak Mau Tersakiti Lagi Artist : Vanny Vabiola Songwriter : Decky Ryan, V
 > 
 > Ingin rasanya diriku pergi jauh dan menghilang Agar ku tak pernah ingat dirimu lagi Mungkin ku tak akan bisa rasakan cinta kembali Karena ku tak mau tersakiti lagi
 
-![Vanny Vabiola - Tak Mau Tersakiti Lagi](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzDacAr9-hi17aeWTw5-46VABGu7x2mxyYPylaSAbRKDAW-Y5kWHyPsVwVLnp5BGGthPGh5U3CA_O3zedi6gURDwEQXvgd-hmAMLfP2T-3V6T9B8JnMixBPNXDURULlRE9Ii1Z2cFt_4WkoSNSNwQf18Gy_ant0y0wSnhOXNShCP1_gJSFeMo4eTVRvw/s800/vanny-vabiola-tak-mau-tersakiti-lagi.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Vanny Vabiola - Tak Mau Tersakiti Lagi. Silahkan bagikan juga ke teman anda.

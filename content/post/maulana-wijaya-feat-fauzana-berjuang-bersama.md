@@ -15,4 +15,3 @@ Bukan emas yang ku pinta Harta benda bukan yang utama Yang ku harapkan dirimu se
 
 Berjanji takkan mengakhiri Cinta ini sama kita jaga Menuju mahligai yang suci Abadi cinta kita berdua
 
-![Maulana Wijaya Feat Fauzana - Berjuang Bersama](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7JLzQGM7VVzJ1hQQLYkaMVtnuzpblCXXkl26LY9W6mCYN9fVOHcyXfASt9zor7OLaGfcGuAdXoYRvXiiPVIask3WlyBfPNLBdLmJ2Ey7jsVv1BPfHMjmPqAy3iN04lh_2spMqAY7w5JyuHt6yWkG1Bi6AAa0PJqHH6Z94U-hHOWstLVAEMG1D_78O2EFV/s480/maulana-wijaya-feat-fauzana-berjuang-bersama.webp)

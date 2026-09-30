@@ -15,4 +15,3 @@ Rasonyo di tutuik mato denai ko Bia ndak di liek adiak baduo Tapi batin ko tarui
 
 #Credits: Judul : Padiah Ditusuak Cinto Voc : Pinki Prananda Cipt : Don Gebot Arr : Decky Ryan
 
-![Pinki Prananda - Padiah Ditusuak Cinto](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhv4Lx2m2gQpu3oW8UzsPRtU8z8UexXmAEt-vqW9KnHcntI0ScaeTxf3YwEjijgFvn2ymHwSrWGeeP0sGmGWkGOaF-E_9SV2_-8zE00WFjjAGE8S8exK3nlkmgKQ2dLpHugOyyKU7SBsRS67N7ZRvaXESUK3sdFUROg1SETHrvp2eH0XNHwkjDgFT37AnQS/s480/pinki-prananda-padiah-ditusuak-cinto.webp)

@@ -27,4 +27,3 @@ Sabe ulon lam saba sigra keuh neuriwang Oh sayang peunawa lam lara
 
 **Credit:** Judul : Theun Rindu Voc : Cut Rani Auliza Cipt : Fahtur Rizqi Arr : Iwan Romeo
 
-![Theun Rindu - Cut Rani Auliza](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3AeV68xt70xC_TSM7Y-T99I1JnGfvMIGzmnFv7JLhgMLtj-zI4ZSSVKWOxH0dNZ5fbWRoX0Xhy3-I7Uw9RZAjV1XGQRxuXUIObJW_NeQL4TBFxFLtR36fdElbOgSSxSXQsUfeYq3pICT1rp30a29nA45_P0mj2zUnhLP0jvTR8hDbbnQyrOMLZGdkLgrZ/s480/theun-rindu-cut-rani-auliza.webp)

@@ -29,4 +29,3 @@ Demikian lirik 'Sabana Ragu' sebagaimana di atas.
 
 **Credit:** Judul : Sabana Ragu Voc : Wita Sofi Cipt : Ben Tusipa
 
-![Sabana Ragu - Wita Sofi](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1ZvxJ3_PfyFs8f2idMuQX09U_eZXlVAUArwjA-cxciE3I7VMH0_rLqnkldhfDfsQZptZ5GCn9CCZiIsMsCyqCRZ8hBV_obLDMd-BtRYH1NLxB8CKdYggO86fFw4K4V_5MCL738BPzcpMZsZsHEUOKYS8mIfJ-vmvzPMvNIV4PsZltLtmhoCz3n-PVLT1z/s1280/sabana-ragu-wita-sofi.webp)

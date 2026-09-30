@@ -27,4 +27,3 @@ Demikian lirik 'Rusuah' sebagaimana di atas.
 
 **Credit:** Judul : Rusuah Voc : Arahmanda Cipt : Dira Sati
 
-![Rusuah - Arahmanda](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-ROY-MGPDJDLd9b2vcjNDkeUVB4alOlr08SKYeAubvYMXTCleKVQutSyQ4QDO-VYWJqzubTA1WG-iUGYQu6abIGqQZsf85E6GpnEeAEy1lfzdO-0P1l2KIKcaB_VfKlNChzW68hJZB3GX2IrUeziscOmQWT_JsXdSFc-BG0VYRSHOYTO7OjvHoanbR8M7/s1280/rusuah-arahmanda.webp)

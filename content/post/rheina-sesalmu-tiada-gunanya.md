@@ -19,4 +19,3 @@ Dulu memang aku mencintai dirimu Hingga tergila gila dalam memuja Kini setelah k
 
 Sesal engkau menyesal Sungguh tiada gunanya Sesal engkau menyesal Sungguh tiada gunanya Sesal engkau menyesal Sungguh tiada gunanya
 
-![Rheina - Sesalmu Tiada Gunanya](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig-IM2EwwCr-YSbAgjRhtRD32i9khqZhc6zpGOBE9apeBKHuEeYslCLsyksMBXcMdNnwXVtOjMl2So3xCMrN1ompIZ947NHolb0es0OumPX9EmCHatIxqGVJhBD2hB9SaDY5HDfs-6Z-qD2l4pKQPH50o0A32xqLb509gR5AyJgNR8To6-kAR5WKgcFQWg/s1280/rheina-sesalmu-tiada-gunanya.webp)

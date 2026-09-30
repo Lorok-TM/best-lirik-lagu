@@ -21,4 +21,3 @@ Demikian lirik 'Kanai Santuang Palalai' sebagaimana di atas.
 
 **Credit:** Judul : Kanai Santuang Palalai Voc : Julia Anugrah Putri Cipt : Ery Climber Arr : Iwan Romeo
 
-![Kanai Santuang Palalai - Julia Anugerah Putri](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJTvPrvhZU_sv8l1rWJJ6gndyGYeTV4Yvu2r7JT8god-pbPr1nV63YqJg7qWs6AhHMV_fnK0xcwG4C30g0ECK2HZjvI4rdvqd2gGMEUmR3w57NxWsd8ei-Uwu9X5Kt94bdbad6HZ7BxH_I8syW546NjW5CsWAUcgQOTG3Fkip_GK-dpojA2v3oe9UnTi2q/s1280/kanai-santuang-palalai-julia-anugerah-putri.webp)

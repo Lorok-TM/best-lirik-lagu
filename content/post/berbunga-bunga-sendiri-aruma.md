@@ -23,4 +23,3 @@ ternyata hanya aku ternyata hanya satu hati yang berbunga bunga sendiri dari yan
 
 dan yang kau inginkan hanya sebatas teman
 
-![Berbunga Bunga Sendiri - Aruma](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrOiKuOJ6gg54VOZJ4QqLo3MxFsvVYptdKW6iVvbiNjbOCgKRFPCPit1EecFRvWSqs9lK0OJl6fDEZ-naiMQAiKkQXloLqHosmSyb60T71gTvrBmOkgxR5qkZxk6q7ki-nfPxgjvROJfgHo6w7qOtFv0GiDxZNoXCIXRaSVp__o66VbSy3U04WNoEtJwek/s1280/berbunga-bunga-sendiri-aruma.webp)

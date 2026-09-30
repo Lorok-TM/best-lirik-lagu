@@ -25,4 +25,3 @@ Samo mamikua baban barek Samo mamakan yo nan di dapek
 
 Kok banan mujua nan bakilek Namun nan elok baiak kito pabuek
 
-![Rayola Feat. Pinki Prananda - Takuik Taluko](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQj7qNj4NrltvFEvUBUx3ccEgDuwxE7NOSW6RIS1ynU5hNvpymLPCkt_LK0idpssjJp6CBJYvTImlveXQevOFA8uaz7Cc_5siwkFeOJEvPn4OAcv68E8me19s_b6BBMxPU0CVAHAJCbyJtiV2aX_PNhq6qPQIwuXK_ddzDgJPZGepcJVPIdKEBde372BA5/s480/rayola-feat-pinki-prananda-takuik-taluko.webp)

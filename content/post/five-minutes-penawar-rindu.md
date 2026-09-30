@@ -22,6 +22,5 @@ Title : Penawar Rindu Artist : Five Minutes Songwriter : Ricky FM Publisher : PT
 > 
 > Tiada lagi cinta dihatiku Selain kau penawar rinduku Tiada lagi yang dapat menyentuh hatiku Hanya engkau periku Tiada lagi cinta dihatiku Yang bersemi selain dirimu Tiada lagi yang dapat menyentuh hatiku Hanya engkau periku Engkaulah periku
 
-![Five Minutes - Penawar Rindu](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjD0glnGCaCauwpSSghkblPk7jRUXep8BVm0W5XgiCcnm_B3mgAlkSSEHGYOIUhxkTxk10UCEblD9MgQ3LTX53DLGNI1un3DXtNQGcKT8CAFlLj3Ku23FLSGLGiTCu8j08UtdWxzCbTwA521BGBKWd3GyD9b0Qas8ISUOpgSqofeKgBuPS3nVcCh5c2hI9_/s800/five-minutes-penawar-rindu.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Five Minutes - Penawar Rindu. Silahkan bagikan juga ke teman anda.

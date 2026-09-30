@@ -25,6 +25,5 @@ Title : Cinta Terhalang Restu Artist : Junaidi Alfian ft Adinda Meyfi Songwriter
 > 
 > Terluka ku dibuai dusta Merana kini ku merana
 
-![Junaidi Alfian ft Adinda Meyfi - Cinta Terhalang Restu](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVnXf1JBdvtb-rwaVE-bMYEaCuylCa8ke8-BpRkJSe8eOTOrhZgZ4WY-k45U-YeQsnzf9B2P9yXo3AtLFc-piN4obA2DIn0NhW6NT8292clR6Zb_x22I-JsAq2DAdufu4dToMi6h4xkth9XEHUErdG2V_UzNWEJ3cgSWP49pjskeyqpUkVM7-ktNuhqA/s800/junaidi-alfian-ft-adinda-meyfi-cinta-terhalang-restu.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Junaidi Alfian ft Adinda Meyfi - Cinta Terhalang Restu. Silahkan bagikan juga ke teman anda.

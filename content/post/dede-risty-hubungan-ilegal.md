@@ -63,6 +63,5 @@ _Hubungan Ilegal = Hubungan Gelap_
 > 
 > _Kaca yang pecah sudah menjadi serpihan kaca_ _Aku akan memilih pergi jika abang kawin lagi_
 
-![Dede Risty - Hubungan Ilegal](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8KOObDo8k0Bue4afUiyMkvA8KGeARqYy7FqSkW8bl3_qA85OYACDVeZP3T-Xmh67j4t_m81T8Gh35TT5vrT25thK0sivsHEcx2VvcpJNNgA4C9aMFwsbErSQO48PALYlqh7I-LfiA5EjARbNZrf-4ijsOp_d6qdYUimcVPq_1XGzo8vCIojX1FRPmomeR/s800/dede-risty-hubungan-ilegal.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Dede Risty - Hubungan Ilegal. Silahkan bagikan juga ke teman anda.

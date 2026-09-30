@@ -14,5 +14,3 @@ Di bathin uda kok anggan Antah iyo antah tido antah tido Kadang kadang iyo di bi
 Disiko denai mangko ragu Dalam lanyah uda tinggakan Den balah kayu den kapiang sayang Den buek pahampang banda
 
 Uda bak cando pimpiang di lereang sayang Kama angin ka sinan uda rabah
-
-![Antah Iyo Antah Tido - Wita Sofi](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCPgrsuCWkiRfir2eoV1wOdeHewp09rVx-GNEII5uy4vsoBF7-nvjfPZd41QoNht3vZKozTg101j7-Irgect0wTZPQcpY08xeRLOj6NiBsDvNm6sNPSfOy-n-9Vp7fY_ku5ZTTQO8yJcEJ-Hp9pg_a8WyGJX4RWMdxuqG6_MDX4v2j2tmsxLvp4ElVbpph/s480/antah-iyo-antah-tido-wita-sofi.webp)

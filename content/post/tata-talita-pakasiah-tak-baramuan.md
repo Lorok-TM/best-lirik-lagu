@@ -21,4 +21,3 @@ Ramuan tolong tunjuakkan ondeh Apo ramuan untuak paubek badan
 
 #Credits: Judul : Pakasiah Tak Baramuan Voc : Tata Talita Cipt : Alextri Chaniago Arr : Decky Ryan
 
-![Tata Talita - Pakasiah Tak Baramuan](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTGMMr_vS8JKqrTgBRsuLklP3OfcB_EsS0wFKILxUHvKeGi0m7XATq0fBdUPFgxr7MEEB0IZ7Yxa2E7fE7P8Syz77KAr7bxnm5N8RKdVqQWBQzC-khd5XP_ZO09V_3J3Zx8_-eIsU-mN7XxdPtAzOb-QfXkwRDEuHJrI1ho8_cJxCExgV34uatvzdRtu6w/s1280/tata-talita-pakasiah-tak-baramuan.webp)

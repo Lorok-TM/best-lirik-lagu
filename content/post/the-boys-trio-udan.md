@@ -23,4 +23,3 @@ Alai udan so tung ro jo ho Malam Minggu na naeng ro Sudah janjian mau martandang
 
 Alai udan so tung ro jo ho Malam Minggu na naeng ro Sudah janjian mau martandang So tung gabe sundat
 
-![The Boy's Trio - Udan](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnQh8IhMEsP23mzhMGWozQAjsx4RL6kf64hEYEW1vxeuVEq9KglDdrSE90wL64_mRTlEO3gJ23yZdYOtky_bbcYMqrgOc563pykHOm8FxDVeDxNkNJrue8pcclItldIkCq6P_C0jddp7c3d63ETtoXKMErhuqqap2AjP3i4wAqtjTpNtUrTcchV8IqWvUe/s480/the-boys-trio-udan.webp)

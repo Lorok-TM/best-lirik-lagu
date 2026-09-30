@@ -17,4 +17,3 @@ Dengarkan aku duhai kasihku Kamulah yang pertama Aku sayangi aku cintai Sepenuh 
 
 Hanya dirimu hanya kasihmu Satu dalam hatiku Ku harap tuhan slalu menyatukan Kau dan aku berdua slamanya
 
-![Ipank feat. Cut Rani - Cinta Sepenuh Hati](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDexYcDPTycBRr5XY15X3MElMkQKX95Ewh3Dexkza64mO8gmPYOTO8MxUYdJuS1WQnMeESTkMhKVz-kP-KSMV5th5q_BgTNTjvGowxX4hiT8cq5rzRou8dzdfm2voTjOGGsSExawDoeuw08jttiKcQwdSjQyfHgz-QJRMz1XJ5vxgH0a6Hi4E7Zq6eLUWi/s480/ipank-feat-cut-rani-cinta-sepenuh-hati.webp)

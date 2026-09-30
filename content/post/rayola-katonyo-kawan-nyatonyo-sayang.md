@@ -27,6 +27,5 @@ Title : Katonyo Kawan Nyatonyo Sayang Artist : Rayola Songwriter : Safril Saha L
 > 
 > Uda lengahkan denai di muko Di balakang marangkuah rang lain Lamo jo lambek uda ka maraso Sakik rasupo nan uda bari
 
-![Rayola - Katonyo Kawan Nyatonyo Sayang](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMeyrni8EL_oNXLuupOrI94fg_dq9sx_yyu87QGMFfm9xtt5rAGLNQB6PIimO_QON6MqFHy4ecSX_CpYuSGzgWSwM7zFEfVgduHxwy7qknHZ3kiN4RRhEPvaq2kXJ11VrgqZRO_ZLuDrgBoX4sKmUyZY2cV5fR8Iro7rd3Cph7Cz7G9H90lwUJFWDB9BXZ/s800/rayola-katonyo-kawan-nyatonyo-sayang.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Rayola - Katonyo Kawan Nyatonyo Sayang. Silahkan bagikan juga ke teman anda.

@@ -19,4 +19,3 @@ Demikian lirik 'Cinto Tinggalah Harok' sebagaimana di atas.
 
 **Credit:** Judul : Cinto Tinggalah Harok Voc : Eno Viola Ft Pinki Prananda Cipt : Roza'c Tanjung Arr : Iwan Romeo
 
-![Cinto Tinggalah Harok - Eno Viola Feat Pinki Prananda](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHhvE7yuF-dGj_K6tZXAP5rRGPFnwrC8EN-C8orN1wFsrdzw9PhLlBXEsHg0WDBS5lnhjZ-Rpw8Hw5XS58J6KEKVGSi4547plVaeVG8vO5E2nLBzrwPR4T9b5PnIrnI9zL-kYK05gV7Ru46JhY_TMnRt22I9OMTXHGj-htXaZxiuodr0T7l6nAVaPck5kn/s1280/cinto-tinggalah-harok-eno-viola-feat-pinki-prananda.webp)

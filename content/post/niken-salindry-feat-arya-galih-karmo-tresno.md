@@ -58,6 +58,5 @@ _Karmo Tresno = Karma Cinta_
 > 
 > _Doa restuku untukmu duhai orang cantik Selalu ingat pada janji dan sumpah setiamu Janji yang ku sumpah tidak ada gunanya Ingatlah karma cintamu kakanda Ingatlah karma cintamu pasti ada_
 
-![Niken Salindry Feat Arya Galih - Karmo Tresno](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFOk2mKRgkGiwwVp_15YK0cW4025rd1E5KIKK6x0GbKfzbPutGloQHby7QpUX6PwhI4sPyWJCmOJUZBCsbJvmO9S895qkKdSmf_rfGRhZhRRsDppfUZC09RrMrceiQ4lvHnsSSFna0UVoQR7vWBugwP0MLBrj00dOFUgAwgJJGbhLSIL3j3tDBVOYdxQ/s800/niken-salindry-feat-arya-galih-karmo-tresno.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Niken Salindry Feat Arya Galih - Karmo Tresno. Silahkan bagikan juga ke teman anda.

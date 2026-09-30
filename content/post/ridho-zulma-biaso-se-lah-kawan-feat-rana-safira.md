@@ -23,4 +23,3 @@ Kana kana kato ka talompek Nan ka patuik sajo disabuik
 
 Usah balagak managak santiang Cando dorom di tokok bunyi nyariang 2×
 
-![Ridho Zulma - Biaso Se Lah Kawan feat. Rana Safira](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqsehKajytC1N0Tq3dyFS0PO7eIahyOjE7jvjTeG3bGsYlFa9psIz4sAYcDiGVmMO4KSVMEENWM4urh1dtohQb3Jn0mJ6CoPp6HLcunurYpNVL6Z2Ll1fDHJNj1BMIFoJheLVcUaPFIy2ybDFwaC5AiUPbSXv4l3q6zcqDB4CB5XESuu0dC-3uUEghRtNs/s480/ridho-zulma-biaso-se-lah-kawan-feat-rana-safira.webp)

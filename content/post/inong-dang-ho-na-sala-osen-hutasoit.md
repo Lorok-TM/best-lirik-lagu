@@ -27,4 +27,3 @@ Aku memohon padamu ibuku yang teramat baik Jamah dan letakkan tanganmu di kepala
 
 Bukan salahmu Aku yang kalah ibu Usap air matamu ibu, berdoalah untuku
 
-![Inong Dang Ho Na Sala - Osen Hutasoit](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEic2sjeykWMSyshvoBfQZfv3yX8n7iL-K58hkXixTKdBsUMnz8is9pK0HVruvf_H4SUTrIGkCHNJJQek9nZbX2t9cnDmROqJQC7fXuEvlgs0yWt5K1MZ6wO4usGyVdXCzSObKOd8l7v1ZTycioo5o1NhTeZkP4PkwygorKLZnZRy7DkyOp2EjfcLLsq3iV9/s480/inong-dang-ho-na-sala-osen-hutasoit.webp)

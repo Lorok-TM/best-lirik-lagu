@@ -29,4 +29,3 @@ Demikian lirik 'Hipnotis' sebagaimana di atas.
 
 **Credit:** Judul : Hipnotis Voc : Naff Cipt : Odeu Wijaya
 
-![Hipnotis - Naff](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGWPrapKCPxilVV_kqZwrR3YHkrFNQ_6_CJivVkM72y0YilV9a12YpJTnv2-EPWLmUSobCvg2LVpQX4vOMMA7YnVv3qSLCq_xxnw0F_5h2tSvnbtvGfn-WYOTKhfDqbgI6VPJjsKNKZZ5TehVypfkAKczKRtcGzMm6uJK195lS_x29Tt0iwl8OyeceeOx4/s1280/hipnotis-naff.webp)

@@ -17,4 +17,3 @@ Maafkan denai adiak nan lupo bacamin diri Sabab didalam hatiko masih manyimpan c
 
 Sakik denai mancubo tuak malupokan Namun adiak indak juo lapeh dari pandangan
 
-![Eja SM - Harok Baganti Luko](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicTNAdLOV9wzjruK5FEYYJ3sv1-ZLHzxl9R13sroMGNqg9zxaE9YZ0aD8GMoo_X650P7_QFhZ5-qX9XS7L3w0KgMj-8z-RL0qgaDuEKwibUpBfg3koO2OAHrnKKJJJ3MXwpp73qhtHPBVypIrEwHdbpsWSKJZDY_CFla3zAZ1C7wedLPwYyQTGjshyphenhyphenMpK0/s480/eja-sm-harok-baganti-luko.webp)

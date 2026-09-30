@@ -29,7 +29,6 @@ Situs bestliriklagu.com tidak menyediakan chord dasar / kunci gitar / Mp3 lagu R
 > 
 > Andai dirimu tau Ku ingin segera bertemu Semoga takkan berpisah Untuk selamanya
 
-![Cut Rani Auliza - Rindu Tapi Malu](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBIzR8bUHpSOrJhDAFapk58BQRzuYGlSvfjOtl38zGAPS-bJOUdenNaSnbqtynskqpYj4i-FY_5sTlkmpi2wHw4-XqxyYv9i06SI986uQ4jc3LUgkraL0X5_0acrQ0c_EEpC8qm6avUIdghsxql1uymE8w3hRbgCV3bl6UGBXqkXeUnoOwmxONuZWOXLSd/s800/cut-rani-auliza-rindu-tapi-malu.webp)
 
 Tujuan kami berbagi ini ialah menyediakan dan menambah sebanyak mungkin informasi arsip lirik lagu untuk mempermudah bagi Anda yang ingin menghafalkan lagu Rindu Tapi Malu ini, maupun belajar bermain musik.
 

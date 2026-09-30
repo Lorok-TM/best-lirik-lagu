@@ -5,7 +5,6 @@ categories:
   - "java"
 ---
 
-![Laila Ayu - Sumandhing](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqFw5UOvpiPYOJu_8uwKacIbaPVyF2joGAi8_QOi_DFKW-YBWeD8cZSZD8J7c2PnJycrO9Vd0wSk0V4STJqIn9UNWZFOws_x5OrEnA1apwio5aufEn8e0L2RSdpLVY1hZhGWnyxTpsi8X3VF3wyqZC8uge0dOQX2k9vPRh3qjeFNR7Ft-u3Z5iYzKAfJYv/s1280/laila-ayu-sumandhing.webp)
 
 Sineksen mbulan kekencar ing ratri. Nggurit jagad bareng klawan si reki. Sayang … Natah bungah ngrengga tresna nyandhing sliramu. Eman … Kenya manis sesotyaku.
 

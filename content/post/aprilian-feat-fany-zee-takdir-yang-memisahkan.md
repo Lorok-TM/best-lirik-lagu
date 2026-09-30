@@ -18,5 +18,3 @@ Simpanlah semua niat baikmu kasih Tak mungkin kita bersama lagi Diriku ini esok 
 Aku sayang Ku juga sayang Tapi takdir yang memisahkan
 
 Aku sayang Ku juga sayang Cinta kita tinggal kenangan
-
-![Aprilian Feat Fany Zee - Takdir Yang Memisahkan](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNF1JT-UC4oMHOEQRNEnorxyqGs56MiuGt-dN_Q9tSE-qlrl1SFM8k9GWV0OxCZCTmgBu0bT4FwsSWb8iVkeZT-szXpY4SpBVm9cEJN7g6ZDGmnRBkemCooxNbMj_3XtjfX8y4mapSRNaHKKV-ubnzQqlo5U-QP_0MQw5ra5OB0EttBJRi2oZnr8jJA-Us/s480/aprilian-feat-fany-zee-takdir-yang-memisahkan.webp)

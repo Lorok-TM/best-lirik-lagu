@@ -19,4 +19,3 @@ Talitak badanko tabayang oi mandeh kanduang Kamano kakiko malangkah tasangkuik j
 
 Jikok indak bapitih langang di nan rami Tagamang aruah nan di badan urang biakan Oi ayah jo mandeh baoklah denai baa Seso nan di badan bia nak nyo hilang
 
-![Bagaluik Jo Parasaian - Anggrek](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBwWtBpdKJHulQT9PE3hWUaW33TATNCqzbmzA6wyYnO6mXynw9WSDWNUbXmdkTbxfyRQCTPjk1wHVPCdPUjYn4Fu8STHZskYFVH9RbT2e9fsr7NthonsWQTON0YRDWcldeH69-5kKA4L7-l_ADjzNx0seLFH3SC0EGfKYoy52vJFqRng_aVVY-SBP65PqO/s480/bagaluik-jo-parasaian-anggrek.webp)

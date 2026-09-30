@@ -23,4 +23,3 @@ Urang bajariah mangko ka dapek Bausaho mangkonyo ka sanang Manga di kawan taraso
 
 #Credits: Judul : Parangai Buruak Voc : Duo Gali Gali Cipt : Andri Dharma Arr : Buce Mx
 
-![Duo Gali Gali - Parangai Buruak](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMETwe5NwYDpZ8bDe4_OV0r49KAN_YxuY0wVyUvTaWa608lnbYqU6NHZf6rLm_9yN6NfeWhAhH3_9-2GbCaun6Wflmu2an0BpicBEQVnAMonbd1q2Z4ZXdCkYvoed5mQJVq9yCVjPnXTk5XMn4E1ZogwQ-oUw3vR5xiLL-Alpi7IVmxyF8B2OZSQVX6SLs/s1280/duo-gali-gali-parangai-buruak.webp)

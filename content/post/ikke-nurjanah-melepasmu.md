@@ -31,4 +31,3 @@ Back Reff Haaaa haaa haaa
 
 Ending Merelakan mu Seiring doa ku Haaaa aaaaa aaaaa Teriring doa untuk mu
 
-![Ikke Nurjanah - Melepasmu](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqj47V3mWA4rZeaaSM8xa467WtWAfvVFoK38iYGfi93ynRkFwDQFkfXGbbfksb6aUjfhAWN4m2KMhBLtJuSXwMMBFNPFBYvUsjQ9m9pYO5CsuKFCc5B8P8kWfTv3RSCTk9FnaDZ-WV0kzUhzmDYo8BwNi6w7yqFmh12SVV0Y7NnA8ccrOi32WLJyHIe8mQ/s686/ikke-nurjanah-melepasmu.webp)

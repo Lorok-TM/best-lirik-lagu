@@ -23,6 +23,5 @@ Title : Tugu Siborong Borong Artist : D'papa Trio Songwriter : Tumbur Nababan La
 > 
 > Haholongi au hasian Songon balga ni cintaki tu ho Saleleng ni ngolukku hokkoponku do cintakku Tu ho hasian
 
-![D'papa Trio - Tugu Siborong Borong](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiN-4tL9QT9s3lZa_t6qbuYmbOzX6NB7VSqDk3aTDYkSctT7am_XWo54EDHNBSjpkoU-vxvNH3rXYn-oiFdGufbSQUElHKKg_j6CRdrDXvvdyLmkgJv923IDS_0uTRZighY9NkWXHFpNB8nMEZXiiS-oxtrFNL2353WWZR3M4fbmedcns5nIr5UNA-zfw/s800/dpapa-trio-tugu-siborong-borong.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu D'papa Trio - Tugu Siborong Borong. Silahkan bagikan juga ke teman anda.

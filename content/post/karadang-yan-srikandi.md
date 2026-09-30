@@ -31,4 +31,3 @@ Demikian lirik 'Karadang' sebagaimana di atas.
 
 **Credit:** Judul : Karadang Voc : Yan Srikandi Cipt : Rah Tresna Dan Yan Srikandi Arr : Ojik Bray
 
-![Karadang - Yan Srikandi](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXX7KgiByB8iX3EbW_MDwUTSQfGNPTqPf-EKF9MLuVM4C0CAgEnjPCmKuFZwaOUolw1bYu7moaUAy_jyEz6UBk6Fl139wsE5jK1lm84AfzYkM7mk9hfXbfE3fWJTDPjq7lmhmVxK5qcBQBC-slVGd2Of342R0zI1cDz4fJHb3KV2YHWa6vissVkNEDxdsi/s1280/karadang-yan-srikandi.webp)

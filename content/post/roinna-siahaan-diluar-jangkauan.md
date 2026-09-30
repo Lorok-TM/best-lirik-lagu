@@ -17,4 +17,3 @@ Molo hu telepon handphone mu da ito Diluar jangkauan do alusna Manogot nai ro do
 
 Na overtime do au ito nimmu do mangalusi au Hape tarbege au sian akka donganmi Sibawa na asing do hape ito Na gabe mandongani ho
 
-![Roinna Siahaan - Diluar Jangkauan](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDz0qQAct-mD-sMMB-bi_OyrmTkRwhCXgRQmzAQmxbG_JBWYtqx8KbIAX7vpMdZW5lnB3fNS71fCR7rkmd1F64z-jvkSCL2we8V2DiNFlMBgtHPlYgh3oeuXpKGbpsgPo3J3ZU-_TisK5c2Fo9wnqGQyPlvkUMvIGByMfYkhfnJ_J7DDfZvB-dPq_X2qYH/s480/roinna-siahaan-diluar-jangkauan.webp)

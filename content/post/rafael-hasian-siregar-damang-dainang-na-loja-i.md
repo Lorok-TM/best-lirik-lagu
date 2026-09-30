@@ -25,4 +25,3 @@ Dung tolap gogokki na urupanku do Damang dainang i na loja i Dung tolap gogokki 
 
 #Credits: Judul : Damang Dainang Na Loja I Voc : Rafael Hasian Siregar Cipt : Suryanto Siregar Arr : Suryanto Siregar
 
-![Rafael Hasian Siregar - Damang Dainang Na Loja I](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEaMcWB75bRFT5g2GhjmWvsZAC3-vmHgjrzumHNYOhIqRcrGfGrMt3x6xTO8cgh7tWB5GjmtFu8ghVP2sz7KvZieWhMrU46r2bZUvIxRPmkfvaaBcDbDRc6fajH6QqbnbuuTUTO88zmsJNMV7HrZfhnyb49dx8AXR-vjKF30HYEYMICKLcZGDeBY1Ibrnr/s1280/rafael-hasian-siregar-damang-dainang-na-loja-i.webp)

@@ -27,4 +27,3 @@ Title : Kasiah Sayang Ayah Artist : Marta Vilofa Songwriter : Am Klb Label : Elt
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik lagu dan lain sebagainya. Terimakasih atas kunjungan Anda.
 
-![Marta Vilofa - Kasiah Sayang Ayah](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5Ct8m0STaRMA3o0Zkejo9AdS8QXb3j0D89v27COu0wKgFN-evXYx4MKhR_tnLVZU8h9TeETWyPMnrZCxYzPHjKN2oXwY5jHZqChQCIWupCZxlZbOi4a9JPdJnkTiKpU6k5VtOZWbITpEpwfhJQCtaQUyqhLkdh5w6NJ1Jn221bj6pvHidKzAVnEHQsg/s1280/marta-vilofa-kasiah-sayang-ayah.webp)

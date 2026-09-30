@@ -25,6 +25,5 @@ Title : Hadirmu Membuat Terluka Artist : Rayola Songwriter : Taufik Sondang Prod
 > 
 > Huu uu aku terluka Huu uu aku terluka
 
-![Rayola - Hadirmu Membuat Terluka](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQJ0wyH6y-WwPUonC-jz6xw2VHZibreXC2bgU-9QttV6sW59bMI3XzVt-GOIiiqkv0FRfUdZfRE8-SF_C5JYnnEi72CL8COYOShZU65pSMjXJYPMSTpDbxkR90aushMj76Ings5kqHutViYiOxqVYE6m0og5kqQEujyp3uo-R2yBjAAbExvvL_P5AsgA/s800/rayola-hadirmu-membuat-terluka.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Rayola - Hadirmu Membuat Terluka. Silahkan bagikan juga ke teman anda.

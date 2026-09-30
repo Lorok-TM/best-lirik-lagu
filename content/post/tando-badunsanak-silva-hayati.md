@@ -5,7 +5,6 @@ categories:
   - "minang"
 ---
 
-![Tando Badunsanak - Silva Hayati](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzZGqtmOEZYX9_0Lp2DdizXO5iOJKYiwBMJq3pnSxDP1hLMVFYFVRLsHS72CSUUDJ2G5KtkAY8ukc_fxV4I0MPWWvdHgn-MUN3vk3vSlIIySL_w7LOVHDnNFskh7zh1ftBlFir__gKse7QSRt44r8OGxxUbUC-KuhHIJPAsmIA9MsV0-h-rJU4rZZEhx9_/s1024/tando-badunsanak-silva-hayati.webp)
 
 Sangajo denai mamijak laman tuan Tandonyo kito yo lai badunsanak Jauah jalan den tampuah walau ndak tuan suruah Yo bialah asa lai lapeh taragak
 

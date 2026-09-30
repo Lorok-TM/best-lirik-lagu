@@ -25,4 +25,3 @@ Demikian lirik 'Astuti (Asli Tukang Tipu)' sebagaimana di atas.
 
 **Credit:** Judul : Astuti Voc : Alan Darmawan Cipt : Alan Darmawan Arr : Alan Darmawan
 
-![ASTUTI (Asli Tukang Tipu) - Alan Darmawan](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVoEJxBg6XsmZEWmVVtCh6HSID4MY4RrfIXzvquyRc_UJZYA5_MhwZkAjV5CGvxO4Vt9uBl_QbDDjycS34AYghzcxX2anUKGMhaTEhmko4cPyZNcWs_n-YJTEw6_m-Wh3Grw-T7omd4-Khd7I-iwb47xVv3Jffh34mSHeWPL8RBw0Zk3rmA-VBXCeL4j38/s1280/astuti-asli-tukang-tipu-alan-darmawan.webp)

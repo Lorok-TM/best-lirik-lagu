@@ -49,6 +49,5 @@ Title : Andi Putir Busu Artist : Budi P Songwriter : Budi P Production : May She
 > 
 > Tikas tuh bewei kambangan lagu Panyundau ku melai je lewu keju Tarewen nampayah je putir busu Marusak atei kalunen aku
 
-![Budi P - Andi Putir Busu](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJXfyb8gStgwei2Xxwp-tJ_pnzew81PfOhDuVXCcG9ID-FHfqGLTH7m8Sw_CjaYqvbnAU0xx--YPuNtkY3yaacUF2lIGPx5ApuOk8Vhqz1qQAjc3EY1pdN9afxQ5BPekR_9Ql9B0YAjL7u_Wj3xzYX_ZHo7j7zfvN84Q7x08XNinlWRMaXctEFOpDwCg/s1280/karungut-budi-p-andi-putir-busu.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Budi P - Andi Putir Busu. Silahkan bagikan juga ke teman anda.

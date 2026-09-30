@@ -25,4 +25,3 @@ Demikian lirik 'Masya Allah' sebagaimana di atas.
 
 **Credit:** Judul : Masya Allah Voc : Cantika Davinca Cipt : Nabila Suaka Musik : Ageng Music
 
-![Masya Allah - Cantika Davinca](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDW8WJ1j6K6cOv0_I0UQcBuz3cXrGgFVOGiysMKn_NjN07MdkKkm8oIJu9djNZNWPC8M7ThO5hea5n0zV9MlwR9nDURPgVIe874_U9NC3ftRxXtykRqo1Y8tBeU29geh4mQAEW1aeK-Zg2gLCD3LCBdtV4oH0rFqqA-DqoDObseqtESVslyQL1I6_w4kv7/s1280/masya-allah-cantika-davinca.webp)

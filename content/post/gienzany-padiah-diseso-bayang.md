@@ -15,4 +15,3 @@ Da kanduang rindu denai rindu ka uda surang Rusuah denai kini jo mimpi mimpi Ras
 
 Kalau lah siang tabayang bayang Tibo lah malam jadi rasian Oi uda kanduang uda den sayang Ta gamang denai diseso bayang
 
-![Gienzany - Padiah Diseso Bayang](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVa8bl9X-1HNcCGwOdq7Y713lZgbL-KryhxU1bnTgXVkhDP4n_gHfCIUwvJ83oofTgEtHp46b_mnO78COCw7-7AdIw1ku8coMS6MhnOzYIc24li9bPYkLhpMofphRbh3c3lMJpxkmiks-WaFC0LU4YCTwNT1_AExPrZ-IEZwv5gGfCGGjuq6dRMDMYRw9L/s480/gienzany-padiah-diseso-bayang.webp)

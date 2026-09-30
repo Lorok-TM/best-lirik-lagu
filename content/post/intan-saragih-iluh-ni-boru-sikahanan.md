@@ -21,4 +21,3 @@ Lang tarbalas au Rosi attigan pe bapa Bujurmu na sadokah on Makkorasi ma ham Hu 
 
 Sonang ma ham bapa I lambung ni Tuhan
 
-![Intan Saragih - Iluh Ni Boru Sikahanan](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYf0IVUaYyWLP82sN0J2aUG7ZKF_emCmrJFJEaHbYnzGqrsOn5RKi_0u9mShVJrvJ4uD6lhvn9oL3YX9T1UBP1-KeOnlaELQppnilT0SDWGqIK7vMIHn7eE-BG_AL8j_QjEsWOPDiPaMIOYXk_bfaDALLCtn1Jwgh0h_rlMjQAmNqT60ujMI69H3mE5Zi3/s1280/intan-saragih-iluh-ni-boru-sikahanan.webp)

@@ -23,4 +23,3 @@ Iko mannari o rendengku Mu benna pa'kaboro' malambu' tongan Apa totemo den mo ta
 
 Apa totemo den mo tau senga' Ussonda batang kaleku lan penammu
 
-![Maneri Kupenassanni - Nelsi Marten](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiES3IBHAyXavtA5G92g4CRF6hWu4a0hU_8XE9b4kICa8YujTAMyvCANd_CSRmd3bKmK-lhAlMw9yC4h5-Ni-Lm8RtO4JZORT3NCwFnnbSPPt5lnNZkklPO0Qvko5qLDEdoRiSl6nReUG7YEwuHIPtCw52obD9SiFN5BbekkVPuUs-Y9wptDZ4nTK9QntRG/s1280/maneri-kupenassanni-nelsi-marten.webp)

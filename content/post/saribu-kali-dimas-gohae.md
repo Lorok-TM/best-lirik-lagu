@@ -25,4 +25,3 @@ Demikian lirik 'Saribu Kali' sebagaimana di atas.
 
 **Credit:** Judul : Saribu Kali Voc : Dimas Gohae Cipt : Petrus Gaurifa Arr : Paris Loi
 
-![Saribu Kali - Dimas Gohae](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLgMNJQBUETCKupBDLVwM4Amy-bFqa30Gub8sssA32WPM8st5pTzuxxTQujUKA-59-4JNOfG-5s0KZobGzITK_NQmRpyBQ29A74x3OUpW6G8NqK8LVH5tqvPixR942iDZi4mAfYXV52oZO_sPDVGzBL7TenN5k4rt1AJaTKNQgqoCpAbEhssIWzjK-Wo6M/s480/saribu-kali-dimas-gohae.webp)

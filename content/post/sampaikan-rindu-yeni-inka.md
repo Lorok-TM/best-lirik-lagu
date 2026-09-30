@@ -27,4 +27,3 @@ Demikian lirik 'Sampaikan Rindu' sebagaimana di atas.
 
 **Credit:** Judul : Sampaikan Rindu Voc : Yeni Inka Cipt : Ade Nurulianto
 
-![Sampaikan Rindu - Yeni Inka](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJtOxn63T_RNZoVJqPW4lFdpSlxiI1BtJqZNF6pykz8X6pV4XVYNJ-euPsizIH26H5qaQvTC4nh-7nInbYh9J7HLTNpvgMdG0omGnNnb5pboxwo2gOojnl47N5Fif2zAC5sOyVvzawj3fYGXBybWZODzEkYAXoDTCPRZRJXAgPnHkFDIEPqJ92f17ci_OQ/s1280/sampaikan-rindu-yeni-inka.webp)

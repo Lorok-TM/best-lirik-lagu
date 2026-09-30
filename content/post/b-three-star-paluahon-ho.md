@@ -19,4 +19,3 @@ Dang olo au ito gabe cinta cadangan Dang olo au ito holan persinggahan mu
 
 #Credits: Judul : Paluahon Ho Artis : B-Three Star Cipt : Indra Mora Arr : Barita Situmorang
 
-![B-Three Star - Paluahon Ho](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUXJ8yBeAu458PpwwDk-UdK0GUG_tSz5yJ556T23wErSDzEQOg1azdARZmE3wNUrnoa1R0mY0xzr5KMSjI9ZFhmAUUx_9nv9HHOOvMJr3VQzavsaBZe7Q_lsYPHiR8wTclb9exnmPS0H2X1ePZua7VdVDSMjl-bD4VKV42FQnijR4kAXCDaHU4sVzJMhCE/s1280/b-three-star-paluahon-ho.webp)

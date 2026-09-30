@@ -23,4 +23,3 @@ Kau di mana aku mencari Di saat gelap aku sendiri Harus kuat hadapi semua ini Wa
 
 Hmm hmm hmm Hmm hmm hmm
 
-![Zoe Levana - Kau Dimana](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGU9sq5mDieb3W4TSYoku7Nfx4rnM5keq4j85bl9B4iReYQY71H1kIHLH2RvDQb9x0dCqYxpv0pc4bvPIKlMUPIxd-fzdHuwwhFDQzq4pdmXX2bPOyWFLeVExWdGQArtphpTp8UB6xiljQldfXPB_11wdA0fRWP-TLv6jyiWAJs8CsU77eqNWc8ka6BLQi/s480/zoe-levana-kau-dimana.webp)

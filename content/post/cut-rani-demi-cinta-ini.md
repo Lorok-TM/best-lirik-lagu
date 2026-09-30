@@ -19,4 +19,3 @@ Haruskah ku biarkan pergi Tinggalkan luka di muara hati Andainya ku diburi rindu
 
 Biarlah aku yang mengalah Berlari ku bawa derita hati Pergilah sayang, pergi jauh Tak akan kau ku cari lagi, oh kekasih Pergilah jauh..
 
-![Cut Rani - Demi Cinta Ini](https://i.ytimg.com/vi_webp/KCkZMKVOh1E/maxresdefault.webp)

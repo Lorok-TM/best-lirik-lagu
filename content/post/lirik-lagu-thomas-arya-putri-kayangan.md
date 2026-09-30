@@ -29,6 +29,5 @@ Title : Putri Kayangan Artist : Thomas Arya Songwriter : Jeffri Lubuak Productio
 > 
 > Lambaian tanganmu mengguris kalbu Kau pergi tinggalkan kerinduanku Wahai putri kayangan
 
-![Thomas Arya - Putri Kayangan](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7pPipAlXqg24WHiUdtKIfuzanCiYDQ9JI6sc0vcdHzjHmHTBeVOMB_FpVfZcM0DSme5hdp4vf59GQjWKxWM3XqGeUPOlX-Fh_TVuNsln0w5YQvwnEdEjQDLwSjmooKQWMi2ZCtarJRMG7PfIf2tmGiiTvc6lgCRnDRbRMnrz-5ojVdGLAtUFTyp_briRM/s800/thomas-arya-putri-kayangan.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Thomas Arya - Putri Kayangan. Silahkan bagikan juga ke teman anda.

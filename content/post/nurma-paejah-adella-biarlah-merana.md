@@ -23,4 +23,3 @@ Namun kucoba slalu melupakan dirimu Menghapuskan cintaku Sampai waktu kan berlal
 
 Merana Merana Merana Merana
 
-![Nurma Paejah Adella - Biarlah Merana](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkA8y8Cf22rgK5gNF5R9gP6dMOGFTqsFILKvyYpXM8Ko6xvvwu697LDoVcCAtXVivtZA3CpdwHKcdP6IbwJVrVyAgZTEfgx6h-7Gwb5A_P_7c91tLPK-MIDsyr2KHJsCZvAW-5REgH6mJ84A3gleRnuIfP-XJBT82eRz3XY1zTEXPiIxYO3cduIfvgBT2_/s480/nurma-paejah-adella-biarlah-merana.webp)

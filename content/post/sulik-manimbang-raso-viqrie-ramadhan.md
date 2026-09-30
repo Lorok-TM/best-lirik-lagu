@@ -15,4 +15,3 @@ Nan runciang juo nan adiak rauik Iyo keadilan dima lataknyo Ragam dunia adiak tu
 
 Tiado raso adiak sadari Elok lah kasia yo kito urak Raso pareso kalau lah abih Sakik di urang sanang di awak
 
-![Sulik Manimbang Raso - Viqrie Ramadhan](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhYuEVVUl18tFOfeK_ECXBpiuJJJJsEeuffhsQU236BiGgcDZHXeAgs-_O4Xubo7uwY7gGWEcG8zZAwRzZnI5u92DyvAAuoPfKtjycTLkeosUe2OI3xMNQDp9GUJSZntPUQ99wyfnjgW6EkgU4-6KhNDyNzx-0bIrjp3JcVUMZA1OBnQyDqHdwuAdH2MFb/s480/sulik-manimbang-raso-viqrie-ramadhan.webp)

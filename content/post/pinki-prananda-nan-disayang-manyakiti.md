@@ -17,4 +17,3 @@ Hilang arah kamudi Tujuan nan tak tampak lai Kamano biduak nan ka di dayuang Kal
 
 Indak di Sangko si rigo rigo Pisau di saruang nan malukoi Indak den Sangko ka cando iko Urang di sayang nan manyakiti
 
-![Pinki Prananda - Nan Disayang Manyakiti](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZHReXw5Tr3py3pozi_BGmPhKXSHzfP88e1_lCH1gUgNKlI_fXiwRi46dZeRfveY8YQyWVpt8jnflXSF6RWWpjkW1rj1XPExnhFPOUiyNEE2knCQOBmWTsjUn1mWnTuSYHyFdpy5bYtnGQHLB9vEWK5yYPpwsN7lgBnRSmiL3DWSMqpIIIM94hCLOvT7rs/s1280/pinki-prananda-nan-disayang-manyakiti.webp)

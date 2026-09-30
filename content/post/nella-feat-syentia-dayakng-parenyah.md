@@ -23,4 +23,3 @@ Sidi reponya rasa ati ku Bisa mamuat samua sanang
 
 Sidi reponya rasa ati ku Bisa mamuat samua sanang
 
-![Nella feat Syentia - Dayakng Parenyah](https://i.ytimg.com/vi_webp/3u1y18O17jg/hqdefault.webp)

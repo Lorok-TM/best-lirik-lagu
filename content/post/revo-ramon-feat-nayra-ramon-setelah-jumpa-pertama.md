@@ -43,6 +43,5 @@ Title : Setelah Jumpa Pertama Artist : Revo Ramon ft Nayra Ramon Songwriter : Ud
 > 
 > Cantik menawan manis senyummu Ku harap hatimu secantik wajahmu Semanis senyummu
 
-![Revo Ramon feat Nayra Ramon - Setelah Jumpa Pertama](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuu4rVCYG-zpybM7uZzLNGZcjK2-VpQk_egkHd4p6z7w207f8FEjoXAaJLTBPRf1DJo9kCwdRgTc8EBiNS8chv-70SC3Xq84dmSa4SD0kyU_BT-yaw_M0qGWlErTAkx0TDLga7_FOtXBxQDL_NUVb_Fo-EP-rF6O-iDMowqXAn1dtUsRh_M4GdhIuWcw/s800/revo-ramon-feat-nayra-ramon-setelah-jumpa-pertama.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Revo Ramon feat Nayra Ramon - Setelah Jumpa Pertama. Silahkan bagikan juga ke teman anda.

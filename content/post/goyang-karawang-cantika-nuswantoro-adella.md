@@ -25,4 +25,3 @@ Demikian lirik 'Goyang Karawang' sebagaimana di atas.
 
 **Credit:** Judul : Goyang Karawang Voc : Cantika Nuswantoro Adella Cipt : Muchtar B / Booby Sitara
 
-![Goyang Karawang - Cantika Nuswantoro Adella](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjx6D3xR4OzAdfFcR9UeFZ-5pjP-TUHKDuf1Jf4dYl6zXmBph_4J70TaMQ3xqfDyvG-rlSAUAWNpBcUHkH5bFHLMMsehNf_JHzGEefmEF-n9xWRZ8nImcnFTYv_hiN7Vi7G6SaVmT7yisuK5xH4FdeT2nZfGPW4S_ao0ncYAC4GU5x0IKjNCY5JFcv0diSd/s1280/goyang-karawang-cantika-nuswantoro-adella.webp)

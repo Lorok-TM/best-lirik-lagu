@@ -17,4 +17,3 @@ Aku sadar aku siapa Aku sadar aku ini apa Yang tak pernah bisa jadi Apa yang kau
 
 Aku sadar aku siapa Aku sadar aku ini apa Yang tak pernah bisa jadi Apa yang kau minta Bila memang harus ku terluka Melihat kau bahagia Biarkan aku yang pergi Biarkan aku yang pergi
 
-![Biarkan Aku Yang Pergi - Pace Kribo Feat Valdy Nyonk](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYaiarRD0G3QpYDE2d7o4K62prS1dJTnIBV4GCvY3EZMpVW7SGVT13cf4HWJbuwL1Q2nvPuxV6_vn7jziB02u5nt9Dy5gwyKdVs8VK5YvhRlMe6dhBCFpz4Wwq6jhJcKf6UYSAek3aEI-QYXTLXdMgJn1cWhe-HeDOwqZ43G8ruhLq1nj80crSyQnlmKTO/s1280/biarkan-aku-yang-pergi-pace-kribo-feat-valdy-nyonk.webp)

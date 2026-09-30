@@ -25,4 +25,3 @@ Den kabek rindu nyo lapeh juo, yo nak mancari Urang nan dulu nan den cintoi, nan
 
 Tando sulik malupokan, rindu-rindu ndak tatahan Oi uda tolong lah baa, basuo kito sabanta..
 
-![Silva Hayati - Sulik Malupokan](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiajRMPHO28cRaNuFDRU_Z0HaU9OOYFXOD3YL2wNGhV8IIICos7Eo7Xr6eg1dYLiXu86vGIJqjd2-b2cbnh2FPB6b931RdIUkeofoGtAORpJ-IquBWXCBk3W542htqsukUXqbIrmt1IpaKYtdcCuN9Ra-FhOzgWd3YgJtgnDrv8R3pAdNjmP1Jf-8UYtc5f/s1280/silva-hayati-sulik-malupokan.webp)

@@ -21,4 +21,3 @@ Nimas mratelakake katresnan Nedya bakal urip bebarengan Sayang gandamu kang arum
 
 Tresnaku suci ubayane datan mbalenjani
 
-![Kasetyan Jati - Wahyu F Giri](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbFECi0tB6vo-txmkIN1eDzYJLx-5Jc1BW2FuFuHxqWJb1IZ0gah5axdop8FiB33pI7MHjOQUSsUSvM7U4DRRW6v34kiaaHLlG_zOPUR4o0pA-L5f-F2C1qvKmhoRy33U1GN2GucJhbTbEKdakR6_lCUfgsWJT2eOdgUEsomDk3baVL5CRjbLUxAoxUr7Y/s480/kasetyan-jati-wahyu-f-giri.webp)

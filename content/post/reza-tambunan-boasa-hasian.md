@@ -15,4 +15,3 @@ Hape dang sadia leleng hasian Gabe muba do janjim dang songon na ujui Didokkon h
 
 Boasa hasian Boasa hasian Ingkon pajumpang au dohot ho Boasa ma ito Ai tung boasa hasian Dungkon marbunga holongki lao do ho Dungkon marbunga holongki lao do ho
 
-![Reza Tambunan - Boasa Hasian](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijGINtVNaCsSG7eQqYg23ivMN0lpvN6kl5PyKxmQUJdl7xJQHDk2oefXQkqXYWBH7D3_CfgudrF8ftWa4sNOzPGQD2YIVYCMJbtTcB_zRzyrjbL4Rf61kwfRVDFsDrnD-CO8Q2NXKrTL-hqGYRsuHooQHtgm3TzXTa2w63ff1JjdPMICV3kKggUqyaWcUC/s480/reza-tambunan-boasa-hasian.webp)

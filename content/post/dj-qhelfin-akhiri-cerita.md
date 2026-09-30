@@ -31,4 +31,3 @@ categories:
 > 
 > Sa akan pergi bawa rasa di hati Walau sendiri bertahan dan tertatih Ado sayang kenapa ko buat begini Cukup suda sayang tong dua sampai disini
 
-![Dj Qhelfin - Akhiri Cerita](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhi6_NOWiHaMZOTtUIll8uPa4VDviGRgEn6xzcl7RIdFvL44IFSGskS8rZBpkGZIIA1HX9yqgmenGGGDDPOHU8rVCpHsDiXiWAZBchnro2Oi4LHFQYuyOVS3u4KB5IfBZ4u6FiftFljwFWVXPo-Dqjboq_43VJtTVlM_cehcCubFEVUH4aHMbnFGyCEJg/s800/dj-qhelfin-akhiri-cerita.webp)

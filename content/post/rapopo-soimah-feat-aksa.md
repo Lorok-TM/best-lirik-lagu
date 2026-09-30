@@ -35,4 +35,3 @@ Demikian lirik 'Rapopo' sebagaimana di atas.
 
 **Credit:** Judul : Rapopo Voc : Soimah Pancawati Feat Aksa Uyun Dananjaya Cipt : Soimah Arr : Balance Putra
 
-![Rapopo - Soimah Feat Aksa](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwoQcivcMqw58_UBFWMzqDfldzv-CL6lZbBt2gWRN7G24NGjjEjNXfEfSISGCU2IBMJZK4YAnL3xbc8nfmGc_i6wnGxGZFUddH261eHbaqq1Yfwb6wymUcHfwarlH1IAvLzcC1bekdgdmzGKCh0bPWKhrywXw5tBpX110myGpPwWQwpjMx9AOjvISBvYNc/s1280/rapopo-soimah-feat-aksa.webp)

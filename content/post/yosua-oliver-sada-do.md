@@ -19,4 +19,3 @@ Torop pe bintang na di langit hasian Sigarani api sada do Torop si boru na jogi 
 
 Anggiat ma nian holong ni rohami Holong ni roha salelengna
 
-![Yosua Oliver - Sada Do](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglf6P6vabfA-4rCidMaP9sEJ18UlbydWKz6Rkf54UndKwiFsrLrRtMJrFCwft0MNAPpT5YfDgYsIP5ig-zZWbBHa8kWHBhwKuRR-vp7H6I3vo5DOzDPGXBt4cf2wut7Awp-lzp_CADu5EwLpBBVRyA2Gh5e5CDIJmDSpqF35Ngqgsh9qhA8t6pFKM2WK10/s480/yosua-oliver-sada-do.webp)

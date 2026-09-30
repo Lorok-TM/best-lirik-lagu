@@ -21,4 +21,3 @@ Unang tangihon hata ni jolma Nang pe lea hita amang diida deba Gellengta i ma an
 
 Gellengta i ma anggiat hasea Marsogot haduan lao patudu goarta
 
-![Merry Sianturi - Hata Hata Ni Jolma](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwX2KovFGlVstxBm-bIHVjI57T7pLOCSUHPcnRkhmDnvTWBlT7whDo5P7GEZrjCZF_OAGd33eQ7eIiahcGGjRla-qUjAeW25U9-84W6KUnBlesdb7v6ujR3VwMo52HOwfg1TY5a1OOmz8DeuYmGDttH1PoSaKfZ87z6fbJvFnV2oBY4x9RbiV3ZXT7d27k/s1280/merry-sianturi-hata-hata-ni-jolma.webp)

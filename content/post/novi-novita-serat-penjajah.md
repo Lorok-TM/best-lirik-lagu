@@ -19,4 +19,3 @@ Podo sambat podo gletak Podo ngatang tanpo nyowo Separan paran Podo nangis ra nd
 
 Tegal sawah, tinandur kapas Tinandur kapas penjajah negoro Rojo koyo di rampoki Dibegali antek e londo
 
-![Novi Novita - Serat Penjajah](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0xnorqR8gwulh6AuuqiLXTWvN29A3hNK65143Z2m_hnFgWmzHuO6FQYF8O9J32uN3OXjQb4G98YKdYHB6R8iFjO9JAkBDGusl4bJ9XPTKLKFw9rmKKXpSZvAo-UNBDsEldfGqhjTmLVL01uPmGPe8C5kFyiOwsy7gQsySWeGjpf-CaZUOThgga5wgeF18/s480/novi-novita-serat-penjajah.webp)

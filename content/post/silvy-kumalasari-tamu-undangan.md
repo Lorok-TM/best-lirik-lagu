@@ -25,4 +25,3 @@ Alasanku milih de’e mergo kowe nyepelekke Kerep pedot bertahan soyo abot Koe r
 
 Minggu esok adus mruput gas tipis ning resepsimu Nyekseni ijab kobul koe ro bojomu Statusku mbiyen pacar saiki tamu undangan Kelangan koe aku oleh ijol prasmanan
 
-![Silvy Kumalasari - Tamu Undangan](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7C6yr02AtdpjEn3jE9NOUeNtA0jYL_OBkVwW5tbJB8aWNdYlzV0rqKM_k_Qaw2c6kZI0P71GeWuyK09Ik5EZeIzdjJS_C26a5xeXdGoLyEl8MKs07xCnbEU1luvohNSZEbUKORhNxLQwPE4s1sAdedUB_oNuXQ4ZYP5HJ4MRaeclatCZmHx6bvOg43412/s480/silvy-kumalasari-tamu-undangan.webp)

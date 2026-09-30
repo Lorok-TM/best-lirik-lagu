@@ -25,4 +25,3 @@ Gomos mangido rohakku Jaga golom janji naung tapudun ito Unang be bahen au taril
 
 Cintakki pikkiranki Tu ho haposan ni tondikku Bagas tung mansai bagas Lobi sian na binotomi
 
-![Jun Munthe - Lobi Sian Na Binotomi](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFNd5Xqsz3RoMMtbuREdXXNzLmvjdR7Sd5Lieu5PVEhsD0jXNjOXRHi9VDerubeucq9w2UvF_ni-Yc1fVspbRNuZvXKqHkDqDNoSNk-dfaTGiGx9OWz0EZEXO4xKZYrs3y5pQVbVAdaEQy5SS-feKgyQm9nrvJ7xve2GtMP9KznXJgIzu4BqQtc3Xnb9q9/s1280/jun-munthe-lobi-sian-na-binotomi.webp)

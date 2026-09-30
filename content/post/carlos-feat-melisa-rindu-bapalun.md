@@ -21,4 +21,3 @@ Adiak takuik bapindah ka biduak urang Angin malam usahlah di dinginkan bana Nak 
 
 Rindu di hati yang denai pusarokan Nan den takuikkan adiak di hampeh galombang Rintuah hati den adiak manangih di dado den paluak Indak kahandak adiak kito bapisah Lai den sonsong badai baraso ka tanang galombang Adiak takuik bapindah ka biduak urang Lai den sonsong badai baraso ka tanang galombang Adiak takuik bapindah ka biduak urang
 
-![Carlos feat. Melisa - Rindu Bapalun](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLrlwXsOoJyiHenY1Ezhqc69cC1vopNnkLD8JkAeHW2fbCjXTHP8crzPwGnC3bBqdTaMY-ZNNeFeeSAN-7VcgMtanAXtYmrX-FusauiTMrbp5G2y2GuRxxY95jRmAxaYWk_3GPAn-OvYkC4ap4pIXRg0FxQYn7iZ-m1bdXniornyPJL2GziqDbPftDffv4/s480/carlos-feat-melisa-rindu-bapalun.webp)

@@ -5,7 +5,6 @@ categories:
   - "indonesia"
 ---
 
-![Mahalini - Percuma](https://raw.githubusercontent.com/Lorok-TM/2026-08/img/mahalini-percuma.webp)
 
 ## Lirik Lagu Percuma - Mahalini
 

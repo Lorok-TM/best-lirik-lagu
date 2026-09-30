@@ -17,4 +17,3 @@ Nggrentes lara perih Rasane di hianati Terang terangan Selingkuh ning adepan
 
 Lara ati lan perasaan Wis cukup kanggo pengalaman
 
-![Harryz Ariangga - Dihianati](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjp2kvxTVKju88NCLz8_CBMxAeke_SY1c74CvHnffCNrZs_qW6oyLwAyGOhOntsiZKxv9O0oD4Plyrw0HZRWe0V2Fu1qI7jHyHAsbb4KBSHZWAPa_4q9dcixb1yg_IbZXxiLd1uW3qx3U2UMgNo5Z1WFECRGrtbMzOQKHiBbQTr47OXpN-E9DhX33PRgxAX/s480/harryz-ariangga-dihianati.webp)

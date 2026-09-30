@@ -33,4 +33,3 @@ Pre Hook : Mentang-mentang kita sayang Kong nga stell bermain akang Aduh skip sa
 
 Hook : Mentang-mentang kita sayang Aduh skip sayang Mentang-mentang kita sayang Aduh skip sayang
 
-![Idal - Susah Mo Dapa x Velocity](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaDYcy0sfRTA0pP6FK3gCRqJmUh2GK4yrBEXG0yu7BoXXbFyLdpu_3IR4GL0GmSIB74sfuLhlksCd3erHNQZBLmZaa2MSRtPUMyh0hBS2qS7CTx6T3yHimXgdHBBSdI86IKQKJ6qIZYMdgti-3s7q8dspdNF_SOAaMkenoAsRG5lf4icRYbsuXlNZu0Dvu/s1280/idal-susah-mo-dapa-x-velocity.webp)

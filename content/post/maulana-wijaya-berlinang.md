@@ -27,6 +27,5 @@ Title : Berlinang Artist : Maulana Wijaya Songwriter : Ayu Rizki Yani Publisher 
 > 
 > Berlinang jatuh air mataku Saat melepasmu duhai kekasihku Dan aku terpukul sangat hancur sekali Patah hati ini dibuat olehmu
 
-![Maulana Wijaya - Berlinang](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJwbqGQELflNISTXy9UiA2V81rIwB6e4luK2yxijwVZg-lN9RNNzOndtvRaMBdpQQE4A8oZWXAOQBL5Nu14X7ywqIafQ9GG07d_PWXxZH5uwygv6tgGkD2LR-L5YM8rMck4VUYX4O7wUkef2pwWu5teDJv0eHX_ZCou-wiew-YnmJxhEQEMZFab6M8hw/s800/maulana-wijaya-berlinang.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Maulana Wijaya - Berlinang. Silahkan bagikan juga ke teman anda.

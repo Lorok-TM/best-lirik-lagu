@@ -15,4 +15,3 @@ Hana manô ndarugõ Walõsa'oroma'õ Lumana mbotogu Mehaugõ ni base base'ó Akh
 
 #Credits: Judul : Manunó Nunô Ndra,o Cipt : Ir Frans F Bate,e Cover & Musik : Seti Zalukhu
 
-![Seti Zalukhu - Manuno Nuno Ndrao (Ir Frans F Batee)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQ330gFrXwwzbhGIioFQxcaLB9fYpYrFEolct7qH1YOc51BqUNo-231WA0DeN8jdWd86hOnLi-gQ0KgJ8Gb88k7e98b8cptOQb3ysdnX9EJBzdEPIfxpB1NJo1wXm-8cjyOWMnXIWyjQLMNW9KcWvjHhx23_BFOeNXzHiou3xoDGITJK2sTuT_NHjC8lXv/s480/seti-zalukhu-manuno-nuno-ndrao-ir-frans-f-batee.webp)

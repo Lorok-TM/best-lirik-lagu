@@ -33,6 +33,5 @@ _Bunga Tresna = Bunga Cinta_
 > 
 > Bunga bunga cinta Akan ku serahkan Ku jaga dengan baik jangan sampai layu Selamanya harum dan suci
 
-![Dewi Pradewi - Bunga Tresna](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTNt1YThyphenhyphenczaKjV8ieClHdTh2Dif2CZIbUz3sH49pxu2WxuQOQJZaOXWZywjOJry30jTM4BnADmZcInx7c-BJ_ptDsuBZYc5aqnRSC-FoD0qXeWOz8C6-kJTAKzo0TmT0Wxwfz8wKj9hYLDrUaCZ8EgP0YsDzR4AgwV9tzKTgh7pATTQ_UdL6bjq14VZMz/s320/dewi-pradewi-bunga-tresna.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Dewi Pradewi - Bunga Tresna. Silahkan bagikan juga ke teman anda.

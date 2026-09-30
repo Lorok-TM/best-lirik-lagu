@@ -29,4 +29,3 @@ Madu yang ku berikan Racun yang kau tinggalkan Apa semua ini hanya sandiwara cin
 
 Kini ku relakan engkau dengannya Bila itu yang terbaik untukmu Pergilah kau dengan seluruh cintamu Ku terima semuanya sebagai pengkhianatan cinta Ku terima semuanya sebagai pengkhianatan cinta
 
-![Vicky Marchel - Pengkhianatan Cinta](https://i.ytimg.com/vi_webp/1wvDQveCmGU/maxresdefault.webp)

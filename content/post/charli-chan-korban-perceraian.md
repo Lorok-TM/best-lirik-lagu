@@ -25,6 +25,5 @@ Title : Korban Perceraian Artist : Charli Chan Songwriter : Annisa Fadila Produc
 > 
 > Ibu maafkan aku Bukan tak sayang aku padamu Ego yang kau turutkan Membuat kami kurang kasih sayang Kami yang menjadi korban
 
-![Charli Chan - Korban Perceraian](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3UDNcb9u5EVAPm0KBmcj5HcuOuYK57HSvCKpJSLCtb1Fida51it534TD3kfQSH1WwLZ0LpQFbWJ3zLxS3700zJolLp0t6EiqOEpCZ6UeadkaCLXMIA8ROszkG1bReSg6yzz3Yw5gB-ujfh53ctASOeUDFs5xKK0iCl1LJ_DIPm_xLI-XEZZLid4Cusg/s800/charli-chan-korban-perceraian.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Charli Chan - Korban Perceraian. Silahkan bagikan juga ke teman anda.

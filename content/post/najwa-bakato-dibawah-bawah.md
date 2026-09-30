@@ -5,7 +5,6 @@ categories:
   - "minang"
 ---
 
-![Najwa - Bakato Dibawah Bawah](https://raw.githubusercontent.com/Lorok-TM/2026-08/img/najwa-bakato-dibawah-bawah.webp)
 
 ## Lirik Lagu Bakato Dibawah Bawah - Najwa
 

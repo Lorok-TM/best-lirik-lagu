@@ -15,4 +15,3 @@ Chorus : Tak terasa air mata berlinang.. Ku harapkan dirimu ibu yang datang Beri
 
 Hanya do’a yang bisa ku kirimkan.. Saat hatiku rindu padamu ibu Bila tiba nanti waktunya Satukanlah kami di surga.
 
-![Zeefana - Rindu Hadirmu Ibu](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXtv21Sbc8gxi7wRmAo7vD8g_4ErMW44TR3DWdv8XP-_zhjMh3a3KxTNSoCffcyG48SGXyB9WMrRLcjnshVMYQyLM3VO3VG9pye7di7WGi5g_xi0bdgMf6NlWgyBzqoWf0wKUkV-ZvrkLxJwuD-uU7n0-t3hVfHpVYfPr0IuTfCgwsM8agEeydlh5RZCf8/s480/zeefana-rindu-hadirmu-ibu.webp)

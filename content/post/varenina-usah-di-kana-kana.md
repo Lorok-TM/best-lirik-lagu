@@ -29,6 +29,5 @@ Title : Usah Di Kana Kana Artist : Varenina Songwriter : Roza'c Tanjung Publishe
 > 
 > Maafkanlah denai oi uda Diri nanko usahlah dikana kana
 
-![Varenina - Usah Di Kana Kana](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqYCg2lVXZXGzH5AR-FrGl5nLsc5odmdC4_yfIIk-wBCY1x6n008Nu06bb-MO6WDZXEuh2amTolBazC56PoMwVVRPwhIEIa6MQnItDjl8F7T1Po-vVhLH0YLe4rNPwAS18aJXF7zuRVtxaT4xSp0nlRD0Oi8daeeSqssUWRO4ejIGfM1oXryitrLkQww/s800/varenina-usah-di-kana-kana.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Varenina - Usah Di Kana Kana. Silahkan bagikan juga ke teman anda.

@@ -33,4 +33,3 @@ Demikian lirik 'Jom Raya' sebagaimana di atas.
 
 **Credit:** Judul : Jom Raya Voc : Daiyan Trisha Feat Alfie Zumi Cipt : Daiyan Trisha
 
-![Jom Raya - Daiyan Trisha Feat Alfie Zumi](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTrGH37XfhSi3PwncKPHRZAwkJ0QNmy0RkEO5eZaW89gSQYH67njbTMh3shD4p0E22A6c9B0XLnK-z9ND972l_dlz1gnHNhttIVa-vph0Bh5XwUJIXgAU4zr5oeiJ-pgpkXkUId6yIkdfl6MmK65YHNwC_xiaSaXpvGTyretljZx4O6kcqDybaW6Hf42-H/s1280/jom-raya-daiyan-trisha-feat-alfie-zumi.webp)

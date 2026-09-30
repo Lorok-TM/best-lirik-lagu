@@ -23,4 +23,3 @@ Raso namuahnyo hilang cinto bakasiah sayang Bialah mahapuih bayang
 
 #Credits: Judul : Mahapuih Bayang Cinto Voc : Bigheru Cipt : Nav Ws Arr : Iwan Romeo
 
-![Bigheru - Mahapuih Bayang Cinto](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7hPHa3eEHSQDnM28uSEw9xNUZ5n-xceHAzjWPOeZKomuS96dL8TZuc5a6XcW1yMxsdJffkcvHgmoIulPcmiHMqyTVnZeYB-aQ8Al04CeK9wNeQHpJabFbVRNa8ivYAIxIhoLYT4BcOm8JCURn_BfDoJC5ZC5SEGmq50N2y_-ScQo0gCBnTVphHGqxocmU/s1280/bigheru-mahapuih-bayang-cinto.webp)

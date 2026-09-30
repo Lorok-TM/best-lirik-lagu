@@ -27,4 +27,3 @@ Mengapa sanggup engkau Berpaling dariku Di saat aku sayang padamu
 
 Teganya dirimu meninggalkan aku Demi dia kekasih barumu Kini ku sedari bahwa cintaku Tak pernah kau hargai
 
-![Cut Rani Auliza - Teganya Dirimu](https://i.ytimg.com/vi_webp/mX_u72cVMXk/maxresdefault.webp)

@@ -15,4 +15,3 @@ Aku tau engkau menyayangi aku Yang kau tau aku hanyalah milikmu Tapi mengapa kin
 
 #Credits: Judul : Sayang Disayang Engkau Menghilang Voc : Anggrek Cipt : Faisal Asahan Arr : Decky Ryan
 
-![Sayang Disayang Engkau Menghilang - Anggrek](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf3goGJmeARGga3Nby6JDnSoaxvqEVvxhiPN5ilCv3HI6gEyAlg1mqNon8qXili-gcubeZAIbbBpkPzUzaSo6iw-xmuP52Og0olTG4IR-Q4cZGsb5sPmchg2UwsPDFqKCjSPAWqyHMIsJxWZ-2wWtILE5pfIMsA8f3x4McCy0d6kH8tSQhVnJInnRu2sM5/s480/sayang-disayang-engkau-menghilang-anggrek.webp)

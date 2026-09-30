@@ -9,4 +9,3 @@ Sakareh karehnyo denai lah bajuang Sapayah hati manahan tangih Hinggo taibo hing
 
 #Credits: Judul : Di Ujuang Rantiang Nan Ratak Voc : Dabee ft. Indah KF Cipt : Safril Saha Arr : Ajay D'ricko
 
-![Di Ujuang Rantiang Nan Ratak - Dabee Feat Indah KF](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTQyOTgnkU6ArO2pKRtHPuqmpWs7paRx3KkeLEsZ0pDLRx6Lb0R6-rBlpyn7zHUqy3V-oJ0J6jyXxUIX2dZemzoGR4hcjp3ozcJxFBSSyE0XNYHdcvjJXnMAYNu_GzQbl1IMQrrDwb1agsI6-OJqlc8U-DraUFdxSrER7lsy1TcQ2ouQpK_fELR3Mmu9cO/s480/di-ujuang-rantiang-nan-ratak-dabee-feat-indah-kf.webp)

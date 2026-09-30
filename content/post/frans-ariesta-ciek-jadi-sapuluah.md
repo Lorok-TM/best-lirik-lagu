@@ -25,6 +25,5 @@ Title : Ciek Jadi Sapuluah Artist : Frans Ariesta Songwriter : Ajhay Pasma Produ
 > 
 > Sarahkan ka tuhan nan kuaso Tibo masonyo ka sanang juo Tibo masonyo ka sanang juo
 
-![Frans Ariesta - Ciek Jadi Sapuluah](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFFTsH6kelR-iGzbfoetkx8tXmDblYJJvfWT5EZqo4abZ6fMHBrLFizFdLsmJlLjlxFx8uDZ--xQmNIcz4Au1NyIDFuPEvnI5uQzPFHesdXNycRVLU3fNW00WutBWx-ulx_kR-_c8_no9A5yQ7e9VLVpq2QtGVmDctbLJDJVfA7gbToEMon7YjDChnoQ/s800/frans-ariesta-ciek-jadi-sapuluah.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Frans Ariesta - Ciek Jadi Sapuluah. Silahkan bagikan juga ke teman anda.

@@ -5,7 +5,6 @@ categories:
   - "indonesia"
 ---
 
-![.Feast - Nina](https://raw.githubusercontent.com/Lorok-TM/2026-08/img/feast-nina.webp)
 
 saat engkau tertidur
 

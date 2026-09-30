@@ -36,6 +36,5 @@ Title : Sang Dewi Artist : Five Minutes Songwriter : Irul FM Executive Producer 
 > 
 > Hoo oo sang dewi siapa dirimu Membuat diriku menjadi lelaki Tak berdaya oo oo Aku tak berdaya
 
-![Five Minutes - Sang Dewi](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCbGq2wEKdJLfjeED8XkClKzCD6TtOyhO5Xj9AMpCs8Mp6bHPf_EHTllpHRtlS3gesjuSlQin3iL36OSvFUYSEGn4KBk7zpPj6Oco3qi1FVxmjwDR_-d3bdO40aLIOo0kdD8UFv-C_zWYf0oQLjICjPlHL9Ll7Bq5cDmFsOoSpJXL_We4M2avXlqmUEQ/s800/five-minutes-sang-dewi.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Five Minutes - Sang Dewi. Silahkan bagikan juga ke teman anda.

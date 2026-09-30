@@ -37,6 +37,5 @@ _Ada Sing Ada = Ada Gak Ada_
 > 
 > _Ada gak ada aku tetap ada Bukan harta ukuran diriku mencintaimu Ada gak ada sudah biasa Yang penting kita sudah berusaha bekerja_
 
-![Ayu Saraswati - Ada Sing Ada](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDqlrIJs_OjosIuNS4itzNY3sLYtmvjocqrNLxdvA-dkuyPsWcNXz5tfJ8d_bck8QBfhqI1Y9p0ehjXFos0U2SqL-9ygDSqewje-PmJMh6RzGVaazKHvdlMSvGQsWtP2MX0fMUuMHbGQRwng89qDXW4YK0fUq9roilcqBDaib8d7-wxW_LfQjFY3eAHA/s800/ayu-saraswati-ada-sing-ada.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Ayu Saraswati - Ada Sing Ada. Silahkan bagikan juga ke teman anda.

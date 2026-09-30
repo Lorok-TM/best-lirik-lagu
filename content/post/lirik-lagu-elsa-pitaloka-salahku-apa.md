@@ -35,6 +35,5 @@ Situs bestliriklagu.com tidak menyediakan chord dasar / kunci gitar / Mp3 lagu S
 > 
 > Salahku apa dosaku apa Sungguh tega kau hancurkan semua Kau buatku kecewa kini ku jadi merana
 
-![Elsa Pitaloka - Salahku Apa](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOfwTDXVS5H3Bkog8J0PGmrFC11EV1zwdDock10h3q32dx69f9i7X_cMMWEwwz498xhOFSFOjJop-Kwfqw04DA1UleZAjckLTF9gpnnJ4u9BUU9nJtKgdYgRWwV3Rv3ZVNc6VTXm_K64H5hhozM-e-QM-Eegc5y6yUIzNGVWX4vrCSeTjheu1LpLehJA/s800/elsa-pitaloka-salahku-apa.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Elsa Pitaloka - Salahku Apa. Silahkan bagikan juga ke teman anda.

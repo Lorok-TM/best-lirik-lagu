@@ -21,4 +21,3 @@ Jangan-jangan sayang Kau bodohi lagi aku Dengan semua ceritamu yang palsu Jangan
 
 Jangan-jangan lagi sayang Jangan
 
-![Harry Parintang - Jangan Lagi](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgou_aFStCJy_t5mt2yffqLlr1yPNaUiShfTfRKgJAif_vP2FhzPh8lJKR1wQZ0kRr-fNCnJmDoF-TD5pHNviCshTN7jsh8MaijYCkT2K94kXNLFhaXqgsMRg7OlHUh4gifS4fsmcSFH-bQcl-_VHY4kOPmsCLsUCb3wJJ3Y-JNMDZLXPRFk3oSZ9uQ3qWS/s480/harry-parintang-jangan-lagi.webp)

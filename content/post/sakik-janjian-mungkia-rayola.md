@@ -27,4 +27,3 @@ sumpah janjian manih kironyo rancak elok di bibia maratok hati manangih dek janj
 
 dek taluko pandangan elok buruak jadinyo dek taluko pandangan elok buruak jadinyo
 
-![Sakik Janjian Mungkia - Rayola](https://i.ytimg.com/vi_webp/kqJTj2sadRw/maxresdefault.webp)

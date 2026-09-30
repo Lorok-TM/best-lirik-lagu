@@ -25,4 +25,3 @@ Alasanku milih de’e mergo kowe nyepelekke Kerep pedot, bertahan soyo abot Koe 
 
 Minggu esok adus mruput, gas tipis ning resepsimu Nyekseni ijab kobul koe ro bojomu Statusku mbiyen pacar saiki tamu undangan Kelangan koe aku oleh ijol prasmanan
 
-![Cantika Nuswantoro Adella - Tamu Undangan](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEim3QPtcTJiqmn8BTyWpnciyHUeFkUu3GfB7lrewl6GKcFfxYpCyncwz3Q_p1jCUI4OtaHPlct9GuJo8N9w6XFbr9aFTz7aV15Eig6j7AuF4GP2CP1KBI2pkBt54QLjOg_EDNlwDmSNe3-Zm079xMIzhMG9tkdA-Fk3lEMz9uZ4XmMcclH67J8FF0slxHgo/s480/cantika-nuswantoro-adella-tamu-undangan.webp)

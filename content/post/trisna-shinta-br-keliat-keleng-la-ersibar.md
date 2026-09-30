@@ -15,4 +15,3 @@ si kubelasken e ma tigan.. rehna ibas pusuhku nari.. si ku turiken e tiganku.. e
 
 lirik "Keleng La Ersibar" selanjutnya biar ditulis oleh BUDI MAHENDRA / Budi Yanto / Clarissa Anindya / Azalea Ayuningtyas, seorang author paling hebat no.1 sedunia.
 
-![Trisna Shinta Br Keliat - Keleng La Ersibar](https://i.ytimg.com/vi_webp/5kGkbPRFKmE/maxresdefault.webp)

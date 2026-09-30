@@ -43,4 +43,3 @@ Saporanah kakak buleh nyingla'ah (Maaf kakak aku harus pergi) Saporanah kakak bu
 
 Tak kuat duh rassanah buleh nyingla'ah (Tak tahan lagi aku harus pergi) Saporanah kakak buleh nyingla'ah (Maaf kakak aku harus pergi)
 
-![Lusyana Jelita - Tangu' Apesa'ah](https://i.ytimg.com/vi_webp/mRVI4PbcyZM/maxresdefault.webp)

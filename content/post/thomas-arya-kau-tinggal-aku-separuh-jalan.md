@@ -25,6 +25,5 @@ Title : Kau Tinggal Aku Separuh Jalan Artist : Thomas Arya Songwriter : Aprilian
 > 
 > Cinta memang cinta Memang ku sayang Kini tlah berubah menjadi sesalan Ikhlasku terima Luka yang kau beri Biar ku sendiri Sembuhkan luka di hati
 
-![Thomas Arya - Kau Tinggal Aku Separuh Jalan](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqo9K1On4F1ZUh9n21TU2vZK5ewdF7AZtLGrrg0xQzAu8b_wB25g3y7k2KmSnyyVpKxKXaSNpwdHi6J3Ta_5Osr2-fbkR_9PjqZ0rXvMyuI688_LA0sVXm7gQqn2fSM25y5H_tmG26Lxx8NouuRMB73AxyNWJIz4YLfS48GQ0mgkf0YL_t0ZSoHhuaZQ/s800/thomas-arya-kau-tinggal-aku-separuh-jalan.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Thomas Arya - Kau Tinggal Aku Separuh Jalan. Silahkan bagikan juga ke teman anda.

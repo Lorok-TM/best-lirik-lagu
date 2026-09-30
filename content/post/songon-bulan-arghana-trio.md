@@ -19,4 +19,3 @@ Tangiangkon au ito nimmu tu ahu di nalao borhat ho Mardongan ilu do au paborhato
 
 Malala rohakki malala ate-ate
 
-![Songon Bulan - Arghana Trio](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglU6Dn069Q77QYHVW0WmsNmiTaquth4gBe6qevLrn07lblTiGDYwMf7SkvlxGR-eEyskO5g_3XAxWhZVA1I586baNXrPoGv6Ixy7w_TkzyvfkOpDcaQCbf7n6ItPiF2AGjW0toI_8HP6_HQn95tNJuZ2TkfSukHFlvClp2MdHdc5J4tKsBhvPYA26fq_5p/s1280/songon-bulan-arghana-trio.webp)

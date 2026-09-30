@@ -25,4 +25,3 @@ Demikian lirik 'Hanya Kamu Yang Ku Cinta' sebagaimana di atas.
 
 **Credit:** Judul : Hanya Kamu Yang Ku Cinta Voc : Emen Seran Wilik Cipt : Emen Seran Wilik
 
-![Hanya Kamu Yang Ku Cinta - Emen Seran Wilik](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRkR6VMNH6nbY6qG0Oi-mWXm6Rm1uHjxhGnQsPahx-56B6UxkBFPnau7Bes_TblKUQ2ibHxb2-zJLRFj7U23jtOOitSh6VNNO8j1YVbGFL-pxPDTw1oLFiqucHMEm5LIFTvRUi18k6hSUK3xbU-dvR78I-dPajtrUTasHFEH2KWqt0iYVQHNMWw6EGuiMi/s1280/hanya-kamu-yang-ku-cinta-emen-seran-wilik.webp)

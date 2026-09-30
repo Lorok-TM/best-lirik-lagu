@@ -23,6 +23,5 @@ Title : Orang Ketiga Artist : Cut Rani Auliza Songwriter : Mansyah Saragih Publi
 > 
 > Pergilah kasih Tinggalkan diriku Ku coba bertahan walau hati terluka Karena kecuranganmu
 
-![Cut Rani Auliza - Orang Ketiga](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicY9-7UtfZ2KlZ3jLNHQcu2VVvJpfWO6FXqHMxXFPZMjb7C6DiqMX0fCY67KdFDQhY94wcRZLg18nCyblNSHF0cHC7RfETo6ia-cEPXZ24IDKiBVhvd029EB1MmS0q-Z7srcnScaSemeBzIX-lOoUqbKrqg3DehAqrdJZXxLhMNU9Bi87760mp9-PxqQ/s800/cut-rani-auliza-orang-ketiga.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Cut Rani Auliza - Orang Ketiga. Silahkan bagikan juga ke teman anda.

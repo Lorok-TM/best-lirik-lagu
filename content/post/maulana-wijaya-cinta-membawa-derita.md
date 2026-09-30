@@ -29,7 +29,6 @@ Situs bestliriklagu.com tidak menyediakan chord dasar / kunci gitar / Mp3 lagu C
 > 
 > Sucinya cintaku Hitam karna dustamu Pandainya kau merayu Hingga ku jadi korbanmu
 
-![Maulana Wijaya - Cinta Membawa Derita](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpcjwJBUumvanS1tGWkI2p2tmuuxVM84ahzw4kDWFThprzhZuZFo7tcB1GRh80eB_9bWtWCH9OfYdxO00-ftcYMiHzwZh_IvgNHtMkZxJ2r9nabYa6BqMOfWlc93n8w_aYTt6boVPGwqPqE4BRToUOj1aBq_Qn6j107b1-qCXk_pCDyI8L4TLVY2Lzotsb/s800/maulana-wijaya-cinta-membawa-derita.webp)
 
 Tujuan kami berbagi ini ialah menyediakan dan menambah sebanyak mungkin informasi arsip lirik lagu untuk mempermudah bagi Anda yang ingin menghafalkan lagu Cinta Membawa Derita ini, maupun belajar bermain musik.
 

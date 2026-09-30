@@ -27,4 +27,3 @@ Kini engkau meminta Doa restu bahagia Relakan kisah kita Manis yang ku berikan P
 
 Aku terima Semoga engkau bahagia
 
-![Elsa Pitaloka - Manis Berakhir Luka](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8ddET9l66kbX7tM-nmBaGbdaS6ZcgyvlB44e-HVUNLQQ5uvZnf-nVM-0QTbz92UeuqGocTxVCG98o2q7yedSXMfDYdx78TFlp3JqZJ4dtGTnhVYmNIQ6QBxAckduP7hYOLXr0lKnozkV-pjIklRJisjVOr5X2g72GNfFBo3HX4_Y4iyki0zJgToWF1tzr/s1280/elsa-pitaloka-manis-berakhir-luka.webp)

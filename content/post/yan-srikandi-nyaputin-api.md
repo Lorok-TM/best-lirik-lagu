@@ -27,6 +27,5 @@ Title : Nyaputin Api Artist : Yan Srikandi Songwriter : Yan Srikandi & Mahardika
 > 
 > Percuma bibih adi ngorahang cinta Nanging solah adine Ngae kenehe terluka
 
-![Yan Srikandi - Nyaputin Api](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAXSIiEgOBoqzmOQVmWrqOzXOirBRUh6Ll18XW-_IWyQ0PQKBIfWHHPmQb3IV6RfJZ9QgwjpOuSJc_vj995iZA23Mxy4FlSEE1iAGkgoaP9oqQvhkBbGQvTb0n1qHR-qT6fc_WiXYrytpgI2MJ1Cvn4VagnTApsRG85kM7uzWZmmKdO6Bxvo1OpZOpeg/s800/yan-srikandi-nyaputin-api.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Yan Srikandi - Nyaputin Api. Silahkan bagikan juga ke teman anda.

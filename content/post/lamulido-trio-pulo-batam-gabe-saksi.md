@@ -15,4 +15,3 @@ Pulo batam na gabe saksi di parpadanan ta Laos disi ma ujung na sude pargaulanta
 
 Sai horas maho na maniggal hon au Gabe maho tu sidoli pinillit mi Angiat ma nian tibu tarapul rohakhon Maranak nang marboru maho
 
-![Lam'Ulido Trio - Pulo Batam Gabe Saksi](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXKlFe7m1rs-GuwDuIx6uRDcIJxSe1Z2vgEa0LQqoMBZkzjcf223acpyH_Atu50ne41ZyAG_DBUiXaxv3rbydsliy7uvTjfgSTmfyD1igcAfumFCKKkkefkxUCDUdCENgXqeFi8yqXKxEbrvUCjDHFxQ9Ox77SOYtcGDgFvnEfLHJUFvQOYXVQDt9h5jCm/s480/lamulido-trio-pulo-batam-gabe-saksi.webp)

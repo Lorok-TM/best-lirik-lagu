@@ -9,4 +9,3 @@ Jikok cinto uda ka nan lain Manga bajalin cinto ka denai Kini lah talonsong kasa
 
 #Credits: Judul : Cinto Sabalah Hati Voc : Ayu Amanda Cipt : Anjas Rao Arr : Iwan Romeo
 
-![Ayu Amanda - Cinto Sabalah Hati](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7XEPDL6C9X3bn8wmvzWT1l1iyc5ysJ-104_re9NBATZY4qaFG8ytrUx6klbU7b90InXgyKQvZgco2Pnt9utqlhEZtJqGsKMz8gr4N9dYYceZWe4IayB6x_nTA_rsX8r6NPL8oisnraqZxyZrNkl7OfCfW5UBgS8kHhVLYLlexwp4q6VhTcmpnxUxl765B/s1280/ayu-amanda-cinto-sabalah-hati.webp)

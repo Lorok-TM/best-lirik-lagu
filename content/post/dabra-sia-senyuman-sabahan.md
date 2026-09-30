@@ -43,6 +43,5 @@ Title : Senyuman Sabahan Artist : Dabra Sia Songwriter : Dabra Sia Category : La
 > 
 > (senyuman di mana mana) Senyuman sabahan (senyuman untuk semua) Senyuman sabahan (senyumanmu menawan) Senyuman sabahan
 
-![Dabra Sia - Senyuman Sabahan](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAmVY5G6ldOGeU2DAqZGWswcsscuLjWZzAePUHdNgs4FeFJejTD66I-NrtkcBiSEp6NzxSKZyrxd4tW5Ll8yF46carlw1-EeQoxjDVeHdCROv3uGPgGa3ysjwHNKKtLYE2P4nC2dJ5gN0_Vb1F8eEDixbARAGOFvqx0xc76VA9aXiyvzEr301a-Mzd1Q/s800/dabra-sia-senyuman-sabahan.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Dabra Sia - Senyuman Sabahan. Silahkan bagikan juga ke teman anda.

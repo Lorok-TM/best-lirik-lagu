@@ -5,7 +5,6 @@ categories:
   - "minang"
 ---
 
-![Sataguah Kelok Sambilan - Zicha Anesha](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjua3DqlmyJA30o54VVabfbKdFxaB4gjJInVHx_-GeBFgfSN45gNHnQo5zEwz14K68q9TXeUEnd4mPLWdTXoQy5L_wqie2n44_hxXL1SEWmwn4oZ_GUghqbE5GQ5plf1LxEaWKHauDmccqkpcSShDvRxtx294iuAdOTMzNKaH6SgcTre9a7sM48ARlUrVFo/s686/sataguah-kelok-sambilan-zicha-anesha.webp)
 
 Bialah urang bakato Satantang hubuangan kito Nan ndak mungkin kabasatu manuruiknyo
 

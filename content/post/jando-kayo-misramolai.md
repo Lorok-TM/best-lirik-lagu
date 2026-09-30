@@ -25,4 +25,3 @@ Tabek dadiah jan dimusakan Jando kudian sasa tibo Papatah minang mangatokan Uda 
 
 Niaik kan rukun barumah tanggo Untuak saiduik samati Asa pandai babini jando Labiah baraso babini gadiah
 
-![Jando Kayo - Misramolai](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUF2sRWojIUgz4YbYjKsJiZsRi1zGKTPvF2w_DZD8pMh1n0fQIBS3MtX1pzJP4ZZRw4XNuyqrK0EjmZpx65O4kYR0r7Q59zTn49ViD1SA8eSTVV-HN83IWr2lZ-N3BkTrLYKs12Rz3vXXHVyjh_8kxql-FXbcORfLSUl0Zo4V95XNJjjKRsgKEY0piGvBx/s480/jando-kayo-misramolai.webp)

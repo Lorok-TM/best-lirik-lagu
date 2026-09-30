@@ -30,6 +30,5 @@ Title : Ledis Baram Artist : Intan Aishwara Songwriter : Dedy Marikit Production
 > 
 > Dia paduli hurui je sala Ledis baram metuh kanjera Tambie bue je mina mama Anak aken takatek kana
 
-![Intan Aishwara - Ledis Baram](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGNrQLQqBG8Yk8oGJ7b5iKBMODdL1342ddnDhQX7D7dZgkURDAC0_MHc-6NRNs_WcS_GKFuYEc2_rFQv_So27V-be6rirF-DeiphbRSYB4NnHTTcuDWy8d_KYczhc0BqK5yX4sCLx6C14c07K1czfu1d9AXH2UGAA17ffsn3vjIaCu7M7jKLMXt05HEA/s1280/intan-aishwara-ledis-baram.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Intan Aishwara - Ledis Baram. Silahkan bagikan juga ke teman anda.

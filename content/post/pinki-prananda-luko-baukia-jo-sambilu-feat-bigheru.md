@@ -15,4 +15,3 @@ Usahlah adiak bakato sayang Jikok denai masih adiak sio siokan Dayuang lah patah
 
 Sabalun adiak baganti cinto Jalehkan hubungan antaro kito Tibo nan tampak muko Pai nan tampak pungguang Putuihkan sajo cinto bialah luko Denai manangguangnyo
 
-![Pinki Prananda - Luko Baukia Jo Sambilu feat. Bigheru](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxdPD2naZr-RfPkqX-oVgO3yUPvBqH2A3LwEIsRHDExhyphenhyphenFouPSYZpIWc3EpYfqJNwmxbio7oHn3YtQv0x3RNvhgNA09KjTFNkBRzxebSPWa3NyogBG6q6BcDP-q4vpdm6-15oGCc4qMeSd5j_98IzMWNKpm7PcH4HyxbSk-RJxB_75A4-pyKMhggur5AfL/s480/pinki-prananda-luko-baukia-jo-sambilu-feat-bigheru.webp)

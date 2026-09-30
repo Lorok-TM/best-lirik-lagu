@@ -23,6 +23,4 @@ Title : Sebelum Putus Artist : Arief Composed : Ajhay Pasma Category : Lagu Pop 
 > 
 > Ku tak pernah salahkan dirimu Hingga begini akhir cinta kita Salah diriku kasih terlalu mencintai Hingga ku lupa cinta tak mesti memiliki
 
-![Arief - Sebelum Putus](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQvM0CUlFpYdlENfYom-EIZm9eGxsjcJySG_t_4BWHN-P4Rx4yUrwRkZL_7-62IM4r_Qo19cfyZ7RzTBL27r8ODtHs_LkB613-EfvfMZJCVXF3c5MSMaj4QqgDyzOHWLhdQaHj4Bp3vSScPDVMw703V0U4dSk0eMdOH21Isid20pwrBZdeqthNqt_iBg/s800/arief-sebelum-putus.webp)
-
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Arief - Sebelum Putus. Silahkan bagikan juga ke teman anda.

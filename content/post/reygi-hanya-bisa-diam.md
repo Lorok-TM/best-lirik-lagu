@@ -31,6 +31,5 @@ Title : Hanya Bisa Diam Artist : Reygi Published : Pro-M Category : Lagu Indo
 > 
 > Aku hanya bisa diam melihat kau dengan dirinya Melukai aku khianati aku menyakiti hatiku Aku hanya bisa berharap suatu hari nanti Kau akan mengerti kau akan sadari akulah yang terbaik Akulah yang terbaik
 
-![Reygi - Hanya Bisa Diam](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmn-ajK6pvINK5ivK9IQrd_rQ0xMfYNSFnxC_gbwAwDFmXTuHHDLy9wviZeEknqnPqia7MMekQHcWDC75DLvz5IbCu2eOmY3VP4BFEx9WN4l_VeWBBf0iUy-ZO0y4YbWnjEpEKjMMgDTWFB9CB75QvPex_VmUGQl4Z1h1mpNy3rSrcWOL5_5c5LBdrXrp4/s800/reygi-hanya-bisa-diam.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Reygi - Hanya Bisa Diam. Silahkan bagikan juga ke teman anda.

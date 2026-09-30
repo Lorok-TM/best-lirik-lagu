@@ -5,7 +5,6 @@ categories:
   - "melayu"
 ---
 
-![Murama (Najwa) - Wasiat Cintaku](https://raw.githubusercontent.com/Lorok-TM/2026-08/img/murama-najwa-wasiat-cintaku.webp)
 
 Karya musik "Wasiat Cintaku" ciptaan Tri Suaka yang dibawakan oleh Murama (Najwa) menyimpan latar belakang cerita mengenai kedewasaan emosional di tengah keretakan hubungan asmara. Secara filosofis, narasi tembang ini menyoroti pergeseran makna kepemilikan menjadi keikhlasan, di mana cinta tidak lagi diwujudkan melalui pemaksaan ego untuk bersama, melainkan lewat kerelaan melepas demi kebahagiaan pasangan. Melalui untaian lirik berbentuk pesan terakhir atau "wasiat", lagu ini merekam ketulusan seseorang yang tetap memprioritaskan kesejahteraan batin sang kekasih serta memanjatkan doa-doa baik untuk masa depannya meskipun mereka harus menempuh jalan yang berbeda. Karakteristik pop Melayu yang melekat pada komposisi ini berfungsi mempertegas kedalaman rasa kehilangan tersebut tanpa terjebak dalam ratapan yang melankolis, melainkan bertransformasi menjadi sebuah manifestasi cinta sejati yang menuntut kelapangan dada.
 

@@ -23,6 +23,5 @@ Title : Pilihan Orang Tua Artist : Soni Egi Songwriter : Fikri Ramadhan Publishe
 > 
 > Biar luka ini ku tanggung sendiri Kalau memang jodoh kau kembali padaku Sayang
 
-![Soni Egi - Pilihan Orang Tua](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgadyuttaq6d4_K4YhNT4CoxnN-2-ZKfsrP84TZgHFPUmkmGw4B9txM0tKFaFUiPtnXjwZqgKR47R3o_dpJI5p-2TQphiyBCqniMyO9xTGEzzz3LK8VSus7w6NnsLfPssy6y3hLg1ikJ7TbEapMkMJQQGsZ57Y14IfzJUVW2kSnykz3oIkqpj26UDE6gg/s800/soni-egi-pilihan-orang-tua.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Soni Egi - Pilihan Orang Tua. Silahkan bagikan juga ke teman anda.

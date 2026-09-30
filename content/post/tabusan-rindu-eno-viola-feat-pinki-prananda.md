@@ -35,4 +35,3 @@ marasai badan diseso rindu taragak uda nan denai cinto sahinggo lalok tak sanang
 
 pulang pulanglah oi uda sayang denai lah larek yo dek mananti basaba adiak di ranah minang denai ka pulang manabuih janji
 
-![Tabusan Rindu - Eno Viola Feat Pinki Prananda](https://i.ytimg.com/vi_webp/wJ_Li4sn7LQ/maxresdefault.webp)

@@ -56,6 +56,5 @@ _Rasah Bali = Tak Usah Kembali_
 > 
 > _Ceritaku denganmu sudah berakhir Mas aku belum ikhlas dengan semua kenyataan ini Cukup sebatas teman aku dan kamu Tak usah kembali aku sudah tidak sudi Tak usah kembali aku sudah tidak sudi_
 
-![Lavora feat Ena Vika - Rasah Bali](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMMOCHgE-_vK7xzhdHG7WF3WmDLGi_yCeqspDDDPniwbCWEWndOFLzBFXJqNGpV65LXy2_3n7w7UnjWQlAMOWRXvHo-EIobRNk5MOSgQdTndUzEAAte1Yj_KW2Rvti0gYg5i1IP-CZRNgpGgVP2maX2eXFXkcUwOxJJVC6zeKgLriMcf_ACQO5u6OEJg/s800/lavora-feat-ena-vika-rasah-bali.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Lavora feat Ena Vika - Rasah Bali. Silahkan bagikan juga ke teman anda.

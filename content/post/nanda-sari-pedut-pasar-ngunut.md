@@ -5,7 +5,6 @@ categories:
   - "java"
 ---
 
-![Nanda Sari - Pedut Pasar Ngunut](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGKnwq0TEAZLUoC9TtuGM_GTW7-8if-hu2UrV91eVIUZ2HPZZiYCZ_3rMWKajUkr9cqVht7YvOIOPNncI0Ndx3oC6u8_OFZ0OWTQu3k4INOuTKWxWfeTCXLeLRQnoxrIuysiXkwueHwJ7cd9xSrN4H5K-odfpQbMLKPZyw4wZk92OJNAEs0RwLI0efsZxC/s1280/nanda-sari-pedut-pasar-ngunut.webp)
 
 Udan deres mendunge campur pedut Aku ngiyup ning emper pasar ngunut Mlebu pasar jarene tuku tahu Meh sedino tak enteni kok ra metu
 

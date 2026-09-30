@@ -11,4 +11,3 @@ Salamo nangko Diri uda taruih den nanti Namunnyo uda tadayo jo gadih babanso Lah
 
 Bialah cinto den ubek surang Urang di sayang nyatonyo mambuang Bialah cinto den kubua dalam Sananglah uda denai ndak ka dandam
 
-![Rayola - Sumpah Cinto Suci](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjW6-5d-jI1Yn0uKesHqzT-AKO_sQcBGRzX5_ZV5TaxJjWf8p3L0QKmdjwMvRLvfflTDwldliX8x-wFERGqaeCk9zHs7dllrb-NkzjnDk4qgtPhG-D0MgHl5myT2i67I_aFWznCnXqD1haxwYqVI42EpGly57Xm_GsulUCjm7xusfh-ZUSqAAQvbYeR4Gki/s480/rayola-sumpah-cinto-suci.webp)

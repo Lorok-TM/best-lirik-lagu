@@ -25,4 +25,3 @@ Selamanya Bersamamu Bahagia kita rangkai bersama
 
 #Credits: Judul : Dirimu Satu Selamanya Voc : Rheka Restu ft. Heriston Cipt : Eriston Panita
 
-![Rheka Restu - Dirimu Satu Selamanya feat. Heriston](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaVeSBQNazO68DEyf0oLbNvLMVt-azf6k6-TZlKYcMxvyGEZ3TIRQlnP_2n8QDSyadgEaubTY9vsvnDmd5Z6OykOh7YK1-Qu6vbbj1s-vCCytuWH8I9j44CA1KP2s5EElMwbaHsS2yE5ca6nWC33a1laxCEUbN8jxkoRt9_bepwspBEosikiHqMc-hyy8J/s1280/rheka-restu-dirimu-satu-selamanya-feat-heriston.webp)

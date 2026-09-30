@@ -5,7 +5,6 @@ categories:
   - "nias"
 ---
 
-![Serangkai Trio - Zaziu Mbulu Gae Hili](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuXoqXoDlpbOxwR440Fa4jUmdAZztcxNPL5pocWDOFvjKkf7kpbGAIE9tPN9Nj72p2f7tdX5yFMHmk40zZtiXHfHt5cDZCUv0p9IzadL64U3BtM6Zk55L7fBqXXhvHFAsj0exlGE0FDneBHBhAI6rJov2aiOD2Pp2HbQSXhwP1fmCtSIp2na_SdkUGSWBK/s1280/serangkai-trio-zaziu-mbulu-gae-hili.webp)
 
 Tobali fökhö badödögu I tambuaisi ba dölagu Melö alua nikhoi dödögu No'öale ndrao ba gitagatu
 

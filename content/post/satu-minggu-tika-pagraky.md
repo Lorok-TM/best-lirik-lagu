@@ -31,4 +31,3 @@ Demikian lirik 'Satu Minggu' sebagaimana di atas.
 
 **Credit:** Judul : Satu Minggu Voc : Tika Pagraky Cipt : Tika Pagraky
 
-![Satu Minggu - Tika Pagraky](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjW7QpmlWc2nDn-ti6rg4m6V4z60XNcosAiiuSnU1zyRLoDLl0aMvxUJ6uNWVf0C334iwnmQB3coEbhmcjTc1Vc-GCmnsOCzhbIOn8x5Pto6pzVhsoBmQ7B2Yd8MzptQt6myuATXH14AK-sTycVwfKd0x2rU9LERm8znoTqlOv_uOodHyzMtIResFXT7krg/s1280/satu-minggu-tika-pagraky.webp)

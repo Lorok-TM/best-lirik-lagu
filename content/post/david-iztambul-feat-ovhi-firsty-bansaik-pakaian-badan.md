@@ -33,4 +33,3 @@ Title : Bansaik Pakaian Badan Artist : David Iztambul Ft. Ovhi Firsty Songwriter
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik lagu dan lain sebagainya. Terimakasih atas kunjungan Anda.
 
-![David Iztambul feat. Ovhi Firsty - Bansaik Pakaian Badan](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBl3-gEwjVk-O_dIgY2fHZWRQKnZPLx5Br1aDLJxLh9B9yRF24nT-HiHMqqiSgkUaTgpy3IPmaXMW9LY0Zmyu48PWgm0OlQBNdn9wSN9gV5Y8h5izWEgy334QhUuJnBG9DqyqHJR7MZvQwLSTQgEL_M5XLpqhECWVjRMuOATgHeMyvIXbtI6GipJhbbA/s320/david-iztambul-feat-ovhi-firsty-bansaik-pakaian-badan.webp)

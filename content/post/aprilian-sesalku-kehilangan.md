@@ -27,6 +27,4 @@ Title : Sesalku Kehilangan Artist : Aprilian Songwriter : Reski Diananda Categor
 > 
 > Sehingga tak tahu lagi apa yang harus ku lakukan Kau pergi karna keegoan ini
 
-![Aprilian - Sesalku Kehilangan](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVh3EO0qi_WQ1vILPOd3lK4SPOMZmwUKQ9VIqY-jQNtbAKY-D2sJnzMBGhDtT_3Ij8e945X-H3rPBoAgRpp0JHEI-PSO8t-vXztgotkuQt3T4QDIajCB2gPKublAQfLdqx0yYFZY9CIG1OCfgYjion6vytm26Rc28UZRwMqzAUYT2h-F6STHIevNpfIQ/s800/aprilian-sesalku-kehilangan.webp)
-
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Aprilian - Sesalku Kehilangan. Silahkan bagikan juga ke teman anda.

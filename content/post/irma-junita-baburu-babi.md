@@ -33,4 +33,3 @@ Gadih marenten lah baburu Lupak di elo duo tigo Sajak padusi sato candu Lupak ta
 
 #Credits: Judul : Baburu Babi Voc : Irma Junita Cipt : Irma Junita ℗ & © Lart Studio
 
-![Irma Junita - Baburu Babi](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEga1c_MGK8gSm5cp-glm2RfQE67hwOwDw70uFpchS2us2QO0X5xBq00gZYYIciZyl1Ks5w6Qv92GfFL8ZSatMKQnD0YfqAaPmwPG5A7vGqGcve6J99KgXWWk6xsemK0bHQrmFNPKQqlXuH_F01uEyUeUrvqmlEm37M00zPHWjW8lgzIHynn4VKHDeU28hd1/s480/irma-junita-baburu-babi.webp)

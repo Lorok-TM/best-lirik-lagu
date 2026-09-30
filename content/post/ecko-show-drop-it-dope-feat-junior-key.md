@@ -63,4 +63,3 @@ Drop it drop it dope Drop drop it dope Drop it drop it dope Drop drop it dope
 
 Br sugab sob Kualitas on the top Anti underdog Drop it drop it dope
 
-![Ecko Show - Drop It Dope feat. Junior Key](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVM19b3LzLHp8o_H5vadzvfPJTnNCQ5JkpBsgqRum56Lp6alSt1UaoUJvRnZZxHdQxTdpktjemGPm5X2AhNwGTIMmu9qzhJreWF0D513pd82zXLJVcsRu-DMl6C_kSXilo0cA0liVu53xNFPdS6mfyxIio9L4QfD6HxIYWHc8s3eEbpgJ1tnT0uWtLF69x/s480/ecko-show-drop-it-dope-feat-junior-key.webp)

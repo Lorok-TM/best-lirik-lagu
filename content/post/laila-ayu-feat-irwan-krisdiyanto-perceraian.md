@@ -5,7 +5,6 @@ categories:
   - "dangdut"
 ---
 
-![Laila Ayu feat Irwan Krisdiyanto - Perceraian](https://raw.githubusercontent.com/Lorok-TM/2026-08/img/laila-ayu-feat-irwan-krisdiyanto-perceraian.webp)
 
 (cowok) Dulu kita pernah berjanji Berdua mengarungi samudra ini Ku tinggalkan semua kisah Demi mengarungi bahtera cinta
 

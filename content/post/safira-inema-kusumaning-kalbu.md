@@ -5,7 +5,6 @@ categories:
   - "java"
 ---
 
-![Safira Inema - Kusumaning Kalbu](https://raw.githubusercontent.com/Lorok-TM/2026-08/img/safira-inema-kusumaning-kalbu.webp)
 
 Lagu Kusumaning Kalbu karya Ndikaa yang dibawakan oleh Safira Inema mengusung narasi tentang pengkhianatan cinta, patah hati, dan resolusi spiritual. Secara filosofis, karya ini menggambarkan transformasi batin seseorang yang menghadapi kekecewaan mendalam setelah pasangannya mengingkari janji setia demi orang lain. Latar belakang cerita berfokus pada konflik emosional antara rasa sakit akibat kecurangan (cidra) dan upaya untuk mencapai kepasrahan emosional. Nilai moral dan filosofis lagu ini terletak pada konsep lila lan legawa (ikhlas dan berlapang dada) serta keyakinan metafisika Jawa bahwa keadilan semesta tetap berlaku melalui hukum sebab-akibat (piwales) yang direpresentasikan lewat larik Gusti mboten nate sare (Tuhan tidak pernah tidur).
 

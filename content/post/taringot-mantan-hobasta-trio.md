@@ -29,4 +29,3 @@ Manang didia pe ho Sai horas jala gabe ma ho
 
 Demikian lirik 'Taringot Mantan' sebagaimana di atas.
 
-![Taringot Mantan - Hobasta Trio](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8WlfnnJOVKLEqTW7MQ5kzYAVoykAc2Lg48iLyK9Moxt9Q550AiE1Vs9y7UQtMT50JGWUG7xai0HjklTovQ31DoI06oUIrBoVyqqSB2T-vWeoHh71-0Ok3p-C1YRvk4CFYrPU9-Ri-uRmmGH00w8upn0GOxtPgrn4JotJuUMTt8sJzYiCJYfTKnZtBqtQs/s1280/taringot-mantan-hobasta-trio.webp)

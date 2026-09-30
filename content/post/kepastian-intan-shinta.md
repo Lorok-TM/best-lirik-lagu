@@ -31,4 +31,3 @@ Demikian lirik 'Kepastian' sebagaimana di atas.
 
 **Credit:** Judul : Kepastian Voc : Intan Shinta Cipt : Aditya Chandra P. Aka Nugie Aditya
 
-![Kepastian - Intan Shinta](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6KInUci9B6o5SFSAojO9MJdYN8gD7w2jDd24S8Q3hUS3mDpr3VyetVBFg4f2-4Sh6d0f8zj-5xbPKHC_SUZnJpjOoubo_YnlErLFaIK-vrN9bmPmz_WkJO2l6qJR9zpKgrUaZt-qphrFv-B-F0wxrYeGhI0oLiFpcdG8m8F7LFumiB7ZXeAYWp4L7ALgj/s1280/kepastian-intan-shinta.webp)

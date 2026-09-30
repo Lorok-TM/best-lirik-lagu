@@ -21,4 +21,3 @@ Bukan janji yang sementara Selama jantung ini berdetak Namamu rumah bagi rasa
 
 #Credits: Judul : Rumah Bagi Rasa Voc : Vanny Vabiola Cipt : Vanny Vabiola / Decky Ryan Arr : Decky Ryan
 
-![Vanny Vabiola - Rumah Bagi Rasa](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYY-OeyzMnyM9FA0VAX-Z5kvQl1xmkjUqUASpC_bB-lobx6TzcwvoVav2bF8nEjbdHtMYKgkcaJkbbb2l0smJQPgPvPTWNtxkYfrT1VRHtXCr-BJAiK-hdMsq1iy28jEpSw_T46AvVyVR3DZvEtprnm3ZLjWGEH4Mo3VqNS9ZdaCAqc2MCq3FVIYk6Tbgq/s1280/vanny-vabiola-rumah-bagi-rasa.webp)

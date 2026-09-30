@@ -25,6 +25,5 @@ Title : Diriku Apa Adanya Artist : Ipank Songwriter : Adi Bugak Publiser : MVM P
 > 
 > Pedih yang harus ku terima Luka lama tersayat lagi Puas sudah kau menyakiti Cintamu untukku kini sudah mati
 
-![Ipank - Diriku Apa Adanya](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-VgHQQohafvnR_70CpAlY8_iX9azRNpn8HMywbBsSS2wL6QZ6Wpb7bhLVdSYBFjfVMNKROkte85ggJZnWYUcm0v_Nobj9tqY9nzFJuzqmbt4tGiMHqZevwUhlUPeP9qf67UP74RZ-j1DX8LAltYkX9FWXavV17gojxcS8hZh9g-STdH1BuEzbGHAmYQ/s800/ipank-diriku-apa-adanya.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Ipank - Diriku Apa Adanya. Silahkan bagikan juga ke teman anda.

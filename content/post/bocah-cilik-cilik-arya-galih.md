@@ -23,4 +23,3 @@ Demikian lirik 'Bocah Cilik Cilik' sebagaimana di atas.
 
 **Credit:** Judul : Bocah Cilik Cilik Voc : Arya Galih Cipt : Ustadz Khadzik Koor : Izza Bonita Dan Wuri Yunita Musik : Campursari Ae Arr : Agus Samiremen
 
-![Bocah Cilik Cilik - Arya Galih](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimnEWhrDTtrG5lScrl-5ummX_wKuiGZ31I6d5fcYNu12OZzRJEbpV6V2xExp56C9TmCQ91mwBRXOU6V4wmF9dFCFbPt0tJjJjJMCyY8HOg5tevr0sZnG1Ux0gEWqMNREBVoTftF7llYz2J82WyNcP2HguJzb4VahsWZImKCwZJ_RqByz_tVV_a3E-5rD8T/s1280/bocah-cilik-cilik-arya-galih.webp)

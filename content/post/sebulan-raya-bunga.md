@@ -35,4 +35,3 @@ Demikian lirik 'Sebulan Raya' sebagaimana di atas.
 
 **Credit:** Judul : Sebulan Raya Voc : Bunga Cipt : Edry Abd Halim Arr : Edry Abd Halim
 
-![Sebulan Raya - Bunga](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiS1R7ge7CRfC6707O-HIS9dmZSfROrRbyOUU6dGR3oUFoO2u6-pKWzvs_nFP9VZ-AYjVYFBKtJIaoq9koJ1SpG4VWLOduCDvyHlCmAZTfbKYKfVnxsQLpr42BPBjxGWuVmnKzeMsYBB5dZ_FfnF4MKfq8ZWTtRxHqWvomkiNIKAO1AFk_I2__LrlUNAsPt/s1280/sebulan-raya-bunga.webp)

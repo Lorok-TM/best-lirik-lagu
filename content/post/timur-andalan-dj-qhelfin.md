@@ -29,4 +29,3 @@ Manis macam gula Dong tergila gila Anana timur ini Dong tra bisa kalah
 
 Dari Sabang sampe Merauke Dong dengar Kita orang timur ini Banyak yang gemar
 
-![Timur Andalan - Dj Qhelfin](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0CSX3N9HKYlZOAJFvVaJ92tEnD327_u-IX_Yk550wZ93nabI8JSMT9V8CI53AStsPevePdzG2GJlVqvjgTJXdmz_o2m1G-gVjYX6G-63daBHEqQA7IQXRu8sjOrDJsM8f32WAo07PknkW47LRONPVdQY3dfYxs8-iZ_n1xWcjv2oI7fnpIcov1ry1rPP5/s480/timur-andalan-dj-qhelfin.webp)

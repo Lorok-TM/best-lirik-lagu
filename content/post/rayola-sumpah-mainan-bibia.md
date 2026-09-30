@@ -13,4 +13,3 @@ Sakujua tubuah rasonyo tarajam Dek sakik bacinto marangguik galak Padiah takicua
 
 Dicari pangganti takuik ka taulang Sakik nyo dihati kaduo kali Bialah ditampuah bajalan surang Pado nan baduo batabik tangih Manyasa manumbuah cinto jo sayang Disangko sanang sakik nan jadi
 
-![Rayola - Sumpah Mainan Bibia](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPLRCI0y0Nj3cvueursSdxZ2h5EJeuuH_R40sdEM92514aghRZp8mKXQU00LRIM3j2VAHCyYkTINrc275iYBgKb0igrxdLG2RuTu_vLGbkOEaCqxAQ_-sH8I9Bef-auW2QRmIwZj-jWbJR8HJofmqnlSROpriw88U89gybGm6dIpi6j0lw5DhGmMFXCRsG/s480/rayola-sumpah-mainan-bibia.webp)

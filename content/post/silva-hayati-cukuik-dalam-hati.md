@@ -15,4 +15,3 @@ Kini den bujuak hati mahapuih mimpi mimpi Jan barasian juo basandiang jo nan kay
 
 #Credits: Judul : Cukuik Dalam Hati Voc : Silva Hayati Cipt : Erwin Agam Arr : Vandy Satria
 
-![Silva Hayati - Cukuik Dalam Hati](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirNF0-4NQiIoiLKUpzMvWSKgKUKF5hvxBlAqHRRke4Vioma-UqLb55aq-XV8EdKV2WxX9NtbwcsxZG3JnmYkH-rVU72mqc2JYiEV0RQlP2tackTwCtmWXzmbUGEPpOdKZ8A2nDQnpfwv9AxbacBAGQeX4ZZ3dpvf6dg-UFfMCzOLI4NemonPNI-VSlrQU0/s1280/silva-hayati-cukuik-dalam-hati.webp)

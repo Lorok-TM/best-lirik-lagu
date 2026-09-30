@@ -25,4 +25,3 @@ Jikok dunsanak lah sanang kini Manga lah juo mampagunoi Bakeh nyo urang mancari 
 
 Nan kok tingga punyo di urang Bagungguang juo raso ka kurang
 
-![Ridho Zulma Feat Puspa Indah - Hilang Budi Dek Ulah Pitih](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigsyHrtL5yeDFCUt1us6JQSrM1Ze0XgpUjAGXrUE7ND4Ghg3xkgCns09noRmPuRmtq5iUrlpoenm7Dw4SSih4BGGfKEeYE17uaOceJh8zm62ECsIm6vatrsOJbYPzLrbiBgc3IPSd3Z2xbSAzUqxpNGQ7Kc6cUR8nfuOq6xmLOFPo7kd1OFwoOubAiql8b/s480/ridho-zulma-feat-puspa-indah-hilang-budi-dek-ulah-pitih.webp)

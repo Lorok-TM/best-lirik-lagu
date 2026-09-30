@@ -23,4 +23,3 @@ Jikok panyasalan nan denai turuikkan Takuiknyo cinto baputiak babuah dandam Dena
 
 Denai urang katigo Mangaca di ladang urang Bialah mahapuih bayang
 
-![Denai Urang Katigo - Pinki Prananda](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixlSBI0UyIN0aIFP-ZKrUQYFXA5cpI5uuvMvS4O8gbIDG9xqnuLCueWSCe9as-mDQ0XdiT_CKr4xooUf4rgnSQZPHiojETWtJgk0hlYpMK3pNRzl8wicq6J_i45fG0LbLT5ZXO9flXuLpqh-F_HPpHnQ8JR4GNv5pEGHaIjwI2fL7VSeYb_0pO1ngkPrcw/s480/denai-urang-katigo-pinki-prananda.webp)

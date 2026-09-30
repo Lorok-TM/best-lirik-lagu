@@ -23,4 +23,3 @@ Wes cukup tak ujo Kowe cedak sopo wae Pesenku siji kabeh ono bates wajare Aku ra
 
 #Credits: Judul : Ngertenono Ati Voc : Silvy Kumalasari Cipt : Yonanda Ndx Arr : Talenta Music
 
-![Ngertenono Ati - Silvy Kumalasari](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnSCv53diCmuq5DjPuZ4GBtoljJ9qRbTpUXRZgByO0OVOG9CTgksf5-bZuOgy9Zn06J203q7DmkAgd4sEusYozSoMfcKe-5ZC6sL2gfdITJQ1srz1qvP3o5pGOHYfcllPnDiUmOtEni3pYYKOUAtefWyEugLyrAiRN63sAbSXsyEvxr3YrYqsqjszfmXKn/s910/ngertenono-ati-silvy-kumalasari.webp)

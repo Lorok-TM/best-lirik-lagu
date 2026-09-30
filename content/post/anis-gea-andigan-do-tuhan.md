@@ -43,6 +43,4 @@ Title : Andigan Do Tuhan Artist : Anis Gea Songwriter : Wira Purba Production : 
 > 
 > Andigan do tuhan
 
-![Anis Gea - Andigan Do Tuhan](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdhVgw7BujZGRmzdbeNHHfwCd8NK9OVCrl9-IN_8MTT2FSYtaagtP5ZEjVC5lHrw1H1USL6wPsHpbiudpdo6ZGt6Azuspdi4rmKIN1E1E_onsPglMuq3d74optXAJEs4dTOO72NwBkuMSmW8aNBROmHhNGa4BWJiUWHKt83RMQmRt_PjfkEeKr--cJ8Q/s800/anis-gea-andigan-do-tuhan.webp)
-
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Anis Gea - Andigan Do Tuhan. Silahkan bagikan juga ke teman anda.

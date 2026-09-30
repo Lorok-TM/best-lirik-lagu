@@ -5,7 +5,6 @@ categories:
   - "tapsel"
 ---
 
-![Bola Andora - Ficky Tanjung Feat Yetni Annika](https://raw.githubusercontent.com/Lorok-TM/2026-08/img/bola-andora-ficky-tanjung-feat-yetni-annika.webp)
 
 Lagu bertajuk "Bola Andora" yang dibawakan oleh duo vokal Ficky Tanjung dan Yetni Annika serta diciptakan oleh komposer lagu daerah Tapanuli Selatan Madina, Lahmuddin Batubara, secara naratif mengeksplorasi dinamika interaksi sosial dan romansa masyarakat sub-etnis Batak Madina melalui analogi permainan tradisional atau metafora lokal yang kasual. Latar belakang cerita dalam karya musik bergenre pop daerah ini menitikberatkan pada pola komunikasi dua arah yang repetitif, di mana salah satu pihak berusaha membangun kedekatan emosional sementara pihak lainnya merespons dengan penuh kehati-hatian atau sikap berseloroh yang khas dalam tradisi bersahutan (mangarandai atau markobar). Secara filosofis, karya ini merefleksikan prinsip keseimbangan hubungan antarpribadi dalam kultur lokal, yang menegaskan bahwa sebuah komitmen spiritual dan sosial tidak dapat berjalan secara sepihak, melainkan membutuhkan ritme respons yang setara, layaknya operan bola yang harus ditangkap dan dikembalikan secara presisi agar keharmonisan interaksi tetap terjaga.
 

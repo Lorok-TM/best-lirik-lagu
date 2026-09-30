@@ -27,4 +27,3 @@ categories:
 
 Title : Takut Berdosa Artist : Budi Arsa Songwriter : Budi Arsa Production : BAJ Music
 
-![Budi Arsa - Takut Berdosa](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQ55bvO0ucOBXReLGjXKYy_iOMDyq3wVRcp9Xtt4JSkL2CuUiCYLn2SN2MOtlSTyzEx7h6EBkCQWVtStMsFK_AXYx6_3aD9CPyiEGhLhdBWtfLuKq09g1mjlOc1LaNVR3eiOFE-blPBb9vXW_7ZEjNRc0dv9vetnRBYJsixQzbilXDWUokx0C5XbfpFQ/s1280/budi-arsa-takut-berdosa.webp)

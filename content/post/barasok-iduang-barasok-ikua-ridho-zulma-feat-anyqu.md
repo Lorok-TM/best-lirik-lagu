@@ -15,4 +15,3 @@ Dima urang katuju baa lah urang ka suko Namuah babaju baru tapi maleh bakarajo T
 
 Camin camin lah diri caliak caliak lah bantuak Usahlah pamaleh labiah pulo pado baruak.. 2×
 
-![Barasok Iduang Barasok Ikua - Ridho Zulma Feat Anyqu](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhimvMIahxcb1CHR5UuOS1cLkLIhV4rJDTOuTENgUYGoSB0GyCpPYXtRVFGaFFfLXqpjbd7Er5HYDSbVx7wOo3uoc7-zQPYI8O4_3mN8PAROganw8DPNMzYG9GvmwxD3QUQFK1gujPtiij-g1NbTHIsdxI_uxjs7FlpCpg16-68w0mUM0o7WkJsWN1Twvd4/s1280/barasok-iduang-barasok-ikua-ridho-zulma-feat-anyqu.webp)

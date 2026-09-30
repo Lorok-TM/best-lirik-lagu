@@ -23,4 +23,3 @@ Lö ubözi dödö maifu lö khögu feaniasi Fefu mbu'alagu si no alua ba lala wa
 
 Me lö si sökhi oi mofökhö wö sabö'i U temagö ia fao dangagu si dua rozi
 
-![Putra Duha - Lala Wa'auri](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipCOGc0fLASE1HuKPDpXa4-wzK2jDD10Nj_b_1Sm_Luju1H5Af6y-WeN39xkDok_q2lpZpaDc4hk93bg7dPFSxT69hu-RMYOlj3mk6FzzvlI_POIpP6gBowxGYj13i7spxtdPZ4jViqmTJeUSardIhBjo4ShStRKntgrEBWIqf_HI4UxIGPNFT2tUNxN69/s480/putra-duha-lala-waauri.webp)

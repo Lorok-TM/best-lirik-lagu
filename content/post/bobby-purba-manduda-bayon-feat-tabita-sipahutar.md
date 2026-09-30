@@ -17,4 +17,3 @@ Ias do holongmi Tu au ito songon bottar ni bajumi (hasian) Dang na hasuhatan Bur
 
 Ikhon ho na ma ito ikhon ho nama ito lao hella ni dainangi
 
-![Bobby Purba - Manduda Bayon feat. Tabita Sipahutar](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipHPt-HLUWK3eQ27cwDzwni9kXG0FxDW2r_C-TjGiVOnjrFcfX56kXJg2HyBc0TRgu5GruPX1cvEbzFuZ0W80-xah-Ad8D8S-LFJQTYVl__XNjdzW-S66zmwh14Z9tIXtQXvPpj02H0qJd9TZKE-xay0Z0ZuklMR8j3YPlnECPQP-9Hu3Y-bj0-VhWvCAz/s480/bobby-purba-manduda-bayon-feat-tabita-sipahutar.webp)

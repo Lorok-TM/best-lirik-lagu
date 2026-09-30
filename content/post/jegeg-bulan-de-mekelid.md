@@ -45,6 +45,5 @@ _De Mekelid = Jangan Menghindar_
 > 
 > _Jangan kau lari Jangan kau menghindar Mana janjimu Semua kata katamu tak terbukti Kau harus bertanggung jawab_
 
-![Jegeg Bulan - De Mekelid](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6TKruemA2fPud4tBDfX_-Uyl6aecud_OzbK2taTniLPXzmCO_QUo0606d0uDTItR3x2PPEvIMmm7aPpCArAweljC0dN_NjuPMDeTQO9HBOwkRWzPgcbZ0zTSf2haffAEZBKOZlyvYK2urt37wCnqaBLuoKj2u7p1g_hXhE8zV9B9nQHTopLhEAHBXFQ/s800/jegeg-bulan-de-mekelid.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Jegeg Bulan - De Mekelid. Silahkan bagikan juga ke teman anda.

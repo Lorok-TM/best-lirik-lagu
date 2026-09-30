@@ -15,4 +15,3 @@ Jikok tataruang tenggang lah tengang Salah kami tolong maafkan Tau jo paruik yo 
 
 Taulah lah jo untuang joja golah muncuang Jan usah badantuang bak cando batuang Ingek ingek urang iyo nan ka tasinguang Kaokan ka badan sakik indak tatangguang
 
-![Ayu Amanda - Jagolah Muncuang](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzpIfGFIcis4aCngqHnM2FmrdHlG6mKgOQshPgr0HGlFUjli5hu6KMhaDNBRzuZW3Ht87rz0-1iBIW3eB8hj5CRKTP4emQd4JsUusyEgshoHaZTU_y6n4vfJ5MCibaEQQYPgS1lVJj6UAEuz_ptbrMFQdbNDF4fkeUEde12Y4H4Eco3uSawv0KR9PfeQGS/s480/ayu-amanda-jagolah-muncuang.webp)

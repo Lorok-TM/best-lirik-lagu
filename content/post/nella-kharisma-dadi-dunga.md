@@ -43,6 +43,5 @@ _Dadi Dunga = Menjadi Doa_
 > 
 > _Kamu anakku yang ku tunggu tunggu Terimakasih sudah hadir dalam hidupku Hanya doaku kamu dan saudaramu Menjadi doanya ayah ibumu_
 
-![Nella Kharisma - Dadi Dunga](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOv2L3Yfy3GYdKRPgyEkbC5ZrBV1mp8T7is6jwZUZsnv39pm0zGSq11pgz0_nGi4rrZYdB8s9wetXV0hfKP-Yz7cVo5S9ZMIY9nYB1Yw0X9ndnzpDtiduQEEAgopMsAcSwKRfy7Pj2BYTZTurv-z6rjbz4JylXGbkC3rtOxqEfz6ml5ZT-TNKUrsZtQw/s800/nella-kharisma-dadi-dunga.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Nella Kharisma - Dadi Dunga. Silahkan bagikan juga ke teman anda.

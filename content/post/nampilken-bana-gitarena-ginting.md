@@ -25,4 +25,3 @@ Demikian lirik 'Nampilken Bana' sebagaimana di atas.
 
 **Credit:** Judul : Nampilken Bana Voc : Gitarena Br Ginting Cipt : Giba Ginting Arr : James Munthe
 
-![Nampilken Bana - Gitarena Ginting](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgp-HmVSrt1qqHuztr686b8_UwG8pp_jkS1tQ-79bsKwQ4r5KEAJ_FBz0rZdJ5npqbFRIazJPy_Lnv4-Js44HNOOgbPxLw5EU6nLB3LjOiT11JoqyNuOqShNUsRweFyQ3Z7YkHfAMA0P3cmi7behUxpzgKmkix3GfXkouHTXYCw59tD0CQp3NJbEJrznedb/s1280/nampilken-bana-gitarena-ginting.webp)

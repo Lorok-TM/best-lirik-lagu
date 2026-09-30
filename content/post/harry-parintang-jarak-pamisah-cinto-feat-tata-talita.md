@@ -9,4 +9,3 @@ Lah putiah mato denai mananti Manunggu uda manabuih janji Nyatonyo apo yo nan ta
 
 Bajarak jauah nyo kito Mambuek luko hatiko Den sangko alah baduo Mangko den aliah cinto Den nanti jo aia mato Babaleh jo padiah luko Oi adiak maafkan denai Dek cinto kito nan tak sampai
 
-![Harry Parintang - Jarak Pamisah Cinto feat. Tata Talita](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvhsUYDtatjDRYLT9BC6iRdhY5TdAst42vWdrBQprApwcNOQ4IZQXUkvScbtftW0CiE6q0iEi0JeEGtIHShTHQQjFBmuQxWqILLHcFIJiUI3smwylMy_lwA5vRGb9-wS2r-4sKYhUXLeeGPZ89t0mJp_n1pGFhOWrkFJj_qt_xgmWF0N_yLh03GVufib4r/s480/harry-parintang-jarak-pamisah-cinto-feat-tata-talita.webp)

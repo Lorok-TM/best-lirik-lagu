@@ -23,4 +23,3 @@ Demikian lirik 'Puket Jantung' sebagaimana di atas.
 
 **Credit:** Judul : Puket Jantung Voc : Julian Isnaeni Cipt : Azon Lipa
 
-![Puket Jantung - Julian Isnaeni](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinmhbcdw-PgduQ4-AozcXTxu00VlHdAq9uQV5-jeswu7nPNZts9LpZGsQm83UfN5SPQtf3e3elpmqBd4jTtSroQO_X39AmtJpcPxhbYhZ4oDWauegnOrnQ61AYyBg_4ZjDKpDw5yJEWMNz-OQJBqF3lTvJ7uklhz8MJuhbhl6DK-z1b__r8-_Gy0NDhH8p/s1280/puket-jantung-julian-isnaeni.webp)

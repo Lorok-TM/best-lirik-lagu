@@ -29,4 +29,3 @@ Haaa aa aa aa.. (wo.. uwo..) Haaa aa aa aa.. (wooo..oo..) Haaa aa aa aa.. (woooo
 
 Demikian lirik 'Cinta Sebenar' sebagaimana di atas.
 
-![Cinta Sebenar - Fandy James](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjie25OL-lnqZzpR__AQOP1-iGRggHR0q3A6OLBlr6arvhyphenhyphenz2SEvPnAQzY51D-gMds2i7tWuHzcX2UzXHihcnsaKhcCu7NyTPBfcsPfvZ8ojmbLvj6JPtYhKKFXycf-KKzyEGRoc28OKrvwwYDElQfFPXf3OS539HK1D_MxlWRa1Mn6c08RLAjnq3cv6N9c/s1280/cinta-sebenar-fandy-james.webp)

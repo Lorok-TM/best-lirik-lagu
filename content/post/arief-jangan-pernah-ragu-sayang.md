@@ -26,5 +26,3 @@ Walaupun datang seribu rintangan Jiwaku tak akan pernah terguncang Karna aku san
 Akan ku buktikan rasa di hati Walaupun dunia tak merestui Karna engkau belahan jiwaku
 
 Percayalah kasih kepadaku Percayalah kasih kepadaku
-
-![Arief - Jangan Pernah Ragu Sayang](https://i.ytimg.com/vi_webp/nnIzRejLVBA/maxresdefault.webp)

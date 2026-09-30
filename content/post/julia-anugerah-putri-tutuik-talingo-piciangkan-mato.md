@@ -23,4 +23,3 @@ Indak indak ka baraliah Raso cinto dalam hati Hinggo rambuik ko mamutiah Ka den 
 
 Ganggam arek tangan denai ko Hinggo manutuik mato Tuhan jadi saksinyo
 
-![Julia Anugerah Putri - Tutuik Talingo Piciangkan Mato](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJuI_woflbQm0Hxs1XgCIhvI5aPmK_sgVCjIA1YlNK5qxWhXxpC8zdvkzhwGBPKcluvtJ5lMhOS6wOJ56Q_njj2fyB0bUip1obK_a9LjERo01rmBDPddxyjjEYg3y2oTYcaUIzjLbBkdUjyx_FQwTO00Bo9qK3aXgcN5r2MMRTdDfH-QuuWMrLQgVfeddx/s480/julia-anugerah-putri-tutuik-talingo-piciangkan-mato.webp)

@@ -5,8 +5,6 @@ categories:
   - "minang"
 ---
 
-![Anyqu - Tagali Gali Jan Digalitiak Juo](https://raw.githubusercontent.com/Lorok-TM/2026-08/img/anyqu-tagali-gali-jan-digalitiak-juo.webp)
-
 ## Lirik Lagu Tagali Gali Jan Digalitiak Juo - Anyqu
 
 Lamak di danga indang balimbiang Pamenan urang mudo mudo Sadang tidua badan tabariang Tabayang laku parangainyo

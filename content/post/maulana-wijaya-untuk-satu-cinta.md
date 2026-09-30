@@ -25,6 +25,5 @@ Title : Untuk Satu Cinta Artist : Maulana Wijaya Composed : Thomas Arya Category
 > 
 > Menangis hati ini Memanggil namamu Ho sayangku Gurauanmu penawar rindu
 
-![Maulana Wijaya - Untuk Satu Cinta](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhqYMD4cBg3L79vnlFknl5dMADgpfaFVxa-zhBvw35BR25mQoAOy4gxsGmLFwIRgJ0XBqXYHR2ce5eTedGKPMaxTwrs85jT-4wMyhp2GEDByXBv-NvPtFiiKez0HyveLMbesW0vL_zhYL4WeI-cPlUxI-4qRgcHLOSgbglsHuHLqZNdTTzP2-XADT6mA/s800/maulana-wijaya-untuk-satu-cinta.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Maulana Wijaya - Untuk Satu Cinta. Silahkan bagikan juga ke teman anda.

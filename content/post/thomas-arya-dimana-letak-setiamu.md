@@ -31,6 +31,5 @@ Title : Dimana Letak Setiamu Artist : Thomas Arya Songwriter : Thomas Arya Publi
 > 
 > Dimana letak kesetiaanmu Yang dulu pernah kau ucap padaku Takkan goyah cintamu kasih Hanya aku milikmu
 
-![Thomas Arya - Dimana Letak Setiamu](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOHWSOd-k0pjjBIlvwQUbrl2k8_hNwzv-xkMYg_ZNuZBF9Rew5XcvFjwukMLMHn0826UhP9a6yaFl8dVhF2Fj6WMZEVMtLoNnC3_QMQtTg2j3Mn8KOWQLgrcyNmMUCUOZCQuhLeiQKNNxQjFkIKDSCE7DXLXMelf7_wEXQ5ownXZKLSNPUC_TjDA1qlw/s800/thomas-arya-dimana-letak-setiamu.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Thomas Arya - Dimana Letak Setiamu. Silahkan bagikan juga ke teman anda.

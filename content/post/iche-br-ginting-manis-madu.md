@@ -23,6 +23,5 @@ Title : Manis Madu Artist : Iche Br Ginting Songwriter : Inka Maya Gurusinga Pro
 > 
 > Sada nali dua tampukna Adi punjutken maka banci ersada Ateku jadi ula raguken kena Si pudun rakut arihta gelah na kita ersada
 
-![Iche Br Ginting - Manis Madu](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQESZTSGvWbtqRNn_44TjQ2bYRmBnFxk9-Qky_fbh4E8HmWsubkV5rv0utBpvGiHAH2_Q7lvd_V45MOYmWYTe4Yx2b-TgoVUO1yzo25i51V7_HPlgHpG8cFYBCWgNc7EwQ7l-fiEFN8xyh3I-w8z54Y83a1eJgRHoUe0m5Dqxc1p5cQ7JmPMdzhOV6dA/s800/iche-br-ginting-manis-madu.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Iche Br Ginting - Manis Madu. Silahkan bagikan juga ke teman anda.

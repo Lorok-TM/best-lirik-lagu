@@ -19,4 +19,3 @@ Demikian lirik 'Indak Manyasa' sebagaimana di atas.
 
 **Credit:** Judul : Indak Manyasa Voc : Syifa Maulina Cipt : Syahrul Tarun Yusuf
 
-![Indak Manyasa - Syifa Maulina](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjd_RlLVpXRrLZ3ia8NE6eHn8_c5hScx12WZC6Al_3A5QD_fCE5Zl4eAnkUnEH6MF1YMkv7VZopjxknBVs5CvanNdi-tdqKB8gH74WcwGmRC39UwRowWmLUQ2koyIlKBb1NKARGVbu6LTM0cILpbuKn4HkOSMzsznQDQM-sBkJgtnYK32kWLBpIR_6PGj2f/s1280/indak-manyasa-syifa-maulina.webp)

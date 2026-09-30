@@ -23,4 +23,3 @@ Dukkon ho hot di au dame au sonang au Mago ma biarhi laho manomu ari sogot Ai ho
 
 Dukkon ho hot di au dame au sonang au Mago ma biarhi laho manomu ari sogot Ai ho dongan ku mekkel donganku tangis Naeng nian raphon ho holongki gogoki Pasonang rohami sahat tu na saur matua Naeng di abinganmi marujung ngoluki Marujung ngoluki
 
-![Jun Munthe - Hita](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3Y-u3kjXrmbYylyjb-6EBGy-1ZtNk05d7Uu4QX82WvIieJmlx9oaR46EOLpQFBFFuVGfn6Yd1MWRBfZtwOLcuYMrcAO-9HmiBzvfgAX5nqtL9RRjP0UPz8HjaORzO-4PY0HlOb0uSktVTb7Wt77_7vWplPzrQjG_afhwrS9bJZk2IWtOScszpIxo-extG/s480/jun-munthe-hita.webp)

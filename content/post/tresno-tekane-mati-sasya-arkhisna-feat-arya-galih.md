@@ -35,4 +35,3 @@ Demikian lirik 'Tresno Tekane Mati' sebagaimana di atas.
 
 **Credit:** Judul : Tresno Tekane Mati Voc : Sasya Arkhisna Feat Arya Galih Cipt : Andi Mbendol
 
-![Tresno Tekane Mati - Sasya Arkhisna Feat Arya Galih](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzGmO1jXKZs61pY6ZZQgSXXLyXfcp8v5IjK6qagK-nphH-Q56uWLLXCwCFhiGSu-WInVUCO__mdOfhrwJPOLB6_MR3AXJbsZSy9t1KR_zdrbdG38702KuyERRJH6oPti3gex4n8wdlahgpr1obywlO1PvgXCtLX87i_IKFsQGmM6ThgtqvA9fwiwISYbY5/s1280/tresno-tekane-mati-sasya-arkhisna-feat-arya-galih.webp)

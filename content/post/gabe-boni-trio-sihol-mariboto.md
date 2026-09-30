@@ -19,4 +19,3 @@ Ndang na mandele au nian dingolukki Dang na sumolsol bagi au tuho inang Bagianki
 
 #Credits: Judul : Sihol Mariboto Artis : Gabe Boni Trio Cipt : Sanroni Manalu Arr : Barita Situmorang
 
-![Gabe Boni Trio - Sihol Mariboto](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixD7CLvs6BbzDUB0Q3tvdpALlGr9MB8PgzEDLL9gkc1d1czZ-CR2yNCsLn86y3oEGUE-vmBER9zfleti9NZI98ekwV2P797XrvVwAwBl6bytF-Y26eEfSx8_e3iGcLSeyry37xd5TfyJCjj5ctennm-DWDXRTeERbSU6EGceMhmaVzMYBdIGxLoYfKgIJr/s1280/gabe-boni-trio-sihol-mariboto.webp)

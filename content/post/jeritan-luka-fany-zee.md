@@ -5,7 +5,6 @@ categories:
   - "slow-rock"
 ---
 
-![Jeritan Luka - Fany Zee](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwspyUUv6_3_Nr9AAIOCGnVuk27jYHUSX3sC26vxeaDPc7x5Aax8LOanH8O_kYMlrxreZusLeLQJ_WXZCDjFlNbmIkOvr_lD2XbIVgDhzWhLs2SEtlGtEWxB2uFE0nhhjWpTcyIaBP6DXpdvturlcs7nGR570q-sBrm0gubmEGde7XxKvsB4ofJu7WyJIQ/s686/jeritan-luka-fany-zee.webp)
 
 Kan kujalani hidupku tanpamu Bila diriku tak lagi yang kau rindu kasih Percuma saja ku bertahan Jika kau permainkan Aku menyerah sayang Lupakanlah aku
 

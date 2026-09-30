@@ -5,7 +5,6 @@ categories:
   - "java"
 ---
 
-![Rujak Uleg - Silvy Kumalasari](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPR1r59cWXOYpY5dJGJQ-Zaciow3LtQBGMAu0ZlPULQHcqBjwREmZs_bYwSdmBI9WT-oqyDKZWRB3YSPesPXZbP5rb_QaeqJJ1HZezRvOW-MMntjUab40K_F3uFykJVRzJnrkUekZX6jvUZoWk-mlWcDOMZ95KSyCe2Ysaw3VTfyss_Yn7CAKEANitrQLG/s1280/rujak-uleg-silvy-kumalasari.webp)
 
 Rujak uleg kroso sepet kakean cengkir Atine judeg dhadhane sesek kakean mikir Ngalam ndonyo warno warno kahanane, jarene Mbiyen kondho nalikane perang gedhe Bondho nyowo dilabohke negarane, jarene Mugo mugo gek enggalo bubar wae
 

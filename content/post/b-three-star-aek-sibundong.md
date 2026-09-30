@@ -19,4 +19,3 @@ Molo marsihol ho tu au laho ma ho tu aek i Ima aek sibundong i didolok sanggul n
 
 Molo malungun ho tu au Bahen ma aek tu tanganmi Ima aek sibundong I Didolok sanggul na uli disi do au
 
-![B-Three Star - Aek Sibundong](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjsAf1DSnuFs8eSaBsToEJyQmac9ZNiuf_uz3viT7z7nqutVPLseaqjrka9nlel7PGa2r7AFtDIfUzyeoC2Cm0etVpakkXrazRyUs41Ul8u6GUbZin_cqM2oPmaqHZplamwZKwD-eFfP8lo31F5xxQUHLUoj9Ezoub1CRq2N6JqjEqJ2Cvwr2YFRLuOBlo/s480/b-three-star-aek-sibundong.webp)

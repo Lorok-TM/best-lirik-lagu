@@ -35,6 +35,5 @@ Title : Aku Hanya Seniman Artist : Faisal Asahan Songwriter : Faisal Asahan Cate
 > 
 > Benarlah kata orang Di keramaian ku rasa kesunyian Hoo oo kesunyian
 
-![Faisal Asahan - Aku Hanya Seniman](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgAL3hhHZndFGt3UPBFLtlMDgB8PJYF80HW7HnneADAokdWUXlNiCRSV8PuCQYZ_oqpo0SMps98F34176l6g6Vs3ssTG7tAovmBwPpsD6tujmqzDzxHXI0fgIxLp-Sjgxd2BtAOFj1-IB9Y6sy0GPCEmrTYETqG5IPmG5ap6wEVFoQj44rhVFDrNy5pg/s800/faisal-asahan-aku-hanya-seniman.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Faisal Asahan - Aku Hanya Seniman. Silahkan bagikan juga ke teman anda.

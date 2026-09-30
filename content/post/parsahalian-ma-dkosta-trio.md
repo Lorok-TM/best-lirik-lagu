@@ -25,4 +25,3 @@ Percuma do ito setia au salelengon Hape dibaen ho au gabe korbanmi Hassit nai di
 
 Parsahalian ma marhallet dohot ho
 
-![Parsahalian Ma - D’Kosta Trio](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-pKxkEWAkWxRf6L8ejo_gwwkvSabuMC_JvP8f9ucv-uPkNdbfhu-X01FC0sdDB12rZ9gQ48JuoV8TrpLgpaevGxbbBHBiC4AlVNw7_yFHBBDsv_wteETCw3Mru6kiFCg9YVH6cY8i4ltciA_LRdAIf2NJZ_2hQ6fO37ool0FGoBH7kcbBpBxYrz4V57j1/s1280/parsahalian-ma-dkosta-trio.webp)

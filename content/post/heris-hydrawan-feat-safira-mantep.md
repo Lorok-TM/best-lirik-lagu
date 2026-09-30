@@ -23,4 +23,3 @@ Ra bakal ono sing iso nggantekne Atiku wes mantep ning kene Bareng bareng ning k
 
 Aku sing ndongakne Aku sing ngupayakne Kanggo senenge
 
-![Heris Hydrawan feat. Safira - Mantep](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhz1KjjnmkT2VHNfH5u7oUSxngRet8hfWXAY5tDbXxnxM5bBOxDWUz51oNpqsgoRb48ICLvuyDX4UjCS3zhuPOfoNedOEux7YE4Wb43_mj6p8aT8U2DdPajDbIay09bWh9x3BJb4KIBOmhOwu8zMorIXn7m4hneRIbAy9wFdJo6iemco_fnMvWdR5Llu_pf/s480/heris-hydrawan-feat-safira-mantep.webp)

@@ -23,6 +23,5 @@ Title : Malang Denai Bamimpi Artist : Yaya Nadila Songwriter : Erwin Agam Publis
 > 
 > Dimalam beko jan sampai mato takalok Pado isuaknyo tajago batin manangih Gamang di di hati dek ulah mimpi sadarok Nan marusak ka badan diri
 
-![Yaya Nadila - Malang Denai Bamimpi](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSDrj8rVb95eVwi_zhqOQRA_9eMv0CijOogbalpJDIc1nFey-XFlBTV52Z6qWw3GIqOvam3VykimmWO3byWEfl40yQeVntJ4UUInizu2bgfmg7wvEWhCB7DIkDpo7wx1QAgyVN4hMd96vZyPO1-gL-VHueuZ3wqnp-h8as2JqoqsIY8HorYtYFdigHGg/s1280/yaya-nadila-malang-denai-bamimpi.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Yaya Nadila - Malang Denai Bamimpi. Silahkan bagikan juga ke teman anda.

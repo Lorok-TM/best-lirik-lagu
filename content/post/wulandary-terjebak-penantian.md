@@ -25,4 +25,3 @@ Kau bilang pergimu untuk kembali Dan bersumpah setia sampai mati Kau gantung cin
 
 Jalan lurus yang kau janjiakan Berliku kini kau berikan Aku terjebak dalam penantian Kau tak kunjung datang
 
-![Wulandary - Terjebak Penantian](https://i.ytimg.com/vi_webp/mgFcKg1eSe8/maxresdefault.webp)

@@ -39,4 +39,3 @@ Sabana sero rasonyo Den dapek mintuo kayo Dulu hiduik den sansaroJacky Kini jadi
 
 #Credits: Judul : Mintuo Kayo Voc : Jobeang Cipt : Jacky Arr : Jacky
 
-![Jobeang - Mintuo Kayo](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6ze1HfE5qjovobjOkppI0T9tidsDzd7DxcVC2GE2CrhqKwYR5xSMBjsP6m-MWx370rSun4YJ9FBk6d431MSYdEOEDptkORSHMQ5iaHAdNFL6ObTZhoZa-BstC15h7CvM2QnPDYRQbiEFmVP-QqDfFRGdIC-hmI49dAB3_2mY55COvH2P9VSFoJs4J_DiD/s1280/jobeang-mintuo-kayo.webp)

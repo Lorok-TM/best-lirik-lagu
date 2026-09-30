@@ -27,4 +27,3 @@ Bersyukur tak terhingga Bersama kita menyambut hari raya
 
 #Credits: Judul : Salam Hari Raya Voc : Fieya Julia ft. Ain Syakirah, Kyra Bahar, Qhadijah, Farah Insyirah Cipt : Ismisham ℗ & © Aries Entertainment Sdn. Bhd.
 
-![Salam Hari Raya - Fieya Julia](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhj81M6zp985hgyJeefqDltfW7Jr5BEFSQrvZVbPZwGG96uytffSfaAZMgK4hznCBTpa5ouTXjzk10aK-3LyU5hiTN7-XfP5SI1dEKXDZUf_4Pxu3rFX9KC6dOOpDVFXIo_cVCe19Rmk_qoS_h0fLHhuA49Yp_67L1XRedsQGSudI8DyeQ4_1Lek1iCsBQE/s910/salam-hari-raya-fieya-julia.webp)

@@ -27,6 +27,5 @@ Title : Kekuatan Cinta Artist : Hafidzul Ahkam ft Moch. Hendra (Syubbanul Muslim
 > 
 > Ku tak bisa balas semua Keikhlasanmu luar biasa Ku hanya bisa berdoa Semoga engkau tenang disana
 
-![Syubbanul Muslimin - Kekuatan Cinta](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgD8_ChoEwfqxZApuqwTKFHh3kXPKwXcpWEQ51PHJtFg6ZL4-sPTKuaYj7hWCfG8CQ8iR4wSlZ3wY5YDSUVk8B1XU9MBXes4YJdqlUY3u8WzoPAlB3xkE3zmO6YvguXyQcO7I5olatDQSkhRQnrB3RK4zTH7_ViKc1CL_NxRvINzLUOGrPBdZGuE0p2ti1-/s1280/syubbanul-muslimin-kekuatan-cinta.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Syubbanul Muslimin - Kekuatan Cinta. Silahkan bagikan juga ke teman anda.

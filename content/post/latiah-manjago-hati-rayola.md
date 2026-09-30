@@ -25,4 +25,3 @@ Sampai hati uda sayang Denai mananti balupokan Sio sio latiah manjago Uda bagant
 
 #Credits: Judul : Latiah Manjago Hati Voc : Rayola Cipt : Rozac Tanjung Arr : Decky Riyan
 
-![Latiah Manjago Hati - Rayola](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhV9cJqKrf6juYBzvScaFRKHBzy5egXgyKOeSLYMD9BwkINgE39BX3C3m4k20oQ5-bxCxoFDdTP1ZoBzTzvzp1mddPMcmxw5_cPLZZymyOiqSuSBFpf_av_8en-mmiYYjuxH49aqWBl2pSivtQEIvGgjstarQpcST5eRlBVFyigaPWgODck6bN7kHAgsvq/s480/latiah-manjago-hati-rayola.webp)

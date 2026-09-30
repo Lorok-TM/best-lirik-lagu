@@ -31,4 +31,3 @@ Dadada dadada luh rai putri bali Dadada dadada luh rai putri bali Dadada dadada 
 
 Dadada dadada luh rai putri bali Dadada dadada luh rai putri bali Dadada dadada luh rai putri bali Dadada dadada luh rai putri bali
 
-![Lolot - Luh Rai Putri Bali](https://i.ytimg.com/vi_webp/tznOoOiwGWg/maxresdefault.webp)

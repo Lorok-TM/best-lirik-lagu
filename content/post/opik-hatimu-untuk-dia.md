@@ -23,6 +23,5 @@ Title : Hatimu Untuk Dia Artist : Opik Songwriter : Ajhay Pasma Published : Nadi
 > 
 > Sungguh tega dirimu prmainkan hatiku Kau beri harapan yang palsu Jika hatimu masih menginginkan nya Mengapa dulu aku engkau terima
 
-![Opik - Hatimu Untuk DiaOpik - Hatimu Untuk Dia](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdO3NIV8WA3SBaPhFlMbvA8B_XkBypiUoVhEYRJkhTcigC6VxXS22HYkC9IvzKKZAvPwIqdf5ssxzHks3ef1XAJAuq8Qhqp9bAhDXHFxfILXiJwBt-FGExdQwN1Q5NkSsrkoTuiuML6iJvCyXX6ml9pMzunxmAXGjtDEyvAjIKU4j0LGSOLMCaIPpkxQ/s800/opik-hatimu-untuk-dia.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Opik - Hatimu Untuk Dia. Silahkan bagikan juga ke teman anda.

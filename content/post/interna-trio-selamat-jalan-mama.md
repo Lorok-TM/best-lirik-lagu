@@ -23,6 +23,5 @@ Title : Selamat Jalan Mama Artist : Interna Trio Songwriter : Ganefo Marpaung Pr
 > 
 > Selamat jalan mama selamat tinggal anakmu Izinkan aku untuk mencium mu terakhir kali ini Selamat jalan mama semoga kau damai disana Doaku selalu menyertaimu sepanjang hidupku
 
-![Interna Trio - Selamat Jalan Mama](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8xTDKXXo32H8F0WiEpiJXRkSsjIuL36PpdkjbcWzsK7iF46lbas2CG0RQbxScfIyRrHepPyE-vO-xLdLvMBaB0UdFd5mWx8lJyfl9KfIV6z2GSQBiUvs9sUyACdVdZ0puUizDc_ez7KOHUH7DIdsIlKg1ruRC4bobL49SpoEK2X70waLUa7UcmdfZzg/s800/interna-trio-selamat-jalan-mama.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Interna Trio - Selamat Jalan Mama. Silahkan bagikan juga ke teman anda.

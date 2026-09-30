@@ -39,6 +39,5 @@ Situs bestliriklagu.com tidak menyediakan chord dasar / kunci gitar / Mp3 lagu S
 > 
 > Mari saling menghargai Hidup dalam keberagaman Kita jadi kuat jadi bangsa hebat Salam Indonesia harmoni
 
-![Mifthah Aulianti - Salam Indonesia Harmoni](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTZgi2w-GgVG2Ccel5zheyutSLSeCIiRGNiNKjIjQ1j7WZ86oEcTswP_CjScL0sNjwB6T94QyWyoC7a-POKGySxPINjH_M7z-PJDQZNETlRsnlDJNrbJNZ5949i7Aqmy73jKybftMW_zvuYVHJ4-obqmQCA8lcjwhuxBWaBPZ0iih7A7DbtjTvu4CsSw/s800/mifthah-aulianti-salam-indonesia-harmoni.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Mifthah Aulianti - Salam Indonesia Harmoni. Silahkan bagikan juga ke teman anda.

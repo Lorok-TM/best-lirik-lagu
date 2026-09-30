@@ -35,6 +35,5 @@ Title : Berdosa Artist : Fresly Nikijuluw Songwriter : Fresly Nikijuluw Category
 > 
 > Dan beta tau selama ini beta berdosa Berdoa deng orang salah
 
-![Fresly Nikijuluw - Berdosa](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvh6-JJH9X9gsY64U0DLjudD0-fYx_jHehwwLBfzxGgsxwZJUwO7_5XrtrqOig36JYO_WjdFJnDJJKOahAAYnMX58gYBUfCoZ44r-q3QcyNwkA-h_q7RBGDDqMj6oSHemyYSIGyw_P6TJFZZZXJfh8ArbvmAXSTBBemlr6fkQULRNfzrgAQ2NwvACaLj3K/s800/fresly-nikijuluw-berdosa.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Fresly Nikijuluw - Berdosa. Silahkan bagikan juga ke teman anda.

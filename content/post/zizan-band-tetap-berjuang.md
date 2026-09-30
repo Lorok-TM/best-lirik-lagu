@@ -40,6 +40,5 @@ Title : Tetap Berjuang Artist : Zizan Band Songwriter : Dodhy Hardiyanto Label :
 > 
 > Sesaknya nafasku ini Di saat dirimu pergi
 
-![Zizan Band - Tetap Berjuang](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgL-8NkyoaxnBktC6yaH_eF9UlO7sLD6AUnisqo84ysmbSGGOyfboszSAVnNojBH9zI5BpDRi84i-YXf2vBqwf2quFDMST2-Y7O79bjV0H87I8OvyNEzk05Fs_6rOwDKKDFz0tYJ5cQ4XgwcGpSIl70t3E5DpOOgoGleYu_WPU8jom3HlwBFeWRtnUipw/s800/zizan-band-tetap-berjuang.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Zizan Band - Tetap Berjuang. Silahkan bagikan juga ke teman anda.

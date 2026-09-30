@@ -23,6 +23,5 @@ Title : Pelengkap Ibadahku Artist : Tri Suaka Songwriter : Tri Suaka / Nabila Ma
 > 
 > Ku meminta kepada yang maha Memberikanku jodoh terbaik baginya Ternyata kamulah hambanya Yang di kirim untuk melengkapi ibadahku
 
-![Tri Suaka - Pelengkap Ibadahku](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBXZ2U2x3sxfe3Meziu0QB-OjrEXAt-pR3wi_6eZXlg7hGl2uM54_Cjr9B2QyY6CGr8KW5rLy7j9DnyVzFiJEl_xHr6So_-732e-1pSnhT6oOU_tXAKsWjsTzfs9jAsgpeqj_WjtacaSZYm3lFdmHm7-rEsIUMI2riJ-W2_EUK8qa_W4_Jm9XFA3yJSluC/s800/tri-suaka-pelengkap-ibadahku.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Tri Suaka - Pelengkap Ibadahku. Silahkan bagikan juga ke teman anda.

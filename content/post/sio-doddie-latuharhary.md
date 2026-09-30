@@ -5,7 +5,6 @@ categories:
   - "timur"
 ---
 
-![Sio - Doddie Latuharhary](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCxhAxuOYgGthFH71JmV-wVCtm7VXUET5FqMHa9OHdPUBPi9rWOmRRXxiliSvBLZu_qbMKrPOHEbXcDOfp9vgIfkWfcDqBskyPVrhCyiTak8ekMqdmoEwHyf3KcV9GeDdE7knKVEQPIRTfIMLu9DkAX9AdclhNdDMhLwttHNw8Jkj6w-aInYr0HiLa8DMO/s1280/sio-doddie-latuharhary.webp)
 
 Karya musik berjudul "Sio" yang diciptakan dan dipopulerkan oleh musisi Maluku, Doddie Latuharhary, membawa narasi mendalam tentang penghormatan, permohonan restu, dan ikatan emosional anak terhadap figur orang tua dalam konteks budaya masyarakat Indonesia Timur. Secara filosofis, komposisi ini mengeksplorasi nilai sakral dari doa keluarga, di mana komunikasi personal—seperti momen seorang anak yang meminta restu untuk melangkah ke jenjang pernikahan atau menyampaikan rasa rindu mendalam—menjadi fondasi utama dalam transisi kehidupan kedewasaan. Latar belakang cerita dalam liriknya menyoroti penerimaan tulus dan kebahagiaan orang tua yang responsif terhadap pencapaian sang anak, mencerminkan nilai-nilai kolektivisme serta kontinuitas generasi yang harmonis. Penulisan narasi yang berpusat pada dialek lokal "Sio" ini mempertegas identitas kultural Ambon sekaligus menegaskan bahwa restu orang tua dipandang sebagai elemen spiritual mutlak yang menentukan keberhasilan hidup seorang anak di masa depan.
 

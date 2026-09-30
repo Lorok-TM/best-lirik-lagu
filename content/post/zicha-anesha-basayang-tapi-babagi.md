@@ -5,7 +5,6 @@ categories:
   - "minang"
 ---
 
-![Zicha Anesha - Basayang Tapi Babagi](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnbcI3DPgKsK126vUuRHuG1b8AoIjcq9t93QiuZkO1KrgEjM90aeK5EQvsfDaloWXudNgCHq89kFs_piU0vkQUuoMvBCi3hZdy1TXusC2KqmyCQhLO52hs3dAw7Mrx4HeMzsicwymRN-4wBpKTmOITqIcPHjsxSiGe1pAg3LCS4msRWGMHeqPMlKs8Xemt/s1280/zicha-anesha-basayang-tapi-babagi.webp)
 
 Nan bungkuak di makan saruang Nan bengkok di makan tali Titian runtuah jikok barakuak Bacinto dalam bacinto Basayang tapi babagi Baa rasonyo
 

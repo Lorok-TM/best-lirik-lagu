@@ -15,4 +15,3 @@ Haruskah kurelakan Dirimu yang selama ini kuharapkan Jujur aku terluka Melihat k
 
 Musnah sudah harapan cinta Yang kuharap selama ini Kini senanglah kau bersamanya Tinggal aku di dalam sepi
 
-![Rheina - Sia Sia Mengharap Cintamu](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYTKxqrBN2kgrzoYTYZTILF_CwRHXyOm0RTZqRiVoIWKJZetihjSa961wdvPuR_Ynj3XbPjlgNiTfcByBz1SNT4_cMXBU2SY89BpqWoX-K7nMhR91Wi3VDZYbEa0Qn7cBmMGsW9RIFne7l-JpJDosAJ3rhRVFxgpVpJOdFr2-qhEh53qMDPg24z61NmdY8/s1280/rheina-sia-sia-mengharap-cintamu.webp)

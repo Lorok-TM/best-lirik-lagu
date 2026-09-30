@@ -33,4 +33,3 @@ Demikian lirik 'Semesta Asmara' sebagaimana di atas.
 
 **Credit:** Judul : Semesta Asmara Voc : Vintonic Cipt : Ravin Kalindra, Nicho Benito, Heston Prasetyo, Satrio Pratomo, Mandy Robins Arr : Ravin Kalindra, Nicho Benito, Heston Prasetyo
 
-![Semesta Asmara - Vintonic](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6hJPhYEYOO_klgPVCxL1bib90hgUIgP48hi6OtoyH85PQ_rkdL6S5pi2WDXsMJrdPN-cOaajmG6ndnCWrTmtwGlMXbcZ3ACvsHi0JDHxyn4sC_pbJrHy3AEUH2unOiejz2WQuHrrsX9Vx_PsQbZY6P4pwN5Y-uqgibCIt8pd6xbSV0_Gh6wp_LVHaBZ8U/s1280/semesta-asmara-vintonic.webp)

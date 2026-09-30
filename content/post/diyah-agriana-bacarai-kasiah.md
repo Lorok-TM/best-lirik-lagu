@@ -33,4 +33,3 @@ Tiok malam denai bacinto tuan Di dalam tangan diambiak urang Tiok malam denai ba
 
 Bacarai kasiah, bacarai sayang Siang jo malam tabayang-bayang Bacarai kasiah, bacarai sayang Siang jo malam tabayang-bayang Bacarai kasiah, bacarai sayang Siang jo malam tabayang-bayang Bacarai kasiah, bacarai sayang Siang jo malam tabayang-bayang
 
-![Diyah Agriana - Bacarai Kasiah](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7SpscejxvjiZLKFEKXcUoduy76kKuVDvvJf5lUnXe5Px0a53jieAHGSjMXtXNh4e91haowJF15WcdGPivG7v9lWt4WCeGbPMcbevU7wM8PkzkIhT-qAsj0xv_7zQka6VhBgSbjnAULa4eit5UC6VFLMZqrzUWxMT4xY3wdn6HecUkNFN9Dr_HeE7y1NhO/s480/diyah-agriana-bacarai-kasiah.webp)

@@ -25,4 +25,3 @@ Demikian lirik 'Wis Lisuh' sebagaimana di atas.
 
 **Credit:** Judul : Wis Lisuh Voc : Laily Suci Cipt : Sinar Lintang Arr : Nanang Qosim
 
-![Wis Lisuh - Laily Suci](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIlORYUS7DbNln9ykqjMbtzqpOiZSeci8aZLp9wjLIDyWvzIgbDsLyG59AB4xIMp7ABIBC_8kAcLGvi7rMG3ddKEFPlEa6PIk03lL4x9Ner3oIhZfj5C67O3wwc-yLNHRNAcIiKf9k_r9frhEp0ZnPixUX0SoD4awquH-yKNvcKJhC7v7ccDyE6GArfUg2/s1280/wis-lisuh-laily-suci.webp)

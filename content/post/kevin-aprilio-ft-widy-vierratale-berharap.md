@@ -5,7 +5,6 @@ categories:
   - "indonesia"
 ---
 
-![Kevin Aprilio ft. Widy Vierratale - Berharap](https://raw.githubusercontent.com/Lorok-TM/2026-08/img/kevin-aprilio-ft-widy-vierratale-berharap.webp)
 
 ## Lirik Lagu Berharap - Kevin Aprilio feat. Widy Vierratale
 

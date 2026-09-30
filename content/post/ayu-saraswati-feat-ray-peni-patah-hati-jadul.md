@@ -81,6 +81,5 @@ _Patah Hati Jadul = Patah Hati Jaman Dulu_
 > 
 > _Yang sangat dapat ku pikirkan Pacar sudah berat Hidup pasrah lahir batin Aku membuat tetangga yang melanjutkan_
 
-![Ayu Saraswati feat Ray Peni - Patah Hati Jadul](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhR0tsi2eiyqxna2TXqaaM7-gKKdRsme-aWNrxSYUYuiS__Op6hCB1OnYgOKOfdAfHvCmeKSWHuDjXS7rFYj6epD4T3NKbBSbX2Ky5hKxMyHT-K8fpezmQToha4PjVp6SDyX4F3ofQb431n4enxawrTpMlosRM57LXra1nUp9rCf8umioL6qeAgXI_Ovw/s800/ayu-saraswati-feat-ray-peni-patah-hati-jadul.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Ayu Saraswati feat Ray Peni - Patah Hati Jadul. Silahkan bagikan juga ke teman anda.

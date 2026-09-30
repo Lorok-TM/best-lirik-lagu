@@ -38,4 +38,3 @@ _Babusau Cinta = Dimabuk Cinta_
 > 
 > Beginilah rasanya dimabuk cinta Lebih memabukkan dari anggur merah Perasaan jiwa tak menentu Pabila lama tak jumpa
 
-![Intan Aishwara - Babusau Cinta](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8uvle5qzOh3OtkXpTW6XNrtYfeSyurZYtL2XdKfi0TuiGKJm_fMHXCukkHC5fuAPF0ln398tyt605gy40I0MBKDaszRe2AxCrMJgdapGSZmcS6JYuk1X66x_cJnE9sgMrmnZIwS4IR1brGFCrr8BQ89aw0ump2FBEbjNWwE0eqW85BKYnLeyewlo43A/s1280/intan-aishwara-babusau-cinta.webp)

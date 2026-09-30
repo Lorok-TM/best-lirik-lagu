@@ -15,4 +15,3 @@ Harok jo uda sabimbiangan Harok basandiang dipalaminan Siriah nan jo pinang cinc
 
 #Credits: Judul : Di Kaja Bayang Voc : Indah Delvia Cipt : Amri Damanin Arr : Decky Ryan
 
-![Indah Delvia - Di Kaja Bayang](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGoOycQUdvqBimxoY4UVebdbJp3PGWxcUXQ9lZnoPVefZt6wg1IntJ8hRbQwJYiTA_-MarOpMFuwTMPLo7foPAtAzoe9NHGgovSarE2qHkbbB_3RCZlnkIGS7yIu_2katLShXCtyxNW_xRLuhUGbi_xhLPFYNeNu-SBOab2uuweFQ_QQ0UDJAdldKvsAfx/s1280/indah-delvia-di-kaja-bayang.webp)

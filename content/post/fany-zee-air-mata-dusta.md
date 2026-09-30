@@ -5,7 +5,6 @@ categories:
   - "slow-rock"
 ---
 
-![Fany Zee - Air Mata Dusta](https://raw.githubusercontent.com/Lorok-TM/2026-08/img/fany-zee-air-mata-dusta.webp)
 
 Kukira kau setia Ternyata kau mendua Teganya kau berdusta Sakit sungguh tiada terkira Kuhapus air mata Kubasuh perihnya luka Agar ku tak merasa Seakan diriku baik baik saja
 

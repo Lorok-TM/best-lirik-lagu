@@ -19,4 +19,3 @@ Rasane kangen tenan rasane Ra iso ketemu amergo kahanane Mugi mugi kowe iso njog
 
 Demikian lirik 'Pengarepan' sebagaimana di atas.
 
-![Pengarepan - Silvy Kumalasari Feat Achmad Twentynine](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0iMEqzwJHVox36uaxmP-tPGO62ahDEc6N55Nkieib62Fy-3fw1CPUQ_bvpxi7bpy-lQnKd0CmrLbi49iq5nNao-LtLa7qa53fhL0YLiCHvYUT15pDqOwdpZh1Bp17Gl8X6VPKVThKzo62hUdEtXzd_BXehUvzF7jG-sj-_QBn5MeLUwUKcue_wYvZCtQz/s1280/pengarepan-silvy-kumalasari-feat-achmad-twentynine.webp)

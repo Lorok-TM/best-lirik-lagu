@@ -19,4 +19,3 @@ Ha He Hm
 
 Ha He Tak mungkin gubuk jadi istana
 
-![Eno Viola - Gubuk Jadi Istana](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-gcx_P_ycHTrW7LY51OorudfI7LK46UerOL3sdJeaRzVypavmiWYUbVjAEwIYt-C5SjsrXv0VO6W99PRJgsRBn5UXwMynGErjlHv7OL1AVjlm4-VXOOKu2QVSMXZ2FMnJ8zOoK0lLsuuO2JourjVAhQrlg2BYlbjyxSCfZmMKokcXcQeark0UTPHDSKcS/s1280/eno-viola-gubuk-jadi-istana.webp)

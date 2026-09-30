@@ -25,6 +25,4 @@ Title : Jodoh Ditangan Tuhan Artist : Aprilian Songwriter : Faisal Asahan Publis
 > 
 > Cinta membara didada Tak pernah ku pamerkan Kerana kau ku cinta Kini tlah berdua
 
-![Aprilian - Jodoh Ditangan Tuhan](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSVaFD9j01miHXfheIzIxZNCCxbdF3nMkS_QybqGjRKzdOXYsHe65k2JsnyQrmAZmu89a0jdMvZsEO5s8MRbxniHXmHUk5PSBeVCkL4Z0o6BaX3uWRsquaPxB5IkjBSMZmqMjWavyCOiCphYikFNfD6V1baBrLcqGBBaxJCfQMr1O1hDw6k4mPHjSVZw/s800/aprilian-jodoh-ditangan-tuhan.webp)
-
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Aprilian - Jodoh Ditangan Tuhan. Silahkan bagikan juga ke teman anda.

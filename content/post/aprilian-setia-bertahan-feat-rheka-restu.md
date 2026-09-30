@@ -28,5 +28,3 @@ Di saat aku rindu Tak tahu di mana dirimu berada Apa arti diriku di hatimu
 Sepandainya engkau menyimpan rahasia Dan pada akhirnya kan terungkap jua
 
 Ku serahkan semua padamu kasih Masih pantaskah aku kau pertahankan
-
-![Aprilian - Setia Bertahan feat. Rheka Restu](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1nEdKSgMCsgARIxCaK8qLwHgH8OyRD6DSWKh7iSbBKrD-6pwpzo8HyXrQlhX-HOTktil5g3VXHxx7OvfLOuudcE1ZjzgTluWIBOlzpIIs5f1vDunAZ94J1szp1vHYXcsKfRRgRDagAIMmCMDvqHUcnlaWpTQMuPpN_OM7gxv0TiBg7dlfY-pcK2njKglZ/s480/aprilian-setia-bertahan-feat-rheka-restu.webp)

@@ -17,4 +17,3 @@ Hati pedih dan perih bagai tertusuk duri Janjimu kau ingkari Ikhlas aku terima d
 
 Serpihan kisah masa silam takkan kubuang Sampai saatnya berdiri oh batu nisan
 
-![Silvy Kumalasari - Tangis Tanpa Air Mata](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzj_2TlRVpjfmP7_P7t-N9V6iy0fy8JGtEh-T_GMWzwzoKdTS98yYgedUGdXpAvh2N6_e91NKQsOGqyUZHfbpmY4K4ZWkL3UqQmukB6btqpwpALkMZIWtib268ZUVS6TCUx3WFdtg78O3gxVSo4rodxXZrsx8RC2xz3Zj6EyX9agjZ3AmYDQINN3PwguBV/s480/silvy-kumalasari-tangis-tanpa-air-mata.webp)

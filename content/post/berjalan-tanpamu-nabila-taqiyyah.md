@@ -37,4 +37,3 @@ Demikian lirik 'Berjalan Tanpamu' sebagaimana di atas.
 
 **Credit:** Judul : Berjalan Tanpamu Voc : Nabila Taqiyyah Cipt : Caturadi Septembrianto Arr : Dimas Pradipta At Sum It! Studio
 
-![Berjalan Tanpamu - Nabila Taqiyyah](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibaTk7bZQ5nZHy4IltRfbTIG5G34fGdhTHWGfUvzfuaWY25igT4aWwZbwLqs4MSte6i1FMZ3gXqqLfmxyV29oRloFrPN8XoknXEOEZBToD6QbImLcoeN8Bqy9MJaS2VGf8IBeX5Jo42BYMrZzjTocxj9gl47q6gH5OVWQpk7osw-CtJs-KfLxVUUic0a9I/s1280/berjalan-tanpamu-nabila-taqiyyah.webp)

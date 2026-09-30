@@ -37,6 +37,4 @@ Title : Suda Rohangki Naeng Dohot Jantungki Artist : Anis Gea Songwriter : Buche
 > 
 > Hata ni halak suda rohangki Naeng dohot jantungki Hata ni halak paningkotan ma i Lao humongkop ho
 
-![Anis Gea - Suda Rohangki Naeng Dohot Jantungki](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKkpQ72i-NL2bX1WRBDV1etDeIijh9kQ63_lHJX_tspf9SKeLPvlVwLeO2EDLAB0FZ1lpYLRKpc3wtyxUD0Npbxy4D8rnNEUa2L4tr8fH7uxb6nncJNxibfGfQBWFdXlCgwDn0dgDFx1V6eRKcwYeQ8g78fcrh589cwV4sWPI76sv78kmYbZn4tzPJkQ/s800/anis-gea-suda-rohangki-naeng-dohot-jantungki.webp)
-
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Anis Gea - Suda Rohangki Naeng Dohot Jantungki. Silahkan bagikan juga ke teman anda.

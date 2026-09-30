@@ -25,6 +25,4 @@ Title : Anugrah Cinta Artist : Aprilian ft Fany Zee Songwriter : Ajhay Pasma Pro
 > 
 > Mari bersama merajut cinta Kekallah hendaknya Sampai di penghujung usia
 
-![Aprilian feat. Fany Zee - Anugrah Cinta](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjT-Bc-Qc80nR-IVU63Domx1gSFXC0mQUQIRTg_Jsr9KY75GE7p3NWM5Wkdn1uqe3R6zsh7mv8vbS50tDlN4SnkNlmWo7UbC6kv-tb_BpXpRMsfD_HLQYA6o0osI3KeOlzKBVQulkV2TE_2MlIL40jaBK3m-OuTBhebl0v6N89UIQoaZGxOeuO8dP0ybK8h/s800/aprilian-feat-fany-zee-anugrah-cinta.webp)
-
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Aprilian feat. Fany Zee - Anugrah Cinta. Silahkan bagikan juga ke teman anda.

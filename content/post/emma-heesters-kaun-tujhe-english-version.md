@@ -31,4 +31,3 @@ categories:
 
 Title : Kaun Tujhe (English Version) Artist : Emma Heesters
 
-![Emma Heesters - Kaun Tujhe (English Version)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhyL93j4kYVKN54Eq_31wdTU6l610dIHxQZgAnRWzP5Uqq2oaobasNg4MrHw5fQgCnk4XeyrHDO59Rdky_HCPUEHcrkw2p6mGgp-WFIoM-3AJoLG2RMB_CzDtNDkxfnu9WwtkujPyVK33Fw7tjPczzdmBNRmJy9O7TTA8Xfbh1DmdO4liG7h6Hd-WdyA/s320/emma-heesters-kaun-tujhe-english-version.webp)

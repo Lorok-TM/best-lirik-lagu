@@ -15,4 +15,3 @@ Mangga adiak namua jo manarimo Lamak di urang ndak lamak di kito sayang Kok cint
 
 Indak denai harokkan ka tajadi Cinto indak lai bisa mamilih uda Sirih jo pinang lah tibo Batarimo jo urang tuo Apo dayo kito
 
-![Lamak Diurang Ndak Lamak Dikito - Eno Viola Feat Pinki Prananda](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDVjzO_T5Toj0hVzIy7kesQNKRB5Re6fzmpYZemoy9ggc935Cq1cg6jFdGj656ZFFf1SsVd5Mg-ESo-6W1rp5AHH_uyXtN5DFUgC3fjXebK7wD4-_SxzXbfkpIfVl8tkbEzuM8AJh-pq7kx4K4FPywN8HswWQrYYh3HBZ0MTf0DdM-d1uZAIZFTnNKK5GT/s480/lamak-diurang-ndak-lamak-dikito-eno-viola-feat-pinki-prananda.webp)

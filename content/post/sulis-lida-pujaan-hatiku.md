@@ -5,7 +5,6 @@ categories:
   - "indonesia"
 ---
 
-![Sulis Lida - Pujaan Hatiku](https://raw.githubusercontent.com/Lorok-TM/2026-08/img/sulis-lida-pujaan-hatiku.webp)
 
 Senja berlabuh di ufuk timur Membalut rindu kian membaur Gambus berdenting mengusik kalbu Mengingat kasih yang telah berlalu Tiada terpadam api asmaraku Walau badai datang melanda hatiku
 

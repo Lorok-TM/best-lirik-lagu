@@ -5,7 +5,6 @@ categories:
   - "java"
 ---
 
-![Siji Di Ping Selawe - Trio Macan](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8JtwCSbf6zDd1hx2tpnpPkx5Dyju4ovMZR4XLkNhr1rcaQDIQldVkLCvRYqT4h6-GH0FbAXQtplwuOffqUgiU3zScQ-MTKW1EUAklyg0DT6ncf2vbXQWcrd1ZYVVSXBeXaGeXTb40hMpuDZ2Cd6aaZWe6OS01GuXFIyBG5WYUzFtz1knFbfUiyDAUSAfU/s1280/siji-di-ping-selawe-trio-macan.webp)
 
 Siji diping selawe Kowe mung siji Tekan selawase Siji diping sedaso Siji – sijine mung kowe sing tak tresno
 

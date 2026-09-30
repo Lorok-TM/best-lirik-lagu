@@ -39,4 +39,3 @@ Sa tinggal pantau ko trus Ko pu sifat macam begitu Tra sama dengan waktu ketemu 
 
 #Credits: Judul : Sa Tinggal Pantau Voc : Gienzany, Chena Zayn, Gustrian Geno Cipt : Ajhay Pasma, Tri Suaka, Olgar Lum, Moluxskai Arr : Reymond Kuantan
 
-![Gienzany, Chena Zayn, Gustrian Geno - Sa Tinggal Pantau](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_pfEkJeiA-mC26QLcoFNW_Xc-RfZWV1Ek9BRviJAMG4B1gI_IDp55W82QmUyVPkQUuxLXFZdcjkdH4NlfazFKvBHwGLkj6NMDgzCNHiqA9DoZa0mT2qHATGY2OPwsq8kbWfG0PuwaIkbaWSI1EWRelSLYpzWgKpBXWjdWov614fTXZP0FpzauFwzEb_B7/s1280/gienzany-chena-zayn-gustrian-geno-sa-tinggal-pantau.webp)

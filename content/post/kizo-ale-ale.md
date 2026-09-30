@@ -35,4 +35,3 @@ categories:
 > 
 > Kini ku tahu Jangan tertipu Bau wangi yang mengusik hidungku Itu hanya bakal menimbulkan marah Kesudahannya aku yang terluka Akhirnya kecewa aku duduk di rumah Menangis aku di bucu meja
 
-![Kizo - Ale Ale](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAx50SapqAFsAsBgOoU-3ti1aiPOyGLeLkiLGIDR67C_l_W8BrpV0TLGAAliGu3U9N2rqN9x9lGdyxBMC_GbYRvzzC5_DNES2Dd4fEU7iTLEbLsPFB2dt-bxfIJMZKJ05PYZd7SEh50-pVFooFkg2Mxvh2QryydUyG20FNc_FzhwZc6hSwUr-HDVAiNQ/s1280/kizo-ale-ale.webp)

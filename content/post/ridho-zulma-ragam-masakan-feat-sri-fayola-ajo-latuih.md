@@ -27,4 +27,3 @@ Inyo sansai badan jadinyo Sajak bapisah sajo nan kini Ndeh da kok lai bana foto 
 
 #Credits: Judul : Ragam Masakan Voc : Ridho Zulma ft. Sri Fayola & Ajo Latuih Cipt : Yus Pilihan Arr : Vandy Satria
 
-![Ridho Zulma - Ragam Masakan feat. Sri Fayola & Ajo Latuih](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOoAS4ccRBM-aKa0Ra9pdUA8odd2ohop7OiCkpCzRynE7QpfTHlA4CbpHYPkvyl4Uf_g3q2TkewsJnAOtVWYvIQluT8Qpc3hcZAmy_gBI6IVpRwF3a-jURKWkv24-LKX9hM4a6EmBkSHUf6YXemtOT2_iBIUDCM6AEGG-h2IveTVXFlbvDTg0kC6-P43MD/s1280/ridho-zulma-ragam-masakan-feat-sri-fayola-ajo-latuih.webp)

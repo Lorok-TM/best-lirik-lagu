@@ -25,6 +25,5 @@ Title : Indak Mungkin Kasiah Baulang Artist : Rayola ft Daniel Maestro Songwrite
 > 
 > Kini pailah jauah jauah Lupokanlah diri denai Apo ko lah abih bana raso Ka diri denai ko
 
-![Rayola Ft Daniel Maestro - Indak Mungkin Kasiah Baulang](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWE65fV-M9_dRtmeSLEE3Xx8qeTaEt3yi2m50vVCfk1-Iy5-f_dXcBbdRKKUZ9O9JOKJUfDRkZMIkP-BeTb93SGlEjaAAWfcfRdfOLeNVvpVP14_Zk-UmwTJl6u4-CvAN8UjOXH4pVV07hn2xgVJZZMay2aQN0aZpx43FJuVH-oJ4hp6eBdpmbDXEN3A/s800/rayola-ft-daniel-maestro-indak-mungkin-kasiah-baulang.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Rayola Ft Daniel Maestro - Indak Mungkin Kasiah Baulang. Silahkan bagikan juga ke teman anda.

@@ -25,6 +25,4 @@ Title : Kurangnya Apa Artist : Arief Songwriter : Erix Davino Category : Lagu Po
 > 
 > Harusnya apa agar kau peduli Katakan saja agar ku mengerti Berkali kali engkau menyakiti Tak kau sesali
 
-![Arief - Kurangnya Apa](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfkoWko82_wLqmevvcA7I8R3cpSxN5L1WjTOaghk7-rJUSgbwpsZIMSPxGP6Bjf_L6c8JBcSgFws6i43hj5licjG2zO40uZausF2RvoNDRg6vzNoSp8UTw2Heg8gcL4uT2Qp9CEoDoamRUjQtOLU8cx4Zvx5Kqw6UWwmSilS2exFWYlB-bn2tr_V9LSg/s800/arief-kurangnya-apa.webp)
-
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Arief - Kurangnya Apa. Silahkan bagikan juga ke teman anda.

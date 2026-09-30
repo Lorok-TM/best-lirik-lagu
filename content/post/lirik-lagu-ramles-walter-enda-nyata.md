@@ -31,4 +31,3 @@ categories:
 > 
 > Ku nyangka bisi pengerindu di dada Tang semua nya enda nyata Ku nyangka ati tua sama keran Tang nuan mina ngemula
 
-![Ramles Walter - Enda Nyata](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8nFOX7vLE0V0CnoCGMlsWskq8NVvh0D69d1fZv5UOAbPIQdV4kDeQ_6ViFcs5xvav8U4FMRH8Lp4cPw45rrmstpYMM69voyWWJTZcUx6VHaolUuYy8U-SreeRCKqCvySrF2K5HVmS3Se9tOauVgWmxDPgFdj-YzYkDs3HZ8Bs5HcNJ2-afwVGEZPwtg/s320/ramles-walter-enda-nyata.webp)

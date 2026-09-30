@@ -27,4 +27,3 @@ Dipatuik patuik, putiah lah mato Denai maharok da datang ka pulang Dinanti nanti
 
 Katonyo urang, mambuek risau Uda takabek, si gadih rantau...
 
-![Takabek Gadih Rantau - Fauzana](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivZalXmxX4BF-oeuIgREdQJaxjf-Xth0BStuVTLO9I55PfUuT3kkZlvDwgMlz2LzLyqOIKxaGGg8F3H4smpdb0-Y4_UGrILonMKw0HWSB-FKQNwEPz7oX6Crv9NbGU-4Ob_AwPePsw2ERYYPR7VvIAj1suSXkVu84rM9EzdhFgb1dkAvLzV-VC-7KZfELI/s1280/takabek-gadih-rantau-fauzana.webp)

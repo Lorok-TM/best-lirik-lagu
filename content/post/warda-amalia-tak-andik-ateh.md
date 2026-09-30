@@ -31,4 +31,3 @@ Jege dhika cananah Jhe kor mettoh ocanah Tako tak pade ben kanyata'ennah
 
 Tak andik ateh dhika nyake'eh Se ca'ngoca'eh Tak andik ateh dhika nyake'eh Se ca'ngoca'eh
 
-![Warda Amalia - Tak Andik Ateh](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaUzOfLisGlRyqd30DdIvyr2hZgpnJlr0uNEschydxZJb-AouzOUJmlc8j8fhbhKLtMgLEmQOjXCpMEn9l1sHHLnnis53DPdYjcsKVsEvXTK_D8_dPBnzW02rXGX3Dvsnu8FNpoMSdZ9EoN2ifGkbnA7zqsSFkc8Quh1lJbm1U75fETgR0pWzJ_v5RQrJK/s480/warda-amalia-tak-andik-ateh.webp)

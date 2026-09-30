@@ -29,4 +29,3 @@ Demikian lirik 'Marhua Ilu' sebagaimana di atas.
 
 **Credit:** Judul : Marhua Ilu Voc : Roinna Siahaan Cipt : Rhomatua Pandiangan Arr : Feciliachesta ( Hans )
 
-![Marhua Ilu - Roinna Siahaan](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjA7T0B77HzqnLbmRgY74IXbPFd-OHqYfS82qDB8tTFIoRnHGJ3S5882RQv7N4xnxr7UsMG2hRClCoroacY8pf8KGlii5nxOh1nZDDD5nh0WXTvxTW0P_OkfMmTIUeOct6gSh7soNiDINMQvlYTIYKkAr6CdqujgGavX1-iKdanWl4oZfV_JP-EXWx5SOG/s1280/marhua-ilu-roinna-siahaan.webp)

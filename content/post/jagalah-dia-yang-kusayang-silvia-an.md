@@ -21,4 +21,3 @@ Demikian lirik 'Jagalah Dia Yang Kusayang' sebagaimana di atas.
 
 **Credit:** Judul : Jagalah Dia Yang Kusayang Voc : Silvia An Cipt : Faisal Asahan
 
-![Jagalah Dia Yang Kusayang - Silvia An](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWwEujtGfvqK38j0vZvlGOmLG89j67LJolVLGsSpVLYIgXZWSBZZNKClACc6uXIMvBTI7S5VkgAOCYf6dFmFf1NCOqmz9HKGIgnRVgfupjHLv90cUrehxASX3geqrIU_zWa6htAQEYRDDRaLg2XuXQqaaLNZ8ggo1m0qSgNgIFQuXIWxnpfS-nWCQIBvMD/s1280/jagalah-dia-yang-kusayang-silvia-an.webp)

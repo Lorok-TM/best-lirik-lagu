@@ -5,7 +5,6 @@ categories:
   - "batak"
 ---
 
-![Basadoi Trio - Dang Boi Targanti](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEir4dKSpd1xQSHLBUVgr1lT_hgNr8-WcXSgS8Sn8wXHZJVXdiL5sbC7G8DKVyty0naUamYe9PLFKrxkaFBxjf8tsKZYKHgJJf9gSn0O4y2Wy_JXoN14gv-f-30zeLST1uqqpwpDOTJzW-Cknn4qsTd7zNUz-U9X-ayu_iF_grY3Q3vGnOrDKoQbszuilSvA/s1280/basadoi-trio-dang-boi-targanti.webp)
 
 Dang marna bosan au Mangusehon rohakki tu ho Bagas ni holong hi tu ho Dang tarsuhatan i Dang haulakan be
 

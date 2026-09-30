@@ -25,6 +25,5 @@ Title : Abu Di Mata Artist : Ridawana Daulay Songwriter : Masputra Pasaribu Prod
 > 
 > Mangarti ma au sannari hata ni kasih sayang mi Umpama bibir inda mosok mandokon api Sannari baru husadari holong ni rohakki Umpama butiran ni abu dimata mi
 
-![Ridawana Daulay - Abu Di Mata](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj17rrTL4K6l5bguykQvkV6IjbQKbUAIIdKUK2ZYuDZHpTbmfcc5hWhiRluiGJzl2kgLjgl_LZoAMQJ4ftrzbGvWQBSA24VWnSTcajVPzuaA64SdN65PDhq1hWT81DnR-jaxos0ZPXs3qLnaVzJR0XHfC9rnaK-dl-uccx7fe7Ad-TltDZGvCRY7p_8HA/s800/ridawana-daulay-abu-di-mata.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Ridawana Daulay - Abu Di Mata. Silahkan bagikan juga ke teman anda.

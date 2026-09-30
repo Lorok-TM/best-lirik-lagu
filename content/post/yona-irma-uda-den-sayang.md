@@ -35,4 +35,3 @@ Sayang oi uda den sayang mambuek Denai sabana mabuak kapayang Sayang oi udah den
 
 #Credits: Judul : Uda Den Sayang Voc : Yona Irma Cipt : Ferry YJ Arr : Chito Deona
 
-![Yona Irma - Uda Den Sayang](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiY59_pYDPLueOmZalPs4xqN2IYuuSi7fI-DHx-XjVYdu7DO5JuMiP_KuPdkh7ay_gN8ix7T2qPGGv0sq8W8SM48jmnC2n3cMEcXstE43vsSE8bY8nMB7TE8XoLBhAJaSAvZ8UyIAkBLZ-Vpcc_62N92lCyZRUK6ureW2pxx-znnC2d4kydw1P9Kbci3OE0/s1280/yona-irma-uda-den-sayang.webp)

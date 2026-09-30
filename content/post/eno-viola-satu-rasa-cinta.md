@@ -25,4 +25,3 @@ Ku ingin kau merasa tentram Biarlah berada di sampingku Karna diriku sangat meny
 
 Ku akan membuktikan cinta di hatimu Satu rasa menggapai bahagia Kupinang dirimu sbagai teman hidupku Berjanjilah kasih setia bersamaku
 
-![Eno Viola - Satu Rasa Cinta](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPc7HcgJ5rdR4w9kXviMYUomz2k8S_GGPVfCKZ9gqHXFdKq1s1LaMFHkAYEs_XzLh4v73WMSXpfMAzuDJ0PDU-P-6oogk5fQJUOmmdMLTFuadCxf5J6NuQVfeJOxmoOSQzcRZSk2fAbufFNTISYn-fqxh35efjAjCnVeh-wbTw38MiMkGur3HM2GLD8A3B/s1280/eno-viola-satu-rasa-cinta.webp)

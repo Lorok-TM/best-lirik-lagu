@@ -21,4 +21,3 @@ Salah uda juo manga mangguriah luko Diateh cinto denai nan suci Kini untuaklah a
 
 Salah uda juo manga mangguriah luko Diateh cinto denai nan suci Kini untuaklah apo uda datang mambujuak Katiko sakik lah batamu ubeknyo Salahnyo uda talambek tibo Denai kini lah ado nan punyo
 
-![Gienzany - Salahnyo Uda](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEia7UoKjBB6vI67nXN9smCMhEXQRsjZONmwIYCoq17VeCjr9aosGpMtFYE-fOXuYfV4T0CAXss4f_Mlc_5pp8bvECkiTPn7BphyphenhyphenPK732f_iRsmf3pT2qCMoc7aH6q1bMJWjOgTJr8tIdRgYf7YxKkiAQDyUfp6iItXEkgVugnmuRmD-_jfwYDbOdlgTMaJg/s1280/gienzany-salahnyo-uda.webp)

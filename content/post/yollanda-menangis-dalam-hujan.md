@@ -19,4 +19,3 @@ Inginku teriak di tengah lautan Agar suaraku tak kedengaran
 
 Air beriak tanda tak dalam Kalau berguncang tanda tak penuh Karena sakitku sudah mendalam Walau di obat tak akan sembuh
 
-![Yollanda - Menangis Dalam Hujan](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgMhVAcF1kpJKymC3cXUyciMC18DH60x2rq-sIRjE5Py0afHiGerTauN6LDHFvy-K7O8DJXzoEh5ZEsd_lMKnGEAtNysHN9x3K8HwfFAeAmz3yGKLAB55tEJ4HvQpu-ZWtnwv-MfXWPqz5WruyLGTjEtHPQJuw8qkbdYvAfz90QNe-KdtS_19WEGciAN5f/s480/yollanda-menangis-dalam-hujan.webp)

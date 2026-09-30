@@ -13,4 +13,3 @@ Aha do nuaeng hu baen salahku tu ho Gabe boi tubu hatami tu au sisongini Ingot m
 
 Nungnga percuma Kesetiaan ku Na marhallet tu ho saleleng on Putus lah sudah harapan cinta Molo so boi taranju au be ho ito
 
-![The Boys Trio - Aha Salahku](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiA3WoJtpUhST9SUhxl_jTzQXur3yD5ITiwx73eLQ_xgA9tvtQJi2_5xDBx5BMIkxtTP-jvCo6PXwRentbYmVL14TRMm0izowtGUIk2x3yQGxAFD6vSCMXIu0mTGuP1X-_9utRjAG8PI6bsmT2bcAA7WlryahugXU-vAVEB0CdHhtjNndxFBiHTSGCGsuaZ/s480/the-boys-trio-aha-salahku.webp)

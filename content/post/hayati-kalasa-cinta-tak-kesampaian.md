@@ -27,6 +27,5 @@ Title : Cinta Tak Kesampaian Artist : Hayati Kalasa Songwriter : Taufiq Sondang 
 > 
 > Biarlah rindu rinduku menepi Biarlah angan hanya sebatas mimpi Sayang cinta tak kesampaian
 
-![Hayati Kalasa - Cinta Tak Kesampaian](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-_GfgFiy3q7rRIUxXxpcU27c361w6c4c-uAlJZIXJt_dtEKh9e6nkUN_eERWYCIqs-DzvkzuqsCGY_QsrumrG67JrMUnzJ7JHYTpSK_RWtt3EUoydMbu1dl_DDOHet-_a_EyKwwUS0KyyVzTe_UHYAN8PLdrLiJhTIeB5LTbL9mpemajhueH1cSWvYg/s800/hayati-kalasa-cinta-tak-kesampaian.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Hayati Kalasa - Cinta Tak Kesampaian. Silahkan bagikan juga ke teman anda.

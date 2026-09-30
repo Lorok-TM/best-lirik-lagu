@@ -25,4 +25,3 @@ Kayuah biduak ka pulau cinto Kito balayia sampai tujuan Nyampang kok kito sampai
 
 Barakik rakik kito ka muaro Barang ranang yo katapian Susah sanang barumah tanggo Yang penting kito sairiang jalan Susah sanang barumah tanggo Yang penting kito sairiang jalan
 
-![Pinki Prananda, Eno Viola - Garah Bagarah](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4Iwhb_vs19UuBkpdITQXA2QzeTIoB-QHnL91OFPV2WCIHMdoCil_aioDL1pwY88QvLNTojXUa4AHIMR574NgNahqUEWHvA8wsnE2gao_bnlY5RombW6dthX71DoJ2iyGxf7aaMbekOnA9E8PMbODYppSdQ4VtQEjGO00mbN5Xyt6sRwtZtakfo3OCR2WF/s1280/pinki-prananda-eno-viola-garah-bagarah.webp)

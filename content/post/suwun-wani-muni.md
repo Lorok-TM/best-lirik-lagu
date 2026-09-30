@@ -23,4 +23,3 @@ Tak lilakne yen ngene dalane.. Tak trima-trimake yen kudu rampung critane.. Wis 
 
 Coda : Wis tak pasrahke Gusti.. Suwun wis ngancani..
 
-![Suwun - Wani Muni](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3mi0L5ESrcWghrL-ry1Ywe3yd9BkZxHrmwoMTZ5IuZ9IuDo0AV6DILf2OkZH2G0coahH0LFCBAISUqx2g-8r4563U-BzqBuxSqKgyeegJ2du0mpZvpeeg_dksudU_RmGAFOiRBqBWbgy0SRlEiH1sfXemvPCq7bcYdERrIMdtk8i2cMLb8Rn4kZ3wb_xq/s1280/suwun-wani-muni.webp)

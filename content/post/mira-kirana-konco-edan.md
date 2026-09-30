@@ -21,4 +21,3 @@ categories:
 > 
 > Ku ra nyongko ku ra nyono Koe tego gawe koncomu nelongso Koe tego gawe gelo Tatu loro wis ra iso di tombo
 
-![Mira Kirana - Konco Edan](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgk1Vr92W3oxVyzbW_gEjgYX_QHwlslAnPXR7Z3E1svt11mGeOlLr-t_eTsBbD_mDMKjX7YB5gVVLHoxrtCNwy5nzvTSKZgngZKnY7WZAEQAIzJQZd4tdFtYRqhIG363p5UwhViQeqs9UtbAA4HRpUDOLIFMVFvqQZlECXJS4kuSImOdKrAWpfIixcjbg/s1280/mira-kirana-konco-edan.webp)

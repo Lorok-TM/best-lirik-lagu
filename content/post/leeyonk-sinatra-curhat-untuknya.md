@@ -31,4 +31,3 @@ categories:
 > 
 > Tuhan tolong selamatkan aku Tuhan tulungin je tiang melewati
 
-![Leeyonk Sinatra - Curhat UntukNYA](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwTHvF0LcmCxmdKh9i2uQ0B8cvp5iWlPZma0sCgbezq5uAXEb_WuaGSnkh9-FWcHCdqrYqD-biZuEOdCdZXy8NdbUCYeazbvecIi9iprkBTDisKg0kRli3sZYM6S763YCsNR2_VsxP17MPWajy6ZGalnu6zfBSXCZf39O5OTVSxwyZWMz0E3V9_fpflg/s1280/leeyonk-sinatra-curhat-untuknya.webp)

@@ -5,7 +5,6 @@ categories:
   - "java"
 ---
 
-![Safira Inema - Wijining Tresna](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRo7QgyNjZaQyRfB36t5vbF-DD_xF1p0D61vu2UsBSDRtThceEEMf-aPTFL21Yxkg9v4xDk4-RgbDWUQsPnv0DhCL0_fYznTTLkav3wUGZl_DgFIQE5KN1YWB6AyA-9IEVRRzFn3jlV0ZGutWCLh5bPcPuZejhTr1cLDUcQJQDLm3GUZOeG7EGaVW_9c7H/s1280/safira-inema-wijining-tresna.webp)
 
 Ingsun tansah karasa kangen Marang sira ingkang sun remen Esemmu kang manis tansah ginawe ayem Bungah sun nyandhang wewuyung
 

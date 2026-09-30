@@ -23,4 +23,3 @@ Kini tiba waktunya aku lepaskan Merelakan harapan menjadi kenangan Takut ku bila
 
 Sudah suratan takdir Cerita cinta kita Tergores luka dan air mata Doaku kini semoga bahagia Mengiringimu dihidupmu selamanya
 
-![Iqa Nizam - Harapan Menjadi Kenangan](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJqFVVTr_OTb8Qw-3sasMHuzM1m1biheOosWje4QmSV4bg54ppeOobiai5qRNYD337Nz7JP23q_VUfb6ZM6NNDN7mi0g8WpwiTR4riwtiqOpriG69PPls2d0Rpvz_Echqp9m8xwI7jes773Y037eOL9J760rSsjlt6kUVKXJkyw17ZTX1hAzwNl7X-JPzF/s1280/iqa-nizam-harapan-menjadi-kenangan.webp)

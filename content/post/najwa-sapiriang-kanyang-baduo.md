@@ -25,6 +25,5 @@ Title : Sapiriang Kanyang Baduo Artist : Najwa Songwriter : Ajhay Pasma Producti
 > 
 > Ingek ingek maso susah dahulu Jan lupokan maso bahagia kito Denai rindu uda nan dulu
 
-![Najwa - Sapiriang Kanyang Baduo](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqTjmCin6qaO2VEXqjb5MPS6yBzJoZSxACXb2QC0zoJ70bHk3gl_aZKDefH2B2cfbL_ytCZz0yAch9KmUPfhLdw65N_X9AZmFpF8_uU82obXiAeuW7jKRM1tmTXoxRBycOUDxSuYdE3wHknyIi9PmZXuzsV_iTDYYjU0vCuHNAa5sxbnLRFwN8gJcwUQ/s800/najwa-sapiriang-kanyang-baduo.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Najwa - Sapiriang Kanyang Baduo. Silahkan bagikan juga ke teman anda.

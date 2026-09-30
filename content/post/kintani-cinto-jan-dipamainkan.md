@@ -31,6 +31,5 @@ Title : Cinto Jan Dipamainkan Artist : Kintani Songwriter : Evandudyana Producti
 > 
 > Bia bia bialah Cinto lamo jadi kanangan Hapuih hapuih hapuihlah Nak jan jadi sasalan
 
-![Kintani - Cinto Jan Dipamainkan](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvdPBsiWNdNErO_ZwrJKfh2wHlOqHLersGC_O6yjyfK9FPIU6omnUgf5fkx5l9SSjddgtXLiRxHFr5U57VuO862N7EGkRYOYa7P3waZOz5pQZKx-r2cgDVygGDNXn1tuDln_uwrmbwmTdShNeEppVuuCjoNtSzo4efn2RCCNbxYaQf152URC_2qt-90A/s800/kintani-cinto-jan-dipamainkan.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Kintani - Cinto Jan Dipamainkan. Silahkan bagikan juga ke teman anda.

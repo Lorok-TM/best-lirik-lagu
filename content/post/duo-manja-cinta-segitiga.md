@@ -29,4 +29,3 @@ categories:
 
 Title : Cinta Segitiga Artist : Duo Manja Songwriter : Reza Arjuna89 Publisher : PT. Arga Swara Kencana Musik
 
-![Duo Manja - Cinta Segitiga](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsJXtsiM5Z0xBcO6UQ9vU-0g6hwbVbEqyORclNHHhJ1kw7WzbksiERvmRXRTptH3BqId2OIAeaaDkWE3AbK-Y03ItpTVBxOwZ-FnjcMhGB_mRSRCpS5ix6nIMadPLIYDldycJcEGpiZIsV5OpRUbeKRLVzzbbpZ6Irc0OiVuIt8reNayjvsvicj0kocQ/s1280/duo-manja-cinta-segitiga.webp)

@@ -17,4 +17,3 @@ Ago uli ni boru ni raja Malo muse mambuat roha Holan boru Batak nauli Na adong d
 
 #Credits: Title : Ulinai Boru Ni Raja Artist : The Boy's Trio Songwriter : Ir. Richard Sianturi & Sinnson Arranger : Sinnson
 
-![The Boys Trio - Ulinai Boru Ni Raja](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2iKalXYwsULfoTr1NzexPoYlm236DJJw7pQ8EF0xB5010BObJ7MUVpvH3843p2KkPMhBQPmmNSSYwVJsLz7N2LIW7MdubnB-9Aaku8ga5MnalARfa0SIWpfz5nOSpjzW2hDVPCN3nvBzH8a1w7fK7Uvti-Aw-uqMw8VwJeZAkMbGq1TpGvpjgl4lr4EN2/s480/the-boys-trio-ulinai-boru-ni-raja.webp)

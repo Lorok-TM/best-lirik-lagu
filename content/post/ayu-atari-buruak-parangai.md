@@ -17,4 +17,3 @@ Takicuah denai kini malah kironyo Sakik nan indak tabado
 
 #Credits: Title : Buruak Parangai Artist : Ayu Atari Song & Lyric : Amri Damanin Arr : Vandi Satria
 
-![Ayu Atari - Buruak Parangai](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFTerPe32TSUIsc66G9b1dU-njMib-uSjhwvjy_ygzaq7SJS1xoRUJ1pnjbHPWbeSiCUcYCGkghxWZlKzhw0uomzKSGby-i4G1Xwig1xkKJ4SAuyiQwzm8b9Vo4VPPovAy9EmPC7epJk_0zwKLgxvrBInDtDZzvET7KUYhyphenhyphenpITpyHEd2KBx6CgQnu0lby6/s480/ayu-atari-buruak-parangai.webp)

@@ -23,6 +23,5 @@ Title : Semua Kerana Dia Artist : Taufiq Sondang Songwriter : Taufiq Sondang Pub
 > 
 > Kerana dia kau berubah Kerana dia kau tak lagi cinta Kerana dia aku terluka Semua kerana dia
 
-![Taufiq Sondang - Semua Kerana Dia](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4ac8flaVh5j188PcCGH762btCm3Nj192vjMt5RUXQG6m50-zpfFZ81OlQgqv7jTFqXQen2kkf8TbtK4daGxZ0gGCFQ17OzALhPa0k4TZSxM-pS502bIQvPPywtGn1JeYgepoNZKu-khnV3ykNXIxx9vzL-nUPPL9kdV5su5PvXVAE97az-GL6fQm7lg/s800/taufiq-sondang-semua-kerana-dia.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Taufiq Sondang - Semua Kerana Dia. Silahkan bagikan juga ke teman anda.

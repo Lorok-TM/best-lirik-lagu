@@ -23,4 +23,3 @@ Emaka ula rubat kita duana Ertuah bayak sangap ibas jabunta Enda purih turah i b
 
 Enda purih turah i batang pola Bekasndu milih ula kam erkadiola
 
-![Iche Br Ginting - Jumpa Ras Ate Ngena](https://i.ytimg.com/vi_webp/5ILhfzf6wrc/maxresdefault.webp)

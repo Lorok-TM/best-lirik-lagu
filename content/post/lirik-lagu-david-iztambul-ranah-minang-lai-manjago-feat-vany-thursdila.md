@@ -27,7 +27,6 @@ Situs bestliriklagu.com tidak menyediakan chord dasar / kunci gitar / Mp3 lagu R
 > 
 > Janji nan lah kito kabek Jan sampai putuih sayang Samao badoa taguahkan iman di dado kito
 
-![David Iztambul feat Vany Thursdila - Ranah Minang Lai Manjago](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiH6X4XUJCTlpu07pulKfibH2Y9Pz3p66mRlddwbaLW6broaedoTGcqFIfxYNurMLJj_Zv9WOcLqxAsyYKHOx52kDOs2yXuVSVJBxf395NQ4UrZeaRssVCoJus3hmvvxlyXkDPzuhkfK4gZQC0DaCVDCjuu1ITU1uqDIpTzd-fQhhIfYFxwLkkEZS_J8xfL/s800/david-iztambul-feat-vany-thursdila-ranah-minang-lai-manjago.webp)
 
 Tujuan kami berbagi ini ialah menyediakan dan menambah sebanyak mungkin informasi arsip lirik lagu untuk mempermudah bagi Anda yang ingin menghafalkan lagu Ranah Minang Lai Manjago ini, maupun belajar bermain musik.
 

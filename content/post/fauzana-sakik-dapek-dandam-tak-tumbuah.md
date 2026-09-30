@@ -27,4 +27,3 @@ Bukan sakali diriko uda dutoi Barulang tajadi indak tabilang jo jari Diharokkan 
 
 Nyatonyo denai basangko salah Alah biaso uda mungkia janji Kato nan kini isuak barubah Lain di bibia balain kirinyo di hati
 
-![Fauzana - Sakik Dapek Dandam Tak Tumbuah](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgETfCKpMSesEra89kWu_3TsJbjsWEn45RxYmNKwz737fJ-nHGfKeL7ySUnLWiT4hTWFJJr1j6yKI63JXzGfuV_l-Nk8lYAiXko8Yv92UsGFfGzpTEuG3oCEuATrvaawKAbeDshQs30XlmnIlnHK1zk4e4E7RKBHtI1Ca23IAF98bjfcyjkUKJSVA9UI8a7/s480/fauzana-sakik-dapek-dandam-tak-tumbuah.webp)

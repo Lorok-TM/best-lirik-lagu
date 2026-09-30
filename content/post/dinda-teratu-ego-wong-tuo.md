@@ -17,4 +17,3 @@ Kudu iso kuat balungane Mergo ra di songgo wong tuane Kudu iso ngadek dewe Raono
 
 #Credits: Judul : Ego Wong Tuo Voc : Dinda Teratu Cipt : Royhan Niamillah (Mas Roy) Arr : Royal Music
 
-![Dinda Teratu - Ego Wong Tuo](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhM8yJlUDd2JXksj_aiygzCdxogCJ67zuGluLSeVrAFqQ08GU_JRFi3akCDep58OMqJ-XPJX4rw0rzwt0rrsmo-93wRXK9s9k75FOt-fPdPJgJUb4ydv3zgO3tMiXLlXfPDrllITSVFdOCBTvTs_SK6YI90xM79sG6pQzk2yH6zqF5ygYwktkV1P1YQblrj/s480/dinda-teratu-ego-wong-tuo.webp)

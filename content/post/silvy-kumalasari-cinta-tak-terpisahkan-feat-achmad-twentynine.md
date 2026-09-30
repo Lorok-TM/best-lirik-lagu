@@ -35,4 +35,3 @@ Hatiku s'lalu mendoakan Semoga Tuhan mengabulkan Cinta kita tak terpisahkan Wala
 
 Cinta kita tak terpisahkan Walau di akhir jaman Cinta kita tak terpisahkan Walau di akhir jaman
 
-![Silvy Kumalasari - Cinta Tak Terpisahkan Feat Achmad Twentynine](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRICa9pLH5Q_vu1tILrIlXKhiIUdGaTAbpdElJlcYvMWN5BL5EcsLASF9ZbB5b4yvQGc9m-Vj7L7YHYLHaYAi2CtAJJnsM4I1j7k_x4GSLweEWw64w05DTVWntPlwc3Yq_R9JQAsVN8NkCJGAxCeejtgdJDKFa_Cgwq1kDxP-V2TLz8yfD5b6sBojBGp9g/s480/silvy-kumalasari-cinta-tak-terpisahkan-feat-achmad-twentynine.webp)

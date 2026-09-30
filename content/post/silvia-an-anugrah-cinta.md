@@ -27,4 +27,3 @@ Jikalah takdir sudah menanti Bimbang terlupa bahagia terasa Nikmat diberi takkan
 
 Mari bersama merajut cinta Kekallah hendaknya Sampai di penghujung usia
 
-![Silvia An - Anugrah Cinta](https://i.ytimg.com/vi_webp/GFJK-PLw9sU/maxresdefault.webp)

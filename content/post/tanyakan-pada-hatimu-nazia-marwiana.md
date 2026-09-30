@@ -27,4 +27,3 @@ Demikian lirik 'Tanyakan Pada Hatimu' sebagaimana di atas.
 
 **Credit:** Judul : Tanyakan Pada Hatimu Voc : Nazia Marwiana Cipt : Adi Bugak
 
-![Tanyakan Pada Hatimu - Nazia Marwiana](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0SQPsyr0t3SutTxUgK2GECb8sBjgzVwK0tDlhODL2GM_S2fo6DHdHpNMThoZV7nmhaiGD7lyS0QgRW0POHPHHXjO-SEwa3Q_U71hyphenhyphenU1BSgb4NObdBJeGYI2xMt0kCALJH3O6YgCwXHAJPEe77db0EnuDrzLduP7aYbuQH6YT_2bxaOhnwcWgPeTkqELIN/s1280/tanyakan-pada-hatimu-nazia-marwiana.webp)

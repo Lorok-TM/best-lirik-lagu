@@ -31,4 +31,3 @@ Wogamö khöu ohitö dödö Möi abula dödöra Möi abula dödöra
 
 #Credits: Title : Böi Aösö Artist : S'nada Trio Songwriter : Man Harefa Arranger : Azwin Harefa
 
-![Snada Trio - Boi Aoso](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyBjCYef3bBsXxJyKyJ6nHmbqvL8wKtmXHf0n1EaufQEDg8C13Swrl7Eg8yK2-BIlkzMBHdBehGRzqVHgWpfjp04M8QpfEsQ2njDeVtLLvQBfPTHhKrbjqcplejq3rBA-f6BbScUHQ7gQ2vooIdXvEN1K7AeWFAuD-v7UShJE961PGDjJy221TMwERywCP/s480/snada-trio-boi-aoso.webp)

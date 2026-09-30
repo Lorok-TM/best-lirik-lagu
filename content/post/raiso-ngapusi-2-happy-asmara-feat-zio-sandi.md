@@ -6,7 +6,6 @@ categories:
   - "java"
 ---
 
-![Raiso Ngapusi 2 - Happy Asmara Feat Zio Sandi](https://raw.githubusercontent.com/Lorok-TM/2026-08/img/raiso-ngapusi-2-happy-asmara-feat-zio-sandi.webp)
 
 Karya musik berjudul "Raiso Ngapusi 2" yang dibawakan oleh Happy Asmara bersama Zio Sandi serta diciptakan oleh Aryan Saputra dan Yuda Laksono Edi membawa latar belakang cerita tentang realitas penyesalan pasca-perpisahan yang berakar pada ketidakmampuan hati untuk membohongi perasaan sendiri. Secara filosofis, narasi lagu ini mengeksplorasi batas toleransi ketulusan dalam hubungan, di mana tokoh utama menyadari kesalahannya setelah memilih orang lain, namun pihak yang ditinggalkan telah mencapai titik penerimaan penuh untuk tidak kembali memperbaiki hubungan yang telah rusak. Dinamika dialogis dalam liriknya menegaskan pesan objektif bahwa tidak semua komitmen yang hancur akibat pengkhianatan dapat dipulihkan, sekaligus menggambarkan pendewasaan emosional melalui ketegasan sikap untuk merelakan masa lalu tanpa harus menyimpan dendam.
 

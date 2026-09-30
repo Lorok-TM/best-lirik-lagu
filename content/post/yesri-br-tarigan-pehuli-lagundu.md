@@ -27,4 +27,3 @@ Tempa lalit bandu sideban Si baci ngaloken aku Adi lenga kin atendu tading Pehul
 
 Adi lenga kin atendu tading Pehuli lagundu
 
-![Yesri Tarigan - Pehuli Lagundu](https://i.ytimg.com/vi_webp/ugAaHc618BU/maxresdefault.webp)

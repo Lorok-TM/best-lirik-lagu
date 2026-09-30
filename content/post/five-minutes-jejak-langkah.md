@@ -30,6 +30,5 @@ Title : Jejak Langkah Artist : Five Minutes Songwriter : Aria FM Executive Produ
 > 
 > Dimana dirimu Aku yang merindu Dimana dirimu Tak sabar ku ingin bertemu denganmu
 
-![Five Minutes - Jejak Langkah](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPcD6jGEKKAVU1vYS7uhBz05KYGSUWQRYKNuM14yx14bTDMFZCB6wnYA29Jdc5YpXTGP9RKPL2RitlecExcWmOsd8NxxtNyGjr10qhRjbIHLfnh_XopGBEXFRANPu-OcBt3bshs3cSN3oquTtYl25jwyzm-yWfWosQkX7l52ySgB8tD5Ml5ANDdWrFxQ/s800/five-minutes-jejak-langkah.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Five Minutes - Jejak Langkah. Silahkan bagikan juga ke teman anda.

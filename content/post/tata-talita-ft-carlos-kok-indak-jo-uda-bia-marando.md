@@ -23,6 +23,5 @@ Title : Kok Indak Jo Uda Bia Marando Artist : Tata Talita ft Carlos Songwriter :
 > 
 > Turuik kan kandak rang tuo Bialah denai mangalah Bahagia di adiak sayang Sanang hati ko
 
-![Tata Talita ft. Carlos - Kok Indak Jo Uda Bia Marando](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf0ByBVR-9jwXFvEHcLtWfF6W5IJ75BAbmL8O1ioRDVUTT-QLfUMxi_SdcQl9g7LDTRKxmUsCwwMufJKiDXG3KBu0eXfLuDbD44-NCrWCbyVlLXgmjJYCEcXkGeN1koqGjsyDhHPS8K-MxpS2cRgkuouHIvtPnopdSPoyuUdEBETlwn8Ow--Da99lnFQ/s800/tata-talita-ft-carlos-kok-indak-jo-uda-bia-marando.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Tata Talita ft. Carlos - Kok Indak Jo Uda Bia Marando. Silahkan bagikan juga ke teman anda.

@@ -23,4 +23,3 @@ Dalam gelap dan terangku untukmu seorang Dalam gelap dan terangku untukmu seoran
 
 #Credits: Title : Memilih Setia Artist : Yeni Inka feat. Delva Irawan Songwriter : Papa Rio Arr: Dindy Kalizzaka
 
-![Yeni Inka X Delva Irawan - Memilih Setia](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgm-CvrL-5mIftf8W23akYMK5iMdEYNsac-oFSFOzRHxnpWZ5fzDNCyxlf9WVf_Lo8uv_hYf4Qp8V8VDhAF1-NCu8tQvu75T9oT1ViNupXiRTMx10FF0KJN5PRtRLQ6-wFrWDsHrFxXugB83ZfpDGlHlei8NpNq6wBvbLI6Hsg2vpl_dzDPE1C8a8PWtIh/s480/yeni-inka-x-delva-irawan-memilih-setia.webp)

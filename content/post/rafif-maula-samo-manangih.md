@@ -13,4 +13,3 @@ Bareklah lah dicubo pikua surang Dibadan ndak tatahan Cari cari lah kawan bateng
 
 Disiko kito samo manangih Nak kurang baban diri Jikok aia mato ko lah Habih kito pasanang hati
 
-![Rafif Maula - Samo Manangih](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCjP5gIkg5aXd6CQzD0gTLg_TvLMqalZJK_o4AXuobTBJskbvfdqw4_Urz8n_g-TysyPuicmaNM5X3msDuVQ3K1a9MNYPL8lB2UYV8CVLRHWzVMIFnljM86EzZKRleXf90L408rvFNVFRpVYR7oprmvVsOIedXz5tz-RqQAHrrndDk8tNKMKtnqabO0v2X/s480/rafif-maula-samo-manangih.webp)

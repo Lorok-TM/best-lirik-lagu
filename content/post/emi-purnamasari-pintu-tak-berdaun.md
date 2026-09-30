@@ -15,4 +15,3 @@ Dulu begitu lugunya dirimu Bersujud memohon belas kasihku Tetapi mengapa sekaran
 
 Engkau bagaikan pintu tak berdaun Siapapun yang datang kau terima Sungguh kau tak pandai hargai dirimu Cinta kau anggap sepotong roti yang bisa kau bagi bagi
 
-![Emi Purnamasari - Pintu Tak Berdaun](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilir67M8bVUi6wzQKYQ-pfgNp3oDet6KfpLNuH5VlaHufxFsRBiHQhd_vpmATX-HVs06sfUXXBUFVbofsqGfClCskD2Ka8OEhQPKgB0GvMd5EtCtS2-vHYZ3Lf6btiPbvX2jGBxGJJ5KKhFWZ7gJzXX8n9m1_xLbbANTvZpZnNxmFcCB-BtiRv6CeI0NiR/s480/emi-purnamasari-pintu-tak-berdaun.webp)

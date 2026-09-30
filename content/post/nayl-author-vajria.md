@@ -15,4 +15,3 @@ categories:
 > 
 > Ku mendengar Suara menembus nalar Ku rasakan Hadirmu getarkan jiwa Ku mendengar Suara menembus nalar Ku rasakan Hadirmu getarkan jiwa
 
-![Nayl Author - Vajria](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEBk_sV6m-upzBDjdnB17muJFbUFLXQ6csMEVcdsEbLZgxOykssGxDkjTzY0Pi-FfXPxd4kryk_1GUGvnoYl44fCrWZlsOkF5LcIjhYA3ifYxBf0xO3oIX8Cnax0le0XnkigPNF6v0c-owKJYTfK2_Z_DNQDcsKS7USV2ClBtX6ZF6NlbMKc07NzmfKg/s1280/nayl-author-vajria.webp)

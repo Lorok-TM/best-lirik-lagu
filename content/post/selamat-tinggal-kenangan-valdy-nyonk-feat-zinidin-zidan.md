@@ -21,4 +21,3 @@ Selamat tinggal selamat jalan Kini dirimu menjadi kenangan Semoga engkau bahagia
 
 Semoga engkau bahagia sayang Aku doakan
 
-![Selamat Tinggal Kenangan - Valdy Nyonk Feat Zinidin Zidan](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRKt_ivBhhLH__3M_ZdbMneV3vnwJO5wOqMDacl1EJva56sm8I9F7zi8xgfst7WVtQuD81XMBtzN_nq2xb6wEWyyqfVqSG1XPmTNwN6PMFyTSvnqRXvEzNTdMUpGEWojZiNW4KItGWSWK3Jvs_WJ41u4fQe9BejHwrfuOf5Ha8RNzsY8zNOLS-hUKAj4Ht/s480/selamat-tinggal-kenangan-valdy-nyonk-feat-zinidin-zidan.webp)

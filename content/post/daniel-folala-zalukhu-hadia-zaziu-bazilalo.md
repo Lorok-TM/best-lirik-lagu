@@ -29,4 +29,3 @@ Aoha wangai abua wondrorogö Hadia zaziu bazilalö
 
 #Credits: Judul : Hadia Zaziu Bazilalo Voc : Daniel Folala Zalukhu Cipt : Daniel Folala Zalukhu Arr : Restu Jaya Mendrofa
 
-![Daniel Folala Zalukhu - Hadia Zaziu Bazilalo](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYzy-JcRVfAJpx8bcaJ1Zn9IierQXIqkOE9DhttJFV4OvTkP416gqyzUYTjKgC0z1KpvRiSQL3quUG5SZu7t1_1hAQZN7D8kfXpbzPwRI_PNTTaY4vYfjtFKY8L1xNCSgwzTRtFcw8tb3mw1SGYCTtagLgAFwz8w2543GNbvv2tMLt4deish8NmGcpD2vp/s480/daniel-folala-zalukhu-hadia-zaziu-bazilalo.webp)

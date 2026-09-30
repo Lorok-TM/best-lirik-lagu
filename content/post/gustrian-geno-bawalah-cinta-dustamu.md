@@ -29,6 +29,5 @@ Title : Bawalah Cinta Dustamu Artist : Gustrian Geno Songwriter : Gustrian Geno 
 > 
 > Cinta yang indah Kan datang menjemputku Cinta yang indah Kan datang menjemputku
 
-![Gustrian Geno - Bawalah Cinta Dustamu](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVovCcZi0tc0GGSRjTJFVZc1OtHH0VT1zbIF594eg9dMVR45c6O-QzmXc7yNqCqers_OuBMmK0S1Z-vv0ZuMmIISKnwywH81ulBHg6SsH3WeK91wP_5jgrrYLY814e8JaJ9BgIJ2LOcot42gEUX0gGnB5w5Kk3B_8_oaL0ywprLuYFiZAkjtb11m-OZr5K/s800/gustrian-geno-bawalah-cinta-dustamu.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Gustrian Geno - Bawalah Cinta Dustamu. Silahkan bagikan juga ke teman anda.

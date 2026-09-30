@@ -19,4 +19,3 @@ Demikian lirik 'Cintaku Kau Anggap Debu' sebagaimana di atas.
 
 **Credit:** Judul : Cintaku Kau Anggap Debu Voc : Diva Hani Cipt : Arief
 
-![Cintaku Kau Anggap Debu - Diva Hani](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitL3ZswNvBZbQxN1nGrTzYf-4i94y0CPAt7bj-QxytKtwHrBdDUfO-lv2tphGutmw9mj0UojOMNCxrzzxman1ntP4TAJdfIcTKii0A7OwD1875woWtz5mWZjDtuXKOwpT-dtGBSHw7Yw2Lv0ks4PaYhPuN3f1-jZOI4qIRln_MEmjhKiEeQ0-v_tbCBT2I/s1280/cintaku-kau-anggap-debu-diva-hani.webp)

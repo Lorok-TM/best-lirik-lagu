@@ -17,4 +17,3 @@ Ku janji padamu Silahkan ambil waktumu Ku janji menunggu Jika kau lelah denganku
 
 Kau pastikan dulu Memang benar ini yang kau mau Ku janji menunggu Jika kau lelah denganku Istirahat dulu Berhenti bukan inginku
 
-![Nadhif Basalamah - Jika Kau Lelah Denganku](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDIOPcH8jUeFakgrwbJ1qcPrmysRiPYCDAR6qxKuibFxV4eo-VJj6-ZI0E3-JjVLE2cYJiN_gerO6hV8BpTJKL3SBTgcbyFSkIyEQth8TKJJThVVboDI39EVxT6-73ywzXfdnFGQ-3edoPZQlP8pSvhG-Pbs5YU12_9wWmlAs-_zeLFQ84hDK0MczTfYvX/s1280/nadhif-basalamah-jika-kau-lelah-denganku.webp)

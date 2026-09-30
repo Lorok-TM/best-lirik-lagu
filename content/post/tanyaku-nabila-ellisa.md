@@ -5,7 +5,6 @@ categories:
   - "indonesia"
 ---
 
-![Tanyaku - Nabila Ellisa](https://raw.githubusercontent.com/Lorok-TM/2026-09/img/tanyaku-nabila-ellisa.webp)
 
 Denganmu ku temukan arah Tengah perjalanan ku berbalik arah Ku coba tuk taklukkan Keyakinan namun kita tetap kalah
 

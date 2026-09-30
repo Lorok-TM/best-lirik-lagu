@@ -31,7 +31,6 @@ Situs bestliriklagu.com tidak menyediakan chord dasar / kunci gitar / Mp3 lagu K
 > 
 > Kini ku sadari Cintamu padaku hanyalah sebatas harta Dulu kau yang memohon
 
-![Decky Ryan - Kau Yang Memohon](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhubOCMITZAPXCmkS7aMIhopAqRBzikJNe856dX9TFecQD6Icd2c2D0Zv28INKEkX-M9O3hru4YER2F6kc0Bjq487jzbm_bfrdFSsCNCcRpc3t6j5UmZAbhJ4xlgqSGyK7qYoDW_vE9wVDB983hg7wwzMH0gNWTEuCjhr4lSG6oWAtrjZyFarV3KdLA5ikp/s800/decky-ryan-kau-yang-memohon.webp)
 
 Tujuan kami berbagi ini ialah menyediakan dan menambah sebanyak mungkin informasi arsip lirik lagu untuk mempermudah bagi Anda yang ingin menghafalkan lagu Kau Yang Memohon ini, maupun belajar bermain musik.
 

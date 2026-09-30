@@ -49,4 +49,3 @@ categories:
 
 Title : Dadi Pelangi Artist : Dian Anic Composer : Didit Nata Jaya Arranger : Wisnu OV Label : Musik Proaktif
 
-![Dian Anic - Dadi Pelangi](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7iw0wk5rK1LjnONjUtQtplfomm1kmG4flmOX67kgn7N9k8gD1ORn51b_IzJGtdsroa5C2cZ5aMvHooGH2gAYLxMTr0FXi8Hy37LlhKdmE5bOIg9BdzTG8IibDJq9vR7WBDq6JRQyM_gyk9XZKIv7IjL4sBSBBr5yYlY3x8i2m5UhTCkSaBfNRHw_Y6w/s1280/dian-anic-dadi-pelangi.webp)

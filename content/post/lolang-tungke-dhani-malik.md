@@ -19,4 +19,3 @@ Demikian lirik 'Lolang Tungke' sebagaimana di atas.
 
 **Credit:** Judul : Lolang Tungke Voc : Dhani Malik Cipt : Sardi Uwo
 
-![Lolang Tungke - Dhani Malik](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKCcOdldFjtz5kERKp3cMQuuAQ9ocvoBjs1t-o3NrFUcNUtlI7b0BSqbAY73I6qXvQ1QmbPx9kfMcQf_ZhDYbd-Eq9dWf1yT5EV7obUpX4K_04Z6tYtaloRT5ZuyqY5fiXbLdvpQU5tcQkT6wg0lmeQM5Urdfo6lUlhNlHkwTqcRCmLHpH632dZMO77jlz/s1280/lolang-tungke-dhani-malik.webp)

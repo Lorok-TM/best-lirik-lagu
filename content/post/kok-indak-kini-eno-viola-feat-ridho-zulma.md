@@ -17,4 +17,3 @@ Dek hiduik nan mularai didalam rumah tanggo Usah sampai barubah kasiah sayang jo
 
 #Credits: Judul : Kok Indak Kini Voc : Eno Viola ft. Ridho Zulma Cipt : Ujang Virgo Arr : Reymond Kuantan
 
-![Kok Indak Kini - Eno Viola Feat Ridho Zulma](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzyylnXxn_2IrXijuoXLi2FogljK0RXm4V1sELtubM9795ETzstmPp2IqUrWftuNSI73Uk9kGra20YsThGST8quM1l6L_Xu_zjl3opuWmBZ63iVGCw6bSEiKMqFs_TX08AuHAbReR17YqpFFUHJiGOIuG2kKBJZBRwG6SBRxNY-VI4f0uefEI2ieyIoQN_/s480/kok-indak-kini-eno-viola-feat-ridho-zulma.webp)

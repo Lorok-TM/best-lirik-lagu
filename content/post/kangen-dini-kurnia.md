@@ -23,4 +23,3 @@ Kabarono kabar riko makne lego ati nisun Makne kangen hang sun roso Yo seng kari
 
 Jaluk tulung tambanono Tutupo sedelo baen Mesemo sak menit wae Masio mung jroning mimpi
 
-![Kangen - Dini Kurnia](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhy4aoI_ySgNVGzsx2xBRoEGCw9NrrmFzW3-XBKuA63HqD2LKacFazlmq4UN4GZIByPVubp3z4iKmq3R230GrZIObOOlEKAkEez7HWdkfz96S4P9lR3rC4HP69BjIn3BhCFirqG9pcC-9I9nBFUrwLpEXdG3eSssweCHwAGujj67cWwYFGWZWWaSWjp9E0a/s480/kangen-dini-kurnia.webp)

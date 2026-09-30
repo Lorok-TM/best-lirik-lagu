@@ -17,4 +17,3 @@ Jangan kau paksakan hati Hubungan cinta ini Bila tak cinta lagi Jangan kau siksa
 
 Cukup kau buat diriku Hidup jadi begini Karna janji manismu Sesungguhnya hati mu bukan untuk diriku Sesungguhnya hati mu tidak cinta padaku
 
-![Mubai - Aku Tak Berarti Bagimu](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaeLCsC7j6s1FAkXqxip0oq48lZRW2MEO4FLzz4IMkZhhqqBtwXEqRrLDifr-tipV6WPTAnkKOGMonBCGuVqnH5jowkmOY2RACHez5z9TSC-jv1OZXswyJbC9WyCFhCsjWzpBqRVKglO2T3ftI7cD6qL1ar3U6guEaVY5h7LkcQ0HZXynJX9X0aM4leuAt/s480/mubai-aku-tak-berarti-bagimu.webp)

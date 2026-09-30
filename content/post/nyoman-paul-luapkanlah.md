@@ -17,4 +17,3 @@ Cinta sudah mati mau apalagi yang harus aku benahi Hitam putih sudah dunia berse
 
 Luapkanlah luapkanlah Luapkanlah luapkanlah
 
-![Nyoman Paul - Luapkanlah](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgedb5RxZHSUNL3-pEhAs1dyMAtS4wnILb1Y9OTfXvZr8xkg99HASMcCViH66s1kEPAxcazY1uajIOWu4aRuj-aHHrZWi3MvOQ1TNSrUMzYXkjs1ke8koFGDMFHEj_rASLvQyS-fDo2NGsDVNNd4SYj9vEqIg5fUfsMYG95UQmpyirQk127Y7t50Hd4Xs22/s1280/nyoman-paul-luapkanlah.webp)

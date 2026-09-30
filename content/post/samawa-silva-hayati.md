@@ -23,4 +23,3 @@ sakinah mawaddah wa rahmah oh kasih ku ikhlas melepas engkau pergi arungi bahter
 
 sakinah mawaddah wa rahmah oh kasih ku ikhlas melepas engkau pergi arungi bahtera hidup bersama dia semoga bahagia
 
-![Samawa - Silva Hayati](https://i.ytimg.com/vi_webp/s_tHa4TIbp0/maxresdefault.webp)

@@ -25,6 +25,5 @@ Title : Mendayung Dalam Mimpi Artist : Faisal Asahan Songwriter : Faisal Asahan 
 > 
 > Bagaikan panas di tengah hari Keringnya aku seorang diri Kau ingin lepas cincin di jari Pedihnya aku yang mengalami
 
-![Faisal Asahan - Mendayung Dalam Mimpi](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgw2oGacQ0OJ-ce--rHRnd-Vi2c51vouLAy3GIaejteFpCoCnEWj-VjSzp_8yZrhJTtOZF-FOkMAjgdZuINTa3re0701aM7Nhp-9swTHA8HY8gj29foQQRIOacJkT8qrXjMO_Lxu49zGvmV-X9x2g0gwk46D55t0IgL0C3rfZT8mOLAzTx5q5PuV2jpow/s800/faisal-asahan-mendayung-dalam-mimpi.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Faisal Asahan - Mendayung Dalam Mimpi. Silahkan bagikan juga ke teman anda.

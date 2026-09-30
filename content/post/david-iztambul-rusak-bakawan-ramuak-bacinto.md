@@ -39,7 +39,6 @@ Situs bestliriklagu.com tidak menyediakan chord dasar / kunci gitar / Mp3 lagu R
 > 
 > Jo kawan adiak bacinto Tinggakan luko padiah didado Alah suratan badan malang ko Basarah diri ka nan kuaso
 
-![David Iztambul - Rusak Bakawan Ramuak Bacinto](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQsC_rdRbGmuz3tY5PLSgASpd_55SAz9lor2gG5GtuUbAKf2jaPjNFIWRSQX5pXs599YVcq0Z9uIHU6CLfHVF9HzHbRIL2MxR4NK2cXlumKyZgnkC9dkLlOnh9-FdYCZfOV2DMWKgy-vgW7KbC99HFo-dOq-F434rjFPUBswn8HNQCV9OvfQGja5SW6ySf/s800/david-iztambul-rusak-bakawan-ramuak-bacinto.webp)
 
 Tujuan kami berbagi ini ialah menyediakan dan menambah sebanyak mungkin informasi arsip lirik lagu untuk mempermudah bagi Anda yang ingin menghafalkan lagu Rusak Bakawan Ramuak Bacinto ini, maupun belajar bermain musik.
 

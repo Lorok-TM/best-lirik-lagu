@@ -21,4 +21,3 @@ Hape ikkon pulut roham Paroa-roahon goarhi Ido na sai hu solsoli ito Di parsiran
 
 Hape ikkon pulut roham Paroa-roahon goarhi Ido na sai hu solsoli ito Di parsiranganta on
 
-![Pulut Roham Paroahon Goarhi - Angelista Silaban](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaKCHtMdSxmJ2D_o07QcipnJb_iwtdJAHsrk4v3SxX2V5G1U2whh-IB1IUoCt5yAi-ciEe1adudvgtzy_HuBE6W9cDCmd1c_llA0gBecUHAzI0E0jWeG_E8nf0rLwGcrU0KhJ91ASEZ7a6TBxTy6JNSd0tp63n1oVA68CRLSHhMo5lqNPOMdx6e_Nuehmv/s480/pulut-roham-paroahon-goarhi-angelista-silaban.webp)

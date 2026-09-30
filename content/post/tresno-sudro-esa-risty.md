@@ -5,7 +5,6 @@ categories:
   - "java"
 ---
 
-![Tresno Sudro - Esa Risty](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjko0OdkPfXnXcK39_Gjw2XkivQxgXJ7GPwlqG8h9oTexZn6N0OfAmzFxdv9z90J1DWjf-giPqYKDuYAO23uMKG0JIzX2I0OrDO25TabaU2MnPFIuE2GCaqmyukBFT9CXVQfg4CWJJ3E4moURn4RrdRwzDMjmQQrj6ru6_6GWRaLBMUPaJFeUiWZ5ShDxJd/s1280/tresno-sudro-esa-risty.webp)
 
 Abote wong nandang tresno Tak belani nganti tekan pati Tresnaku mung kanggo siro Kusumo bagus sing merak ati
 

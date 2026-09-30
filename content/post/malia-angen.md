@@ -51,4 +51,3 @@ _Angen = Angin_
 > 
 > Ibaratkan mimpi yang menjadi kenyataan Engkau kanda yang telah kembali Yang selalu ku meminta didalam setiap doa Kita berdua sampai akhir masa
 
-![Malia - Angen](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiv0FZZvhNcxrguPP2L5teM358vajx0iVylFYpa_yl7xzfIT7GtsfRkmqFvMxaun52GioajIal2bODJCvRS0i534gBqO6vMmApp4f7tKH5xnluobTbpujc8DjYl14k76Z5oXjEYRsGnHYVgxCEb-pj4-WsqJ90GHsQciFlS2EXz0Md4DqQ3lUDmaq_XPg/s1280/malia-angen.webp)

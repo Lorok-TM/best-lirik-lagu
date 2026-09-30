@@ -29,4 +29,3 @@ Demikian lirik 'Ulos Tujung' sebagaimana di atas.
 
 **Credit:** Judul : Ulos Tujung Voc : Desi Sitompul Cipt : Samuel Herman Siahaan Arr : Asten Sitohang
 
-![Ulos Tujung - Desi Sitompul](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7sG1-WkpMPNC94EisWNdTzuNnW6fIKh03hTzpAnX_lHnKveCSPiRm1h0jAEYklS25NNYCloRDuvtoaLZZQ8BFwjo60Z_4Uwq9oJiCamRMvlgDLyKJYrpWeDKV68Bjw7M78yGQ4HiLA9jY6gTv6lyY8HDeySsC2uLySSKP1y2qrf475OCbEmQqRPjyQHuS/s1280/ulos-tujung-desi-sitompul.webp)

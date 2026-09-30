@@ -25,6 +25,5 @@ Title : Andai Nanti Aku Tiada Artist : Azizah Maumere Songwriter : Emen, Iwan MS
 > 
 > Selamat tinggal duhai kekasihku Jangan menangis ikhlaskanlah aku Doakan aku agar tenang jiwaku Damai mengiringi langkahku Sayang sayang sayang sayang
 
-![Azizah Maumere - Andai Nanti Aku Tiada](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7Cf60WNSyaaOyylqRD-RGKMApRd5ZQ4A5Yb17_MycNUymrI-lCX6NUaiHXabdJc3EWTDHxMbV4DapToHWyS3ZSkSKjm-nSwSK5PWvb2itzYUyEwi-uH5z6g6_OY64d-ficQAOzPkitY9qNRr18veg6sVgbFj-eeEwhkySUTjMVYmZsG6lss8SddCF0Q/s800/azizah-maumere-andai-nanti-aku-tiada.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Azizah Maumere - Andai Nanti Aku Tiada. Silahkan bagikan juga ke teman anda.

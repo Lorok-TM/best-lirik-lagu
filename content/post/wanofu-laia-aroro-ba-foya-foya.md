@@ -5,7 +5,6 @@ categories:
   - "nias"
 ---
 
-![Wanofu Laia - Aroro Ba Foya Foya](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgNHu_5S1ItWsZYZnOyDcXkSZv77_6EEz4DWSlEvFBGaWQgv1wZujUPAg5zTL81hDdDo4b479ypQDfDk6Xip1l-i_DL7Nqt66yXC1p8YQvc1fFnZ6K0yfPxSvXkQWbq5epHT_4zFfGpPbzQcX1xwCppdmf_YImEHNZYQ2PzKgEPnkbuKWhvzydELcGhVEz/s686/wanofu-laia-aroro-ba-foya-foya.webp)
 
 Awena so waniasa ina Awena sa ufakhala Meno alua noutörö lala Riri faalumana
 

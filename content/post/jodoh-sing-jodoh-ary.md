@@ -25,4 +25,3 @@ Demikian lirik 'Jodoh Sing Jodoh' sebagaimana di atas.
 
 **Credit:** Judul : Jodoh Sing Jodoh Voc : Ary Cipt : Ary Arr : Ngurah Adi
 
-![Jodoh Sing Jodoh - Ary](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgVQa_Po6ZissboQ3Dvmgub77QkUzVvMq0Ypg8oeVvXIk3EMlh4i_mfB6Yci8J3MTI-6x7ZdhCAOjE00xzs2PaBT_wd7PsSEgCM3w00-pm4vgOhnuK7YVPOrIbmp-VnopXU2zaI7UqRq6lUWIN9Q72ecOAyQf3eyhm4RLTe7mMeNFIcj5koIcmOJAq_1Gl/s1280/jodoh-sing-jodoh-ary.webp)

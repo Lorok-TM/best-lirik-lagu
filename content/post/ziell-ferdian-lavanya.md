@@ -25,4 +25,3 @@ Terangilah ruang hatiku Dengan pelita cintamu Jangan kau padamkan Meski bila ku 
 
 #Credits: Judul : Lavanya Voc : Ziell Ferdian Cipt : Ziell Ferdian Arr : Decky Ryan
 
-![Ziell Ferdian - Lavanya](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5FV5N4lGWc-2emFqdOENHTjFRRBv_xdRMn0wQJwnyh3jKFMRzqtqSicwZMfkbTC4l-SrWBI4KtVvlb-kX5vHK-_bM_QI_UZ7n53M3-WgmsLmzZAiGU1s7hZjuJxrYzADWD3zUy5yBPxXZJpEUQ5C1w7lbG4vYpvIbj8EqjKl30oOz2AJIRNJ6g05pcxYq/s1280/ziell-ferdian-lavanya.webp)

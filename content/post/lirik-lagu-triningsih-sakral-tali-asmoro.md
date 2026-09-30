@@ -35,6 +35,5 @@ _Sakral Tali Asmoro = Sakral Pemikat Hati (Sakral Pengikat Asmara)_
 > 
 > Berlumur dosa ku lakukan Hanya untuk menggapai isi hati Oh Tuhan aku telah salah jalan Semoga diberi ampunan
 
-![Triningsih - Sakral Tali Asmoro](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrQtreFMK76AGMNrzVutzz1tjIqe_ORXXKzfomcCJi3KdATRcfqYuf9b4Yisk9xs_7f3yeqvVh99siD4TpFtcuFZ_IagwcHpS4wemXgoWnxrgga8WSXC982yoc1paLkcZra3B9asqvbq_gEl5avlL3R99RSlq9eCBt2Kg6Efw68z-CKRwnsLcDkpO9GVyz/s320/triningsih-sakral-tali-asmoro.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Triningsih - Sakral Tali Asmoro. Silahkan bagikan juga ke teman anda.

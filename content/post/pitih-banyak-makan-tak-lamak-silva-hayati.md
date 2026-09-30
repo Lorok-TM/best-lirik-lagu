@@ -25,4 +25,3 @@ pitih banyak makan tak lamak sadonyo di timbang di agak kok nyampang ado nan tar
 
 jan di turuikan pulo denai pado panyakik nan ka tibo caliak samba raso ndak sampai nan makan ko batambuah juo
 
-![Pitih Banyak Makan Tak Lamak - Silva Hayati](https://i.ytimg.com/vi_webp/JXLNM7ogYLQ/maxresdefault.webp)

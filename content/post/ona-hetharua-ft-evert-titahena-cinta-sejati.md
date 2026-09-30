@@ -33,6 +33,5 @@ Title : Cinta Sejati Artist : Ona Hetharua ft Evert Titahena Songwriter : Evert 
 > 
 > Seng ada lai yang bisa ganti Ale di dalam beta pung hati Ini bukti Cuma ale beta pung cinta sejati
 
-![Ona Hetharua ft Evert Titahena - Cinta Sejati](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiADccKAnot_JrkvGDCY_-ZWw4ccuM9Gm5YcGESB9od3ZhgxnojEbtQ5cI0vNwV3DYFqsRMj8xLPA0wXDdg3AOakkmuvdbvtX-6SSgD5Y0a7APt2bLFcQHL9ffd-UJFphQRNijB3SJK_ZDrKZQVEaeMpOp-l7dpiUgZi903SkmMcbyxdbUUtH50ryrpjA/s800/ona-hetharua-ft-evert-titahena-cinta-sejati.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Ona Hetharua ft Evert Titahena - Cinta Sejati. Silahkan bagikan juga ke teman anda.

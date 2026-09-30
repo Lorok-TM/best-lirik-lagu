@@ -37,4 +37,3 @@ Tunggu abang pulang Segera datang Menjemputmu Tuk segera dilamar
 
 Tunggu abang pulang Segera datang Menjemputmu Tuk segera dilamar
 
-![Yeni Inka - Tia Monika](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhl4J79UM5Cmxg_pN8l5Ok-MkURi695hVSoojYQ0ThhBPo3ASLaMgsRNFuL6A-NF1IFbdP3VuuSmO-LQj9Rmxn-0GNWr1nOdQgYgypDKhCptTaiMIrtcLTASdChZ3L-KdPFMB81yen2yHYbEp9rliPNEo7xa5Gh6lOupHhVJvXjmgwAeI41GK5eZ65i_JFr/s1280/yeni-inka-tia-monika.webp)

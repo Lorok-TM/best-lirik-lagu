@@ -23,4 +23,3 @@ Edo edo kao bajanji Kaya karna ba investasi Untung sabebet mao nambah agik Sampe
 
 Lea nyaman bagago duit Tapi idup samakin sulit Janji untungnya bajuta juta Tapi ujungnya idup singsara
 
-![We Ipon - Tino Amee](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpbFJqXnvep1RRV1FxlMLq3Aw8cGerGDpx1ybCEZJbojROS6BNOZTWlcmN9PcRasA3NXb4N_uM9iyFs150vIIF4rGa59fyt0bDKWsuhbgsqoPvNwAWNWB-V-8GTy2BigOcdPbx911m3i_HaoPUul33tZDbYQIxjHtGGKU_0TnTEdvUJxx3EVtExUAf96nR/s480/we-ipon-tino-amee.webp)

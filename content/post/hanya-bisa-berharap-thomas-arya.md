@@ -23,4 +23,3 @@ Demikian lirik 'Hanya Bisa Berharap' sebagaimana di atas.
 
 **Credit:** Judul : Hanya Bisa Berharap Voc : Thomas Arya Cipt : Thomas Arya Arr : Decky Ryan
 
-![Hanya Bisa Berharap - Thomas Arya](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPkLu_1k98ifr8I0D3EgtzWKoLJw5dWgwX64H5VDxZCOq-1k9ZuoLyhyphenhyphenaOzliKxXK1zzmX5hWtve-HrMHiGvJzvwMUdOoAXZ-fMXyoY-sMVzBsnC8hW0IYyHbYKtEtQShx-BTyMmFTF63M5UUBec3OHR8NS6QTDhndKaBM-SCoBxU3WacE0iowtWS1P6br/s1280/hanya-bisa-berharap-thomas-arya.webp)

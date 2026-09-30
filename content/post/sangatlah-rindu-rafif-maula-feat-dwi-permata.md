@@ -5,7 +5,6 @@ categories:
   - "melayu"
 ---
 
-![Sangatlah Rindu - Rafif Maula Feat Dwi Permata](https://raw.githubusercontent.com/Lorok-TM/2026-08/img/sangatlah-rindu-rafif-maula-feat-dwi-permata.webp)
 
 Karya musik Sangatlah Rindu ciptaan Rafif Maula yang dibawakan berkolaborasi dengan Dwi Permata secara tematik mengeksplorasi manifestasi psikologis dari kerinduan mendalam melalui pendekatan melankolis yang berfokus pada dualitas rasa kehilangan dan harapan. Struktur naratif lagu ini menyoroti ruang hampa yang ditinggalkan oleh ketidakhadiran seseorang, di mana liriknya berfungsi sebagai katarsis emosional atas memori masa lalu yang terus membayangi realitas masa kini. Secara filosofis, gubahan ini tidak sekadar menggambarkan rindu sebagai bentuk kesedihan pasif, melainkan sebuah penegasan eksistensial bahwa kedalaman rasa rindu berbanding lurus dengan nilai serta arti penting dari hubungan yang pernah terjalin.
 

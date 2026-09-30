@@ -13,4 +13,3 @@ Hadia guna wa ebua gana'a Hadia guna wa ebua faka Nalö khöda bua bua si sökhi
 
 #Credits: Judul : Hadia Guna Ebua Gana'a Cipt : Nito Musik
 
-![Nito Musik - Hadia Guna Ebua Ganaa](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRZup1IRHxoDLbtwQkrG6bz4_F5oMUbd3AFQQeFdB6TGHf_nkZRxV_EU9yk60goc3EIeTVz1WgkAbifHpGPAw7UT6hsU9MmnQU00U7Rs7zmzq5ccbT1-pYeJlFoXdoOWy17Bndyqw03x5qBKSz4Mn7mavODf31jUJ2rpY6SkMLnswVhOQ0-Am4rNjRKABs/s480/nito-musik-hadia-guna-ebua-ganaa.webp)

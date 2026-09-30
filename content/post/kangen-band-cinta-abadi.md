@@ -5,7 +5,6 @@ categories:
   - "indonesia"
 ---
 
-![Kangen Band - Cinta Abadi](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrg7VPw4CCTCMIFvDW8_x0Q8zx8tg9iaScssg3IIskFH6hsV1_CdoJzDGld6nxZP7sIhHmVPxBbrVs1sVFMGCUEScZ-9J7NruLA0fb8Xu7u9V6F6l8NT-cjjB3OM8u27deOQ4KmhJwmvo6ZVWnNowDLucL9lAADsKY9y9j5he32Ln09oJHjjHtkK_bvd4H/s686/kangen-band-cinta-abadi.webp)
 
 Di batas langit senja Aku tak pernah lelah Namamu aku tulis Di dalam relung hati
 

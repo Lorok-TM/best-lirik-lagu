@@ -29,4 +29,3 @@ Aku eling Mbiyen pancen dodol sego kucing Tapi saiki dadi wong gedhe Mergo koyo 
 
 Mas Parno, sayang Senajan aku wis ora kelingan Tulung aku didongaake Mugo-mugo ra bakal dadi kere Mugo-mugo ra bakal dadi kere
 
-![Silvy Kumalasari - Kere Munggah Bale](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-5BpcgOMDgBwpwjDTbHo4TjREaQX7i9n9QJxGK9i_mBHNcjVhfENlzay44zu_7NJFgd-BUxBtboJqz4XVI4aOow2K06ysK5IVSBZZLqaWGA62xjqs6DjwqcLOeQsusrUPFycTQ2l-jk6VdurZ9YWxFZZbKtmxGadbgx2xvly8LywhWhaglqQ0yfndWqZR/s1280/silvy-kumalasari-kere-munggah-bale.webp)

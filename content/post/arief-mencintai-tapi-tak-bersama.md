@@ -23,6 +23,4 @@ Title : Mencintai Tapi Tak Bersama Artist : Arief Songwriter : Ajhay Pasma Categ
 > 
 > Mencintaimu anugrah yang paling terindah Bersamamu lukiskan kenangan indah Meski kini kau menjadi miliknya Ku do'akan kau bahagia
 
-![Arief - Mencintai Tapi Tak Bersama](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOjSIxVL-7iT0tuV8J5DJ1zUDj19TQt4lkdQ2ERIVu44QsePWUiTx1OKUdWwxe209HYQhjoM6QgS1E-X89kviUAXtya97XZiz4UJFjsSOGR2Bozy070y1i5nCXMiJ0KHKdiRCAbapRGcXeTG1EU22Z3ETaGxYKyHRQBVhTuAEjDkViqgMqO8rGAolWKQ/s800/arief-mencintai-tapi-tak-bersama.webp)
-
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Arief - Mencintai Tapi Tak Bersama. Silahkan bagikan juga ke teman anda.

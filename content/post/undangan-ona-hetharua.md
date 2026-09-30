@@ -31,4 +31,3 @@ Beta harus rela Tuk belajar tarima.. Mungkin takdir yang beta harap..
 
 Coda : Su berubah seng sama deng kenyataan.. houu.. Su berubah seng sama deng kenyataan..
 
-![Undangan - Ona Hetharua](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgH6TAtaXWbc3MD08cqJsRkiMtfFw-M14sEKtV0nWtTflpFNKip3ig5l-fjsuLP6Mi7z3UJPUNPYA7PcNIKkmWuYcX8URhCLZapLiZzQG4jwnIIPKlAsg4gBTj9R8ceZsKimhJUWEORaZdTE9UB5pYrvszSInhT-hnobEJi6SWzI2ngHBe-lbBU4bw2nr5x/s1280/undangan-ona-hetharua.webp)

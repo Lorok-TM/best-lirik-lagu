@@ -35,4 +35,3 @@ Aku pancen ora sempurna, gampang terluka Tapi yen wes bab setia, aku juara
 
 Cobo sawangen sitik wae perjuanganku Bayangkan jika cerita kita ini Bisa membuatmu bahagia
 
-![Difarina Indra Adella - Ropang feat. Fendik Adella](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-xiAu1oI5XQHtmZZT8NmPptWV6BsqmkOR01mC0QGasdsyx360NnTwrKQmtLbMhjSUmz-joEE83hPiLXw1Rkb20AxmfPr5Ie9hLxCsIL69ZBH2XBoiO_4kFoEJU0NUnZynh_2kSGWNvkCYOZ-wYHCtwF5hssoSEqmfx9_400bMW8gbmiG6ccswC3g6UohF/s480/difarina-indra-adella-ropang-feat-fendik-adella.webp)

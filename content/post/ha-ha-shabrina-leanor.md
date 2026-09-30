@@ -5,7 +5,6 @@ categories:
   - "indonesia"
 ---
 
-![Ha Ha - Shabrina Leanor](https://raw.githubusercontent.com/Lorok-TM/2026-08/img/ha-ha-shabrina-leanor.webp)
 
 Malu rasa nya bila teringat Sorot matanya Yang penuh rasa percaya Memikat setiap pasang mata Tak semua kan jatuh suka
 

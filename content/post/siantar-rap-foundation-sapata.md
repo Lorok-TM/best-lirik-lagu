@@ -37,4 +37,3 @@ Jolo diseat hata asa diseat raut Unang monang di surak surak talu di olop olop R
 
 Jolo diseat hata asa diseat raut Unang monang di surak surak talu di olop olop Risi risi hata ni jolma lamot hata ni begu Tu sundung na do hau marumpak si denggan na torop
 
-![Siantar Rap Foundation - Sapata](https://i.ytimg.com/vi_webp/RbAjUznBb7I/maxresdefault.webp)

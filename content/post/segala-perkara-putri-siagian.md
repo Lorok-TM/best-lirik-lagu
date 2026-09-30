@@ -23,4 +23,3 @@ Demikian lirik 'Segala Perkara' sebagaimana di atas.
 
 **Credit:** Judul : Segala Perkara Voc : Putri Siagian Cipt : Ps. Elisa Soetopo
 
-![Segala Perkara - Putri Siagian](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsbfUwI88nyunKDagolOBQFmiWaSvjaW90-nPcbo5SlsXqP5gLSIBzqQ_bk2azwUp0rS_ePocQd4CDxGhMPwTJ6qZ3ccD9nEwolCrqAVudhL7eECQ-D4u58B1XsPlumTmdQ5Zi0z7u-IO5g16On-KW0hnmqk17TzSbv2QM58flQMwQmcGW7OfeDY0kEA1t/s1280/segala-perkara-putri-siagian.webp)

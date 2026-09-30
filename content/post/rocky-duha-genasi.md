@@ -15,4 +15,3 @@ Laua khi ubologö dödö Mesimanö zu'a waomasimö Uandrö göi bologö dödö Z
 
 #Credits: Judul : Genasi Voc : Rocky BE Duha Cipt : Leo N Gaho
 
-![Rocky Duha - Genasi](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_nXHgWSuXRwSHeDEXtlWV-X9oJp3h-fznImaiRz68NMDHVhqJY-P12Zr8vFvI6uBOldLJxwrhYlBWccNdbp59gdQAlDXtMV4SM-5ycEHPYJZUqgafeX28ZIXG6KISdgo2XTZQ85-JUj5IkTgAcQu3rh0Xh__4OGjWWv1Mr-ko9hfJwwDgiO4qp0hOS28M/s480/rocky-duha-genasi.webp)

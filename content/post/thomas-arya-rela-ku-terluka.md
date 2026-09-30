@@ -27,4 +27,3 @@ Pergilah kasih meski jantungku berdetak kencang Ikhlas rela ku terima Walau hati
 
 Akan ku telan kisah masa indah bersamamu Semoga dirimu bahagia sayang Relaku terluka bersama kenangan pilu tanpa dirimu Bersama kenangan pilu tanpa dirimu
 
-![Thomas Arya - Rela Ku Terluka](https://i.ytimg.com/vi_webp/HAI94N0M9y0/maxresdefault.webp)

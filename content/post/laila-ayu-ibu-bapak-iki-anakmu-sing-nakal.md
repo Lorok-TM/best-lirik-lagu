@@ -6,7 +6,6 @@ categories:
   - "java"
 ---
 
-![Laila Ayu - Ibu Bapak Iki Anakmu Sing Nakal](https://raw.githubusercontent.com/Lorok-TM/2026-08/img/laila-ayu-ibu-bapak-iki-anakmu-sing-nakal.webp)
 
 Karya musik berjudul "Ibu Bapak Iki Anakmu Sing Nakal" yang dibawakan oleh Laila Ayu serta diciptakan oleh Muji Febri Antoni (Gins) membawa narasi emosional yang berpusat pada dinamika penyesalan dan permohonan maaf seorang anak kepada kedua orang tuanya. Secara filosofis, komposisi berbahasa Jawa ini merekam kesadaran eksistensial atas kesalahan masa lalu serta pengakuan akan kegagalan dalam memenuhi harapan keluarga. Alih-alih sekadar menjadi ratapan personal, liriknya berfungsi sebagai refleksi moral mengenai pentingnya restu orang tua (donga pangestu) dalam perjalanan hidup, sekaligus menggambarkan kerinduan mendalam terhadap figur ayah dan ibu. Melalui pendekatan aransemen yang menyentuh, lagu ini menggarisbawahi realitas sosial tentang kerentanan manusia terhadap kekhilafan serta kekuatan pengampunan yang menjadi fondasi hubungan keluarga.
 

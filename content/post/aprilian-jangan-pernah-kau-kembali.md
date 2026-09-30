@@ -25,6 +25,4 @@ Title : Jangan Pernah Kau Kembali Artist : Aprilian Songwriter : Amri Damanin Pr
 > 
 > Pergilah oh kasih Bersama pilihanmu Pergilah oh kasih Dan jangan pernah kembali
 
-![Aprilian - Jangan Pernah Kau Kembali](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2sungMqw0gj06MRKE4TpRUah_MkOrykGCM0yv8dyoicgYS7-_7kcZBu7L_nVBwifz6qWW0OWqhQ1VNjxZ6xhJxNfgln4bOFaph4DVBdRTkfrt0gRm1-d-lyQbcyUbd8c-B_PASkIFjAH8_xeZsToDnM3CezCapt3pRU7_lI9eHvjTpB0aYHkJIljsIpUo/s800/aprilian-jangan-pernah-kau-kembali.webp)
-
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Aprilian - Jangan Pernah Kau Kembali. Silahkan bagikan juga ke teman anda.

@@ -30,5 +30,3 @@ Kecewa sayang Kecewa skali kita pe hati Kalo inga ngana pe diri Cuma binci yang 
 Ternyata tu ngana pe hati Bukang cuma hati kadondong Mar memang Itang sama deng arang tampurung
 
 Ternyata tu ngana pe hati Bukang cuma hati kadondong Mar memang Itang sama deng arang tampurung
-
-![Arang Tampurung 2 - Gunawan](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLb0JUCMY9f3vxjYI6Mm03QSP4SOqRryFIesnsA5gH_p6Tf5HgoqQDbOL8TFVSvc5EvYIFVffvvOrZ7CY-1D0uGGM4Ec5zPtw3vdz9AWA_2o-xEs7xbkil8DVKzHFhP0QKVc-GNPz2Ubnr7mji0499_6zJU-lmZynM9kaDiDGOpwBUJfmgs3JcYpVMqU1o/s480/arang-tampurung-2-gunawan.webp)

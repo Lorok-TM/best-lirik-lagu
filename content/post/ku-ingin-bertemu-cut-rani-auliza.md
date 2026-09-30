@@ -23,4 +23,3 @@ Demikian lirik 'Ku Ingin Bertemu' sebagaimana di atas.
 
 **Credit:** Judul : Ku Ingin Bertemu Voc : Cut Rani Auliza Cipt : Anjas Rao Arr : Kenny Pramudya
 
-![Ku Ingin Bertemu - Cut Rani Auliza](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3pNILRobhFhLiJ0wzP6G9k2TDEP2FTWknC44gfjcmGbxc68S_DBTaYpSA2YyELRoOw1eMZEVjUn0VOfDx5DiarIDdHgoT3c5GU-O5S5s2hHRCbgsUVqhfl-S25yVhM1yevpyUIdBvP8amjTuPLLkHi9ChUner7PJDiaJmyqpb3LuohTN2TuS5BNsNThYF/s1280/ku-ingin-bertemu-cut-rani-auliza.webp)

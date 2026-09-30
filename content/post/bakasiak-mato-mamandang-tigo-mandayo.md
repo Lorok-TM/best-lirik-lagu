@@ -19,4 +19,3 @@ Mahaberi cinta Pabila ini pertanda Jawaban setiap doa Kumohonkan muluskan jalann
 
 Tak mengerti juga Mengapa bisa dia menanya Yang ku tau di sepertiga Malam ku selalu sebut namanya
 
-![Dinda Regina Feat Pika Iskandar - Sepertiga](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBZ77_odFs2caRY3Wju11ntilsv_rClqHABxLOAMyJLAvw2mxwvJi7iT3wtnzxor1BgxGvSQWvcYsNK5hhUTGiTEb4mHacn03oDCc9Y_ALOw2Mrz9CYyYY4i9U6KCxKQXfB-LnZT05Kg2dBxkvb1IVShEURb3Sgr-NlkJedDcShLuYo0G0ZnqlICqlLhgu/s480/dinda-regina-feat-pika-iskandar-sepertiga.webp)

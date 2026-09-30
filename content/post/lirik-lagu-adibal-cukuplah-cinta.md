@@ -43,6 +43,5 @@ Title : Cukuplah Cinta Artist : Adibal Songwriter : Adibal Publishing : PT. Maks
 > 
 > Aku menanti kabar darimu Kapan bertemu oh kekasihku Kapan bertemu oh kekasihku
 
-![Adibal - Cukuplah Cinta](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOcw9kybIidmkmtAykF3QcCClEvwa9KltPnTR5TW6vr8rM453yQkorkLcXkCsmU89OeWXexrHIgwbUOLs2j-5lBbF0GK54NhQh4uIcgW_XyYmYyi70pBaJVfZx9HqqqzwkIryh83e8Txju9jdPBYITqgwhiumL2n4fnh23IuvQCaJOsK0X35HI_BtriB_1/s800/adibal-cukuplah-cinta.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Adibal - Cukuplah Cinta. Silahkan bagikan juga ke teman anda.

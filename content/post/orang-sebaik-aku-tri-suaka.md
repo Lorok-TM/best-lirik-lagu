@@ -27,4 +27,3 @@ Lebih tertamparnya hatiku Saat melihat dia berani menciummu Tak akan lagi kan ka
 
 #Credits: Judul : Orang Sebaik Aku Voc : Tri Suaka Cipt : Tri Suaka Arr : Kiki Acoustic
 
-![Orang Sebaik Aku - Tri Suaka](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiovkibX35S2IAUQ_wBHOWdMK8-kezqt6ObsQGEwsTYRFVH7-MY2W15xM1nICz_I5VLacI0aMH67EmfCGQ9DEhjC1Uxa07_T_o8oOQcb7Q1WG3b8_Jfn_9TczZRMbU0EfrIjgs5RzR2qET_7JHMmZqhe7Su_sjcrVra01SlbZFerZ_kxk2F1qkvsznhRGM0/s480/orang-sebaik-aku-tri-suaka.webp)

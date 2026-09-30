@@ -23,6 +23,5 @@ Title : Rela Menanggung Luka Artist : Gustrian Geno Songwriter : Likyn Setia Lab
 > 
 > Ku ikhlas terima walau hatiku sakit dan merana Karna sesungguhnya kasta kita memang berbeza Satu pintaku semoga kau dapat melupakannya Biarkan aku yang menanggung semua luka Biarkan aku yang menanggung semua luka
 
-![Gustrian Geno - Rela Menanggung Luka](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgw5BHR7ravd2HCDhTD3uc7vvOKCalG2fZeGjH4BdAV91PhxpGfQwQ1RijzAoN7piog7tw6ybqtPJOTMKz5HXTaRgPhd7BScvcQ4qRqt3fBnr7dT2E3w_rFTEBihcsaZm9QlJYpYPf3FmbAKugDDboyDL41teelgMyGv9sCN9r9VGl1QXJkGlEau2uADA/s800/gustrian-geno-rela-menanggung-luka.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Gustrian Geno - Rela Menanggung Luka. Silahkan bagikan juga ke teman anda.

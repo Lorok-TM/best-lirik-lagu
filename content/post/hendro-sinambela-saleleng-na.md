@@ -21,4 +21,3 @@ Di na borngit rap hita manaon Di na tonggi rap hita mandai Manuppak ma Tuhanta N
 
 Manuppak ma Tuhanta Naung hupillit ho na gabe rokkaphi
 
-![Hendro Sinambela - Saleleng Na](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDZqn5jCrid9KKJZ3YngRS6oHcgSgjREGHYHZBu4pxm2pxXC40entDH-B6OzZI9YDdKBLEU5EdiJ_AcmlEua4D37x5bnAsE2VbiZWb8h4oZ1PKbgpUmdSEwg2sPB5WPNANjeX3oKjjpGthqOJ5a-0VksG3m4WpDJH7Qwjd5H6Sfr7Jtdma5gdBnBs3Pj_l/s1280/hendro-sinambela-saleleng-na.webp)

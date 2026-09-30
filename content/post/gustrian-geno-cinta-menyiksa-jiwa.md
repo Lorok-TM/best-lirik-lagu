@@ -29,7 +29,6 @@ Situs bestliriklagu.com tidak menyediakan chord dasar / kunci gitar / Mp3 lagu C
 > 
 > Sedangkan indah bagai intan mutiara Ku terlena cinta menyiksa jiwa
 
-![Gustrian Geno - Cinta Menyiksa Jiwa](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqZsPxp0ANgr_91_l5gqNaGI9L2t7dlrcfD0l-EkXdpUdVSORQaYDTI9B0CMrJS4mIZEX2gymAhO_K_tgEeP3ymoiI6K16SmW9PYQ7Rj9Pg7r1MBeMSTgAYEekZ3mqfml79sNOXXTS9SM6cW_tOVGBt5FH1LZY7Cl7cG8TK3YAWVX8oqyabtVh0ophCVuE/s800/gustrian-geno-cinta-menyiksa-jiwa.webp)
 
 Tujuan kami berbagi ini ialah menyediakan dan menambah sebanyak mungkin informasi arsip lirik lagu untuk mempermudah bagi Anda yang ingin menghafalkan lagu Cinta Menyiksa Jiwa ini, maupun belajar bermain musik.
 

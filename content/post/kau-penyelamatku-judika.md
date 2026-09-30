@@ -17,4 +17,3 @@ Karena kasihMu Kau selamatkan hidupku Karena cintaMu Kau mau bagiku Yesus Oleh D
 
 Kau mati bagiku oh Yesus Tuk masuk tempat kudusMu
 
-![Kau Penyelamatku - Judika](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpauEOXSXbbD1CWNT1QjXr5xEf1zjTa3S7zr7k73CjGxXyRyK7fNYYLrYUm8mTyRbx6UpR7DAVKXg9JBVol-_H0tCGmYqbtRGarni2I2iB_DAI21BUmC0qgNjRfbRe3b5RiXRd5emGwg0lF2cLrfFQ1DO-V-S5E7dmLgBxNTH1LDpA0Xv4FJvzH66bRdcE/s1280/kau-penyelamatku-judika.webp)

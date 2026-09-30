@@ -37,4 +37,3 @@ categories:
 > 
 > يَارَبِّ صَلِّ عَلىٰ مُحَمَّد Ya robbi shalli ala Muhammad يَارَبِّ صَلِّ عَلَيْهِ وَسَلِّمْ Ya robbi shalli alayhi wasallim
 
-![KHR. Muhammad Kholil As'ad - Terak Mancorong](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4CAN3Q8Rw3OXswfOs0SYKM4vfvjrp8LcmrCpdJ9P52c0C3j7LvSl8y2dnQoyyuKmJXnAQdBrrvJazEMJlr7od1qm_XFV_GVx8ZD7jLVxJNwAHfHuODjvR7lsYbU-iuyUm9Yqn4Mirw_DrDrMIwfqGYZKq050TFTNVAyPoA0IBtlUCnxYJpMZsn6tigA/s1280/khr-muhammad-kholil-asad-terak-mancorong.webp)

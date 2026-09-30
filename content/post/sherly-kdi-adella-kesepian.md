@@ -15,4 +15,3 @@ Kubertanya padamu rembulan Masih adakah cinta yang lain untukku ha ha ha Wahai s
 
 Karena jurang, begitu dalam Maka aku dan dia harus berpisah Dua hati tak mungkin lagi bersatu
 
-![Sherly KDI Adella - Kesepian](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUH_FC8z3RUiqPBeeAHcwcw0LBXILq2IKnDIUVowoyvkCrur5lVgCEBZ5htUmIhFZS8JKX9w21o5E0y1_AI8ycirW_dQZdwEw_RDgkX58-hfOFuQ2smAMO7ihJ4a-Zh-dYHDqWZAPgR8pnvvP1vXZrsJ92Ro0xBY6BYKfn4hPviCXbVxynRt2R-rqwD13U/s1280/sherly-kdi-adella-kesepian.webp)

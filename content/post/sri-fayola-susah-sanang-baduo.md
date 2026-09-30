@@ -23,6 +23,5 @@ Title : Susah Sanang Baduo Artist : Sri Fayola Songwriter : Abi Taratak Category
 > 
 > Nan kok singkek kito uleh Nan kok sayuik samo di sambuang Jan biakan sampai nyo patah Den ndak nio sanasib umpamo bareh jo atah
 
-![Sri Fayola - Susah Sanang Baduo](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDmzgIkCffGuapHL8hYFJ7VQPFD8bkybTcbnV5U_DIM3_RvJR5SuaNX8Y3UCyIo4mz10e5zZfAoYMnbDn8oce0gsGFy7Dk1vCRjE9r-FKKiUiXHFq6jXRie8Dhe9NEy-kE3_zZS23-7WOCBpOcdX2iPkThwFtkelwEU2k5E7g8pirhcgioRovRJNJ0Bw/s800/sri-fayola-susah-sanang-baduo.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Sri Fayola - Susah Sanang Baduo. Silahkan bagikan juga ke teman anda.

@@ -26,4 +26,3 @@ Demikian lirik 'Nyong Dari Timur' sebagaimana di atas.
 
 **Credit:** Judul : Nyong Dari Timur Voc : Wita Sofi Featuring Juan Reza Cipt : Andri Dharma & Juan Reza Arr : Chito Deona
 
-![Nyong Dari Timur - Wita Sofi Feat Juan Reza](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgu7Vkj45BY1hDMxGabrTnj7Fi5eIOohdzbWE1_qNMdBQLGkwLW3kU5nvUG_OFXmAtAyhzAL5Z-5aUn-FB1ugqjsiJuWNcPH1B13wWnT_uKPznOoASL8O-k38YxTPHasBkI2Qay7fOJLjuZ65e1kTbGB4jd12QKOsayzdy_g8vVKH9Y94SdM1Poa6MPQZOB/s1280/nyong-dari-timur-wita-sofi-feat-juan-reza.webp)

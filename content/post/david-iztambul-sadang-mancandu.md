@@ -5,7 +5,6 @@ categories:
   - "minang"
 ---
 
-![David Iztambul - Sadang Mancandu](https://raw.githubusercontent.com/Lorok-TM/2026-08/img/david-iztambul-sadang-mancandu.webp)
 
 ## Lirik Lagu Sadang Mancandu - David Iztambul
 

@@ -31,4 +31,3 @@ Jikok lai dapek pintak ko buliah Jan baliak juo dalam rasian Jikok lai dapek pin
 
 #Credits: Judul : Kasiah Habih Sayang Tak Hilang Voc : Rayola ft. Anyqu & Cabiak Cipt : Sexri Budiman Arr : Harbivi Thm
 
-![Kasiah Habih Sayang Tak Hilang - Rayola feat. Anyqu, Cabiak](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijC5g4Pr4XQ47lcoD_odc5yNB_TaKGLLfRK6uYamJWayVj8OkU-fdj9gDgFFmBIaWAmU2IQnZBUGIr-szLJdzEGh2FFhyNy0k0t3l8FE9_4maBtrM3_ObcCt6-qV8qAF-Frbuth0i7R3OHSokY7EVkwgQJJDTecSNG_LnknoEyuZqEqnIQfgi2PdxA5LMW/s1280/kasiah-habih-sayang-tak-hilang-rayola-feat-anyqu-cabiak.webp)

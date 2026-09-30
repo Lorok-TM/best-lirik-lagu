@@ -68,6 +68,5 @@ _Macak Kelaran = Seolah Olah Tersakiti_
 > 
 > _Kalau akhirnya semua bisa seasing ini Kenapa kita sedekat kemarin_
 
-![Damara De feat. Tadeus Lavora - Macak Kelaran](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrXU4ZYMMFN_3u9ANriCXRMHqN22pR-3UEOz2aqtVcC0Drhdd8ypyva5RUA5LlvHIccJ2s_70UGNrtIwfOfuvz4ZEZE85JzV-q3AP4wekRuf87j7364acwxhgR6WEZLGLEakXAova_WzP3HuwQjm3reseCzyTYY987DJpp6fsA8w_dFEbRgFhbgXzgZuBB/s800/damara-de-feat-tadeus-lavora-macak-kelaran.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Damara De feat. Tadeus Lavora - Macak Kelaran. Silahkan bagikan juga ke teman anda.

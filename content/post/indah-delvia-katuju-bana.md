@@ -13,4 +13,3 @@ Takanai hati denai takanai kini Katokanlah da katokan kini ko juo Katuju bana su
 
 Patah salero makan jikok sahari tak batamu pandang Lalok denai tak sanang ulang mamikiakan uda surang
 
-![Indah Delvia - Katuju Bana](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfm-00xbobPQCaWY8NHCqq59Dxx8K_a_E_4xqH4adrWJ2a6cyLDsk3Ljy0yz7PlzwTPWiCE3ihjBKkk2YpccfgXZO9MUR3H_0GkItsySSH6Cq0a3Drp7AszhBCtU0SsUchpbFdFb9nRFsaXuoeq23Skb1c-rFFsKw1RYTeoPrDstYbOf3t8fJNm2Ogs5zK/s480/indah-delvia-katuju-bana.webp)

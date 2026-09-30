@@ -27,4 +27,3 @@ Au ma boru na hamagoan Diboan ho gogohi
 
 #Credits: Title : Gogo Di Ngolukku Artist : Nirwana Trio Songwriter : Galang Nainggolan Arranger : Hermes Sihombing
 
-![Nirwana Trio - Gogo Di Ngolukku](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzkTs8n1p3yQi5xd19S1eYYrMHRfM16XZUpr6bfRqW66Vozj21xL75GkxCKsGLsX-FyPHZMNjLWIOF7Vlj9joUwm1UcR0wfiX7L4UfOV5ocNf0wDt4Fd10KJNWfwJCAHI3x52TwDN_SkQ_BmUVznW2zT74GvEXNka_fcudBOzGfqUxI5HgkWB17HdxHuDd/s480/nirwana-trio-gogo-di-ngolukku.webp)

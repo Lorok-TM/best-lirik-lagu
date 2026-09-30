@@ -5,7 +5,6 @@ categories:
   - "minang"
 ---
 
-![Roje Firdaus - Walau Perak Bukan Imitasi](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkibxmlOD8di9hGdx4MwjUifagYJOBP24N_AP6tqyL3tK4DqK_48ScXc6ELz_afEg_FZm2sV68g6yhx6zv8gljkuU6R3-7FtwtoyUQJjq-X-wH5VP3yVtxq6R3BlDqQj6qIPsxr7FtTsHMxGor_JHo3vSOZ-Oqg8Pgi_5Uo-VPsk1H4vxBzSWA4bx3vx6O/s1280/roje-firdaus-walau-perak-bukan-imitasi.webp)
 
 Ndek talompeknyo kato Dari muluik urang den sayang Pado manunggu lamo Diagiahnyo kasiah ka urang Padiah hati mandangakan Apo lai sadang den diarak parasaian
 

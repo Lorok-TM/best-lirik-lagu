@@ -23,6 +23,5 @@ Title : Arok Jalan Sairiang Artist : Indah Zaharni Songwriter : AlKawi Category 
 > 
 > Oi nan batagak jo ampek angkek Kacanduang urang pakan sinayan Oi mangko rarak tali pangabek Singguluang anggan dibari baban
 
-![Indah Zaharni - Arok Jalan Sairiang](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjs9ydRbVETpAv6L-LAW0kXHlu0DhJhAU_dD09S8QrW_Bfv8IlF7guGyL_cIR-Dd11n-Ldd0PAoZAeIaKToIQ8ghFtwMerYPGO8xTjNpFRbsowIvEBmvnvTDWcPAwj-B0R-6FRSm_sNgoJc7MjDr5in_3h2LxSFqieQtlf0n-hXXaAD3XpCCxrpv-vOsQ/s800/indah-zaharni-arok-jalan-sairiang.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Indah Zaharni - Arok Jalan Sairiang. Silahkan bagikan juga ke teman anda.

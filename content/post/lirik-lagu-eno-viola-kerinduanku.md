@@ -27,4 +27,3 @@ categories:
 
 Title : Kerinduanku Artist : Eno Viola Songwriter : Roza’c Tanjung Label : aSKa musik record
 
-![Eno Viola - Kerinduanku](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgu45p9P7UqqWTcnHDaiK2o1KmxUYeXEQ03my6UnJVBJflz0tu3BLYyoQ-qBOZJrfdkd_QplC3mCbMlol5HQ5V_HkVWfhi2CnYimwatQG7IYbWc9db94SOD8dN9tyfQ-ZNO39-M-ecuaAkesWGDXU96o8z5I2LGHPGVknZ72_ob4nQP7O-qqXAJ_dlk8Q/s1280/eno-viola-kerinduanku.webp)

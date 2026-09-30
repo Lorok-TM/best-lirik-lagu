@@ -39,4 +39,3 @@ Pergi ke danau naik perahu Janganlah lupa membawa jala Kamu kok kepo jangan sok 
 
 Jauh jauh jauh bilang nggak suka Daripada bikin pusing kepala Jangan coba coba halangi cinta Bila tidak suka ke laut aja
 
-![Melly Lee - Kamu Istimewa](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMUfVr6_jh1r04NtNj3rcveUX4hahUHSiEogU1XvUYTHrOK6MFklnde6-oqj7q-yZHXtH8MKnB5kMr1M2bvV5ZAiOs6daRe72jyYQj2udYDoph8D0Uns0p4IN4exroKiB3LFuG-soiX7oJF4zuPZr3C5aLhqGpnkqujZyitOKoozDdlhIu1801CL8ShtPI/s480/melly-lee-kamu-istimewa.webp)

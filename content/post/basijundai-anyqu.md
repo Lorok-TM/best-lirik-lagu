@@ -5,7 +5,6 @@ categories:
   - "minang"
 ---
 
-![Basijundai - Anyqu](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKdCaLisIslYGMVuVwjWenYBBgFE16ee7TtdTb7Ihy7QmhBGuzonzTrXTEmRn1Ly9e0hAIXi_8ZBKtwu8_LIpttVIzAY7O8BNMt_4iKe5OpqSCP1YKMd0HRFC-Tq2kXbMfw7EWUsqqW1L2QUQQIvWHJu3fU0JUuoui_ApnjAqVQVq9FwFqx55tvePdpbGk/s1280/basijundai-anyqu.webp)
 
 Sambuang basambuang mangko ka sampai Uleh mauleh sayuik salasai Alah dirantang bakalabiahan Namunnyo badan tak bakarunciangan
 

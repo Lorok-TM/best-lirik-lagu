@@ -5,7 +5,6 @@ categories:
   - "minang"
 ---
 
-![David Iztambul - Takuik Manjadi Angan](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXwnBCLWogKnMYvZG7F167fmXA4rM9nObX9grTsUX_1PiM87zSdGSXuwBD6VcGU7GXSagm2-jHl6f7meRuKvtjhUZNRahQ2YzH3JBnPkPXyoHT27bwvWSddMCIFQAiZFCei6qYgNEqwgKslsHuP-JOhor-X1wxpz589qheVNu1SCYmezMvezvl6O6e5iFs/s1280/david-iztambul-takuik-manjadi-angan.webp)
 
 Alah samak jalan nan dulu tarang Rimbun bana tumbuahan rumpuik ilalang Kini ndak tampak rancaknyo dek adiak basio sio Sangko lai babaleh raso ko Kini ndak tampak rancaknyo dek adiak basio sio Sangko lai babaleh raso ko
 

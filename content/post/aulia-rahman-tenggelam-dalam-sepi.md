@@ -19,4 +19,3 @@ Kini kenangan masih tersimpan Di balik luka yang takkan tertahan Engkau biarkan 
 
 #Credits: Judul : Tenggelam Dalam Sepi Voc : Aulia Rahman
 
-![Aulia Rahman - Tenggelam Dalam Sepi](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTUnoNgkNWppAgzUmIjxB-h5wl9oH9QGs13JukyFAT20Lowecbmb2skyi-m2-WhsYNq6XbOUzGWMXQfBfUwG0DwiCSJVCG9DUhyky2fWsvkIz9j-f8StH5g4bkbMOcq86ROeGbCPykzS4b5sXD3adk6VyWGmo1hfVxBA86WJ9t_I4jFvWIJaxDz9-uLuzq/s1280/aulia-rahman-tenggelam-dalam-sepi.webp)

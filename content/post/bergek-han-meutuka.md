@@ -25,6 +25,5 @@ Title : Han Meutuka Artist : Bergek Songwriter : Azranda Publishing : PT. Netpro
 > 
 > Bahgia keugata loen meusyen Han mungkin meupaleng adinda Yang laen han uloen peuto Cukop sidro gata dinda
 
-![Bergek - Han Meutuka](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJy4hX-1W8Hl1LXfEA0Ie4f0CMhkkbvoofLmRe1yNQZnGr4g6d2ldhbzbubg9Cary6hpcpym0Yd0BSN4lt5vxoNxDEJo0KFgH6LHaYoPEZFXZl2xOmWzsd_1NgHvkmiYLKQfiC-FecfZWF32q2_HJYU4FqjYdAeDo4oPxpydAVJox1Z1FexMjgA7jk8Q/s800/bergek-han-meutuka.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Bergek - Han Meutuka. Silahkan bagikan juga ke teman anda.

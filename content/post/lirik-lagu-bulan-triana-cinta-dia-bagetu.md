@@ -43,6 +43,5 @@ _Cinta Dia Bagetu = Cinta Tidak Putus_
 > 
 > Hanya kamu lelaki dalam pikiranku Yang bisa membuat aku bahagia
 
-![Bulan Triana - Cinta Dia Bagetu](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEih-oHo-IacVgFj8itGgypm1KCIYpCpxnShk_rdqSr9XsYLIgsYd6rktG2J_8dTg6taa4Ga2tbh1xBCUqYEQ-vgJ_27D-fzor28n4e5GQKDxZPAbtGvRgrqdez4r9t49DdKp-OoqalyeqjL9TyQ-O9nWGdWFF5aUyzY0FZJu1_p5GTBd-F-mYYBS1qTNz2h/s1280/bulan-triana-cinta-dia-bagetu.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Bulan Triana - Cinta Dia Bagetu. Silahkan bagikan juga ke teman anda.

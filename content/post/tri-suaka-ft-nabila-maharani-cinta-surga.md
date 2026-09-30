@@ -34,6 +34,5 @@ Title : Cinta Surga Artist : Tri Suaka ft Nabila Maharani Songwriter : Tri Suaka
 > 
 > Di setiap denyut nadi dan nafasku Ku kan selalu berdoa pada sang pencipta Agar cinta kita kan slalu bahagia Sampai nanti di surga
 
-![Tri Suaka ft. Nabila Maharani - Cinta Surga](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBNZ0GHef5hDzMcaql7tEjHQ3PY34dxPfFDJ-KrZf9kFaUi80SmhRa_eWonNWueyU2nIdxJdgZ-Nz1IzHr81a_rIwsmx-Qu8pCN33HiHxDxnvgmEeQ1Ui4u4LzEc3I6FMynC289-g8eGCuSdr1Na2kfWdOCmQtlUOlQwYsVZW_d8G2nZ_LWxMmnHBo-w/s800/tri-suaka-ft-nabila-maharani-cinta-surga.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Tri Suaka ft. Nabila Maharani - Cinta Surga. Silahkan bagikan juga ke teman anda.

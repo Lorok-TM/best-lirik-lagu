@@ -17,4 +17,3 @@ Boasa dang sian najolo ito Didok ho naso holong roham Boasa dung saonari dihatah
 
 Janji tinggal janji Sumpahmi ito holan hata Lao do ho mago ho Maninggalhon au
 
-![Basadoi Trio - Dang Segampang I](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinXraQmD_Abl-oWltJOGIIB3UQGlkQFZKfQB3uo-SOi1k-tlDQ60LKRAw1D2cyrPTwiGDccZXD6OxzVW818qir2QokaY8rF3p7wZZWcKhQ8V26eoyY29xcsXhltn3AEAAD4BKj6IDaPgljyFw02vrFkHtMJRcOfuaZeNqgWItjNmRjtyLA7-AH92gJcS5r/s480/basadoi-trio-dang-segampang-i.webp)

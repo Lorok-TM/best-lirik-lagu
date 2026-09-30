@@ -21,4 +21,3 @@ Sanang sanangkan badan sanangkan fikiran Nan indak ado jan di bayangkan Uda ka a
 
 Sanang sanangkan hati Sanang kan kiro kiro Apo nan ado itu rasaki kito Uda den cinto uda den sayang Ba doa kito untuang lai ka sanang
 
-![Uda Ka Adiak Pakai Lamo - Fauzana](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4edase63K6IYYR3ze2rHidsdY06M3L-sifJTa7yxgNGY72UE1vCKzNQ0YEoAvK8nKm8e5O2EQ72qdmLlIyDc0F3VL_4pXJZEBNxZU7QD2fhauSCk4AzlxOBsKciTBVyAtQGVSwkruY34ZPFbC6M-Qn9eePaFeKRir4w3nTNu5EDAYhzqa7v-pKLIyH6TD/s480/uda-ka-adiak-pakai-lamo-fauzana.webp)

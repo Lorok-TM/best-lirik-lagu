@@ -22,5 +22,3 @@ Andigan pe ulaning boi au pajumpang Dohot dainang pangintubu i Ai so hu boto aha
 Tangiangkon ma au dainang Anakmon inang na dangolon Molo adong na salah na hu baen Salpuhon ma sian bagas rohami
 
 Asa tung anggiat boi muse Au anak na hasea di jolom Au anak na hasea di jolom
-
-![Arghado Trio - Salpuhon Ma Inang](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiIXwY6IP3xHZNEvdvNjVFwi0T1ax4QKsBmuv-duZUpaqCbrkyIXR1cdGKwJ8sRDZQfsIhw2fVpo8ee2yWzOXVsCJHLWBoz06gMrBn3zN6CKDSk4hBpgEq8OgEzUGXX11oyzToYVbJS_PZEqXwZm0k-odBa5XQTYl_7GDcrsfQz9L3lTtSpggN2kxeto0I/s1280/arghado-trio-salpuhon-ma-inang.webp)

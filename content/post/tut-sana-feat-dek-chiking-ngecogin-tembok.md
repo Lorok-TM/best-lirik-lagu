@@ -49,6 +49,5 @@ _Ngecogin Tembok = Memanjat / Melompati Tembok_
 > 
 > _Sekarang jalani saling percaya Agar cinta kita langgeng_
 
-![Tut Sana feat Dek Chik,ing - Ngecogin Tembok](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9Oid57wEuj58JpGzO5IaCKF7m5gzLPBnFowCkDgMTMQ-c4PopCcBja5b-wMRhomy3AtQbIlis-n9-xXoqPB3epQLMaSDrHUEVAzb_N0ltyctkH_Ud_o4nHKjZiix0qnhAGTF3B5byDMONGY_QtyJqEFGMase1cMsCdN4vtMUIQayWdaQqcsDkrQPskQ/s800/tut-sana-feat-dek-chiking-ngecogin-tembok.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Tut Sana feat Dek Chik,ing - Ngecogin Tembok. Silahkan bagikan juga ke teman anda.

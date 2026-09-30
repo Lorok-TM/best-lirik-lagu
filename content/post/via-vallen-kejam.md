@@ -29,6 +29,5 @@ Title : Kejam Artist : Via Vallen Composed : Dyrga Dadali Production : Ascada Mu
 > 
 > Oh mengapa kau tega menyakitiku Ku terluka saat ku merindukanmu Sungguh teganya kau tak berperasaan
 
-![Via Vallen - Kejam](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhp5Y3rmUF_BUeBHZc0oWH_Y9L2gUlFs5fAW54dzS-2JKlakPaCRbhFbkmHVgCQiX8zKsjOlpdChM_YV_WXWFH8DZrCoODSIi91XPoTGAU2BhQMVPcpPVaaXkiB7XJs-I3k4Phu1tpw_MCCunx7elPcswKbNYHcbB2rEDUOsQs4XlJAcQtpGAzQXqmCrQ/s800/via-vallen-kejam.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Via Vallen - Kejam. Silahkan bagikan juga ke teman anda.

@@ -31,4 +31,3 @@ categories:
 > 
 > Hasian Alusi ma au Hasian
 
-![Arghana Trio - Mabalu So Martujung](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsnGZNl9GCU9GM0RMEoZ8VtseNkSefjQ-iy6V4UyHp46Y2euPJjUaJfl7oZgcvIWDEWdH68cDNRWqNlXVtmoaMxxy7fv42Nw-8QDTSOG8RIwKvsEo3zwshwltRASS2hzTlMTI8nlgVMFXcC3xvMlPeabLHdZ3aTa0J6zmdn2NbHN2hag2WPB91jDfhnw/s320/arghana-trio-mabalu-so-martujung.webp)

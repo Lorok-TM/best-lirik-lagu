@@ -25,4 +25,3 @@ Demikian lirik 'Rindu Di Rantau Urang' sebagaimana di atas.
 
 **Credit:** Judul : Rindu Di Rantau Urang Voc : Yoga Vhein Cipt : Ocumond
 
-![Rindu Di Rantau Urang - Yoga Vhein](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEin_Ht2krlhQjlT2pzJUZhNnQIWboW12uajiel5W1gd4wrWoPQLCTzXEtTzflVctTUVsLZ2MOUXbf2LMZtJZLjR9TCpUdGvcLlfn7NyXbNzDBdq_qJoDsP_eiYYQoeyUgMSStO3aXJiB6XS24oqnWxHQMetCY2DNPfpno-A-ClBBhLo8l0H_PyMcw5zuTH_/s1280/rindu-di-rantau-urang-yoga-vhein.webp)

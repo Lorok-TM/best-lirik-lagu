@@ -33,4 +33,3 @@ Goyang ka kiri kiri kiri Goyang ka kanan kanan kanan Tapuak lah tangan Marilah k
 
 #Credits: Judul : Dendang Minang Timur Voc : Diva Aurel ft. Oncho Flash Cipt : Andri Dharma & Oncho Flash Arr : Chito Deona
 
-![Diva Aurel feat. Oncho Flash - Dendang Minang Timur](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjL-Nk97VIAIvZEsXOXD1uMDP2RXrWJo0njwpSl0M7hETsU-j5Hr782sEPS5iMe_jcXVBZVuFcn1U2ou7XL885c5WrfqTTpkDAvaAI8WG5SBw9aOGl7DGSpWSTGY1wZeY8TdA9Hyg9FBmHjZ9ybhE6h95j29WJHstszXMe6M5a1QY47lFn-XiNk0UD9cnk0/s1280/diva-aurel-feat-oncho-flash-dendang-minang-timur.webp)

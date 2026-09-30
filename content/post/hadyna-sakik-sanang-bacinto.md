@@ -15,4 +15,3 @@ Usah disangko sanang bacinto Cando balayia tapian tak basuo Mulo mulonyo dunie p
 
 Pandai pandailah balayia Usah mancari karam Pandai pandailah bakasiah Kana hati nan sakik surang....
 
-![Hadyna - Sakik Sanang Bacinto](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8qqZRpjjvdHFEQXjPAWjBWK537TkwxeeKmazT_ZFhkIm0HsJANxpov8MvDqnw1UoVYknPhyZG4uxuJ0sUnWMhN2-WOnUDlIG5MiWb0gvGmsFEgTcoZ6UTgkJ6rrmSE0sPOX6fNkyb3DNnOa0h_oBR3tFdyHwYiCSIte8zLc5A8-3F3hTwCtbMjwYFsAGN/s1280/hadyna-sakik-sanang-bacinto.webp)

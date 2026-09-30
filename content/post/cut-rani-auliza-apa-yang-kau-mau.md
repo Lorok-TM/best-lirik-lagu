@@ -25,6 +25,5 @@ Title : Apa Yang Kau Mau Artist : Cut Rani Auliza Songwriter : Wandi Bireuen Cat
 > 
 > Usahlah berpura kau bersandiwara Seakan semua baik baik saja Jika tak bahagia Jangan memaksa ku bertahan Ku rela andai kau tinggalkan
 
-![Cut Rani Auliza - Apa Yang Kau Mau](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWanqz1TX4A0ioRrwYyYaIbgXP4lJeNuzBlFKwwMYW39VdxDEZpprb9bnl9QibtDYvVmC1pH6xvfOEJCG7hnwN5UG-wqoY-kNgEYIrSJZ3zBx3Srq_s1t8I79ZH3-tdpqBXQlYL4Hu-TxolxAPPWfBGgKJfnv9zx1JYDmBRre4STQpkiq_AXIzty7gbw/s800/cut-rani-auliza-apa-yang-kau-mau.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Cut Rani Auliza - Apa Yang Kau Mau. Silahkan bagikan juga ke teman anda.

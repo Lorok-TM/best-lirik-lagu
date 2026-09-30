@@ -15,4 +15,3 @@ Andai tak hadir kau dalam hidupku Tak kan sesakit ini lukaku Tiada menyesal, tia
 
 Jika bukan cinta apa artinya Kau bermanja-manja selama ini Jika bukan sayang apa maksudnya Kau bermanis-manis memberikan harapan Sakit hatiku sakit engkau mainkan perasaanku Perih lukaku perih Tiada salah ku engkau tinggalkan sendiri
 
-![Maulana Wijaya - Jika Bukan Cinta](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiH1j_IvWPluBsc5w0q_uDMH-0kKu3rGhenUBBhnrGJYMtu24iXRUCC4qkHmFHA0q0pYsCk0HL_vzzlgWjduI_ESMcJoSXmOBplyZA7mWeQQJBcVDsUmVX82OaQ_F9ghy4L_lKROE0DVpU-JBCm8DzrObgpol2m1J_AzWBIxeH8e_3kKDGhZGQTuZIOQfYU/s480/maulana-wijaya-jika-bukan-cinta.webp)

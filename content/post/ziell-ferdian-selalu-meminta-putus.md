@@ -29,4 +29,3 @@ Aku yang slalu mengalah Meminta tuk jangan berpisah Cobalah sayang Kau hargai ci
 
 Cobalah sayang Kau hargai cinta tulusku ini
 
-![Ziell Ferdian - Selalu Meminta Putus](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0caoGlIrjQJHNnVsukIa3K9EQeiWVAKbFoouA_F4C9ltBPSDt0NXSnwK05v1GoDXnPCl4zRO4DDr_y5MmdqDsRmMpeSds6zFE1diF2N5U4r2bN3D3wqE68CYoLJT4UAzVLtsDxWUNCgZZTJPT4PtnY3_X_jbRs5Sb9yzcw2FU2oHPdjpllZLSN5RzLU3G/s1280/ziell-ferdian-selalu-meminta-putus.webp)

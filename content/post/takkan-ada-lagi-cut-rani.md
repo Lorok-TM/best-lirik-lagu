@@ -19,4 +19,3 @@ Biarlah ku sendiri Mengobati luka ini Pergilah kau kasih Ku ikhlaskan cinta ini
 
 #Credits: Judul : Takkan Ada Lagi Voc : Cut Rani Auliza Cipt : Mansyah Saragih Arr : Iwan Romeo
 
-![Takkan Ada Lagi - Cut Rani](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtZa6JKZIskzovht79eB-Inks5jXEPwTnSEbhbvu3qQsLfSHVcK_vy9w_CgN5nBYccL370Cty_1soGwQIAef2pQjspwdteX9ppfOdRbvgPIF5ZjFg4lKHVPZ8-ZRe4RzEmzvmafQcJXioM91qYpBo7GMfhYrDKRy0Ys9BGwRD0RYmq7R3aszuQlxBFAu_C/s480/takkan-ada-lagi-cut-rani.webp)

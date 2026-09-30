@@ -47,4 +47,3 @@ Demikian lirik 'Lahmaoi' sebagaimana di atas.
 
 **Credit:** Judul : Lahmaoi Voc : Cut Zuhra Ft Nazar Shah Alam Cipt : Nazar Shah Alah Arr : Noval Wayarabi
 
-![Lahmaoi - Cut Zuhra Feat Nazar Shah Alam](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilnzWEeb_8bvF67S_mOisWW5hl4GHUbLB5dt76vBDP3TGI7x251VpmzqBEOq6KO4aenmj2h6Vbtt4fK3gNeJF1_w2FtnCqY9DysUj9NtvfEnciYftyghMBG-Az-MzVTQ32vhXSi9ZY2hCJo0qlmehIm8erXusxdmosvs9cbuICM7RlnjCnGg1yCtNpBdyj/s1280/lahmaoi-cut-zuhra-feat-nazar-shah-alam.webp)

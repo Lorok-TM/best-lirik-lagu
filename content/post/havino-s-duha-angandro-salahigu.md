@@ -17,4 +17,3 @@ He akhi sisökhi angandro salahi Ena'ö usöndra harazaki He akhi sisökhi angan
 
 #Credits: Judul : Angandro Salahigu Voc : Havino S Duha Cipt : Havino S. Duha
 
-![Havino S Duha - Angandrö Salahigu](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiifpAP-UN8I49tm32AF7wDE8huECRWLjvqEmcKg2VxFl56fNbEgnwCPt72xaSKcZF5BR7oD63braqJ6hNAd02pNYhn4wgWh_jrVXf7BxOa-GXSDCD0U9b83GtdQiBN8XC9fdGgKXk2JPD9nPZibGPpxH2d6gzR6Osk2uli-veM0yJziYcx8a8ta_64oBj/s480/havino-s-duha-angandro-salahigu.webp)

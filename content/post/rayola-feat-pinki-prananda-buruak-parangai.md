@@ -19,4 +19,3 @@ Buruak parangai uda malah kironyo Dalam babimbiang uda jalan bairiang Jo urang l
 
 Katiko susah sapiriang makan baduo Lah dapek sanang mangko uda baulah Buruak panganan adiak kadiri nan ko Sakik nan indak tabado Buruak panganan adiak kadiri nan ko Sakik nan indak tabado
 
-![Rayola feat. Pinki Prananda - Buruak Parangai](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitkO9IfXswSvr8cx8pouWDgfjLY2_a7q8tBlTK6YIv6GUNDaVjVN6_QWTAj9dUT0jJJqTpCOhkzniTbh-4EiqdxD_U8fm7g_junKomuPMff6OvkMoHfu1IhNNMUcrvPEkX8vFQguRhMMH5_55g9Vc8Lgr76tusXF23nMABY7unhm0U6YzDer7ehiqBaYya/s480/rayola-feat-pinki-prananda-buruak-parangai.webp)

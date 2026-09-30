@@ -23,6 +23,5 @@ Title : Pipise Mekada Bagus Artist : Ary Kencana Songwriter : Ary Kencana Catego
 > 
 > Mirip yen tiang mati Dadi arwah gentayangan Sing sanggup nepukin Kurenane empuang timpal
 
-![Ary Kencana - Pipise Mekada Bagus](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWce2pXxf-Kc6jEAU6_gY83DzvB0K9xs4YHBGVEms8SklbnJu_Ek-Yz6omgYaX4W-pnO5ERUoDErHgewykuk5KFRJKTwjyhMoIwGlChJLw-i1nZ94CPdomKGtGNlOJlTcUnLugqK1YRTae32mnF04vIMxHi9bMsF4OAKGvwYOYVoW9hStrba89ywexX2Xs/s1280/ary-kencana-pipise-mekada-bagus.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Ary Kencana - Pipise Mekada Bagus. Silahkan bagikan juga ke teman anda.

@@ -21,4 +21,3 @@ Kau ciptakan cerita Seakan diriku berbuat salah Mendustaimu Bila kau tak ingin l
 
 #Credits: Judul : Kau Perulah Perasaanku Voc : Thomas Arya Cipt : Thomas Arya Arr : Decky Ryan
 
-![Thomas Arya - Kau Perulah Perasaanku](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYYGIEYK4Nc-tQef_UPA6bTIhAhK3OX-zPtKPdb4rKcsu6XvkjimzVCgRFrrv9U6BcEJF-iLKIau5IE9Q1ryEox-tlY1c52LuXYTT5xL_pBmY69shPXKi0bAzojsSG6ZVsNC7GJVqzJsNy2sdAHNVLVKU5dBlqt0pMPsXTV0_p2G244vANUk17RawZk83J/s1280/thomas-arya-kau-perulah-perasaanku.webp)

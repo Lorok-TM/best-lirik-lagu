@@ -31,4 +31,3 @@ categories:
 
 Title : Sadar Artist : Budi Arsa Songwriter : Budi Arsa Arr : Goes Enen
 
-![Budi Arsa - Sadar](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMHzcFHvcs7s5RXNRoMDt88URzyx-cdWH-7LGPhxuSQEv3OzOYROSU-O_yYqsNOM8DSA-fuHLoJ5AgNrfIaHV1-599GMeZ8-lKh1C6rML5MUOJqPR52XSe9RgF5aiY2hkTGIvt4C6Ur3fN3V-POJFYFrxGA5ue6lBk241qtFgGiZKqbNuX_aq8cQ5c3A/s320/budi-arsa-sadar.webp)

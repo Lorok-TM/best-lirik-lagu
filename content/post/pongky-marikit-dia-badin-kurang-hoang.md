@@ -41,6 +41,5 @@ _Dia Badin Kurang Hoang = Tidak Kurang Rasa Cinta / Bukannya Gak Cinta_
 > 
 > \*lanjut lain waktu\*
 
-![Pongky Marikit - Dia Badin Kurang Hoang](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8TdVSzsB2NyOE1X8DE7gzafMEEYJBo8wWzoU2lAeAsiAJj9ZSlUYhiL5v73vrWvior9h5zLB-H4ZslVbczqwUNN7er6oSR3tD2Mghs41ORdSMQoc5EhjB_snrcwSXz463TM9t3I8fn-i1U8xHY8inW0chUvg-43q2nh5hcbN-RjhJyLYmwDnpyUUprw/s800/pongky-marikit-dia-badin-kurang-hoang.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Pongky Marikit - Dia Badin Kurang Hoang. Silahkan bagikan juga ke teman anda.

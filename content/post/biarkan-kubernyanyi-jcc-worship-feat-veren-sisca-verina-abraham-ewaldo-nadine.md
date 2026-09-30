@@ -15,4 +15,3 @@ Pam pa ram pam pam pam Pam pa ram pam pam pam
 
 Demikian lirik 'Biarkan Kubernyanyi' sebagaimana di atas.
 
-![Biarkan Kubernyanyi - JCC Worship Feat Veren, Sisca Verina, Abraham Ewaldo, Nadine](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhw6K_3MKwr0JxCXOjeZyQVsdSe_LfGBbLcrwoHLCc_ujmCZYFqU6NHsGdfZ-wdWuzrmMcpebdGvoIfRQuUkJMDn_AkSSWVs9EJG2x3LqNVJ0gxzp0MOGN8g87bAErzrOXQRRBlWubqBhjSoXEdGKXTXzkZUdvdEl-4uq_emx40VDw1ANMdq_VLL6IQ70Hl/s1280/biarkan-kubernyanyi-jcc-worship.webp)

@@ -5,7 +5,6 @@ categories:
   - "malaysia"
 ---
 
-![Terasing - Iman Troye feat. Naim Daniel](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLBYXvRajWloj2nWAWKjMb-Ew3Lgq4yETaWqkWuHWKWmEeXUsrU6MUV23SCJ_O_lBUgoRsg-HRmBFc_VzSMBehPHDYV62rnoM2mRdHgJ8olDB1NlFqmfBG0O-ulw_breKW0X6a6TvjnHmrNcHjLVIDzECT301q2nuJ1dtMzvcy5LabHGqZk-aa8MRweOMQ/s1280/terasing-iman-troye-feat-naim-daniel.webp)
 
 Verse Kegelisahan didalam kedinginan Meniti sepi keseorangan Sebuah kematian yang tiada bernisan Sendu mengiringi perpisahan
 

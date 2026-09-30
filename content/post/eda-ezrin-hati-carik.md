@@ -27,4 +27,3 @@ Sakit nyocok hatiku Hancur lebur keranomu Rela bera berdebu Mu permainkey suci c
 
 Selamat tinggal saye Aku undurkey diri Selamat jale saye.. Cerito kito.. padey setakat ni
 
-![Eda Ezrin - Hati Carik](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJ_yRNoYjkV70k1SYHx4KFyKP9nwOaMp2n5-H3QJfERTlJRuleULY5teTSGEcA8X8MEOvAWvcKo7RKVx8AVNwDlcuN05-4ziwRZbOVfHnNVRgmsVqkB5ItAQ7BVzHkCArmGZ5ipBy5VWgn9k3jMtNjlMXJb6zL-VFh-QvalaTVRu7cksv3cgPEYpPxJgFx/s1280/eda-ezrin-hati-carik.webp)

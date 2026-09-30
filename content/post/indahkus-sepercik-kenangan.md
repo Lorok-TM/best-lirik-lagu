@@ -37,4 +37,3 @@ Title : Sepercik Kenangan Artist : Indahkus Songwriter : Gia Raf & Indahkus Cate
 > 
 > Tak perlu kau memaksakan Biarkan aku bahagia dengan jalanku Meski kau tunggu sampai lelah Tak perlu kau memaksakan Biarkan aku bahagia dengan jalanku
 
-![Indahkus - Sepercik Kenangan](https://i.ytimg.com/vi_webp/Usb-ndTl7IM/maxresdefault.webp)

@@ -19,4 +19,3 @@ Ora masalah koe ngenyek aku Sg penting aku ra tau babi babimu Minggato songko ng
 
 Netijen as yuu
 
-![Difarina Indra Adella - Papi Papi Pu](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfEBtZUAV2Buw557R6mCjO5bs8NsMsEw31WH2UG6_B72cg-PtiHW5-oZCgFTIHJrAfbDahmrqAw6gzUycduMo7eroeGzWK0eL6G3JoViIuJgVsfv_EtKcQ25fNUlmySsbqiZdqbH5IblBRCHkRm3X6cjKv2n6ScnBxx7r6ZCG8Xu3O8Hb371VHb30lAqPh/s480/difarina-indra-adella-papi-papi-pu.webp)

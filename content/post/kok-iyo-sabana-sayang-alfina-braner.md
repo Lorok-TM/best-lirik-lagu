@@ -11,4 +11,3 @@ Kok iyo uda sabana sungguah Usah manaruah bimbang ragu juo Hati denai pun ndak b
 
 Kok langkah alah samo sa ayun Di hati lah samo samo cinto Ka palaminan kasiah bapalun Itu pinto hati ko
 
-![Kok Iyo Sabana Sayang - Alfina Braner](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgv1emj3KnvsENK4igwlbBUx0NVWlxFQZbawnEOQwZqTXgCJkQoRlNmbBXn6QzpbHHpyoFmOom437_F-PyDtCxpNQNEOI9rF_PIr_4irWeJf2ZDfA2DmMTUs4i3h4IUSr34xcA6Bg3FUlQYYbBJ7kuSwSLBhdcWm03hUXBP5w6CDpiLE6XmHk0FNp54K8y7/s1280/kok-iyo-sabana-sayang-alfina-braner.webp)

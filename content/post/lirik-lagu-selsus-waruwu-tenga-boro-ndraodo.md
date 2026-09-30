@@ -33,4 +33,3 @@ categories:
 > 
 > Lo utaha’o lo ufadano No angetulamo
 
-![Selsus Waruwu - Tenga Boro Ndraodo](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5lHySlH6se6b8ZG_v9RMudzPKyFTIxvi34CtAR9owRI9K9l0z5fdwAobNg4uEgPt24mNMpymlDPsDmLc4UUEdRnCt8DgeRGigsvb49BEmNIGKVIImz2MtdwwHjlMn25jae6EFmIia8SvqTM793p8VY6MP8aT_CgpFYMHAT_qfPO6T_q9J1-klNghlPQ/s1280/selsus-waruwu-tenga-boro-ndraodo.webp)

@@ -5,7 +5,6 @@ categories:
   - "osing"
 ---
 
-![Kari Cerito - Ajeng Febria Feat Zaitun Niam](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdxQ2poHcfJFMFimsSIjAxsX7Z3I2v9kZS0yoHlfkRJP2W3lhla4AqYDJ1G1MzhKjRS7yREDP28FqJg9JqusaRTWt50j8Eo37Z0_dIDToO_PWXlfGiSit5K6R_JlZYyf46cZP2kMSQCpn5nSplc0fQy7da2wzJQQDkB5MatH4ANDHiYkgfRftCXLNB7KsL/s1280/kari-cerito-ajeng-febria-feat-zaitun-niam.webp)
 
 Kahanan hang koyo iki Riko sing biso nerimo Abote gudo nyekso batin rogo Riko mutusno ninggalno
 

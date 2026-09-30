@@ -31,4 +31,3 @@ Surat cintaku yang pertama Membikin hatiku berlomba (seperti melodi yang indah) 
 
 Demikian lirik 'Surat Cinta' sebagaimana di atas.
 
-![Surat Cinta - Rachel Patricia](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1svd5KIcwecHJPp8U78CqMastk78nmw9CqiptDuf5AY5ykI5RyvkPNujEjE_YnhI8wuu8p-DVSPJBVRvj3w_OhUhtj1FFbojIaO_jHAbdFVwqaTVltebyXYfelC2FUbqnEh5qjELycSsDeNpX3ABROYnAtOwR7fFAJpIdFanEHPBNrv38024-tdEzb7AD/s1280/surat-cinta-rachel-patricia.webp)

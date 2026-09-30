@@ -19,6 +19,5 @@ Title : De Kual Artist : Bagus Wirata Songwriter : Dewa Mayura & Kara Sunset Cat
 > 
 > Satwane gebuh memunyi kangin kauh Jeg ngandang nganjuh Keto sesai tepuk unduke disisi Nuturang timpal engsap jeleke pedidi
 
-![Bagus Wirata - De Kual](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1uO9yifofwIgbrV61AZeiAwVWtbQgjIswhPQVi-oZzXnq9gycy3v75KWhGhXwZTV-qwX17RjPHfihKzstVDoXsBsNC7BG-6sqCvTy_7oAwcwuykTW0VhP-uG1qcW_Xjqi5XhZIXuA7duJFCEFTr1DvktJ4KR_Ig5ajdOrw1mHN5a4BPza0PAHzH20EA/s1280/bagus-wirata-de-kual.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Bagus Wirata - De Kual. Silahkan bagikan juga ke teman anda.

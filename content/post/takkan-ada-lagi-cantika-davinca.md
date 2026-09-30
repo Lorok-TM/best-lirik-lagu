@@ -23,4 +23,3 @@ Demikian lirik 'Takkan Ada Lagi' sebagaimana di atas.
 
 **Credit:** Judul : Takkan Ada Lagi Voc : Cantika Davinca Cipt : Mansyah Saragih
 
-![Takkan Ada Lagi - Cantika Davinca](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKKoL3x6Q4E9Zy4zBu36oFHi2pEfsWOTcc4K2WORa0BGoQiJZzekL9_5T2D2O23MYiGb6sZcfDlk-ANO7xVLjnbEoFyeOUAJ1W3lRLmax4XC3yhqBJrNJgd4dU_uwQGxqDFEzXmjTJYXQpIqY7njTp1Lea7sve3a08n9OVCGFAdyY2KRNuNgvF6LWyJlti/s1280/takkan-ada-lagi-cantika-davinca.webp)

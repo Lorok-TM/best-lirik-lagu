@@ -5,7 +5,6 @@ categories:
   - "slow-rock"
 ---
 
-![Thomas Arya - Alunan Hati Yang Terluka](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEqt3xWlixvNU6hMheSfADX8wIPfM8xG69LFKzRnI6LFKRdyUbTSUi-D56DP6bmgEoS4T6AjGxYiYaiU8uc_9tuuqoKbsnqaPsHF6YYRYoCL9HpvnUV2XwAfFRkqDUCb4kaHy6zFt9gB6jdMPlebWaasuInSkXBUO5Yah02aq48XIHtJ5fph5QqAswadb1/s1280/thomas-arya-alunan-hati-yang-terluka.webp)
 
 Kenangan dirimu masih ku kenang Cinta ku padamu tak kan pernah padam Walau pun kita sudah tidak seiring jalan
 

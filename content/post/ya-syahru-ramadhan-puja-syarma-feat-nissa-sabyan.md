@@ -33,4 +33,3 @@ Demikian lirik 'Ya Syahru Ramadhan' sebagaimana di atas.
 
 **Credit:** Judul : Ya Syahru Ramadhan Voc : Puja Syarma, Nissa Sabyan Cipt : Puja Syarma
 
-![Ya Syahru Ramadhan - Puja Syarma Feat Nissa Sabyan](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSWy1U0TB8Gszv5EJF-1NcX24eNg19xBf-JdwzEjnzsVnRZu0cNRxPjWE7_vMuf8rU7lpTHhKkwdhoD4lGdc9JL1DXcuIW7Oqy16PvoyfXBli8td71t3phK7SdmTaabsKlesHoxh061m06eP7GEW71w-awG5F5qMhHERdJ98LKzGN77NQ1zi11BXDY6r19/s1280/ya-syahru-ramadhan-puja-syarma-feat-nissa-sabyan.webp)

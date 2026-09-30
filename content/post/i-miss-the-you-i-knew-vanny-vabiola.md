@@ -19,4 +19,3 @@ I miss the you I knew before the storm When love was simple and our hearts were 
 
 I miss the you I knew before the storm When love was simple and our hearts were warm I miss the you who held me tight When everything felt so right I miss the you I knew who made me feel alive I miss the you I knew
 
-![I Miss The You I Knew - Vanny Vabiola](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6U9_Vfny83uu3xwksF7iqawLknJOMGyX-F9wP_x1ev4uFi_D6aF-ZGe69CjkWTYU42NtCEEgk-SqOa3nfps9jqSvxWSp034kBxl21c3kXglegHr9dF3LOooNcsHrjV9KZkSrVKEGd2yOhPNqUUJbkOnfZp0BXOt_JYtOyRbrNj4r5KO7obDAVUq-E2M2G/s1280/i-miss-the-you-i-knew-vanny-vabiola.webp)

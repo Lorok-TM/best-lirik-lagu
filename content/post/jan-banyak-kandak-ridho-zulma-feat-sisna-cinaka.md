@@ -17,4 +17,3 @@ Pandai pandai kito mambujuak hati Jan sampai indak taukua lai Mancik usah di bal
 
 Maminteh sabalun anyuik malantai sabalun lapuak Ingek ingek sabalun takanai Jikok alah tasobok nan mambuek tatunduak Tagak juo raso ndak ka sampai
 
-![Jan Banyak Kandak - Ridho Zulma Feat Sisna Cinaka](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYR5-duso_PzMBxEWFRWi0nXxQ8r7x-cntIxQ1FZoIzMra0-Z15j4EDkMPNIx01TxyI_JcioUNMnvJa5dHchuiOVoNmBPxE-KhyphenhyphenKXxIekETAB_LjyLwUNuh-TO37ijoSizofwOY8cOV0uhUr4iO53OWhCf9csDpJb04sVBuRArakoqLcyLRdgfaCptHaY4/s480/jan-banyak-kandak-ridho-zulma-feat-sisna-cinaka.webp)

@@ -41,6 +41,5 @@ Title : Mama Tolong Aku Artist : ILIR7 Composed : Vic Production : Ascada Musik 
 > 
 > Tapi ingat Kata mama ku harus setia Tapi ingat Kata mama ku harus tulus mencinta
 
-![ILIR7 - Mama Tolong Aku](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYcI_8uAaZm7yNFZsyn8uziu3ALBkzHuy1UKdh7yNaXlIvA64cnrLy4VCf8rdJKoNbTrj3k6fCmqUZNRk3O5yhRcqAckTeyPhPwXyl7u_P5KAaJkO9RS4xYPJDUQsHCnBrdj48dr63C1PCzeqI-khgJ9RywYqreyUaH9IBisXPUYJ809qugXWxyGfVbg/s800/ilir7-mama-tolong-aku.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu ILIR7 - Mama Tolong Aku. Silahkan bagikan juga ke teman anda.

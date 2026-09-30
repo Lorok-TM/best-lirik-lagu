@@ -27,6 +27,5 @@ Title : Tabo Ni Na Martulang Artist : Duo Naimarata Songwriter : Soritua Manurun
 > 
 > Manumpakma tondimi hamu da tulang i Tu sasude hami akka beremon Asa tarpasu pasu dapotan ngolu ngolu Ganjang ma umur mu tulang nauli lagu Asa tarpasu pasu dapotan ngolu ngolu Ganjang ma umur mu tulang nauli lagu
 
-![Duo Naimarata - Tabo Ni Na Martulang](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1Jm_Zc7PIw_wJsvarumkx8L5sGzOoGtaCYaHi2x3qtrrJEGjvydXjAwa04dUi5SsBgGYpgfw38FcATPbjG6n-MBm_0LR0BrMOJ8SLFUqzmuG3nk_6Pv3vgqGoC-BIuTivvDrUcOe7UT7O4TbYYgu6UEbmf8C1gIBwnIiaHqfT4W4Xe5CgkdcA9KOYGg/s800/duo-naimarata-tabo-ni-na-martulang.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Duo Naimarata - Tabo Ni Na Martulang. Silahkan bagikan juga ke teman anda.

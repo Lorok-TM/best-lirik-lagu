@@ -45,4 +45,3 @@ Ade mo bola bale sampe mana Kaka ni su makan garam Biar ade mo pake gaya lama Ka
 
 Biar ade mo pake gaya lama Kaka ni su mati tanam Kaka ni su mati tanam
 
-![Gaya Lama - Jacson Zeran Feat Silet Open Up, Juan Reza & Diyah](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3llf5T9Xd6da1ZL9fi9z3s5o4xkwnvZ0W8XuN7tp6kQZy98JflM4o0uUiX14eW1kXPXxzosG-GlUObCaMlXqsBdf5Ewby4M26OzxNufPp2ffPVt7hjBklYMyBw810-LOc8raRoxzhtH-Dvm7unJhlkJ9hbTD0aLiQbWObEjY8vM9oUtM82ZpfDclO2YSd/s1280/gaya-lama-jacson-zeran-feat-silet-open-up-juan-reza-diyah.webp)

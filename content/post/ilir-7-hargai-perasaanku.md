@@ -32,6 +32,5 @@ Title : Hargai Perasaanku Artist : Ilir 7 Songwriter : Vic Ilir 7 Production : A
 > 
 > Huwoo oo Oohoo huu
 
-![Ilir 7 - Hargai Perasaanku](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZuGeShUi7LVEvaupqsBd3lPJbdI5sYex_i2q3EpcZ_pDHrVhyn1UxzIPi0FaZhELUxPSU95S_TReJNBv0czNKC3wzhJc-xLTHbXB0EkxGvcEGqfFvSQklWCtNNl4_fm6goMLtK9B3NUpCiFPSEi76c1KUiLFHr6gdUXvnlGMxktGiOb0tMbAZHLN68A/s800/ilir-7-hargai-perasaanku.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Ilir 7 - Hargai Perasaanku. Silahkan bagikan juga ke teman anda.

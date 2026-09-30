@@ -15,4 +15,3 @@ Mandaki denai turuikan Manurun denai iriangkan Jurang dalam Samo tatungkuik tati
 
 Apo salah doso diri Mangko uda sampai hati Mandutoi mungkia janji Urang baturuikan denai batinggakan jo tangih Antah bilo nan ka sudah Urang batiruikan denai batinggakan jo tangih Sio sio denai basarah
 
-![Silvy Carlina - Dek Cinto Cilako Diri](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyHRI4QwxW__ltsBWKP59shW7Y6zL5OS8X-lOgVge4NfTkzjkV83yFjvpr43T76jLXzUeQrwSwyqdWxn5tLTLaHMobMtC86HBPBw9-646P8FNGCVmF_GoneSqo2RoCs65kxsvBfK3DQxuKrr6DQCbGKbqmjM4mP7admo29oIhtucoGi6hXWHBcS57XYeNI/s480/silvy-carlina-dek-cinto-cilako-diri.webp)

@@ -5,7 +5,6 @@ categories:
   - "melayu"
 ---
 
-![Ingkar Janji - Eno Viola](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgro7axkzgFhiTqg9IF4zDC7ZKXUw10d9g5yGtV98aZednM1AxMCKH2S71GGaka_5A04pCHphO-Azp6sLpKViLjBk5lBBmaq311kPq2gORxynANqirQ9fMWDJcXTzURKUNVd5zzqbI0yGD-XOUWMy8qWvwlQnPGV5SZO2KlIHZ9qevkhLEDddL6QH1lcjiv/s910/ingkar-janji-eno-viola.webp)
 
 Teringat kata yang dulu pernah kau ucap Kau berjanji untuk sehidup semati Tetapi kini kau ingkari semua itu Kau pergi tinggalkanku sendiri
 

@@ -25,7 +25,6 @@ Situs bestliriklagu.com tidak menyediakan chord dasar / kunci gitar / Mp3 lagu B
 > 
 > Jangan kau samakan diriku dengan dirimu Bila aku lapar ku harus bekerja dulu Tapi suatu hari pasti kau rasakan juga Disaat nantinya ayah ibumu tiada
 
-![Silva Hayati - Bukan Anak Terbuang](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2yGKqWwcchloUBB7HwqIGqJFJmUxSD1UtCN96d53xnOyCHMSvTqD8hL_cRnOZIJiC5a-N94UHVTsqavQYmXNdi-VFbtDVn_To9qrFgMp2TkbPJchw95rPPlBEKgWKZUMA5R7fy2P9iEAmJ6AlWq44iWho4QVh63U0FTRkHYkh3fS1qw6JoRSImfy9IPSK/s800/silva-hayati-bukan-anak-terbuang.webp)
 
 Tujuan kami berbagi ini ialah menyediakan dan menambah sebanyak mungkin informasi arsip lirik lagu untuk mempermudah bagi Anda yang ingin menghafalkan lagu Bukan Anak Terbuang ini, maupun belajar bermain musik.
 

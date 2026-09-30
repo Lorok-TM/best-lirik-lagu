@@ -17,4 +17,3 @@ Labo kok alun sasuai jariah Jan bandiangkan jo razaki kawan Mamintak kita ka nan
 
 (Kembali ke Reff)
 
-![Ridho Zulma - Kok Indak Labiah Bialah Samo](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvSAYDtJASRhPg9dVsnt4QTh3eb31zbKrhNTQHI5artTb7Wi9WdTUxTHbt5vZRE2F-FlKt6S7IDFI1P3xXXEVonrkfrZ6OHzJTIOcmjl24m-hfnkg5GnEP0ARaVfp-C65PmCVDhG37TUoJH-iEfl1i_8iyYhFFDxdBzdk7p5wDn2NCzwz_QKJe_ZqdArpe/s1280/ridho-zulma-kok-indak-labiah-bialah-samo.webp)

@@ -25,4 +25,3 @@ Mulai marsogot ito Unang be huida be ho Soala bagakmu ito Dirippu ho do au na ot
 
 Dirippu ho do au na oto Dirippu ho ma au na oto
 
-![Dirippu Ho Do Au Na Oto - Arnada Trio](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjB0EaZIU-kzUwRplKl-OyP9-6ss2dLdZkzSy82_V5vCE0UuBcrVak984bJEhT9qozGCkedIPG16UY7-tpnQQ8lsuHp3jr2Tz8g2NABLxxf-K88Flr8br0LypUkA-aukNYs8enmhMet_ddqScuR-EoWkl4xisRqB0-BGRIlWKNAfdMOmPymcJ5hKUvN_2pO/s1280/dirippu-ho-do-au-na-oto-arnada-trio.webp)

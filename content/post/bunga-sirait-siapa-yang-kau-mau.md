@@ -5,7 +5,6 @@ categories:
   - "melayu"
 ---
 
-![Bunga Sirait - Siapa Yang Kau Mau](https://raw.githubusercontent.com/Lorok-TM/2026-08/img/bunga-sirait-siapa-yang-kau-mau.webp)
 
 Lagu berjudul "Siapa Yang Kau Mau" yang dibawakan oleh penyanyi Bunga Sirait dan diciptakan oleh komposer Alvin Rizqi Koswara (Alviano Rizqi) membawa narasi psikologis yang berpusat pada konflik internal akibat ketidakpastian komitmen dalam suatu hubungan. Melalui susunan lirik yang lugas, karya musik rilisan CRI Entertainment ini mengeksplorasi batas ketahanan emosional seseorang saat dihadapkan pada ambiguitas dan hilangnya validasi dari pasangan. Secara filosofis, gubahan Alviano Rizqi ini tidak sekadar menggambarkan keputusasaan, melainkan sebuah bentuk pernyataan ketegasan dan pencarian kedaulatan diri ketika kejujuran interpersonal telah terkikis. Judul yang berbentuk pertanyaan retoris tersebut berfungsi sebagai titik balik bagi karakter utama untuk menuntut kejelasan, sekaligus merefleksikan dekonstruksi harapan yang jamak terjadi dalam dinamika romansa modern.
 

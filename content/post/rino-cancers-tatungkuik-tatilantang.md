@@ -19,4 +19,3 @@ Tatungkuik tatilantang Lah panek denai bajuang Coitu bana sayang denai ka adiak 
 
 Untuak adiak nan dicinto Rila den bataruah nyao Cinto denai bapandang sabalah mato Dek ado nan labiah kayo Mangkonyo adiak coiko Malang sibansaik malapeh hao
 
-![Rino Cancers - Tatungkuik Tatilantang](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgROEJFN62fs6ou2n3bEvDONBAHP6VJMiq26p1wTdJCFGV-h0qNXY5Jzj_WEmB9XuQNLsWbIxeG8oMIZWLDOSgk20hrk5PqtfnN6isRi8kV10Ivi6YEpxiisqCFatraDx6yrWQJcU-YcSYC9JblS8FxYM4wZze3p3WzLwTOQ-oiFgmNsJkSCOyXysAxK0Gf/s1280/rino-cancers-tatungkuik-tatilantang.webp)

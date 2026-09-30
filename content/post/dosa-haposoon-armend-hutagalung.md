@@ -21,4 +21,3 @@ Marsinggang au ale Jahowa Debata Padao ma sian au pangununan on Jalo ma tangiang
 
 Asi rohaM di au pardosa on
 
-![Dosa Haposoon - Armend Hutagalung](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiB5bTqr-C9Add156vxLYyZClWkmmdktkHp5ayItpMjoM53gvdu8qZXAVn_Xs_3tzy5KPIKMleo6b8_NfgaPvUU9QWKLVppixEPGsvzqxOBCxAEiGoxVorZQesl1kGsqNBT8LROsKYekUpGMQ5MQcr1sWTJIq3y3G0vI9JFxIPooRkIDN56YqTGzVrzZHd-/s480/dosa-haposoon-armend-hutagalung.webp)

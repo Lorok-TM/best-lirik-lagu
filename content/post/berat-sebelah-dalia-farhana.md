@@ -23,4 +23,3 @@ Demikian lirik 'Dalia Farhana' sebagaimana di atas.
 
 **Credit:** Judul : Berat Sebelah Voc : Dalia Farhana Cipt : Amir Firdaus, Dalia Farhana Arr : Jeson Huang
 
-![Berat Sebelah - Dalia Farhana](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbyo9DosHbtcS9CnngzfMJWyVfpFu3_LldnJVzZgHc5yt2Ig1rxeTfd3iRp2mA6V2T-isCfpD0sbgofg7wpzd_xzqkMh0ZZqoqoRpP4G2KzgmCRmOnXN9DfgVzfpH_8bclf7_C1jg-OKLLfGpnUjmCv_XPzASsKL33BITUJLkqSHpOhyphenhyphenTtn1bKFjsMlcFn/s1280/berat-sebelah-dalia-farhana.webp)

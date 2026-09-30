@@ -5,7 +5,6 @@ categories:
   - "minang"
 ---
 
-![Iduang Tacucuak Mato Baraia - Carlos](https://raw.githubusercontent.com/Lorok-TM/2026-08/img/iduang-tacucuak-mato-baraia-carlos.webp)
 
 ## Lirik Lagu Carlos - Iduang Tacucuak Mato Baraia
 

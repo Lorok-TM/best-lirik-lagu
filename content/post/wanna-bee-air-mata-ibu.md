@@ -23,4 +23,3 @@ Title : Air Mata Ibu Artist : Wanna Bee Songwriter : Emen / Iwan MS Published : 
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik lagu dan lain sebagainya. Terimakasih atas kunjungan Anda.
 
-![Wanna Bee - Air Mata Ibu](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhm2OgL2eR3eFwjYXG1xhX7Ily_PQlclqwR1AkLghoASBzDanXALW4pqQmUKUwDVNnl_oKhbhliizuLFfR06spuzwL2gcIBVCycsoukTHsGgM--zEb7kSVXFl31h3Xyst2MKf9kTlXl1cNJTxpKL6FnAFd2W0Y7rNvmOufVIygIbwqgCwpdf9piEzAg5Q/s1280/wanna-bee-air-mata-ibu.webp)

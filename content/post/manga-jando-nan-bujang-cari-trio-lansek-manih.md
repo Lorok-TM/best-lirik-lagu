@@ -67,4 +67,3 @@ Chorus : Kok kaberang-beranglah Kok kabangih-bangihlah Namun bana kadisabuik juo
 
 Kok kaberang-beranglah Kok kabangih-bangihlah Namun bana kadisabuik juo..
 
-![Manga Jando Nan Bujang Cari - Trio Lansek Manih](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUozVMpoQw8_JOLujZazzqCv-OFaYr4x1Mdyx2OUrvYulasicn9DVDWmawTB2jua3IyiQgRMN2dMHKHlkKjNtSw_hb2KSL8LETVYwAwWCjf7RUSg_w1UIXYlegEn4C96UsX5fHm6rbh-4hGMDANn3g2r7IgcaYConQaESXwWNRMeH1b_GajrnUoNxvmT_d/s1280/manga-jando-nan-bujang-cari-trio-lansek-manih.webp)

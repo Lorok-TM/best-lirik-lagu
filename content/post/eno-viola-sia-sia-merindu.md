@@ -25,6 +25,5 @@ Title : Sia Sia Merindu Artist : Eno Viola Songwriter : Fany Zee / Aprilian Publ
 > 
 > Sesabarnya diriku menanti dirimu Semudahnya dirimu lukai hatiku Ku ikhlaskan semua kau bersama dia Jika memang itu membuatmu bahagia
 
-![Eno Viola - Sia Sia Merindu](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3cMowHAtN284v1i0wGpZiSyZa_kHny8ZAXxibWIq-xk1nhfraN-WjP4As31O9BxUm_T8cvlm_N60zQ1MAojTHVe6B3SGK4Oa4iAgiVqCNh8ncPEhVwgkgtDXSTowYqZDKGTnXSTD00R6nKzlTfHgV23geRMUSdBCNjLdg9e72egUqwAttFDjC8oyTfXua/s800/eno-viola-sia-sia-merindu.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Eno Viola - Sia Sia Merindu. Silahkan bagikan juga ke teman anda.

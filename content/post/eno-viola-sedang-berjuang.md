@@ -21,4 +21,3 @@ Aku yang mati matian yang habis habisan Untukmu sayang Dia yang kau rindukan Ter
 
 Aku yang tak pernah lelah yang tak pernah mengeluh Demimu sayang Saat hati terlanjur cinta Aku yang kau tinggalkan Aku yang kau tinggalkan
 
-![Eno Viola - Sedang Berjuang](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHlpejaUkB3ZLMvqyVjkS5HdJrZuCHkqWuYRkzugsZuZxUrMGX7XNUjwznYJtM6eDwiOtiKiGjMZrLBFxi5B9pmzPxLFH8nkI6Oz5eB9uEgBS5aMK_HrBMBlc6l2cuWiqsTF-Uytkm7D9TQp1ri7wngM3V4gf6nwCRkIw5svVQf1NBTvTdP4D6xHYHrbhX/s1280/eno-viola-sedang-berjuang.webp)

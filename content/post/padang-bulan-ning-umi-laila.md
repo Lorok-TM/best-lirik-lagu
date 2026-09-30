@@ -21,4 +21,3 @@ Demikian lirik 'Padang Bulan' sebagaimana di atas.
 
 **Credit:** Judul : Padang Bulan Voc : Ning Umi Laila Arr : Mas Owdy
 
-![Padang Bulan - Ning Umi Laila](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPT2elJ83Y66r65xPOKypacRKKdt-c2N5SH16adQXIALKcYU-gEBL6FxK2_fEEnu8RMIVZt18EvsjAkK-c0hS0JiogIc3TNuY-KgUAXaoJkdJbhv9ph54NaQVVTy-lCUYnSA9V6Wx3MSsHw47h7yfniSc-P3Wl-ZKEiGXmenhUIMyYd4SKlzKo3JRutxpu/s1280/padang-bulan-ning-umi-laila.webp)

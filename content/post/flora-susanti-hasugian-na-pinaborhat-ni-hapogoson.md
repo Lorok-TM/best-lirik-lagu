@@ -31,7 +31,6 @@ Situs bestliriklagu.com tidak menyediakan chord dasar / kunci gitar / Mp3 lagu N
 > 
 > Sabar ho inang sotung mandele ho Marnida boru ni halak naung hasea i Boan au inang di bagas tangiangmu Asa tung boi muba ngolukki Asa adong dalanku Lao pasonanghon ho inang
 
-![Flora Susanti Hasugian - Na Pinaborhat Ni Hapogoson](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-mFhqtPar4-6MNSeBxFAnCyvTfr26YLkPrKmAP8BRPSdKHwe5AdcFPPBnYSBZ3XXjXyMFMXmreOWl8z9lRTEii5_LDlhojm1BDrUmddZHOpd10_Nd06I9oRVFJCkZyUtxRiYyDxtaAeIwl52_Du1XtumRK5rtQtaaUF73vFuc6nN77r8btg4PTs14QaFW/s800/flora-susanti-hasugian-na-pinaborhat-ni-hapogoson.webp)
 
 Tujuan kami berbagi ini ialah menyediakan dan menambah sebanyak mungkin informasi arsip lirik lagu untuk mempermudah bagi Anda yang ingin menghafalkan lagu Napinaborhat Ni Hapogoson ini, maupun belajar bermain musik.
 

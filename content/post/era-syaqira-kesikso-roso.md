@@ -60,6 +60,5 @@ _Kesikso Roso = Tersiksa Rasa_
 > 
 > _Kalau memang kamu suka dengan orang lain Jangan meninggalkan aku tanpa suara_
 
-![Era Syaqira - Kesikso Roso](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEht1MxNFs-IFbMxv68LZRDQsmIc3Scw55dLzEoh5ztIpplF7bm5D4lZKMhOxb0svcPOfmZN1MAAMfyuomJOfYtYmrg3_qeiGjwlAAGUBZYrTtltJhOvzv7YsBDBlQK6AGcZ3UbvbGf6XeGmYZwmdVvXrZYc_9TT8EZi8rYS4rV4nfsCA1EXv4BVjYSJsg/s800/era-syaqira-kesikso-roso.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Era Syaqira - Kesikso Roso. Silahkan bagikan juga ke teman anda.

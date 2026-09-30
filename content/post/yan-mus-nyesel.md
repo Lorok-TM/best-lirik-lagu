@@ -43,4 +43,3 @@ categories:
 
 Title : Nyesel Artist : Yan Mus Songwriter : Yan Mus Production : Rama Rani Production
 
-![Yan Mus - Nyesel](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIP6EsWsMd3EXWXGwvD8JvIIpUW8dzZUCg-jcKwT6G-O_YkiKKJEF0YfQE0oausts6sj0z7gVBvnjjnGsTU--lltnJxaUElCsn5YqhfIN6rfggm5FlSg1cIKoiAOzQOeS7ANdLZhDlpEPsQuEClqP3eE3G7OuJi3cNdS5fkYWu3ahZG18Ugt5JaQYROA/s1280/yan-mus-nyesel.webp)

@@ -37,4 +37,3 @@ Alai nunga hu salpuhon be (namun telah ku lupakan)
 
 Sai jumpang mu ma na umburju sian au (kiranya kau mendapatkan lebih baik daripada aku)
 
-![Jose Simorangkir - Sia Sia Do](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQRRVg_t9aD3r65QjiE0r-GEqVvuyCeErQnrUqsYoYLBzu6kUsLIls_X-sAk9ZhXsq3-uwYNNhzEOQ_nUI6psbnwbxuUPyKvsUdDT1RsMP9CGkJWBALluomq6wUDg52GF6LAmoLXdbwjpndjYqEFyQHjJKr0v7Rv8syZy6_YBF_IMXt8dTAxVCgLRlvhOq/s480/jose-simorangkir-sia-sia-do.webp)

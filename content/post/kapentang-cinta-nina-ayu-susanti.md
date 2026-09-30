@@ -35,4 +35,3 @@ Duh aduh cinta Kumaha ngubaranana Kapidangdung inget bae Ka manehna
 
 Arek tuang arek bobo nya arek naon bae Ngabayangkeun bae si manehna Henteu beurang jeung iraha Nu kabayang ukur manehna
 
-![Kapentang Cinta - Nina Ayu Susanti](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQGmBtgNdFQbvNTYXtEQShw6CwA638hxGPMyGIJQ5F_9HgzlG0BnNHiN62jN8SL9ZPOY_-pOxqPGjp0KVpZo-vm1BnE92alFSSGXJxDLGGnFCouJ4pBEVdeZdUmtmHalOawtB_iDrxEVaBvDygWbbIgMWg8iuEEabEwlsLl7wuZ2NgHZf7YHwG4ZKicX7E/s480/kapentang-cinta-nina-ayu-susanti.webp)

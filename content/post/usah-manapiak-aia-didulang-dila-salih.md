@@ -31,4 +31,3 @@ nan elok hiduik tenggang manenggang jan sampai kito bapacah raso kok nyampang ad
 
 tadorong takurang jo talabiah itulah tandonyo basudaro jan sampai kito basalisiah barek jo ringan pikua basamo
 
-![Usah Manapiak Aia Didulang - Dila Salih](https://i.ytimg.com/vi_webp/2TqM8-z-poQ/maxresdefault.webp)

@@ -17,4 +17,3 @@ Sadang mandapek angin Tabang si layang layang Awan hitam juo nan ma agah turun
 
 Roda nasib baputa usah talampau bana Jan maukua bayang nan di ateh bilangan Iduik isuak ka mati rato samo di tanam Sadang namuah rasaki kana lah kawan
 
-![Daniel Maestro - Lapiak Usang](https://i.ytimg.com/vi_webp/_se83N3teN8/maxresdefault.webp)

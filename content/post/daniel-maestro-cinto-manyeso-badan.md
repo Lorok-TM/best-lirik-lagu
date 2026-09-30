@@ -25,6 +25,5 @@ Title : Cinto Manyeso Badan Artist : Daniel Maestro Songwriter : Safril Saha Lab
 > 
 > Nyatonyo sayang Cinto kini manyeso badan Denai nan payah bajuang Nyatonyo urang alah tibo maminang
 
-![Daniel Maestro - Cinto Manyeso Badan](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhYX4T-wYqjOZibpc3hQpgZMuScG88NOqBOsqTl5_ObdCMqCFTmjY-vQ-BHcPuzEyVm8kgthE7LAUDQGBMaKkRaKgYe4Ms7od1VEZMRIxVYaX5LIz8f2ZWiVhATpB8nQimctJjiunajXIlwjc-ZU9F79uI37FIqTwigmlAic5lkTC0FJ5BVPNK7i8qkc_r/s800/daniel-maestro-cinto-manyeso-badan.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Daniel Maestro - Cinto Manyeso Badan. Silahkan bagikan juga ke teman anda.

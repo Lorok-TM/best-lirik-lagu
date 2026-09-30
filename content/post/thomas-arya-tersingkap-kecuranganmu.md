@@ -25,6 +25,5 @@ Title : Tersingkap Kecuranganmu Artist : Thomas Arya Songwriter : Thomas Arya Ar
 > 
 > Huu uu uu Selamat berpisah
 
-![Thomas Arya - Tersingkap Kecuranganmu](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQdp3_qApsPki24g6JTRa0Nqln1JGx9K2bZhy7kAmzddttR6pO-pr_slgZgL_r2A9aTVZXHR2c0_PoM_nJZDdGhQz6UYV8M2b0kl2ptPVSW78St379Dkun9YsItEB0_XVo1GzBdwiK73pKKfUEnsLVJ5Euo1YUGUPVO3DjHgkRyecxitt1VTi19hhmFA/s800/thomas-arya-tersingkap-kecuranganmu.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Thomas Arya - Tersingkap Kecuranganmu. Silahkan bagikan juga ke teman anda.

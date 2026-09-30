@@ -25,6 +25,5 @@ Title : Pitaruah Dalam Lagu Artist : Daniel Maestro Songwriter : Rizzal Maestro 
 > 
 > Mohon dangakan lah tuhan Kok lai buliah sampaikan pasan Tanang kan mandeh Bari jodoh ka jadi makmum Nan panyayang Tuhan tolonglah
 
-![Daniel Maestro - Pitaruah Dalam Lagu](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRDq-ayoebhdUZ2jlM1SyxgcVzUQEQtpt-Mbo42D0MhGPqt5Uwf7_cggodj9lzJ5Z75UU-3dyg71n257R9NLu7fNYNNcaN_jHqDUxOBpx21T_AfMD7bvx99TSxszImz2b7jg2vRm0aihpIClxLFbUcWLIb7JlJfDRlekIzVAf4yJ7bOlqba-rutynmjQ/s800/daniel-maestro-pitaruah-dalam-lagu.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Daniel Maestro - Pitaruah Dalam Lagu. Silahkan bagikan juga ke teman anda.

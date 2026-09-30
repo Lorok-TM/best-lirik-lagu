@@ -29,4 +29,3 @@ Sering ku mengalah Tetap tak di hargai juga Jika kesabaranku Tak menyadarkanmu H
 
 Saatnya aku pergi Karena kau lupa diri
 
-![Natasya Sabella - Sadar Diri](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzIsiwnmzw-KNcojWjOjz9Nc7BwLbkqldu5VPPTJ9XIoYjZJA2l9tsBsdN-FEXQptIaE1kfqNG8sFudHiKOATiC86o1_HBqGVR3JVTOfmnvHITcQAe31OPHpxPB90z39yp8s-tYuQVx9IzikgHBe8bePjfVsqSL3e5Ib3Carf8wZN2Y_2e5puEElxRUC5V/s1280/natasya-sabella-sadar-diri.webp)

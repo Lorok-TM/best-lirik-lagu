@@ -23,4 +23,3 @@ Barang kasanang di dalam hati Kini dapek pandamping diri Dicari basuo dinanti al
 
 #Credits: Judul : Manyasak Ikan Ka Ampangan Voc : Ririn Yulanda Cipt : Syahrel Putra Arr : Satria Wandra
 
-![Ririn Yulanda - Manyasak Ikan Ka Ampangan](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtEDyMg1Brp98j1hiZFFWVZMHYIZ7VOJSMON2LLe8iqLY5GZwtkQRlRVvA2OTnScbrWXWXeG4cULTR26oWTEVgAcMvsR9gWM6Wty4rvg02RZINhAcx4RsQnYK5OGB9ct63bwC37FYAEngFCjfZ5hFI_z42w-rGz4L87M36MSZ__yzoECQhxbxFbVAV60yp/s1280/ririn-yulanda-manyasak-ikan-ka-ampangan.webp)

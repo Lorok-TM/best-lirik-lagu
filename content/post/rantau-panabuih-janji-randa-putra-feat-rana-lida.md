@@ -5,7 +5,6 @@ categories:
   - "minang"
 ---
 
-![Rantau Panabuih Janji - Randa Putra feat. Rana Lida](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgebOzWaRxbtFB6ppg1As_RSqFBu2U5AgWm9KDFUp6c5ELDe9JuXG-H_XoFRLChezw5JtkwTo-sF6pwRnDSmhD_nKq46jvObhPxg2JantnCz_EZsHBYYdgzUqM1szcLmM1Ao-pUYF_nV0uIzHdv1o0xYL8RTipmbHIsRIGAJBvbgXgM653uMEFyJ9RyvTXQ/s1280/rantau-panabuih-janji-randa-putra-feat-rana-lida.webp)
 
 L : Taraso barek kaki denai langkahkan Maninggakan urang nan den sayang Marantau manyambuang hiduik Harok isuak ka sanang Basaba dulu basabalah sayang Marantau manyambuang hiduik Harok isuak ka sanang Basaba dulu adiak di panantian
 

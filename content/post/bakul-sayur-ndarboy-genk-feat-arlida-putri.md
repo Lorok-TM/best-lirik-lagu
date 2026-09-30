@@ -6,7 +6,6 @@ categories:
   - "java"
 ---
 
-![Bakul Sayur - Ndarboy Genk Feat Arlida Putri](https://raw.githubusercontent.com/Lorok-TM/2026-08/img/bakul-sayur-ndarboy-genk-feat-arlida-putri.webp)
 
 Karya musik "Bakul Sayur" yang dibawakan oleh Ndarboy Genk bersama Arlida Putri membawa narasi realisme sosial mengenai martabat dan optimisme kelas pekerja bawah, khususnya para pedagang kecil. Melalui lirik yang lugas dan berlatar belakang kehidupan nyata, lagu ciptaan Helarius Daru Indrajaya ini mengkritik stigma masyarakat yang kerap meremehkan profesi sektor informal, sekaligus menyuarakan pesan filosofis bahwa kejujuran dalam mencari nafkah merupakan fondasi kebahagiaan yang hakiki. Kolaborasi musisi pop Jawa ini menyajikan dialektika antara perjuangan ekonomi dan kesetiaan hubungan emosional, menegaskan bahwa kesejahteraan hidup tidak semata-mata diukur dari status sosial melainkan dari ketekunan serta kebersamaan hingga masa tua.
 

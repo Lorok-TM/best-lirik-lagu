@@ -33,4 +33,3 @@ Biakan kasiah.. Biakan cinto.. Bajalan apo adonyo..
 
 Biakan kasiah.. Biakan cinto.. Bajalan apo adonyo
 
-![Bigheru Feat Suci Utami - Alek Palarai Cinto](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVJS1hENyYYzbJPi1BAYTBkXdPWQTjjvRCZaFXFEFO-wUXksrFXjOSy43BZXCbeahVEpfOh95ic5kjesia-Mkp1Gv361rEyeiawq_cj5Mdv-B2EaD0syPwZQjRmeHfOjuW0BEnd4rsybf224H4xB9_xQTNrlmHE8d3D_KdFufz9ZzxhA5pOw7USlDiHw8X/s1280/bigheru-feat-suci-utami-alek-palarai-cinto.webp)

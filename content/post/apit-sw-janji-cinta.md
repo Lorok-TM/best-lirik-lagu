@@ -27,6 +27,4 @@ Title : Janji Cinta Artist : Apit SW Songwriter : Akhmal Daniel Published : MVM 
 > 
 > Cintaku kepadamu Tak mungkin menghilang Takkan ku persiakan Peluang yang telah kau berikan kepadaku
 
-![Apit SW - Janji Cinta](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoce-8-DqYJcNHnfMKZX2pj1C8FmuTk7PF4MSM-J0eNfNHxeignksBLUrPhihF8scg1eJlZQZfpWwyqU0H3JoPyCN6Tfzfjx40_Xi_DKeTMr-jomKSRV0dYOkxL8GyNoi73GMOw71aenqKyUlb6gk8Z3YJzzdG23mnyCDvIcQG11f7Jw-Luxg1jfcvVw/s800/apit-sw-janji-cinta.webp)
-
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Apit SW - Janji Cinta. Silahkan bagikan juga ke teman anda.

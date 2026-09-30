@@ -41,6 +41,5 @@ Title : Jiwa Yang Bersedih Artist : Ghea Indrawari Songwriter : Ghea Indrawari P
 > 
 > Selama ini kau hebat Kau pasti kan didengar
 
-![Ghea Indrawari - Jiwa Yang Bersedih](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjAC0gnctVRTMUjhctzMLxqhQNSif_oP_eNU9F3aw-63ZWOe5p5uGTrTDb-YwXCUEm8KPgpSkfeTMcyXricmCEG7BnnS2yFb4b4VXsomUYZukpLgAUMkhKALAdi4fqkQEMuXlCHhh-0hC0GSZ5CVCT3r0sUMmURoyDYw6QeIXP9cV5i8fVwKuOvRY0DQ/s800/ghea-indrawari-jiwa-yang-bersedih.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Ghea Indrawari - Jiwa Yang Bersedih. Silahkan bagikan juga ke teman anda.

@@ -31,6 +31,4 @@ Title : Jodohku Bukan Dia Artist : Aris Bima Songwriter : Wanda Mahardika Label 
 > 
 > Semakin dalam diriku mencintai Semakin sakit yang kurasa dihati
 
-![Aris Bima - Jodohku Bukan Dia](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihO9wkTKZxrsqNWfNVLxUnMBAbxy7L4gJQ-pMYLSO1L4gNr9zD30X7yxxf3q79IHj2M_WHOaVE0F9uN9z14eLJI8DImpEUdvw2PD7Ya-g3G8VdK_lFFDCmv9yWASZmjzjReLtgkSqD3oirSqWG45p0zvo_ls0wmWmn7YzbZim7hwAKP07xFsWhz6kIPA/s800/aris-bima-jodohku-bukan-dia.webp)
-
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Aris Bima - Jodohku Bukan Dia. Silahkan bagikan juga ke teman anda.

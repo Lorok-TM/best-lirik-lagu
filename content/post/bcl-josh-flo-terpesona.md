@@ -5,7 +5,6 @@ categories:
   - "indonesia"
 ---
 
-![BCL & Josh Flo - Terpesona](https://raw.githubusercontent.com/Lorok-TM/2026-08/img/bcl-josh-flo-terpesona.webp)
 
 Hadirmu ku nanti Pulukan musim berganti Kini kata hati Kau tak terganti
 

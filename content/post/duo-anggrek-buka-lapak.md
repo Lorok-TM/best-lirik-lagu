@@ -31,6 +31,5 @@ Title : Buka Lapak Artist : Duo Anggrek Songwriter : Hendy Irvan Label : Nagaswa
 > 
 > Dari pada hidup jadi gunjingan orang Lebih baik memang ku hidup sendirian Sudah basah mandi sekalian Pergi saja abang ga usah pulang
 
-![Duo Anggrek - Buka Lapak](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjnfvL6EdpxROQHMNcOXWkcsTyYueTJBqOD37Jhpz12iNXckGAA982oXQLOShkj3C19KFEH8mSm6BOCeO6jNU1c_c7KJpgFPW8hb1kLeC7XL39O2zgOOsvh-t-ZWvPF1ZHIBBe6_xPS76xAY5wzWEVXV5hVHQ5ZCGfj_EIANT_Llwb3MxWq3_IL5gnWA/s800/duo-anggrek-buka-lapak.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Duo Anggrek - Buka Lapak. Silahkan bagikan juga ke teman anda.

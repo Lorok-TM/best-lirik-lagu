@@ -27,4 +27,3 @@ Hadirmu menyiksaku Kau buat aku tersiksa Hidup segan mati tak mau Itu yang kau b
 
 Hadirmu menyiksaku Kau buat aku tersiksa
 
-![Elsa Pitaloka - Pembunuh Cinta](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgf923zjFtC5OGwzIvgix72ahb3Spj1zFbhWBdSrGPhkPPL4JFIPeZZQKpKSmTSw8bcoG1sppSxJienB8Eei2hdYrYFBkMpaVnnL3z1SuA1wXw1ppS6ukardvO-XZn3POREmcrMWP3_CfJWWWMqoURcDTjjD3XFveZGeRfsxMZOx8Swahr_Lntmc2KxNSFV/s480/elsa-pitaloka-pembunuh-cinta.webp)

@@ -5,7 +5,6 @@ categories:
   - "karo"
 ---
 
-![Lita Barus - Kam Teman Geluhku](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiG9DOVHd6nmey62FoVEbMTeEf8a4NCQ10OeBnfLbYLhuUZCAV5FXE0ajktz2AXqPlB19uz3kV58ZkYlyqZwKhJvUTZ73mLjWjTsmb3O9O9gc0cMzFFqK1eyrwZqixi8FRQnwW94DlQedz0QQO6j-HDNa7eKwCIraB3WnCgImHXT4YAYMxMNXyAQ4xDSF5j/s686/lita-barus-kam-teman-geluhku.webp)
 
 Ateku keleng man bandu turang mama tiganku Lanai kel bo dua dua tuhu tuhu kam ngenca Bicara lit kin pe tigan dua si bagi kena Kam nge ku pilih mesayang nomor sadana
 

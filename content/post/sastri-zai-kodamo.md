@@ -13,4 +13,3 @@ U'ohe asöndru mowöi dawa hörö Nau angeraigö Hawa aröu mbanua ba ziso'ö Ha
 
 Angawuli manö Ubaloi ndaugö tu ho dödö
 
-![Sastri Zai - Kodamo](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdJdJ9D_O4J8L3SBkrG7pIdddmBk_5yeiTUU6o11KLNhZJi-X9-8CM3QU4kK6t8EtwAYQMfueW_Mx5Kt7ezCkJTOIHHy4esOe4JkJBYWp0B5uQOkz4lCNoggVD_C0PCSppT7OOTGuvg8sJ3RkvLNxlQ8O-wTS1skN0GEvVcguGuZHSHfVkfz6-m3HQenv9/s480/sastri-zai-kodamo.webp)

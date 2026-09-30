@@ -23,4 +23,3 @@ Row, let’s row Row, streaming down to the lake Row, let’s row Row, streaming
 
 Spread out the nets, catch the fish Don’t be preoccupied as the day is getting late Come back home bringing Keba (is a container for the fish) Containing Pantik, Saluang (the name of the fish) Quite a catch!
 
-![Trio MaRiSe - Malauk Manjala Mambesei](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmYaX_g-iVTAfWqbC96aFWQyFKPtXTrEmMGP9C2_owiNRVkR5DyOQg12-KbVqqWskr4jm4BGIx0J6eQwAEDYwcoOCYzzj96lyhaNsP5qnYkwsfCfIIRgdf_yrB37WMPtLdEHB1k0NlNU-yNkLX27qqVbgnpuvpLyDPl5qfDvuEZ1P11fGjeLcWgZ1YosuC/s1280/trio-marise-malauk-manjala-mambesei.webp)

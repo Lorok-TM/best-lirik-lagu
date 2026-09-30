@@ -22,6 +22,5 @@ Title : Pander Haja (Banjar Version) Artist : Bulan Triana Songwriter : Shogy Ma
 > 
 > Cukup ja sudah uln lawas mahadang Timbul rasa sayang dan cinta yang ragu Karna janji janji pian pander haja Malah meulah ulun sasar basarik
 
-![Bulan Triana - Pander Haja](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmZY79N6nAGOzk0J31a909diJoiBbcVoSrIv5THUznPCNmD9uf7Qcr32riSNbHpRAfxSBUtbSrKXTGseuQETUp8cbBZdRgRK2b8AH8xQypHkXcjp4vzWWkNzYCDAEbUA9HLstLpvasO-SADKoPD_odRrCqlpc3NxJ9lmFPD9UEiFEdMU46VfPvw4CKA1tT/s320/bulan-triana-pander-haja.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Bulan Triana - Pander Haja. Silahkan bagikan juga ke teman anda.

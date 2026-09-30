@@ -23,4 +23,3 @@ Mana mungkin aku tau Bedanya cincin sama diriku Janganlah Abang coba merayu Nant
 
 Cincin melekat di jari manis sayang Kalau adik melekat di hati abang
 
-![Yaya Nadila - Cinta Dari Seberang feat. Zinidin Zidan](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjf-vohICvKW3rXQatpXAM-xzcvDRD6O9BZik2fJ3WxZiLD2Lz6T_Ntbqk1a-S9nn3V4neWK09RiMAi_qg1JfhrrdpN_b9w6tgjEDFwjlJ3TogV2GHNqOSBOz-XeB6kS81feGHJOfqxDYXt-M2MbNJJWayrS4I40Z8cZbUhkx8AMgyoUBXs95PZVFJcQ_sb/s480/yaya-nadila-cinta-dari-seberang-feat-zinidin-zidan.webp)

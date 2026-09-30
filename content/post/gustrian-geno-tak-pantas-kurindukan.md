@@ -17,6 +17,5 @@ Title : Tak Pantas Kurindukan Artist : Gustrian Geno Songwriter : Faisal Asahan 
 > 
 > Namun tak pantas lagi Dirimu aku rindukan Kau takkan kembali lagi Kini milik orang
 
-![Gustrian Geno - Tak Pantas Kurindukan](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyDgfVMBNj_8mj7lYx2ann_mglnfoEzDMztwoMR73UkTzetlgVTFRaJffoaDayRFL21IvNs23Fe-iXO3SDQTiOoL1YVpRpehToKmhhM5TtXaLUkckaMcqiluVSu_nLIqV4jBQ7prg8d8bBIME8X4Ux1JFvZDmRQHL6EmGDzTeaPxNPzEOUmuhcllO_Cg/s1280/gustrian-geno-tak-pantas-kurindukan.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Gustrian Geno - Tak Pantas Kurindukan. Silahkan bagikan juga ke teman anda.

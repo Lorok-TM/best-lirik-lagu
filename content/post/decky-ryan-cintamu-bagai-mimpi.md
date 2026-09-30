@@ -27,6 +27,5 @@ Title : Cintamu Bagai Mimpi Artist : Decky Ryan Songwriter : Decky Ryan Category
 > 
 > Cinta yang kau beri membutakan hatiku Terlena diriku terlena
 
-![Decky Ryan - Cintamu Bagai Mimpi](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqi4xGp9fh3PTc9y-zwVeUAgP5wbnnS70mqgozTGfgw9srXb3kTX4gKuFvnvnU66ke-HE92Z0iGF6p93YPnjT2YF7GhAyAjs-yrXTdYbg7zoOTO_hlElh9S5aqR8aetEhIMvStb-YgF0X5fN1m7d3fs7O9bNH37iTN0hz7NvAlCW7308UaH-sHY-Vr5w/s800/decky-ryan-cintamu-bagai-mimpi.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Decky Ryan - Cintamu Bagai Mimpi. Silahkan bagikan juga ke teman anda.

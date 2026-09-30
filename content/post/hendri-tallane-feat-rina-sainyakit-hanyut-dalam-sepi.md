@@ -19,4 +19,3 @@ Sayang ko sampai hati Bikin sa rindu dan deng setengah mati Hanyut sa dalam sepi
 
 Sayang ko sampai hati Bikin sa rindu dan deng setengah mati Hanyut sa dalam sepi menahan rindu Jadi tolong kembali
 
-![Hendri Tallane Feat Rina Sainyakit - Hanyut Dalam Sepi](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDi5_YCt9pQ2DqpHdGL905tokIz0h0ZLPuFslTlNhsDkGouFYwBrb4ffIrs-2ZVjrJH5qtIwaYwgnvmZOl5WaeOynbP277ezFni8i3Zo-cPY9rXp5KIAJsKSFsMrA5M4TmO4bzeiIm3ErF_95ypKjFOTxcLV6YO_udDCxtSQ143Gdg_WP76Xz9g-OeLqCa/s1280/hendri-tallane-feat-rina-sainyakit-hanyut-dalam-sepi.webp)

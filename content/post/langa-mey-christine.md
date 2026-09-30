@@ -25,4 +25,3 @@ Demikian lirik 'Langa' sebagaimana di atas.
 
 **Credit:** Judul : Langa' Voc : Mey Christine Cipt : Sarpan Paumbunan Arr : Dek Artha
 
-![Langa - Mey Christine](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQHs5ZWShhOUq_HVYnZmor4dtwyGOThWJqdZiAqrEPiOTdCGVVYYiTXhxc4Nl_DPP5khtH_bmjY2Qq81Kt4mlsIDALacnS_vEJxt_zDBtABZmB0QxqRdU5WHK7Bvyi1jXhUzyl5I7KGEgdRvaJMLHrocpzuG3DzKQyXMc_wNFHidSTA6eYABtoRka4UWS1/s1280/langa-mey-christine.webp)

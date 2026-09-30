@@ -5,7 +5,6 @@ categories:
   - "java"
 ---
 
-![Negoro Angin - Sasya Arkhisna Feat Laila Ayu](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6Tl2rJ1qoGZ6Mhee3KBC1YGFGKs_1oVfOVyeERZc4fDCn58SA0ZoHXtlqFFM9O1dNzhUktE4tPdmnIrjkrDI0YPqlzWYe0nfgnDbJ5f_2W1GjYYxjy3iHENgZruH-zGSVYHf0_DfoukWI7tL7d-g7ZBCb4QfFPwx99k_aJO0xxRSDuJFVXZANQHoRqENW/s1280/negoro-angin-sasya-arkhisna-feat-laila-ayu.webp)
 
 Tak tempuh sewelasewu kilometer Nyusul awakmu Sing nate janji mulih ning aku Sak wise rampungke urusanmu
 

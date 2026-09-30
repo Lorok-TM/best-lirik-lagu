@@ -57,4 +57,3 @@ Sewut saritam balaku lampang Belum barazaki baumur panjang Amun tege asin tungga
 
 Hakarang indang hakarang apang Tende helu kanderang tingang Mikeh saritangku are bajangkang Balaku ampun kakam pangarang
 
-![Syaer Sua - Karungut Panatau Pandung](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibXBthvt9OShRB7uMOfrs8MgZG6Nz7UArSETrdhwr_TIsMggsj3_pmWaHq010qdna29B_h1d_QICVV3h-2ABVeZSNpGWzRu66m4Z5MJdVyqvOM-3lJ8iKnk_jUSmp1ThWcpz9OBWlRcV_hlJqHFURO6GNescKOETvnt4qYqq06FerzoSws6hvDs3aRiqBg/s800/syaer-sua-panatau-pandung.webp)

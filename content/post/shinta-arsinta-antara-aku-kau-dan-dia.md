@@ -23,4 +23,3 @@ Wanita yang mana tak sakit hatinya Bila putus cinta Wanita yang mana tak ingin b
 
 Dia sahabatmu jadi kekasihku Pengganti dirimu Dia sahabatmu ingin meminangku Relakan aku bahagia
 
-![Shinta Arsinta - Antara Aku Kau Dan Dia](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIJeTVdIJxhUWsM2QrjRbXr4uNyUs6Lq8sgdeCbzDPeC_xCIR2xj3tUlxlHQcMR7TxECaq5QDF19bUqw31rtGaHyKPD9cUybKAEj8y6Q2kTCSGxOurYYhikiZiBbQ5lc4iWUAfp6QHDi6jIvMe4YbthOtTBMliAiuXB32JZUdBxwrw9EWnHV9wA6ckJMGX/s480/shinta-arsinta-antara-aku-kau-dan-dia.webp)

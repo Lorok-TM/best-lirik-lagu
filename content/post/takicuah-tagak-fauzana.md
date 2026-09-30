@@ -13,4 +13,3 @@ Lah takicuah tagak tagak badan buruak ko Talampau picayo jo janji uda Di balakan
 
 Indak lah denai manyangko Nan tajadi ka badan diri Kok untuang di baliak tangih ko Galak nan ka tumbuah
 
-![Takicuah Tagak - Fauzana](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg583z76XA8kdW_N_-nNCwS3dH821YxdGnWBgvXhF2tlel75WlPxK5JZTUTTy9bbZQMPQHoGpddFAuq9KouZ7OaT_rU4gop_CKqAytL-im8c3qsX8C_3NGPMDEvk1l4ljwfmO-l7IFYeDD7sKhUZAZGld5tvGTvcgUKYUTOY_bfuQaLVLt3DXZ48_aheHlo/s1280/takicuah-tagak-fauzana.webp)

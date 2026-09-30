@@ -13,4 +13,3 @@ Jan salah mamandang sabalun basayang Denai ko lah dulu ma ukua bayang Takuik den
 
 Jan bagarah juo kan lah tampak nyato Padiah hiduik denai dapek dibaco Kok yo lai ka talok kabeklah hatiko Samo satangih kito baduo
 
-![Roje Firdaus - Jan Ditanyo Tapi Diraso feat. Silva Hayati](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJMvm1_uvyVK3yEZBFuRhfOO9IpPDCVR9vWXl-g0UzDzkfaeochaQcDphuGznuU_p9v2ktOLvbSJVe6L10lr6II-FvktOOdJEOhUn3a229hkqYqMT3Mtr0TP7SaYzyI_nm5gfVhe9YjCkE2F6rJUfi0RU57Bbq309KXZz-kz8VXWPP_U2yqORB9oGhSxFg/s480/roje-firdaus-jan-ditanyo-tapi-diraso-feat-silva-hayati.webp)

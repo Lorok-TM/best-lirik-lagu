@@ -15,4 +15,3 @@ Denai nan surang tungga babeleang Siupiak iyo si buyuang iyo Si bungsu indak ka 
 
 Malang nasibnyo ambai-ambai Lubang tagali ombak tibo Jarek samato jo banang sahalai Putuh jo apo mak oi kapaulehnyo
 
-![Trio Lansek Manih - Tongga Babeleang](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjX0V-ZnGkTejSGFf-Q901BwqX-ewUOkyNQmfi6QXf447sgRKTn3H9KjlqGeRzxqOn_4bIAPHxJ8uKCh3G7baMw2iA2LTpSIP3AOJAr9h7Gt7kqDMMgKwSAUOjS-rnfSYbNcQnoMN8WVFCQN3pBllhNWpn-FGZJFgFtF2rOD_5V5-veCJuGpVDMEY9pLGbm/s1280/trio-lansek-manih-tongga-babeleang.webp)

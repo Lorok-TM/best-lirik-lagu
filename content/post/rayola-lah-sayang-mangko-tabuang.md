@@ -27,6 +27,5 @@ Title : Lah Sayang Mangko Tabuang Artist : Rayola Songwriter : Safril Saha Label
 > 
 > Jo lauik lah kito timbo Ndak pai denai mancinto Jo gunuang lah kito daki Batahan den sakik hati
 
-![Rayola - Lah Sayang Mangko Tabuang](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-sAinjxJroSqOzwW1s3e3a7JsewrEK9kFMZzzmk-KL85Y-N5tbX7ZQpeALt6yoegZiCpSs3ylVZL5CIDJF4CNoGip5cAxll2ItuCwkZNbxfQeBOsuadTIf3L0ceOE7YKErntk1xaRMBlTt_VrzspYtSwKLA7m56LZ117HlBNf-hHl-mfeut2Cw_eoIg/s800/rayola-lah-sayang-mangko-tabuang.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Rayola - Lah Sayang Mangko Tabuang. Silahkan bagikan juga ke teman anda.

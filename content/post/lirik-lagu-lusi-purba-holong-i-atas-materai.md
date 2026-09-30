@@ -29,4 +29,3 @@ categories:
 > 
 > Ija ija do ai janjimu Tega do ham o sianu I atas materai dassa hape Ganup holongmu
 
-![Lusi Purba - Holong I Atas Materai](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvt9AfTI0LcREYuhHX4bNqmRvVNbtcZRalMNwQ5354iCdXDBbUXxoPGwLpAAQPtQnLFVLlQbYvwhKAC8wnUS1VQ-O1OW-A8yV0dwcqqOYSLqnbAbmEYCfyGZp3lFpQacxPI4NpaUdV7HdUWuey9gUUZPXo3tAjIkKsrRm4JZeVrDmmciJ0jTJlcBv2hg/s1280/lusi-purba-holong-i-atas-materai.webp)

@@ -5,7 +5,6 @@ categories:
   - "melayu"
 ---
 
-![Rahma Rahmi - Ku Rela Kehilangan](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTcl8ZByN94ZoWsTWnsDlHoKnApyyzpa-MlbcGfNbQLk8lXLaeLQZ1jTjMjkwJw77_hsoXBCvIsowXuxi0nIJOoTm-CvDiO-HUr8k2zf6ko3mg_-MD81ok8UFtlH-V1OpCo0RBv9uqRdZnwbgTWmR5pN014VlQO7S6VVF5WCRjKnzxhGaBN0723tHm6ACh/s1280/rahma-rahmi-ku-rela-kehilangan.webp)
 
 Teganya dirimu membuat luka Orang yang menyayangimu Lalu kau kembali kepada dia Yang dulu menyakitimu
 

@@ -35,6 +35,5 @@ Title : Sama Sama Menjaga Cinta Artist : Cut Rani Auliza Songwriter : Faisal Asa
 > 
 > Jangan pernah berubah Apalagi berdusta Sama samalah kita Saling menjaga cinta
 
-![Cut Rani Auliza - Sama Sama Menjaga Cinta](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFPkmb1xeLeKngC_u1f8IS1qwQehPvU4TDo_XsAJXUJKWIyGF4k4ZxHmVnCF8RzyWoAmQA37DhswiMiw8iTLnmu8oL9-xSBbDXVfeirgA6eSsjoROu_spqalyvmi84gn7P0h_lCabwHe-i4NtLYUr3xXS1nwhShvpY0JbtA4asADY3-G6lXMTGnQpkJhMZ/s800/cut-rani-auliza-sama-sama-menjaga-cinta.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Cut Rani Auliza - Sama Sama Menjaga Cinta. Silahkan bagikan juga ke teman anda.

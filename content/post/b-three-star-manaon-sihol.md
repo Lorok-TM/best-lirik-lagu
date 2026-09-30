@@ -33,4 +33,3 @@ Ho do na parjolo hasian Ho do na parpudi hasian Ro ma ho ito Ro ma ho nauli na l
 
 #Credits: Title : Manaon Sihol Artist : B-Three Star Songwriter : Billy Simarmata ℗ & © Prima Sora
 
-![B-Three Star - Manaon Sihol](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOxH_0AqEePpc5US5uFVO5xyu6IhWYLM3VvSpHb9T2Shu47QWSWycqEEH5qeULx9BFHrDxjmPDfY4u-flsCoeNk4-Z2St2xgB7C8lwPadkhg1NMWPirRNaZCwu1d3snqHjg60O2kt5CGNY01gxmFGuqHOK0vweX0ILNcwDlErE9sdQghcLtQceiMuI34oU/s480/b-three-star-manaon-sihol.webp)

@@ -33,4 +33,3 @@ Cinta yang ale kasi par beta Akang masih babasah sayang e Seng bisa tahang beta 
 
 Demikian lirik 'Rindu Ale Nona' sebagaimana di atas.
 
-![Rindu Ale Nona - Phaet Selanno](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC0tEPk5z9-5qgs_Z_m2vqaYopVAO2zAvUtnOWUn8vOcqRLQETdRSk8I3ebVAaDg76RgJUD0xxDv9ON6TeHpPM-hn8LnBZBGi0-9amTKLsZ9V3G21srOODtq7mfdgBK3J5l01xU2cQXFiIzYdAl9Gu_XDo_KnKI9vPKd5BloKd62MScOvjtF8_85fXowbn/s1280/rindu-ale-nona-phaet-selanno.webp)

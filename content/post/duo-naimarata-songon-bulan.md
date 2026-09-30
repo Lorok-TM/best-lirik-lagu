@@ -23,7 +23,6 @@ Situs bestliriklagu.com tidak menyediakan chord dasar / kunci gitar / Mp3 lagu S
 > 
 > Tangiangkon au ito nimmu tu ahu dinalao borhat ho Mardongan ilu do au paborhaton ho marhuta sada Hape dang be mulak ho laos holan tona ma ro tu ahu Malala rohakki malala ate ate Malala rohakki malala ate ateki
 
-![Duo Naimarata - Songon Bulan](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjons31oeNFGwy2ajPHzfknSFKbPJYIVXPf77SbYNrFTI9Nory3Jv462yQwfI-Mf5bHqW-2Xx-7CCjRMCOXOy3Ho24MD2G1KhAbOTL7xT0-bFCxaj3znpDeQXfG7ABAH4a-vg_ApvvaoGEBRIg-74hQFhviFZyzl92D05dSwGHbYwVA9exjn43fJ277R34D/s800/duo-naimarata-songon-bulan.webp)
 
 Tujuan kami berbagi ini ialah menyediakan dan menambah sebanyak mungkin informasi arsip lirik lagu untuk mempermudah bagi Anda yang ingin menghafalkan lagu Songon Bulan ini, maupun belajar bermain musik.
 

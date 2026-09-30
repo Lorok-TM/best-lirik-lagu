@@ -17,4 +17,3 @@ Iko lagunyo untuak kito samo-samo Untuaknyo dunsanak dimanopun barado Bia nak hi
 
 Oi dunsanak danga lah pasan kami nan tibo Nak nyo sanang nan taraso lapehkan malah rusuah didado
 
-![Ridho Zulma - Mari Badendang feat. Duo Gali Gali & Cabiak](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi75vMJ5uJIjPrFXTX8uCv7NItIx6wibPsloyU3EHJAqSucXNpr6zkk500M2LIVYQiEkr1AafE0V-zq6lIGPeB6PWwDb-v3va34aXuprB9T1iy5sYsDkhKAlwMcxMza5XZOaI8YA3w1STunRf98zmfQoAdjKbko39-YM3tsnqkET0KY8-6yJYFGsnpVoamN/s480/ridho-zulma-mari-badendang-feat-duo-gali-gali-cabiak.webp)

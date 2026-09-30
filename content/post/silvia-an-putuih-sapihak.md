@@ -23,4 +23,3 @@ Cinto nan dulu kini lah usai Kasiah di hati nan alun lansai Lah sio sio denai ma
 
 Baungkai janji sapihak sajo Putuih nan tiado Mambari kaba jo barito
 
-![Silvia An - Putuih Sapihak](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhonQyN0XkgSvdxkIr998_8efFaYeTuo3soAftgiP-F7Qlw84aWH552OnmOrlz63OH4DlC6sMTNII2wG0jpTmu4ur3yE22duzP0nn4hTvqiH5C8Xz_Odfp2YRKEfsmN_ExhIaym8M7PBVn4TJmODyMvjztOAjIn5k01rdw3xnM6qsLhUZ0wrV5jLAx3etq1/s480/silvia-an-putuih-sapihak.webp)

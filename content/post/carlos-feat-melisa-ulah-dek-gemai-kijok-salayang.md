@@ -23,4 +23,3 @@ Babilang hari Bulan batuka musim baganti Haroknyo badan Adiak ka jadi balahan di
 
 #Credits: Judul : Ulah Dek Gemai Kijok Salayang Voc : Carlos ft. Melisa Cipt : Edmon Arr : Satria Wandra
 
-![Carlos feat. Melisa - Ulah Dek Gemai Kijok Salayang](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaYrKwlPPM_cswkDcqyDEhfaVrtAabKn7cRuSatkUCMQK9l9UxPX_O0lLjA580stHpLF6D9SmqxwZl0tNnMo6iGvnLV3ZnLAx3egsUSIpYwxlbqgZT99uAfdUNJp92XWu9zyguGrKRqW8Wg9-g11CMzkULTODoZ43DGy8oyZ9gP-bS1F4PDwj_d1RO_RvI/s1280/carlos-feat-melisa-ulah-dek-gemai-kijok-salayang.webp)

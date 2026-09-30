@@ -23,6 +23,5 @@ Title : Pandai Manyuruak Artist : Silva Hayati Songwriter : Erwin Agam Publisher
 > 
 > Jan sampai putiah mato mananti Jikok rindu ko ndak tatahankan Indak den tagah kanduang nak pai Asa jan lupo nan manantikan
 
-![Silva Hayati - Pandai Manyuruak](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiRagQGDXLG4h6VeUvWbWwlLVaG5majf1Ty8fv7WDHMfi3CZTSrauO0V-IU5MJY4j6Xf3SBfMaUBJ3dW0pmecDvcVBFiDfMn-DGxNUfqwKo5jz8l7epQ_b1jeUSECSeUsme8hVJib3jvDgUcOs2Kdto0cgiemBVMKDNONaMv3XpAmsOlHO4aMjELTz9A/s800/silva-hayati-pandai-manyuruak.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Silva Hayati - Pandai Manyuruak. Silahkan bagikan juga ke teman anda.

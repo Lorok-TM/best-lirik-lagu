@@ -25,6 +25,5 @@ Title : Elo Si Saruang Artist : Harry Parintang Songwriter : Ajhay Pasma Product
 > 
 > Adiak pai jo urang Tinggakan diri denai Raso kaputuih Nyao dibadan
 
-![Harry Parintang - Elo Si Saruang](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEPKaMTgUNZW6Yu2nr7_bJWfk0hoeWwuq02bsuS46t5_rZSYIahCvWwKp6z6DnCKAJqR5tsAnMjmO-0Ya-0MH1c0k70zWGRGnHQ7VlralGVSZSBh2WPQjvbPG9GUJpFrj2lXBYMszM8wFVdPLzz_Z4qVUvO-DS1E2M8vTxGauO2YwkI6YYp1ngqlQ8Pg/s800/harry-parintang-elo-si-saruang.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Harry Parintang - Elo Si Saruang. Silahkan bagikan juga ke teman anda.

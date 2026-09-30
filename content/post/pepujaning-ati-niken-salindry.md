@@ -5,7 +5,6 @@ categories:
   - "java"
 ---
 
-![Pepujaning Ati - Niken Salindry](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGcVfff-oHCOTozKRPCHI8lAoRjumk-YYYTUrcn7LRe9mwg_JObFoX1-5wKX5RqZx7CkcUe2ShyphenhyphenD579AgNeT8rmxBZw_fGH_z7ub7UWYBIRDCA-rTSItjj1u80JdAQEENkW9K6NDUltK1ajevrQhzSvHmlSOcuZ748tGNvhNSMEFvN2vpy518Mc2QuOb0n/s1280/pepujaning-ati-niken-salindry.webp)
 
 Ginambar aruming puspito Arum kembang kang nyirno Sewu loro bronto Duh siro pepujan niro Setyo tuwuh ra kuwowo Mugo siro ora paring loro
 

@@ -5,7 +5,6 @@ categories:
   - "timur"
 ---
 
-![Ongen Tuahena - Luka Seng Badarah](https://raw.githubusercontent.com/Lorok-TM/2026-08/img/ongen-tuahena-luka-seng-badarah.webp)
 
 Beta pung hati sanang Kong mangapa skarang Ale bikin kecewa Sapa mo sangka Akang jadi bagini Katong pung cinta Cukup sampe di sini
 

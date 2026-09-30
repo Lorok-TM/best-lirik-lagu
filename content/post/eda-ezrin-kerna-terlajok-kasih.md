@@ -25,4 +25,3 @@ Takdir maha kuaso Penentu segalo aku tunduk redo Walaupun hati luko jiwo aku sek
 
 Krano telajok kaseh Saye sangat ke demo Biarpun luko pedeh Krano mu aku relo
 
-![Eda Ezrin - Kerna Terlajok Kasih](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAx9-Cw268aM7FgX4lXfFwr1iS1XMi1NWb4i3eXvjGJQvHXz6h77iF5TmYqFpM_lcwCQp0LML1TX0jxkyeyE4-FVkapn6FTlbeoe7qIf0ohtXWonrbwTcMue7rJL4PNQ7wvgUBL0MXs55bP_vS0xqMgdwk21r7OJc-Esm1dc3uH57AMb0odXd5HFtz49Wq/s480/eda-ezrin-kerna-terlajok-kasih.webp)

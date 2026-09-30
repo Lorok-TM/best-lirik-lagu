@@ -15,4 +15,3 @@ Senajan akeh wong ngina Kudu yakin bisa ngebuktikena Percaya ning doa lan usaha 
 
 Aja pegelan Semangat kanggo masa depan
 
-![Siti Aliyah - Murub](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWSKAZUqEsny1wRtYMosTBKPuBOdCXJBqIMGvCUkKIvSrrxAruHv8QTgnaoyIk6TdteKh8Cm37Eqn8EvzKBstMSyB0WL9lGJumu2AzfpA4ZgGoSUooU7nZLdATf2RMBuKJWFET49mCQTfpPlB6bx35XvMa8fZXFn6m3avFTyOy5LbRp36i2gTG6H7UJL6K/s480/siti-aliyah-murub.webp)

@@ -19,4 +19,3 @@ Manonyo janji janji nan lah bakatokan Jaleh lah nampak bukti jikok memang ndak s
 
 Pai pai lah uda basamo dirinyo Lupokan diri nanko
 
-![Padiah Indak Tatahan - Azura Soneta](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpW6vL2F7KDVv4QkdvyJzYZa7wwmMIU9q0CWz6GxNTZU25csxAYVNrTmRBKq-hxnbVn4_K_BC8-ahIvwqqdWPSRO0G6gw0sq5UbY-xY9aK7oJJIP0JhGJdj-LoH4BM1LU7muXEQ-tbTqeeqAK1djue6lqyYnlIPD_YXMe8-9ARbGmuOqfqKA5_QvIUlrAn/s1280/padiah-indak-tatahan-azura-soneta.webp)

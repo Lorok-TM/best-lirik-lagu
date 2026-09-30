@@ -65,6 +65,5 @@ _Rambut Putih = Rambut Putih_
 > 
 > _Seperti malaikat dia datang beri harapan Bagai pelita dalam gelap dia penerang Belas kasihmu sebagai pembuka jalan Yakin di hari nanti bahagia kan ku jelang_
 
-![NDX AKA - Rambut Putih](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhClHiI4Lo6mUEuuWBm_it13NHZ0d7eifb8ln3Sq87SsxL8-qzsvtMoFIJL58jVC5bjRj_AlhNRwt7zHneHseIWyjUYP4CY7ALYzQEA-LytuRwg3i40MmYAeX-WjU8kOg-bXqAUlZemgtF2SFWApjbto2BwaYCEAhlX9zLcDAp_rHEOsNaNgvSBqqc-oA/s800/ndx-aka-rambut-putih.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu NDX AKA - Rambut Putih. Silahkan bagikan juga ke teman anda.

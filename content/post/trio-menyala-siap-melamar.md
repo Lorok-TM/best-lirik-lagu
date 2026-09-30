@@ -35,4 +35,3 @@ Aku tak mau sendiri Tak ada yang menemani Aku tak mau tak mau Jadi jomblo sampai
 
 Ho.... No no no no no no no no No no no no no no no no No no no no no no no no No no no No!
 
-![Trio Menyala - Siap Melamar](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgReSjpZw1oYW0Xnc-u8LQ_b0KYwLepsYYfcyNIavi1KJ325nuhfhi9zAvJB01Zb1_oKPMDfEwu9mzgh3V1Tv8056-yW3GdXNjnm9L0NIZMMY6aV2AgCiyP-HHzRQ1F7NCQ2Gu9pPOyept61Jz_7N6VMmtsf0Dr8oFTM9BKq2ZHHmVuX8CZ3DCHuxz6hHK6/s480/trio-menyala-siap-melamar.webp)

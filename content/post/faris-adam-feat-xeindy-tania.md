@@ -27,4 +27,3 @@ Chorus : Adudu Tania.. anak sebelah rumah.. Pulang dari Jawa rambut su merah-mer
 
 Adudu Tania.. anak sebelah rumah.. Pulang dari Jawa rambut su merah-merah.. Adudu Tania.. lama tidak jumpa.. Masih ingat kakak ataukah sudah lupa..?
 
-![Faris Adam Feat Xeindy - Tania](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiESg11V9dBpXJh3O0TIykECy28F5CFUPOYzxoGp5jJJUh0TC_xElwNrn_BtZQ-hYJiE-IcHW80-ucXDv3bwy6GYKyupTOU_E1I77JtcfvA1pItm6DjfmI1aRbQilDG23X2yA8LRlNBZcf_TV9_kX0LYJpX0BEeW_KmrvYQS5htwvB53rdUqb7fcmAb2_Wa/s1280/faris-adam-feat-xeindy-tania.webp)

@@ -19,4 +19,3 @@ Indak mungkin denai ka manyakiti Ndak mungkin denai ka barek sabalah Ka denai ba
 
 Usahlah uda ragu jo bimbang Pambagian rato denai barikan Indak mungkin denai ka piliah kasiah Kaduonyo denai sayang Indak mungkin denai ka piliah kasiah Kaduonyo denai sayang
 
-![Nabila Maharani - Duo Hati](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEin7xew6uc48ffdEgSzAbktucLk9h9FK1ZJrO-0rWySWjKOZaPPpX1OclikjN2gN2PXNuaeIxwbP0AQKtNW_nGT4ghyphenhyphenxatBYFNzEO1EjY7FOcYhi4fqfKXE_tnOACGVM27mpv87Mp6Sy_MvcVOUmfjyO5p6FzzWwR_c-T2bPfJAVxEt72892bnvCXnSJWkv/s480/nabila-maharani-duo-hati.webp)

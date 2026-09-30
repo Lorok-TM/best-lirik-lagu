@@ -29,4 +29,3 @@ Barakik rakik kito ka hulu Baranang ranang yo ka tapian Bia basakik kito dahulu 
 
 Bada kariang parancah paku Paku di gulai anak rang lolong Bia lah kariang banda di hulu sayang Ka bakeh hujan den mintak tolong
 
-![Eno Viola - Risaulai Feat. Dayu Koto](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFxeCtLwqE6zokaJZs1oaM3ST7DFGSpqj0rUFyAwnzfk2C7KwP0-Snto3l8IeuZmJJvDwCmFEUdSb0CvRx7EYdVXGCKfL2ZdH9HN7uxIouc9jlyyGmP9sshUB4Bx_DMi0z6BXPI3AHyg3HEzEklnuZuLzhpqTCOmY2r2DGl3_bjMv780I3RAzbQvCLgqm4/s1280/eno-viola-risaulai-feat-dayu-koto.webp)

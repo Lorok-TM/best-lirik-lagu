@@ -21,4 +21,3 @@ Dan akhirnya jatuh juga rasa yang berbunga Setelah lama bercerita Rasa yang berb
 
 #Credits: Judul : Siapa Sangka Voc : Nashwa Zahira Cipt : Dimas Wibisana, Bianca Nelwan & Nashwa Zahira ℗ & © PT. Sony Music Publishing Indonesia & Star Cipta Musikindo
 
-![Nashwa Zahira - Siapa Sangka](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEit9plVjWufVI52hk73VAPCGD42KKo0PxjYerYJbp1V5gZWtEHbpc21BsldMjVOk9T407fwdOWfgNMBByRWNMkDJGEfQ3XZ-Pmmk4gGg4Axm6aeCLMiYTEFMKBK2oap525hqyCSGUvCaWvverbbVxWXGvunRVowF-piEVvwt9rGEUHzilHN4u9swJO2xkq2/s1280/nashwa-zahira-siapa-sangka.webp)

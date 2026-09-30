@@ -16,5 +16,3 @@ Bila tak ada lagi rasa yang tersisa Tak perlu dipaksa Biarkan ku yang pergi meni
 Bila memang telah bosan namun kau rasakan Tak perlu bertahan Janganlah diteruskan jika menyakitkan Kurela kau tinggalkan
 
 Cinta memang tak harus memiliki Kurela kita untuk berpisah Biarlah ku yang menanggung perih Asalkan dirimu bahagia
-
-![Arbil Fahrizan - Takdir Cinta Berakhir Luka](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgA4wneNC3ABf9yazjuOXd34W3zNfwE2L7Tedc9drPXxWO-s4Gi623ffzRhwN1N7iKteT5N0CzxKr627mO7WJMztXx_rk8ooWaX1dKl_bOSpX4ccULkvn906yJjkVX7iwn_Lk5uzYA28jjyS5z9YB0SjctvtYaGuXuPnLg-hNLy7CQ0lblyq94f2njojFjZ/s480/arbil-fahrizan-takdir-cinta-berakhir-luka.webp)

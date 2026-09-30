@@ -35,4 +35,3 @@ Lao patolhason na solot di rohakki Marsisalpuan ma di akka na humurang Asa tarul
 
 Asa taruli pasu-pasu sian Tuhan i Maranak nang marboru be
 
-![Bunga Na Rara - Nirwana Trio](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPL-Jhj8IJEjI742meccarzYDWGMkqrKh4MdtfYN17R2Pzixg52r0qKBi51O8vDglax4lDvSB_voUnrwvhNROD0YJLp_nCcb8FrqhmD0_wEAS3IK0fobjgZzMLXyVly8kqo74OB1bd79kScMGvUut3xtTrWCesnvONJFloV7jnD_4hd93Ck5lwnjz3uvo9/s1280/bunga-na-rara-nirwana-trio.webp)

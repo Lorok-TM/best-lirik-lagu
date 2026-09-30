@@ -95,4 +95,3 @@ Sampai tuh helu karungut insanan Akan panyeneh kula jalahan Cinta badehen katutu
 
 _Sampai disini dulu karungut dilantunkan Untuk didengarkan saudara semuanya Cinta yang kokoh dan kenyataan perasaan Memegang janji sehidup dan semati_
 
-![Jeki L. Antang Tamang feat Vitaloka - Cinta Badehen](https://i.ytimg.com/vi_webp/72TICmLsMuc/maxresdefault.webp)

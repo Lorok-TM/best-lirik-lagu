@@ -19,4 +19,3 @@ Usahlah dipasimpan usah dipasimpan Denai indak ka mambana Walaupun seso tiok tak
 
 #Credits: Judul : Abih Jo Salasai Voc : Ovhi Firsty Cipt : Rozac Tanjung Arr : Diandra
 
-![Ovhi Firsty - Abih Jo Salasai](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEBbvA5jsDOksqCdQ9TcOurejR6YZuYAT7uFoguXywlL0AE7JUrRyvNw3f07-0QNiwpbKtnsAoIFHpd5dfIftNuAnmb0sDH-TMzYJgg0CDt1ELqFLm1qVxFMBPMPQE8n2ifwfxgskX6uR3IUgo_FyP1R8GDnDoSvCreM8r58LZbR1Bxug8OZYF6RWgWIC0/s1280/ovhi-firsty-abih-jo-salasai.webp)

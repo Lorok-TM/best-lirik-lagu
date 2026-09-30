@@ -25,6 +25,5 @@ Title : Lara Dan Air Mata Artist : Cica Rama Songwriter : Erwin Agam Publisher :
 > 
 > Andaikan mau saling maafkan Orang tuaku orang tuamu Tak akan ada gundah gelisah Lara dan air mata
 
-![Cica Rama - Lara Dan Air Mata](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgh4o7wYkLjdIUV4Bsme--70qC-s78jkghTOfrXMwIK47xoe7aoWmMIM2AzvutRyTMMc8wxd2MaJmrDFGNeUBbZSQOqKVqv8pzz766WYC710uAE9k9YwXwLS1OMmMaCgkstTPsmrpjjAjiEgZCO2qDN3rjr3x0Jknb2ZiA1JRuJpf1nsJjyPafId0t5rA/s800/cica-rama-lara-dan-air-mata.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Cica Rama - Lara Dan Air Mata. Silahkan bagikan juga ke teman anda.

@@ -17,4 +17,3 @@ Jak tanari tanari hai bungong giri Jaroe ngen gaki ta ayôn bandua Dalam ca’é
 
 Jak tanari tanari hai bungong giri Jaroe ngen gaki ta ayôn bandua Jak talinggang hai neuk talinggang Ija bak pinggang sungkét malaya Jak talinggang hai neuk talinggang Ija bak pinggang sungkét malaya
 
-![Safira Amalia - Putroe Hate Ma](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6EkVHb_RgdDHavCbUZBmfcqSf_i3BcvMKnlN94YfpF7JCUgDoK-pLDAaKlNiQJ_5iOAET71GdCYvpfDnMpmt1v1VZkOR_TbeU2K7gDqmJ5A_ajNNpkBWAFEierBpt2i1C6HEGSlCvrOYcywYX9u_P98mc__YnLMQahahBdP4GawtDS8HN86Wp4hDvK06_/s480/safira-amalia-putroe-hate-ma.webp)

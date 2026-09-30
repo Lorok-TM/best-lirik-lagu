@@ -5,7 +5,6 @@ categories:
   - "osing"
 ---
 
-![Kari Cerito - Syahiba Saufa](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdQTfs3vdH4pPrWjYMTP32f-6Ojkm5jFnnB_OO3qza9-4Kdv21ee17HD2QL_54bcwlDq-t88FXrlBPo-oq1HDGRtgoGx2TY_pPHUvAGTduGdjPzcMflNycm_2HvCRZX7oMvWNw_-w7fDwc9kpxfqlHmS1Px8-J-gPbw39Uao54hy4M7OdCt_5YetACdvhc/s1280/kari-cerito-syahiba-saufa.webp)
 
 Kahanan hang koyo iki, Riko sing biso nerimo. Abote gudo nyekso batin rogo, Riko mutusno ninggalno.
 

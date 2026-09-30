@@ -15,4 +15,3 @@ categories:
 > 
 > coming-soon-lyrics
 
-![Namonyo Lauik Bariak Bagalombang](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJ4mRIv0ZEsWF8jEncCZBZexihP8oQ8KhVk_0R5zgPK8JHx8WEQyJIYPXIX3AO5lrMKpxUsddVHNhnZhCIWFGh78nqSHDU-Se_n4JHgy0d3ne29a-63f129oQJ0wYgbZ1iX-venvaFxfSegNAYLdoA4y27lQzbiZqMYgqSoal9oztQ4tnkdFTvqFfH7A/s1280/namonyo-lauik-bariak-bagalombang.webp)

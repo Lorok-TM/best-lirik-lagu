@@ -33,4 +33,3 @@ Demikian lirik 'Minggir Lu Miss Queen' sebagaimana di atas.
 
 **Credit:** Judul : Minggir Lu Miss Queen Voc : Ligea Cipt : Yogi RPH Arr : Donall Kinan Sammy
 
-![Minggir Lu Miss Queen - Ligea](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-Gdvb_feZh6sfAFD7wz74-votcM6xM-savbr16OSz2frmu8kP7a8mD-mtFynTxcQOePxp9utEBtzjFyqiHHxlKVQej_ImOHCbnvk6CD4kRDJKJ7y0gdMobg3qHjMOwc3vHP1ZxGQgwolrJZyurVxoWZ1fS7Mpvl6SNPiyLSbPuYuRiMyW43L5TV0TBoCk/s1280/minggir-lu-miss-queen-ligea.webp)

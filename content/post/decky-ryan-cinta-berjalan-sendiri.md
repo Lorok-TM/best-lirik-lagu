@@ -27,4 +27,3 @@ Tuhan tolonglah Hapuskan perasaanku Kepada dirinya Yang tak mungkin menjadi mili
 
 Terbuai larut cinta ini Berjalan sendiri
 
-![Decky Ryan - Cinta Berjalan Sendiri](https://i.ytimg.com/vi_webp/3LHNq-T5lsw/maxresdefault.webp)

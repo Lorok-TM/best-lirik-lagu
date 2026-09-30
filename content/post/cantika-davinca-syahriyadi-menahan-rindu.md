@@ -23,4 +23,3 @@ Biarpun jauh engkau yang di sana Jangan lupa jaga pandangan mata Janganlah ragu 
 
 Terus terang tak kuat menahan rindu Bila sehari tiada kabarmu Dengarlah aku duhai sayangku Aku ingin kembali di sisimu
 
-![Cantika Davinca & Syahriyadi - Menahan Rindu](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3d5GVZMEZbsdyQsuDROpUTEK3S28cAmuVccmWPUb18rRFe94YwER0qJpnuWNEBBQk4cueHRY8yJ7yiVShUxxyZkkVnyZA_lhTQ-iWITljxEIBFA_9bxJJ-L74cgyVJdxKSTABt4BFwGqUy29oAK0Z2Vr7KRPGrhHszwGmclTW7naqcXcJ3oMl_d9LFw7H/s480/cantika-davinca-syahriyadi-menahan-rindu.webp)

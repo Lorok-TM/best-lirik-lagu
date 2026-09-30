@@ -27,6 +27,5 @@ Title : Samo Manahan Rindu Artist : David Iztambul Songwriter : David Iztambul C
 > 
 > Untuang kok capek wakatu balalu Batamu maso kito basatu Bialah rindu samo kito tahan dahulu
 
-![David Iztambul - Samo Manahan Rindu](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuCk3frj7uj9enAhn10e3IUWedtd6R3VSulH_95ldvGD6mr3seeFBFcm6onXwiJTNYDxd-l2y6vnu47pl_GXUQBZInVzHbpUHun1vOF36jLS4h715veIbLj76dGpDudh6r4_A_Sh911kmNQIzbZHC--KaAOr8oJBLWtBxtGwYNwsn9azHATkZaYM6JlA/s800/david-iztambul-samo-manahan-rindu.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu David Iztambul - Samo Manahan Rindu. Silahkan bagikan juga ke teman anda.

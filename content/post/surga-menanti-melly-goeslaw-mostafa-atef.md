@@ -35,4 +35,3 @@ Demikian lirik 'Surga Menanti' sebagaimana di atas.
 
 **Credit:** Judul : Surga Menanti Voc : Melly Goeslaw & Mostafa Atef Cipt : Melly Goeslaw Arr : Anto Hoed
 
-![Surga Menanti - Melly Goeslaw & Mostafa Atef](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEcgxxKPUX6z_enaMpfEXmxlWgAR6hscoyRzLeF30Fyyptpjf10fbRA3R45UPdaxMNaIUHvKeQEbjukIB5xSHlHsXD8ZIdA0zEoNcp6lamz74u58BtCjH4aoCi-hcLEbzdfiv0I2BP-qKAMfNiOEFCgf31ch8hMUEWC3E8fZUl5QLq03LZKt8Tb9MhAwFO/s1280/surga-menanti-melly-goeslaw-mostafa-atef.webp)

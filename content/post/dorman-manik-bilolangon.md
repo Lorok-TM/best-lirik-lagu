@@ -27,4 +27,3 @@ Dang hu rimpu na songonon Hu rimpu Lydia Kandou Hape omak ni si Ando
 
 Dang hu rimpu na songonon Hu rimpu Lydia Kandou Hape omak ni si Ando
 
-![Dorman Manik - Bilolangon](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiamdvm7rt4ET51gFDcsGUASoJOMG0aB18B2gQ0_jbWYWogBJigrOAfr6nRlq2OtkspmkENys45R1d6GmDuACSanM4pxtS4iR1_CorsjEaPNWsLwSUGs-VAlh41p5YiV8G3mMDwJYq4Pkan4z1BZhnFOW3JMe9AZbdVlGmI8Gb1vi3pH5cf8tRR7aZmFrik/s1280/dorman-manik-bilolangon.webp)

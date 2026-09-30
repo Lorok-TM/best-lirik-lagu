@@ -23,4 +23,3 @@ categories:
 
 Title : Tak Sanggup Lagi Artist : Harry Parintang Songwriter : Harry Parintang Studio : Parintang Studio
 
-![Harry Parintang - Tak Sanggup Lagi](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgebZPCZfeztPguHSEFE3vntS_FAh-7qovU59_1YLhO8vM4G901pKil0256161i0qGzL-7i0qAuD2Ov9VeLbSqghFMaMj59tIOUdKv1PagomEZCQ5B4X9UIqZaaHgpNBqP9aOXpexUS6NJxzk3ilFKHcjV4srArRuBSmFmDmMCKMeCpfRKRPwyyftjrmA/s1280/harry-parintang-tak-sanggup-lagi.webp)

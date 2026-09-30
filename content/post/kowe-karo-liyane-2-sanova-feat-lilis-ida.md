@@ -37,4 +37,3 @@ Tak coba ikhlas lan lilo legowo
 
 Sumendal rasane ati Kowe wis ono pengganti
 
-![Kowe Karo Liyane 2 - Sanova Feat Lilis Ida](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZeZZn5Wj98m2pAbG_Ebmo2s42vVs2vGl7-zwgZjYF8DOJSxumSX1cIAuFaYvi3-2grrHdPsb1_d9kEcp8YjtTT2VBVUqKxpqNFonIGFFdSdcdhpEV1MPgv4fLLxk-5p1XWhO-go53ojwcSeuF01L1Vtzgm8tu6RzQOmrsHOFO4UbaNzcfVtIcZmJFHtn_/s480/kowe-karo-liyane-2-sanova-feat-lilis-ida.webp)

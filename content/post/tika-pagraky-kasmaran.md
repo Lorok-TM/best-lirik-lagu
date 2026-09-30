@@ -47,6 +47,5 @@ _Kasmaran = Kasmaran_
 > 
 > _Gak ngaruh Sumpah gak ngaruh Aku tetap pilih kamu_
 
-![Tika Pagraky - Kasmaran](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgs0_gbl0BA5FITUuUFdXPKl-5KbWf9hl0aEIGcyhqL4rNBhbkJrgMvyAXH5srPEqsIcsoboc_NbbNXFd28q3DjJdABp3uLV06378zKDFqmWRmyuVBsJ8DbvyPUxdV97domW5G_OD-pKVzlkmBUbXmhL30w6KL6eaL56jhm28Nn5wuPZGUWiZHL-ImheA/s800/tika-pagraky-kasmaran.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Tika Pagraky - Kasmaran. Silahkan bagikan juga ke teman anda.

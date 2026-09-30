@@ -5,7 +5,6 @@ categories:
   - "java"
 ---
 
-![Ketaton Cerita - Dike Sabrina Feat Galih Prastya](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAsPcu31dBGqG7tYLjplFbQxhn12MZqG14jUA-odzPWRHlVqSugpCdOYi3Ob6LTEuunLx7Bsc57k37jAjXxEMU1et1IB97jKNJRGgBnS8J0mLBRM0KUwXwXhCaAsKOceQk6CupY5rJXDJt0HZ1ILsMi4bfqzshepKgeaFiViOOhQtVEpUzTLgGOVbFximb/s1280/ketaton-cerita-dike-sabrina-feat-galih-prastya.webp)
 
 Sumilir angin wengi Nggegawa rasa Lintang e wus sirna katutup mega
 

@@ -25,4 +25,3 @@ Biar hidupku jadi bukti kebaikanMu Memancarkan kasih Tuhan
 
 Demikian lirik 'Bukti KebaikanMu' sebagaimana di atas.
 
-![Bukti KebaikanMu - Jovina & Jovian JTWINS](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhk17eqVZpkM7b2s5agzk5dfb8rAzA-KoLnk5XRbt22R3daq89FqBu9lFXCy7LsAO4yYHco3kfsFDrVRHizd_Ckl1BeoYWy4h0RYQjCqC7gMiuQIlCVgZRLRpWD-OhET6EbK-eI6KZkSSUaOF3Ti83MZYt_VO3nBxgWlAWKwBb8iCBWyJNSNyBHLA4Gig-R/s1280/bukti-kebaikanmu-jovina-jovian-jtwins.webp)

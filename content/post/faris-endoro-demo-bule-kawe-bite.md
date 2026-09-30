@@ -25,4 +25,3 @@ Kalu buleh jadi milikku Ku nok jago tokse wi layu Kalu buleh jadi milikku Ku set
 
 Tok jemu jemu aku memande mu Tok puah kelih aku dengey senyum mu Setiap saatku tok bose tengok mu Kalu takdok mu serupo takdok nyawoku
 
-![Faris Endoro - Demo Bule Kawe Bite](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjy301_b-F9Yuo9RaaBcIxZYF4ErfEn7s_XJUE4ECTfWpRr5zNxl9fn21w9q1K-KP7BY5o45eDz8iGI2N__7K8dLVcJrdJwG8SeIMaWVGWpZEiyGUflGC_afZR7nCrwFfkBmVcgS1K5rN9iyF0Q5JblF1MliYCAeMbxiywWbtXWHbCyVWTx6nCAPsoBro5d/s480/faris-endoro-demo-bule-kawe-bite.webp)

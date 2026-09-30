@@ -23,6 +23,5 @@ Title : Doa Suci Artist : Yelse Songwriter : Emen Category : Lagu Pop Melayu
 > 
 > Tuhan terimalah dirinya Satukanlah kelak kami di sana Ku cinta dia ku sayang dia Walaupun kini telah tiada
 
-![Yelse - Doa Suci](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxfj36rlPImD7zoZ_JDulESf4_bkzKZMBZy8NHTrOHy-U5g55u20ELos_-sOMggTlyBvHsmyeDNcwFN1bUk_RZYm6qOmXqQsqz4PdrpwmGzr0z-h0h5n8Yx2BTkQDkyNnInK5qQiJOJ_vvrh7VLHxsju8HtYn10VY4PvVsTE5Cnyv3r4cQI_GIl0zGQQ/s800/yelse-doa-suci.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Yelse - Doa Suci. Silahkan bagikan juga ke teman anda.

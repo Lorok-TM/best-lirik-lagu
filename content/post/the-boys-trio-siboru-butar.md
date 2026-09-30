@@ -21,4 +21,3 @@ Oo oo oo ku jatuh cinta Pada si dia siboru ni tulangta
 
 Oo oo oo uli rupana Pangalahona mambahen tarpangan roha Olo olo olo nimmu ma tu au Naikkon ho do da ito saut di au Olo olo olo nimmu ma tu au Asa gira sangkapta I da tapasada
 
-![The Boy's Trio - Siboru Butar](https://i.ytimg.com/vi_webp/2o_yHWndwrE/maxresdefault.webp)

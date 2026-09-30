@@ -25,4 +25,3 @@ Demikian lirik 'Ho Na Uli' sebagaimana di atas.
 
 **Credit:** Judul : Ho Na Uli Voc : Aldo Simamora Cipt : Aldo Simamora Arr : Aris Manalu Maxima Band
 
-![Ho Na Uli - Aldo Simamora](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwEHZ9vkfbc1riEzF8xDLbBFYjMOJdeTbExoCoMPYRniOR6Qag_On16v63EKx2sg2o94-8umtlDcXM9cePZpxe_WNjEqUDGsz8ktu5iFbFhYpFUcGqT_DZQ5VzJCBiw2luNMyyk578ZkAXMYWDp_OIGxiI9-ZDEujRTpHLVu6gcqUgdGkV_7a5wvYCHxI3/s1280/ho-na-uli-aldo-simamora.webp)

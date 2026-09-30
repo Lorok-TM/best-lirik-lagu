@@ -5,7 +5,6 @@ categories:
   - "minang"
 ---
 
-![Hilang Tando Ranah Minang - Zeefana](https://raw.githubusercontent.com/Lorok-TM/2026-08/img/hilang-tando-ranah-minang-zeefana.webp)
 
 Karya musik "Hilang Tando Ranah Minang" yang diciptakan oleh Jaisky dan dibawakan kembali oleh Zeefana mengusung latar belakang naratif mengenai pergeseran nilai kebudayaan dan pudarnya identitas tradisi di tengah modernisasi masyarakat Minangkabau. Melalui lirik yang terstruktur dalam bentuk pantun kiasan khas sastra lisan Sumatra Barat, komposisi ini merefleksikan kegelisahan sosiologis atas hilangnya "tando" atau simbol-simbol filosofis adat, baik secara fisik maupun dalam tatanan perilaku generasi masa kini. Dinamika melodi Pop Minang yang melankolis dalam lagu ini berfungsi mempertegas pesan substantifnya, yakni sebuah kritik objektif sekaligus panggilan kultural bagi masyarakat kultural Minangkabau untuk mengonseptualisasi kembali pelestarian warisan leluhur agar tidak tergerus oleh zaman.
 

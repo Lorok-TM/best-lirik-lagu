@@ -23,4 +23,3 @@ Demikian lirik 'KepadaNya' sebagaimana di atas.
 
 **Credit:** Judul : Kepada Nya Voc : Novia Bachmid Cipt : Aldi Nada Permana Arr : Aldi Nada Permana
 
-![KepadaNya - Novia Bachmid](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7AnGZJaWFFJ6bm4kLs3MDlaELwEQwsVtOInT3kPFGVwWdKWbxDgrNqXN16W4POvUQIUiSSnVUMfIHWGp0v93YIrCIDqvl0e_S0teeMxktuGx_Bdm-8t6caJSbCLN32D-omnKCDE0hz2n0sAnyYjbTyzGhDnhnkO3m0ULYhW74nEbqbMFyHBvKXwfAOOa4/s1280/kepadanya-novia-bachmid.webp)

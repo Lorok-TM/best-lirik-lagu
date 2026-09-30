@@ -5,7 +5,6 @@ categories:
   - "minang"
 ---
 
-![Remeh Bana Pandangan Kawan - Ali Gama](https://raw.githubusercontent.com/Lorok-TM/2026-08/img/remeh-bana-pandangan-kawan-ali-gama.webp)
 
 Lagu "Remeh Bana Pandangan Kawan" yang dibawakan oleh Ali Gama dan diciptakan oleh Syahrel Putra mengusung tema kritik sosial seputar pergeseran nilai pertemanan akibat faktor materi. Secara filosofis, judul karya berbahasa Minang ini—yang secara harfiah berarti "Terlalu Remeh Pandangan Teman"—menyoroti fenomena sinisme dan degradasi respek dalam hubungan interpersonal ketika salah satu pihak berada dalam kondisi ekonomi bawah atau belum mapan. Latar belakang cerita dalam liriknya merefleksikan realitas pahit mengenai bagaimana status sosial dan pencapaian finansial sering kali dijadikan tolok ukur utama dalam interaksi sosial, bahkan di ranah pertemanan dekat sekalipun. Melalui aransemen musik pop Minang yang melankolis, karya yang dirilis melalui label Edmon Production ini berfungsi sebagai refleksi moral mengenai pentingnya ketulusan sekaligus pengingat akan dampak psikologis dari pengabaian sosial di lingkungan sekitar.
 

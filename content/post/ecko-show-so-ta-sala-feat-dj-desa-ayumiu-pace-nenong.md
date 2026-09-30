@@ -31,4 +31,3 @@ Langit itu tinggi Lautan pun dalam Cinta sudah tinggi Luka makin dalam
 
 Langit itu tinggi Lautan pun dalam Cinta sudah tinggi Luka makin dalam Memang so ta sala
 
-![Ecko Show - So Ta Sala Feat Dj Desa, Ayumiu, Pace Nenong](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEik44zWLS8vF0rmMpdbBU5dUeglGEDmmSAGyh7zwgEbOy46z6kUgVVLEVPvH2rcFyyRCQhyi6cljjAXw1JFa_TknY5zUFem4uiyMCvVWp5FsqEQfbB6DzEIXaIZCvMR-BQNbulP_dnZlpc1Of62urxokflrYT_mmfpFzUJvBl_SgAGtspntYxoVcui5R0Fj/s1280/ecko-show-so-ta-sala-feat-dj-desa-ayumiu-pace-nenong.webp)

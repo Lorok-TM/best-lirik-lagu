@@ -29,4 +29,3 @@ categories:
 
 Title : Buhau Dia Permisi Artist : Lan Tejul Songwriter : Lan Tejul
 
-![Lan Tejul - Buhau Dia Permisi](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDlXk8_QXMEsztoqZfLpBBJRT8i2EBRY3LsJRXOPrP8H5FNnP1Qv1NxYa_rQ8sL5x74_jX4NqKg1lgZjONRW93GStEER9r745Q3aZHSUABXIp6mDfMDZJ6DCjD-yGBc5ZG2X07x4WShTJlWigWvUOQ-bBC6djpy6Jg0otmlh1eQljk37chHlle6GMbfg/s320/lan-tejul-buhau-dia-permisi.webp)

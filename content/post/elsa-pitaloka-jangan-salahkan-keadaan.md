@@ -27,6 +27,5 @@ Title : Jangan Salahkan Keadaan Artist : Elsa Pitaloka Songwriter : Saf Saha Lab
 > 
 > Burung yang berterbangan di awan Ada satu yang terikat di sarang Mana lah mungkin mencari lawan Seperti itu lah aku sekarang
 
-![Elsa Pitaloka - Jangan Salahkan Keadaan](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizCxHRh7ROA7dJGRqfX4_SUXMXrtSowgt37Uhwm9TnuwuLYSvz3v-hOOJkjPN1IE0bYAqgEnZ-xTRoCGNWIBJpN5wNVRMVmUsG7qDDGyScCltsURIoMSC9UPUppPhuF-tNBfa-enz89xmrJ_w9NeJ8kpTB7LvW00DvsrV7Nhf0UgtOdnuftTm_DDwjYw/s800/elsa-pitaloka-jangan-salahkan-keadaan.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Elsa Pitaloka - Jangan Salahkan Keadaan. Silahkan bagikan juga ke teman anda.

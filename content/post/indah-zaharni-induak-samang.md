@@ -21,4 +21,3 @@ Tampih.. bareh lah ditampih.. Namun.. nyo ba dadak juo.. Tangih.. ndak guno di t
 
 Buah pilanduak di tapi ladang.. Ambiak satangkai baok lah pulang.. Untuang sanang sanang juo lah badan.. Tabukak rasaki tarangkan jalan.. Untuang sanang sanang juo lah badan.. Tabukak rasaki tarangkan jalan
 
-![Indah Zaharni - Induak Samang](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBKoKLBW7pZvs88SmBe_bNnqt_PHZOdBIuE9BZ080KYptE4vxTZ-Xy2-XQnsb6xL4b_B90LppkwgLWJ28gVLzzh6BJg8abRQs6qrLdeuOwXfuZLWhqp_xb1lMpUwS0cH9d2cYFpv3uM6xXIzV8FQGSw3TNFs-BCQxe3mLqoZFg_Xf8ee4gdji1grAhaMee/s1280/indah-zaharni-induak-samang.webp)

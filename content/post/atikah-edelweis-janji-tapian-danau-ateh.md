@@ -13,4 +13,3 @@ Denai tadayo Gurauan manjo Babungo bungo raso di hati nan ko Di parik pimpiang K
 
 Manjapuik tabao
 
-![Atikah Edelweis - Janji Tapian Danau Ateh](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgESA4845-24k3xXqND5YYbktzafqfz5ao3FmbJVBuMZLtgSC3rc3KK4MAlvVGwZHgf7rnxjCuhIQt2Xd93iKprI3kppVkZJY7JSGOuPW3YxwcOco2slIL_Bj7hzlnRMmGXePi2J2kcNztxv-WsBoCGWdoxM1rezej3ZBK9SnaCBAvoZZ4LziCuPgGE6dRi/s480/atikah-edelweis-janji-tapian-danau-ateh.webp)

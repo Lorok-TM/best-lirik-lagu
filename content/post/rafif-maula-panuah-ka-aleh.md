@@ -17,4 +17,3 @@ Kinilah taraso sakik Sia nan ka disasali Dek karano nan disayang Mamiliah urang 
 
 Manangihlah rasokan lah Manga dulu hati ko indak tatagah
 
-![Rafif Maula - Panuah Ka Aleh](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgX-xbodqExaEJgRXdlc8FDzUe5iv-yvzfa-9bLgg4VRj3dC6J0zgBbSAh5kfO0V595QE-QMQUbJZijELlVkNTsj6Ekha-Ci6RF-EnN27wNLb02SGn8SZzO1s3ayxcP7EId-_V-nNnDbam0cC56V7CG_HpnZRANXv9oamEq7i8UyND7hLTbaAoRc8dS-sOc/s480/rafif-maula-panuah-ka-aleh.webp)

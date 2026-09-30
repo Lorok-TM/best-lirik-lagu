@@ -23,6 +23,5 @@ Title : Rumah Tampak Jalan Tak Tantu Artist : Pinki Prananda Songwriter : Amri D
 > 
 > Rilakan denai malapeh cinto Pulangkan siriah dalam carano Upek caraco usalah tabilang Tak rila denai manarimo
 
-![Pinki Prananda - Rumah Tampak Jalan Tak Tantu](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgodWHB1J1O-JdOoysvcAUPmBIiGVPTTD4iUvR9g2nVlysbmTCC2O_kHem_rG-r6EgTBnBjyIZRoDpMGHxC-epZhsqhVmcLWMYACAQSCiWPMmrEHwEPw5QF4VCwFqWSgs--D0wktV_VLEh4wBSYF0z1762FOIl93aoZwC5s_R3LBZy2TIaWIS1IqrEfQA/s800/pinki-prananda-rumah-tampak-jalan-tak-tantu.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Pinki Prananda - Rumah Tampak Jalan Tak Tantu. Silahkan bagikan juga ke teman anda.

@@ -31,4 +31,3 @@ Demikian lirik 'Rigat Rigat Ni Mandar' sebagaimana di atas.
 
 **Credit:** Judul : Rigat Rigat Nimandar Voc : Destri Wati Limbong Cipt : Bulan Panjaitan Arr : Hady Sudrajat Pasaribu
 
-![Rigat Rigat Ni Mandar - Destriwati Limbong](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIaeLZ9sl-93Qyr-vTEoRe4KJrCQKbDcdKvrXbrJurjLmXLDS9_Q-1VRrBOVyNIB99CBngnQUbwK5spgjdBPGJFNSCkyK1Pm18UEVygQU0TelglQAaMOLAZUhjC9XynkBhYY-df7_sFB8HawDt9zmgxCcxTZZe4vFzPvieDjz1lnLzKyv3cBQVqW2-_CMF/s1280/rigat-rigat-ni-mandar-destriwati-limbong.webp)

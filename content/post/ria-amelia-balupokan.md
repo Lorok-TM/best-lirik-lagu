@@ -27,4 +27,3 @@ Balupokan cinto nan suci Batinggalkan den surang diri Manga kini adiak barubah S
 
 Haroknyo kito kabasandiang duo Kini cinto lah bapisah pulo Kamana hati kadenai baok oi adiak sayang
 
-![Ria Amelia - Balupokan](https://i.ytimg.com/vi_webp/cAZg1rqd1gw/maxresdefault.webp)

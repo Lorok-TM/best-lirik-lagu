@@ -11,4 +11,3 @@ Paribasan nguyahi banyu segoro Seprene suwe aku ngenteni Ning kutho jombang iki 
 
 Genah po ora Aku Sing Ngancani Nanging mbok Tinggalke Ngopo kowe iso tego nglimpe asmoro Suwe wes tak jogo
 
-![Genah Po Ora - Ady Pay Feat Achmad Twentynine](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjw_f_mIj87tuM8nbFZx2POlD8p34ddKQsHx2gAE40kgJymeDw8g6QWq-JmcmZ5UKBiyAQqQQ4YM0309yi7sOu6WtCPEVOu8xrSBjx-EHXWEWKQ7miIFLm67SZBTH5LXmLmeRYGo5bY9rAY6FJWLmoOCKa1wCeRvZMyl2179e2z3ho8qXOh_CWE_cZbRhDW/s1280/genah-po-ora-ady-pay-feat-achmad-twentynine.webp)

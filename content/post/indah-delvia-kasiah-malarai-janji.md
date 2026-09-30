@@ -27,4 +27,3 @@ Bia den lapeh aia nan gadang Mahondoh badan jo parasaian Untuang kok isuak lai k
 
 Bia den lapeh aia nan gadang Mahondoh badan jo parasaian Untuang kok isuak lai ka hilang Sungguah pun indak tagantikan
 
-![Indah Delvia - Kasiah Malarai Janji](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGyuxqJ8tCoq43Kl0gVzuRnbnVnK8QUFdFuworbzUPKb-JDNPYH1_ySF4UdNiSkBxVP1V-nRAIeAZUg_6tJpXtm5jgTWP7VRl4sBm0NpYqy0EGnbZ4pcVEIJ6Un5TYWxkruMaIFVnc5moYFbRtxFg02QdGFv8cOqHo0edRpoeYJgXMSH0RiLM5TFfnhbT6/s480/indah-delvia-kasiah-malarai-janji.webp)

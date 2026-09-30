@@ -37,4 +37,3 @@ Saha nu ngalangkung Bari angkat ngagandeuang Bari nyepeng sapu tangan Siga mojan
 
 Basa èta mojang Anu geulis anyar datang Gayana ngalènghoy Mojang anu ti karawang
 
-![Azmy Z - Mojang Karawang](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEineXwrP4Q4Mw9BlL6T6B6Vu9ZDjLwMipbg7j6T1NaUSDPJ_4GgnAvWii0aajTksAB8B-RlvtVnd0nn7JbI-MaFqdNI2M3e6ybTW8Yhy5YXbaa54SI-j6UMoj_HivUd5iROvHn4l4Lz-a075-JTMvD0bvvA_pBPNMkwTMql6H-IrCqjhs-B31uEZaBBfhLJ/s480/azmy-z-mojang-karawang.webp)

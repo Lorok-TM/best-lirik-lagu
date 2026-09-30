@@ -51,6 +51,5 @@ Title : Jang Ganggu Sa Lagi Artist : Dj Qhelfin Songwriter : Dj Qhelfin Category
 > 
 > Dulu sa cinta tapi ko main main Sa menderita lihat ko deng yang lain Sekarang sa minta ko jangan ganggu sa lagi
 
-![Dj Qhelfin - Jang Ganggu Sa Lagi](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiGFOj5XjkZ7XNTiJgr3hbRzS4e_Nza00eHJRl4OKwDvAYV1uenVO1kwBpZAEuutO2ynJPLc9j4sY2iEMKcpLp1rKqyeNxKOKTn4MdUMnnGFrYmJasDw_IlkTYp8zuD1UH20ZY9TB_7TMLe2p32Mg_AYrxRtwTD2sJUjg_5LcrLUHHfSSgw3R3BmmsVw/s800/dj-qhelfin-jang-ganggu-sa-lagi.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Dj Qhelfin - Jang Ganggu Sa Lagi. Silahkan bagikan juga ke teman anda.

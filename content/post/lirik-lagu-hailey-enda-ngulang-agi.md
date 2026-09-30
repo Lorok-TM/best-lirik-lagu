@@ -19,4 +19,3 @@ categories:
 > 
 > Ngulang agi
 
-![Hailey - Enda Ngulang Agi](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwUAPHdCL9wIS-eXPcsy6l0GN8YW3x3oCW40r467nkvTHXAelzytSG2XtRBiZlvEhPHQyprdskDDAyj86Gjp3LB9Srsjp7wKy0Cm-6TKO4MWBiCgD5Cner2LWYf7-e9rBCnWsTQ5xlD3oiYQWRWTr9i-tquKzNGkXsoKyCYJ9kqEUa3NtdTqGrMdkMXg/s1280/hailey-enda-ngulang-agi.webp)

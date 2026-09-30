@@ -15,4 +15,3 @@ Sabana ciinan ondeh ndeh Sabana katuju Rindu banactaragak bana Jikok indak batam
 
 Sabalah suko ondeh ndeh Sabanalah nio Datanglah datang Tamui denai katokan cinto jo raso sayang
 
-![Ciinan Bana - Fauzana](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTxAJSFnszUMWh7kLAlUir8-S21MTXmS3LjlHWq5ASyuJrTCUeKBhKXmV7LzwReecJ9ouTyoXotVLlfz3U9PbKEMtWNavUhj5-Gp_d_3Q6cpidBg_usMgrfq0Z5xHpFJSDSdr_oVyX0k15Q_oWBdLX5lq_sDiIurqgDiW_pgv33BAk9NcXzg9g0VmRi2ma/s480/ciinan-bana-fauzana.webp)

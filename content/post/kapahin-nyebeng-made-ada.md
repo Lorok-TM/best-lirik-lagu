@@ -27,4 +27,3 @@ Demikian lirik 'Kapahin Nyebeng' sebagaimana di atas.
 
 **Credit:** Judul : Kapahin Nyebeng Voc : Made Ada Cipt : Made Ada Arr : Gus Enen
 
-![Kapahin Nyebeng - Made Ada](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKXwDeT7LB3Nhf55Bop6vcR52vv1_lMt9lM_wdhHt9Acc3kE5blzg4pquPWVKpMbZGu8_mzCIQFMZoh27jZx6Da-4zFONzLl5URVNm4lL-lDaisHa2dlnEyqnAvB311KmIlpYHutQW0FbfreqlSqCcENAvyskB-fqFtVFSjF5ee8ivLY8RA-bLn_YYHhyR/s1280/kapahin-nyebeng-made-ada.webp)

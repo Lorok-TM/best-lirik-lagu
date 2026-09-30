@@ -21,4 +21,3 @@ categories:
 
 Title : Portibi Na Mangillas Artist : Gabe Trio Songwriter : Serli Napitu Production : Serli Napitu
 
-![Gabe Trio - Portibi Na Mangillas](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEji2X1ZqxpZ-LsxhZxxLyHNGPO9VAbcfdQvaSYB9HxGh6CVmSZ2xKoiAlV1-lQn3JlbKF8kO4d95RvyfkI0CzO1aQpj1_Kqcdwk4HclxFBYInA5bKnokJpUORTuEKnBLsHNw6k80MWna0g2kEQGSmKap1ncZFLeE_w29aWmRx2UdKDRimvsLlDt-SZ0RQ/s1280/gabe-trio-portibi-na-mangillas.webp)

@@ -23,4 +23,3 @@ Ora nyono sampeyan sabar ngenteni Ing nyatane tresnomu tulus lan suci Sing tak s
 
 #Credits: Title : Sido Rondo Voc : Silvy Kumalasari Ft Mulyo Basuki Songwriter : Cak Diqin Arrangement : Royal Music
 
-![Silvy Kumalasari feat. Mulyo Basuki - Sido Rondo](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtxzwq5QvNGi0SUN-FxGrULF7CcZ1YB1kAP0joPjvbnFICKinvEWBb0KexOgIIQ5OOnzunN5ppPd34KEYUvV1-pTiKvqSDJNKB7tcAg_BRHOL42ukwmTXYDWxdnc1slHS1EIr_AVXCR9JrFbU4DjP63neCMioj63Zjt2OnfJ0SsE4idptJ3t65Grq1sJJx/s480/silvy-kumalasari-feat-mulyo-basuki-sido-rondo.webp)

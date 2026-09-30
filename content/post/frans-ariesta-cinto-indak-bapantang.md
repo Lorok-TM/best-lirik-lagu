@@ -25,4 +25,3 @@ Bajanji lah ka denai Janji sabana janji Denai indak ka adiak ganti
 
 #Credits: Judul : Cinto Indak Bapantang Voc : Frans Ariesta Cipt : Ajhay Pasma Arr : Vandy Satria
 
-![Frans Ariesta - Cinto Indak Bapantang](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh507kw335PzMlp4Er4AcpTJNgesAbEBe-IlBACG7c0oYS5b8O9b85xSE-llYHNvBqEM-eRww_D_RcceSP4FkdvyBCd76y1E0F8p3h44w9BQpejLDMvkc3EnM-_tj4DlB8VJ_RGBUe6t0cpSZCJontTcun1ghTZLKF_9Y_9sOIqt0-hPOq5SFvPAuknxPqz/s480/frans-ariesta-cinto-indak-bapantang.webp)

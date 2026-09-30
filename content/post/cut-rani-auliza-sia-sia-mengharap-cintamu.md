@@ -29,6 +29,5 @@ Title : Sia Sia Mengharap Cintamu Artist : Cut Rani Auliza Songwriter : Gustrian
 > 
 > Musnah sudah harapan cinta Yang kuharap selama ini Kini senanglah kau bersamanya Tinggal aku di dalam sepi
 
-![Cut Rani Auliza - Sia Sia Mengharap Cintamu](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDH8e_r27uFuRZdncvcJdZUkTnhq4QL1fPsRG1q7EIY9sazaBvOuI-v2uSvCL-F6iaT8yj5cdMKF_YkJJ-rFJaB7OJ0zvD9PFKjk1AYaGqvh0slxkR43Ql18Nivb6Cz0POrkSfZuVR5UCQyuw2sjffe5B3J_BqW3qs6-YNYfCAQeizTxBAAZhDw6G8Sg/s800/cut-rani-auliza-sia-sia-mengharap-cintamu.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Cut Rani Auliza - Sia Sia Mengharap Cintamu. Silahkan bagikan juga ke teman anda.

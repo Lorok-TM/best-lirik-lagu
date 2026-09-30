@@ -33,4 +33,3 @@ Nan kok hilang carilah ganti Walaupun indak ka sarupo
 
 Nan kok hilang alah den ganti Namunnyo adiak takana juo
 
-![Talambek Datang - Bigheru Feat Sri Fayola](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoZvNzhk70X9TIp0Ozclnm9j2vfGxQyB5RyYolt6n8ZUlkHDXceZdSbqXthETdPHCIwmhsKp9mgVUC9s7P4XA-Tq5k-7CcxF7lQBrVP9cIrhQjITuk1tm0gB66ITzb2yTBNXngjPMQcqji3XKxNKfNP3ul2_oSr9fCJbzO66n2RJOrMvHOzxL74wpDF4mP/s480/talambek-datang-bigheru-feat-sri-fayola.webp)

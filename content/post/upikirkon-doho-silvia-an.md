@@ -5,7 +5,6 @@ categories:
   - "tapsel"
 ---
 
-![Upikirkon Doho - Silvia An](https://raw.githubusercontent.com/Lorok-TM/2026-08/img/upikirkon-doho-silvia-an.webp)
 
 Sugari pas ma huboto mulai Sian na jolo inda mungkin Sadao nion u partahankon.. Da abang cintamu….
 

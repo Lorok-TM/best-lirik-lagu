@@ -19,4 +19,3 @@ Demikian lirik 'Boi Tahigodo' sebagaimana di atas.
 
 **Credit:** Judul : Böi Tahigödo Voc : Sastri Zay Cipt : Yas Zalukhu
 
-![Böi Tahigödo - Sastri Zay](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwQqryPPVUdC0YYA9Y0wkvy8IKVOxAZuruXLKBgFsjEff5AlqA8rpChYqbGlLovAMm10cs4S0fohXxbWZEAdhv9rs5_oPZjxyMhtNDtE7iqJozfOIP9tUgFMJ-NJKcwCLZpmmsqiB0arWzW_VQz6-zaz2FvmXx8DmuXj6QsyBjwRkSCh29ATCj618jd_IF/s1280/boi-tahigodo-sastri-zay.webp)

@@ -17,4 +17,3 @@ Reff: Mungkin tubu pe au. Dang nasian tulang rusukmu ito Mungkin ditubuhon pe au
 
 Sude na I huakui do Sude na I husadari do Sasittong na hasian Adong pe au dang nalaho rokkap mi
 
-![Bintang Panjaitan - Hajujuron](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYxsa1P56LCLVitZrWFvHKPPtdxQPId_5M37i49qvc31I9RFbnfiVCSW3K2qOtU_NepLre4KIfeWiebm0CmjgAKQaAISuC9SHwkUhZAOPYwv6oCZY8OC4zg2dgMXear67yNZi4vxCqHAATY-AqUJGSM8b5pRG7SlD-aFMZKsutaFusxiGvw6PAcKt-AieG/s480/bintang-panjaitan-hajujuron.webp)

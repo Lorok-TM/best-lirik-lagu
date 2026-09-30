@@ -25,6 +25,5 @@ Title : Status Facebook Artist : Lely Tanjung ft Andar Aritonang Songwriter : Da
 > 
 > Unang gabe rohakku Di hacciti ho Molo tungpe ikkon sirang hasian Hatahon denggan
 
-![Lely Tanjung feat Andar Aritonang - Status Facebook](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhM5SWEzb1kvW1BpTuadxZ4pr46aGvWxvx8ZCGYB9F02R-91vCn7ljvaJAGs6JUvB6MuvyIcvBO62LdXN6swf5Gjmxn_V60QqnwEQqSJbLAB2JzuVHK-U8m35GMbgUs-TC3u3cu-YfTBgwplAmNjvzdlQv56hC_alg8Wvrpzc3BEQxQiBx-dNCbse509A/s800/lely-tanjung-feat-andar-aritonang-status-facebook.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Lely Tanjung feat Andar Aritonang - Status Facebook. Silahkan bagikan juga ke teman anda.

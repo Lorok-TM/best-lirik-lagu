@@ -25,4 +25,3 @@ Tubuan anak dohot boru ma ho Jala tibu ma dapot rokkap au Atik boha anakkonmi ha
 
 Atik boha anakkonmi haduan Marrokkap tu anakkonki
 
-![The Boy's Trio - Golang](https://i.ytimg.com/vi_webp/O-egADssAuI/maxresdefault.webp)

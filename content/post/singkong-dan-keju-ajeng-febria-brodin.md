@@ -13,4 +13,3 @@ Demikian lirik 'Singkong Dan Keju' sebagaimana di atas.
 
 **Credit:** Judul : Singkong & Keju Voc : Ajeng Febria & Brodin Cipt : Arie Wibowo
 
-![Singkong Dan Keju - Ajeng Febria & Brodin](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjI6ynv0CqeaRAaI-g1oCsw_H8nKu_omkoeSKLupyee-Og-LElbAde2EjrIUZeub9V27N5GA1YE6cMZrflFdhosFBFc1Wd4YgBMHdXbtJhwlClT2IPJRRd5WWAhrYc_0R0_q98lfgF1Ie0uQcdJNFseXBbdHaHfyOSj-H559HVRQMNNiIfVmrv1E4-Du-X1/s1280/singkong-dan-keju-ajeng-febria-brodin.webp)

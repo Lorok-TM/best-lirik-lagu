@@ -33,6 +33,5 @@ Title : Data Cinta Artist : Leeyonk Sinatra Songwriter : Bolo LS Category : Lagu
 > 
 > Kal open aku kal refresh aku Kal scan aku virus cinta ne lenan Kal open aku kal refresh aku Kal scan aku virus cinta ne lenan
 
-![Leeyonk Sinatra - Data Cinta](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvVArU3O_UseL1cXGoyjHQOUGdhRKEFMXMeVSGScN9j3omtrHYygalxGHg00_E4xqJIn2HFjYmMaLKQ-HrLg1kicV8Xt7xTRAK_OUhEv4JLfqlSjS0xLakairF9uSFvov-RpCIQEIE4-YfJLwkVaABIq9gYDp3cecI9gpKGRGvQDSVl3UT9MmtTHYJfw/s800/leeyonk-sinatra-data-cinta.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Leeyonk Sinatra - Data Cinta. Silahkan bagikan juga ke teman anda.

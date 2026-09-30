@@ -5,7 +5,6 @@ categories:
   - "dangdut"
 ---
 
-![Ku Ikhlaskan - Laila Ayu Feat Gerry Mahesa](https://raw.githubusercontent.com/Lorok-TM/2026-08/img/ku-ikhlaskan-laila-ayu-feat-gerry-mahesa.webp)
 
 Cewek : Bukan inginku untuk berpisah Dan membuatmu Terluka
 

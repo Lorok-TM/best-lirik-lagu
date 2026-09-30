@@ -15,4 +15,3 @@ Rumik tabedo denai surang diri Dek rago nangko bataruah hati Tadorong sayang den
 
 Iyo denai sayang ka uda Tapi ragu malu malu Raso nyo antah ka baa
 
-![Eno Viola - Takuik Surang](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIhiZtg5mjwf1JsVP8mgE-s258VzBX3hxUvFNCwKuUQXyOlvK_o31Vp-MXwiDkVeQFypOYuQJVYrMIdjcd-eZy2I4ZJ3JmVOnnUztqXZXGhcyzyY32tpHaKyoMq8zOS8hJgd-gHRWRKohheopROZNPtWz5OBiLCMmzEfxJ1pehjDX2BQiuhD0a1MD8LPQy/s480/eno-viola-takuik-surang.webp)

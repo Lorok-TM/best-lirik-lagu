@@ -25,4 +25,3 @@ Demikian lirik 'Ini Panggung Sandiwara' sebagaimana di atas.
 
 **Credit:** Judul : Ini Panggung Sandiwara Voc : Sarwendah Cipt : Sarwendah, Trakast Arr : Illyas At Ruang Hampa
 
-![Ini Panggung Sandiwara - Sarwendah](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEbiYomMM5mxvaQaP_g7NZe6euaHTpBytuGbju_8DOevKJnP3Z3xjp8vxEhj7gU8-24OWfJRe1FnTXLsQ1VIkbFm_J5mN6jCNQwrG3cFGy26POpGMrT_SgKT6lqiatUG8pyEXD5LGolpi_NzDtkFZyu6WplBcc4pKgFgFMvMcRncpgR6nMUeL78WdDA-2R/s1280/ini-panggung-sandiwara-sarwendah.webp)

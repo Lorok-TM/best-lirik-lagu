@@ -15,4 +15,3 @@ Sunguah denai alun marilakan adiak den sayang Lapeh ditangan Apo ndak ado satiti
 
 Rila rilakan denai sayang Sanang yo di tangan urang Sungguah barek badan den manangguangkan Parasaian kahilangan urang nan denai sayang
 
-![Rayola Feat Iqbal Syach - Rilakan Denai](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrxdfX0XfJA34omtZoYHEchyQoV0zEj_nVDFqqSi8gMkN8cCTssFEnxWrOPBl1xSA2aQmUpCYk0nicHHS33knj-76LNE8tKph2u5L09wK4o5MblgIEjX4V65OhrE_rlzg2phBDDOfLIE2mYTJ_XGN5USgOxaEGfYhgPKQCIoYNvljj-tazIXYkf2R7lMQy/s480/rayola-feat-iqbal-syach-rilakan-denai.webp)

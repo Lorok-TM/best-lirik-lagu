@@ -39,6 +39,5 @@ Title : Gaseh Teuhalang 30 Juz Qur'an Artist : Bergek ft Alwalid Mz Songwriter :
 > 
 > Karena cinta kon saboh perlombaan Walau lon pejuang hana le meuguna Restu bak abi nyan yang ta utamakan Bah le lon riwang adoe lon lupa
 
-![Bergek feat Alwalid Mz - Gaseh Teuhalang 30 Juz Qur'an](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7EjNOnfN0Uv_AicZ8pDPXciqDA23jzSwdflIY3EDBbWM1YGpaJyngTlpgmfvOZcWGCJ0p74xctxw5x_vmtkSUkpQYWYrphEod7_hlVRS882D4CB4UDWvbTedtFb769ZJm4i-IkxbOSL470O2UjbtSNX5Dyt7Wi7xJ3ZsXQWsL81ZBhu9UZIWefg9l4A/s800/bergek-feat-alwalid-mz-gaseh-teuhalang-30-juz-quran.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Bergek feat Alwalid Mz - Gaseh Teuhalang 30 Juz Qur'an. Silahkan bagikan juga ke teman anda.

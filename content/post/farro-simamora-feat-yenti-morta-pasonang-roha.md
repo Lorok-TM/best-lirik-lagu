@@ -25,6 +25,5 @@ Title : Pasonang Roha Artist : Farro Simamora ft Yenti Morta Songwriter : Top Si
 > 
 > Nadong niat ni roha Maninggalkon cinta ta Cukup ma di ho anggi Sudena cinta
 
-![Farro Simamora feat Yenti Morta - Pasonang Roha](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzdMZ83FxJIFCnXJIStajWmxGDswMNyRJoirBfh4CKTp7CrulMAx4HA2FqJh279ULTj-MBInyeLnEXO9LAsq_r-rak9DjmYFqNLNb_eYb5puC8wfwc2qYuUE9gS6c696SeBg3mNR4WlKcJD8dYIU8lx-Z99Z249xyLWHzNVwoQ6V8fZdC_bgTFHG3zqQ/s800/farro-simamora-feat-yenti-morta-pasonang-roha.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Farro Simamora feat Yenti Morta - Pasonang Roha. Silahkan bagikan juga ke teman anda.

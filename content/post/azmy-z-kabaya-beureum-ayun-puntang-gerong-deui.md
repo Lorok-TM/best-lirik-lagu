@@ -33,4 +33,3 @@ Lain lain lain lain daun awi Lancah beureum lancah beureum di taweuran Lain lain
 
 Cai cai cai cai kopi kopi Peupeurih mh peupeurih di leueut moal Calik calik sareung abdi Peupeurih padeukeut moal
 
-![Azmy Z - Kabaya Beureum, Ayun Puntang, Gerong Deui](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkai3uEd5mlJJbMGGUVeJXE2dDXqwkLWaEa26ATdAPLmjlI-atHBGugbPSlX5-WrurTGLWckezuPCHRWrVEuUug33PGXVUOGvO61-tD54MaGtOgekQ3aUs0jHkkL-OSYu_u_snbdp5YxbyIhiWonJ8pTvQ11yI-Royy0BV_AL3UKqzxvZfpzayzXFh03om/s480/azmy-z-kabaya-beureum-ayun-puntang-gerong-deui.webp)

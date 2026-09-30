@@ -23,4 +23,3 @@ Nan awak bialah awak nan urang bialah urang Rasaki hiduik lah di tantukan Usahla
 
 Nan Tuhan Kuaso indak ka sio sio Kabakeh didiri kito Rajin badoa jo bausaho Nasib nyo kito ka barubah juo
 
-![Sri Fayola - Nan Awak Bialah Awak](https://i.ytimg.com/vi_webp/Et7M34y7p9Q/maxresdefault.webp)

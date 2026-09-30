@@ -25,4 +25,3 @@ categories:
 > 
 > Pilu hatiku ho Pilu hatiku Pilu hatiku
 
-![Khai Bahar - Hanya Segenggam Setia](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJV-VbT8m0CjGNsBOl7KZ5PPwlJE5ByOvemKhxDbly7VJZfaNA4haQ6EiHOMKdvGAEEHkbJYMK4ARSVPoyrI7Ok6KtNmyJ_RCVkgsNicNPmuH168unep6KOlgl48PRx9kGmeF8YyeiY-91jWduvn5pBhiLB6LRdMA-DsmcbiOAykicdgw9HSx9tNaukw/s1280/khai-bahar-hanya-segenggam-setia.webp)

@@ -45,4 +45,3 @@ huoo oo huoo oo
 
 adi lalap sa banndu mbiar kel aku bandu pagi karmana
 
-![Minta Tolong - Gitarena Br Ginting](https://i.ytimg.com/vi_webp/deLXchKa-x4/maxresdefault.webp)

@@ -13,4 +13,3 @@ Karepe Riko Wis Sun Turuti (Kemauanmu Sudah Aku Turutin) Paran Baen Wis Sun Lako
 
 Sak Iki Buru Isun Sadari (Sekarang Baru Aku Sadari) Riko... Welas Sing Ngergani (Kamu Cinta Tapi Tak Menghargai) Apuwo Isun Sing Riko Tinggalno (Kenapa Aku Tak Kau Tinggalkan) Timbang Isun Dewe Ngrasakno Loro (Dari Pada Saya Sendiri Merasakan Sakit)
 
-![Sasya Arkhisna - Cerito Manis Gawe Tangis](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIdH0dCLd9hrEIeg9ue1jKMga7p-kxBrtAjt-ZlmTtrN8wzZliPi2pAJfrX-jYADG2kVJGefJeeBZr240A3mhH034QhpiXeh_K_UE3a2Wr5IrB6HfbaaGGDkrvsg5Tvz0vBG0Mw9yEPc-3w3WHXai681rA1Ik8GYs2XdIl28g2uXoB6Hpzb3uGKPHvnwiz/s480/sasya-arkhisna-cerito-manis-gawe-tangis.webp)

@@ -21,4 +21,3 @@ Demikian lirik 'Jantung Hatiku' sebagaimana di atas.
 
 **Credit:** Judul : Jantung Hatiku Voc : Susiko Br Ginting Feat Arbi Sitepu Cipt : Sudarto Sitepu
 
-![Jantung Hatiku - Susiko Br Ginting Feat Arbi Sitepu](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1rcw79YZg7A561nxsssVqQyVz4jk3dx5UEsOzE_lwagrq9m-m0qOsd9r-6XjWmvY1KlM5HHZb-tgatsRzZrQW8dIQXzVQ8Orn2hPklbP00twXN6n3HIoR39coaii7GI4bi7nqe_z_OT6wn-U2vRhNiAlEvPNzcejC_NtijZT1e59DGc-4syYt-9nrvOXr/s1280/jantung-hatiku-susiko-br-ginting-feat-arbi-sitepu.webp)

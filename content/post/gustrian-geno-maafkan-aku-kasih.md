@@ -21,6 +21,5 @@ Title : Maafkan Aku Kasih Artist : Gustrian Geno Songwriter : Rajali Asmara Publ
 > 
 > Seandainya aku tau berakhir begini Diriku bagimu sebatam mimpi Deraian air mata mengusik jiwa ini Kuharap sayang kau tabah menjalani
 
-![Gustrian Geno - Maafkan Aku Kasih](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDpvY6dLquFB_IJBkjF25bOg2ZmRZwE8BbNQXfUiRFwRgsue5L96WL5qPWhHSN_zU_8I6mUC-wJ8GMWj7S7LohTFI9iEkekI6gyLlKapUOvmhpInVWLvZfZJib0JuUeditruLCS-EWI0-xsm8TTgqhWOn-BruB2KNvDRhuanjnvo5MG4kpITA7G2ZbfOPL/s1280/gustrian-geno-maafkan-aku-kasih.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Gustrian Geno - Maafkan Aku Kasih. Silahkan bagikan juga ke teman anda.

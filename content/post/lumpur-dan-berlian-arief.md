@@ -17,4 +17,3 @@ Meski beribu caramu menggoda Malunya raga kemana akan ku bawa Percuma jua untuk 
 
 Air matamu palsu Alasan tak bermutu Ku yang menanggung malu Usah kau datang lagi Sekedar menyakiti Tak ada harga diri
 
-![Lumpur Dan Berlian - Arief](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHYYu89Ons-bReu0KNx_rw-ub36mWoF40Y4I0Sdq7eAbLFmBJPedduztHvgb76oJXOVY2Gi-7XHdVkTbA9Ws_bwRbbAjJMTU0N7hyphenhyphenozv5yl_BUmKy3313eJs94BVzQX0RR-EO00hH07MEFOPUWq769R9fo0W3GHSsT_1APYT9pe3vcSAniNEmFlv1s97dC/s480/lumpur-dan-berlian-arief.webp)

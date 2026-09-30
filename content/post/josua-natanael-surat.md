@@ -5,7 +5,6 @@ categories:
   - "indonesia"
 ---
 
-![Josua Natanael - Surat](https://raw.githubusercontent.com/Lorok-TM/2026-08/img/josua-natanael-surat.webp)
 
 Ku tahu kau mauntukku But i can't i was wrong Berharap ku lebih cepat Menjawab on your call Tak apa ku-jalankan Walau perlahan-lahan I wrote this song for you I sent my love to you
 

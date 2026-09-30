@@ -33,4 +33,3 @@ Bialah rindu bajauhan bakawan jo angan angan Saciok ayam bairiang jalan sarantia
 
 Lapuaknyo janji binaso diri
 
-![Batahun Di Rantau - Ipank Feat Rayola](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYrchB6VRbeQAQwIhQncEHw_S7-jQZYA_ivaCwmWJ-C-3WvTS6s8XqoBaWQF3vEype4C3Jj_xV445LoDT1dA5qBKjAOeyGcfgtfuWVOn4HrzHSi4XSSrgLHsBtMj_2nIbEQW6W1WuUZrLlJCWVwq6EASBzlB9atu2RBIkVFfo1BSr-TRgBSwrmNKcl98mD/s1280/batahun-di-rantau-ipank-feat-rayola.webp)

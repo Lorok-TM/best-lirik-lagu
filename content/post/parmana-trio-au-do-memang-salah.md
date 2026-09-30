@@ -5,7 +5,6 @@ categories:
   - "batak"
 ---
 
-![Parmana Trio - Au Do Memang Salah](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9455R9maHbohcS3rhcIIEnc4q2hlWRMdDBY9bYild2hUSC5yMOE9hHf1lxwl4-umgsukkuGlEfLJnPuLeggstZUx2_tyWKZ70yA7_k23lscq-IJnWt0UNK4Z121P7n8IhyaYlJuy8cD4yWB6Z6jDnQ5tPXQbxiiiEZNXMocwS9cGuUie-UkWxgwQIOdY8/s1024/parmana-trio-au-do-memang-salah.webp)
 
 Mungkin langit punya jawaban Dunia yang berhenti berjalan Kau ucap mantra Terbuai dalam rasa
 

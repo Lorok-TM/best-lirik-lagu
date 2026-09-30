@@ -19,4 +19,3 @@ Alah di basuah juo Masih manitia aia matoko Alah bakusuak dado Samakin tasungkua
 
 Kama hati basanda Alah bapisah nyao jo badan Kasiah cinto jo uda Kini Bamuaro di pusaro cinto
 
-![Ovhi Firsty - Pusaro Cinto](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvbOKDY7x0h1xyjYxvKGkJB9x39FblnApFZQeK7rRo9GXEf-iw_5CfnXAynnahcRJG5KJGyTkJvDI2Alwtu5f_JKCOD-FROK5NaVSx4TewOnxAD2Cmorro3YTHgrJuyAUFIGWw_suvYWPvR6YvEZkqg-ZzDe_cxE65rG2BU45c37LQqwkMHpd1GLBgNn48/s1280/ovhi-firsty-pusaro-cinto.webp)

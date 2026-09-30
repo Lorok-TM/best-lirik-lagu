@@ -25,4 +25,3 @@ Cara tuk bisa kembalikan cintamu Hanya tuhan yang tau Besar dan tulus hatiku Sel
 
 Beri tau aku cara tuk menaklukanmu Kembalikan cintamu Hanya tuhan yang tau Besar tulus hatiku Seluruh hariku Habiskan hanya untukmu
 
-![Mahalini - Ingat Ingat Lagi](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXfK981fVBIrZeQvALhwxpbgSli9dhje_32KmrWf58D7JBREOkocxMRTPG-22iwekC-nQ2wPC37UcJAhPwgRrZTUgOpB7O03oeIt8hoeefiaLbZEHj5y_zLxdFm3HuYFqaZqk1kdcUS1htOvd6jYJLZ2_ZxAzEkc0nLq4pPtTwE3IWl-9KKZOFmjvWiLhA/s480/mahalini-ingat-ingat-lagi.webp)

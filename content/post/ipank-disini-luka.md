@@ -29,7 +29,6 @@ Situs bestliriklagu.com tidak menyediakan chord dasar / kunci gitar / Mp3 lagu D
 > 
 > Engkau ku siram Engkau ku jaga selalu Harus kau tau Aku yang bertaruh untukmu
 
-![Ipank - Disini Luka](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWsYnIkUuoMCp61Yc-DRY4v0tOcQMsd9JJ7A9SioETyveR_o_KxUhL5sXyreVqOVmyuR8e0gIM2YleJ9hX_TZZ-Ca8va3seEFVH9jD2slYLvoduHuEDGKCO5fwJ9j48qn-f9e6VuP3tF_WkP6RZec0AvEq2xAwfpixjemQx5daxQIGGUqS3ZNRrSfa8Zar/s800/ipank-disini-luka.webp)
 
 Tujuan kami berbagi ini ialah menyediakan dan menambah sebanyak mungkin informasi arsip lirik lagu untuk mempermudah bagi Anda yang ingin menghafalkan lagu Disini Luka ini, maupun belajar bermain musik.
 

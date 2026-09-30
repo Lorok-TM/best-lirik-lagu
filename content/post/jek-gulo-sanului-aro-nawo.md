@@ -5,7 +5,6 @@ categories:
   - "nias"
 ---
 
-![Jek Gulo - Sanului Arö Nawö](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjy9qqnS_7DhTSXtAIWT9E1zeE-AAADUHSqUJeuBFS99nJzZe99njedHOOiNIM7jlbENSpXob_UjxK4Kxh7VW6hrUb-pjPfyPXhVoCdu81YR9t1-kyOkjYHCnBpZGolik_i_Fu31-HUoQqc1Plo1-SUfbwl4_S8PoyPfh7z2MJmWMrDkSr4mfpqVzbdtHID/s1280/jek-gulo-sanului-aro-nawo.webp)
 
 Asese alua baginötö da'a Mbua-bua ndatalifusöda Nola haogö khöda nafalukha ita Tödö bakha maeni hökha-hökha
 

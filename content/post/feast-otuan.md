@@ -33,4 +33,3 @@ Music
 
 Outro : Lalalala.. lalalala.. Lalalala.. lalalala.. Lalalala.. lalalala.. Lalalala.. la.. la..
 
-![.Feast - o,Tuan](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjp3SJPJYAd8E6Z3xHun_a1Pp_hfLetH16rzCPzeCkHW1M7N7dwO-rbGtm-XW9HSPbV9AHW-OEwRp0fDizCkvVZ8OaOS6Ol9MKbD1TTs5uN7pggSuSTU11IwEgd8SKxzN2OfffLzXaARakdr0t0uilKne209fGjQpOKl0EzdnD5CrRyBjs0L95xwxmZuWa2/s1280/feast-otuan.webp)

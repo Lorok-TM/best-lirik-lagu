@@ -31,4 +31,3 @@ Boras ibagas pinggan Iboan hu tiga runggu Horas hita ganupan Sai jupahan pasu-pa
 
 Boras ibagas pinggan Iboan hu tiga runggu Horas hita ganupan Sai jupahan pasu-pasu
 
-![Intan Saragih - Tor Tor Ni Simalungun](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZqwMn-ruquYB6BrIBxgXog9JMcbGH8FDHxQwiiQAQa4TKympJBnuzJwqnlsWaVTMMWopncBSF5-oPlL9NLr4PD6sL1LPmjhBYprObOZ8f2nIzbsAwpOw1DZea1asa5Q4SoJV2fv1zAzhPSfzRRuWzQb08Bs_wGZx4uM-ZN9vH1ce83vCLJTkorYJLduSR/s1280/intan-saragih-tor-tor-ni-simalungun.webp)

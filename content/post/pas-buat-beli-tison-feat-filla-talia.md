@@ -31,4 +31,3 @@ Beli nak muani lacur luh Nanging tusing playboy Buat tiang pipis dadi alih Ane s
 
 Yen kene iluh pas buat beli Yen keto juang sube tiang beli
 
-![Pas Buat Beli - Tison Feat Filla Talia](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxkPMR4yNw1P_nmWCb6jnUehn1JMYjSZrU4Hv0c9vEKFKwlDrkqYumFojUPQj0v5WOG0UeS1OOGfGN18vuMoaIT0DQfkdRXNJymgTS-cNHh_kDJdrThRFezSf7r4Y6QfTEFNTCLsJk5H8_lY_RvT6TI5sc_jvJ1myWN2rkfBklMWHG27qMa94SP_EMqruv/s480/pas-buat-beli-tison-feat-filla-talia.webp)

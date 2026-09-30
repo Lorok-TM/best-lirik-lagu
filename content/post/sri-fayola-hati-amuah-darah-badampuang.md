@@ -23,6 +23,5 @@ Title : Hati Amuah Darah Badampuang Artist : Sri Fayola Songwriter : Erwin Agam 
 > 
 > Kok lengah pasti ka takicuah Lah dulu urang malarikan Di hati dalam lai amuah Nan takuik capeklah hilangkan
 
-![Sri Fayola - Hati Amuah Darah Badampuang](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjW5uWq4baT3TLRrgOWk6kW3mhEIjUJrT2zwX2lqx8p0Yadj7xjhNyUZ8X2a7b735U11msDnropotxir0W-XQf2yo3hy_Zkvjxn3Pn6aG-tEIb9eU7CWP7Yd0HYVmdfXfoF6Ofj-dH1FenUiwWR4rI77WSu7mFlLmO3uolzmPGMOF6-r4vrwtU1xir_SA/s800/sri-fayola-hati-amuah-darah-badampuang.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Sri Fayola - Hati Amuah Darah Badampuang. Silahkan bagikan juga ke teman anda.

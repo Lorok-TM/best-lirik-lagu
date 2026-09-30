@@ -77,7 +77,6 @@ _Sing Salah Pilih = Tidak Salah Pilih_
 > 
 > _Semut semut api Kemana arah jalan pulang Kamu jangan takut sama aku Sekarang kamu tidak salah pilih_
 
-![Widi Widiana feat. Dek Ulik - Sing Salah Pilih](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijBG1Hp3sysrMFOW93I3NCYxBrdhfXQLLHxclWXVL2AyeDpbSIDV76omUthrXlvO5Kzs5-i-K-Ax5dMADxpeZCMIJ0U8XPhgZfF3YVmE9Wkj0_auJgcQMpjLQGIgGJcAPFYNfzR8h06k07ydDNYxXjiKK858naWk9lXCH4YwE-Huc5WQ45Xe2_8qLi7Uql/s800/widi-widiana-feat-dek-ulik-sing-salah-pilih.webp)
 
 Tujuan kami berbagi ini ialah menyediakan dan menambah sebanyak mungkin informasi arsip lirik lagu untuk mempermudah bagi Anda yang ingin menghafalkan lagu Sing Salah Pilih ini, maupun belajar bermain musik.
 

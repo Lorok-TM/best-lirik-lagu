@@ -27,4 +27,3 @@ Demikian lirik 'Padang Bulan' sebagaimana di atas.
 
 **Credit:** Judul : Padang Bulan Voc : Arya Galih Cipt : NN Arr : Samiremen
 
-![Padang Bulan - Arya Galih](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhU5cVzz3a1yXNP0PmKy4GBKotIMnyqu44X4b6Vm01tBW-O5I7E_lT-OkDmMnU4FLG5xZjW38GzbVFdmC98zUDX4hOZ11wn9P6y5IwvJuuheiOJODIvIvaTxJ0bQnJiHrvHKOsBHCqtivWN1vUTrJ7s6SYbrn3H9kQiNVZjjUMG1QBWkFUNDJrg18YPm7_h/s1280/padang-bulan-arya-galih.webp)

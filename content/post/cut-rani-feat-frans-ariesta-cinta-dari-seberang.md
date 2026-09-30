@@ -17,4 +17,3 @@ Mana mungkin aku tau Bedanya cincin sama diriku Janganlah abang coba merayu Nant
 
 Cincin melekat di jari manis sayang Kalau adik melekat di hati abang
 
-![Cut Rani feat. Frans Ariesta - Cinta Dari Seberang](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuaMDmVNkKICE0vvEHkbKziI__WTOGjnnSBNy75fyS45LKfR2-I9UPjmZUh43WZxsJ7IN8BYkPA-SeNigGifTzBe6mPANrINWSNdRVoeDggzE4UI3aG8x9Au6BoSxth4SeW4SgmpbvNisDMj21iXOJ2ozckmdjrhvYQuiYlhAkuJVL3jmqvuR6pSRVtlP_/s480/cut-rani-feat-frans-ariesta-cinta-dari-seberang.webp)

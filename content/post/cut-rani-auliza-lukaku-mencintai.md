@@ -31,6 +31,5 @@ Title : Lukaku Mencintai Artist : Cut Rani Auliza Songwriter : Ajhay Pasma Categ
 > 
 > Andai engkau tak bisa mencintai diriku Mengapa kau iya kan cinta yang ku berikan Kini aku jadi mantanmu
 
-![Cut Rani Auliza - Lukaku Mencintai](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyz1cVCGDKF34jzaoFluQgPXYeGD2XXMQBK6818bxJ6MePut-Ql2QY0HbuKwrfBri9IdaFyzKFShjaHUTqUCWb9UDs33xr8Ov43EoLnP5gWamdiZ1JeLWAvqfMy5HDMwodjMxxldbFB9q1qb3nUvkSN1qyuPx6QjFVtgRbm5PWJTrLBJ7fn1kbpfUNVQ/s800/cut-rani-auliza-lukaku-mencintai.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Cut Rani Auliza - Lukaku Mencintai. Silahkan bagikan juga ke teman anda.

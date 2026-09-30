@@ -5,7 +5,6 @@ categories:
   - "indonesia"
 ---
 
-![Meidra - Seratus Hidup Lagi](https://raw.githubusercontent.com/Lorok-TM/2026-08/img/meidra-seratus-hidup-lagi.webp)
 
 \[Verse\] Cinta bisa menulikan telinga Sengaja aku lumpuhkan logika
 

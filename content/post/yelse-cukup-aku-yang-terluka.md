@@ -15,4 +15,3 @@ Ku tak akan pernah memaksa Kan ku iklas kan semua Asalkan dirimu hidup bahagia b
 
 Satu pintaku padamu kasih Jangan pernah kau mengulangi Cukuplah diriku yg telah kau sakiti Tapi jangan dirinya lagi...
 
-![Yelse - Cukup Aku Yang Terluka](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-X7bYlcrIxYjs5r8lK_tNe29AcKtkBdJPgn5bdPNznfrkUBYMkQId6mtfm9bzhe8mjs_W_Oo1wg5ZrGWGhSNMUEbuMgnlxrCBtNtrBy5GyPyFST7F6UKEIXaYZn5N10Umuzxu8rK_Tv1Qh-KbOOs2k4gwMlH5mwz7vHk2ZaJeSzLIS9OeJ8MI-NJarxd8/s1280/yelse-cukup-aku-yang-terluka.webp)

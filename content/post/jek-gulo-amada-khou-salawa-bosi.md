@@ -5,7 +5,6 @@ categories:
   - "nias"
 ---
 
-![Jek Gulo - Amada Khöu Salawa Bosi](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBJ19Szp7t9k_DDt0OUk6ZrA3GnvxTIt1XMDixiwja6bBNRfyzYT20NFw7qvl6gt6Lix3C4U8giIFAUMXXXl4Q2AEneXOs4O6Ih_yGLlzP3l5-s7_jMGQ9ZCsZuFJBxv6PZhYYtOeuhADL1k_exFoRrfJQbv3sW-J2NZOQI-VXATA-mKc74Oji60hmuo0z/s1024/jek-gulo-amada-khou-salawa-bosi.webp)
 
 Na'ufaigi mbotomö nakhi Bobaga-baga hulö nono gehai afusi Ero öboke na'öau ma'iki Morimba dödögu hulö zigöna fokasi No haya'ugö nösi dödögu khi bawa'auri
 

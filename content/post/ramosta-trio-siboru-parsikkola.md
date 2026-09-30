@@ -17,4 +17,3 @@ Sai unang lupa ho na martangiang i Pasahat dirim tu Tuhan i Anggiat saut sude sa
 
 #Credits: Judul : Siboru Parsikkola Voc : Frans Napitupulu, Joislen HP Sinaga, Daimler Benz Siagian (Ramosta Trio) Cipt : Bonardo Sinaga Arr : Hans Hutagalung
 
-![Ramosta Trio - Siboru Parsikkola](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWGsuWrC0znnhsYzTzNFCZgfpPR6FnkKX_zWqaSeHd8AaWKVQECWi8hEVU6aQPsyYzZOe3NK0J_PLf57-tW-rtfmZBk-jcVUhQbWIL8_Pixy_uIJ5RYW3mXrhGfBFxOjvjv63ATn7UKzYioT8qeAZa8MpIoFMLRxtaJ6Xp3gyaJcerwcy9PhuOT3fI2WX8/s1280/ramosta-trio-siboru-parsikkola.webp)

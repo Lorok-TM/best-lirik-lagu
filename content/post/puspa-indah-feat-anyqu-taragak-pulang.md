@@ -19,4 +19,3 @@ Oi mande kanduang usah risaukan denai di siko Kok lai untuang suratan tuhan ka b
 
 Oi dunsanak marilah kito Pulang ka kampuang basamo Oi dunsanak marilah kito Pulang ka kampuang basamo
 
-![Puspa Indah feat Anyqu - Taragak Pulang](https://i.ytimg.com/vi_webp/GOlkALEDQRY/maxresdefault.webp)

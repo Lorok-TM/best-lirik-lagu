@@ -25,4 +25,3 @@ Indak takao nyatokan cinto Malu malu denai rasonyo Sabana bedo denai kiniko Maha
 
 Kok sakik ado ubeknyo Mandamam lai cegak juo Jikok kandak indak ka buliah Angek dingin nan uda tabayang juo
 
-![Rayola - Rindu Indak Babaleh](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRJqAWv6yJRJ3KYC__XZgnkuMvvIzLd77fKhHLmys_zOaPa1ZjKuZl2KqzjbvVc14BVpkorL6cd0Yk9O5N3tkx7EumiQTY4ZvZp4pmP3JXS_FFplrpq-N5E3zYwKf-9WvWIHZaj6KGHlHMK4L5IGr5Ybf_JeMGQOqDfZ1-13hYHL8XcPKLi7P-OIlgi2ko/s1280/rayola-rindu-indak-babaleh.webp)

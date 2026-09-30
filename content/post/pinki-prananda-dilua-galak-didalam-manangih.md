@@ -5,7 +5,6 @@ categories:
   - "minang"
 ---
 
-![Pinki Prananda - Dilua Galak Didalam Manangih](https://raw.githubusercontent.com/Lorok-TM/2026-08/img/pinki-prananda-dilua-galak-didalam-manangih.webp)
 
 ## Lirik Lagu Dilua Galak Didalam Manangih - Pinki Prananda
 

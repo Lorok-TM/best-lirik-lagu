@@ -5,7 +5,6 @@ categories:
   - "java"
 ---
 
-![Laila Ayu - Ketaton Cerita](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg24Fbh74_0xANtC9aHixa-951p5fXDcMd16S6PNA7KzprNsXhaqhek7AlxUTTEib58tiRtLSG79COVX2xSqxBCdtfLo91QZYdF8vrE07TeAhikoyR9_v7jhKU6nwuOgwBpbq5cNJ_kX2NFz5L-wlBB5W3vylK3zHfSNS-mHmslx2gcVMR3MIBfovhEEW8p/s1280/laila-ayu-ketaton-cerita.webp)
 
 Sumilir angin wengi nggegawa rasa (Semilir angin malam membawa rasa) lintang e wus sirna katutup mega (Bintang bintang telah sirna ketutup awan) Ginambaring tresna kang katon ana ing netra (Gambaran cinta yang tampak di mata, )
 

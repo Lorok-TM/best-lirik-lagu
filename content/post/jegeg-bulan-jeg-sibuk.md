@@ -53,7 +53,6 @@ _Jeg Sibuk = Sok Sibuk_
 > 
 > _Ada teman yang kelebihan / kaya (katanya melihara tuyul dan sejenisnya yang suka mencuri uang) Ada teman yang kekurangan / miskin (kurang cari tuyul dan sejenisnya yang suka mencuri uang) Sok sibuk ngurusin teman Hidupnya sendiri tak karuan_
 
-![Jegeg Bulan - Jeg Sibuk](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYkfYZ3IgygWWp_PT7F6-C4L9UQ7XKaU4lbcKTMcgV3uXSSLptWDdemo4dRO68VoymtYvw3Xq5YZQV8iGe1EE37tEjIQ9cRX2Ab3wJFaJa2bSNRDE2rCkjNuROtmttMl3xwWyxoLwu2usMk-6wfYeutWbWO-6uSo4i0A-xP8tPlSO396h-tQmvn0ILhRaK/s800/jegeg-bulan-jeg-sibuk.webp)
 
 Tujuan kami berbagi ini ialah menyediakan dan menambah sebanyak mungkin informasi arsip lirik lagu untuk mempermudah bagi Anda yang ingin menghafalkan lagu Jeg Sibuk ini, maupun belajar bermain musik.
 

@@ -23,6 +23,5 @@ Title : Setiamu Untukku Artist : Ghina Aulanda ft Harry Parintang Songwriter : H
 > 
 > Ku ingin bersamamu Dan tak mahu terpisah lagi Pulanglah oh kekasih Apa pun yang terjadi Ku tak mahu jauh lagi Apa pun yang terjadi Ku hanya milikmu kasih Apa pun yang terjadi Ku tak mahu jauh lagi
 
-![Ghina Aulanda & Harry Parintang - Setiamu Untukku](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIvqZArVFBlSmvzrQNCrqPe6SdSDzwGL798QSYYqpSqmZf8LuRUq3asxTenAfVtPTASd5CetbD147wS5zgRXqgTj4oNlOOKMuFfgLJ11sXOyXtwyKDMAGgDtTzCJ0dto99-nBJVXTNvvcWyRFRUK8fRSFqa-A9LUpw49i0N_oIH8RaqZ0B7mldN9CzFQ/s800/ghina-aulanda-harry-parintang-setiamu-untukku.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Ghina Aulanda & Harry Parintang - Setiamu Untukku. Silahkan bagikan juga ke teman anda.

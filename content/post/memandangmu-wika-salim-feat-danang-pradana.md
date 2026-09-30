@@ -35,4 +35,3 @@ Demikian lirik 'Memandangmu' sebagaimana di atas.
 
 **Credit:** Judul : Memandangmu Voc : Wika Salim Ft Danang Pradana Cipt : Renaldi D Wahab Arr : Babas
 
-![Memandangmu - Wika Salim Feat Danang Pradana](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeSwcfYYtJ-PAithP08goFyQZKHltotxtdTV9aEiYX2dYd7kprRRSrrBA0DRbH_ldX1I5SaTlh8dh3D_HECusqIUTOTHjr7QybXhSCZA3fwnhNB6dspD-miAzj9qAzg_PFv7adxH2e4pXLhbUUkjIWbqbGLcKOIvXJhsy8ICkejqC4ZFERn3RRFT_fyIcs/s1280/memandangmu-wika-salim-feat-danang-pradana.webp)

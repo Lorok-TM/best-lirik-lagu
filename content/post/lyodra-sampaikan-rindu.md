@@ -21,4 +21,3 @@ Angin sampaikan rindu Hujan rintikkan kalbu Dingin hatiku membeku Ingin ku memel
 
 Angin sampaikan rindu
 
-![Lyodra - Sampaikan Rindu](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5OshIf5s8jZcoI5TU_N3e7ttQdlFMzJjm3e6KoiTFSiqfkdkRC6Dr2z7hLP0jjmcOoEWmfLHZ2BbBgkt8kZvC-bGXp1Obgmd_KcRyUHLXdDbr6nba7KgaoLTzbBFDzEzcosH3FwvR8BHwcuXsWGiOJaP5wIUtA4noaqrw0T008dGJSqfIAgLnDP6Yvd7x/s480/lyodra-sampaikan-rindu.webp)

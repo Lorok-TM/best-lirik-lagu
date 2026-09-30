@@ -15,4 +15,3 @@ Gabe marbahir ma holong ni rohakku Dung huboto ho dilambunghu Gabe songon na mar
 
 Tangiangkon ma au asa gabe Tu sidoli naung gabe rokkaphi Suang songoni nang ho pe ito Gabema gabema gabema
 
-![Natalis Trio - Marbahir](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5uwgncxrc2IJyQbbZbeorFDYTq40m7-fIikQCy0W70b75zZ5i83CMdNhycof3uqash7Qguera5OFOP-UfnD7liMS-hAzt0NvPYUttfqgxsGuB3OnYLfP7fnBbo-Xww0BiiKALP-YBvl-MwKK1oI2JqmQoIvJkvwwp6ZHiflWK-fT2C4Jgo7M9wZmX6vaB/s480/natalis-trio-marbahir.webp)

@@ -25,4 +25,3 @@ categories:
 > 
 > Majangin pangahapku Mardingat sadis ni caramu Majangin pangahapku Mardingat sadis ni caramu
 
-![Lusi Purba - Majangin](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjq7CNsAaHws9jVATEQqxFEgZC3n1buC219sjQ6p3aq9FZq5PlFgPXAK7njLd1K9xhncKl9TrnnFFX1AUnhmTB_wLJYvHgvpSOGaNDZiKmXD7_yGXrva6G45E0YEDMXxnC2rqKHkf9j12S4Dw_p6TRYoObdjgtVYtlKYh3pGy_GJ5guKjVvvLc24KigA/s1280/lusi-purba-majangin.webp)

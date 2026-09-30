@@ -23,6 +23,5 @@ Title : Pilah Pilah Mesuang Munyi Artist : Yan Mus ft Ardi Mandira Songwriter : 
 > 
 > Iri hati Tusing lakar maan bakti Iri hati Ngae kesel pedidi
 
-![Yan Mus feat Ardi Mandira - Pilah Pilah Mesuang Munyi](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmDFL2L364BclShaIRdHU91_JgX-KSTGWH0OQXxbV_dNYaRwSnSWczYj2Vcc-Gb2ovPx7reWEO18-wv3_u2OUYhJNqfUsqXFXzf8c6cZdHsQyQFjjxBCapwk50aGv9IrF0Ft7V8fzuyeQpO-NFw4pwCyNYJ8NWkJDB6a4KnoY6kvYLiwh-Z-K7YFsWmQ/s800/yan-mus-feat-ardi-mandira-pilah-pilah-mesuang-munyi.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Yan Mus feat Ardi Mandira - Pilah Pilah Mesuang Munyi. Silahkan bagikan juga ke teman anda.

@@ -27,4 +27,3 @@ Demikian lirik 'Sapata' sebagaimana di atas.
 
 **Credit:** Judul : Sapata Voc : Maria Hutahaean, Yosua Oliver Siallagan Cipt : Sinnson Arr : Sinnson
 
-![Sapata - Maria Hutahaean Feat Yosua Oliver](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-kSMxxlitHBtqp56VMFvnT2zOe1gvvp1S3q_WFlr96mzcCEZQwTM49Iw5lcQDoE3gfo7BZTIWti2edCcloniCcGwBSLdaIEfMgtiXcqi3eS1hE6ddGDe9rbtrd-OI1h6tAWj1xLjdTiQFDV5r6rP79naOdK0mlyopHiPm-zmfpQchJNeXVN2BjTxObAd0/s1280/sapata-maria-hutahaean-feat-yosua-oliver.webp)

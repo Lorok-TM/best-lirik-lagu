@@ -15,4 +15,3 @@ O ale alogo Pasahat jolo tonakkon Tu sasude dongan magodang nunga di dia saonari
 
 Ai tung so boi be marpungu Songon tikki naung salpu i Tuhanta i manang manggomgom hita on sude Tuhanta i manang manggomgom hita on sude
 
-![Marsada Band - Molo Hu Ingot](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7Zi1scCnC0LzZqSX-zjIOBMopjFlx0V3AF97WEGdhGV6pi0ipcPgcoZ5WVQvsQwTfNisgVVBKj_YTophKOPlQ0-MF_kCNCPA2zeQcLuvRuymYXp17AoXgDdDIhfPjD64na9VK2_G5RdI4aQUq-XaiavRtVdiDCYfhDhGrGwzyd7x4nOc_Ivlq3lnpjWW-/s480/marsada-band-molo-hu-ingot.webp)

@@ -19,4 +19,3 @@ Demikian lirik 'Manga Di Risaukan' sebagaimana di atas.
 
 **Credit:** Judul : Manga Di Risaukan Voc : Roje Firdaus Cipt : Erwin Agam Arr : Vandy Satria
 
-![Manga Di Risaukan - Roje Firdaus](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfWFMASdc92e7WkjhjskNeqQ2uLn_a0mmpzWxJa4fL_WtqAxHqek_C1hhBekpO6YZP31vg69CtcIKq4EjigK3oMAUSzd0QiWM0ldZykRvON3FlHVZwGpLcuod14MAA0YCPBIq49LDSnisjIdiH6RdTg1vk7J373vpWXOYIhRWABTBIanEoyQyE542-o-TZ/s1280/manga-di-risaukan-roje-firdaus.webp)

@@ -25,6 +25,5 @@ Title : Halalkan Aku Artist : Rheka Restu Songwriter : Ibra Ktb Label : Koko Rec
 > 
 > Dan aku akan menjadi milikmu sepenuh hati Tanpa ada kata berpisah Bersamamu selamanya
 
-![Rheka Restu - Halalkan Aku](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeP89Ovny7k8fSvKRUAWJZcKLFMVo_K_kqR3Dp2Zy2L09vtVC9X3tSPif92Qb_qQLjfC8dV8OAWNOI9-nCduNXaNefYnBrA-9gL592FqaFj3JdqxM52lXiP3b15aY3zZlnX3ow_iM4Ii3tEzoLuJvoRPigDCDNoyuhiP2YliPWy4vF2PQO_0M2YJEQyg/s800/rheka-restu-halalkan-aku.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Rheka Restu - Halalkan Aku. Silahkan bagikan juga ke teman anda.

@@ -19,4 +19,3 @@ Bia abih hei bialah tandeh, Yo tuan oi Hati den kanai kabaa juo, Kabaa juo Hati 
 
 Ondeh mandeh sansai badan Ondeh mandeh sansai badan
 
-![Vicky Koga - Mudiak Arau](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXv2mqbYEMgzZMHQVZpxrggefGqGtbVK9TLtETK40XQdI6JClrwCl_K2mkSLiOdX5VMbdOoHlJXe1ZO5sWQw6QgFseQVysKDBb778TDX9FeOp94TgsR5Bsaz0S5ni2S6OoeUNb2-LHSIvsLu6W_hRDWQZNxQQjMhyphenhyphenuYPIDpdQ6NDAruua1oXGzKrI6WFLT/s1280/vicky-koga-mudiak-arau.webp)

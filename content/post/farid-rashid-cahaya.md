@@ -15,4 +15,3 @@ Kau membimbing ku bersabar Dengan ketenangan jiwa Keikhlasan kau titipkan Di dal
 
 Kau.. kau segalanya
 
-![Farid Rashid - Cahaya](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSBTJZT4YKlJEx2HwwrVS11w49uvmC81Zpqlxt3K1lStNRN88mn5gV6C-IVLCZz4XaJUMjrMjLZUTjwsO8ocjMjw8JUL8hE7D-IA6kZxcSl11-cR6ViqZCy5MVFf2t0xHEVb1SA-XmEvZARYsOFZ9l2Jr0uXY6L-93N7-co6ePzU6HLWUWreu2YI3ti0RC/s480/farid-rashid-cahaya.webp)

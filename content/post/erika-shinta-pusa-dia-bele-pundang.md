@@ -19,4 +19,3 @@ Ningak ku baulang ulang Aum hamparang Kuam amun bawi je magah sayat Hatue pasti 
 
 Tutu baya akam barami Sakadar minjok puse puse Duam kulat batang ilihim Baya gau kamangat aku uka kangasi
 
-![Erika Shinta - Pusa Dia Bele Pundang](https://i.ytimg.com/vi_webp/VFGlP0vqygs/maxresdefault.webp)

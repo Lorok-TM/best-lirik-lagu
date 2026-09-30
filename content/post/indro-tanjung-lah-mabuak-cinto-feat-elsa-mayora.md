@@ -21,4 +21,3 @@ Usah lah ragu uda sarato bimbang Talapuak dek paneh Tak ka langkang dek hujan
 
 Sanang hati denai ko di sayang Sanang hati denai ko di sayang
 
-![Indro Tanjung - Lah Mabuak Cinto feat. Elsa Mayora](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKmlfIF3WzYTRODmEerxfJL8-RIzKTsPI60-dSWriT-JSMgHoa95xjWXSvmhaNHZaGdlN_Iw2vIEbgPwWxNsVHqsoJuuvNaxGoTHHsTDRuu_RlpAoNkt8RdALj8yMlC3M_5kjLZ2Pxi4XzRmrtBrhImpv8Xm4xCnY70iXb7uk9Zo04El8ddRltgQZY1Ha-/s480/indro-tanjung-lah-mabuak-cinto-feat-elsa-mayora.webp)

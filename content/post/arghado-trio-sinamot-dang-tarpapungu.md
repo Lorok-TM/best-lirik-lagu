@@ -28,5 +28,3 @@ Laos i muse do na mambahen biar rohakku Manjonoki boru ni raja i Dang olo marsog
 Ido mambahen di pikkiranku Gabe lalap di parlalapan Ido mambahen di pikkiranku Umbaen tarambat au marbogas au
 
 Ido mambahen di pikkiranku Umbaen tarambat au marbogas au
-
-![Arghado Trio - Sinamot Dang Tarpapungu](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRUw6dqx4O_mHKaipUQhC_vtBf0jLIBAEWsuPP6OZwcbEKHkZCE3Y1lq6ISAFO4rC6NXn8VPpnIGq0yQvege2T0oxi1tgW6xkZaXr0yG4RUK53P-j3Hkf1DOfTKW_d9R539c-IbBlbb8zOm_-Ydqxu_KMMpapr0I3DsPxTRdr799TvwCxyIn1ZVPOT1xgA/s480/arghado-trio-sinamot-dang-tarpapungu.webp)

@@ -17,4 +17,3 @@ Biarlah... Ku bawa derita Berbahagialah dengan dirinya
 
 Krena aku menyadari Siapalah diriku ini... Tak pantas...dampingi dirimu Tak mungkin kau hidup dengan ku
 
-![Janji Tak Sejalan - Fany Zee](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpVyuo958OWgkxFLnj85hIB6KVO7cgYlPi5iS0mR0MsMJPvdlDvKjIFdpA91zVrvCuYhUxrrVITfdWBFAVrW1D-n9Rb8SUQbNro68RcUvemNCZa76aDvxeWubmjE0GHiS9M291O0shM9tCOVulUnQ_qA3qQUOwtBBTAXAtnGF3xuPJKQzC5HUI66AUBihX/s480/janji-tak-sejalan-fany-zee.webp)

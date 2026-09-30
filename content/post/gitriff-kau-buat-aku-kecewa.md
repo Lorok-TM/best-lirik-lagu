@@ -23,6 +23,5 @@ Title : Kau Buat Aku Kecewa Artist : Gitriff Songwriter : Armansyah / Jonedi Dj 
 > 
 > Terdampar sudah semua harapanku Kini tiada tak berarti lagi Biar ku terima semua keputusanmu Biar ku buang bersama mimpi
 
-![Gitriff - Kau Buat Aku Kecewa](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgh5Imkw5hjAawC0jYVRT70sqMikgVDMltwkuRt3eL2CD5ogVLpxTcTVh4xjP79of7gXTOuKg0xsIvhDoaSpDjM70o_eRdzB83ZpN4oAYpbli6aviCw1jj3iPwvcsjqBnG56BwabuDEaqAldul6y6WM6ALHK7N6XRtaNnaauNiVwKXiGmDTs8HWEpfUhg/s800/gitriff-kau-buat-aku-kecewa.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Gitriff - Kau Buat Aku Kecewa. Silahkan bagikan juga ke teman anda.

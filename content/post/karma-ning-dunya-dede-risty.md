@@ -31,4 +31,3 @@ Akibat sun demen wong seje Neng anak lagi sampe wis klalen Umah wis gedong ketin
 
 Pernah sun bengen khianati laki Duh ampun getune setengah mati Hukum karma ana ning dunya Duh rumate urip wis kesiksa Duh kakang kula njaluk ampura
 
-![Karma Ning Dunya - Dede Risty](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxEh8IPrSCOqCZMpn9wb5bDy_nwk5HOGciE71NvN4CNLODEAEOIxLsXmNwdF3pfj2yCMkayndaq0d0WDJdbniwS81vcrg4QZ3yw2tSGwoUF4fmRgNz_nd8FzG5lgcZAikispHFo99exkZ55-CN4sXxPi-ThGwFpOHNDcs4J2AhlrIo6PMcn6Ucts-kcnBU/s480/karma-ning-dunya-dede-risty.webp)

@@ -43,6 +43,5 @@ _Imbangono Katresnanku = Imbangilah Cintaku_
 > 
 > _Padahal cintaku Peribahasanya tidak bisa dibeli Demi sumpah dan janji setiamu Ku korbankan jiwa dan ragaku_
 
-![Eka Uget Uget - Imbangono Katresnanku](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEii7jF3ewkIsym5e5ZccNXyHMAPQa_H8LYinUR3-_R-Aks6y9pDQvNlBhhGJGZcHmEMW-sH1TaStefARz0E82iEBttVc_WUalIujGttqaWMMDZ29NnVI0PurhNmg0eL2fnvco7Q_m1ysC4J7H82YtIWo67R1Lvuc2ce6meiuA_32oJW3eA37NSvRXYHaA/s800/eka-uget-uget-imbangono-katresnanku.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Eka Uget Uget - Imbangono Katresnanku. Silahkan bagikan juga ke teman anda.

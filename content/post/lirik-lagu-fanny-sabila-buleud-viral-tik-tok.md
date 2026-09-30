@@ -43,4 +43,3 @@ categories:
 
 Title : Buleud Artist : Fanny Sabila Songwriter : Dose Hudaya Prod : DH Production Indonesia
 
-![Fanny Sabila - Buleud](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrs0czIyhj2xkv4uB9K1wQARGHBS63MGkGSw0qYcvXCPs1n7h0O2HxgdyCImY7IZMjMyEIHIBxPUkr1cjCEIjHC2hAyPwbp-cJEreqCd5JwnTp9ZcrIRqJTHjq7hlvkAdpTFaaXAx3rLVSokuF0Dl1XUV-ZTjFVhGKfRmFiBm-exBCA6BKc2RYjbwT0Q/s1280/fanny-sabila-buleud.webp)

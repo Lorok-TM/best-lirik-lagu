@@ -19,4 +19,3 @@ Beruntung aku memilikimu Akan ku jadikan kau ratuku Bahagianya aku mendampingimu
 
 Abadilah cinta
 
-![Fauzana - Semenjak Ada Kamu feat. Aprilian](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuspj-lnKEhJsMHPDVy4Uvzz-ixGjR1DfUl481fRw7JMyU06VyQ5lwlSn36c6Z1TMLSnURboh3jT_NESoVzU0Km7LQap7Yiw_7A_OhL02FU3NzdDR98X8K2FuV7C_jAImakEX68KwS_0_UfjyA6C5kfcH9fQQk-4eJQGDDi5hf5ILZHwOoU_HyAKro1AS_/s480/fauzana-semenjak-ada-kamu-feat-aprilian.webp)

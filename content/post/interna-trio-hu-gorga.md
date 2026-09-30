@@ -33,6 +33,5 @@ Title : Hu Gorga Artist : Interna Trio Vocal : Sungkono Gultom, Edu Manullang, E
 > 
 > Holong ni roha ki Tu ho hasianku Sai hot do holongki Hu gorga do di bagas rohaki
 
-![Interna Trio - Hu Gorga](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjq59x8QQYZ_RjQFZr_aaesppzq467L4Sbc4Ok2lqK6pP4f95szN0zr_0xs2Yy63FZgZ95NYgWwHiiaX3CGCeqFKsLszeYAoSsXpI7ut63e71o-6wyfnuVwQd9sdYyV-mX6DwCnpBcaMjLahSMK1fsNT_INrgtWZUWujFC7RsmdxSkrrCT2TtM38Ss3KQ/s800/interna-trio-hu-gorga.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Interna Trio - Hu Gorga. Silahkan bagikan juga ke teman anda.

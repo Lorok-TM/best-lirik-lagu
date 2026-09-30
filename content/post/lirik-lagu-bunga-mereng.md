@@ -31,4 +31,3 @@ Call me s o f I a To the b u n g a When I’m with my fam It’s only me and my 
 
 Walau ribut atau taufun Tetap kita berjalan jauh Jalan sehaluan Bergendang-dang-deng Bergendang-dang-deng
 
-![Bunga - Mereng](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYwyO6Y1Z4A22MV2U9ZTkZw23kc7xQIJGpO8bzjy8IQFjOmqUqUVYg6YieMUfP7EgkaWYknmDcb84MHmnI5a4bein1q4uQF9Ya5Wn6MCaBmTMQNs5DaZhttTUex84b-o0sCVpP0d_Wqp_uzl9UvpJ14Beaebuwvytu6pWNFQkip7pDx11-RaYBZWta7_3O/s1280/bunga-mereng.webp)

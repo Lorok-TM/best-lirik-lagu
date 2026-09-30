@@ -17,4 +17,3 @@ Demikian lirik 'Gundaling Kenangan' sebagaimana di atas.
 
 **Credit:** Judul : Gundaling Kenangan Voc : Krisna Br Bangun Cipt : Panca Sebayang Arr : Sandy Bangun
 
-![Gundaling Kenangan - Krisna Br Bangun](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglMADUj9yCiRICwEIhhRMqcmlti4Bkq3e-MKT580WNFHAAIQX1rPy7Rlai9hxIirowa7KR75CXzY8Q1qkGb-BUGAxQ3o-s487aBaa2i_BkJ-_oY-a7mEA7zn5Don398Db3q3lv_lAGG1zFi1hFYCqNUzvILITqWL_DfoVI0wVibYBr8gZBi6YpoCQ56DzE/s1280/gundaling-kenangan-krisna-br-bangun.webp)

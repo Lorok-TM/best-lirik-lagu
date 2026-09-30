@@ -13,4 +13,3 @@ categories:
 > 
 > Heee.. ee..ee..ee.. La..lala..lala..lala Lalala haaa..haa.. Lalala haaa..haa..
 
-![Ulfa Khaliqa - Asai Bak Punca](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2yEC0M_VJWY6DlRbX1fEelsRcRfJoBamVn-efdYseACfeRQUeqbr0lKnoV88Gvh738Ms4WNGRTSaHTLYsEmXzqLspYBhTrOwU1mopAZFc-Lz1EcSvDpLDLYJCDalaobqKOJy3A_Vv3FETVyHaxQuQF4u3uQJ1Mo1el-Pds4IDGlV6RTE2ZhiAkTmgLA/s320/ulfa-khaliqa-asai-bak-punca.webp)

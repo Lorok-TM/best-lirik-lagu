@@ -29,4 +29,3 @@ Demikian lirik 'Ollat Ni On Ma Na Parir' sebagaimana di atas.
 
 **Credit:** Judul : Ollat Ni On Ma Na Parir Voc : Seni Situmorang Cipt : Anggiat Simbolon Arr : Wiranis Production ( Chandra Naga )
 
-![Ollat Ni On Ma Na Parir - Seni Situmorang](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJfI71JzkIKybqPIOk6RAjWurKQsnzJiUMu47mKwmm5oZqpmLwPtfUhRYnuqcmEUhyJvRC6cJZUoIqh92aFRTEpqliP0sxog5kjIKX13HpCjpl0qBBwgIX-LCCVUjT-Qs-tfh_B17tCjg-wk6sQph49jSb7zN-zGf7KGRhygtXVYmgGpzpznPY9sEi029s/s1280/ollat-ni-on-ma-na-parir-seni-situmorang.webp)

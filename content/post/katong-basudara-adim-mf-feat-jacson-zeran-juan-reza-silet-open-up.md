@@ -31,4 +31,3 @@ Denai ko dari Minang Kini di tanah subarang Tong samua sudara Bakawan deng bakus
 
 Denai ko dari Minang Kini di tanah subarang Tong samua sudara Bakawan deng bakusayang Tong samua rasa Tong samua sama Katong ni banyak cerita
 
-![Katong Basudara - Adim MF Feat Jacson Zeran, Juan Reza & Silet Open Up](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRdAJVdmDpuw7vIn12c1IOyMNfhnK5AzXMQav0Uj8mx1vB45MdAwpOhleviTCuZVXmGjd1eDFnh8OQASRKI1Lj9WRz1ntCFihWyZsO3iReUp3Ebvmc2_GVDKE3nyq54rODeFshhXh14ZxsA9VDHTu7j_p4aJVY5utW5Y5lVZFbz2FnWTNQ3HN8lLpdu2WJ/s1280/katong-basudara-adim-mf-feat-jacson-zeran-juan-reza-silet-open-up.webp)

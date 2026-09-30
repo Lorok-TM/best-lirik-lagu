@@ -49,6 +49,5 @@ _Otik Alai Tonggi = Sedikit Tetapi Manis_
 > 
 > _Berubahlah pikirkan baik baik Bila hatiku sudah hambar Maka cintaku juga akan terasa pahit_
 
-![Duo Naimarata - Otik Alai Tonggi](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjF36D312hgUI4uWqfxkAMUzsmsCUFKexHsqUAJrvBn1o7kOOBqBvdpKBK2E2W-GUhmF64LmMx5Nkz1NdyPq1CyoOysCV0gWgpj9FJZIkkpgLHpsXrTIsxgYtDecAJtuvY36Y8kTuNKMmn5iCjT53dERnOcX2VxyNTcFHpLlVBwS9xtpIjVqB8RNw9-Xw/s800/duo-naimarata-otik-alai-tonggi.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Duo Naimarata - Otik Alai Tonggi. Silahkan bagikan juga ke teman anda.

@@ -23,4 +23,3 @@ Uloen rindu rindu lon keugata Manteng uloen sayang dek ee Han mungken lon tingga
 
 Tawo sayang tawo bak ulon nyoe sidro Sepot hate tan cahaya cinta gata Jinoe gata dinda mantong lon rindu
 
-![Mantong Lon Rindu - Mohderzam](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggQTn7M5_NYJ6FQdz0oVl9wmEDUj0ali79VKHbp-2w_Zu4SFcBuBzu_xdUCajgeqG9Jjw1KFBjhwrFc3rlhMK7c71taE-Zulnxa2iPbXtnHm-jCUUvi1Dey5blVRl3Yjf8Lw5mU6L7nt7jg3KN-9nEjqDTLaoAgNklGvS2q6_rpPahPriLlpsbXy-x4rMp/s1280/mantong-lon-rindu-mohderzam.webp)

@@ -29,4 +29,3 @@ Chorus : Mule tusing pelih anake ngorahang Adi bajang jiketeng.. Sekancan muani 
 
 Mule tusing pelih anake ngorahang Adi bajang jiketeng.. Sekancan muani ane ngedotin Adi pragat enyak.. Bajang kangkung.. mare ejang mecelempung..
 
-![Bajang Kangkung - Gus Jody](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUUIRCexPIzORTqwt7pxXmiSXW0WQxyWwrhtP5Zanfjzn2oeIj0jvalMoIeT6IbVXUOdvDrLf6V7i8vZOP0iykyJsFj26DcycJPMiqTPy8PUQs144UiWP3mIuXZgdr5EP-KAApq5tLGHTkANrx22hyphenhyphenT1IVX5X6-HKWXuet3nQE98L7X2Nfd1AdtAYpeEMf/s1280/bajang-kangkung-gus-jody.webp)

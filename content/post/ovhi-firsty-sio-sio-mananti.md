@@ -15,4 +15,3 @@ Alah di basuah juo Masih manitia aia matoko Alah bakusuak dado Samakin tasungkua
 
 Kama hati basanda Alah bapisah nyao jo badan Kasiah cinto jo uda Kini Bamuaro di puaso cinto
 
-![Ovhi Firsty - Sio Sio Mananti](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi25VAXMUzapv08TF9wmSQxMCspOb3ifZcOUtG9b26Zo5ygM0CgCDNHAWfS5Ipkuqg7jmrC-OsoKVXpbZAHYlkK9c7ChyphenhyphenJTPUgMsvSEDaYexMRp4mM5kMVll-ayPXnlhYylBqP34KLRDNNtdn_AAz9wm7_jSoMxnKBjN_XTmlmvf52RiE8XQzt3c62dqYeC/s480/ovhi-firsty-sio-sio-mananti.webp)

@@ -21,4 +21,3 @@ Demikian lirik 'Eling Elingo' sebagaimana di atas.
 
 **Credit:** Judul: Eling Eling O Voc : Trio Macan Cipt : Dicky Martin Arr : Dicky Martin & Rizky Igo
 
-![Eling Elingo - Trio Macan](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeLVeBu1TmQgGPn51iLdcZkQKKcEbeVENxchXCFxl-xtA1XHKayztnYfD37AarehXsH3gjtpE63cByiYqBO1shjFhFg9Wh9cbfVuq1dnloXmKBB5vuuUMIqGjJV7XQXHU2SF55vsSvwg-bVY7tJ6AM2Ng_M64tHzvafEjacWR-2pJxz1vfALjHb7hxFIzi/s1280/eling-elingo-trio-macan.webp)

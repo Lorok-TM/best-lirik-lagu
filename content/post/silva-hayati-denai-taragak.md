@@ -15,4 +15,3 @@ Walaupun hanyo denai nan taragak Dihati tuan saketek pun indak Denai tarimo sajo
 
 #Credits: Judul : Denai Taragak Voc : Silva Hayati Cipt : Erwin Agam Arr : Vandy Satria
 
-![Silva Hayati - Denai Taragak](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbIqUSVZ1hOhnh75uVWHaN-Sfqgcx87L1kipj2ddJnLn8G8hH1dUyrbwt8vCLWIxgVx4_LDrzfSRgn5pYQ1GksBthg9ScLOEMTgUtKtaaHV6A2F551vxBzLVffuCunqmQxJoHiaH0zHkjqUaixJFM1ruGc6-4di-rjUlIWi_5aSFV31Ov9-_jiKFjwPFid/s1280/silva-hayati-denai-taragak.webp)

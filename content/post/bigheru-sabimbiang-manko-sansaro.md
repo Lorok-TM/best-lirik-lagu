@@ -13,4 +13,3 @@ Reff : Taraso lai dihati ko Dibibia anggan ka bakato Cando kuciang nan kanai lac
 
 Tapaso batahankan juo Sagalo sakik nan taraso Untuang isuak dibaliak tangihko Sanang nan ka manampuah badan
 
-![Bigheru - Sabimbiang Manko Sansaro](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4mD4w96DOP_u2jDkvIJx8PNResMhTV8TeOAkEUD-4RMafMr-TxhvfIB-YGnWtvM-X0_B6nItuWybh4RKHtmOQizhgcZyx5m5PdNsF4FvWchchLtBtfj3AihYg_ZrQ6D90_low-FceGPdnR7kY26qA2pTALzyzDvFKgk9AvC32BKguthjn1vvVMRuXJhLB/s1280/bigheru-sabimbiang-manko-sansaro.webp)

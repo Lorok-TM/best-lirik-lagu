@@ -17,4 +17,3 @@ Jikok itu nan kini adiak takuikkan Denai kan dating manyiram bungo adiak Rindu l
 
 Takuik den uda Apo nan adiak takuikkan sayang
 
-![Big Heru - Takuik feat. Sri Fayola](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0tbhhX10aDppZW39Vjk9NbQPBiUdjYCJUyjhkoySe3jsNrFLfkgkOaHKBezqnp90XPYvX4SEHaO-Wqb806peUMedk_wmnfBdIZZCry4VXOTqRWHlpPTZAkIkOAqRIHsRwQZZDY8QJ6-cLtRkh8OmU2rr3BlRgTLbtdQUS1kxoan5EOMJQRnTRybXz-NDF/s480/big-heru-takuik-feat-sri-fayola.webp)

@@ -5,7 +5,6 @@ categories:
   - "timur"
 ---
 
-![Macepurba - Bukan Sa Lagi](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWK-g4jQeOHahwic9J2HJFTUofcOoNOe2R69mLwPmwxKxteNfjuoN77O2w4pz3dqR8XmV16jE-YyGdzRb45J5DmpmJH2_TwzEt3-EssRnP8w4bmoBjB1Gl0b7G0Ork1Fr8a5sy84Z0sts5h4BdkLu4UrPSGRJy3vsZ48aLIZP57WfM57N0difmaNmnuaDM/s1280/macepurba-bukan-sa-lagi.webp)
 
 Kalau saja dia Yang mampu untuk Buat ko lebih bahagia Dibandingkan saya Trapapa Sa kan coba relakan semua kisah Yang sudah tra mungkin Dipertahankan lagi
 

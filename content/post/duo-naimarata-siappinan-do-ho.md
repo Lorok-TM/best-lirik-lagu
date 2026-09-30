@@ -39,6 +39,5 @@ Title : Siappinan Do Ho Artist : Duo Naimarata Songwriter : Mangara T. Manik Lab
 > 
 > Malo mambuat roha dang ginjang roha Spesial do ho
 
-![Duo Naimarata - Siappinan Do Ho](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj86Z-pxJLxrdCOLLSCQFVXISRVRMC3JUQ5aM-HFJVV5ci67zptO256mfARMnrL2hwjDGP6oxlCy36TAW6mJjMcUCwAWbbrRBWYKnUJ0fu6AJ0RDBTm3kXpKNIcVjiolJ5Ut_D8D2Ur78njneP7OJP_CIwAAoihhr7b2X1B3BvDQ3HA8tu-PP7FEihDTASx/s800/duo-naimarata-siappinan-do-ho.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Duo Naimarata - Siappinan Do Ho. Silahkan bagikan juga ke teman anda.

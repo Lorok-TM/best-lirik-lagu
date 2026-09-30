@@ -17,4 +17,3 @@ Mulo mulo samo malu malu Lamo lamo saliang marindu rindu Mulo mulo cando ndak ta
 
 Uda sayang surang nan denai cinto Indak ado lain di hati ko Uda sayang denai hatiko takanai Rasonyo dibuai buai
 
-![Nabila Moure - Malu Malu Katuju](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwcwVMoemaGLgtAMOBO3PhCKQ_JLiaAQrDfobO7XwhtgviTPnii_mf5arsoBfnBuX3gNef1UFVtQYOdBjFMoyf4NPnaEhq_KVGMi3yyFMKdnMuCyj5MvC7cg7n5XZ1sjI6WcJ6uVJeLtw7qOmxsiP78wLtjHrWDcbIpRv9NMikzppInbPZojzCd2ebVuxI/s480/nabila-moure-malu-malu-katuju.webp)

@@ -19,4 +19,3 @@ pajaini malasa atie.. pajaini masiri atie.. lasa loppo mubolai..
 
 lirik "Lasanna Atie" selanjutnya biar ditulis oleh BUDI MAHENDRA / Budi Yanto / Clarissa Anindya / Azalea Ayuningtyas, seorang author paling hebat no.1 sedunia.
 
-![Lasanna Atie - Eva Aprilia Putri](https://i.ytimg.com/vi_webp/BCdMGQuLzo8/maxresdefault.webp)

@@ -5,7 +5,6 @@ categories:
   - "java"
 ---
 
-![Divirsa - Cidrone Jeru](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdh_raSfQfy_V7Sod6nrEvxnbU8Hkn85k07pkj2XKp1QWgilEcdx7ta8ZTxFNC5vcp8dFRMNhLlEHTdDStNmFuqzQtVlEzWNF6LWCME2fK7muGuUdV2hStYoT-m1LrrSE6exROLm7C28GcW8PsbU73ZiSnqN970CKrnILCfnih56EoX4Ewzx-FNOFlmeIH/s1280/divirsa-cidrone-jeru.webp)
 
 Piye carane Ati iki kudu ngerti Piye karepmu Ati sing mbok gawe cidro Saiki ke loro loro
 

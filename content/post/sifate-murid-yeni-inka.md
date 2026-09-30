@@ -27,4 +27,3 @@ Kang dihin iku husnudzone Marang guru tingkah lakune Kang dihin iku husnudzone M
 
 #Credits: Judul : Sifate Murid Voc : Yeni Yeni Inka Cipt : Kh. Rois Yahya Dahlan Arr : Dindy Kalizzaka
 
-![Sifate Murid - Yeni Inka](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVvQVU6uB5167-XxAM-XVEPn4cbiKzTjyhL6tCF7_PmXKdt4yrEdxgfN7CplWeR6d9lPBEnmdP5_XR-1DCVQG8WV9n9HCwmITpSq53CDL8yu17A9DVeQBG85sSlp5dQM0UZDcFCJPFHqGukN6qLPqgyBO60bSJuFs4UmUbCAI7OzR5k8mDzBYSIC4Eg2he/s480/sifate-murid-yeni-inka.webp)

@@ -15,4 +15,3 @@ Sinamot na dilehon mi ito tu au hasian Mambaen rohakku pe dang tarpikkir tu pamb
 
 Mar sumpah ma au ito di tao toba i Naso jadi muli au saleleng mangolu au
 
-![Serenata Voice - Sumpah Di Tao Toba](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4cxMKTONv1AvSTk5d1nwwP9G6uZLq9TSW7Qkl8Va-Tn1kHQoO4rHI-Tu1J-2GI94PmV3nYzVAuyvtLsH-RLswwSRauHvUMO7_fMU0muZTlL-QPiNg5OrspW5ATRuEMfFiJkVu9wwYqzMtkgLXHPeK1nZ_TZ8r6FHY318Rzea-fe9H6yh7eEaGG5GhmH00/s480/serenata-voice-sumpah-di-tao-toba.webp)

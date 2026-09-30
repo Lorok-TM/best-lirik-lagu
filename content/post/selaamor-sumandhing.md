@@ -5,7 +5,6 @@ categories:
   - "java"
 ---
 
-![Selaamor - Sumandhing](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBnptNqJEExbQOcew01bE68tDWXTGlB8XenqAKtM_lq6xljQWbDOeV-zoiTRFXhnZGK52FGhaZT6OrR7yjOqWRPTL7qpwokOEOW0AeTeVgYqt77pvoov_d2VZbYF9m2hSP1r2dgp-XC6XOhZJ2EDJKT2N9es4fRj_lXGdqaqAQpXoliN03btJw3qNMKr44/s1280/selaamor-sumandhing.webp)
 
 Sineksen mbulan Kekencar ing ratri Nggurit jagad bareng klawan si reki Sayang…
 

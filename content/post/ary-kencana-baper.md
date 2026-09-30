@@ -47,4 +47,3 @@ categories:
 
 Title : Baper Artist : Ary Kencana Songwriter : Ary Kencana Poduction : Kencana Pro
 
-![Ary Kencana - Baper](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimYIBp4RH8Qvp9ovK8U_YM_UBxFIR8NT4RPTGkaX77c_BE19DMUWLf6at6UYh1WZ67NWKi5v_9v8ZFtkI729XePFJat8AJMVy1Djl_HFBxNDZUmKx4bVbcZ2rp8IYLb_MJxLVyEOjFknbH3iV-fUN0X3mUWBY_XcdpXAU8Z009rSRb0dzwbAzujeW1nA/s320/ary-kencana-baper.webp)

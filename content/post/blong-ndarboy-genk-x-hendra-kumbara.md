@@ -21,4 +21,3 @@ Demikian lirik 'Blong' sebagaimana di atas.
 
 **Credit:** Judul : Blong Voc : Ndarboy Genk X Hendra Kumbara Cipt : Daru Jaya A.k.a Ndarboy Genk Arr : R\_signatur A.k.a Rijal Pamungkas
 
-![Blong - Ndarboy Genk X Hendra Kumbara](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEij9SB66Ur83I0x-ug_d7BoivNk2FhHyMkgIhclKEuMz4kW68ZUTfnS6UPaSNVAVg_6iXSro7BPTdKuqxqT4toURgpFMQz5ldNpz526ReSO5lVvU-uSBydrACqt1mm7Ne54PhYzPB2hXKLFJXQhyphenhyphenQSSrRVV-3bAN0AVYNKVO1CI_owxDC0LAmGQWheLJghM/s1280/blong-ndarboy-genk-x-hendra-kumbara.webp)

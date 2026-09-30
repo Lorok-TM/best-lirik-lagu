@@ -27,6 +27,5 @@ Title : Berbahagialah Artist : Tika Pagraky Songwriter : Tika Pagraky Category :
 > 
 > Rela meninggalkan kamu anak Itu masih salah satu bukti cintaku Berbahagialah Hoo oo Berbahagialah Ooo oo Berbahagialah
 
-![Tika Pagraky - Berbahagialah](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwuajesNyQidGcgBxAgrGkme7RHS_hh8s5YQE0hxjKeqB4uo62O-cjPygRBPfF_kiH14nLiSoEyXQLEIBG1nc-OZ5SqigYhsj5TPvnHwD0GsVFNa4Mc31AhIswTNLg66o2bqJGg-TRsfYqLdX0gd1R44hvVdGumtHXAYJjxr-jR19d3ryi2RgYFV9AdX9I/s320/tika-pagraky-berbahagialah.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Tika Pagraky - Berbahagialah. Silahkan bagikan juga ke teman anda.

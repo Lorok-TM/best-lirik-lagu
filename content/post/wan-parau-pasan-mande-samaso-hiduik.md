@@ -25,6 +25,5 @@ Title : Pasan Mande Samaso Hiduik Artist : Wan Parau Songwriter : Wan Parau Cate
 > 
 > Mande ampunkan kami Mande ampunkan kami
 
-![Wan Parau - Pasan Mande Samaso Hiduik](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgytLmxmPAuIag59Sshf_K0NUvVciVeSA6XIx9YYRdQcnI9YYb5lQy5DNf3CyEVWUd9mHgfDT88-CA1flRtUsq5aj_zw9MQbCXIn64qO77pHMxcZ8Wb68vZGdc5AO-N-npwAJV6bJ9BtygYM5DZoFi9vjQMYLDDvDsl1cjQl6ehuLxk-N75K14_fbaYIA/s800/wan-parau-pasan-mande-samaso-hiduik.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Wan Parau - Pasan Mande Samaso Hiduik. Silahkan bagikan juga ke teman anda.

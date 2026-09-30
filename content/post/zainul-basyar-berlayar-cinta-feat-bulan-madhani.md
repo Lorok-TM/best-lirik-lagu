@@ -27,4 +27,3 @@ Semoga kita diberi jalan Menuju pelabuhan asmara Terlindung dari marabahaya Bers
 
 Bersatu kita sepanjang masa Bersatu kita sepanjang masa
 
-![Zainul Basyar - Berlayar Cinta Feat Bulan Madhani](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3z3fi4N41szZJvuuzpltRz8c9CmztE8FvdoXzWX6zVXJoE75hLXAAZPQrfwGif2qxQsdD6Qcg7haNnazSwiRQgduV_0sH-r3MOYO9Kv9ICTTZxRtjN2HTlATbea6MeL88TB03AuPGDNMiEWDOdfsbpPd76l0nzMxEOgMgOQjEV9CBo0MPLjzF9PvzlNwG/s480/zainul-basyar-berlayar-cinta-feat-bulan-madhani.webp)

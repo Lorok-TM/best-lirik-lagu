@@ -27,6 +27,5 @@ Title : Adiak Nan Denai Cinto Artist : Rayola ft Daniel Maestro Songwriter : Rin
 > 
 > Bapaho nan jo bakaki Sarato nan jo lutuik Bausaho nan jo rasaki salagi kito masih hiduik
 
-![Rayola ft Daniel Maestro - Adiak Nan Denai Cinto](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_MGmN2eymnGlS6hV-1_ZNA8FGIfmhNVduivbq0J8zXV5JzmF53P00sCnQYm4kULSLgzbynBIxPvVEqLDWh3NnnQdXY8iOCNKUvg8cNzmGbU1GX59PgaQ5uolGxPAh7bihuiQDf_yJT7g0ly2QIExDvcKUxHhHm4oZIGTGBFhj6ensQnxa5_aUdMj0Uw/s800/rayola-ft-daniel-maestro-adiak-nan-denai-cinto.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Rayola ft Daniel Maestro - Adiak Nan Denai Cinto. Silahkan bagikan juga ke teman anda.

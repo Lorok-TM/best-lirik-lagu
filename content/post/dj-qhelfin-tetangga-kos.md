@@ -31,6 +31,5 @@ Title : Tetangga Kos Artist : Dj Qhelfin Songwriter : Dj Qhelfin Category : Lagu
 > 
 > Macam sa pu hati berbunga bunga Kalau lihat ko tebar pesona Jang ko malu malu sio ade nona Aduh tetangga kos tetangga idola
 
-![Dj Qhelfin - Tetangga Kos](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJ-bkQlAgUc6d4Uu5qUXVG39QUHgnrMh2fXwRZ53e_vUicgvTAffMoS7FQnX8yj16PLAG5bdWlwexuRBeU8zsJKTwnZBesB19iZiYCw7df0-iTBOG6IT1YnCDs2c9HxlUbBi9VWLmqu79L9VOxe53m6aW5NJQoBFHQlM3cnpiE639qXPG-uYJLB_gPYw/s800/dj-qhelfin-tetangga-kos.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Dj Qhelfin - Tetangga Kos. Silahkan bagikan juga ke teman anda.

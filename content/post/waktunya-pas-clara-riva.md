@@ -29,4 +29,3 @@ Coba dari dulu Ku pasti dengan dirimu Tapi belum tentu Ku menarik di matamu
 
 Bila kenal dari dulu Pasti kupilih dirimu
 
-![Waktunya Pas - Clara Riva](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhltgFUypwiEZyGJV1LAKiMwH-ksxt1mEFD91_jtl2oRqJ6oNo9boqpO3i-NDSc2iG9ysEDL0SgiVqBNS3SPhdjNqz5yJN2cciAnDY1JjZZRVC8eFUgHqt_thVCa-__1t50l0WnKjrNPM-yqG68fmOuGcMB3PjEnRIv4K9GhNEnvMLzEY4L_JjpQBpzD_R-/s480/waktunya-pas-clara-riva.webp)

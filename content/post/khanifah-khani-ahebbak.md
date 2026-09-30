@@ -68,4 +68,3 @@ categories:
 > 
 > **وَأَنَا نَذْرٍ عَلَيَّ أَبْقَى أَحِبَّكْ لَيْنِ يَوْمِ الدِّيْن** wa anaa nazriin ‘alayyabqaa ahibbik liini yaumiddiin _Dan aku bersumpah untuk selalu Mencintaimu sampai akhir hayatku_
 
-![Khanifah Khani - Ahebbak](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgr3rTs2wi0JtshoZcE_K9uTcmZymwv_zlg0BtGTZE13Hfm-LYXUjMnrfmK9IBvcnGeRvli59yEYRUM_AfNZk2h5f6md9krpa3JBbjZesDHvkz2LuBRrT7FkqjrEvEOrBoKpLUyIMnYK68BktQ-wEUdBSdkQ17XNeRdHJIrmiw5YNgUe-EyJUo0kct_Iw/s320/khanifah-khani-ahebbak.webp)

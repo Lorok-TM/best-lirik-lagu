@@ -5,7 +5,6 @@ categories:
   - "melayu"
 ---
 
-![Ipank - Salah Apa](https://raw.githubusercontent.com/Lorok-TM/2026-08/img/ipank-salah-apa.webp)
 
 Berakhir jua akhirnya Usai sudah tertuang semua Akankah engkau sisakan sedikit rasa bahagia Sungguh tega…
 

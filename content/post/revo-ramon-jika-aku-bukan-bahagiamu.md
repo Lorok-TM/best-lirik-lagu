@@ -13,4 +13,3 @@ Jika aku tak lagi menjadi bahagiamu Mengapa tak pergi dariku Sedih hati ini seti
 
 Andai cinta ini bukanlah yang kau cari Harusnya sudah engkau akhiri Bertahan di sini membuat sakit hati Kau hancurkan mimpiku dengan kebohonganmu
 
-![Revo Ramon - Jika Aku Bukan Bahagiamu](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnT9b2DFb3woOUAqBSYx1uQL5Bkhg0qY0Ww5mGZuuKMIQjEXtChguCYDg0PvaM5FOQXa0dQ64Alq2jzu3GAAbryvD4d8eAMsErCejrUO7RSW8C56xE0cUzjpnBCwU6W-ZWMTf1V69FJDWm_0ettYeJzO_KODN-CgFtvaM3LTI2QEK5gOcNQrKLmCA_qCCX/s480/revo-ramon-jika-aku-bukan-bahagiamu.webp)

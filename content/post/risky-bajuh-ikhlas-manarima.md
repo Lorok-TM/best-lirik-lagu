@@ -27,4 +27,3 @@ Sadang angat katahin tuh berjuang Tapi mbuhen imbaleh mu himang
 
 Mungkin jituh takdir tuhan je kuasa Aku dia ulih badaya Harus ikhlas manarima
 
-![Risky Bajuh - Ikhlas Manarima](https://i.ytimg.com/vi_webp/Gk1fw0O3jj4/maxresdefault.webp)

@@ -17,4 +17,3 @@ Demikian lirik 'Teh Poci' sebagaimana di atas.
 
 **Credit:** Judul : Teh Poci Voc : Silvy Kumalasari Cipt : Harris Semarang
 
-![Teh Poci - Silvy Kumalasari](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIWRTuEWAdiAeh6nEJUj2b777-wFtm864k7VbdHQmor1KGPDtM0G8-4g2KvICS7EhzW7OEyqs-uMnCrdnItaoZVQksU8VjpXZEF4veO-0_A1O4Qr47Wsae2ffEoj4QFmWGxrQge5IqhpEiXyhw2m5oVJ1GoOvLLKB7_yXCV-86jnT4YTh1YMI8NomBds7b/s1280/teh-poci-silvy-kumalasari.webp)

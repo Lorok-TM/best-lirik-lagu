@@ -32,4 +32,3 @@ categories:
 
 Title : Tak Sedalam Ini Artist : Fany Zee feat Aprilian Composer : Ajhay Pasma Arr : Decky Ryan Producer : Padang Musik
 
-![Fany Zee feat Aprilian - Tak Sedalam Ini](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSXf67zrIK8lFszGj31QcWawcwk40w-r71kfK4LyZzu3M_g08GBGP971jtBcCll5v2PacVO2bKP5UbymnDCi0bmrTIAYmOwAGg0G8YYAH7JWI6NUcm0sB3kViOHb39SrJTaqmD48dcTkqDzOrepy5cDQ1RfUoof8EYbngjwVIvmDY2GJIXo3lAQhqb5A/s1280/fany-zee-feat-aprilian-tak-sedalam-ini.webp)

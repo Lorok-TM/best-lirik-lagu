@@ -30,5 +30,3 @@ Puaskanlah hatimu untuk menyakiti Sampai bisa kau hargai
 Aku yang bertaruh dalam cinta Demi mahligai yang tro terbina Kamu yang tak ingin aku ada Hingga terus kau buat kecewa
 
 Puaskanlah hatimu untuk menyakiti Sampai bisa kau hargai
-
-![Arief - Bertaruh Dalam Cinta](https://i.ytimg.com/vi_webp/dC7LermTSA4/maxresdefault.webp)

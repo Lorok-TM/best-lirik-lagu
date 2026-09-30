@@ -27,4 +27,3 @@ Ku mohon mengertilah oh sayang Tak sanggup diriku mengatakan
 
 **Credit:** Judul : Cubalah Kau Mengerti Voc : Thomas Arya & Iqa Nizam Cipt : Emen
 
-![Cubalah Kau Mengerti - Thomas Arya Feat Iqa Nizam](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvkpO1H6qSmGtPttMIF7_o65rCTz2zQotzCUM7lZiOp6qi1w-rh4QWi2lfhgKprdvUpix0Q0ofDhZBC_5woT6VswE2b3LZPhs3QXfAgY28Y5EG602GxISybMpT_K8DoXOQfAWIjDmGdObd8o2E8LNgsPeoxtJnkH9JuvKkKXmZTPH1Il9oPfiN6emK4-6O/s480/cubalah-kau-mengerti-thomas-arya-feat-iqa-nizam.webp)

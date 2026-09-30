@@ -13,4 +13,3 @@ Reff. Dang arta hasangapon anakku diportibion Sada ni roha i holong ni roha i do
 
 Asa tung las roha nami Molo dung malos bungani tangan nami
 
-![Rezana Kalit - Poda](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_3sVvGkACOSPEI4kiZ297SdT0tg4SGbp6UwFr8ObpObjPdjWlGoC7XgLoMMNMyjggh5xNtNQAbJ9MIBuRXjvU7aZjM9tzhEsn5kyInbPtJpRjPTCbLCKZb9usfBSENLhuKTsNAhzuThis_CB4fmt6Q3JlxxLdN4joNwSHGLaZdmnspPnF0_0wIv-IlCNW/s480/rezana-kalit-poda.webp)

@@ -5,7 +5,6 @@ categories:
   - "minang"
 ---
 
-![Rana Safira - Lapeh Raso](https://raw.githubusercontent.com/Lorok-TM/2026-08/img/rana-safira-lapeh-raso.webp)
 
 Lagu "Lapeh Raso" yang diciptakan oleh Rayola dan dibawakan ulang oleh Rana Safira secara filosofis mengangkat realitas kerapuhan hubungan manusia akibat hilangnya rasa saling percaya. Secara harfiah, judul tersebut merepresentasikan kondisi ikatan emosional yang telah terlepas atau hambar akibat kecurigaan yang tidak berdasar, meskipun tidak ada kesalahan objektif atau pengkhianatan nyata yang dilakukan oleh pasangan. Latar belakang narasi dalam karya musik pop Minang ini menyoroti kepasrahan logis seorang individu yang memilih menyudahi hubungan daripada bertahan dalam situasi penuh tuduhan. Melalui lirik yang lugas, lagu ini menyampaikan pesan bahwa cinta tidak dapat berfungsi secara sepihak ketika landasan utama berupa kepercayaan telah runtuh, sehingga perpisahan menjadi konsekuensi final yang tidak terhindarkan demi menyembuhkan diri masing-masing dari penyesalan.
 

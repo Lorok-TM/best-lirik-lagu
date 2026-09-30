@@ -25,4 +25,3 @@ Lupakanlah semua yang pernah katong bicara Biarlah jadi kenangan Dangke banya la
 
 Dangke banya lai su sayang beta Walau hati ini terluka
 
-![Beta Orang Kasiang - Phaet Selanno](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinV1kuei0EJiX7P4vdj5-gTI8K6LHrPgN7IJYMEFJBoryk99cuNeI5T0T0uyO4WhuBdewFr5EVWnDf6Mi64oxzei9Y9YCqY09RqLlVqX89FA4iIj8nScPm9fKneqxWxrfGL3OcHVJiN6itiWZo42gzqdUX4aEp9v-S1XJtbMGA86zKoRNFDExUHW744pvu/s480/beta-orang-kasiang-phaet-selanno.webp)

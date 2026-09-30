@@ -13,4 +13,3 @@ Alah takucak nan sibadan diri Dek manangguangkan sakik dihati Dulu bajanji sahid
 
 Tarumuak hati dek manangguangkan Indak badayo sakujua badan Alah takicuah mangkonyo ka tau Padiah kini mambuek risau
 
-![Indah Delvia - Takicuah Mangko Ka Tau](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6gSqGmvecNLq2Z04pTnaMLhAgkpPeAwjf5siHj5prj5C64uAUhJ_SjBjyfGZsdFMYPnU-FfojmxvlPF63-zkR75kbagxDnL3DA8QjpLichYVqnig9gise1QuXIHHqonb9inGNvY8FizsX8TsP9jP-vXEyXz_6jQeO7TF3uCqHlVRw_naUqlKM6DJ62_9o/s480/indah-delvia-takicuah-mangko-ka-tau.webp)

@@ -21,4 +21,3 @@ Demikian lirik 'Cokop Dibudinah' sebagaimana di atas.
 
 **Credit:** Judul : Cokop Dibudinah Voc : Winda Nefira Cipt : Wasik Mse Arr : Widya Nada Studio
 
-![Cokop Dibudinah - Winda Nefira](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLoKVA_8Qq4pZyvrz54O-9v6fLS_pVOLhtofLvQucJ-FqwAhmxeT8LBxyQTJEfYAoX7_nwBcH6jqJy30jfaMaQzkaIBboYEk10vKG07TaWoxVqJaOk9ZykkzFaHchvphDuSimuODE7CdQmTTBDiVd3BZcoVj_t21Amn975fix1mcuVZeNolpw-z4f0BU95/s1280/cokop-dibudinah-winda-nefira.webp)

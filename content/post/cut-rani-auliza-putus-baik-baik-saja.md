@@ -15,4 +15,3 @@ Tak perlu kau pergi menghindar dariku Untuk menjauh Diriku pun tak mengapa Satu 
 
 Putus baik baik saja
 
-![Cut Rani Auliza - Putus Baik Baik Saja](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgM0VtCLUnDbDrqkxFdYuc41EekrK3KYCfDBVxBRW-ihPrOJkOjCjBXnjU9v5Wdhr3lUjlDjfbllDD6plhZt7fQmhYsZRekpnAKHfR6kQcB6gnoYgIfS8Ya4l-P8FksfJ-JT8g68PZ1BCyh0xacGd0m4e3QKrKWSdJe6tgvIEAIyiNcgAJS8Uw_wbe-92Cx/s480/cut-rani-auliza-putus-baik-baik-saja.webp)

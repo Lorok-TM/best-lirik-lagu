@@ -15,4 +15,3 @@ categories:
 > 
 > Böi mi taha le ama mi fadoro ina Möi ita taröi laedurugu Mi tawari zulö zulö migadegö fefu kabu Enaö alio tefalua walöwagu
 
-![M' Trio - Omasido Mangowalu](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis7C1lBGGXkJf_kmr5zLiZewvgxxo2yN-YWF9U9HB_mZD8-J8adymMqRrKawjjGze2wDNKFeb1rW9tWo0j0gNxpaQVaKY0_iMvRShCoj1E8BNb3Wo9IL1NY31DBz6D4GwfqgTMUJohPf5b1ILDuGn6yb_pR5vgHZXazOv_G0-j5827wwTz6_4DeoBV_w/s1280/m-trio-omasido-mangowalu.webp)

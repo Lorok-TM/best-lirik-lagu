@@ -5,7 +5,6 @@ categories:
   - "java"
 ---
 
-![Rujak Uleg - Rena Movies](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-G765makFoDBWBkmDpinuFU0aycC15oZPQ9uKN63AhEntCSgOBgkSFwwV2McCN_6wOBIKt_olIbGa36aP6gk_Ko6h3fIfRG4FF9sV7AOk7-qwze0rDAkkuIrmagCumuGZdWI-_eilg9qQQTH2LqTXZuoHZ2XwRQqBaJ3E2s3mAlAAKSVtnYr4ewuT7tG6/s1280/rujak-uleg-rena-movies.webp)
 
 Rujak uleg kroso sepet kakean cengkir Atine judeg dhadhane sesek kakean mikir Ngalam ndonyo warno warno kahanane, jarene Mbiyen kondho nalikane perang gedhe Bondho nyowo dilabohke negarane, jarene Mugo mugo gek enggalo bubar wae
 

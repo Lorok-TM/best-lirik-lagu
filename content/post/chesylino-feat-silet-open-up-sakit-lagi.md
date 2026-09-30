@@ -33,4 +33,3 @@ Chorus : Su terlalu lama sa menanti.. Tunggu ko yang tra pulang-pulang.. Ko di m
 
 Haruskah sakit ini.. Timpa sa berulang-ulang.. Sa baru sembuh dari yang kemarin.. Masa ko kasi sa ni sakit lagi..
 
-![Chesylino Feat. Silet Open Up - Sakit Lagi](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYpiI5fPBC0paMp0qjXdSgTIVP_xrGLzFZo1Y7uQgwnhMEH5_8s9ZCiPCbdD_WtxNr9n1kCevczKuRgZArkB7tDvWaaG4DfBuPNJyEH1g-46WvL5kJk_1TrhLdiorvQ_dCA2qVmSitLECJJ74PdLGgkr_I1t4GNplv3FNgDYZDxrWdOovpj9exRBWWx2El/s1280/chesylino-feat-silet-open-up-sakit-lagi.webp)

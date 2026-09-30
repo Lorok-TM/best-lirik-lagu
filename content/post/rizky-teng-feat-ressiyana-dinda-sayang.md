@@ -23,4 +23,3 @@ Oh sayang tolonglah percaya abang Abang ini sudah betul betul cinta Abang harap 
 
 Dinda akan selalu percaya abangku sayang Hati dan cinta dinda hanya untuk abang
 
-![Rizky Teng feat. Ressiyana - Dinda Sayang](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgH3h0kFLgudWQ0q_gLHUtUYTG4FfxCCiz3DFfpoApk0E1UF0WIPwFVvvG20bvpzcrmAqZrkjnNQ8ZbaoFNrUybuB-mVmDAUIRsFcbR5yGzupZVGiwBDwEy71Jx1kLBl6Oa2G5hlFUXUmJkQLZfOWXlR5otRnWnM3_BcYP3lRaQnrHzIq-UqCfG1TVlArca/s480/rizky-teng-feat-ressiyana-dinda-sayang.webp)

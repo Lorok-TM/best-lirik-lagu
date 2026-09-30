@@ -25,6 +25,4 @@ Title : Berlayar Tak Bertujuan Artist : Aprilian ft Putri Livana Songwriter : Am
 > 
 > Berikan ku waktu tuk merubah semua Kesalahan ku Selamat tinggal kasih izinkan ku pergi Dari sisimu
 
-![Aprilian Feat Putri Livana - Berlayar Tak Bertujuan](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlWOtis26LhYTx5XA9XRQsR3R54fEyFQKSICTNH5q7UWGgPqLPVZb_lY21tkLk0DL6Hajd_1HMSOX3LrZZUDywzvsykxNDi9r4eAuzGWK-COOQh93tElLaNSnmxGr_gtzBfBuQtrhugVxyor4Q26sAUgBVbGihukezwIXu2bkzDjYLklcsGc1_KQsVDw/s800/aprilian-feat-putri-livana-berlayar-tak-bertujuan.webp)
-
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Aprilian Feat Putri Livana - Berlayar Tak Bertujuan. Silahkan bagikan juga ke teman anda.

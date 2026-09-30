@@ -23,4 +23,3 @@ Bakato denai.. ka uda.. Tando sayang.. si badan diri..
 
 Kini bagalak manih lah uda.. Nak sanang raso di hati.. Kini bagalak manih lah uda.. Nak sanang raso di hati..
 
-![Suci Yolanda - Kamarilah Uda Sayang](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDWf_I7gdrjRojMp5dZB69wGThJUcN3gdGrrsSJnHJISs-Ff0YMRR8nlmJw11bcR_Pk7DocOYDusYLXGE0VbSiJrWF0MTnklkWcTt8NcoxtjqzQfAuCir19NG2H7jYV6QjRpbmc_Xo7QdXw6_OraWdeXhmEua4351RvPDIdlsGfYX2kV6ejE7NjY7vnROd/s1280/suci-yolanda-kamarilah-uda-sayang.webp)

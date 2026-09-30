@@ -23,4 +23,3 @@ Jikok kabacinto jo nan lain Sudah-sudahi lah jo diri denai Usahlah babuek Sakand
 
 Sadangnyo arek kasiah sayang Manga kok kini uda putuihkan Sakik indang tabilang Padiahnyo luko kama ka dibaok
 
-![Ndak Tapakai Elok Pulangkan - Anggrek](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0DPHnygUm9EiwHe0EbiSx41yWXHcyk3wc8NqqZ7fvzlntVeD3f6lzpThdHqoEFHiQHFeOpEk_GLLyLvQd6GyZAwVPUh1bdm8OmfUbUrUNst5yJ_rlbGZwLCwT0LlvCwrcuVQ7H0P5YXMH5vJCoSmWhJnxEubiB-6hOwyQlSgPs1RYOh7N5epXpILpsxnQ/s480/ndak-tapakai-elok-pulangkan-anggrek.webp)

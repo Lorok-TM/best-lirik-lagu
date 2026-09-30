@@ -17,4 +17,3 @@ Aku yang pantas memiliki hatimu Bukanlah dirinya yang dihatimu Lihatlah diriku b
 
 Selama ini ku memendam kepedihan Melihat pelukmu bersama dirinya Biarku sendiri merajut luka ini Melupakan semua angan anganku Bersamamu
 
-![Ziell Ferdian - Hubungan Terlarang](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjN373SuUvNl4mWMaHC-00VXabJ5Fav0DU0AhSpJxBc5bYakA_LHxEZzKXlSvdCZGVCFG-UXuvbFbF8HsvfXbi8d09EbWdzs3tt8oyo4ltaJPDGsFcdtbVCqH6RYagq4QZ52gnNX9YHX-J4MzGmMP5wcndRNRbQKuhrF_-tcN7wo_kBZ7w1aMBcrLgumtj-/s480/ziell-ferdian-hubungan-terlarang.webp)

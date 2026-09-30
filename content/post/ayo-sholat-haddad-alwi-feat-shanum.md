@@ -21,4 +21,3 @@ Chorus : Subuh, Zhuhur, Ashar, Maghrib, Isya.. Waktu-waktu sholat yang wajib.. S
 
 Subuh, Zhuhur, Ashar, Maghrib, Isya.. Waktu-waktu sholat yang wajib.. Subuh, Zhuhur, Ashar, Maghrib, Isya.. Ayo teman jangan tinggalkan..
 
-![Ayo Sholat - Haddad Alwi Feat Shanum](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5JCOSwlVpcGW46wwBQOA5VK_uxKB0kIfBKv0DMmSsM1Q2wCDnUGTNKNlTk8UpCxi81c5fyXfTdgsQGlkhMX2bUlDaW3v-TxokcCW2ZU3lLj1Q47Iw2b2Oq7onBAdEbtmElgLeOPHWwTYojOQCYFeSdSjDmPW8emEqFqiD6RltkmRjbY6nmDWDH76OCyqt/s1280/ayo-sholat-haddad-alwi-feat-shanum.webp)

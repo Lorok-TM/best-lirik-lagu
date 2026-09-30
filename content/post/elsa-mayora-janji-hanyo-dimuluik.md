@@ -23,6 +23,5 @@ Title : Janji Hanyo Dimuluik Artist : Elsa Mayora Songwriter : Rozac Tanjung Cat
 > 
 > Baa bana lah musabab nyo Sahinggo janji uda duto i Jikok lah anggan ka denai ko Elok katokan Usah lah batingkah main balakang Main balakang
 
-![Elsa Mayora - Janji Hanyo Dimuluik](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSVfcvzRz-QJ6kYc4jNiNkz64_G9ggdBlNPAWhXewdgNg8AZZ4oPt5f99CIHIGPYgzee9RpX1uWQWR_w-888__ORjN8wRy6PHXu28qnGvhxg0XkiRQg2gACkp2-3eCYypbG9iWtUAg_oZ9mvxC0t8hwWOTZdXEQz9bsHfQZ9NfXU8ljSjQirfY2UkMfA/s800/elsa-mayora-janji-hanyo-dimuluik.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Elsa Mayora - Janji Hanyo Dimuluik. Silahkan bagikan juga ke teman anda.

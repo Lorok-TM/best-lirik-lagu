@@ -27,4 +27,3 @@ Demikian lirik 'Dengar Permohonan Tobatku' sebagaimana di atas.
 
 **Credit:** Judul : Dengar Permohonan Tobatku Voc : Putri Siagian Cipt : Kenny Batmomolin
 
-![Dengar Permohonan Tobatku - Putri Siagian](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUkMt_7g1w8_jmdC5lw4KDXxvVU4ETksJczRydS65E8NsUcLglrO2JjFpirVhcggpe_zLOT_e8bzPCE1KR_iyacdmCtzu7I1sCJM2RUSZJg4ZN6BpnWHqomeVQ8-67nr5jPaquqbhRrHWdRPKqzuKSAuA03jiuhdOlKwTxGMQc9Z6Cv3zADiLK2x36-u1r/s1280/dengar-permohonan-tobatku-putri-siagian.webp)

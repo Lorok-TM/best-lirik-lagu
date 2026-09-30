@@ -29,4 +29,3 @@ Tu langit i tu langit i Alai soada ho soada ho Ho soada martinangi Soada martina
 
 #Credits: Judul : Tu Langit I Voc : Yeni Sinaga Cipt : Osen Hutasoit Arr : Fecilia Chesta (Proxima Studio)
 
-![Yeni Sinaga - Tu Langit I](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkVQUi8-Z2hdhLXVOmE0j5lxwK1hk4og_YW3RC-B3Cy2tNxPiX2IiEuloY5AfArUxJ8WMMt3-H6VM3yMwD2GncR_yLAt12KY5hzZl7XfGZkVOLTDap-3m7p5I1dDDjpAnV8OiFKNJSdUZLQ_7PLbT-XG9qOJEQy5l9mRA-z0__krbETkAqfbNq_oSIKAOR/s1280/yeni-sinaga-tu-langit-i.webp)

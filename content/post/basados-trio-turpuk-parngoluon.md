@@ -13,4 +13,3 @@ Marsiaminaminan inang songon lampak ni gaol Marsitungkoltungkolan hasian songon 
 
 Molo tung na pandokkon ni bagian Sude na i na ingkon sijaloon Molo tung songoni gurat ni tangan Mauliate ma tadok tu Tuhan i
 
-![Basados Trio - Turpuk Parngoluon](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4Sa5H39MtVRBkWf0oQfMj6YwB2_NtgsmdfR176W75roF8qt-qBR21cMFbZZRAZSirpkIyiAJ0FiwHgucDHwAC4sfOOZLtsm9ndF0T5_RvdrJZ16uP1x4QtWEVXFwe-e8iWuK8uSNOpofQZ0CENpyUyD-v2bbz0PNkqBpnL30ZkrdhaProYS5RadyWpYhW/s480/basados-trio-turpuk-parngoluon.webp)

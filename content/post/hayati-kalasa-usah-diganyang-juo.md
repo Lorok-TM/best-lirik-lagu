@@ -25,6 +25,5 @@ Title : Usah Diganyang Juo Artist : Hayati Kalasa Songwriter : Ibel Santano Cate
 > 
 > Alah denai mancubo indak tatahan Dek talampau ibo raso hati denai ko Dek talampau ibo raso hati denai ko
 
-![Hayati Kalasa - Usah Diganyang Juo](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmcodG6p8xDAAk2lmzKWzRjOlRyiPp5zRFx71AfpyptD1BgJy0LBGtp_wF9hsJ-7bSL7aJsftv7jiNouShErlK2646CRryJ6t_CbqIrixHV1p0zCm9IJr9wmMlkxMgWgK_mFFPxyeGVbzqbITxkYnfFEw4v_ZA0A-AppACp_k-M7RcZthje_mzjbJ3Iw/s800/hayati-kalasa-usah-diganyang-juo.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Hayati Kalasa - Usah Diganyang Juo. Silahkan bagikan juga ke teman anda.

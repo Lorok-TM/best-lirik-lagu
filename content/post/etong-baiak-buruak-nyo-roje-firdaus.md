@@ -27,4 +27,3 @@ Demikian lirik 'Etong Baiak Buruak Nyo' sebagaimana di atas.
 
 **Credit:** Judul : Etong Baiak Buruak Nyo Voc : Roje Firdaus Cipt : Erwin Agam Arr : Vandy Satria
 
-![Etong Baiak Buruak Nyo - Roje Firdaus](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicjjqPYzjg_M30M_4MynXLCtosDCKI2pwmWT5L4sgteCIKYQOBzIKnow82Gx7XuyfkL7kJMZMKIP2np83n5Mixy1lGAf79ScXDncnHLjkEFR2gOmVWWNC4kklBUIY01pQofHyMTFZOJqfYvLcyAtwQMICzABZN-qXUk5F3Y7cccqauInD5VrsKR36nargk/s1280/etong-baiak-buruak-nyo-roje-firdaus.webp)

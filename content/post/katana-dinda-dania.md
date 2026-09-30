@@ -31,4 +31,3 @@ Chorus : Biarkanlah api membara Biar kau merasa.. Jiwa berdendam yang terpendam.
 
 Kau rasa kau maharaja Atas singgahsana.. Usahlah kau rasa selesa.. Tunggu ku balas Bagai ku libas katana..
 
-![Katana - Dinda Dania](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAoFfbnA4eSLNBM4_LooGMUpYh6iaVDObKnRnzNRlRr5qFj64ikaYS1zljRM3Z5P1n2NG4bCkgOFaRxHdqKbqX2JMjfd58P7SpvSz4Fhzpyt9UjpFmUC3WXtqEmVmnZ1DWt3bvggoM_F-q6p4kWt0xGpBWhfvfGnBDYPtLsxkTm6QV-dbIGpNYPXwHzn1F/s1280/katana-dinda-dania.webp)

@@ -23,4 +23,3 @@ Ku cuba menjadi yang terbaik Namun diriku ini tak sempurna Selama ini ku berusah
 
 Ku sedar ku bukan yang terbaik Kerna itu ku harap kau teguri Namun mengapa engkau menjauhi dan memburukkanku Sungguh aku sedia Menerima segala teguranmu dan ku kan berubah ku merayu maafkanku
 
-![image](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiv9FYaUKt5LBVkluBULWk_2ezS9FqH2eiz5LSGgJYsHYFvBHTVsDNvl-ZlvF_l-k2xi91mVKjRzK8Pja9lm1_-Opn7Os9h8JLt0nKIwbjk8G8YMu8J3YVkQg4qOhOiHdQ-My-ESrFvcW5aKHg25-PwhvoBu-M5zF_SCmeXJOMXubKAc0K9tY_ujLVbyBBh/s800/one-path-yang-terbaik-heres-your-perfect.webp)

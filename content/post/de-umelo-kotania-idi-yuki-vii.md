@@ -5,7 +5,6 @@ categories:
   - "bugis"
 ---
 
-![De Umelo Kotania Idi - Yuki Vii](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvNb_arR_tIfM8AoCZD3bkAkejKm09SxOzXVK3v5yK-4oo2-wCdhOKUKHbBy6FEpMImKbCCyR9Y5zE0DyNmXmlkrrs8LzeWpT4ZquMHBgCyq4w-EnC7-gyeOwSqS80jqJd-ep-t6bqrFDVrWjnwGtKnpHsxmMK24DWcdUrwr-Oc4sFkQVEMFOAvWzZqHEA/s1280/de-umelo-kotania-idi-yuki-vii.webp)
 
 Riwettuku ro mappoji Purani usio masse’ janciku ri puangnge De’na umelo mappoji Ko tania idi
 

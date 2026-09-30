@@ -5,7 +5,6 @@ categories:
   - "melayu"
 ---
 
-![Elsa Pitaloka - Lebih Dari Teman Biasa](https://raw.githubusercontent.com/Lorok-TM/2026-08/img/elsa-pitaloka-lebih-dari-teman-biasa.webp)
 
 Bukan Bukan kerana rupa Bukan kerana harta Diriku tiada rasa cinta
 

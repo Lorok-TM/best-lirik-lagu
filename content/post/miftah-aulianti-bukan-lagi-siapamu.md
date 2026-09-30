@@ -25,6 +25,5 @@ Title : Bukan Lagi Siapamu Artist : Miftah Aulianti Songwriter : Wanda Mahardika
 > 
 > Jikalau sudahi rindu Untuk meninggalkan aku selamanya Tolong katakan padaku agar ku ingat selalu Diriku ini bukan lagi siapamu Diriku ini bukan lagi siapamu
 
-![Miftah Aulianti - Bukan Lagi Siapamu](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcPEozyCbDiH6sungEBgyTYGSwgrIb5smMe6RAy7ZCmp0nIRqDtrkJpgVm-9_7CvJfadjXmOU7A5Lm3UhF5DsiAZPVWhpA8TcT6EiZdrSvSjILtHFrfAq_17GwTw3sj9pIk87DZ8eb8PJYg2aCbepdZsLPbHvoYyVON2qL-iG2ztIOR4A210EAgjcn6g/s800/miftah-aulianti-bukan-lagi-siapamu.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Miftah Aulianti - Bukan Lagi Siapamu. Silahkan bagikan juga ke teman anda.

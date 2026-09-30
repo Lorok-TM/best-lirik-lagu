@@ -19,4 +19,3 @@ Bia den tutuik mato Mangunci pandangaran Bia ndak manyeso Padiahnyo sakik kahila
 
 Lah abih dayo diri mampatahankan Lah cukuik rasonyo latiah dek mampajuangkan Pueh raso hati denai mangalah Cinto nan hanyo sabateh singgah Pueh raso hati denai mangalah Cinto nan hanyo sabateh singgah
 
-![Pinki Prananda - Sabateh Singgah](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyovx446xPEOmWcEeCoTRwAvXnQj8t_nOSZHTdzJegx_BajSc6uvW5wd88oHzjnCeHwnjXirS32gwaeIl5Dh01P7QF9expTQWb00LM3rzi_acIABwhzzqBtY36qDUreaO-IsmGD81G89mCjD3uF-9oj8BzN4AVw6DNu7WafG6i5BU0Bpe3bwDD835TmDLg/s480/pinki-prananda-sabateh-singgah.webp)

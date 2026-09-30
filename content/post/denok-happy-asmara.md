@@ -5,7 +5,6 @@ categories:
   - "dangdut"
 ---
 
-![Denok - Happy Asmara](https://raw.githubusercontent.com/Lorok-TM/2026-08/img/denok-happy-asmara.webp)
 
 Sayangku sing ayu dewe Puron nopo bakal tak usahakke Ibarate sak isi bumi nggo koe
 

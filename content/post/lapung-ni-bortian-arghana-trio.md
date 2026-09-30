@@ -25,4 +25,3 @@ Au ma hape lapung ni bortianmi Ala bagianhi naso gabe gabean i Lam ganda lungunh
 
 Lam ganda lungunhi mida tubu ni anggiki Mangompa baringinmi
 
-![Lapung Ni Bortian - Arghana Trio](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhMcY0m-XpYNCcaeFa6-dZGxh8wKfHibRo_3dvsGE1VvBJSSv-TaACiXFnr0B-Y-FriOmLad7z654Ekmd3jf1clSr3Wlb2Pm07EoKQpHukqqH-_JJspOyIUcCqrFEb2b78KH2qhOk6OlJbJ4Cxt9QuVU_YY7uTz0tl804dP83diNHllekeEfgsU69HlJjf/s1280/lapung-ni-bortian-arghana-trio.webp)

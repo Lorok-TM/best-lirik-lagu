@@ -21,4 +21,3 @@ Den jambo raso ka sampai Den raiah raso ka tabao Dek cinto mangkonyo sansai Dek 
 
 Den jambo raso ka sampai Den raiah raso ka tabao Dek cinto mangkonyo sansai Dek kasiah sabateh harato
 
-![Eno Viola - Raso Kasampai](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvVlvPT449wJRbkTqpJHZNzkGr4mHa3OXMF93Q3lIvl7MLdImNDkYkjZ5FN2f6tuUM06_XGejQdeKJ6rDRyooGo_SZsTGIQcnjGjkHHGtTCu1Rhh-6jGalxxhosVjWBuUxEidn3K2ylo1hJ7faDxgfDGxIipG5zJqmPahdLJ0E6FBP0v5eSaYPoEW06epk/s1280/eno-viola-raso-kasampai.webp)

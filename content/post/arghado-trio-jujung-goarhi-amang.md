@@ -18,5 +18,3 @@ Bereng au na puas pais on Na lea binaen ni pogos i Jujung goarhi amang Jujung go
 Paima so suda gogoki Sai sukkaon ku do Pasikkolahon ho ale amang Molo hasea ho muse Anggiat boe ho pangunsandean ki
 
 Hutaonton do marhoi hoi Tung marsali nang manggade pe hu ae Asa sahat pinarsitta mi Tung boi hasea ho muse
-
-![Arghado Trio - Jujung Goarhi Amang](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOI8_XhChZgPlv7v9YyPFlNU1FwHc8EIGaJCY6BOelRdsYa2Ev4rzzoZ37QQ2bJT-wkgZq7Y80ThRUZn0Hv2WHQ8C5XC5S1JnqLG7xAHt_rbR24_3XHJjwnHzuwTP71XRiZPBZ9t7YwMGMByqnUVljmB4ox4k6KvQ01GN-aeJGgo8WSSXXaBrpqi1PEstN/s480/arghado-trio-jujung-goarhi-amang.webp)

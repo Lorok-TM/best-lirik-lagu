@@ -39,6 +39,5 @@ Title : Sirnalah Sudah Artist : Daniel Folala Zalukhu Songwriter : Daniel Folala
 > 
 > Ku tunggu tunggu sabar ku tunggu Hingga memutih rambut ini Ku tunggu tunggu sabar ku tunggu Hingga memutih rambut ini
 
-![Daniel Folala Zalukhu - Sirnalah Sudah](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWlK9thqGDsyMG_4jxQEaJcmAAe-umf19zW0gNY4vB0DeW0M5Xkvua6KH4exLqUi1f6Se4hn5YN5l6BE4dIZ_fDgPBI3GzgW8DvEkQ0DxRGVpCWHSdWIkAOF9kCpYCnAeIqZqnO88fbMT2BvWNPWO-s9ku9VGq5EhKFWevYVFgGcR1xwrWsreeOzHaJw/s800/daniel-folala-zalukhu-sirnalah-sudah.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Daniel Folala Zalukhu - Sirnalah Sudah. Silahkan bagikan juga ke teman anda.

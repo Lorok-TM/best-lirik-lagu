@@ -37,6 +37,5 @@ Title : Di Hujung Mimpi Artist : Black Songwriter : Hanis Rafi, Firdaus Rahmat, 
 > 
 > Andainya kau bersembunyi Akan tetap ku jejaki Kerana nyawamu hidupkan aku Kita kan bertemu di hujung mimpi
 
-![Black - Di Hujung Mimpi](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBUtQ9xT-lbZcDxeFHfgSRHdLmAr19-REtS9632qxa35RxmU4DaWVpPYZ-GIz7gVdu9YOM69Cg5FuPr7ub6mGGj4kkA3na_39XmYWFGR8fkgWYB2NjhEdyiKCW76b4kLQ5T9YXNpj992pA6nQp-4IBvigQfJzuvCpaqZPtccL96gbRqIlzHusLzNtGBSFP/s800/black-di-hujung-mimpi.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Black - Di Hujung Mimpi. Silahkan bagikan juga ke teman anda.

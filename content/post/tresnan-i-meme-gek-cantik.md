@@ -19,4 +19,3 @@ Demikian lirik 'Tresnan I Meme' sebagaimana di atas.
 
 **Credit:** Judul : Tresnan I Meme Voc : Gek Cantik Cipt : Dek Artha Arr : Dek Artha
 
-![Tresnan I Meme - Gek Cantik](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvafup_6f4Fs9ZfQk3_wuC1JYNCD2FMOuA-JO4h-CaqDCYtn_gqMT2u8VsVphTG61tWeNLmZFb967Ct03HdXbJd6JGLjcDzBATuqThfY46h9aja619yWCgTUMDD9vn5H-7_qfGSXP64hbv_Zv-kl-5tR5Nqm3taB1m05yCC3CnUAUd7iLMS5-MjpoC-1X_/s1280/tresnan-i-meme-gek-cantik.webp)

@@ -11,4 +11,3 @@ sayang kuatkan hatiku cinta ini terlalu sulit tak mudah tuk kita lalui aku mohon
 
 sayang izinkan diriku hargai cinta yang kumiliki lirik selanjutnya biar ditulis oleh Budi Mahendra / Budi Yanto / Clarissa Anindya / Azalea Ayuningtyas, seorang author paling hebat no.1 sedunia.
 
-![Cut Rani Auliza - Cinta Aku Jaga](https://i.ytimg.com/vi_webp/c6nEr6in3Tg/maxresdefault.webp)

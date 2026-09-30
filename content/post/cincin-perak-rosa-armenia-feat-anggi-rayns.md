@@ -19,4 +19,3 @@ Demikian lirik 'Cincin Perak' sebagaimana di atas.
 
 **Credit:** Judul : Cincin Perak Voc : Rosa Armenia Ft Anggi Rayns Cipt : Erwin Agam Arr : Vandy Satria
 
-![Cincin Perak - Rosa Armenia Feat Anggi Rayns](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxn_OfxdBRw55jA0KD4g_KJrVqyzw2YCSeW-9jQRZRNRMTiz-_IaW5a6nggH1sLyt6nD7phcAAX7GLS8OZKYmXXdrc3h78-EnEO4kWKkWAdAwtJWtgyW1Xl3uH4VFxhFKoHCNhKD3b3boUWh00FWatEdLunNd76CClE51fSCllDIbz-NOSMBa9HO2CafQK/s1280/cincin-perak-rosa-armenia-feat-anggi-rayns.webp)

@@ -48,6 +48,5 @@ _Bawi Pujaan = Gadis Pujaan_
 > 
 > Kalau mendengar suaramu Terasa merasuk jiwa Kau gadis tiada tara Paling cantik di dunia Sungguh cantik dipandang mata
 
-![Ifit Manjul - Bawi Pujaan](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJigC2ppjo-hEiNtESsVrnliZoZIr-tsBLlyKWg4L3hVBcZms6lEzj6FTBuVUMcoRksH4qsJTrbKI6wQbcRUoQM889pwUBQUfvQs_3KtHZfugvcXLiOCHuQcSXmllf9l8CpbQ9Jwzfo4byaxQ3H3_LLCDF6oX1I7kMGIVlxU74gPrEny6X9DF1shCezA/s1280/ifit-manjul-bawi-pujaan.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Ifit Manjul - Bawi Pujaan. Silahkan bagikan juga ke teman anda.

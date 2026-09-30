@@ -29,6 +29,5 @@ Title : Benci Kusangka Sayang Artist : Mohderzam Songwriter : Faisal Asahan Labe
 > 
 > Biar hujan datang berturun Takkan tawar rasa lautan cinta Ku khayalkan kasihmu memekakkan rasa Kiranya gerimismu tawarkan lautan
 
-![Mohderzam - Benci Kusangka Sayang](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvbZfsdFSNGSbsLs0zmgY76CwiV_4kVuJjxyembPZENZES4dFMCRAYqid2VHnU5-Mjd-xhspcnAZTluN6B5Xkli3jrkibxWACIWLJUWwoyi6OBODojqbEIXQt8UHDjy5FXqugVMK-rQEFK4_RV462c2ToVPIgpJfqDv6VN1h4Zh7Qls0K85gw-czt2XA/s800/mohderzam-benci-kusangka-sayang.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Mohderzam - Benci Kusangka Sayang. Silahkan bagikan juga ke teman anda.

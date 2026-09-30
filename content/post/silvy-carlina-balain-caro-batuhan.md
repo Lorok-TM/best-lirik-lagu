@@ -5,7 +5,6 @@ categories:
   - "minang"
 ---
 
-![Silvy Carlina - Balain Caro Batuhan](https://raw.githubusercontent.com/Lorok-TM/2026-08/img/silvy-carlina-balain-caro-batuhan.webp)
 
 Karya musik Pop Minang berjudul "Balain Caro Batuhan" yang dinyanyikan oleh Silvy Carlina dan diciptakan oleh Rozac Tanjung mengangkat latar belakang cerita tentang keretakan hubungan akibat perbedaan cara pandang serta prinsip hidup yang mendasar (balain caro) dalam menjalani komitmen (batuhan atau bersandar/berpegang teguh). Secara filosofis, narasi lagu ini merefleksikan realitas sosial mengenai konflik internal individu ketika komitmen yang semula dibangun di atas janji bersama harus berbenturan dengan kenyataan subjektif yang tidak lagi sejalan. Melalui penjiwaan vokal yang lugas, karya ini menyoroti penerimaan atas hilangnya keselarasan visi tanpa terjebak dalam melodrama eksesif, melainkan menyajikan kontemplasi objektif mengenai batas ketahanan sebuah relasi manusia.
 

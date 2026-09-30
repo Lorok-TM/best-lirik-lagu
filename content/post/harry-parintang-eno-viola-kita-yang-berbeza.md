@@ -27,6 +27,5 @@ Title : Kita Yang Berbeza Artist : Harry Parintang ft Eno Viola Songwriter : Har
 > 
 > Telah aku cuba untuk bertahan Semakin tersiksa rasa dijiwaku Kerna pedih ini sungguh teramat dalam Tak mampu ku berjanji dalam kelukaan Kerna pedih ini sungguh teramat dalam Tak mampu ku berjanji dalam kelukaan
 
-![Harry Parintang & Eno Viola - Kita Yang Berbeza](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7S2eEMknaR0u78OjN7RJsMIM7gqRPWoN7HJuU8qDKxbzp_HMd47eiGNilnXQnhOtU0yezXRKZkbnq1P4SktXwbhwZpZnyg4uU0cqjxEIgWW-3DVIq2cpJJTzbAdL2AX1jTKe42B2Hpvd-YBfm1KKMTJAnt1PRX8YYxmEhGXEo0HdRrvBsmMyzLiszBM3j/s800/harry-parintang-eno-viola-kita-yang-berbeza.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Harry Parintang & Eno Viola - Kita Yang Berbeza. Silahkan bagikan juga ke teman anda.

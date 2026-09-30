@@ -23,4 +23,3 @@ Demikian lirik 'Manusia Idolaku' sebagaimana di atas.
 
 **Credit:** Judul : Manusia Idolaku Voc : Shinta Arsinta Arr : Talenta Music
 
-![Manusia Idolaku - Shinta Arsinta](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi85oWSciweKFn748YltggEv8gVYWk3YTgS7No4G2a_50O5t06vy_woGahTBbH9Bq9nmCMP_GIsPu3PMuysfVsy32GKI0j_KwF0vnaZGDEQkxB5svsOtALVvdGAUmgc4i6PmktL2EU0KWgVqu6eEMA8x-EU2zJIi0kEm_Dd6eRywgFft3nW3Ym0njPBiUuH/s1280/manusia-idolaku-shinta-arsinta.webp)

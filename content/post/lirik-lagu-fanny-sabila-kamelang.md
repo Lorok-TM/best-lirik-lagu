@@ -37,4 +37,3 @@ categories:
 
 Title : Kamelang Artist : Fanny Sabila Songwriter : Oon B Arranger : Edi Lamos
 
-![Fanny Sabila - Kamelang](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgQ9MzHIXKZSp2Y2bpFhI-NITuxxtsFM7ZL_Ny4TegjOlnzAkQbQ6hKGCelF6aS4v32ooZ_9KPqlgM7h3ZHEEIyNS5u7IXjUyX3DNuq6RU2snc4mypLT0bTUcpNZ_cHGEPt8kuDyY8PLfoqfZBxL4paNwFeUjb7Cd7FYIcp50iOSNjxz7bzauBfiJYgg/s320/fanny-sabila-kamelang.webp)

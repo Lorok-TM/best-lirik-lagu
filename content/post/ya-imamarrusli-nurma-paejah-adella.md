@@ -13,4 +13,3 @@ Demikian lirik 'Ya Imamarrusli' sebagaimana di atas.
 
 **Credit:** Judul : Ya Imamarrusli Voc : Nurma Paejah Adella Arr : Om Adella
 
-![Ya Imamarrusli - Nurma Paejah Adella](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9Ioc8s2Ak0qtQ7wcK8-EFPnw68DhzHhzALBG33el5bO0BWR0m_9CiKZ-QJF3gD4IyTXwIc3kLxC16gpiVSa9rvZKfNrZNqHXdne-tHhzpMRqgwtVz5svXiwb0qk49VxZKeYS2q7jrCuZEkzMfkgcd8u9W4RT6CJFFdAOXtxgwp2OIbw0qqxoWyzbax_Vf/s1280/ya-imamarrusli-nurma-paejah-adella.webp)

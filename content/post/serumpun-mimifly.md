@@ -29,4 +29,3 @@ Chorus : Ada ketupat ada rendang Nasi himpit dan kuah kacang Kuih muih sudah ter
 
 Duit raya di dalam sampul Adik beradik sama berkumpul Ada bunga api ada mercun Biar meletop pom pom pom pom
 
-![Serumpun - Mimifly](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdbzRE4pO5d4aAIQcenl0Fm77JTdbM_SpiM0RH2bHfqB4XaHb5jFE_5cMs_IWKsqfcjifoPObRLW4qXYWqy56gtem4iG8uhCvqnCbBI17lsUI2DAd5qdjQLPUTGZxlBX9pTZ2IFUJuf3FNva0p7gz8XnVDRGKb4-JrBKDQrb25KGQb8hdmmMCJhXpTy9ge/s1280/serumpun-mimifly.webp)

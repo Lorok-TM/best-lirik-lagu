@@ -23,4 +23,3 @@ Mung sampeyan sayang Tenan tak eman eman Tak jogo tenanan Aku sampeyan bebarenga
 
 Susah e nyuwun pangapurane Senenge iseh tak upayakne
 
-![Silvy Kumalasari - Ngupayakne](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmek3jQl2KZW9bU0j2LRJYkBX-qceyEWXp3p74ULLls2s4q1INy3Km98bNEpiiM-pkHHnFqk1WvsNhx9jrzDJwjjCma0OB62CHqz8BD42CjBbkPMMDqP_mCjCueRXU133dwv2AyEVKMFA4cG-C8M83RVxzkELWmeL0tmMmFD8rOAR-nk1HBA94hRIADx27/s480/silvy-kumalasari-ngupayakne.webp)

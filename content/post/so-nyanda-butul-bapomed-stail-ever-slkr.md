@@ -39,4 +39,3 @@ cuma kita depe ubah
 
 karena kalo ngana saki cuma kita depe ubah
 
-![So Nyanda Butul - Bapomed Stail, Ever Slkr](https://i.ytimg.com/vi_webp/5jPDALwRKRA/maxresdefault.webp)

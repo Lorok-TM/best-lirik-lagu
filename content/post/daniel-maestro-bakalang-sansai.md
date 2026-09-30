@@ -15,4 +15,3 @@ Urang mahampeh di denai maayun Badan mangakeh di urang manyusun Biaso di amuak b
 
 #Credits: Judul : Bakalang Sansai Voc : Daniel Maestro Cipt : Nav Ws Arr : Diandra
 
-![Daniel Maestro - Bakalang Sansai](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8HLGVHJXdTY8Z4nJZdjmjKF4tLgWAAbjoySaZvCapQJXqlUurg9a033NmM68AwFhA6djf-ITPPhJ7cKq0eQSdcwQMZTTQYBj9TBEbzpdUPNO3sZIcxJrcceGiPcA4GMxvgNMFxSLgQUQstB3XRx3rEKFRJwRDqa0HCa_Y8sntR993AF1sPRLvVPnQDh9v/s480/daniel-maestro-bakalang-sansai.webp)

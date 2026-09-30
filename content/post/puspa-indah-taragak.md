@@ -15,4 +15,3 @@ Lakehlah lakehlah uda ko datang Capek-capeklah iyo sayang Manga manunggu bulan k
 
 Makin tarumik denai manangguang Indak batali raso bagantuang Sabalun nyato sansailah badan Denai babuai tak baayunan
 
-![Puspa Indah - Taragak](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhzaHjds8rVCtiTZLN-NBkPrYgEBI5KWiAf9uYslH27c1J8ljBPWWBglEZocLl8BoAVofSJFmqZM6qzpraw9M5u1dcpwuILnemxxPw7bven2JNSBxz7HvPkBQPqfAxA6udS5Hc8tZ7F_5NJCPBqCXJyqiQXSr1JXcAHok3P_hQPkzCO8NhiCO5_M5GP6bI/s480/puspa-indah-taragak.webp)

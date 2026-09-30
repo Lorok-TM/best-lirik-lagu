@@ -46,4 +46,3 @@ _Hatue Idola = Lelaki Idola_
 > 
 > Kamu lelaki yang idola Untuk disayang dan dicinta Kamu lelaki yang idola Untuk disayang dan dicinta
 
-![Kristin - Hatue Idola](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhV7mpB7fyYXlO_txppBm4hx3IKV3qcLPj0F5U-RDNg0SPqkJqxNcGO1kzsXzTLPsloKuyi_HLn55CinH-eUf7fePG5PBCHi6pL1neev64ia97yhp-6q5wNRa0l_Xrx0rmhv5hMvgnvZCvoDx5ZXlhGkH6oovlTqkmlXP5Qq6inylLrhime1dWWC-GXoJDs/s1280/kristin-hatue-idola.webp)

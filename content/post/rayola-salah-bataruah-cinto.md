@@ -25,6 +25,5 @@ Title : Salah Bataruah Cinto Artist : Rayola Songwriter : Roza'c Tanjung Publish
 > 
 > Denai hanyolah di parambiak Ka paringah pajalanan Lapeh pangana takana cadiak Hati gadang uda turuik kan
 
-![Rayola - Salah Bataruah Cinto](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvoePVSHL7IczPJDlay_-vpFEIuUlgXb7S1NdbYSpgI9pJH5csuhBtj8Hjxq-NFwUrjNHhk853Jj0-WTKTUXPBBdxPEwn8t_qez4wtr54ZteWS_jULlskBA6cFn-1kVdyjmIXfxp5D5X2JjPmFQcUxYHwG8AKBLJKcU7kynRP9c4WTsiatNgLC-xABBA/s800/rayola-salah-bataruah-cinto.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Rayola - Salah Bataruah Cinto. Silahkan bagikan juga ke teman anda.

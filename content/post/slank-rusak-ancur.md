@@ -5,7 +5,6 @@ categories:
   - "indonesia"
 ---
 
-![Slank - Rusak Ancur](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg602Qgl5ER_BYEfTtNrQLNgFehGg8N7h6Y5qGqrrTilF8niX5NZGC4LaPhaUceQmEt1QuKkgaSsrBbxpc5L1cm1_-ZcB_n5o-Awirxl7XAo0H9xfsecxtFktnQk7VSDxKqtWGz-hUtNc2Z-Qstv3srXaPEkT0dmRKgK31w-bKvysfqATpyf0-eJtlLqTYY/s1024/slank-rusak-ancur.webp)
 
 Keruk sedimen kirim ke singapur Batas negara makin mundur Pulau-pulau pada abrasi Malah export pasir keluar negeri Babat hutan ganti sawit Ekosistem rusak hewan menjerit Katanya kekayaan alam dikuasai negara Malah bagi-bagi izin tambang ke mana-mana
 

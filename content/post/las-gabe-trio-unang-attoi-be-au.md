@@ -5,7 +5,6 @@ categories:
   - "batak"
 ---
 
-![Las Gabe Trio - Unang Attoi Be Au](https://raw.githubusercontent.com/Lorok-TM/2026-08/img/las-gabe-trio-unang-attoi-be-au.webp)
 
 Pillit ma nasa lomom Pillit ma nasa roham Molo nai do dumenggan Na lao gabe donganmu
 

@@ -19,4 +19,3 @@ Tidak ada kasih yang lebih besar Dari kasih seorang sahabat Yang memberikan hidu
 
 Dia meyebutku seorang sahabat
 
-![Care City Worship Feat Putri Siagian - Kasih Seorang Sahabat](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_lKvmDcOkdXsw4QStal2EDxfjOkh1MfWeqe7Dk39Zxtcw7p5mO50gOG8Z8r2dNcjTj1cIoL2hJPVl20_s3MbfYWVoBC6rbvet9JfY58kZu4TfmG88lg7-H-mFhEZ91RaG8pCL67MoRdQ031lmsuFQzfnKSFX6BabIjBXuhE0sIgQ7oWPkhTuQ8uQLC_lm/s1280/care-city-worship-feat-putri-siagian-kasih-seorang-sahabat.webp)

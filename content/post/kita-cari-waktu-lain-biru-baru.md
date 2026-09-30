@@ -31,4 +31,3 @@ Telatku sadari Memendam sendiri Jika bukan hari ini Cari waktu lagi
 
 Telatku sadari Memendam sendiri Jika bukan hari ini Cari waktu lagi
 
-![Kita Cari Waktu Lain - Biru Baru](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEii5yefZ-SUuPlKFRUnrLwUlBzYSeMXcOQEKx0RHKdA9TBJEbXBNa6q2jZVaK4b6kr_zZMPMm2og3DQ7ROE_jvU6Izub65ZFsZX7UgfcUoJWKtv-36Ub9u9vRtKR6JrJGuP9nqyZJfaTtD8Xd_GQ9Y4A5zRWfAGBBfTmB_-uzIImwuTWXCtnUFLpwuMGmMR/s480/kita-cari-waktu-lain-biru-baru.webp)

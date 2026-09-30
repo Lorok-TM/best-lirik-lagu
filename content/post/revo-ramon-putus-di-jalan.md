@@ -27,6 +27,5 @@ Title : Putus Di Jalan Artist : Revo Ramon Songwriter : Ramon Asben Category : L
 > 
 > Mengapa dapat semua menghilang Bertahun cinta yang dijalani Putus di jalan
 
-![Revo Ramon - Putus Di Jalan](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXO9hyQk0HCJvDjYEA4gZR3Wt24jeMYHN6hG270AlJXSGWTerH4JbyIUi5pMs3mLWhCA6TFEhB0HaNiigvqm4FDU6y8NsU3WdpjRGE2LbhQ4lH6OcOTkATaask36g4edABQM-o5BungvzlpnfRh1WegvN252DOu0cHjyt0Rn1j4uOYYuFneBc9sUF3iQ/s800/revo-ramon-putus-di-jalan.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Revo Ramon - Putus Di Jalan. Silahkan bagikan juga ke teman anda.

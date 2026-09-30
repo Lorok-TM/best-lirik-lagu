@@ -15,4 +15,3 @@ Sabarlah sabar engkau menunggu Duhai kekasih hati Aku pasti kembali Semoga mimpi
 
 Ku menunggu dirimu Di sini aku menunggu
 
-![Thomas Arya Feat. Shinta Angely - Berat Rindu Terpisah](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTwjsDQBuG_3LsLzkMcTvNHzghL7bquvX4PmPAgXhMElPXtj_iKt7sCjFsIvxixqLl6vtXrc1pYZeng79juRFalPQdW38IyArQanrfRbo1eDuYi_JAbdTnunyRySGKR6fBUP8iHPcypVY-bEgcoyIdTWiWZfXavvZobmzD3DkHfDxXy039RhGYkikbAxd0/s1280/thomas-arya-feat-shinta-angely-berat-rindu-terpisah.webp)

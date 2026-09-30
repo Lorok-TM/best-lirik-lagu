@@ -5,7 +5,6 @@ categories:
   - "indonesia"
 ---
 
-![Dongker - Kisah Sedih Kontemporer](https://raw.githubusercontent.com/Lorok-TM/2026-08/img/dongker-kisah-sedih-kontemporer.webp)
 
 ## Lirik Lagu Kisah Sedih Kontemporer (Air & Api) - Dongker
 

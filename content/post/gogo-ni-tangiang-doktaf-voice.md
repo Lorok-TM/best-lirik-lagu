@@ -31,4 +31,3 @@ Pos roham inang Tiur nang nipimi Na ikkon urupanku doi Haha anggi ibotoki
 
 Mekkel ma ho inang Ganjang ma umurmi Asa adong lao maniroi sasude Akka pinopparmon
 
-![Gogo Ni Tangiang - D'Oktaf Voice](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhutZWYyuta7GsIuhGpjcmhrjKN6v0cQVsQFLyoYJPKdd_K0maBucQ6uN5umdItKHgQeFgWnp2KqWDtP1utsKokLbwqsUcJUmZn4lqiP-htUsGHNhrjwX3c8JqNaXi_mqF5WHhFY5Si6phTZBLNnWBui2bH-MQ-yN2yFa0Qovu2aQAVTuZhNPr8Qjpa0Qf4/s1280/gogo-ni-tangiang-doktaf-voice.webp)

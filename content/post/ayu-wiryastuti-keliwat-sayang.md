@@ -39,4 +39,3 @@ categories:
 
 Title : Keliwat Sayang Artist : Ayu Wiryastuti Songwriter : Gung Hoshu Poduction : Biing Cemara Music Official
 
-![Ayu Wiryastuti - Keliwat Sayang](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhA3vjcVqWt9EYlj3v6IiNIBzzJs9wQK1-SUzJfYWPpSSkreXv9qcfOLw6OPgWFudPvFEOfhGFdzdZKnSlKBTK5ew_kB3DwtPaJzh31HELTJvTABrouUBRHCYm_eiv3HXHM-NRxTJaiklS4pNHg0pSzz60sb-pejIxWuFYATzbTLRcRh_sL0MrYuAQ6vg/s1280/ayu-wiryastuti-keliwat-sayang.webp)

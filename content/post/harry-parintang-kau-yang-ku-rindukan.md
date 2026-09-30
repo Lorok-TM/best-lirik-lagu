@@ -23,6 +23,5 @@ Title : Kau Yang Ku Rindukan Artist : Harry Parintang Songwriter : Harry Parinta
 > 
 > Kau yang aku rindukan Demi kau aku ada di sini Dan semua harapan di hati Hanya untukmu
 
-![Harry Parintang - Kau Yang Ku Rindukan](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGZzyHWeD0ZG8ZG_30wGA55nOhKUNLyQuJ-dwWks6e6ApYrBrOqVUFZ-qjQyOWFD8zzG4cqz6fOj16KBQrqWwaKcwuMiFn4hILAWIH0HtzCIA6Ak1bhIxzwWZ8VdG_PKMTaQNk04bBL-aEcefhwm6HIODA2vV_3CG-RvD_xTy31BntqXrizbsSWH73DA/s800/harry-parintang-kau-yang-ku-rindukan.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Harry Parintang - Kau Yang Ku Rindukan. Silahkan bagikan juga ke teman anda.

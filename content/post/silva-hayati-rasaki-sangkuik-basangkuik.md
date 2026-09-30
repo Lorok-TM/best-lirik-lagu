@@ -23,4 +23,3 @@ Rancak bana rasaki sinan Kurang rasaki ambo Itu lah biaso Namun pasti sangkuik b
 
 Nyampang sakik tibo dibadan Carilah ubek surang Baa lah kiro kiro Titiak juo si aia mato Baru takana urang Mangko tibo panyasalan
 
-![Silva Hayati - Rasaki Sangkuik Basangkuik](https://i.ytimg.com/vi_webp/A2ihxecMfgs/maxresdefault.webp)

@@ -25,4 +25,3 @@ Sa'etu dödögu na'ö dema dema ligu Öwa'ö menyala abangku Öwa'ö menyala aba
 
 #Credits: Title : Menyala Abangku Voc : Fajar Halawa Cipt : Fajar Halawa Publisher : Tube Nias
 
-![Menyala Abangku - Fajar Halawa](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEic8IGHpZx09Q0hb7s-XKldvXuP4VulSbquq-QMhermW_NQ-P2zQSXpC40EEEw0wFUBbII4LtIoPO2l1dX2OS6Q70XlemiFE7MiTo7XHTE3R33cCkzcMbZkUnT9MoGb6dHhy9Xd1e3LHZf6bWV0LRDYA7MVlnunESxIKwFRSu0kuRUaAYIPGLbMzVQXzMar/s480/menyala-abangku-fajar-halawa.webp)

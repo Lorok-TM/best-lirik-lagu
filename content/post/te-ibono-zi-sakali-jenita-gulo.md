@@ -15,4 +15,3 @@ Demikian lirik 'Te Ibönö Zi Sakali - Jenita Gulo' sebagaimana di atas.
 
 **Credit:** Judul : Te Ibönö Zi Sakali Voc : Jenita Gulo Cipt : Olmars
 
-![Te Ibönö Zi Sakali - Jenita Gulo](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEf0Kfo4YTcqNQCWQnEVvVVOTsHkJ6U1j-fYYS7MrxUiUHpEkaMNI0Qs2v0bNs5rB4BEl4u6mLmXGvenW6TCCk11kdCDW4yeaMxpHbb73TbQdmX5sEl57H-ah7keHg3GVnWINf27FXzfhk8R_uUNUh8EXSS4ETWrGS4f1ztpDHU28xermW4bxka9OFth-Q/s480/te-ibono-zi-sakali-jenita-gulo.webp)

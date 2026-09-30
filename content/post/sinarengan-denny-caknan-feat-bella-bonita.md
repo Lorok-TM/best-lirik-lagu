@@ -19,4 +19,3 @@ Mugi slawase ngancani Setyo tulus ku anggon dampingi mu Bedo rogo gandeng tresno
 
 #Credits: Judul : Sinarengan Voc : Denny Caknan Feat. Bella Bonita Cipt : Denny Caknan Arr : Bayu Onyonk, Soepardi, Mas Ishal
 
-![Sinarengan - Denny Caknan Feat Bella Bonita](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqV0V4Ns4hyaYfVYGOafUocwaNt2iPn6lnIfUvf53iuvNQK4OU3y9Q274TAyD3GEa9qXidBGwRJJCEm-HHTrnrGP6yolNqDtH-2q5EMJFO8oM-LmeJoGGA9fnBL1H62OTfCQxJJTiX824Prt3BcFfQNFDIBgu8TgquUURCxAEoIyDPvIw6GZ8BWrz9iNFL/s480/sinarengan-denny-caknan-feat-bella-bonita.webp)

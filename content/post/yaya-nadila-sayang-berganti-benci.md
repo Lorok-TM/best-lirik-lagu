@@ -25,6 +25,5 @@ Title : Sayang Berganti Benci Artist : Yaya Nadila Songwriter : Erwin Agam Publi
 > 
 > Ku kecewa sungguh aku kecewa Perjuanganku hanya sia sia Ku lepaskan kau pergi takkan ku ingat lagi Sayang berganti benci
 
-![Yaya Nadila - Sayang Berganti Benci](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1AxF2kUgt6tmYzc74zRnUhFfKRFxQ7D5JXDcaVKcqoW5HZa7AmsecdXhbfPx7iFQsPYakbvekQeemcfqXaFyt6rlbT-yquGod1FxcMRvl3Z4XR8liIp0rYJoYz2y7SDLvm0qaT2wZ2RfH4qc534eMTKR81B4kkgjLn7azvdlA9CNdWjhwYJwh07dOoOro/s800/yaya-nadila-sayang-berganti-benci.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Yaya Nadila - Sayang Berganti Benci. Silahkan bagikan juga ke teman anda.

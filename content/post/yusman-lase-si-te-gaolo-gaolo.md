@@ -5,7 +5,6 @@ categories:
   - "nias"
 ---
 
-![Yusman Lase - Si Te Gaolo Gaolo](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguTBOCfx9aQN6qaARXLCfTz7U8Bgz4sMsKDsi517NmCChpZZeVIk_NYALbDtVrAY3unI5vFuwpW3NT7xUJ0g-gaKmb3VM05UUuwvPat3rKL77Z9NisdExRGzXqhrCqh_kb3-5Xp_cjkZfxsgU7JgpQk9T9FYaSURr_zIZexMwXZru4bCAqpfEQe9EylggZ/s1024/yusman-lase-si-te-gaolo-gaolo.webp)
 
 Heza nasa usawa worato Bawangalui soguna ba mboto Oya utöröi danö sebolo Lö falukha löfö aröu muloyo
 

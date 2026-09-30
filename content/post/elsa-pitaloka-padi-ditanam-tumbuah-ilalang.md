@@ -5,7 +5,6 @@ categories:
   - "minang"
 ---
 
-![Elsa Pitaloka - Padi Ditanam Tumbuah Ilalang](https://raw.githubusercontent.com/Lorok-TM/2026-08/img/elsa-pitaloka-padi-ditanam-tumbuah-ilalang.webp)
 
 ## Lirik Lagu Padi Ditanam Tumbuah Ilalang - Elsa Pitaloka
 

@@ -25,6 +25,5 @@ Title : Selamat Pagi Luka Artist : Gustrian Geno Songwriter : Ajhay Pasma Label 
 > 
 > Selamat pagi luka Sembuhlah jangan berdarah lagi Ku ingin bahagia seperti yang lain akhiri derita di jiwa
 
-![Gustrian Geno - Selamat Pagi Luka](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiQJhPZt2qmzCasGKGwKehGxU1O5EA0IVl32hvb7u8IErpmix2luL-F0gQmmLFhN31wVZgfln_e93c4TklAVfS2_DE-5r3w-AaN84eMmPTmdKvRbYenKedUivdTyfrnuYDaFaheOUqNy9jypENlNjYL5IC9NDEYEeg6A0w144T4elz_BvLq1GCEwDETw/s800/gustrian-geno-selamat-pagi-luka.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Gustrian Geno - Selamat Pagi Luka. Silahkan bagikan juga ke teman anda.

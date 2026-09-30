@@ -5,7 +5,6 @@ categories:
   - "karo"
 ---
 
-![Laira Munthe - Pemere Dibata](https://raw.githubusercontent.com/Lorok-TM/2026-08/img/laira-munthe-pemere-dibata.webp)
 
 Bujur bapa bereken ndu man bangku Teman arih si seh manisna Adi rupana ningen Bali ras bintang film india Kekelengenna luar biasa Melias metami nahe lalit duana
 

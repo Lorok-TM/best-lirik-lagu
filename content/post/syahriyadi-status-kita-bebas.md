@@ -39,6 +39,5 @@ Title : Status Kita Bebas Artist : Syahriyadi Songwriter : Tegar Cs Category : L
 > 
 > Status kita sekarang bebas Status kita sekarang bebas Status kita sekarang bebas
 
-![Syahriyadi - Status Kita Bebas](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuNPSdoOESM-TDEBTCiHkpDa70qDveIkhMxD_VHzPX2aE9WmSXRzUNxdjlIst2QnhUwlHnn2oqwQ8Oz_kdv1Wf0BELmeaPXP2CvmegXuNgBRUUsm36MWvq0044YLAnIW1iwvtngoaZyW4kGn5ir3JKvj-Gp3jlvI0aGpLSyC2Adregm7yceek8h0sOXmZ_/s800/syahriyadi-status-kita-bebas.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Syahriyadi - Status Kita Bebas. Silahkan bagikan juga ke teman anda.

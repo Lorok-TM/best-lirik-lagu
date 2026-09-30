@@ -51,4 +51,3 @@ categories:
 
 Title : Nanem Karma Artist : Ary Kencana Songwriter : Dek Arta Poduction : Kencana Pro
 
-![Ary Kencana - Nanem Karma](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQcTvpXmdUoQt_kYOvFhReAsH1krY03yeHZau7D1NINQ_en1Y5uvVcijWSW4bGoOINBonINk60Bg7mCabWIs7acU7z4_IfREQblQVhGxKzb5DGXBU-C9Lvix05lMdvSWpAtPPMR5WVxrT79bLP8pwra6b-D23A2kcvHzeO1H10T5qebZbvJy7cdjXUBQ/s1280/ary-kencana-nanem-karma.webp)

@@ -29,4 +29,3 @@ Muge dika dek buleh tak congucoah Apolong ben dika arasa bunga Mantepah ateh pè
 
 Muge dika dek buleh tak congucoah Apolong ben dika arasa bunga Mantepah ateh pèrak dek comak dikah Mantepah ateh ampon tadek laenah
 
-![Wulandari - Mantepah Ateh](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKgIE9uKMWeyWFUSuGAUYPvljTKpCWtsT6lwPNvGboXSO3htd2crRDwggP8YfKsyvrszpj7Mo80Qpc-SH2H8CEEZoyF5ORA5v_i5_kH0KoI2fDeZ_BT8Bf9CHO__YE0RDoB1IrLg3lGE5VoxlSYyUzq-D-SzXZVU9Tx38RSNe0mxMjA8CFlsRG7ra7zb2D/s480/wulandari-mantepah-ateh.webp)

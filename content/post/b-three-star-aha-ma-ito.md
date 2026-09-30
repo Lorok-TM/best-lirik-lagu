@@ -21,4 +21,3 @@ Ditumpahi Tuhan i ma Hita nadua rap sauduran
 
 Aha ma ito dia hasian Hasudungan nauli lagu
 
-![B-Three Star - Aha Ma Ito](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjF-2FA_W3OxU3BqfnyOXfFn8nycXa7OukgTe9IHwLE6qoN4cMzqkphluz4kR7uEJy1qA-b7uzp9RKukj4rAokK9qPrCSP6Cl7wZnS-_HtDtVd-3h9-jpNSUgVrDpj-dTyI4l3_gR9oc2lXF6s1gle98p4SAffIME1JpKtjgnks2pHYEcCup6XoS_FvHLiq/s480/b-three-star-aha-ma-ito.webp)

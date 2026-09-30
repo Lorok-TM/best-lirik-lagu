@@ -21,4 +21,3 @@ Demikian lirik 'Habõrõ Fb Pro' sebagaimana di atas.
 
 **Credit:** Judul : Habõrõ Fb Pro (Korea Batak Nias) Voc : Dandy Mendrõfa Cipt : A. Rini Mendofa Arr : Syukur U. Lahagu
 
-![Haboro Fb Pro - Dandy Mendrõfa](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjG-72oiB-48XK_O46qmCAq88UOrrI5Q4ZsQ04VP_5Dz_M99FsEEBd_cHSv9-yYb66WZB2jQlXdknr1VvT7dX2aDoe1MfWEtiZn8fUlzzNGnPfPjREixjSvVNKe85zHYGujvx8S2PRs59FHe_6HlrlGN_bw5zj8dPRMwoPmxknw50XcBaxSPM_U051NcLUw/s1280/haboro-fb-pro-dandy-mendrofa.webp)

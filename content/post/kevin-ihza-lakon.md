@@ -48,7 +48,6 @@ _Lakon = Kisah / Perjalanan_
 > 
 > _Sudah cukup aku merasakan cinta Karena kamu sudah tidak merasa Cintaku ini sudah terlanjur jauh Tapi kamu semakin menjauh_
 
-![Kevin Ihza - Lakon](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLcKszismtC8105ZrESt6gjUZjjdOPwf5X59_nd6VxOWp5BerPedl80UzBkOWuGt4WaQujI7DKeA_GJSp2tzzjcoLFdk7ZdhuAjKyiniI8a7aabhS2eRJ18Dnv1guN95MUpyADpVptOK9ZJ7MAUCq2LaUborxXwDP6i40cwWnNYhKJBZipqjsvDnpiiWGj/s800/kevin-ihza-lakon.webp)
 
 Tujuan kami berbagi ini ialah menyediakan dan menambah sebanyak mungkin informasi arsip lirik lagu untuk mempermudah bagi Anda yang ingin menghafalkan lagu Lakon ini, maupun belajar bermain musik.
 

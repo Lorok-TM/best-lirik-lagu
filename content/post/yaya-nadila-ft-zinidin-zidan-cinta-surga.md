@@ -23,6 +23,5 @@ Title : Cinta Surga Artist : Yaya Nadila ft Zinidin Zidan Songwriter : Tri Suaka
 > 
 > Disetiap denyut nadi dan nafasku Ku kan selalu berdoa pada sang pencipta Agar cinta kita kan selalu bahagia Sampai nanti di surga
 
-![Yaya Nadila ft Zinidin Zidan - Cinta Surga](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKyLI5uufhU_JmKHXBc1x-1E8-IP2i2opaGIuRQOyj-mKxW7GtLaQfAuXY5n0FnSJL5PSTOvIUMVXV1uxi7zbYOpeHjzhl-eOqkzOkB9E2glnsFCx52BTnwSpgoD1OMgxyo8xZQ3WkSRkpKhqsaNDKeeqJPsVyZDlIQ_unXfexopfNfoDTBS-PLhRa3jZB/s800/yaya-nadila-ft-zinidin-zidan-cinta-surga.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Yaya Nadila ft Zinidin Zidan - Cinta Surga. Silahkan bagikan juga ke teman anda.

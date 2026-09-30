@@ -17,4 +17,3 @@ Dirimu lah satu satu nya Kekasih yang aku cinta Di setiap do'a ku di hembusan na
 
 #Credits: Title : Cinta Luar Biasa Artist : Clara Ft Gustrian Geno Songwriter : Ajhay Pasma Arranger : Iwan Romeo
 
-![Gustrian Geno - Cinta Luar Biasa feat. Clara](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWlWko98QIw2FR7V35LwsBXvQ-eIrbVFsCyZrCjzT3QvXXTTS0-U4sLW70dvWN7H5P8Y8sKAaeHAkg5USXkolRSwrICFlj2djPaxQZg-DqItOW7GcrPe6V5mkjnUHLdPU3dirnwlyrcewxdhx5ioN1k47ZJpJYEwzzFzAJgLg-TZMuBx4nFvTZdNGBRRvM/s480/gustrian-geno-cinta-luar-biasa-feat-clara.webp)

@@ -21,4 +21,3 @@ Mas salahmu dewe Ngujo aku ro liyane Aku di keloni Karo kancaku dewe Sepurane ka
 
 #Credits: Judul : Ngertenono Ati Voc : Niken Salindry Cipt : Bara GMLT Cipt Rap : Yonanda Frisna Damara Arr : Kembar Campursari
 
-![Ngertenono Ati - Niken Salindry](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFAlr3NVsqfjuuQwQ6N4-1y5DVpQBwl9dIx1LfYZcoV52Xu8Uz35mQu2bqKx1PytDYJK1GlxuUAg6x3-pKql2lQrJK5xVj1DTilU_5781wFh8KJJVQkb4E_joHA_UrVfc_ywJF5lz5dzxK_XhesIFiIMGgfw4OHrWmwaj3DuUMha_yEIHFVUCTPq4yP292/s910/ngertenono-ati-niken-salindry.webp)

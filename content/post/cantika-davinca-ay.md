@@ -19,4 +19,3 @@ Ayang ku rindu kamu Ingin mencium kening kamu Ayang ku rindu kamu Ingin memeluk 
 
 #Credits: Title : Ay Artist : Cantika Davinca ft Ageng Music Songwriter : D'Bagindas ℗ & © Global Musik
 
-![Cantika Davinca - Ay](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjH23YWryLxQiDZwwxYFwIWDIFwTbOUJ1UCvd-69K7nXGp1kxzOdJnd0kOcqs9KEat1TophsCUiAPnEKoSDkzEg-rMVGixPieIrX-IHIl9M-K4gpBcHPWNUGNNGPmOUtXSGPG5IDgUi62uAmtku1CPxl-5uMnvHcVFqtkkb2R9FDHEtMzoyO05YvxDk2gaZ/s480/cantika-davinca-ay.webp)

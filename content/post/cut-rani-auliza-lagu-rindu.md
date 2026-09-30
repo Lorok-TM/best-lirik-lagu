@@ -17,4 +17,3 @@ Dengarlah suara hati Dirimu sangat berarti Satu cinta dalam satu hati Takkan per
 
 #Credits: Judul : Lagu Rindu Voc : Cut Rani Auliza Cipt : Faisal Asahan Arr : Iwan Romeo
 
-![Cut Rani Auliza - Lagu Rindu](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirgQndIweNA2H6nNr77O9jNw9PQS_iTRObs0J-gA4v_Fo11VlLjlfWBFyarmTBY5quHz1s2Rh9PBOVEyLduljvpFq6q4w1RuD-pdOzTA7uoBC07Mjai8RAY1XuO2jSsu3Kqoihbt6fCaT6_xsxupjuh6XdP6o1-blXjDlniEAnHwDF-MLXg-PXq6FTMQTY/s1280/cut-rani-auliza-lagu-rindu.webp)

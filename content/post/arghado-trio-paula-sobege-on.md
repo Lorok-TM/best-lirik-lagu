@@ -30,5 +30,3 @@ categories:
 > Paula sobegeon nama sudenai Asalma saut sakkap ta i
 
 Title : Paula Sobege On Artist : Arghado Trio Songwriter : Poster Sihotang Production : Arghado Official / BTB Studio (Jakarta)
-
-![Arghado Trio - Paula Sobege On](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqy6zkm-FkdwID2Ym0j0sRH_PeR0guRT5RzNUxvDbPDRjPUMrm4DUSlA2P5JuRKPewBTzpBB6KIndBXINxy6PEULpqNanaC_8nmm5V4UEmsJtxJVbsLZSTdchonRLsQdc8vV8rCNcZhBThl-2kbenLAqTgRf8hO4SGrUC2DioMSFb95zMScpVPsKkk1g/s1280/arghado-trio-paula-sobege-on.webp)

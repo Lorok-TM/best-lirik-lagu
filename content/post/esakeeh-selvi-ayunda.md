@@ -5,7 +5,6 @@ categories:
   - "madura"
 ---
 
-![Esakeeh - Selvi Ayunda](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTmeFPRVZlPQlf3axc0C07wsWDrxy2qXT_O8BpgmtG6ygJsry9cu4G3UsA4Ec82opYAEV62UKR_1np6H0H48Kdaqm5_VNvVlmgAZFwjZqQn_u_G5wKI_j5xd_G4BG5crBGnTLvQcleMDPsfcZ6RYAeCrIGpqafDfz2X4brB4_z7UyTFgzyC3u2ELS7jFof/s1280/esakeeh-selvi-ayunda.webp)
 
 Sake’eh esake’eh (Sakiti kau sakiti) Tang ateh esake’eh (Hatiku kau sakiti)
 

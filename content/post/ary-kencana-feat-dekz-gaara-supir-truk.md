@@ -23,4 +23,3 @@ Bli megadang ulian uber setoran Beli semangat Pang ngidang mayah cicilan Bli ber
 
 Yen kenyelan beli pules di jalan Sambilang beli ditu maan ninginang ban Yen pakseyang bane mejedar di jalan Sinah ditu bose kal uyeng uyengan Ulian jatah cicilan pasti kuangan
 
-![Ary Kencana Feat Dek'z Gaara - Supir Truk](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJ6Onqivp-RxM4ZJ5K3_CJpPMDpPUa6xtSB-qGSC45XSwdEpO3R3xhQIVHnpbwfxNz-pzCtFcp5ZZ6nkFYpb7BCx47AZ1297nKc2FidqomE9Y3WlyuyRWoGyCgkICjtavSW4C-s-Ce8Xxid8e5N8pfxFzN2AjmucbhDSG6K1hTXtHauCOUeh0S_5ycViEd/s480/ary-kencana-feat-dekz-gaara-supir-truk.webp)

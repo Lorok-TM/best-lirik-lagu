@@ -27,6 +27,5 @@ Title : Salendang Tanda Mata Artist : Duo Naimarata Songwriter : Lans Hutabarat 
 > 
 > Molo lupahononmu au ito Tupandelean luluakku hasian Salendang tanda mata na ni lehon mi Piuonku bahen paningkotan ki
 
-![Duo Naimarata - Salendang Tanda Mata](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9ZhFhmfeVbb1IC9lFucA1si8SqvpN65TDMpQq7sqnywcVaGrun0QkgBzNHHL_-qX1aErK0-L4aIJJgK5sVW-edrR8Cr0e-oYsAckx2787bP5_khmKwEHiOgf-yeKFjC44Np-kbX_XIPsloazuRsSwS8VrrDWgw9cPZF9zZtEnr-tLCm7yGhzcOtEauw/s800/duo-naimarata-salendang-tanda-mata.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Duo Naimarata - Salendang Tanda Mata. Silahkan bagikan juga ke teman anda.

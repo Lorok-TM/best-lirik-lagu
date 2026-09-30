@@ -21,4 +21,3 @@ Demikian lirik 'Bukit Sibea Bea' sebagaimana di atas.
 
 **Credit:** Judul : Bukit Sibea-Bea Voc : Mega Voice Cipt : Jonar Situmorang Arr : Barita Situmorang
 
-![Bukit Sibea Bea - Mega Voice](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaMfRv4kTAIZyKakdhRkCvM-n4ECtQePRbU8vUJvnqunkVzAbFsrJlXzO-LwYnRJFE_639DEn0Sq4-XAROZSKam23WdcUR2Ww2FMeEqCOPtxfi_62jB_IyDtlJcnrqlrn17WDDka7NQfbqIjh3bPGPSdcrPtAqBGva_YvK7MnvOd4Q0W4I09CkTUd6m39x/s1280/bukit-sibea-bea-mega-voice.webp)

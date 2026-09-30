@@ -23,6 +23,5 @@ Title : Sing Mebulu Artist : JM Mayun, Moris Bali, Dewa Tunik Songwriter : Remon
 > 
 > Oh gek ayu ngae pilu Edot rase keneh ngajak ke penghulu Sai sai lakar baang biu kayu Kar gaenang pianak kanti pepitu
 
-![JM Mayun - Sing Mebulu](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNtBaQpkbcTAOAS2YmStPSx607CAgJYDLEIr70bX4QTb3GBI5B9oj4b697IKZR4gxCnGukJ7FG6RD1V-i9e7A_yC0xnNNl4q_cpgzuJfH17_nJlZ71bXXgqcoALv6DcrVmtPkSRXKWf1fm3QkaoSCtE5BdBWa6RAyj__faigDvZ7kn488d_0YQUlGC4PoF/s800/jm-mayun-sing-mebulu.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu JM Mayun - Sing Mebulu feat Moris Bali, Dewa Tunik. Silahkan bagikan juga ke teman anda.

@@ -21,4 +21,3 @@ Kada di awak tukak di urang Jikok di raso samo sakik nyo Buruak urang sajo nan t
 
 #Credits: Judul : Kada Diawak Tukak Di Urang Voc : Carlos Cipt : Syahrel Putra Arr : Satria Wandra
 
-![Carlos - Kada Diawak Tukak Di Urang](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKyU8QxhhbSIWIWPZyxU5UUNMZZ1ovMzgSuqs_ugituebb_3iPVwpyNE_y3qbYlNDVoC59vpk0D7rARfuCA_AVdJ1opTEmS_gu2DMKuFkzduHM2Hw7xqUguCmT-JTfqPYTGSz1y0QJ7bxoRq_2EsAceYhHp8mTwOGZSOL3ZlHRvhLBjiGj_9F6CK-omYj-/s1280/carlos-kada-diawak-tukak-di-urang.webp)

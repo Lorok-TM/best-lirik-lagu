@@ -29,4 +29,3 @@ Demikian lirik 'Ratok Dagang Malang' sebagaimana di atas.
 
 **Credit:** Judul : Ratok Dagang Malang Voc : Daniel Maestro Cipt : Ben Tusipa
 
-![Ratok Dagang Malang - Daniel Maestro](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkB8IhwT50Migftkk-smMenfojQ2-o2pofkEBEvloXCKcYIN9xTGRVPdIiFUmObFy8pgfJ2vvbUXy0L3WCSzFBfVw0Ilo9HkUSd90TK-HyuKd-q6Q_1BDb6beA-9MXE4YjIWVSFVYMT1_uaXmq1lqjKqhyrdrZWLcCAKP5cSuf0bCvg8GkHpojSFIvmnx4/s1280/ratok-dagang-malang-daniel-maestro.webp)

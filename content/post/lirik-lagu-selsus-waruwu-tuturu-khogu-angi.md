@@ -27,4 +27,3 @@ categories:
 > 
 > Mondröfi ndröfi ndrao wangalui Ba lö falukha zi sökhi
 
-![Selsus Waruwu - Tuturu Khögu Angi](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgR_DZ5SvgsxlHuYW60a0S7wbxIW5RQcNliJ_sEuXRNpvMwBxqZA-RVNz3hbVRDdl9x81y5V7lD_PHvo9XYXkMayRQc7maPXxxpdZWjwhOX35VZW-cR2dtZjEXYvWnVkpT7p_NPVZpbb4h2rutqmKbidviDsV9fk81rdOBpBFXkL_a6AeIvuQ1Dsztu8g/s1280/selsus-waruwu-tuturu-khogu-angi.webp)

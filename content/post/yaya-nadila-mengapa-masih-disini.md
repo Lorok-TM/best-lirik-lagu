@@ -29,6 +29,5 @@ Title : Mengapa Masih Disini Artist : Yaya Nadila Songwriter : Ajhay Pasma Publi
 > 
 > Jangan kau balut luka hatiku Biarlah aku sendiri Semakin kau obati lukaku Semakin sulit ku melupakanmu Carilah penggantiku Carilah penggantiku
 
-![Yaya Nadila - Mengapa Masih Disini](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhomYbSmHK-P8okMWIGrWaZuay5AJLn7--VMv4FsjFIzXpcqo-Tc2HE8Knevq8AYQSC6lom7rmOf-alt7ZT95YXAusCJNl-90-YWKuChNNk2rzqqPC7vAAjBJC30P7R7FjW6v0q8Ub-4_N_n-m5S9jMoqc4pLtbvXZAQYIGE_hc_RmyMyUgj3MjWLg3cglK/s800/yaya-nadila-mengapa-masih-disini.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Yaya Nadila - Mengapa Masih Disini. Silahkan bagikan juga ke teman anda.

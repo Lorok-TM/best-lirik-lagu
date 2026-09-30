@@ -23,4 +23,3 @@ Sapanuahnyo cinto untuak kito
 
 Katiko cinto sapanuahnyo untuak kito
 
-![Jeje Rahel - Alasan Bapisah](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAfYIKxueDvhjt7KMLKkLJlCV579h5zQj1rXppIsOjZVrxMOD9CvGuw-d3N-7Lrocs5zDGMlgWX5-gw5auu86rDYzZ946G2VgiZ9Lt9F7qizpfLWdlCgOvEgH8RtLb8RJty56Ska2Rw_Dp8x3wsaDioS6zUQdWeRrcz_mBSIrQT4ybLq9qRSbNQU_lyMLV/s480/jeje-rahel-alasan-bapisah.webp)

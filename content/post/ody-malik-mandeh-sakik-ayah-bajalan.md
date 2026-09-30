@@ -17,4 +17,3 @@ Dak sampai hatinyo denai Mancaliak mande manangih Ayah oh ayah capeklah pulang
 
 #Credits: Judul : Mandeh Sakik Ayah Bajalan Voc : Ody Malik Cipt : Taufiq Sondang Arr : Nover T
 
-![Ody Malik - Mandeh Sakik Ayah Bajalan](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSDfD4_Nzn2QiL1wIjGhVrs9A_hq3Ik5MGbEAuLt1SSf9Lo9gPr0DAwqe73lKMKF0HdG8fl3pc9ewKVe4S0dfm271N24pRB23Uk3OId8q_HlKdwCrsFlnh1pYOBJrnUjTbssMJp80KQ8Y8Q9hIIFIIu-NjFsfvMEfrlIjT4WnsEu0GGn_qh5WZAIvwCggt/s480/ody-malik-mandeh-sakik-ayah-bajalan.webp)

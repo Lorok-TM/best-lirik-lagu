@@ -27,6 +27,5 @@ Title : Menanti Kau Kembali Artist : Yelse Songwriter : Izhal Khatanza Category 
 > 
 > Jarak yang telah memisah Antara dua samudra Aku di pulau sumatra Kau di malaysia
 
-![Yelse - Menanti Kau Kembali](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIP2NEMv7v9eFYoh9sUdWkJ1eHyBnSdApgtKE7W1pKx6F7OVTceFUtMMeo80gAtd832iVQpTuSJNzJhVdSKqQpIq7Xe7rFv2lXwnroU6J1jCkdTROGzP70luHoSTt96aMxNd2VkTdzsli8RVz80rYvpBB2qkaJt6QLPe3Q7aG23nrXQoEemstF1DrhrA/s800/yelse-menanti-kau-kembali.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Yelse - Menanti Kau Kembali. Silahkan bagikan juga ke teman anda.

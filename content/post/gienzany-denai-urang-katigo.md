@@ -15,4 +15,3 @@ Harok raso ka iyo..
 
 Jikok panyasalan nan denai turuikan Takuik nyo cinto baputiak babuah dandam Denai urang katigo mangacah diladang urang Bialah mahapuih bayang Denai urang katigo mangacah diladang urang Bialah mahapuih bayang
 
-![Gienzany - Denai Urang Katigo](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9JlwmMwh_1H8MBbACiNT3vN7XDy2TpStO3uH0HAfOdAS2z3HQHMUWeCgTdvsrqLBV6MVhTonLd67fivN4xbPo0XoyWgKm7VpFtXeC52hnNOBSFIZYppObWeLCK3aCHQgvqJI3x0CfRJAwDOP0gzwMk6eXTajBnIu22tFGxptMgXEvw8FWXvNoxQmFgmqF/s1280/gienzany-denai-urang-katigo.webp)

@@ -26,5 +26,3 @@ Basorak sorai urang mamandang Lai mandapek nan takicuah juo Sinan lah diri raso 
 Denai tacinto tasayang nyo urang Labiah taraso tiado nan lain Kini manjadi buah sasalan Ka tangisan lahia jo batin
 
 Sio sio rupo baharok Disangko pulo urang mambaok Lah putiah mato denai jadinyo Mintak sanang sakik nan tibo
-
-![Anyqu - Sio Sio Maharok](https://i.ytimg.com/vi_webp/PShZJKrahTk/maxresdefault.webp)

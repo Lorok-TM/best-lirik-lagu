@@ -39,4 +39,3 @@ categories:
 
 Title : Sapadan Hurui Artist : Ling Ling Puput Songwriter : Shogy May Sheilla Production : May Sheilla Studio Palangkaraya
 
-![Ling Ling Puput - Sapadan Hurui](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2M8gaCZtgmmDUPBC5t8o5XjD0lUH-tWi0b2j9iXSpHCtqz0FvNQauTaY-QICXj7Ewf_FaEULuiQbF8N7MTxSJWHgvL7IDT5lt1U0mfj3VhN0Zgk_SMRdJCi1_hizRk48Hl3dwnBhYpwThJAIWr57qvovb50r-f0sdK1gjkGw7KqD1ooTFFGv2VYX-yQ/s1280/ling-ling-puput-sapadan-hurui.webp)

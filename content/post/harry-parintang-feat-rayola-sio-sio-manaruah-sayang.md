@@ -5,7 +5,6 @@ categories:
   - "minang"
 ---
 
-![Harry Parintang feat Rayola - Sio Sio Manaruah Sayang](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh34v68H-mTx_6BAW6Y4lItyk12e60a71vjbzoYl5_VoeVGMKQUMHDWvX5drV8yEty5ZHzjchBZ8LT_WK70-x1Qs32Xby8ysWsiw8N2OQIIEwi37QkzGCP6-Pn6kYuB-F2QVrZg0ykMK1hehvrescspOrIYA3JWneqw42QvDVHOZzuwQHwMZNYv-3UcrQEk/s1280/harry-parintang-feat-rayola-sio-sio-manaruah-sayang.webp)
 
 Angin barambuihlah angin Baoklah raso ka tabang Ka urang nan jauah di sayang Sampaikan ka labuak hatinyo Jikok denai ko taluko Taluko nan dek ulah cinto
 

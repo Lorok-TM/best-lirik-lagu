@@ -23,4 +23,3 @@ Demikian lirik 'Dewi' sebagaimana di atas.
 
 **Credit:** Judul : Dewi Voc : Sasya Arkhisna Cipt : Bamz Wiyoso Arr : Laju Record
 
-![Dewi - Sasya Arkhisna](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjs5i7uwODvIY0foPYvYVwNho1jq_BRmJKhy3IVGHr-w6aOGhSXn94Z4FuNgSpk-W9jqH8maEtBwzwQ50b_rKDqxCih2pN1GmVkxHroncqLQMByU9n8nN67UgEuF3LieXNIuMhwmFJ4UHyZ5GwaWkoFDI1mlQ_LNRNa01hga3VK570KxusnhTJhpBqqS0Z-/s1280/dewi-sasya-arkhisna.webp)

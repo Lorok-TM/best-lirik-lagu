@@ -5,7 +5,6 @@ categories:
   - "madura"
 ---
 
-![Selvi Ayunda - Mile Laennah](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEix2deFT4xHsoQeYFqkgMlW_QeOMjvni_37ahyphenhyphen6gNQR8bmfSBxmfIbKg9HvXFT2S8PoHZhMmDRtgBzHn7KQZTmT6q8Wzi_JEq_R9IsuXhBGj7YOiDGJC2DULEtU1HXTrZV2ktNdtP0EVaHC_sejhamU9pImkZ0zyIAptmEsudoTRBY672TtlvV_EcTchGaj/s1280/selvi-ayunda-mile-laennah.webp)
 
 Kadhiponapah (Bagaimanakah) Jelenah jhuduh nikah (Jalannya jodoh ini)
 

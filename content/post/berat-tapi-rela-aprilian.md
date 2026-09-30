@@ -5,7 +5,6 @@ categories:
   - "melayu"
 ---
 
-![Berat Tapi Rela - Aprilian](https://raw.githubusercontent.com/Lorok-TM/2026-09/img/berat-tapi-rela-aprilian.webp)
 
 Engkau yang ku percaya Tega mendua cinta Hancur hati melihat kau dengannya Kau dustai hatiku Kau sisihkan diriku Demi dia yang baru bersamamu
 

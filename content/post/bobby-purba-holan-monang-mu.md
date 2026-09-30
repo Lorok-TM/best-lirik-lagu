@@ -21,4 +21,3 @@ Boasa ma di gotap ho parpadananta Boasa ma dibahek ho haccit ni roha Pulut na i 
 
 #Credits: Judul : Holan Monang Mu Voc : Bobby Purba Cipt : Gio Nadeak Arr : Hermes Sihombing
 
-![Bobby Purba - Holan Monang Mu](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhymlJ6fpoR2qtNIMYaE__o43O11pzLkOzeERUx5jGxiGe3Qd3MhbRKy3WBwrzfc8LVfASn1iUpThaoLJYSCf2E9Ra0Pbu9dytnTJIS2CiKNFj2a04cV4S5ri03eTmP0Q9aH7icTZPKFtFDV2wIoTAyRORAtS0MdMTeR20xhwMfL_7Zu68zLb69uIeXvHEx/s1280/bobby-purba-holan-monang-mu.webp)

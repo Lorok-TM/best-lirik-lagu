@@ -19,4 +19,3 @@ Entebu kel turang, nanam na tengguli Sangat Manis Sayang Rasanya Madu Man baban 
 
 Back To Feff 2x
 
-![SADAKATA Art - Leto Paya](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCqm8zyyZMFkUrTKM6paHw64X2c8Ry02BMi-zIuOEOnuoypiJXrYYD3MgEVos_Zfv_2tbuP9cfG8C3dkCnNu5EqcsJR28nwuBDvTgvuqQp0vfffl3zwC8zqqtsYqXDwdaybFhh0svGD7r3iLqnGofbVXwfzxvEwof7UcaqQap4NYUQ0-tKU4e2j6xhyuDd/s480/sadakata-art-leto-paya.webp)

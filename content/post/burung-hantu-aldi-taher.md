@@ -5,7 +5,6 @@ categories:
   - "indonesia"
 ---
 
-![Burung Hantu - Aldi Taher](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1k-aMkQk2_yObjkJ181daqSUQ8o0innTUApP_PHCpp2NzJfmeWL6NFyqaj-HP0mTkMiLoD71smrY-xiQKc8LGxE5N0LtiXW3w7UFSq6iU7KPGQZslQm2I5rdTwcn_dB4bnPg7OGxGzbIqRMfaHp5cuJAZ9eRjvGarQVo1SFPV2g4ZIQ2m0tGXkktk_6wk/s1280/burung-hantu-aldi-taher.webp)
 
 Kau ku cintai kau yang kusayangi Mengapa kau begitu Telah ku berikan semuanya untukmu Kau curangi hati ku
 

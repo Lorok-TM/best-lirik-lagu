@@ -33,4 +33,3 @@ Mo bikin ini tak boleh Bikin itu tak boleh Adoh nona ko ini sampe Bajalang sana 
 
 Ko bikin sa ni pusing sampe 7 keliling Sa ikut ko pu mau sampe sa ni tabanting Coba ko santai jangan dlu ko overthingking Sayang jang marah marah mungkin ko butuh healing
 
-![Butuh Healing - Randy Husain Feat Djipeng & Rahman Muhamad](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfWxRnsYyO69fEncl1m011DHejmken53-XS6sQCRPSGKJMrFduxBhP0cfiRjzebsStrXuns5a8Ysl0gJSmc5r-uhyphenhyphenBscdlpWHI0mfTNlD93N3itVKpaSeCCI3xcWTyzinDyIjDgXMcmjveJ9nrx5cdzTX-syuF5W4OC6zUHe3L_B083ffxvEYmHZtFaUyF/s1280/butuh-healing-randy-husain-feat-djipeng-rahman-muhamad.webp)

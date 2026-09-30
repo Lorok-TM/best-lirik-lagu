@@ -27,4 +27,3 @@ Ya'o melö sekola Ha kene moto lala halöwö Ya'o melö ba faka Ha tuka beca lal
 
 Ya'o melö sekola Ha kene moto lala halöwö Ya'o melö ba faka Ha tuka beca lala halöwö
 
-![Doli Doli Trio - Ha Sino P3K](https://i.ytimg.com/vi_webp/RuD6l6r4YAc/hqdefault.webp)

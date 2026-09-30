@@ -27,4 +27,3 @@ categories:
 
 Title : Kemberahen Luar Biasa Artist : Narta Siregar Songwriter : Sudarto Sitepu Arr Music : Sandy Bangun
 
-![Narta Siregar - Kemberahen Luar Biasa](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbq5HKcQ4Nd9k_39fANt7zYFOUpWGhxir2lYTFcOpvlbP_bsZ6kP_eIp4z9EqiV_1GylfJenhuH_ncxumRitDBn8sENjpUZBVN4PXmJ8s9IOBbGnPh1Rg-yP9kqSDvfmD-vtaT6RgRMIgsTQFSlGDBBadZF-2C5Ht2ooBb5wrDv8P0NBhrs_Et4sVU3A/s1280/narta-siregar-kemberahen-luar-biasa.webp)

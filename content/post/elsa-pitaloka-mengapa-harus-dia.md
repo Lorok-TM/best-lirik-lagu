@@ -21,6 +21,5 @@ Title : Mengapa Harus Dia Artist : Elsa Pitaloka Songwriter : Elsa Pitaloka Labe
 > 
 > Mengapa harus dia yang kau cintai selain diri ku ini Dia sahabat yang ku kenal dari dulu sebelum diri mu Dan mengapa harus aku yang merasakan kecewa sesakit ini Apa kurangnya diri ku waktu bersamamu dulu
 
-![Elsa Pitaloka - Mengapa Harus Dia](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAk7xzT99UFqfQSFVO7y11r0hnzeCF0fh_-4w9WMhXcxmOLvN-FctFKMkpyc1EpPOziv9wGqH8OtzI3_vHEpyyJ8GQoBjXmEDqLbZ1F1vJbDnkhtNuIM8CzLZGwA6tGFVB8sH7jTS_lhRsgTkomlzn5i6f-qnqsZvxZxkgBjsxsv1PQv1f5p-xD-1uxw/s800/elsa-pitaloka-mengapa-harus-dia.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Elsa Pitaloka - Mengapa Harus Dia. Silahkan bagikan juga ke teman anda.

@@ -5,7 +5,6 @@ categories:
   - "dangdut"
 ---
 
-![Buta Karena Cinta - Sridevi](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBpDku3UmZnE09X-Z3nyk1w6CnL7-TeFYoi2IrNBnf5BMzWQf3R5rxVb6LutNshGgf3P0P0ltDZUmWyxh4BPC2vIt0yc8TDQeqOjZ0xQBAif5_beR4J_mv0h2Ej3EoG7HitRoN7t0_IZga4XRtb7XdRAk3Hho1X0zAGHikLhyphenhyphenSy9p40rPQcnAGy3vf6TOw/s1280/buta-karena-cinta-sridevi.webp)
 
 Kurus badan ini bukan kurang makan Namun memikirkan dirimu yang berlari dariku Tanpa sepatah pun pesan kau tinggalkan Membuat hatiku bertanya-tanya apakah salahku Sabang sampai merauke telah ku telusuri Jangankan bertemu Bayangmu pun tiada Seakan dirimu ditelan bumi
 

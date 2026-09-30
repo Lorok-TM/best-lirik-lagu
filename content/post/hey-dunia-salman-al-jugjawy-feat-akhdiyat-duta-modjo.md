@@ -29,4 +29,3 @@ Demikian lirik 'Hey Dunia' sebagaimana di atas.
 
 **Credit:** Judul : Hey Dunia Voc : Salman Al Jugjawy Feat Akhdiyat Duta Modjo Cipt : Eross Candra Lirik : Salman Al Jugjawy Arr : Salman Al Jugjawy & Ali Hasan
 
-![Hey Dunia - Salman Al Jugjawy Feat Akhdiyat Duta Modjo](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIiZfj_Cr097_0dRNZ5gUUZLCC2Ut9n8tKu_lY7vMrhH_4DHdr6U9bai19SDIBUim3dAEYMyZRgnXho_lcwsLQsBnpovz6M4U0prpSGmLQDcq_-adgGEYmdWO5NaMQsau8IU-4ZqvEDyVWBIWmwtpSMlxlO8P9AiXjCGGmS3kkcIbTY0_vI1c07cNoVu0L/s1280/hey-dunia-salman-al-jugjawy-feat-akhdiyat-duta-modjo.webp)

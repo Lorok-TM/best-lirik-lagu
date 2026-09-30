@@ -25,6 +25,5 @@ Title : Janji Setahun Rindu Artist : Fany Zee ft Aprilian Songwriter : Ajhay Pas
 > 
 > Mencintai dirimu Membuat hatiku bahagia Bersamamu mauku Semoga takdir temukan kita
 
-![Fany Zee feat. Aprilian - Janji Setahun Rindu](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgv-1aGYUCPnwHXVymAP01rRVYsw1iV39tsNXnOVfLwMq0JvE2k6dq4Z8tLT6LzhatkoKwTvApXIepUiM0rKadiWjRiQKSpUgBP23EFK_KmZlnk56pph7vLUFduJT4obt4cEDINAwXIUDzdY6vhBf3MRv1YOx9QbORrYZoWkaReMKcTFP0nNnztbK0DA/s800/fany-zee-feat-aprilian-janji-setahun-rindu.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Fany Zee feat. Aprilian - Janji Setahun Rindu. Silahkan bagikan juga ke teman anda.

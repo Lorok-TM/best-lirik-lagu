@@ -5,7 +5,6 @@ categories:
   - "minang"
 ---
 
-![Silva Hayati - Samakin Parah](https://raw.githubusercontent.com/Lorok-TM/2026-08/img/silva-hayati-samakin-parah.webp)
 
 Dek talanjua mancintoi Dek talanjua manyanyangi Kini sansaro badan Dari hari ka hari Hati nan ko dilukoi Sakik indak tatahan
 

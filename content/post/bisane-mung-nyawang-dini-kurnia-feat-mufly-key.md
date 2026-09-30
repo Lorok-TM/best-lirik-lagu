@@ -21,4 +21,3 @@ Demikian lirik 'Bisane Mung Nyawang' sebagaimana di atas.
 
 **Credit:** Judul : Bisane Mung Nyawang Voc : Dini Kurnia Feat Mufly Key Cipt : Ali Px Arr : Mufly Key
 
-![Bisane Mung Nyawang - Dini Kurnia Feat Mufly Key](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDtHEzsrAqJre47qauyL2Ovzewy8LU75bWOzNZ1RBs4PTIbst2oEN6whEyqvkpfbRiePw6C2yvJ8KJKLaTuH_J-5hVPXy7lDgApCs2dAMfQPqIvmNbF_PbFTxsAyL9SJk9B9_SfbZTR4Vh8iDucjZrTRgYkHU1QaEt9f6YFrPpRHbnqjzSbHdiSGEZBa0Y/s1280/bisane-mung-nyawang-dini-kurnia-feat-mufly-key.webp)

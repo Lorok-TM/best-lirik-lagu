@@ -19,4 +19,3 @@ Bapikia pikia dalam lamunan Lah tampak mangko indak kasampaian Batanyo tanyo sur
 
 Hati talanjua tadorong sayang Tacinto nyatonyo di urang anggan Sansai lah denai batenggang surang Marindu rindu hanyo sabateh angan Marindu rindu hanyo sabateh angan
 
-![Rindu Sabateh Angan - Rayola](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3atvqFMQwVY7xwbdJAafdfiNjC-Cl-ppHS3VFI-b13EwAjuzVApByvxnAViJzGnM93jahOzjGjIe5S-zZvq7tZHlmQ3gPu52hnkCQj2pgkuWq52fmCPFkkRcji4bQXbABIaPiptYC9DIzJ8_VtkP42SyRWBxLxrtpDpCb40EAdnvoCaTbiLEIoQ13rQaT/s480/rindu-sabateh-angan-rayola.webp)

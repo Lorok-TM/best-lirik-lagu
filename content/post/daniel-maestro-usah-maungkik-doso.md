@@ -17,4 +17,3 @@ Jikok sabana sayang manga den basiokan Manjadi sarang salah padiah indak tatahan
 
 Patah dayuang di tangan marintang ombak gadang Elok den suruik langkah pado isuak mandalam Baa nyo adiak denai lah tau Indak ka mungkin jikok basatu Kato hati bialah den lawan Takuik isuak marusak parasaan
 
-![Daniel Maestro - Usah Maungkik Doso](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIoN1d-SPfu7A6xlMNAANkDHpUpDyG_HJ4P9A6MDWsKlJPlVxaeE4C_cuYqiQ7HuIANuxbgHHZIgXdQKTlAVAM1EOCMIeZNNKyjZ4wMRJJXtWWQ_DRkAeqPb1C_UzOEmqybT51DSnHRZrd81x7s9iWklwJAZRm8BYfWbjJj_0jto8wLtrkq5v6pEJOhGoA/s480/daniel-maestro-usah-maungkik-doso.webp)

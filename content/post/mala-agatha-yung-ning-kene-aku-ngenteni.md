@@ -33,4 +33,3 @@ Jenengmu ning jero ati
 
 #Credits: Title : Yung Artist : Mala Agatha Songwriter : PPWW Arrangement : Santara
 
-![Mala Agatha - Yung (Ning Kene Aku Ngenteni)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQbPYI-TdNCjVYjkp3lDSs1o1RLgZFpSRfbRVlulAnC7_YFiULqHUh6DsO8u1Yyj6i_h9-fHVtgYcs8grI5IJC2iKm99ye_Jm_bHgXByBBUm8tpYyapCv0Nm9PiQR-I53aXeQe9Nr1sPrmF82E_cvVZDkQfxzbxl35S9bW8TfiJYy4aDX0H9rVf8367fBc/s480/mala-agatha-yung-ning-kene-aku-ngenteni.webp)

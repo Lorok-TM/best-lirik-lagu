@@ -5,7 +5,6 @@ categories:
   - "melayu"
 ---
 
-![Cut Rani - Menduakan Cintaku](https://raw.githubusercontent.com/Lorok-TM/2026-08/img/cut-rani-menduakan-cintaku.webp)
 
 Lagu berjudul "Menduakan Cintaku" karya Aryadi yang dibawakan oleh penyanyi Cut Rani Auliza mengangkat dinamika konflik batin akibat pelanggaran komitmen atau ketidaksetiaan dalam hubungan asmara. Secara naratif, latar belakang cerita berfokus pada kekecewaan mendalam seseorang yang mendapati pasangannya membagi cinta dengan pihak lain setelah sempat membangun jalinan kasih yang harmonis. Dari perspektif filosofis, karya musik ini mengeksplorasi benturan antara ekspektasi loyalitas moral dan realitas pengkhianatan, sekaligus menggambarkan kerentanan emosional manusia saat menghadapi runtuhnya rasa percaya. Melalui aransemen melankolis, lagu ini merekam fase transisi psikologis dari penerimaan kebahagiaan menuju kepasrahan emosional akibat pengingkaran janji setia.
 

@@ -25,4 +25,3 @@ Demikian lirik 'Mas Joko' sebagaimana di atas.
 
 **Credit:** Judul : Mas Joko Voc : Ajeng Febria Cipt : Jalis Adi Luhung
 
-![Mas Joko - Ajeng Febria](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjI-Nhyphenhyphen_kaCSfVHrZMIEdZ33IuiABc055hgw4tptHngX-qpnXmy1i2jE75el1rmExNPo2RtzfP8pw5S3Rrr9rRVGmcCN7Hpg2-IfmwaxQQTh153Zqzyv4DZii_9QdXxMAwZYiIWjuOHDYfT5PbQjLJXmuV7fMF3iotsrfJAfJSEh8gWf_XeA5K0WHH4fJsm/s1280/mas-joko-ajeng-febria.webp)

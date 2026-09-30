@@ -25,4 +25,3 @@ Raso tak kamungkin ndeh adiak Dek jalan kito basimpang
 
 #Credits: Judul : Carito Mambuek Luko Voc : Carlos ft. Melisa Putri Cipt : Syahrel Putra Arr : Satria Wandra
 
-![Carlos feat. Melisa Putri - Carito Mambuek Luko](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8_LOphoGY-KiUzJRkWBqHd4Psvrofbp3ZgSrrp3udz0B4K5bCdLMhPp1t6mOFBgYAjZr_pJsOP59iSjMdPVO9nAWH2e9qO2_lzYVzbEJ-JLHfG4eYZKFNd1mbn9Il8lFet8TCpPxU13wn3zenpLLt6u-KYKgmMtScnP9UM8N-Yz3C3gTO8YK1rDnyJWXA/s480/carlos-feat-melisa-putri-carito-mambuek-luko.webp)

@@ -23,4 +23,3 @@ Ho ho ho ho Ha ha ha
 
 #Credits: Judul : Panyakit Roha Voc : Eka Ritonga Cipt : Top Simamora Arr : Ipanho
 
-![Eka Ritonga - Panyakit Roha](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBVlBH1IFsVUK00x9IXX1V1OvicVxb_WYmzcBAmhopnJWmp0_a42jlAKtbUASWSCjVVB1ESTs46ueQi1NqmZPqxF3XrSNvHwdUaIti5o0CDxjaGUPJhdtGNR4QoMNtFAEoGKiz0lexuCQ5Nj47obr3BC7krCuOakavIvVTKv9C2-wLFPAPd18AB_dhieCN/s480/eka-ritonga-panyakit-roha.webp)

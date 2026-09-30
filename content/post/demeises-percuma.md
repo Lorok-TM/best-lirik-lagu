@@ -36,6 +36,5 @@ Title : Percuma Artist : Demeises Songwriter : Demeises Production : DH Producti
 > 
 > Sayang oouuoo Sayang kini kau lukai aku
 
-![Demeises - Percuma](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7DxqNlXB7ztHQ2kVFXLPO_w_Vm3yLZCcwlb9c9_P5ECH8vYOqGg-f6OoLPTZupuWnvc5LyJMQA1GZh88DGWYaUsGNALOkGmvm-3FrZ7_xrPqMWxHqazzF0NscWLB3dFS_XBeZbiuDPnez9eircrO_CPTE_x7KzXDcdAlEVMxI1ilaPmNOrYqpOGGrCw/s800/demeises-percuma.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Demeises - Percuma. Silahkan bagikan juga ke teman anda.

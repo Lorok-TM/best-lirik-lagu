@@ -19,4 +19,3 @@ Demikian lirik 'Tutuik Talingo Piciangkan Mato' sebagaimana di atas.
 
 **Credit:** Judul : Tutuik Talingo Piciangkan Mato Voc : Vicky Koga Cipt : Safril Saha Arr : Iwan Romeo
 
-![Tutuik Talingo Piciangkan Mato - Vicky Koga](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4yui4nvkLhouGZOAjtyOZ9hXFa7xuOJRIP-175zJJMcDoa82nVk2YKjDbBu4jM5fvWk2XwL_DdEKVKfKon4tZR-v7cEmICJ1B5BKpc1Y4FQ113uVsyjAj8Dyx0bzVHjVI6eTPhYlXQlejIod1rzNpjwcuUmL2z7BGtIa2PI8iBza-pErfebH5f6H1OK5B/s1280/tutuik-talingo-piciangkan-mato-vicky-koga.webp)

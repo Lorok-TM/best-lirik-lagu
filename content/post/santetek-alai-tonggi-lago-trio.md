@@ -25,4 +25,3 @@ Sian surgo i bege ma endekkon inang Ganti ni hatakki mandok mauliate
 
 Sian surgo i bege ma endekkon inang Ganti ni hatakki mandok mauliate
 
-![Santetek Alai Tonggi - Lago Trio](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijaN9Tmcmf9FfM066UMgK9QER9-PnbMqV3aHADEQ9ZrAP_kE-iIPuGB6Cmio1rIf2Li2qSu8YWtIBAicpmLzrQeWqcOhFLT3NEF1_iiswrFQmEl6Wa36auIEIVcAWxuHNKh_4EdrVWtrqxhFpLyGSR4c_Pk7poMg6jPcnHsvHeGkrrZPmYnTGMp3CBWNj0/s480/santetek-alai-tonggi-lago-trio.webp)

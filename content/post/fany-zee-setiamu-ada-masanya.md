@@ -25,6 +25,5 @@ Title : Setiamu Ada Masanya Artist : Fany Zee Songwriter : Thomas Arya Productio
 > 
 > Ternyata janjimu untukku semua palsu Ternyata sumpah setiamu ada masanya
 
-![Fany Zee - Setiamu Ada Masanya](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkP-dqjhjQr0jE5ZB9AM74uUQEW5eIakOfFud0aV_0cLGeboJQvjWwUvt0Bglk8yZUBsxyqbVN727V2nmdKrcuJmcJeDc8nUMthRp3mwI3jDS5cSCwSvPunWEINHmRlY_R9hyCgvCQhD-tSzKiHxnA_XU7uduuREYmoDEZjePj1MFQGQ0JdvsWKye9iw/s800/fany-zee-setiamu-ada-masanya.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Fany Zee - Setiamu Ada Masanya. Silahkan bagikan juga ke teman anda.

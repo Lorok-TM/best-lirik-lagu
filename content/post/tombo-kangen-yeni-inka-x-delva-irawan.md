@@ -27,4 +27,3 @@ Prasasat ngimpi durung butuh tangi Roso kangen wis biso mari
 
 Demikian lirik 'Tombo Kangen' sebagaimana di atas.
 
-![Tombo Kangen - Yeni Inka X Delva Irawan](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgClUWZejV_hdSsgzvWe6-7AZjw6DezSqMdeAY2UGq6dy6OwVSX-EbYzakVjKegsS5ueM0BtMZbtQmGrE1Nkb1dSrfuR-w7COjrcNzdwvYYmQfP3YTFY3siHAQuU_T63rDhCf7-DrcLOtGQ_U9EMB7Wkp9NNMVYQ6YdikkdP-FaGh35R9jdEm6fY0q_nxQI/s1280/tombo-kangen-yeni-inka-x-delva-irawan.webp)

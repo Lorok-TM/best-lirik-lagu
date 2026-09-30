@@ -31,4 +31,3 @@ Demikian lirik 'So Tanta' sebagaimana di atas.
 
 **Credit:** Judul : So Tanta Voc : Dandy Barakati Cipt : Dandy Barakati Arr : Dandy Barakati
 
-![So Tanta - Dandy Barakati](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDwVd-xE4JqkS6RjHs0M_tFpBxLZ1eyGtdWDEDf6dSO_yI3JomjcbVs-1L4ws7xq8IIPg-rPWkfKJnxJVFDTripl5JAuf79CiO2Aj3aAFaxLamr3HzCEj8HUht9qw4IHBeh8SmMeo1baWNwXSsVSouvzdNuXmmrle6HqzcBCUUAhcWT4isYUlGPYPFXrgi/s1280/so-tanta-dandy-barakati.webp)

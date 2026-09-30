@@ -13,4 +13,3 @@ Bia-bialah buruak sangko urang Denai cinto ka adiak sayang Hati marindu indak ka
 
 Denai basumpah denai bajanji Sasuai muluik jo hati Cinto den taruah lahia jo bathin Sabana sungguah tido nan lain Hanyo ka adiak cinto den jalin Sabana sungguah tido nan lain
 
-![Bigheru - Sayang Talabiah](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3aq5SQ00DU0ioNUMb3ele0hFcaWthWrqp6yelmyUHA2S2EugrpLNQ9l1dAXelrbmOxZf8ZKjzStme4haqteaTqRZCE5DoveqziopkSmsWHLdab4Ztgg-xTlszunAIYHNuQ0pPe_uInrPP2jPo9xxLfQRIlKPdzSIGusUU_ut1OuzBRu6OQUzwzYLYONuE/s480/bigheru-sayang-talabiah.webp)

@@ -17,4 +17,3 @@ Mato lalok hati nan batanggang Baitu nan denai tangguangkan Samanjak batamu basu
 
 Saumpamo dapek pintak ko buliah Baduo kito manjalin kasiah Disaksikan alam langik jo bumi Bajanji kito bajanji Sairiang sabimbiang tangan saiyo dalam bacinto Sairiang sabimbiang tangan saiyo dalam bacinto
 
-![Ayu Amanda - Malu Malu Jatuah Cinto](https://i.ytimg.com/vi_webp/IXgiQ4T8Cl0/maxresdefault.webp)

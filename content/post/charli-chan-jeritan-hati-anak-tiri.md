@@ -25,6 +25,5 @@ Title : Jeritan Hati Anak Tiri Artist : Charli Chan Songwriter : Annisa Fadila P
 > 
 > Wahai kau ibu tiriku tidak kau iba padaku Yang menompang sayang kepadamu Kasihilah diri ini bagai anakmu sendiri Meskipun tak terlahir dari rahimmu
 
-![Charli Chan - Jeritan Hati Anak Tiri](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6bF0rve6-HeGj5Zs7fu8bynfmr1wi8IKBbfc69S7yTIzHh-eRy_lLNvRt44GUbZa331rH53ll5jQcmanQGBn201g5nsvinmmV27hALDM85uCSzElk9R2lHAUAevVM0bpt6XVzDrF5VT9Y9KkEnbjvW-bFz2tNkRCZcLxEUUDyLnEQ8p3sZ8LvcDmWtw/s800/charli-chan-jeritan-hati-anak-tiri.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Charli Chan - Jeritan Hati Anak Tiri. Silahkan bagikan juga ke teman anda.

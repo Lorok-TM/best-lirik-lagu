@@ -37,4 +37,3 @@ Hasian Aha di roham Ido dalan nadumenggan Rade do rohakki
 
 Hasian Hasian Hasian
 
-![Permata Trio - Siholmi](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvzKap4Be-Qln8BFn_5uza3fLzR2I17FkO3CuONAc7TGWR0SP8NRxybu2-Uo4oIJiKO-Hb7Kx049e3Hlx3fjph3uRc1PdwAKmtCGGB-m7jLiiqMMC0Td1_IRN9LLBMo58UMRBd4_5ca6AjTtL9XLcPeNC52p2IyYf6SmcwlYEQftekSBUklYnKgwFDnN6s/s480/permata-trio-siholmi.webp)

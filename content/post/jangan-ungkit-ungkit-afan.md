@@ -5,7 +5,6 @@ categories:
   - "indonesia"
 ---
 
-![Jangan Ungkit Ungkit - Afan](https://raw.githubusercontent.com/Lorok-TM/2026-08/img/jangan-ungkit-ungkit-afan.webp)
 
 Lagu berjudul "Jangan Ungkit Ungkit" yang dibawakan oleh Afan dan diciptakan oleh Anangga Surya Dewangga membawa narasi psikologis mengenai batasan emosional dan pentingnya penerimaan masa lalu dalam sebuah hubungan komitmen. Secara filosofis, karya musik ini menyoroti dinamika toksik yang kerap muncul ketika salah satu pihak terus mengungkit kesalahan atau memori masa lalu sebagai alat kendali emosi, yang berpotensi merusak fondasi kepercayaan saat ini. Latar belakang cerita dalam lagu ini merefleksikan sebuah ketegangan interpersonal, di mana sang narator menuntut ruang kedewasaan dan keadilan emosional dari pasangannya agar hubungan dapat bergerak maju tanpa bayang-bayang masa lalu yang destruktif. Melalui pendekatan lirik yang lugas, aransemen ini berfungsi sebagai medium edukasi relasional mengenai pentingnya komunikasi yang sehat serta seni melepaskan hal-hal yang tidak lagi relevan demi mempertahankan keharmonisan bersama.
 

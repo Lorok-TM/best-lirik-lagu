@@ -34,6 +34,5 @@ Title : Mengapa Tega Artist : ILIR 7 Songwriter : Vic Ilir7 Production : Ascada 
 > 
 > Haa oo
 
-![Ilir 7 - Mengapa Tega](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvYhh4zsEAEkS5rEIVTNJg-zE5UpCB8ZOiNTWnxC_EVArGxnaiqVx_sVD9F20_JTktTIjPbGPEMjedyMg8uwbq_QqigmIHZT3XoF8h1Nv4rgDHfOUsXwY6uoMn3zXyjoatiGPvLUPLJZhJtXzi33VVteaWZ3Xt6J7ubMBvihrE9IocOl52A6HwycL98w/s800/ilir-7-mengapa-tega.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Ilir 7 - Mengapa Tega. Silahkan bagikan juga ke teman anda.

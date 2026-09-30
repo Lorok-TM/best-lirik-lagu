@@ -39,4 +39,3 @@ categories:
 
 Title : Bahagie Artist Vocal : Githa Songwriter : Bang Soul Lips : Dinde Ecca
 
-![Dinde Ecca - Bahagie](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg26n-9RxEVhGAhy32M9JHP8hDzHSBzJg7w1zEgAIMadlzyziWXFylmk9BtFwygH2sB5xmp9jZthTLvETsd0A94OgDPulvgReH2fsQuqX7mgf5sl3yBbC0iP_PfJMjs_euh7Nhiw0bf0QHdQ2whVGZBbeh8eGl9KIwhZXmeHkFXMmlnbqcV-DiY2jS_gA/s320/dinde-ecca-bahagie.webp)

@@ -25,4 +25,3 @@ Jalan hiduik nan paik Takuik jo denai rumik Mamiliah jalan sulik Yo sabana sampi
 
 Bialah mangalah Denai lah manyarah Bialah bapisah
 
-![Ipank - Jalan Sampik](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8l6g_59M2UFQ18I4G5x4VJ6P_IPEU4DFzIL-3AeEzPJcfv7PRwvrTy_dIl1ECHMyWSUe2qflepWKxgT8l_vct9W6FnTwfsaxJd-xHTQ5xTaZJMBjZaJPsoMzC8xxIWSVlm-ohT-QoOUPQL5nNmMJMDgLiJCQMlwOinARvMWFq8NihozJAYGeCBVA0kPfA/s480/ipank-jalan-sampik.webp)

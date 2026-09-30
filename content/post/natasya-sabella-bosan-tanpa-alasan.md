@@ -19,4 +19,3 @@ Kini akhirnya tanpa selesai
 
 #Credits: Title : Bosan Tanpa Alasan Performed : Natasya Sabella Composed & Lyrics: Trakast, Natasya Sabella
 
-![Natasya Sabella - Bosan Tanpa Alasan](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtBmrKglkxPe_XkkyEalPR9lkpa06ooswKt7NdMdRjH0G5FVNIvtpK50xQVNXiuhr5_HgcoNqNirWM4y_ZXPGa022yOZYNF3Re8VoJJtM_VEgtgVjU2zCHWIkFFKHBdbvuTp16jpKefbTLUxsSE0YqJbQphIiVnmQNzjPVVMSGXcbKSt97Q9m6TqibMUVT/s480/natasya-sabella-bosan-tanpa-alasan.webp)

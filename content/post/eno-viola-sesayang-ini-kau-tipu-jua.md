@@ -13,4 +13,3 @@ Katamu setia katamu tak mendua Di belakang ku kau membagi cinta Apa salahku kau 
 
 Bertanya tanya aku di dalam hati Cinta seperti apa yang engkau cari Kasih sayangku manis bak madu murni Ku pilih cinta yang belum teruji
 
-![Eno Viola - Sesayang Ini Kau Tipu Jua](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkTj8PXM5IFOv71FIod0-8ajEPCs6vv3mE09OBVtO1otjdyartKjzFLstrSWB7QSOlCmPaGOVp_RTSOhasOVHCgRAUjWtJF4LV23F4wdu8OiqzvC0wOkrPisqKmyMzjko0t3feNO5fOmWwgZ22Xfm60a4s_aW-Y8N-d6CQijdNZKXhvfSUXmOi8GhPg-MF/s480/eno-viola-sesayang-ini-kau-tipu-jua.webp)

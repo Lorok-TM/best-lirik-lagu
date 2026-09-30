@@ -18,5 +18,3 @@ Tuan ai juo jan nyo denai Banyak talang ba bagai talang Indak sarupo dek talang 
 Kanailah tukang diraoknyo Sadang maikek, ikek cincin Mambantuak ameh jo suaso Banyak malang ba bagai malang
 
 Indak saburuak malang ambo Untuang bak padi salibu Awak tumbuah musim talampau Rantiang nan tinggi nan ka dicinto.. Ka sampai raso tak ka mungkin Lapuak di dalam niaik sajo
-
-![Anyqu - Si Jobang](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkjTNaXhO54BweVWwXysDLdCAojG2lWy2u0G2ZfQjKWEAip6qpbDd37-x-hsFHi03bTaTMFxAsy4yUNicaqB12_kPZhjoqeNijyHDqAIR6aWjvOTI4KpLK6qtfAar9qYycY-IIF69-xX1lm7tN42g3HBKpqetuSEa2Pamr5CAhFMctsitcjDGLJbunhT9V/s1280/anyqu-si-jobang.webp)

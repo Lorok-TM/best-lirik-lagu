@@ -21,4 +21,3 @@ Mangoloi ho alai pulut roham tu au ito Dihanciti ho do au tarilu au dibahen ho T
 
 Tarmalitondi au ala ni pambahenanmi Lungun nai di au
 
-![Lungun Nai Di Au - Eduart Tamba](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmDoPH0aKdrWTn-642iAZT816E8bs7jrzcsLaWbEVJOMtgUSDZL-veJ5RvxI7Ho76CNkBuzmH8XQl7INisCyfPZZZMwRNzltX-YeYvRijbqSTwVDZ2bE21P_GZ5-vmYdPFF80GMTsxQQwz5TQ6vlajqB5xPsHWp2vnX3g5tkxV6Z9qGhEXySmjgFJvnteV/s1280/lungun-nai-di-au-eduart-tamba.webp)

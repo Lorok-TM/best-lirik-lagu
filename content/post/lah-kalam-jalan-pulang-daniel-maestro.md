@@ -23,4 +23,3 @@ Demikian lirik 'Lah Kalam Jalan Pulang' sebagaimana di atas.
 
 **Credit:** Judul : Lah Kalam Jalan Pulang Voc : Daniel Maestro Cipt : Wewen Sk Arr : Wewen Sk
 
-![Lah Kalam Jalan Pulang - Daniel Maestro](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjwWZST1QovSNE_nXoBK73RU810yHit-RWmP5BcCocT004E4YajlPeW1BPX2AjXEj7Ynzz_POvkhXfgwIxl5eADGNEQ5huHuP8xTVxnIMVGETrovChQC3VLsvaLJb5N2qz8EbUuvebx0sy6FMLr5UBO3SRba1bFYucns3v4o5PCxIN9j_w5QE6_bAlzDkq/s480/lah-kalam-jalan-pulang-daniel-maestro.webp)

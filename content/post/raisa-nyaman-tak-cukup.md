@@ -25,6 +25,5 @@ Title : Nyaman Tak Cukup Artist : Raisa Songwriter : Dewi Lestari Executive Prod
 > 
 > Nyaman tak cukup Kau butuh tantangan rayuan jebakan Semua yang membuatmu penasaran dan deg degan Tak ada lagi Nyaman tak cukup Aku tak cukup
 
-![Raisa - Nyaman Tak Cukup](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8NSJznLuVDxmMZJcWHDFJ5ZWGllLFsfVV7Q1tJQ4Xv4pJGhVgmN40CSDjipfAsfqAXoLe5AXvGqFeoL__qaqQB-AZrZqvVV0rMP1wxSlHBZffeIRqSTFS3fgeqIsrqcHRTo1sq7K8Jt2V2KyAkxApH8v0vhzVRlbMZdp5tJeTsi4d6Wkz8pJxMkheBw/s800/raisa-nyaman-tak-cukup.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Raisa - Nyaman Tak Cukup. Silahkan bagikan juga ke teman anda.

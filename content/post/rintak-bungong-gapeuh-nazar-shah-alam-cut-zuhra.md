@@ -31,4 +31,3 @@ Chorus : Alah-alah sibungong gapeuh Puteh deuh angen peudoda Gaseh na meuyum lag
 
 Alah-alah sibungong gapeuh Puteh deuh angen peudoda Gaseh na meuyum lage meuh Bek leuh-leuh siumu masa
 
-![Rintak Bungong Gapeuh - Nazar Shah Alam & Cut Zuhra](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgH2EF5QVJxLJO2Ba63H7v-25-IE7cNr759ra60tzaok01bNzxtxBSHXbipkzXyrHCltaxcwX3ckDiETNjgPL9AkFjxU1LK80x5Ts5jGiKEXPpWy9YYXT8aGM4JlwFuQC9x6iKpnaiq47uhpfSHEq9UJYf6kRs9LklJTpGOmd_PpRFG9NLQGSToZjZd4Zkz/s1280/rintak-bungong-gapeuh-nazar-shah-alam-cut-zuhra.webp)

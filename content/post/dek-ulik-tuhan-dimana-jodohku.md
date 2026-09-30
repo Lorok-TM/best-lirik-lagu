@@ -31,6 +31,5 @@ Title : Tuhan Dimana Jodohku Artist : Dek Ulik Songwriter : Dewa Mayura Category
 > 
 > Tuhan dimana jodohku Pang enggal tiang nyidang ketemu Berikan yang terbaik untukku Pang sing buin dadi masa lalu
 
-![Dek Ulik - Tuhan Dimana Jodohku](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhILnVzRiBrwy_1UgxBeOos-6Fl6yfHmTKtymY7sxYqwHrRYlBh5hsikhi8paIZPIv6gUe9P57yA-Ava_RLZ0CCrKxUVvVqxinJjwRMHGa7r7n3Ac3Muh2uEAwiQtzowiW4p5RDHycMWcC0MMAG6_oyigbxLOh1x5Hkryv5gTk5Jt1hOc_2_Phe9SGonA/s800/dek-ulik-tuhan-dimana-jodohku.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Dek Ulik - Tuhan Dimana Jodohku. Silahkan bagikan juga ke teman anda.

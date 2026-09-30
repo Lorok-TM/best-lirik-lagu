@@ -11,4 +11,3 @@ Reff:
 
 Hasian Hutangiangkon doho ito Sal anggiat maranak nang marboru ho Hasian Dang hu solsoli ho ito Lao mamutus pargaulan tai Alai soboi tarjua ho natua2 mi Saut maho tu paribanmi Roma ho ito jalang ma tangan hon Ima salam, salam terakhir sian au
 
-![Romantis Trio - Holong Naso Tarjua](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdIW8hBs_dGa-Smua8cXVa1gsTOum-n2ZD34hHUK6BPdpwxPhpKCfkd0CGCQeeriZxLjtdsW3k3ueNs_aZXuNek3RNbRylK3iJwd-5Hi4PB74x1ZxWbd3LO_IA7NQbUTxXp-Xe_WSLmgLpIDKk-p41Dy0gZu46wDyP3ze8DXcsnaQqudEDBfJjqsjUqxaR/s480/romantis-trio-holong-naso-tarjua.webp)

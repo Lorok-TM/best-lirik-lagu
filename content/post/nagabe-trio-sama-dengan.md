@@ -25,7 +25,6 @@ Situs bestliriklagu.com tidak menyediakan chord dasar / kunci gitar / Mp3 lagu S
 > 
 > Sama dengan ni sianu Au manaron na lungun Puasma uhur mu Das ma ganupan nai akalhonmu
 
-![Nagabe Trio - Sama Dengan](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPkAo6aud5v7U1Cw-qN3OcIogZNtln2f22uJ7B_LFPh-oJQLQVtkxfcdhubKaDYmdupP8OmyzAUh8sQ3ZtGJDr0XnDbXJ-dhx6JtROVfX4OgpiNS-2qSeu8i7E1HiyycMT6vl1n6X9MTYqnjEwCYjTkYT6RWg1laoHgVGNSqLComf6o0yrBzvUxaj7_mY6/s800/nagabe-trio-sama-dengan.webp)
 
 Tujuan kami berbagi ini ialah menyediakan dan menambah sebanyak mungkin informasi arsip lirik lagu untuk mempermudah bagi Anda yang ingin menghafalkan lagu Sama Dengan ini, maupun belajar bermain musik.
 

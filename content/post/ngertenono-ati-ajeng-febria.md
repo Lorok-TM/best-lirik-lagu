@@ -23,4 +23,3 @@ Wes cukup tak ujo Kowe cedak sopo wae Pesenku siji kabeh ono bates wajare Aku ra
 
 #Credits: Judul : Ngertenono Ati Voc : Ajeng Febria Cipt : Yonanda Ndx
 
-![Ngertenono Ati - Ajeng Febria](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixVf8Ff9dlTS_JvHPvmw8e47gidELr_THMd-iKBeh07y3LMY4P6OCnGkuGJ-h3NmQpVaHeQLZY54jC6vPe3z2JC2t5xUkHv72yP-n0BC9cL88SJbFFGPrsmRjVRTEHjf6afucN4cMRNbjZgtkFfsK8bd9iOJPnJMTjpVEg8yaCAhWzofQd8u7SwkddOGmv/s910/ngertenono-ati-ajeng-febria.webp)

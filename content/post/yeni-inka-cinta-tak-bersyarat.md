@@ -21,4 +21,3 @@ Kar′na demi cinta Telah kurelakan kecewaku atas ingkarmu Sebab ku mengerti cin
 
 Ternyata tak mampu kau melihat Dalamnya cintaku yang hebat
 
-![Yeni Inka - Cinta Tak Bersyarat](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXcX3ePEkJ85PmjE20BzeOJq3Tdx4RR4vXVMnsru8xmOlTX0UN85IzgZSLU1-9-vHwYKdA8jLhJb2-i1gAxRTLKOfZTnQjl_o7R9OzRqNVzkLkkN_tv1wHmQK5TalBDFv7EEDgkcCo7f3YEJqlFH-UPhqCvTUoDKHPNkTsYsR82jVFRbmab533axTf32wa/s480/yeni-inka-cinta-tak-bersyarat.webp)

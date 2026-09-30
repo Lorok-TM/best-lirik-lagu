@@ -29,4 +29,3 @@ Demikian lirik 'Malapeh Hao' sebagaimana di atas.
 
 **Credit:** Judul : Malapeh Hao Voc : Rayola Cipt : Wawan Cd Arr : Decky Riyan
 
-![Malapeh Hao - Rayola](https://i.postimg.cc/VLZwFbyf/malapeh-hao-rayola.webp)

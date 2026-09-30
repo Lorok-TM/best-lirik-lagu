@@ -29,4 +29,3 @@ Indahkah takdir menyatukan kita Kala waktu menepati janjinya Di sinilah aku Bers
 
 Satu langkah ku ke depan
 
-![Raissa Anggiani - Satu Langkah](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfZoysir0k1kRmZWPoTOK0JdiH8lYkyeLrSZgLCfNaoh6jHDBem12m7mCrYFXoXVAA2dRtbUvDJ1ZP2q3WRVQSkeIMt9JhLx1rmbJAAx4ZtZ31BKTUGmATDtN3OB9RYnWHLonRwsWzuH-A3axgm2rHfvTY8NlguQKbLgn6yBlk6i211lNRk5j6sQPV3fB-/s480/raissa-anggiani-satu-langkah.webp)

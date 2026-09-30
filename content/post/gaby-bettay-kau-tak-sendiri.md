@@ -25,6 +25,5 @@ Title : Kau Tak Sendiri Artist : Gaby Bettay Songwriter : Bambang Irwanto Produc
 > 
 > Semua yang terjadi Tak melebihi kekuatanmu
 
-![Gaby Bettay - Kau Tak Sendiri](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjH00W62rsarPQdHCG1VuBTv5269N_87n31UN9J-MxhVaydMeNx4veEUZ2-fjjYugcEQVTFZKUI6IV6_Gf8kCy37-t_iQttV-tN-urU3uVCGctLSRH1ANZoZmzcTjmFZZrzKNJixAjnImfrlH1I7XBZQtS2yt0cPwSM-Cthp4qmSYwV_mi7dwk0wzSA4A/s800/gaby-bettay-kau-tak-sendiri.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Gaby Bettay - Kau Tak Sendiri. Silahkan bagikan juga ke teman anda.

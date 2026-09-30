@@ -21,4 +21,3 @@ Demikian lirik 'Insan Yang Tersakiti' sebagaimana di atas.
 
 **Credit:** Judul : Insan Yang Tersakiti Voc : Yelse Cipt : Amri Damanin Arr : Defi Ardi
 
-![Insan Yang Tersakiti - Yelse](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3RtkHqEwHOjLD2P3I0LMbXe-pRdC9X02AuzxVfMKMQlnbi92M8JY3Yz_gCfs2Y0Rponw09Rscm-0RiDLQHkoLcTQJgWNXwreOIT7c6tOEEYigLJpuH-Nu8YkW4xxcx58g7YOZAZ2qImRgVMgUKI5J4ufq51nwUjKmxiJ3untVyd_N0qBtDYSFfnNUwCpN/s1280/insan-yang-tersakiti-yelse.webp)

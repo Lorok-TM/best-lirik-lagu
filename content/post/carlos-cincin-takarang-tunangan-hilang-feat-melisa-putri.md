@@ -17,4 +17,3 @@ Padiah kini tingga sibadan surang
 
 #Credits: Title : Cincin Takarang Tunangan Hilang Artist : Carlos ft. Melisa Putri Songwriter : Syahrel Putra Arranger : Satria Wanda
 
-![Carlos - Cincin Takarang Tunangan Hilang feat. Melisa Putri](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyOOC4G3otT5k8j5dFMGfoszTV1dpZwO6xJj5XfsFiydKvOcUKpVaZ9qjygl0foF5vZfKKMhSh3tIxZv1A8625gzGdyVbJXRJa0Mh9m8pT7eWIHt4YoRQ-2743O_om2xaj9fBR8uH4pDtcXZ16glIBD8n4IxcyY4SWU8ZjkDAh-1Ri4Ay-7eOga5HXtrUB/s480/carlos-cincin-takarang-tunangan-hilang-feat-melisa-putri.webp)

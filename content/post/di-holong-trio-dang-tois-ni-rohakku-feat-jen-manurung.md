@@ -23,4 +23,3 @@ Dang na hu parsittai inang nauli lagu Na ikkon songonon bagian ni anakhonmon Pos
 
 Pos ma rohami inang hasongan ni Na ikkon boi daionmu
 
-![Di Holong Trio - Dang Tois Ni Rohakku feat. Jen Manurung](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaTuSOgya_qqU4Q7sH0ev4TPpodji9aTr9XxJe8k1XcDWv5VzCaiNWmUii3O_9GByP1oXgxp1JRVFB7i1d5gCLIMCYTR4dnWQxfivg_g70HaIEayFHJpYpFWp4zzbmNlOEXcfM-EC1uXM4_R_flH2_WZL3xGIOu2pPt-uB9whH0Q2pi9MlUUDvuBjc6QVi/s480/di-holong-trio-dang-tois-ni-rohakku-feat-jen-manurung.webp)

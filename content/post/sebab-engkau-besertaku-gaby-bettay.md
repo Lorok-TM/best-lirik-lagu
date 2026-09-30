@@ -19,4 +19,3 @@ Demikian lirik 'Sebab Engkau Besertaku' sebagaimana di atas.
 
 **Credit:** Judul : Sebab Engkau Besertaku Voc : Gaby Bettay Cipt : Bembi Sinurat
 
-![Sebab Engkau Besertaku - Gaby Bettay](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFpJ5bAH8EL2Ox9Rjox_eiNy3oxGFb-jO3yNQc-xJqqn6C48z7hLJn5Bg0COXeVCE1xw-GExIlm9whjqXp7BCh6PqDBbPj6QkFE_VLvuxYS0FiGMz-XaLlpdItjMHJIWSAGRrz3lnMiHYlgaCarORsIFS8LNdAwdewB35DmoWKiLGhqkWaL8ZC4VF2NNi-/s1280/sebab-engkau-besertaku-gaby-bettay.webp)

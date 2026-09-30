@@ -21,4 +21,3 @@ Demikian lirik 'Kau Yang Ku Cinta' sebagaimana di atas.
 
 **Credit:** Judul : Kau Yang Ku Cinta Voc : Silvia An Cipt : Amri Damanin Arr : Decky Ryan
 
-![Kau Yang Ku Cinta - Silvia An](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGVcO8y2zFeGCaTnYu6LZOMTKhQtENqqjweo9-v_tPpr1eJh8ilmF8UtljUiqkAb3fFrp-oI-62UEIX2T-QzXtqXyX_vkntTOlwtOSIzgEe8NSNJb8zD37CRWkschCFbIILzYAuZB3dK5PRXhcHN06iJ-aHZnqKqyMWAxeFG-gGyLKJ3nHQVBgZG7y2nJv/s686/kau-yang-ku-cinta-silvia-an.webp)

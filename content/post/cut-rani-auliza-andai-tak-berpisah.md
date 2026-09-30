@@ -29,4 +29,3 @@ Andaikan kita dulu tak berpisah Tak kan seperti ini Egoku dan egomu tak mengalah
 
 Andaikan kita dulu tak berpisah Tak kan seperti ini Egoku dan egomu tak mengalah Ingin menang sendiri
 
-![Cut Rani Auliza - Andai Tak Berpisah](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-jdfGGGtPfOVGDytZzUEscSgtyogFUj4oWzOzrVjg3BlpSzw0Z7FKl5WgZOU_CNW4L-krrPHOECrS6DzPQJw7An7hHBg6QeklhLFsDo4QxjEMsF7g13Q-jZnm1UFXGhZPnCc1b3m7I6P6nTlaQ-z9exyIEw_xo2pnm4XBB89EO_kNgVeIoBuQoHPd1Tsr/s480/cut-rani-auliza-andai-tak-berpisah.webp)

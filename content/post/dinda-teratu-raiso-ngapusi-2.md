@@ -5,7 +5,6 @@ categories:
   - "dangdut"
 ---
 
-![Dinda Teratu - Raiso Ngapusi 2](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwkH6grtqwe95tcwVXf7t3djm9mAbngtYLhFdXicRdu-6M1v-LsisU_JivHeujCqFqRbqjoEsD3y3YIiKL_SEqvaNX9u76sQWXqIE3xErP6s7zAfqEQsN44ZXY8Ammg6nKOpViJyKIbvP5oCRxzEQ4cU2K69BiFkSUMuJJpgpssmXICEUJ4D2lO8-IVLAA/s910/dinda-teratu-raiso-ngapusi-2.webp)
 
 Uwes sakuntoro Aku ra krungu kabarmu Yakin ati iki gelo Getun ninggalke sliramu
 

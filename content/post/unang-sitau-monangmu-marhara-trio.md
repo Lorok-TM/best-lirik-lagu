@@ -27,4 +27,3 @@ Alani i manat manat ma hita Mandokkon hata sirang Molo dung salpu sasude dang ta
 
 Alani i manat manat ma hita Mandokkon hata sirang Molo dung salpu sasude dang tarulahi Dang tarsol solani
 
-![Unang Sitau Monangmu - Marhara Trio](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTSJGuayZ_Z-yfHxZCmYhxUgHpPO3S0mOLpui-oO-li4Ra27oD6BoREPQP_OfIKXOtVH_nOahhukm7H6G4_LD8shnYen5AQT0vrGE6jMnEKrqP9LCMXI9gluL0M6XpUUA-Xr3UHoG0DwrkrVf94BytKYf6JT2g9bgUn7iCRF7rvTnpNjfG7G_dNvtgyaZn/s480/unang-sitau-monangmu-marhara-trio.webp)

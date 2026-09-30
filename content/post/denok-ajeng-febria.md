@@ -6,7 +6,6 @@ categories:
   - "java"
 ---
 
-![Denok - Ajeng Febria](https://raw.githubusercontent.com/Lorok-TM/2026-08/img/denok-ajeng-febria.webp)
 
 Ora bakal cukup lautan mangsi Ngukir endah ayumu koyo widodari Mungkin iso entek ewunan lagu Nyeritakke gedene roso sayangku
 

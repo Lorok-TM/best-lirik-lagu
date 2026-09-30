@@ -13,4 +13,3 @@ Ayah pandanglah diri denai ko Dari ketek bagadangkan kini ayah jua denai Kama ra
 
 Baoklah diriko tabang Buliah ndak taraso bana ayah kahilangan
 
-![Zhifa Allaysa - Basandiang Bukan Jo Cinto](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiv9s6Kvs701ZSDuSgpIgE3LmQL5aeZUyf_GKVUrAr2KztDxa2RvjKhVMUR02pmOh4O0FuFVWZtybH6NLKT42YJhT0aCfi0BehCnErTEkkTjQlkelYz0A9CEFc1YYNBDFyxlwfAGsU5-uj8X02DCQw0XrxrxMkV4hdevvVjMJYEg2WWtZ0ZLEYqwKTHadzM/s480/zhifa-allaysa-basandiang-bukan-jo-cinto.webp)

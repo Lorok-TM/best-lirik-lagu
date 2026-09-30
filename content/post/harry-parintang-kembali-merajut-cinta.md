@@ -23,4 +23,3 @@ Aku kan berjuang untuk dikau sayang Ku tak peduli walau badai menghadang Kan ku 
 
 Jika masih ada cinta dalam hati Aku mohon agar engkau kembali Mengulang kisah lama yang pernah ada Ku ingin kembali merajut cinta Ku ingin kembali merajut cinta Ku ingin kembali merajut cinta
 
-![Harry Parintang - Kembali Merajut Cinta](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioQCbIzf9c1pt8GzrdwJ9YVOi_A39NKWagxK-PNmWCCsAQo_EaGrwBWVSOA_7z7ggiNUzcwl5Mn5yXZggAfCv4D1W5-lhsefctFZRsYy0fWItsiWg6HO_N-napJQUF2fR3_F4NeXcu5lpXj8PC2C1ajadb0Pe2oR4bpnpojMA-UUoQJZWsGO-XfhvOU_k0/s480/harry-parintang-kembali-merajut-cinta.webp)

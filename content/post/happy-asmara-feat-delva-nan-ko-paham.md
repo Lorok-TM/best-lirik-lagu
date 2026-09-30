@@ -35,4 +35,3 @@ Na na na nanti pasti ko mengerti Stelah sa hilang dan sa jauh untuk pergi
 
 Ko akan tau bagaimana sa sayang ko tapi sa rasa percuma Ko trus ungkit Ungkit luka lama yang buat sa trauma
 
-![Happy Asmara Feat Delva - Nan Ko Paham](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjw522vUN2wIfOMPvCIEo950M-t76vujgmd6DEmlpnJeY96OhfEcLYmBHlDYDxlU8P1RUds3D9vkSQqLp_b40q_ezRYkunQJH3Lb4BGCWPJKi6MdHdl9p9LSZQFtnMBqnh3_mzvX32aihB1QaQhW1jymXTeyY-6SYZGznJQQXyt6USkuS6YgKiPGyuVBTso/s1280/happy-asmara-feat-delva-nan-ko-paham.webp)

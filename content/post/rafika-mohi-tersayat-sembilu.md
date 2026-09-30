@@ -25,6 +25,5 @@ Title : Tersayat Sembilu Artist : Rafika Mohi Songwriter : M. Taufik Oli'i Categ
 > 
 > Ku berikan semua yang ku punya Namun engkau t'lah menyerah Kau berubah sikap kepadaku Sampailah di sini cinta kita
 
-![Rafika Mohi - Tersayat Sembilu](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFh3I_Ris6pO2HEG6QtpHKwN3lAvyWJkj7iO0Z8TeLRBBEkC9oP3zZYdSOgfGy7agxeAX8LdJudyfNMlg_O8seWoxVnpTJstA4d-47aAMu_8KEHa9eJ0i-vnZ7UE1JRNS9b-N6d-a4UoI2wn-4Y6xe8vpKPND-8oWYwTdxQe6vFAZxJtnlU-ops4WAGw/s800/rafika-mohi-tersayat-sembilu.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Rafika Mohi - Tersayat Sembilu. Silahkan bagikan juga ke teman anda.

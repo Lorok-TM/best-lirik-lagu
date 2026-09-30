@@ -23,6 +23,4 @@ Title : Bolokkon Ginjang Ni Roha Artist : Arghado Trio Vocal : Rahot Sihaloho, L
 > 
 > Paserep ma roham ale Paburju ma nang na mardongan Dang adong labana marginjang ni roha Nalao salpu do sude haduan
 
-![Arghado Trio - Bolokkon Ginjang Ni Roha](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhN-wqB4WG0C_fIii-P4_r8rdhTwF5DN2TjKBsDogblxPHqGf5g1rXNfjF7TcPNe_Hc0NLyfp0N9NG1GOTzUpC0KlIAvOhdzF2Im6bQyYopui8tDe09ibDWPvsIXa4iGwdObsRiLRvv4YDVVqPA3vCYcOvqmtjSMCuRcT5YnNrLmqfC_lP-vNO5bSDkRA/s800/arghado-trio-bolokkon-ginjang-ni-roha.webp)
-
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Arghado Trio - Bolokkon Ginjang Ni Roha. Silahkan bagikan juga ke teman anda.

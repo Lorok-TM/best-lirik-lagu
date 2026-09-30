@@ -5,7 +5,6 @@ categories:
   - "dangdut"
 ---
 
-![Laut Kidul - Silvy Kumalasari](https://raw.githubusercontent.com/Lorok-TM/2026-08/img/laut-kidul-silvy-kumalasari.webp)
 
 Suoro ombak segoro laut kidul Eling sing biyen tak rangkul Ngucapke janji, urip tekane pati Tapi mesti mbok blenjani
 

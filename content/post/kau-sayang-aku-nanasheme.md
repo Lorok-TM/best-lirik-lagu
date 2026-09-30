@@ -5,7 +5,6 @@ categories:
   - "malaysia"
 ---
 
-![Kau Sayang Aku - NanaSheme](https://raw.githubusercontent.com/Lorok-TM/2026-08/img/kau-sayang-aku-nanasheme.webp)
 
 Benci benci kamu Tapi hati ini bergetaran Malam ku tanpa bintang Aku lah pungguk rindukan bulan
 

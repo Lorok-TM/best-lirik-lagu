@@ -15,4 +15,3 @@ Di banci alah nan di dandam Di hino saburuak mungkin Di sangko raso nan ka hilan
 
 Di pintak indak nan ka dapek Urang bakasiah lah bakabek Di tunggu sampai ka pabilo Baruban balun ka nyato Malang malang malang bana nasib denai bacinto Sudah jaleh taluko tapi mancinto juo
 
-![Randa Putra - Taluko Tapi Cinto Juo](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFWHU62u99qW1O3hRQymtEn7it6AkO94jxSoR76TDLQtN9FCGAFutSAIEsP6J8JH4NSiJNc_hiSM70qmsQtvw1dXrA9gniSPJTdavPwv5noF_ZHK7oQ_H-I6BxqH1pQFIe3wCL_q0OswvwdD3xOiCoT0P29DDhyphenhyphenHFbUWMMMi2xQ0BesTE0Aq7L2m__Rb9d/s480/randa-putra-taluko-tapi-cinto-juo.webp)

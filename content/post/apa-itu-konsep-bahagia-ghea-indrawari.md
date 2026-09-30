@@ -24,5 +24,3 @@ Sudahlah sudah Sudahlah sudah Sudahlah sudah
 Sudahlah sudah Sudahlah sudah Sudahlah sudah
 
 **Credit:** Judul : Apa Itu Konsep Bahagia Voc : Ghea Indrawari Cipt : Ghea Indrawari
-
-![Apa Itu Konsep Bahagia - Ghea Indrawari](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJnCyNfPmtD01YCfH-Q_YATGji2WvMiWQncsXMATnjNJF6NXx_WYA303kZ3vCwubEPGXIzCos95dnNpYGpghOBac5Dze3JE9LeRbBS9q2TqSayblc3Ob2yumH2-Klx13rp8qXje1nVjF6UWxdhXLTgXaP6HV-4_sp0n-GPWDppHbpTzfITdbH1ErH0onXb/s480/apa-itu-konsep-bahagia-ghea-indrawari.webp)

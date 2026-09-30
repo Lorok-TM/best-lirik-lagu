@@ -19,4 +19,3 @@ Kowe lan aku wes sumpah ing janji Ora bakal nggudo ati Yo mung sawiji sing nang 
 
 #Credits: Judul : Kanggo Kowe Voc : Ndarboy Genk feat. Woro Widowati Cipt : Jo Klithik Arr : Genk Band
 
-![Kanggo Kowe - Ndarboy Genk x Woro Widowati](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwX41fkL50V_RJS3KU9Lbi_E4vworpG-Ljzf6wycWOBvfg348SCC_KWiY4maT18c4s9JYIj6Iw7rTksR1k-n6i7UsZwbFzhMiyQWWkUo_8fboVwyPShwmp7HfH_xHTBQ7u0YG2vEbfyIp5e56cdxxDZe6FyRyH8v6bp_lSHuEYpih7tfktjJzwXgmRLLxk/s910/kanggo-kowe-ndarboy-genk-x-woro-widowati.webp)

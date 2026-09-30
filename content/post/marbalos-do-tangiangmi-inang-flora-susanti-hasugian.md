@@ -33,4 +33,3 @@ Sangkap ni na mangolu ahu boru siapudan Ingkon di joloku ma sonang dainang i Ido
 
 Hape dang sakkap ni jolma na saut Sakkap ni Tuhan i do Nunga jumolo dainang i Nunga jumolo dainang i
 
-![Marbalos Do Tangiangmi Inang - Flora Susanti Hasugian](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh49aLJy-FN-TpSQ1pjqPDaEEd36xCbec9R-7v8rFVtJnEa68o9kE2jGYy7yPWsiVhbjhpyOUqvxCKnQ8Jw_FSTdf2ynIMpZflwBKerIKGeoHR19D32x5v5essiXyfz2Hu_CAeoiPs7MS30wVG864CH4u-zICWPeSuvENTn_Bip4tD6wgYhrcvpoHHsz0GJ/s1280/marbalos-do-tangiangmi-inang-flora-susanti-hasugian.webp)

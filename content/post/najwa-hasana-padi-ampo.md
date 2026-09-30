@@ -17,4 +17,3 @@ Ketek mangaji nan jo basikolah Ingek jo dunia kanalah akhiraik Dek kito hiduik h
 
 Baraja kanan pandai Baguru kanan tau Elok elok parangai Banyak urang katuju
 
-![Najwa Hasana - Padi Ampo](https://i.ytimg.com/vi_webp/OAL_TCSgJ9U/maxresdefault.webp)

@@ -27,4 +27,3 @@ Ai dang hu tagam ikkon putus ito Hita na dua Au do na salah ito papolos hu Marha
 
 Dang tarsolsolan be Ai dang tarjua be parsirangantaon
 
-![Dongan Sonang Di Bagas Dosa - Artha Sister](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEga-BjRm-9O-nDn03DeQ_OhjEY8haBDdtzxrPvHNAdNcgMJ171IUr-9fqAVCQlFZDSWHFDNtayNP9Q6YuQYvViIR6vEgPml3Z3YDrbZb-pyodYG3QojWvlFjwQVBwgmc28dLm7ou_UlwRXrwLmuE5Ib3cK7DS74JNqjeYshHx9lHI8Y7R-ijj7C4JchRGkX/s480/dongan-sonang-di-bagas-dosa-artha-sister.webp)

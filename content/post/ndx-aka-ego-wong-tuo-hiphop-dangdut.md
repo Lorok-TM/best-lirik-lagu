@@ -25,4 +25,3 @@ Kudu iso kuat balungane Mergo ra disonggo wong tuane Kudu iso ngadek dewe raono 
 
 #Credits: Judul : Ego Wong Tuo Artis : NDX AKA Cipt : Royhan Niamillah (Mas Roy) Cipt Rapp & Part Cewek : Yonanda Frisna Damara Arranger : Reza Soundx
 
-![NDX AKA - Ego Wong Tuo](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6Fma-5mG_YLWqbZe8ZVSRA7TJkPgP3ufgwoHS7EUxoaqYt1xRKZgxRlmsnvGPZtlqlHkykwFGj767bffvnoc7KiGHUvc_h4Jqurr1ucXWH5O4_GKyytRrdPb4kUil4-3iFQv9Zb1Ii1QA9ceAmIjE8C5i9NDeSMmS1beL2zo7Q-EiOhtwdzsbqZ1RZ8A4/s480/ndx-aka-ego-wong-tuo.webp)

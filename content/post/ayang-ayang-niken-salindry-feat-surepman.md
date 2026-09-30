@@ -27,4 +27,3 @@ Demikian lirik 'Ayang Ayang' sebagaimana di atas.
 
 **Credit:** Judul : Ayang Ayang Voc : Niken Salindry Feat Surepman Cipt : Risang Gotho Musik : Jandut Everywhere
 
-![Ayang Ayang - Niken Salindry Feat Surepman](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiC24BZqXRLcTiKjakU_D2R8wxK_u8QkEflYVWiNk1sVXRs-LKIa87efX-L7YIJm13rzcwlHca9e8l9qWlUwZbXTU3AjuBXMji0u8JC-G64mVa7qvtxEb0jxUFdLHOOXb9yl2atfrQa97n7rxcejqexmLB2BsVPL-I23T3zgsxxtZXG85oijBDjyK_xmNzf/s1280/ayang-ayang-niken-salindry-feat-surepman.webp)

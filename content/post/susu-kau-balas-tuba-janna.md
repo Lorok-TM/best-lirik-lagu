@@ -43,4 +43,3 @@ Tinggalkan saja diriku Jangan lagi kau kembali Cukup cukup sudah Diriku berairma
 
 Ku beri hatiku Ku beri cintaku Kau balas derita Kau balas derita
 
-![Susu Kau Balas Tuba - Janna](https://i.ytimg.com/vi_webp/BezqqMuISIE/maxresdefault.webp)

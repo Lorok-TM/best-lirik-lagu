@@ -23,6 +23,5 @@ Title : Mencintai Tapi Tak Di Cintai Artist : Kasifa Rahmi Songwriter : Ronny Ri
 > 
 > Walau ku tau kau sudah ada yang punya Namun diriku tak ingin jauh darimu Tetapi takdir lah yang lebih menentukan Kita berdua tiada berjodoh Didalam sebuah ikatan cinta
 
-![Kasifa Rahmi - Mencintai Tapi Tak Di Cintai](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUoKLkHorSqbsR6b3pAzszFolDq5L2lZ-GNrP16xZibeFqrT0dBpXJrfqrFqa84RX1F4dPB7d3rjRMloMow6oUNTuPD7quu_VY1xHlEOsUouA-d2WwnXGtRpIbltUT4-qOSlE22s_u417_GiShdI8VePhk8Qq8VoA3X174v4DnDEOuXoPXfMcf1sLswA/s800/kasifa-rahmi-mencintai-tapi-tak-di-cintai.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Kasifa Rahmi - Mencintai Tapi Tak Di Cintai. Silahkan bagikan juga ke teman anda.

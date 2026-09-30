@@ -23,4 +23,3 @@ Bila kau cinta jangan ditunda Kita jadian menjadi teman Teman jalani masa depan
 
 #Credits: Judul : Teman Jadi Nyaman Voc : Tasya Allesia Cipt : Adibal / WinRosa Arr : Yusup Tojiri ℗ & © PT. Maksi Pustaka Persada
 
-![Tasya DA7 - Teman Jadi Nyaman](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiou8irU6JtrrkZit0BulyCmGJXXK_H_OZvxWeH25lG-XHKKtaplh-z1xAjXLS5xZ6sh4cDCbV0xQ4kLOiu_sDcj1GMvekIWCVB5dnoyNF0-OQyl-wjzBg-gwj5giCM73C1sKfMKOqurSXW-uPNhzw4i0RkZ8qXi88I0yu1-9rlctcA7K9SvU9RmaMTgbJM/s1280/tasya-da7-teman-jadi-nyaman.webp)

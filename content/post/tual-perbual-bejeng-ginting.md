@@ -41,4 +41,3 @@ Rampampam pa rampampam Bagem cerita si tual Rampampam pa rampampam Tual perbual
 
 Rampampam pa rampampam Bagem cerita si tual Rampampam pa rampampam Tual perbual Tual perbual Tual perbual
 
-![Tual Perbual - Bejeng Ginting](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgp9kfArzIqjIKDokIi4Br0effwKHw1x606qZSqiMymmLKTU2MsAw7UkOZX1zgx9-3YiHDxBDJJc5WizQ0NBw4KAqVTsDNFPgreV5T2XXlxxog3-RdkKVwtHtp6XuQvRtPlFcx6NbvQ51eZSHxJKqcTdg_oiUGzMvxm5-YHuzcBngC6T6-uYhstSoQwi7oS/s480/tual-perbual-bejeng-ginting.webp)

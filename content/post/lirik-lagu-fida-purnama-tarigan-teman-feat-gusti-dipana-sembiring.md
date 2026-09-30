@@ -19,6 +19,5 @@ Title : Teman Artist : Fida Purnama Tarigan ft Gusti Dipana Sembiring Songwriter
 > 
 > Oh teman Oo oo oo Oh teman Uu oo oo Oh teman
 
-![Fida Purnama Tarigan feat. Gusti Dipana Sembiring - Teman](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKfdmlMohK49-_5iFGY8K9AQomndA2vraWWHRD1VJlyFANxP36keTcYsiWWaLQMO07eMjIEUpTywDoGYSi5yAQe5XrV1V-jki1Rp9lZYzrxjYbCMIl_imfyhz-y_bkHK4Lqxym8noZn87OkzU1d5uNPdg50UfnNIWN-VMthbdzjbjooVzOgppCwNafRA_o/s1280/fida-purnama-tarigan-teman.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Fida Purnama Tarigan feat. Gusti Dipana Sembiring - Teman. Silahkan bagikan juga ke teman anda.

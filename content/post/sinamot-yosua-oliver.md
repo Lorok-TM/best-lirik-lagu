@@ -43,4 +43,3 @@ Demikian lirik 'Sinamot' sebagaimana di atas.
 
 **Credit:** Judul : Sinamot Voc : Yosua Oliver Cipt : Sinnson Arr : Sinnson
 
-![Sinamot - Yosua Oliver](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhObw25yIjpWTihb6ZunS8r8JYdYeqCd6P12ly4EgE-08CR_z-8n8rYsN4NKdL3xDzcPCEYO5p6r4QQpXNpRthQ9Snb4iWJLLS4os6Uw9N1X-HBGldqF1Bj3T2sH5r_jtJMnI2pAtd8DSjfV_f01B6sGBbu337jSRvoWwEblZY_wjqumBoTjHuZ_xG9ZN4w/s1280/sinamot-yosua-oliver.webp)

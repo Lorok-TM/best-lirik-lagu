@@ -5,7 +5,6 @@ categories:
   - "indonesia"
 ---
 
-![Cinta Tanpa Batas - Nabila Ellisa](https://raw.githubusercontent.com/Lorok-TM/2026-09/img/cinta-tanpa-batas-nabila-ellisa.webp)
 
 Kurasa sempurna hidupku ini namun tiada arti Menata jiwa yang teredam sepi jika tak bersamamu Cinta kita belum berakhir semudah ini Rindu tak kan mengerti Kucoba melumpuhkan semua tentang kamu Tentangmu
 

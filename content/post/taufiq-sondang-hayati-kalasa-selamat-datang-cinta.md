@@ -23,6 +23,5 @@ Title : Selamat Datang Cinta Artist : Taufiq Sondang ft Hayati Kalasa Songwriter
 > 
 > Percayalah sayang ku tak akan mendua Takkan ku biarkan dirimu terluka Tuhan yang kuasa satukan cinta Didalam suka dan duka
 
-![Taufiq Sondang & Hayati Kalasa - Selamat Datang Cinta](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5CruN2at74FFhE71vDpyztejzaDJRiUA-iZ-iF1Eft-LSbOaY2C4PGMAqwBMLzReB8bscLNcpOwpsH64DW28OE0aqZ4qMT8xtA4V3HotTDI-hSl7quosjowiSWdjgSLo8urWRrN2gFYL0nPs3qmEEGNl2scR76fc52RBNg2DcXxQERwF4rZFx4ff9KQ/s800/taufiq-sondang-hayati-kalasa-selamat-datang-cinta.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Taufiq Sondang & Hayati Kalasa - Selamat Datang Cinta. Silahkan bagikan juga ke teman anda.

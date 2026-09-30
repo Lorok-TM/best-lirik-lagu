@@ -33,4 +33,3 @@ Demikian lirik 'Kesucian Idul Fitri' sebagaimana di atas.
 
 **Credit:** Judul : Kesucian Idul Fitri Voc : Puja Syarma Ft. Nissa Sabyan Cipt : Puja Syarma Arr : Showbox
 
-![Kesucian Idul Fitri - Puja Syarma Feat Nissa Sabyan](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjECCeAuq6eGvw5kZFOM_7Gb4GprEttVjPZhqc3X53UcGzQic27T0rehxMv8jRJYOQ7iGpD9tlpUocVtQy46pYTjQ42RPwunjIssegsaDf5prNr1qUfePnC5XnDXGiGyuPc3dm0X5voZ0w14GhAqBBOCPH3WBLkiEgo23diTT3R3bnz3OzG4OCz01AaXDLd/s1280/kesucian-idul-fitri-puja-syarma-feat-nissa-sabyan.webp)

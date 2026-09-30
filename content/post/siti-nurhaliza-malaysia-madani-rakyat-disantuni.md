@@ -49,4 +49,3 @@ Malaysia madani Hai bersatu hati Kita semua sama malaysia
 
 Kita semua sama malaysia
 
-![Siti Nurhaliza - Malaysia Madani Rakyat Disantuni](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQr76Q060UZTgO25sa8v-S2byg2JpyLvlSdjXZTOpIVU70U0jTNeJKOggBykiRcOjWPVikrnVFF5ATsfZ8qmZ2BMKaAsPRat_XGvLy2HrGaz_MdDCG0XLNkCfrRy5QBxS150CK8PJYyZ7N8758BrbCtIWi4DoAzm_ywP0j-cAB0bKDxdf1SHU5dCHbn53a/s480/siti-nurhaliza-malaysia-madani-rakyat-disantuni.webp)

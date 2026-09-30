@@ -5,7 +5,6 @@ categories:
   - "osing"
 ---
 
-![Sewu Alasan - Dini Kurnia](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-WDubVrVK1p8xfLTubNhVBo-3JK0mbQ2bERHywo_fEriDQrSGlyekCrdDyrvrKcqjewWkrqs1RDtsNeK_kVtXPtv2BngAhA_RF7rpTLr6ErpfLrCB87uF3PGUugivZoM0vPRPs-JxHbb32HsK8cylY8oBEs2G8hjw9EUgiu-eWlp_vzV_hc5RufnkC7e0/s1280/sewu-alasan-dini-kurnia.webp)
 
 Dudu karepe ati Sengojo mungkir janji Dudu hang sun karepi Kang riko loro ati
 

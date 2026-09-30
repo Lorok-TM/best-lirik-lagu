@@ -21,4 +21,3 @@ categories:
 > 
 > Siap nanggung resikone
 
-![Dian Anic - Nanggung Resikone](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlryuXOe8VqifmvU9ZWPmVL54OFfXg56rPkih00a8EPIMe3n8TgkimQCEl255hrVi1eW6BJcQa5Vg5OnxxcVZPpZU06g5JAz2kdU8uof1_i3CN-YiBdMmWsuEPzXTj6z8aXYzkw4X04k2TncOkr88P1f0OOWTBqcQSRndwbgB-77TcIUp-no-yf6p7aQ/s1280/dian-anic-nanggung-resikone.webp)

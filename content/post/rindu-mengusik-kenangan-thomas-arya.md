@@ -19,4 +19,3 @@ Demikian lirik 'Rindu Mengusik Kenangan' sebagaimana di atas.
 
 **Credit:** Judul : Rindu Mengusik Kenangan Voc : Thomas Arya Cipt : Thomas Arya Arr : Decky Ryan
 
-![Rindu Mengusik Kenangan - Thomas Arya](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWHQdIV-CyiHJg-7dG7g0SAv5tHrAgqs5aHGheTPAPPgeBc0v9eS0MDxzQyTLzL1ZP-H31QpIsT9KT6WBsYVW-oYaurl6YY518zg4L4QLo9y9zyfsjjGQMYKjpwD1NCttyF8y1Ij77FiW6S1KoY2WLX6b3IXHrKwuRy7XTC_9JQFFqDn5a0HvZ5gaqVf9Z/s1280/rindu-mengusik-kenangan-thomas-arya.webp)

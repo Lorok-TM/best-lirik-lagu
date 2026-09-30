@@ -25,4 +25,3 @@ Sanang lah uda barumah tanggo Usah di raok kan jantuang hatiko Lah patuik uda ti
 
 #Credits: Judul : Denai Rilakan Voc : Melisa Putri Cipt : Aby Koto Arr : Satria Wandra
 
-![Melisa Putri - Denai Rilakan](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRc6RiQ7g7-8EqcBwtB9Llk_NUCUUOkUrD9thNMqdjz0v2HQcxfw9d8jrfNFIzBsT-lbTKpvv-d1qf4KWXNiDia2nVkAWVQeSx7LJeGweyqD7eD3ej8G2zfbhyphenhyphenrlaS_fsY63Dv27ybQON2E4Q2xuQZIqBdAaXcRfcj_cmw7ScCuXGRRytsMDbX0NPpCoUL/s1280/melisa-putri-denai-rilakan.webp)

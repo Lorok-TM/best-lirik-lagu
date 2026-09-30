@@ -29,4 +29,3 @@ Demikian lirik 'Salah Orang' sebagaimana di atas.
 
 **Credit:** Judul : Salah Orang Voc : Cut Rani Auliza Cipt : Ajhay Pasma Arr : Satria Wandra
 
-![Salah Orang - Cut Rani Auliza](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIq6NNFlg9EqCWW-XAYxnlsA2i32Iv9KA4OfNbubPyapd09ACXtc0Re8nX_cUydABQJiRDrGb68O1BCIDUs0qbaC_zycKfTjSZFDF_DMESISCJhPQnlnD7cT2eT6c50HMHnlkfI1uZwQBrK23ZnW6lxtBpxAYJLNvx4LsY1pMYY4kt7Uk2bZ9q02hY4X75/s1280/salah-orang-cut-rani-auliza.webp)

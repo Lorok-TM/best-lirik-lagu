@@ -23,4 +23,3 @@ kai sura sura ndu kai kam merincuh gelah situ kur mama karo kuja kam kutaruhken 
 
 sehat sehat kam ma karo sukses selalu sayangku seh kerina sura suranta dibata simasu masu dibata simasu masu
 
-![Lagu Khusus - Iche Br Ginting](https://i.ytimg.com/vi_webp/LgiyKIiTiik/maxresdefault.webp)

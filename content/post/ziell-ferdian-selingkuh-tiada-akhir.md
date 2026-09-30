@@ -23,6 +23,5 @@ Title : Selingkuh Tiada Akhir Artist : Ziell Ferdian Songwriter : Tegar Cs Categ
 > 
 > Selingkuhmu tiada tara Rela berdusta untuk mendua Cukup sudah aku tak percaya Cinta kita harus berpisah
 
-![Ziell Ferdian - Selingkuh Tiada Akhir](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0UVFK6__ugoAXhBAkDHfr0uPSiEy_RzeZk3JWvz-HzX7ByCffQ_8yYjL58TVCd5stmgk-E0s8GBMfaG40AlGeoZF2L3EbZuw0Mi1C6sc385qer0rt1oUxEj8yRJgHb1QxrjE8aFhFfY1vy6Jl9KzjDyNNhhInpFSvxPH7uCAa7h197wdHLMaRmun3DQ/s800/ziell-ferdian-selingkuh-tiada-akhir.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Ziell Ferdian - Selingkuh Tiada Akhir. Silahkan bagikan juga ke teman anda.

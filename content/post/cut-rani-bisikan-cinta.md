@@ -25,4 +25,3 @@ Cinta kita jangan ragukan Karna aku insan yang setia Tiba masanya bertemu dan be
 
 #Credits: Judul : Bisikan Cinta Voc : Cut Rani Auliza Cipt : Ajhay Pasma Arr : RS Studio Bireuen
 
-![Cut Rani - Bisikan Cinta](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizsbonqVkkt3WSSH84SE72NNAcuUFE4vW0cAyfsI1ZDrHXlV3DDswpE5tKqDJUZvD_-wYFWa9eScxUr-vAu8C5FFbAVDb4x311olG_rRjp6u4e7YKwn88ublJAdN6N41d8rhJzM0Q38-ELNpXwASU81tAI4wnuVXoaAi7Lv_IP0CRiRUK6-mXK69yjP9Ce/s480/cut-rani-bisikan-cinta.webp)

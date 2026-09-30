@@ -17,4 +17,3 @@ categories:
 
 Title : Tangan Tak Sampai Artist : Harry Parintang Songwriter : Rinto Harahap Studio : Diva Studio
 
-![Harry Parintang - Tangan Tak Sampai](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiKKYoOezPwZBytNKUS-cp00g1yz4NGT4Cnq219yHQxeDkWFsDXtySwEPHeTqK6bCVPEuprhKo17pxSog8MlHYWWstDI_t1orb8OlF1Lg3xS7lqNcHzZGjkG-b5nAVxFY3fJvE2OdNS7qia_nrLrVhi2a5Nh8UxRbSGmElMY1RBe2iCKie7DxNKWr_ZA/s1280/harry-parintang-tangan-tak-sampai.webp)

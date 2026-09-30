@@ -25,4 +25,3 @@ Beta seng sanggup Jalani hidup ini Tanpa ale Sio nona ee Semakin ale jauh Semaki
 
 Beta seng sanggup Lalui hidup ini Tanpa ale Sio nyong ee Semakin ale jauh Semakin beta rindu se Semakin beta sayang se Nyong ee Semakin beta cinta se
 
-![Yochen Amos - Semakin Cinta Feat Manja Mooy](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRctoubsd3iiYO_Ffur4lrCxkx58SFnA6SOAAN3dPt-ZzRD-TI2Raed2RdeFTZwPX1LP_0-7rEzwlg3W7msxwIl8ezWxo21DsxJbjzewpWYRfXSYJu_OY2TzUGRFgbf3U4x48tMkyuk1WHx6DNgiqyrc1omo5fdB5U0es8TFQByPHFVruOvKLFFZwS2m9i/s480/yochen-amos-semakin-cinta-feat-manja-mooy.webp)

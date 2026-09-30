@@ -34,6 +34,5 @@ Title : Batu Loncatan Artist : ILIR 7 Songwriter : Vic Ilir7 Production : Ascada
 > 
 > Aku hanyalah tempat persinggahanmu Sebelum engkau berlari dariku Kau biarkanku dalam kepalsuanmu Tak kusangka kau setega itu padaku Uhuu hoo oo padaku
 
-![Ilir 7 - Batu Loncatan](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEir1JzG8tKVnKlETqg5bv6V3Rh8g3mEawqWWIBKTWsuhOnaA4adR7bVu3zyuzINPOWwAtfM3RoDErfgwdHSGhOf1gNP2k0rS_A1gL5xt5WV7qaIJqo6Bk7tQxsEyQeMJ1i9ou_OMWbB5LbG9mtp6Hb1P8sd30pIFZlzrfs975klVgbya7VNPW3klfi5Wg/s800/ilir-7-batu-loncatan.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Ilir 7 - Batu Loncatan. Silahkan bagikan juga ke teman anda.

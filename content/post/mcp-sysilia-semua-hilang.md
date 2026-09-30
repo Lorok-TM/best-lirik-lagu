@@ -23,6 +23,5 @@ Title : Semua Hilang Artist : MCP Sysilia Songwriter : Kelvin Fordatkossu & Alfo
 > 
 > Hilang sudah musnah sudah Semua kisah cinta kita berdua
 
-![MCP Sysilia - Semua Hilang](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg58XDAoY9HNGko3Ko-lmeWSNJq2kZfcwp-hEyHgAiGhYa2gP0_FCXOM1IePZT4d3wClNNRT_3NOgJGdK53laC5yIhffVt9AXiEY2GTCn-lg8dwbkYFwiBUhnHQHnFfPOYItO2i8P2KFztMcn-Eu3HQVl8ST3exJC1uA5HCXVOk_BF94q74Nv2UxpD17-ff/s800/mcp-sysilia-semua-hilang.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu MCP Sysilia - Semua Hilang. Silahkan bagikan juga ke teman anda.

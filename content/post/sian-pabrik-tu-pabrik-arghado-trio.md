@@ -27,4 +27,3 @@ Tangianghon ma adong perubahan Di hami sude na di pabrik on Tu joloan on UMR si 
 
 Asa tarbaen na denggan tu na hinaholongan
 
-![Sian Pabrik Tu Pabrik - Arghado Trio](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjThKJS0esKpQkwxO4GFihHHMo-nLGs395fFEdMGpA0HImsPpp1k1_7H48j7mZNjM5nrrjC9iW6kyKpfUVTvEuXL7w_FmKxeCO8vTbt9Ta-5W_VXKo_h_5Fgu1TRYaVgpsNYa_R9k0vKrWZL0KegBL7GaJiEuxJWIx4Mjo5IkrL-had2r3d8dNOerRuPV9A/s1280/sian-pabrik-tu-pabrik-arghado-trio.webp)

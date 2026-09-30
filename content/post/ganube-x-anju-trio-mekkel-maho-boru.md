@@ -25,4 +25,3 @@ Mekkel ma ho boru hasian Asa sonang roha ni amangmon Dang martopi holongki boru 
 
 #Credits: Judul : Mekkel Maho Boru Artis : Ganube X Anju Trio Cipt : Sukur Nababan Arr : Azwin Harefa
 
-![Ganube X Anju Trio - Mekkel Maho Boru](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiybIw-393Yo1KvD4mjokkmfakS4txGt-xCASJM-Gf5DN7pZEdPgE-8OMCqJZBOn0BG7TIw5ZKSTTBjIIR0DR0bHpSEimsDW4kkuJ96gQfXgtNP0OB3Yw4Hu2kiBSB5YfHzd1t3pjdIApjNX8qVFZE4bjRD78cPbEJCarhQYkmT_FTGEVPmqwRoKd7jfPDy/s480/ganube-x-anju-trio-mekkel-maho-boru.webp)

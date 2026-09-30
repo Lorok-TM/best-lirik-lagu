@@ -23,4 +23,3 @@ Cinta hana nilai tanpa kesetiaan Sayang han mungken lekang Droneuh sabe loen puj
 
 #Credits: Judul : Reugam Voc : Cut Rani Auliza Cipt : Zakir JR Arr : Iwan Romeo
 
-![Cut Rani - Reugam](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOcixsB8THTZ1bb1PjzanaXfD0XHTnhiksa4ukuYNSCNDAYc5egaj1pezWeqlV_EU5Z61r9Q1K5mveOorxufehq8aFwYUcAxylkuMpftHh8Fm-DLh34YsFIPnpDEbpJAtNJhjBFUrkHXfPvtQqwvdv9NTaSSNTGH-oBfSPkqr_t-BbQKhbS7bCXeJPCIhT/s1280/cut-rani-reugam.webp)

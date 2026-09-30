@@ -21,4 +21,3 @@ Ora ono sing njaluk di lahirke Nang keluarga sing koyo ngene Tak tompo opo anane
 
 Kudu iso kuat balungane Mergo ra di songgo wong tuane Kudu iso ngadek dewe raono cekelane Ngene men anak sing rusak omahe Ngene men anak sing rusak omahe
 
-![Pusma Shakira - Ego Wong Tuo feat. Royhan Ni Amillah](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjurIDRfmPuYIuuq2elk5OwUvWQzwgZDnsrKnEnP9oUvULPpEhwi1-6BAS2c2ozXn-SD_CKchC6yhWywNZsx2URxOwoxGwa1QtzPDMPrA6vB8wZ6BlPyjMCFHdH6YOdEWMMerp6BFEj0jPj8RIQFRcSN6p7BmWam7zsPG8Q1Af09kdOn6sh6FJJok-gNyXt/s480/pusma-shakira-ego-wong-tuo-feat-royhan-ni-amillah.webp)

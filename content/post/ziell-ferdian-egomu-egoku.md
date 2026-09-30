@@ -13,4 +13,3 @@ Ku mendiamkan bukan meninggalkan Hanya mencoba untuk bersabar Menghadapi dirimu 
 
 #Credits: Judul : Egomu Egoku Voc : Ziell Ferdian Cipt : Ziell Ferdian Arr : Stevano & Ziell Ferdian
 
-![Ziell Ferdian - Egomu Egoku](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMGJ9rTS1WmYtkHE9PlKLtJYT5FS2FkTdSHGCYeHEv-TIVwxeeBPhBiIqeBySuLYzg2Kt9ZV9EsGSimHN8VQLkVZixt4aXdl4I_FypYWxxeJx14cBbxyBxBtxzo_bAL7NlPGvJzgBacbT76hsK7f1piEcH0fQbmoZgM8-spwBac8D1tHz6iu_SIQSsB3xZ/s480/ziell-ferdian-egomu-egoku.webp)

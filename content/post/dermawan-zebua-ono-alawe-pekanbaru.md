@@ -27,4 +27,3 @@ Me u'ila ndra'ugö No fafali khöu dödö He no aröu ba hörö Ha sambalö u kh
 
 Ha sambalö u khamö
 
-![Dermawan Zebua - Ono Alawe Pekanbaru](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBXTXFszjvCTRZiuq3vO22tV9PLjf_vMbN1p2ZWJ8YtEQ-M5r0gzWxklAFU-FAhCyY6dRuUCC1b9xfapaVS55h88F_1fl_x4C6jBh4TIGzXzfE6svNXr8HMODWyyRfbny6EwnMJCIC3QPjAD75WwMDG8-1M2TZa7eapGrM873s37EH02Ca5rQy27gUY9nD/s480/dermawan-zebua-ono-alawe-pekanbaru.webp)

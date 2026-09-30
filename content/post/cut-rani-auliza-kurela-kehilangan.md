@@ -23,6 +23,5 @@ Title : Kurela Kehilangan Artist : Cut Rani Auliza Songwriter : Erwin Agam Publi
 > 
 > Bahagia lah kau di sana Menyambung cintamu yang lama Dan biarlah ku di sini menjahit luka ku ini Hempasan pelari cinta ku kunci pintu hati ini Agar tak mudah di buka dan tak di sakiti lagi
 
-![Cut Rani Auliza - Kurela Kehilangan](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghOwiLEOMVbBy9cx83yVCdW0GblQBaDoTlEFQ1ZpeTyh6XjwIJIpL9J7p_RnUFF04T3BI22kdNGoKRvllAiE6O1QD2W30VRK02lsKYQZdfAJR7IG3AbPAbPkLxYcoHFYkfJimMqg5vO7QHFHhr6nQIZ_Qz1--bQtDy6SQABicJIitz7Lx3tVqBaQQWwQ/s800/cut-rani-auliza-kurela-kehilangan.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Cut Rani Auliza - Kurela Kehilangan. Silahkan bagikan juga ke teman anda.

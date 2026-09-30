@@ -17,4 +17,3 @@ Dang olo au ito mangulahon dosa Songon pangidoanmi Dang holan sada roha na kecew
 
 Iklasma ho ito hasian Iasma roham padao au sian pikkiranmi Tangianghi tibu dapotmu ito panggattihi
 
-![Nirwana Trio - Cinta Terlarang 2](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaOxphPVcD0DC07r4GxgK_2gU9wpp8BOdO649zsbjeT9oysDoP0Hku7zkM2xQon5ayCnAtxmqEWwexAqAkYzlBvWmY_2mQyugJd0VB7ZXi27D33-gV5OTaM36-HH_lYwsIOlIzZprdmT7pChZ8spCITeJGgDr8u52MQJv5ThhYJHOyO6LDXMdk-tBZlJZc/s480/nirwana-trio-cinta-terlarang-2.webp)

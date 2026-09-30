@@ -17,4 +17,3 @@ Telah kusuguhkan kasih dan sayang Untukmu duhai kekasihku Namun tak pernah engka
 
 Kuhentikan tangisku Lelah ku mengemis perhatianmu Kau yang tak menghiraukan kehadiranku Lebih baik ku pergi tak kan kembali Segala cara kucoba berjuang Demi mempertahankanmu Namun tiada bosan kau lukai aku Lebih baik ku mundur dari hidupku
 
-![Ziell Ferdian - Kuhentikan Tangisku](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjotdoGR1NVcmqtzNpTI4BKyBKf90ebJSSAfNDq5Gtz_DBFGOMXviOXTgJ9pgSeMqHZEkfd_7aN9_8mMF7IVCcW7umMfwaETzGeHJj6ybkA9ByjqoIxzD2ThWxWRagxFz46VqXmGSZzsulYTsJeOc9okIrD3t1FXpT2vrBZDX4szdkUGW7gQIx5FpNmbHDr/s480/ziell-ferdian-kuhentikan-tangisku.webp)

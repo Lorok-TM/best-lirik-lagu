@@ -13,4 +13,3 @@ Samakin rumik taraso jalan nan ka denai tampuah Balulua tangih ndeh oi jatuah ka
 
 Pitih nan sarik di badan Upah nan senjang jo parasain Indak ka di upek malang nyo nasib diri Banang nan salai paikek lapuak jo apo ka di kabek Barek jo ringan alah rintangnyo badan
 
-![Iqbal Mahesa - Bajariah Mangko Ka Makan](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1BmRMvxuT62BnOh6p2KK4OsRGh5mqZNiW0C3hl4i3y7M3zG8wLU3xl3itVWje0GTTOyy0VqMVNdNyy-bqsM7R0UhKwa6wypBZAXcKTXnYQKeD35yomfUbFcLSY4iImdIbgXEdr5E8vPPJF83ASLKkad_tLPz0MWvcQHBQHIaTBZRQ5JH13BKctQVar4m1/s1280/iqbal-mahesa-bajariah-mangko-ka-makan.webp)

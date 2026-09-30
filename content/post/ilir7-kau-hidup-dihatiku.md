@@ -36,6 +36,5 @@ Title : Kau Hidup Dihatiku Artist : ILIR 7 Songwriter : Vic Ilir7 Production : A
 > 
 > Kau hidup dihatiku Kaulah cinta sejatiku Ku tak ingin berpisah hingga saatnya tiba
 
-![ILIR7 - Kau Hidup Dihatiku](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlGLWozZ7dedrTOobh-r6uhKFSUiJS457Zpbv5pP2zDtqxuIIHTVfvUTOkxNnlvABZCW-KsdXNBYv0PD8T6bGm17gKV_IWxVybqa0EGeTdzPlKlhFF_gGFfKdmgiQ-vky0UCjf-j-_uSBoXYnbxcsiVLEPAyLEBVNBQ-MkFKkSvduIGBzDWoNQ4sqrHA/s800/ilir7-kau-hidup-dihatiku.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu ILIR7 - Kau Hidup Dihatiku. Silahkan bagikan juga ke teman anda.

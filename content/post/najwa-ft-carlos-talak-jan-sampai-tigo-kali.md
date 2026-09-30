@@ -25,6 +25,5 @@ Title : Talak Jan Sampai Tigo Kali Artist : Najwa ft Carlos Songwriter : Syahrel
 > 
 > Saliang manjago cinto Saliang manjago raso Sa iyo untuak salamonyo
 
-![Najwa Ft Carlos - Talak Jan Sampai Tigo Kali](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVNeRVBpneXN44i-9Itpn53-6ms7v1Z443ion3BSJxsVWIWL9aQ19R6NYz0-foES2qWEE1L_6zAzGe-1Jw-eV2N7IzrAdez5-qnOs8QWpcb5EZviSL2kKECh6c1a7GGRRrH5Rs4IgGJjqBX7ye_z7r5IpAnSqAGh5mRhaWlbbOCqk329EL53_OKN76ow/s800/najwa-ft-carlos-talak-jan-sampai-tigo-kali.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Najwa Ft Carlos - Talak Jan Sampai Tigo Kali. Silahkan bagikan juga ke teman anda.

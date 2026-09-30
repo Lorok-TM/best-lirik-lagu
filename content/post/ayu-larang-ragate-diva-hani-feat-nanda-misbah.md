@@ -19,4 +19,3 @@ Golek nafkah kuwi wis kewajiban Lumprahe urip bebrayan
 
 Sing tak suwun mas iso podo ngertine Ben supoyo ayem tentrem sak lawase
 
-![Ayu Larang Ragate - Diva Hani Feat. Nanda Misbah](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhztbLzq-l18-N23gxRgYqvF4uFEB-NBCYRm7Rp06JRiy0hTsUYsIcwj0jLfUIF2KC0NC8Eju93qDHo5cefbvMRYNlEHCbzmzT7BDpteO7u98A3JPUDF5oL3NE2IGvvk5lgDuzTlRbtndTJxkJRLnhRDFPmjyrXIh3HEIwToO5YRRYlnZwoO7gQP6O8mAn3/s480/ayu-larang-ragate-diva-hani-feat-nanda-misbah.webp)

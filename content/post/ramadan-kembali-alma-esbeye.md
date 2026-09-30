@@ -5,7 +5,6 @@ categories:
   - "religi"
 ---
 
-![Ramadan Kembali - Alma Esbeye](https://raw.githubusercontent.com/Lorok-TM/2026-08/img/ramadan-kembali-alma-esbeye.webp)
 
 Marhaban ya ramadan Marhaban syahro siyam
 

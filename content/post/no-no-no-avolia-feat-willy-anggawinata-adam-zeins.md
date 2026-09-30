@@ -33,4 +33,3 @@ Nggak kan kenal lo lagi Nggak kan nunggu lo lagi Ngga kan kangen lo lagi Gatau d
 
 Nggak kan kenal lo lagi Nggak kan nunggu lo lagi Nggak kan kangen lo lagi Jangan mimpi
 
-![No No No - Avolia Feat Willy Anggawinata, Adam Zeins](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEuLcyXEph0aEpfuIO_z3EMPhXMLT9KPczCfxsNqWaUH0qVw6hbgKK3ljKW7_QP4vCxXcMmdvJ6d3wzZZyCzX36uuzggd8XfxtswyviZrnBMkOKjgjUkjJ8l9VPngjAKow9PjDjisFKSnCbH8Ghfiu-pKfzaEiRRa0ACkafhyA0omXrnJ-g7dI5vx3Dwtk/s480/no-no-no-avolia-feat-willy-anggawinata-adam-zeins.webp)

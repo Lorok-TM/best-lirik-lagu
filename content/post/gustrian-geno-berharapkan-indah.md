@@ -23,6 +23,5 @@ Title : Berharapkan Indah Artist : Gustrian Geno Songwriter : Koko Label : Koko 
 > 
 > Ku semai benih cinta berharap kan indah Namun duri menusuk di hati Bagaikan ku berlayar di lautan luas Tak tahu arah dan tujuan Biarlah ku pendam luka sendiri
 
-![Gustrian Geno - Berharapkan Indah](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzbYq9XvnUnaxnrZ-K33IBqXmMqBT13jh7PazNKZWSPRTCk7-KCCrfs9CroH4G3WcJDEj36R32I7sG1slc_ZJLr21qXJWpUwHGVYVfGajqMYtuI69j5U6Cfp0K6O_pUd69YH8Ov6wp6R7cvGcdTWoQ85gfyVKdRLD2cnwl9mLSNTfGWOdI_73qAJ86Nw/s800/gustrian-geno-berharapkan-indah.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Gustrian Geno - Berharapkan Indah. Silahkan bagikan juga ke teman anda.

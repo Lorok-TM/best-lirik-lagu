@@ -17,4 +17,3 @@ Jangan sampai engkau meninggalkan Matipun aku takkan rela Bila engkau tiada Ooo 
 
 Kecewa hati menyiksa Bila kita berpisah
 
-![Rani Zamala - Cinta Sepenuh Jiwa](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpVX1xDuoAl4W4U5v39HhnG_n_ureYzW1OBbuJBygiTh2aqO6EAl8OVKdquf84MpYYOc4hJQqDiqxxmBooXD07i6-zNb62veS3-Aq313OY-YvJueNnDB6M8AV9STacmb3XkdvahaxH_YDih-TOjsr3KvQMBqV8QYmBMFM5ExI-cDNGz8Con_dU_LX-BvQv/s480/rani-zamala-cinta-sepenuh-jiwa.webp)

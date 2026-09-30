@@ -25,7 +25,6 @@ Situs bestliriklagu.com tidak menyediakan chord dasar / kunci gitar / Mp3 lagu B
 > 
 > Kau hancurkan diriku Kau nodai cintaku Aku yang setia mencintaimu Mengapa kau memilih dia
 
-![Ziell Ferdian - Berlinang Air Mataku](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvNOX8hcdynuVTYsHjdnSgKcee1QfdZ7r9z9_I-oC86k2U4pGTny77tqkb3rtIRtOdCg9W5sIeavLktUvHfrBFyiZt2pYQ4NYOmbt-mYnpYlRvgkmiU8Q9EqsE1eSbQHyVVk3uTCZ72WExHYN_5uRONEOtEeRSSxI32UeWPyfMosC7N1O-OfK1B-luCK3J/s800/ziell-ferdian-berlinang-air-mataku.webp)
 
 Tujuan kami berbagi ini ialah menyediakan dan menambah sebanyak mungkin informasi arsip lirik lagu untuk mempermudah bagi Anda yang ingin menghafalkan lagu Berlinang Air Mataku ini, maupun belajar bermain musik.
 

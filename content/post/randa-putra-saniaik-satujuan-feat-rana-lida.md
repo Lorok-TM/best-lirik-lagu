@@ -17,4 +17,3 @@ Dalam dalam diak sayang Raso cinto dihati Samakin dalam kasiah nan jo sayang Sam
 
 Rindu rindu da sayang Samo kito tangguangkan Walau jarak mamisah Cinto ndak ka barubah Hanyo lah uda sayang Ka jadi junjuangan
 
-![Randa Putra - Saniaik Satujuan feat. Rana Lida](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMdtmjNcGIklrerD4IshdZSWlWq8F7ZcUyp9OsFVCcEpCcb5RPNd3BOYoCp9rE_AMizaQeqnVF8g9NSnr6knaopIYJZUhth-F1sJ-fqQUNbGBoqc6HUUCkLeSnG2L5tLdI3Dqw4J0a4picJttAkSL2cY4UAWEw17aIuRZV_S47OZxndi2GU4wUWyqnt05c/s480/randa-putra-saniaik-satujuan-feat-rana-lida.webp)

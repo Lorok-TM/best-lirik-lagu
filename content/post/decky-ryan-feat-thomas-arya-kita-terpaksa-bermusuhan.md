@@ -27,6 +27,5 @@ Title : Kita Terpaksa Bermusuhan Artist : Decky Ryan ft Thomas Arya Songwriter :
 > 
 > Malam ini janggal ku rasakan Sendiri melalui detik yang sedih Perit sekali Pertama kali bagi ku Hitung bintang seorang diri Dan pertama kali jua Maruah ini dipersenda Oleh insan yang ku cinta Oleh insan yang ku sayang Kini bermusuhan
 
-![Decky Ryan feat Thomas Arya - Kita Terpaksa Bermusuhan](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIyHGRsGFzurAALabsqYkGkl4rZS6u_PSiokIzrhkPYtH9ut0YltTmovSfrV8ZOqPJJQ4ydIlOCqOekoRscHI6MCrrPaHJXqYUuR2JNsdOtf04kMvla2UXUq1JMsfaiKvaXYIhYA25yIamSvZygwSWUS3mVOsOl7YxoCszJHYd5SfzPzcWlUYqB_v5hg/s800/decky-ryan-feat-thomas-arya-kita-terpaksa-bermusuhan.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Decky Ryan feat Thomas Arya - Kita Terpaksa Bermusuhan. Silahkan bagikan juga ke teman anda.

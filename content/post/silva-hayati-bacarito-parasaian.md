@@ -23,6 +23,5 @@ Title : Bacarito Parasaian Artist : Silva Hayati Songwriter : Erwin Agam Publish
 > 
 > Dalam tamanuang diri ko mamintak Japuik lah denai oi tuhan Pado tingga di rumah tanggo ratak Elok lalok di kuburan
 
-![Silva Hayati - Bacarito Parasaian](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsz4OwT6TrxeQujhOagCmylCQ1idCbkPBErLMm_j36I_crVlxFazYtOpxv39zJtxozQypkmRcwmq6VbZWd0IIhm0ubKIBB8AdW8ZrJQ4b9FtKojigqaRZ2KR_NOKksFCfB4ssnfxSy6WnhWKpzMxgGN2zkWwDPheYvzZt1rXx9CVzB7F2h-FPPDcmayw/s800/silva-hayati-bacarito-parasaian.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Silva Hayati - Bacarito Parasaian. Silahkan bagikan juga ke teman anda.

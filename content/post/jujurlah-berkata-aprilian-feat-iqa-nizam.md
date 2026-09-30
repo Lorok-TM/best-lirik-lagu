@@ -31,4 +31,3 @@ ku tak menyangka antara kita saling memendam saling menyinta
 
 ku tak menyangka antara kita saling memendam saling menyinta
 
-![Jujurlah Berkata - Aprilian Feat Iqa Nizam](https://i.ytimg.com/vi_webp/G31zUghQrMo/maxresdefault.webp)

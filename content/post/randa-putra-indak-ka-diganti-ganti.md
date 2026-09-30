@@ -15,4 +15,3 @@ Cukuik adiak surang di sayang Indak ka di tuka tuka lai Bia tambilang mamisahkan
 
 Sabana bananyo cinto Sabana bananyo sayang Apo juo lai diak Nan adiak ragukan
 
-![Randa Putra - Indak Ka Diganti Ganti](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-MdZoUbBznSkKlC31Ip_vbjJrkUmot-zimMdcre0uf8vxYYhmAaEThyilcWd9qxONVSXI5PLUjrQn9o0N99EmaMz5SSj7lKhBj1oHQsZiUpugC5qq_V4tGfls_mpfOslVwbe88FOYnMCq8CMtD201AcWW_8wdFUxuU6G_5qKpAWkM8R-ELD6kwyYdXjAZ/s480/randa-putra-indak-ka-diganti-ganti.webp)

@@ -25,4 +25,3 @@ Masih gue doain Walau ditinggalin Undangan datang Di depan pintu dia mau nikahan
 
 Anjing banyak banget masalah Hidup kaya bercanda boleh nga si gue nyerah Anjing apa gue yang salah Terlalu banyak mengalah anjinglah sama dunia sama lo semua
 
-![Young Lex - Anjing Banyak Banget Masalah](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHodzaU-BMMIrv0DinJQuQtmaYm45K6xnRbXpuegeFh-U9Crl6Ecz3Q3rFuItdTLC-gRv4sOVKHR3QcEaKHvzq6DNzhzQJGNbNXJ11ffUXo86NSH851fzuwrMBxeE2VD2H6GM3IMuB4ddWmG_rQhYyaHHoJui5JAJpKe0tb2HZDXWvzcIKTIDw-1S5cZQC/s480/young-lex-anjing-banyak-banget-masalah.webp)

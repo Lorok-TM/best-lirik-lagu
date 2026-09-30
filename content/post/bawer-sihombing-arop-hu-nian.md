@@ -15,4 +15,3 @@ Huboan ho di tangiangku Asa gabe ho saut di au Paima au manopot ho Tudos songon 
 
 Huboan ho di tangiangku Asa gabe ho saut di au Paima au manopot ho Tudos songon janjiki tu ho Tudos songon janjiki tu ho
 
-![Bawer Sihombing - Arop Hu Nian](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigDeAIdYptxzUOskkS1NyxmxnzZm_UJEfdsn69K1QTnhHXWFp-pzSikH9g2s1_wtPhgzUtvaTDiuIsO5zJ9Kn2zvAt9B34_MxDuVwaop73PsXDCMsMC_VtpYfzz5qIUtBN-dEHAxh5REQ05mJFfolNgnayStkWkWwTTZ0F4ej7g4kUtdpsNrc5Gvnjve0q/s480/bawer-sihombing-arop-hu-nian.webp)

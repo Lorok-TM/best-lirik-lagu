@@ -5,7 +5,6 @@ categories:
   - "minang"
 ---
 
-![Indah Delvia - Balain Nyato Jo Harok](https://raw.githubusercontent.com/Lorok-TM/2026-08/img/indah-delvia-balain-nyato-jo-harok.webp)
 
 ## Lirik Lagu Balain Nyato Jo Harok - Indah Delvia
 

@@ -22,4 +22,3 @@ Datanglah balahan jantuang jo hati Kan den jago cinto kito sampai mati Sai busis
 
 Judul : Adiak Hasian Voc : Govind Marbun ft. Delima Okta Cipt : Govind Marbun & Muhammad Zikri Arr : Muhammad Zikri
 
-![Govind Marbun feat. Delima Okta - Adiak Hasian](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqrRwG9UilIy4S_4IlzOyaYA3IgF7_l0K0YWtB5-3KMZxT_bP_eahyZ_PoMQXAVjAGow0Xh0V5_s8MsAuiNJfrTNvhqSnvL4fnFSP6sNv6KksgpsV0_lp3Dm0suGF_IEzU6eb5I4tHzRZ9r96DyAZQ2Zrs20TYKVZJGJuNg15eD3asNoh8OB_p1ZZcfltB/s480/govind-marbun-feat-delima-okta-adiak-hasian.webp)

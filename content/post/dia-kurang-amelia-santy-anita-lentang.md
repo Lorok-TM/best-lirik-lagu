@@ -25,4 +25,3 @@ ela mite ganji ganjir ture aku langgi langgir aku dia bawi sembarang bawi
 
 kutu kutuh ku satia dengan aku je manyinta dia purah tagoda saling manjaga
 
-![Dia Kurang - Amelia Santy](https://i.ytimg.com/vi_webp/D5zN9skrHnc/maxresdefault.webp)

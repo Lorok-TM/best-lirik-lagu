@@ -5,7 +5,6 @@ categories:
   - "osing"
 ---
 
-![Silvy Kumalasari - Kangen Setengah Mati](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUOJum1Z4c_mzTOx8pjF5fgFJVCCZL5xSOMK64aQwv2FyXgZSj6et1ZKLLFGtzlD5gH6deP5Ds9KJOefmAvgfB_r0RA0sXDch2VoaRLFpf4dKG5ZI4uQdF9_JwPIKxbIRdb6C1Jo_hyphenhyphen6Ikfo8Gx968Zu3kBGpGk1Kbbk55OJ_V9JBf5Uq4bSgyq5pcZajl/s1280/silvy-kumalasari-kangen-setengah-mati.webp)
 
 Kerlap kerlip lintang ono ring awang-awang Ngengetaken isun rikolo ambi riko Semilire angin ono ring wayah wengi Nambahi sepine ati hang magih dewekan
 

@@ -29,4 +29,3 @@ simehulina pagi ku turiken gia lanai si kita jumpa sirang mejuah juah nge ndube 
 
 sirang mejuah juah nge ndube bage me ningku nurikensa
 
-![La Ertenah - Julya Christy Br Ginting](https://i.ytimg.com/vi_webp/ASLPO0fbqIg/maxresdefault.webp)

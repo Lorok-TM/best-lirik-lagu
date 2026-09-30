@@ -27,4 +27,3 @@ Title : Sa Sadar Artist : Anak Kompleks Vocal : Mario Yamlean, Libhe Watratan, L
 > 
 > Kini akupun sadar Kau bukan aku punya bahagia Hanya karna dia yang buat sampai kau melupakan saya
 
-![Anak Kompleks - Sa Sadar](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvfmrX8fbR4irPdPIfpYXoacDYmyFzeum80qYV1f4AJa1OSMpC5HL2P7w0AkdrXnYTZTQQWaCONxJeLdnCQywaaidt29ZvR78NlEE0glYS2benB_YAHKv1_rdF5OOWx2OA71oNk1paiNCvzEWzmjtpkK6hZrIseklWJ20mirkh9kOl0NqrulXS2X6_WqQS/s1280/anak-kompleks-sa-sadar.webp)

@@ -13,4 +13,3 @@ Böi faföfö mbongi wofönu Böi faföfö luo nafaudu Na sisara tödö bangafu 
 
 So wofo sadöni dödögu Na humede ia sökhi lagu Na ilau mowengu asöndru No awakhö-wakhö dödögu
 
-![Monalisa Zalukhu - Akhi Ono De'u](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgz340BJP7J7TSvDXGvpJNFvFzD7Qgu35CoUkTXdN6cCebXic01S0a1Z4TqG637ocHJPZDOjJj2CllUVTULDDYQ3v4rdmoLMzZSrugo1lEYs1u-cV1BcOy4YoyG3H0BS56Dsj_9Uyysf7FMNmIgj8dUB2-tFCVKKy7eYZxTQAoF4TxbDx1Q5ylQHlmYV_c_/s480/monalisa-zalukhu-akhi-ono-deu.webp)

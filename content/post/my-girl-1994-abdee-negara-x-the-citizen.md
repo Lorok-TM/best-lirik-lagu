@@ -35,4 +35,3 @@ Mengapa rindu mampu Membuat aku rapuh begini.. Mestikah yang kelam.. Semakin gel
 
 Outro : Oh my girl.. Ketika jemari tangan kita Saling menggenggam, kuat dan erat Gemuruh luluh hati ini..
 
-![My Girl 1994 - Abdee Negara x The Citizen](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhau3FCAE6KmQBMdlw_rs2nZrWzpmn7KHxMerkMayMbKh10fsK_YdVslYIK7OnCPEtFqeVB4z_pwMJvZX0Sq7x3OtTJcrIHlYpPqRjQLlz4K4HEorfdkA2tuG2U90nhmzEcQzb3efIcNbxGcZyFekXckzw_r9HjRAoabqVf3zOBXs1YiwobZWtDyBAqOkB0/s1280/my-girl-1994-abdee-negara-x-the-citizen.webp)

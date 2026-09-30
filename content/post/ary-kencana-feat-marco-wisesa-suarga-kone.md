@@ -27,6 +27,5 @@ Title : Suarga Kone Artist : Ary Kencana ft Marco Wisesa Songwriter : Ary Kencan
 > 
 > Tan bina ye kadi anake memitra Ngalih demen suargane akebyutan Nanging sayang sengkoke jani ketara Ditu lantas nyumu ngrasayang neraka
 
-![Ary Kencana feat Marco Wisesa - Suarga Kone](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3Nr5a3TQ7LrXKRV_lQF4dCpdcynQQEHwWgyp6NMt1N-oNOHTioFQX_SguMhjqHoPyUkea8a2LCLPJcO7EgA4sRE_QAHkEDIJXqN3MntAWv8DfP6b4uPiboguJZ08IuFGS84aryKGDZCYk5J29PbZWInApNn3w7vzXvfzuihJ_uGszP8jfLS4z_6BftQ/s800/ary-kencana-feat-marco-wisesa-suarga-kone.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Ary Kencana feat Marco Wisesa - Suarga Kone. Silahkan bagikan juga ke teman anda.

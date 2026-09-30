@@ -23,6 +23,5 @@ Title : Bandit Lapa Lapa Artist : Queen Voice Songwriter : Dakka Hutagalung Labe
 > 
 > Amang mate ma ahu boha na ma ujung nion Amang mate ma ahu sibandit lapa lapa on
 
-![Queen Voice - Bandit Lapa Lapa](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKMph9dIJa-MUtHwPyctaf9aWVPuIlhWTSOHRd2U4S1gvrnGcDZBSqRsV8kLSWJXLU-1Eap3iLCWEp0F4zi01YDrtn24fn2sk224i17NlKrXGQedLwXgYH7wU4w2u-pfPRl1cXo3PjfFrfzB2eUDtoPUfUTR-apJ9Uj_9X5Wv2vpiPoDllbwB7Qysz3Q/s800/queen-voice-bandit-lapa-lapa.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Queen Voice - Bandit Lapa Lapa. Silahkan bagikan juga ke teman anda.

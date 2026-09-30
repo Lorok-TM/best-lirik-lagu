@@ -23,4 +23,3 @@ Marsogot haduan muse botoonmu doi Boha balga ni panghophopki Alai dang holsoanku
 
 Salpu mai sude Holongtai
 
-![Ary Sinaga - Salpu](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkOPWrGFk8ArO2cnznUbGsmq5MbWThosPOfnW16-24bZdm8LBu1JIoHwJBssNi7Vn2RIdfsHk7WEINDCy8h0ycEYHM2AlxHyR417pqk_jFFYqFXjbUrvtVWsO3B52rpiTecMTaLBc2W22J9ryAQXfIlwIdJ4tGLv3_-jg0-eiUWN6ku1xsXJUEYhfb9zOF/s1280/ary-sinaga-salpu.webp)

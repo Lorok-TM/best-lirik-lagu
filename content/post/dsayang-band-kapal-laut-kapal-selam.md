@@ -5,7 +5,6 @@ categories:
   - "indonesia"
 ---
 
-![DSayang Band - Kapal Laut Kapal Selam](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9Tlw1zv6G_uBjcYS4ce_NvP2eDMak0QyXH891xyiTqEPHtwB6tY9mk60ukyHyLxD0KwpVugvvY0bK05mKckVTUVlxWHMyyBYUiaC7znJF5x2mPQmxObyUekOXwdn38uQ5A6RkvtTnp8nsonBVtcjdE42Vjlj4WNdrGuneNXjDODiNMw72diChNosaONbV/s686/dsayang-band-kapal-laut-kapal-selam.webp)
 
 Kapal laut kapal selam Keno ombak selalu goyang goyang Idak siang idak malam Hanya wajahmu yang tebayang-bayang sayang
 

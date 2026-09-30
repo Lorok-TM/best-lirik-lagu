@@ -23,4 +23,3 @@ Demikian lirik 'Kapan Kau Kembali' sebagaimana di atas.
 
 **Credit:** Judul : Kapan Kau Kembali Voc : Chaken Winel Supusepa Cipt : Loela Drakel Arr : Lee Kulaleen
 
-![Kapan Kau Kembali - Chaken Winel Supusepa](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJHizrTHzsX2FEwfM3OtGEWxN80G0uT7f7RSu5lz6BG8NZpii5ikmZrlxAcN_dVpJSBnzF-ruu4DlVoGiE_tQQNT13tO8iMXVE1_Qi14K-ieKKQYl_eW_RMaRKhcDMJPo2njB0g2ZbOhB6KGNQRn4HQkZ-cq1XFRw0YzRSUyGacZrb37D-tUv495yOCNYW/s1280/kapan-kau-kembali-chaken-winel-supusepa.webp)

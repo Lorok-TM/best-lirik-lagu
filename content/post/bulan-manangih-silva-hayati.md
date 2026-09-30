@@ -13,4 +13,3 @@ Haroknyo hati kok ado cahayo Walaupun hanyo sakijok mato Antah kamano ka denai c
 
 Kasiah jo sayang nan lah den curahkan Takukuik habih tiado alasan Di dalam hati batanyo-tanyo Antah dimano salah diri ko
 
-![Bulan Manangih - Silva Hayati](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaDF_Zwub4l-1_KytqorXMPPY_hfP3PvFhVhGd75zUDVvnLRif_2aMEW4xA-vuPOgdZWQ_MNAUw8H4Nq13COloi_pwaaMA52VcjzVEo0EaAGhFVrf9QveXeou5dc8eRhykwRykealJLNz2LeFdk8hWhGFiwNHFHYkXrf6Y1rI704sUC8zYAZ0DE14kERXP/s480/bulan-manangih-silva-hayati.webp)

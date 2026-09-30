@@ -45,4 +45,3 @@ categories:
 > 
 > Ah
 
-![Fida Purnama Tarigan - Cikecur](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgeOhpg4N7G5t_GiJzSBwdQSgDC-iMIYUrlGjfJd90vAhRqCj1ebfUoreOHlNKT0tXk6wt9lXUd9ENyk_v9XIpIfgF20rsVygABsLoMHs_55ttylUMsOncM96d-ThNnOrenDFXVwvpUTi96k8UrGS1mSN-FA0SBd8TMHo4hyJz0dHrDYtzkH7L1jidZ4mT/s800/fida-purnama-tarigan-cikecur.webp)

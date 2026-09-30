@@ -17,4 +17,3 @@ Janganlah nanti kau menyesali Bila diriku telah pergi
 
 Tak akan kau temui lagi Seperti cintaku ini Tak akan kau temui lagi Seperti cintaku ini
 
-![Bunga Sirait - Inikah Balasanmu](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBoqwiDVD_YlQzP4HTnpCvaP7VSjc7U3rdCDk4wI0Df5DfYd8gFaxoVlj_C16ubWYOmAq_21CwE1v3HAihuAhyphenhyphenM40ss47wuVJn87k2WcQdLtBET5CpyGqioP9ONEnbzpxQql0UChnvJmLXG0utsGzG3GuwuBpoy_Q1Cm0ylNzlZx5NcvzjM4qNV_CPTQZ9/s480/bunga-sirait-inikah-balasanmu.webp)

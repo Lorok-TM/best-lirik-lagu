@@ -38,5 +38,3 @@ Simamora menggelora Silaban jadi korban Nainggolan tinggi stelan Sipayung si pal
 Hutagalung Karena cinta jadi linglung Bang Tobing suka akting Bang Gurning orang paling penting
 
 Awas kau mabuk bang Ini lagu dung ding dang Cak miringkan kepala dikit Goyangkan jempol dan bangkit
-
-![Anis Gea - The Marga's](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbXq9xqvm9XsbTXtxenu3-i1RM9GJVm5tWffPIs0Sb78RbsAOixxtynlcG0CmOzVNMXRHQ1SfVfdRUSdgXc18tgS6qre0-DQqXLRhU3rd3ACN1JWuQmZ1drwSVUgDlES8G-J_N2rAYd8D5FenIv5k4DC9LDjzguZRdtcF_ztsrD6Lpp1Shdztdx393mSkN/s1280/anis-gea-the-margas.webp)

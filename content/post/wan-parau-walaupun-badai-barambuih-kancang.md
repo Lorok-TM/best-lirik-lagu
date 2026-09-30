@@ -23,6 +23,5 @@ Title : Walaupun Badai Barambuih Kancang Artist : Wan Parau Songwriter : Wan Par
 > 
 > Walaupun badai barambuih kancang Janjinyo cinto sataguah karang Walau rambuik ko kini mamutih Cinto ndak barubah
 
-![Wan Parau - Walaupun Badai Barambuih Kancang](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghYHRajHT7rQOJAsFJFrBPiH51TW3dPS2eyQIVAe5punU-DKZHv8DvHnCWdYRaXFMm3l9UuCGsPiP-ZcguZDphjt-M7zKq6t_2EkJkNushfQ5ITO87KsQxhjr5znh1v2xEqmBWQh5t5L6Blwd5cfadtIp9S5DmdEq3jf__vpcUCu5NA6Z0HYjrqkId9g/s800/wan-parau-walaupun-badai-barambuih-kancang.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Wan Parau - Walaupun Badai Barambuih Kancang. Silahkan bagikan juga ke teman anda.

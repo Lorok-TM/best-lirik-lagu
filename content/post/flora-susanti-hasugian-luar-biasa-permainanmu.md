@@ -23,4 +23,3 @@ Gabe husolsoli do Naung jatuh cinta au tu ho Tartipu au di sasude permainanmi Da
 
 Torushon ma dosam hudalani ngolukki Godang dope si doli na olo tu au Tumagon nama i hugotap holongki Unang sai ganggu be pikkiranki Tumagon nama i hugotap holongki Unang sai ganggu be pikkiranki
 
-![Flora Susanti Hasugian - Luar Biasa Permainanmu](https://i.ytimg.com/vi_webp/cXyUsz0lMcs/maxresdefault.webp)

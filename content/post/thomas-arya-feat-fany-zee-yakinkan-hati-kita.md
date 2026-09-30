@@ -27,4 +27,3 @@ Berjanji hati saling menjaga Kuingin kita saling percaya Yakinkan hati kita saya
 
 #Credits: Judul : Yakinkan Hati Kita Voc : Thomas Arya ft. Fany Zee Cipt : Thomas Arya Arr : Decky Ryan
 
-![Thomas Arya feat. Fany Zee - Yakinkan Hati Kita](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0O0QiHQ2o2nWL33zOE7ws_h6zh6EqwhvwwPEzggU12M-NeSipGDXHJWcky5Y1e8P9GkYBmhdj4AKPEdw7jUcv1DPIgFa_aoPszp9AKTuX7T_IGZCwHqG8ToKTEq9Eu9HsAPlVbLWUpoVij-DU63n4CworGIw0b6GOKaoXz-pFyPsmqXXJcknp3ACgVGCe/s1280/thomas-arya-feat-fany-zee-yakinkan-hati-kita.webp)

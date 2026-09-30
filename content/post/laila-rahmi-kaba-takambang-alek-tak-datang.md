@@ -25,6 +25,5 @@ Title : Kaba Takambang Alek Tak Datang Artist : Laila Rahmi Songwriter : Roza'c 
 > 
 > Kaba takambang alek tak bajadi datang Malu di dapek antah kama disuruak kan
 
-![Laila Rahmi - Kaba Takambang Alek Tak Datang](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbMSBYb36J1CKwEIwob_LsMp8B0Z3sI7HKOosYZpz0xY15cWWOcaQUWRHdl5kRmuJ5Ud4kORRnphXreCv_UR5L3yk-VTd_p9F9xab_goAmCuefjj2qHBkxB9YjCqdAUHrhErN1M6YWjifkM5NTBLfKrRxjBILIARGHzLrRGXCCHFJEUZaiB_ye_AoFPQ/s800/laila-rahmi-kaba-takambang-alek-tak-datang.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Laila Rahmi - Kaba Takambang Alek Tak Datang. Silahkan bagikan juga ke teman anda.

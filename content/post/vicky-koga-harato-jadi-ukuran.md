@@ -17,4 +17,3 @@ Nan tagok kinilah patah Nan rimbuan lah baguguran Buruang nan dulu hinggok didah
 
 Kok harato nan manjadi ukuran Kalah suaso dek kilau intan Maha harago dek jauah bandiangan Dinan murah bacampakkan
 
-![Vicky Koga - Harato Jadi Ukuran](https://i.ytimg.com/vi_webp/7vzVIlKgljs/maxresdefault.webp)

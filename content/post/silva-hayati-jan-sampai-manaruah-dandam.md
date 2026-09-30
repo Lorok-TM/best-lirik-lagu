@@ -5,7 +5,6 @@ categories:
   - "minang"
 ---
 
-![Silva Hayati - Jan Sampai Manaruah Dandam](https://raw.githubusercontent.com/Lorok-TM/2026-08/img/silva-hayati-jan-sampai-manaruah-dandam.webp)
 
 ## Lirik Lagu Jan Sampai Manaruah Dandam - Silva Hayati
 

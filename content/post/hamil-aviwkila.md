@@ -29,4 +29,3 @@ Demikian lirik 'Hamil' sebagaimana di atas.
 
 **Credit:** Judul : Hamil Voc : Aviwkila Cipt : Uki Diqie Sulaiman & Thana Ajeng Gahakalpa Arr : Uki Diqie Sulaiman
 
-![Hamil - Aviwkila](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxe6NpZg2aQ9lr1_KS-ocNPHuLvp0K4Rwym3dvCS0KFWXmnfzXj4ktTi68upcnx5hG9OK8hMN_3HI4fRI9oza7lBcGFlDSpwsXYD6NYjryPKLzs5wmngFqqgoB25JO4LXR42sCGQtJcvQdCa03lRIesP8GqiI5KE4Gjk50e2T9v79WOFzonILooAhyphenhyphen362J/s1280/hamil-aviwkila.webp)

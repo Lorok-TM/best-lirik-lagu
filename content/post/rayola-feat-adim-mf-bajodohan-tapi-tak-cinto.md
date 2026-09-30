@@ -5,7 +5,6 @@ categories:
   - "minang"
 ---
 
-![Rayola Feat Adim MF - Bajodohan Tapi Tak Cinto](https://raw.githubusercontent.com/Lorok-TM/2026-08/img/rayola-feat-adim-mf-bajodohan-tapi-tak-cinto.webp)
 
 ## Lirik Lagu Bajodohan Tapi Tak Cinto - Rayola feat. Adim MF
 

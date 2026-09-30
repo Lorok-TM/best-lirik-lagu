@@ -29,4 +29,3 @@ Sa sayang ko Sa makin sayang sama ko Sa makin cinta sama ko oh Sayang Sa bahagia
 
 Sa sayang ko Sa makin sayang sama ko Sa makin cinta sama ko oh Sayang Sa bahagia dengan ko Sa sayang ko
 
-![Bagarap - Sa Sayang Ko](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLKnVYNqYqY6zUelxB5pc7gBffqsivN8UpPrWNO4Upvn4HE5eBAe6CF8VBTXrHkWFmUyaG1hh0P-25YKzlTbz3jnZ8KmSWRW9XJICBVlTAPFzutFEoG0CWmO6Vwo1pua9dt4SWmfbzIKuejj90TrCsjkHimfixuZtNtUqi1Y26k_4OUAqVFtfMl9lfRZav/s1280/bagarap-sa-sayang-ko.webp)

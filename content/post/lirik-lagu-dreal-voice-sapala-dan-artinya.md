@@ -35,4 +35,3 @@ Unang be marmeam Unang be marmeam meam ho hasian
 
 _Janganlah bermain Janganlah kamu bermain main sayang_
 
-![image](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQE4K_Ut02QYZheGO9jeVN0R5bY9EtgHEDYseu_4XM6UNkPXJoSNdKLc7nLltrrvbuHiA3e5dY1wYIz9aAAcw13VjSdVWXON2-4qBhlybU-97BkjUVKhKwo3kLRWGSQZPMy5Tpf7UoZIYVQdgd8p-qblDal2WUd6E3rqnnVRF9_4xKvLYdgrybkx36pe4t/s800/dreal-voice.webp)

@@ -25,4 +25,3 @@ Batambah hancur angat perasaan Sana lengen akang ku undangan Kapehe tutu amun ku
 
 _Bertambah hancur perasaanku Saat terima undangan untukku Sungguh sakit bila ku membayangkan Besuk lusa aku memberi menyerahkan kado_
 
-![Vita Katuy - Batisa Himang](https://i.ytimg.com/vi_webp/lVI-DrheeXE/maxresdefault.webp)

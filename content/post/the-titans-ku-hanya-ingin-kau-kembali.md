@@ -44,7 +44,6 @@ Situs bestliriklagu.com tidak menyediakan chord dasar / kunci gitar / Mp3 lagu K
 > 
 > Jangan tinggalkan Jangan hancurkan Jangan musnahkan uu uu uu uu Ku hanya ingin kau kembali Hanya ingin kau kembali
 
-![The Titans - Ku Hanya Ingin Kau Kembali](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMW4WhYEhsP6CvNYBQLHJ-Ai21zG7E3NZewjnqPxBs1g6HRIKBJEvJmcbmWq6bFCsu5x1VwUfi9wfSoUkd6a-Djkp18nu37NeEoQWECW5q94dfzn0-NbJlfkbNlNRT8m-wKRqRJiNqeXe250WKouWN4D9562xm5lxiHHXXbPvWHdt06y0k292DUuZrlRsq/s800/the-titans-ku-hanya-ingin-kau-kembali.webp)
 
 Tujuan kami berbagi ini ialah menyediakan dan menambah sebanyak mungkin informasi arsip lirik lagu untuk mempermudah bagi Anda yang ingin menghafalkan lagu Ku Hanya Ingin Kau Kembali ini, maupun belajar bermain musik.
 

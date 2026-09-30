@@ -21,4 +21,3 @@ Hape balik do i sude sian pakkirimon hi Gabe muba rohami tu au ito Dukkon diboto
 
 Dukkon diboto ho boru na pogos au ito Las gabe muba rohami
 
-![Valentina Sitohang Feat Daniel Sinurat - Tarhirim Au Dibaen Ho](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4D_h7fwP6B33zqvsF7jKw5VfyVy2pr-u_c567SZ8w2n57LmE0c7rQ-MxRKVC4_MaYEMKT7WcZN0gQ5BHacPpZlfv6i8dhLglsaQxJE0A7Xl7A4lbxCX-95_KgdRe97Mn3hqti01RlGHMCnVgwWRbMRJz1GzFLRlEBK5LdDTCNSzjjpGJR_NC4sUzONiN7/s1280/valentina-sitohang-feat-daniel-sinurat-tarhirim-au-dibaen-ho.webp)

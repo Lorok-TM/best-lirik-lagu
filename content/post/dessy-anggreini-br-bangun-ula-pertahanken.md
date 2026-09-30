@@ -45,6 +45,5 @@ Title : Ula Pertahanken Artist : Dessy Anggreini Br Bangun Songwriter : Inka May
 > 
 > Adi labo atan terjeng ate keleng Adi labo atan terjeng Huu uu Terjeng ate keleng
 
-![Dessy Anggreini Br Bangun - Ula Pertahanken](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3PE7i-dK3XEob4fQS2HxoWzDbvtMqDrmdOsP_AkU8hCaxNYvz8Y7AhZjsrvmjX3oN5lN4aPgo7fW4L5v4mIKVmX25Qc6UNXviQGzfxMR6hkLlViHJ3EG_E-_KZ4ukY8m6wqDuGQlIshp_fI1TtU_cxv8NuPTVZiyUdoCEFsJjgH_ILbK6fbfEQPAogg/s800/dessy-anggreini-br-bangun-ula-pertahanken.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Dessy Anggreini Br Bangun - Ula Pertahanken. Silahkan bagikan juga ke teman anda.

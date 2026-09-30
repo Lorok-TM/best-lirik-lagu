@@ -13,4 +13,3 @@ Oi badan taulah jo diri Jikok mamandang jan talampau tinggi Kini taluko sakik ma
 
 Oi urang jan co itu bana Tenggang tenggang juo hati nan ko Salah manyinto manaruah sayang Adiak bapunyo denai marasai Jikok tak nio denai jan dihino
 
-![Frans Ariesta - Mamandang Talampau Tinggi](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxNPvVibIxQjOLKIIsDN9MBS5huJRFJ-_1jJoAJ2TEBUfljBaSHWO2xFzMH-ScyFnhjNeRFFr4Khuz4FlQvP3Pm_Sc_UgUd8oPgxXkvebXOh2d5IsaP08WT91_UGdNDbBtPriquGqU8gJUJnA5BU6obNLtJ8BsxG8vTHTfuHCzS-aiMdAEa-Y6HXTTkHxb/s480/frans-ariesta-mamandang-talampau-tinggi.webp)

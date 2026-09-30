@@ -27,4 +27,3 @@ Outro : Pulut ni rohami.. Ditinggalhon ho do au.. So martona.. so martading.. Ha
 
 Pulut ni rohami.. Ditinggalhon ho do au.. So martona.. so martading.. Hata ho tu au.. So martona.. so martading.. Hata ho tu au..
 
-![Somartona - Natalis Trio](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYQzs0NOkSsTHa6GhUMieLglCDJpv2Dl2rPmr7dQn8HFezNOaCjQS7N-yOjmGsjjOa0gEsSWrUyBmhpYIRUqxI8_qhU85WGYR7A4Qr1nvCGp5LTUCyLsZBAuEBIbgnH3ak3RQt9kWn2-9yaDHc-karG6ODPD5Z2-Ud18UGwEu4nBbBzDqZoPtQE8ySndOY/s1280/somartona-natalis-trio.webp)

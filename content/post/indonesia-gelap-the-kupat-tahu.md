@@ -35,4 +35,3 @@ Demikian lirik 'Indonesia Gelap' sebagaimana di atas.
 
 **Credit:** Judul : Indonesia Gelap Voc : The Kupat Tahu Cipt : The Kupat Tahu
 
-![Indonesia Gelap - The Kupat Tahu](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZl6sLk_vYjPC1QOCHH1ngqAY4FMgGhXS-CIYTPurCb4NCD2Q9_RPQiAb-_N3Z51xw70ljA8s2EgFHGB0gc-6O84f4RaqVRt1b__k98UXnSvyenWaYbVkWkjkWfyGEFT_Ad5wsnkVSwZfQIopDt_TiPEoMNmXLFOb6Fv8dtS8lFDCPkGtFn3jZngtNxbNP/s1280/indonesia-gelap-the-kupat-tahu.webp)

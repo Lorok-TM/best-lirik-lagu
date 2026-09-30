@@ -35,4 +35,3 @@ Demikian lirik 'Minang Timur Barayo' sebagaimana di atas.
 
 **Credit:** Judul : Minang Timur Barayo Voc : Wita Sofi - Diva Aurel - Diyah - Juan Reza - Jacson Zeran - Silet Open Up - Innani Sarifa Cipt : Andri Dharma & Minang Timur Team (Juan, Jacson, Kiki, Silet) Arr : Chito Deona
 
-![Minang Timur Barayo](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijGjo-WJlvnlhjWgFMfPFo-iJ-9Rsp6oVg6Ktu1gaUs62nINWBxDtYppgRiXPw1peeF7zbScNQ5hq4HXZci8XrlmAShjmMkHeN88_pD_TE59eQjanI-gyXNFe5uYA_TGhwsZvU_Qtpd-AnyUSdz_n8Ewb7N1GeAtXNYEnYa9kwbkOC7m-yfK__jWF87ZjI/s1280/minang-timur-barayo.webp)

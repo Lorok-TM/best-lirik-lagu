@@ -23,4 +23,3 @@ Kau ku cinta dan ku sayang Tak pernah aku ragukan Bersama kita ucapkan setia Aku
 
 #Credits: Title : Aku Untuk Mu Kau Untuk Ku Artist : Yaya Nadila Songwriter : Ajhay Pasma Arr : Decky Ryan
 
-![Yaya Nadila - Aku Untukmu Kau Untukku](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnCw2ES-Usn3XresQxZzR7JfkCVgRBiWHXv2tTI9e-3IknDyI7OWfn5FgLEhQ_of84w0EqEpbvRj1Thkq0_RNSdZpo9wYw2mGQW7UDezup-eXCrortSupkI_kAxOpirUQ_coxf-WC4qj5Qdm24z686geYUnA8Slo-GCUHKjJiK50tLp67eAOqbGTLPICfa/s480/yaya-nadila-aku-untukmu-kau-untukku.webp)

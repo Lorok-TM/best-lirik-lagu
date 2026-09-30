@@ -21,4 +21,3 @@ Demikian lirik 'Katresnan' sebagaimana di atas.
 
 **Credit:** Judul : Katresnan Voc : Shinta Arsinta Cipt : Iwan Kurniawan
 
-![Katresnan - Shinta Arsinta](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAc2B5yHx8cYgeYzpmA76xM75up73uogA6p5JzZvEBNXr1TU1ciW_ytvzr3b_xp9eq9PqwuY5Or9JPYd8CUeZlWkaBDhlt0-i-8h8tLjhlgsNf-fFue_rv9A7gZazyi5QtvKMbtOnVXv4RLbvDovcZbdtz2PeYb2I1h1-qgtkOKSyt1RT7xtU2MQLtW-ve/s1280/katresnan-shinta-arsinta.webp)

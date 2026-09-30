@@ -17,4 +17,3 @@ Mas salahmu dewe Ngujo aku ro liyane Aku di keloni Karo kancaku dewe Sepurane ka
 
 #Credits: Judul : Ngertenono Ati Voc : Cantika Nuswantoro Cipt : Bara GMLT Cipt Rap : Yonanda Frisna Damara Arr : OM Adella
 
-![Cantika Nuswantoro Adella - Ngertenono Ati](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJzib6tHUscsj4DanP_06ucR17MBORafPqk_UuRrK0N-RwHhmc_YCDydbQwvFnE_lYG6BJyyI1NHwZhQIYlovsmB57YyNEGdqcY01RT8YpGGPR3F9XuUj4uboXuNMfulM8ZAOCKu_l_2CdQ2TYxC4F-zQERBI5iD3egxybXjK2l0rhZlwzTWJHoRTeZJv6/s480/cantika-nuswantoro-adella-ngertenono-ati.webp)

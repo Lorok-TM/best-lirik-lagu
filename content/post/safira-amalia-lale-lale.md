@@ -23,6 +23,5 @@ Title : Lale Lale Artist : Safira Amalia Songwriter : Medya Hus Label : 41 Proje
 > 
 > Yoh mantong hudep nyan ok goh puteh Ingat e wareh suroh nyang kuasa Yoh gob gob peungui pakaian puteh Ngoen etikeut gleh pujoe rabbana Yoh gob gob peungui pakaian puteh Ngoen etikeut gleh pujoe rabbana
 
-![Safira Amalia - Lale Lale](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjcTr_KIvw8wHTR_E95ESa-kz_xTHBY6U54C5pFclQPPUy3GcOfiwsHLHFyN1D2_wU7cLyqaxZfaxNYmJmHl_aXUbxGd4smSiNyXO2tbHebicCGTr_6epssvP6ZLJV3hufyJPSWG5izqGQuWPSEyn5BsMl5emIyK-oGCVFWGgLmOoy3OtfXVdxKcii0g/s800/safira-amalia-lale-lale.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Safira Amalia - Lale Lale. Silahkan bagikan juga ke teman anda.

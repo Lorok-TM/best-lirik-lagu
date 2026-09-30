@@ -25,6 +25,5 @@ Title : Banang Bauleh Artist : David Iztambul Songwriter : Ajhai Pasma Productio
 > 
 > Mancintoi walau hanyo samantaro Denai syukuri Manyayangi walau indak ka disayangi Denai tarimo
 
-![David Iztambul - Banang Bauleh](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5ON3bqvjyOqIMM6awmo-SSC4MngN1LZIOgDUlPavaBNg8LQlv-KhMa__8KPdZ0k4y5CqJPfXVg8kFMkjiEsIDDaTQ4wbTnnYmD2GUIR59q-COF0eG9s8YoSC6ERb0re2cT6yV2PcmCgCwlayhwJa3nbFy8DdwVkF2GB7JdCkRCUZ6byWcu7_RqxRsZw/s800/david-iztambul-banang-bauleh.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu David Iztambul - Banang Bauleh. Silahkan bagikan juga ke teman anda.

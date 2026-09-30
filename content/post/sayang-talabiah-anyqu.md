@@ -19,4 +19,3 @@ Demikian lirik 'Sayang Talabiah' sebagaimana di atas.
 
 **Credit:** Judul : Sayang Talabiah Voc : Anyqu Cipt : Rozac Tanjung Arr : Nanda Cabiak
 
-![Sayang Talabiah - Anyqu](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7RbM5gDnXhRQ1NqRxsI1bwWcN0m_odJ0gpTV6kJUBV0kk0zALSmo9ttc8ACboEgU05WXR1pgVAFyY8ISwBKTJwUjmvXNUbNsDdPNdbGkIMWtoOLJu8EgX5FqWAY0TS7jaAZz7VXDBmWL5a3IVo-1N-C5CjOf_kSvYuNkPXCO_gKhs3sbGr8gEWzzAgA29/s1280/sayang-talabiah-anyqu.webp)

@@ -19,4 +19,3 @@ Cincin parmato di jari manih Baikek jo timbago Dek pandai malenggokam Mangko bak
 
 Hati jo jantuang lah hanguih Dek pandai mambaokkan Nampaknyo sanang juo
 
-![Eno Viola - Dilua Galak Didalam Manangih](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqyK2IV5HLG0tEnoyQME8vLX4lQ6W_e3-rJbDLuyUPiZskTzlB2e4LrAGVjenhRFmVZXbPO55ptuLc2-Yk55Yu0ETPkVEbVnI-PUmEMydlirquArBW-wbGrSGj2Tseds_U8pEXCZ7hvpw6hJxT4bY5Nlkf3HJr-3m7gvhnTbW1gUFlYbwT3Y_OF7ybFYVW/s1280/eno-viola-dilua-galak-didalam-manangih.webp)

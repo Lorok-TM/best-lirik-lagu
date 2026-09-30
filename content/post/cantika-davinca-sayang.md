@@ -19,4 +19,3 @@ Sayang cintaku ini hanya untuk mu sayang Jadi jangan kau pikir ku beralasan Karn
 
 Jujur ku katakan bukan alasan Kan kamu sendiri yang bilang Tahun ini juga kau minta untuk dilamar
 
-![Cantika Davinca - Sayang](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHkbm1j9tMQrPSiirp1ICmxPLXPunJ-fwhBplhlritGV-xlTtDbmd-rMhXGvMqgZbKEe59pItz1hVm0Y-mSjusYR1wHmQQLqflakF62bRNoGA-vu_UkCDI65CoaMmSS3JlugYxirE57G8L7IVjTr0aJwRJfijQR5sTUy-iIXycFdf3EHdlDKwnz6sqgqqg/s480/cantika-davinca-sayang.webp)

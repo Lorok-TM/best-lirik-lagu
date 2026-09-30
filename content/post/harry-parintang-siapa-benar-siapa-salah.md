@@ -25,6 +25,5 @@ Title : Siapa Benar Siapa Salah Artist : Harry Parintang Songwriter : Toyak Cate
 > 
 > Ku maafkan kesalahanmu
 
-![Harry Parintang - Siapa Benar Siapa Salah](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtpuJaaXG97PMGH6_gioShcXfE5RUnJDD-jDmbGn95fPL5YooQB8V0gArbyY9w2aQATAPvI_HYWF9dDfkyGA5BygBMofgRJ8XpQ1MBZwpigiBbvHmmIkyjgvQC2DzWZeD4IVYk1zp_Fli38WOcRjd4mX5ruV_QfBELuj07R7VHLSeFrn-XXAo_Rtb9kA/s800/harry-parintang-siapa-benar-siapa-salah.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Harry Parintang - Siapa Benar Siapa Salah. Silahkan bagikan juga ke teman anda.

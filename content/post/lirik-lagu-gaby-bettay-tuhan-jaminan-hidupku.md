@@ -25,4 +25,3 @@ categories:
 
 Title : Tuhan Jaminan Hidupku Artist : Gaby Bettay Songwriter : Pdt. Marlon Bulong
 
-![Gaby Bettay - Tuhan Jaminan Hidupku](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtUo1F9emlB487dU3FwrRlQ_LjRtDRctW2k0WeHD3ugz_Lo_zyWb13IzzRzpeRI2urRr1oU_vdhrKLwHWjEBF9bGUwoBo1usn9yrHC5rV5zkKowEv1VPhAuOaja3kW3jGPt83vjK9lhIL1r7E3Kd4Jq8l0UTOARZPVwy0rFcA_u1RNJIlqODeLnFnXmQ/s1280/gaby-bettay-tuhan-jaminan-hidupku.webp)

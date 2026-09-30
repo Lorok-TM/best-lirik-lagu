@@ -17,4 +17,3 @@ Bian lah jelo kakak kerep kerep Bian jelo kerep kerep Kelak manis daun bikan Bia
 
 Bilang lah jelo kakak saling serep Bilang jelo saling serep Sayan manis sik be gitak Bilang jelo saling serep Sayan manis sik be gitak
 
-![Erni Ayuningsih - Sasak Lowong Gero](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5wU1HPCi_qHo0MCY1C4cxpY9qToxMC-CbDj0LMf77XaXz78N0FsEWw30yJXfPlLGbSOsxn0iesKM-s_Q4oI5EmrFBjlGPAGA_vzRFO_eGB9BSk3_T8mtYXz_Rq4O6E3qDcoONkK9uL4y1u3SNQV8XqTbikMb0wMHQnboAcRBJIFGahH-Xg4jf4aX_sDO-/s480/erni-ayuningsih-sasak-lowong-gero.webp)

@@ -19,4 +19,3 @@ Sepurane kang sepurane Lalekno saiki percoyo riko
 
 #Credits: Judul : Omonge Uwong Voc : Dini Kurnia ft. Mufly Key Cipt : Adistya Mayasari / Eko Bece Arr : Mufly Key
 
-![Dini Kurnia feat. Mufly Key - Omonge Uwong](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixKSc4UkyMYEJtXK8NqSfkgXdOi8bc5FeX4KMae9of9ay0q7QDzEHC-U1ei86Zxiue8ZZDyx87eRVDFN6BM2uGDmzKQkDQYho1bX-W5S7dzDHaMxluByxpmoJvwqxYoiUt6nD4gpxS6Ch4uySM_67SA834iQydqcfOasXqDdFeLo71bx5w6e8yl1IHgPby/s1280/dini-kurnia-feat-mufly-key-omonge-uwong.webp)

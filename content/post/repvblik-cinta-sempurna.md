@@ -33,6 +33,5 @@ Title : Cinta Sempurna Artist : Repvblik Band Songwriter : Dose Hudaya Productio
 > 
 > Janjiku sayang suatu hari nanti Ku bisa memberimu yang terbaik Apapun maumu apapun yang kau suka
 
-![Repvblik - Cinta Sempurna](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjT7xJA5vJUPnlL6OVk1s8QB9TmkZkRRZNBX9wD044u0lE_pPVyvIxCwSR4CgrEH5rW7oJJGWyScdJAP9UHX40u9yUq5oP-NFOv39EeUURJpPHfg3281jG4NtpDFfSUE1YHJTE7CFU4n7JBtSVeEDdrrpKEO6_CgwLhFvLs7uTpO0aRwtdXgvx0eu-FiQ/s800/repvblik-cinta-sempurna.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Repvblik - Cinta Sempurna. Silahkan bagikan juga ke teman anda.

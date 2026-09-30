@@ -15,4 +15,3 @@ Mana mungkin aku tau Bedanya cincin sama diriku Janganlah abang coba merayu Nant
 
 Cincin melekat di jari manis sayang Kalau adik melekat di hati abang
 
-![Clara feat. Gustrian Geno - Cinta Dari Seberang](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoNflMr4pBLSl8UhCpNyIa7l1iK4msxPFRfFI4e2VDfIgKP61c2ntoDeOhRTqF4GiGdgBk-3ybfoWdlxtZuA3yXpjjR-QqvhnUuzFsjVc8mHWdliQ66gPhP8sLD49lC5hbCmu8bH1UzGA9QyukYSCS8Y-W-okFWbHaw51xQc_ek4j8r86ZTHGyn7oHiIB1/s480/clara-feat-gustrian-geno-cinta-dari-seberang.webp)

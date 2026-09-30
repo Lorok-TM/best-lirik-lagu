@@ -25,6 +25,5 @@ Title : Untuk Cinta Sejati Artist : Thomas Arya Composer : Anton Swena Category 
 > 
 > Semoga cinta kita bersatu selamanya Tak akan goyah dihempas prahara
 
-![Thomas Arya - Untuk Cinta Sejati](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBB3FlgZ_5ireUbIZrD2Wf7YTvnpYZPYMfHpcBiANw9RFWU84QJIPSFd4yarozDZHqHxb9d2j_Upd_U4Sl-bjEiFibROqTeP6h8fqihQd6VVp1e5ldRVaPvtfiMxu1E4O38i8Nu2gATRtuSrJo_pHK2PPMUgXJawIKoHMvm9cVq0U-6m9xVoskNf7DtA/s800/thomas-arya-untuk-cinta-sejati.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Thomas Arya - Untuk Cinta Sejati. Silahkan bagikan juga ke teman anda.

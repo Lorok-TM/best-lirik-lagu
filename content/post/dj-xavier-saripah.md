@@ -29,4 +29,3 @@ Duh duh aduh saripah Aku gidan enda sabar nganti Ati ku rindu Rindu aku enda bad
 
 Ah aku gidan (sir sir sir) Ka ngempu nuan Nguji dulu tua besulu Ujung taun tua bepadu
 
-![DJ Xavier - Saripah](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjqhETbMmul4TpZ2PYWWHLP2NIkg6yrhz2yMOcmb30Zu8RVyx9x2xiIr6VyAqdSLwU2dgxKI8POvuxYL7GBU7bHOgp7raL9K_q428caG4-XjtcFDhzG4YSfgT9wgeQMxyRNHXIxhUp9t2AY3Un1j7XDDm5azM52O9yYKvCl6naUH7jFY3a1OhHckxz9CIv/s480/dj-xavier-saripah.webp)

@@ -25,6 +25,4 @@ Situs bestliriklagu.com tidak menyediakan chord dasar / kunci gitar / Mp3 lagu H
 > 
 > Andaikan rasa ini tak ada Mungkin ini tak akan terjadi Kini ku tahu kau miliki dia Ku telan pahit semua ini
 
-![Armansyah - Haruskah Aku Yang Mengalah](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjubRbA2hAqHvkj8gFeO0JgvRT9mRvEBccjnjO6yXfW6UgJDnli93e92pTixMYrVHwkF2gKU52nUEwaMylWzCfzzmAqP_zlJMg8Mwo82trmb70kLfyE_7XnIf5PAKu2M7U0fwo7p6WsMYMYQEMF2lErLZvjkaTyFNcD5wSwckghM0tjR0QaAZC3WKBKLg/s800/armansyah-haruskah-aku-yang-mengalah.webp)
-
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Armansyah - Haruskah Aku Yang Mengalah. Silahkan bagikan juga ke teman anda.

@@ -31,4 +31,3 @@ Maaf kan denai oi diak sayang Kito indak spadan
 
 **Credit:** Judul : Cinta Manyeso Badan Voc : Melisa Putri Ft Carlos Cipt : Syahrel Putra Arr : Satria Wandra
 
-![Cinto Manyeso Badan - Melisa Putri Feat Carlos](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKcfAofNfDaUOt0oTo-2dHCewAHF2MZa2bnhhM6yaTcmSP5zfEvTboZMOikePVj4cXStM4Em7M40KZsLAQsH9LBb54QAyvVGGGMEgvbtez2hD-Jrc3bgtuLThmQy0jK3swi_v-9sJeziKGw79wS1A4NpJXjTgec-_FY0XrwUKBswuXz8cF19whn2uTawSh/s480/cinto-manyeso-badan-melisa-putri-feat-carlos.webp)

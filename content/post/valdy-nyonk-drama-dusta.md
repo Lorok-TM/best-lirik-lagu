@@ -17,4 +17,3 @@ Sepandai pandainya Kau menutupi dusta Lama-lama akan tercium juga Manis di bibir
 
 Kau buat ku terluka dan kecewa
 
-![Valdy Nyonk - Drama Dusta](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiGwTDOLmoYG5NUYQlJMLWRvXCxS-b9DTqxRXzi5_jGYLqP78zHzdbh1tPC7j917Vp1df-q91ZsfYRbKzCpOgG-FZO8aaNR2qSYHkPgZ6M6ttoOlyW-uElO1_AkyPzzMNJlHsnr_JAPSdLzhyphenhyphen3hbjUC-Mnnd1tlsE2fggSP_Uh5zOzG61TplV0cBb4Jmi0/s480/valdy-nyonk-drama-dusta.webp)

@@ -15,4 +15,3 @@ Pado manyauak bia manimbo Asa lai dapek mandi balimau Jan dicamehkan diri denai 
 
 Kok titiak bana si aia mato Uda jo urang denai rilakan Walaupun sakik putuih bacinto Takadia tuhan usah dilawan
 
-![Indah Delvia - Kok Panuah Dululah Pai](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeZVzyoSX42sfKn6kX8exMe8Vxq6jBynEbVtZzETEdD1YoQSuSwCwgR-PA92uldhpvCD3pwfZAwydNzuwH2BUbSPFZrZrA6F3JDv-H0inSjO5nrv_3liqWLk7dZug6ABSzkz6vJxY_tVeFEh4NvfkwlPacbwIEbQAeIG7ti4aRpvdvdSRp-XLs31hvIvnj/s480/indah-delvia-kok-panuah-dululah-pai.webp)

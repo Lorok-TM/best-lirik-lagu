@@ -5,7 +5,6 @@ categories:
   - "minang"
 ---
 
-![Zicha Anesha - Baputuih Raso](https://raw.githubusercontent.com/Lorok-TM/2026-08/img/zicha-anesha-baputuih-raso.webp)
 
 Putuih sadonyo si tali rabab Talampau kareh bana manggesek Indak guno di cari sabab Raso dunsanak kok ka di karek Indak guno di cari sabab Raso dunsanak kok ka di karek
 

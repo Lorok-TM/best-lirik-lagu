@@ -13,4 +13,3 @@ Molo tung tarallang sumpa ho ito Dang nahuparsitta ikkon songoni Alai dang tarba
 
 Ba pintor ro ma ho tu au Rade do au manjalo ho
 
-![Basadoi Trio - Unang Bolokkon Tandakki](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLqVTYIimhqPDRKls5oEcdIbLUYXWXPEKgbdcQT6CKQiln0dBu-qxwWXmFqYDXIjIRU3zZIenTVMOcJndAq9pGdXtJ7Y1jzJaPrw6lXQzNEaNHKGDhWC1Woxgc2JZnv_t2IeNxBlOYmMdL2h9dIkJ0aUq__XMFIvtNUMYNuJD8AqcVR5dlT_C97uMcbwMz/s480/basadoi-trio-unang-bolokkon-tandakki.webp)

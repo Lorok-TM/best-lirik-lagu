@@ -13,4 +13,3 @@ Indak ka denai putuihkan yo tali badunsanak Walau tuan maraso denai ko ndak bagu
 
 Kok kareh tamparan tuan bialah denai tahan Indak ka denai baleh walau padiah taraso Pado dunsanak nan den lawan bak mancabiak baju di badan Nan ka malu kito juo
 
-![Roje Firdaus - Jan Sampai Manaruah Dandam](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaJ5PHMVP8Y63h0fhZQNBYGfgjgszGxIJIxyAbzCDu9uBZpDrgJmUr65by6etiPVYINTjcUGmSkJ0_1Az7XleMAp5H99Q1-oJru3DiM5qhKczGyHi1XrKsZF-hdtFf5CgmRny4iBZlck9STZuogQIEX3_1BKZ6IIxKkJaPJdRCg8MDVJyCEOmHuNr5WmOi/s480/roje-firdaus-jan-sampai-manaruah-dandam.webp)

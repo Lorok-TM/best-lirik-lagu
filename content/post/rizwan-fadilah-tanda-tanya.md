@@ -21,4 +21,3 @@ Ku tau kau penuh tanda tanya Menduga-duga di kepala Beri waktu ku tuk terbiasa T
 
 Mungkin kadangku yang tak peka Atau kamu yang tak merasa Mungkin kadangku yang tak peka Atau kamu yang tak merasa
 
-![Rizwan Fadilah - Tanda Tanya](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAkyLBw6HSWn_k_uoObY2vqyqpnip7kfn0-S0jABmIry0CI2YDicmJaVyDQdupi5YwSkN2lAMp8NgstMK2q7Y7gAFG6J8y9FTIFbqiORuCVrXZ6CHWyWD49aciZRat-V0uv-rHDQmZYY2rjPsbiyLsJXZCl1fFkci1gzg_pyvKePJKktVZL8yHTkY8YSnl/s480/rizwan-fadilah-tanda-tanya.webp)

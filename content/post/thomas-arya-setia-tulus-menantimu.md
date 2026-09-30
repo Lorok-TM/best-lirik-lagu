@@ -27,6 +27,5 @@ Title : Setia Tulus Menantimu Artist : Thomas Arya Songwriter : In Kundel Produc
 > 
 > Engkau kekasih hoo oo oo Dirimu ku rindu
 
-![Thomas Arya - Setia Tulus Menantimu](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSFgWMXapx4TD7hrlaRSuet0tR8bRmQJWMzeRj6pTE2T8yMjXQS_R5RFAXnc66vVdXsCMB8lT--ns4Sy_zUOSp55rValYT71-wSwevlOUOeJ3eXny_c56N3mcu22Czefv30hWBx4Y_9UkEg5TYKFvEtl7i43YtDCLopmmctQHjGUCIWg-c-SdEI61lag/s800/thomas-arya-setia-tulus-menantimu.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Thomas Arya - Setia Tulus Menantimu. Silahkan bagikan juga ke teman anda.

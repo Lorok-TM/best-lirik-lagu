@@ -23,4 +23,3 @@ Jan randah bana tuan mamandang Denai nan sadang mandayuang sampan Jan talompek l
 
 #Credits: Judul : Padiah Garah Kawan Voc : Neysia Cantika Cipt : Syahrel Putra Arr : Satria Wandra
 
-![Neysia Cantika - Padiah Garah Kawan](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYANy21zck1VZJcY2Zy63ov-172h0JYiVEdTJFHzfoipki9Wgl7YlD3X1a-coXeUn9HUJvl3mYxBQf6Gqminzk-PxBd7nzUUFvIotPj4NbZgpG1-_9y_1Ot9DucTVrYyrHXCasblZXBl2bMFHe6E1BuJrUI-URrCHxUxWlXLoMb0RmKQ0hrhsuwKWrXAfH/s1280/neysia-cantika-padiah-garah-kawan.webp)

@@ -31,4 +31,3 @@ Ku lanjutkan hidupku Namun lihatlah dirimu Tanpa aku kau bisa apa Kini ku lebih 
 
 Buktinya baik baik saja
 
-![Glenn Samuel - Buktinya Baik Baik Saja](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiu1XjLAeNue2BsjM2Jlc_cxuf4z8jXou1RPqq9i7aa16MXnukcDbd2oFhCmAacUwQZEqdWXN0NjVn2v3YgWH3TJr8Lm5tJXumbxvNIvQdomrMINmd-xdHPnBw4wduh1tSu_4QFwRLJetR_Mz6-SRONlA5fvyXI8Ud7e4-Q4Ey1VonjsUrTAFa4WrKPU725/s480/glenn-samuel-buktinya-baik-baik-saja.webp)

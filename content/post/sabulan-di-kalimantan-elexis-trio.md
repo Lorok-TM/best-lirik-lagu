@@ -27,4 +27,3 @@ Alani arta ma hape ito Gabe muba holongmi Dang hurimpu songoni Mura ni cintami i
 
 Alani arta ma hape ito Gabe muba holongmi Dang hurimpu songoni Mura ni cintami ito
 
-![Sabulan Di Kalimantan - Elexis Trio](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhk6XyyPk8o1Y9uEkk7tVXlex43VBFuQ5oI_mfk47HmLit5vtR4mCT0iN68RrQCHm53NDdCGeVCMMtACqy2zOgzMoyo_xVVyJwCYNw1A8P8hd6qYjgTf2-YsSgjc-JB7YZIdix6o0G8jJiwzKnkQu583prf5YpIQBx9Eg-Yc_6AiAbYcXgqBwQ5-_b1PYNL/s1280/sabulan-di-kalimantan-elexis-trio.webp)

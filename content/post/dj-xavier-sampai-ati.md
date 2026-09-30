@@ -27,4 +27,3 @@ Kini meh nuan bunsu atiku Lama nuan nda ngundang aku Sampai ati nuan ngelebu say
 
 Dini meh nuan lintanku sayau Sampai ati nuan ngelengka Penyayau ku pengabis ya ka nuan Oh ambai ambai atiku sayau
 
-![DJ Xavier - Sampai Ati](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrC3VXHjWtuSikjmK16K-qNHY9C_-OhI2hdawHpZNV4gkbX3VPz1tw_nDWCmfb8-R0bZV1XAfxQcOjQTqNCYxLhpvI8ifp2sbxMOkth_nwUXB4u0AOjz7pewA4jfcZn9tU8uiE9mEpP5rrXOW27LcoEG20bf-UYjCYl0tJqAlpHC6XrloqKy1hWCBhHSR6/s480/dj-xavier-sampai-ati.webp)

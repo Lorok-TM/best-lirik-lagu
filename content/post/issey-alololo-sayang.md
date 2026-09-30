@@ -37,6 +37,5 @@ Title : Alololo Artist : Issey Songwriter : Mr Yin & Issey Publishing : Datu Ent
 > 
 > Alololo Alololo
 
-![Issey - Alololo Sayang](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipy8zcJCWPofF5pUCdeT98TQsc2RmgjVJD-h_JevyrwaObEID9g-osLBSkyYmc6octK0Z0zNgwALXzm9TIMmAFdXJ-Q_RHth3kpeeXnHKYdnW5gr_r_DJXxvRfHWa47k5jDzqRdlpdK5ZJBLUhTOefs8eMmu_AItz3YXLRKAohptRNGNdv998ytEIjRA/s800/issey-alololo-sayang.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Issey - Alololo Sayang. Silahkan bagikan juga ke teman anda.

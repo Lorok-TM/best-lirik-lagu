@@ -27,6 +27,5 @@ Title : Engkaulah Puncanya Artist : Cut Rani Auliza Songwriter : Wandi Bireuen P
 > 
 > Pergilah jangan pernah kembali Tiada kemaafan untukmu lagi
 
-![Cut Rani Auliza - Engkaulah Puncanya](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiD8C7NfmIL78NXg9I-16ORTcFIdK81SXlK13NyAn9IrbVF9-dv6oES0O5bUXV4AlZavaBwPD-ALBMz7N49lkD1cjCnnng3uVoTWUt-JYRT6nK0rObfp7DetxU5hws3-WXVmcu56toriiF2JsCrreiPBDW-rWLDk1DP4q8ed8vL5KqaiFlPLmwHD6qxpPYS/s800/cut-rani-auliza-engkaulah-puncanya.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Cut Rani Auliza - Engkaulah Puncanya. Silahkan bagikan juga ke teman anda.

@@ -25,4 +25,3 @@ Sampe hati se parlente beta Nona sayang beta salah apa Se titip luka talalu dala
 
 Se titip luka talalu dalam Lupa deng beta pung perasaan
 
-![Beta Salah Apa - Fresly Nikijuluw](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgO3_8_ka1ig9Oe_JZXhEUfndAlAx3u1s2F85JFf1KoUKrWhWm2Yb2K_GEAg9kCBvGkz7MA7AGQd0VFYf8QU5TrR6r0aQZoN2WNqna0AEm09H2HT7e9UnMuxuVh4gH9dEcEJ_BWQzQ57XYA9kbaU7Af2gZKXDq5leygbUYB8xoGnGllx59AsHwp_oWcTeVT/s1280/beta-salah-apa-fresly-nikijuluw.webp)

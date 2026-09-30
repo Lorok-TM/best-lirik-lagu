@@ -25,4 +25,3 @@ Demikian lirik 'Petca Petca' sebagaimana di atas.
 
 **Credit:** Judul : Petca-Petca Voc : Farro Simamora Ft. Ridawana Daulay Cipt : Lahmuddin Batubara Arr : Gema Coxlat
 
-![Petca Petca - Farro Simamora Feat Ridawana Daulay](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiW0YvHhh01BL_JH1e66D2EJQDs4eQYzWR4iXUKNCSSxwb7XpMJMcuute8DHiJolEqgAzDEd0qEnnnNoFybwuR1xc5onZHhD_b6nFQZacOFzzdJfbw8odLDm_zneO8bd3npWTVoLlTjavy4jMwha5bXVYfY6mK1nOl5gTyGyb9Kz7DrD8fxkUrSAjID9uYw/s1280/petca-petca-farro-simamora-feat-ridawana-daulay.webp)

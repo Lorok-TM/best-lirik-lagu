@@ -23,6 +23,5 @@ Title : Cinto Mati Adiak Baru Ka Sayang Artist : Harry Parintang Songwriter : Ha
 > 
 > Adiak manga di jalin banangnyo cinto Kok hanyo ka untuak paneh ka adiak sajo Di tangan adiak mambubua panas Cinto kusuik jadinyo
 
-![Harry Parintang - Cinto Mati Adiak Baru Ka Sayang](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQoxjiTHtZZBMdQXa2zcAOUuPnH09USWfc5sUEUA8tAO0VvmcIfnVtCpmJjN5SPqY9HF4uSP91WyzdCjgn7PjEsTwzh9IbdwUAlivstUvN2LzSQFutbj0RRNA66Z8of8McvvIdhhj2I5UQk-xQhfgijibrKIIwHZbQqKdtivZyAhlx6GuVDl0F0sEUgw/s800/harry-parintang-cinto-mati-adiak-baru-ka-sayang.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Harry Parintang - Cinto Mati Adiak Baru Ka Sayang. Silahkan bagikan juga ke teman anda.

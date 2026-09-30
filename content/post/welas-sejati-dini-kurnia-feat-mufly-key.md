@@ -21,4 +21,3 @@ Demikian lirik 'Welas Sejati' sebagaimana di atas.
 
 **Credit:** Judul : Welas Sejati Voc : Dini Kurnia Feat Mufly Key Cipt : Demy Yoker Arr : Mufly Key
 
-![Welas Sejati - Dini Kurnia Feat Mufly Key](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEim6X_LO0kz9xO7oKYFqBuQROHfGeD9w8VjLRlGEFy2QrnLJQ0cfSoDBMWaMD0eE_vQsHnUVF4EHa-L5CfHjPkrz0SNqbIgvomQ566yOwDK2IKZjA_QPpcxTVCUusa065DHr4GZ01K225qn3acHG7eTtumMfmEAPHhsrJaH8yUadxfrWcQx2bGK2VA1A67W/s1280/welas-sejati-dini-kurnia-feat-mufly-key.webp)

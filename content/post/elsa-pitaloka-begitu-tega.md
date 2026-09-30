@@ -21,6 +21,5 @@ Title : Begitu Tega Artist : Elsa Pitaloka Songwriter : Wanda Mahardika Publishi
 > 
 > Kau yang janji setia Kau yang kini mendua Tega engkau begitu tega
 
-![Elsa Pitaloka - Begitu Tega](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqBFrVkXBHOosMJAOe8kBmm0v5nVDEmhTZKUHP6Ov8v1Oi41tvLM0eg6z1i7hifrZwqjX2Moz84zYYU-PC_fTqyfwYjJ5HQzvDbhH6sLNUyRQdJO7SfSNoCTZSSrbcnuMRzIN_tOxqnpAKtxivR9THuCrT_55wY9JlprOb15_NAh_S9VZPJLXI96k7UQ/s800/elsa-pitaloka-begitu-tega.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Elsa Pitaloka - Begitu Tega. Silahkan bagikan juga ke teman anda.

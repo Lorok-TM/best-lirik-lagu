@@ -26,5 +26,3 @@ Hancur hatiku tak terkira Kau pergi meninggalkan luka Ku pijakkan kaki di bumi T
 Tega dirimu menyakiti Hati dan perasaan ini Sungguh kau tak punya nurani Duhai kekasih
 
 Sungguh tak punya nurani Kau buat ku begini
-
-![Aprilian - Cinta Tiada Tara](https://i.ytimg.com/vi_webp/o2L6Fuikj3I/maxresdefault.webp)

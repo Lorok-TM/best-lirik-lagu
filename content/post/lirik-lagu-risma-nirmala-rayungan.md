@@ -43,4 +43,3 @@ categories:
 
 Title : Rayungan Artist : Rizma Nirmala Songwriter : Nano S
 
-![Risma Nirmala - Rayungan](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi06V0H-TzCyDmXIQUatf_fn_ITLt3WNecm8PUg3WeB6hm2HgJdYyLLoFGw2T8Z1GZTAClPKbmTJQ1RFMo-x8Ktc4np8eUTx4wGikp34rOwEuQAcraUVmStakHH-vAZFIS6Rq3hWqBUfxmMVtjEOt_HJEll6760WVHGKuuXor5Th6xBXzv38c77kzt83Q/s320/risma-nirmala-rayungan.webp)

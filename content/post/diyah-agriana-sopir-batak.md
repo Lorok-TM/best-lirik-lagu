@@ -15,4 +15,3 @@ Supir batak sitokar kaliang Lari oto sabana manintiangllgminlamo.Wpc Panumpang n
 
 Sadih hari hitaro kita perjunta mose Andigan hita mulap odongan saroha Sadih hari hitaro kita perjunta mose Andigan hita mulap odongan saroha
 
-![Diyah Agriana - Sopir Batak](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4o-NU8IBImNMhevF5WCl76emKaIBuqzFcKR1xw6lVCb1JGKyfsUOMLCsTVA10G5chHunTkSSaodHEWOCtCN0rQNO_A3Hb01zRfTrsbC4jBEMAw7Ii43hiDsfS8K9YdS7AhmusS_ETOCb03ro5rbPR1rImCOy3rz1fYZ-PlUMuoRg5il0-AZcjy8LX-sNh/s480/diyah-agriana-sopir-batak.webp)

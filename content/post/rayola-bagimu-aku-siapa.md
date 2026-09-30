@@ -23,6 +23,5 @@ Title : Bagimu Aku Siapa Artist : Rayola Songwriter : Izhal Khatanza Published :
 > 
 > Coba kau pikirkan engkau ingat lagi Siapa yang dulu ada untukmu Aku atau dia yang pernah setia Menjaga dan menyayangimu Namun kini kau anggap aku siapa Namun kini kau anggap aku siapa
 
-![Rayola - Bagimu Aku Siapa](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizZiubgmn97XeBWDOTFpfGb_KUNe08C0XrAsJaCB4YftFIK22ECGP6dPZ6NwcaP4lO5dxFCJ6_ctw4IswI9R8bWzKieVIXqLOKfQUv-L0TN4OkSEUT9KL8SK4qIwMXdLWYKggy0k9sPgNowTcYN0nHtnYQ-G8CYeS6hO3OonXP4QKlpd4vtdCqCtfI2A/s800/rayola-bagimu-aku-siapa.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Rayola - Bagimu Aku Siapa. Silahkan bagikan juga ke teman anda.

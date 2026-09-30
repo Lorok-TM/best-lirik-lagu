@@ -29,6 +29,5 @@ Situs bestliriklagu.com tidak menyediakan chord dasar / kunci gitar / Mp3 lagu S
 > 
 > Dengan satu rasa dalam satu cinta Sewaktu kita bersama dulu Ku semat di dalam hati Hingga kita kan bertemu Kemudian hari
 
-![Harry Parintang - Satu Nama Tetap Di Hati](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKvX-h37Z7zfqU3rkx92dhzeNordf6YQmGU9e5UjasPmHidqN35NN7Nf651kX8oiSojj8-fakZoYLwHjzaX5xsTYeSTgCvEeBqJU1_QTQPf6ig7papjWEK4sYL-Q0uL9WL00hp7jcz7TgyF6Pz-_LPJ0sRansQMbNjPYiIe1qdoV-BX6laM_cOmCxX4w/s800/harry-parintang-satu-nama-tetap-di-hati.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Harry Parintang - Satu Nama Tetap Di Hati. Silahkan bagikan juga ke teman anda.

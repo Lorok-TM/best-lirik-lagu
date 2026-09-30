@@ -25,6 +25,5 @@ Title : Balasan Setiaku Artist : Faisal Asahan Songwriter : Gus Totok Category :
 > 
 > Tak ingin lagi diriku Kecewa kerana cintamu
 
-![Faisal Asahan - Balasan Setiaku](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhov85-SY4HepYaSYsODZ9s2GDSdCUncS3Pn98MmDzsH43jDFV9xit2cUbIzFtadGzaeeLCWSOhVxB9NSON8EsJcaz8VK39knjA66OyRzLCSvbTCIT8yyknxAf4Lyvw1MoRautYUjTO2cHCTDTxcT7ICZp1cO9OjQgSWlylkZU51WmuUu_LWU1xqz8E7A/s800/faisal-asahan-balasan-setiaku.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Faisal Asahan - Balasan Setiaku. Silahkan bagikan juga ke teman anda.

@@ -5,7 +5,6 @@ categories:
   - "indonesia"
 ---
 
-![Ghea Indrawari - Bertanya Tanya](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYeWBul83oP1VDf0EQIXcTFMVYPVkeu-WZtNoLaNcHOxD-st6_aklBkU-2qXkHKvrgXT_rUCyxWjaio3-TgIwReRgjqVrAhWK5_lxl5XNEbnW2L-jXVgz2RZiHQ3D7sTAeJH8NcGovlrfJa-rfb9f757HRzcIVpYACarOqw1LscvOfgFECA2Y5LaQeNhwQ/s686/ghea-indrawari-bertanya-tanya.webp)
 
 Kadang ku bertanya tanya Sebenarnya kita ini apa Kau beri aku harapan Tapi tak pernah ada kejelasan
 

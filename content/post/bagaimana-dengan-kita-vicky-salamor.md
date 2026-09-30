@@ -17,4 +17,3 @@ Demikian lirik 'Bagaimana Dengan Kita' sebagaimana di atas.
 
 **Credit:** Judul : Bagaimana Dengan Kita Voc : Vicky Salamor Cipt : Vicky Salamor Arr : Vicky Salamor
 
-![Bagaimana Dengan Kita - Vicky Salamor](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKrkvXRegTVlwntKc01W_cePb0TmH_XNh7413lctpmEljxZW8rP8y0xGXwpBlYJUb0-R6imdppBiPoE7hZOfjvXPqI6YdFdVW9lKBv6V7hKDQeWZ9TqdUN5GVIqcECi4EJwUpCweDQwKgT90FKlogGaenzLvDIlK4K3NLnQj0erlM-FVW8YJNw1fkzV_m9/s1280/bagaimana-dengan-kita-vicky-salamor.webp)

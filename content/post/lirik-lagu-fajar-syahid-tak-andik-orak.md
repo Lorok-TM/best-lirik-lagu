@@ -21,4 +21,3 @@ categories:
 > 
 > Ongghu cek sampornana Carana dhikah e pasake’ sarah du ateh nikah
 
-![Fajar Syahid - Tak Andik Orak](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi71o8CbciGglS38owwaFIVbiPx9kY5BXKjAFgkzVFejb4AjVEgwCAs3i3mwN3hxOp1Q7hjo1AhvcTShxFJIqADmrGIIGZgPiPa_9qrUK_xzNh0zZdTTbUNQxFliNbf1-boECdgStq4ro9zorFAaHrg9sbc33IMnPQMD38cINKqEqxlXU4ori5igwG4eA/s320/fajar-syahid-tak-andik-orak.webp)

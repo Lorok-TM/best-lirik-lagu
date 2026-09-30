@@ -23,4 +23,3 @@ Tumben jani tiang ngraseyang Salah tingkah yen ketemu beli Napi beli masih ngras
 
 Tumben jani tiang ngraseyang Salah tingkah yen ketemu beli Napi beli masih ngraseyang Huwo huwo Raase ne tiang engkeban huuu uu
 
-![Tika Pagraky - Salting](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2rxtGSYwh8SQDGHDevHxrTC5owSuMnvr-VdhDesFeLa_PPXdOLjENr6tvEAB4vKsA_WybbVJs4VfuIXlrLkEhMzY0gK9gTQnQb29qNP6vYfd2Q9fWpPxl4hBP5fQqBhLzBTkMjoRKpFbKRU6R6w8mAGNN0O5LZAqdmaUgq0zDNvnhaEfRcNCZ-wkk0t4Y/s480/tika-pagraky-salting.webp)

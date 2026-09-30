@@ -5,7 +5,6 @@ categories:
   - "indonesia"
 ---
 
-![Pamungkas - Adam](https://raw.githubusercontent.com/Lorok-TM/2026-08/img/pamungkas-adam.webp)
 
 ## Lirik Lagu Adam - Pamungkas
 

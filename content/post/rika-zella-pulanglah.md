@@ -23,6 +23,5 @@ Title : Pulanglah Artist : Rika Zella Songwriter : Momon Production : Kinawa Fif
 > 
 > Kenanglah oh sayangku kenanglah Masa masa indah kala bersamaku Harapanku bulan kan bersinar Kau datang padaku bersama cintamu
 
-![Rika Zella - Pulanglah](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1frx68pueZ1nR-0sH7rWWZZlwfEa16Y4oRK1eqYFMz2okP8KzRAsNUPD0AFFUOk2ZZo8E73J8UzLesiE8FUcY5Wi_r6dOjyl4X1QeIgYfAApv8Ts5FeuTW9SAdhcg_rDwjxJlwme9YPHsHzzEJok4mU5v1TWkZbUcVu1SKFu5cLM2UFTcLV_pGILqew/s800/rika-zella-pulanglah.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Rika Zella - Pulanglah. Silahkan bagikan juga ke teman anda.

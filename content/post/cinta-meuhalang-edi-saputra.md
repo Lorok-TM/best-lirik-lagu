@@ -27,4 +27,3 @@ Demikian lirik 'Cinta Meuhalang' sebagaimana di atas.
 
 **Credit:** Judul : Cinta Meuhalang Voc : Edi Saputra Cipt : Edi Saputra Arr : Dedy Safrita
 
-![Cinta Meuhalang - Edi Saputra](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjE6aCu_KMAfE_lpodGTG57A_bDm0nepSDGy0nKWJaYDklTLDLrb2E8y5q4r_xFcpakFx6qGoDs3zLhqWuwzQKmW5Vc5-qzbpuob21Fn4fldqHMV1LxhwL8B8NCjMNk_CPoYyKPrHSfp1tjgyW6CdvflsZ9SD-T6TlxgMH_gq9d1mTGyaLH_10COThDKxcq/s1280/cinta-meuhalang-edi-saputra.webp)

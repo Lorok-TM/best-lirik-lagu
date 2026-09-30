@@ -37,4 +37,3 @@ Demikian lirik 'Kini' sebagaimana di atas.
 
 **Credit:** Judul : Kini Voc : Aman Cipt : Aman, Dimansyah Laitupa Arr : Ary Djanu
 
-![Kini - Aman](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVRewzGYTOBxZ6pywjC7ew57ltGBASjjifOaO2u0F7g1UHvBT0mHPXfS1kqZFcurThyVAnLz6Nz0MBkec33sgWqAx5IrEbfmIAH54lkUguQ8efw6oEkbL5TiT5ubdaTT2Krkss2NyEgH7w5e_c6JzbZ7gwDu_mh_1MhseeADhJGbr5wXbJpXIp-Pg3EMgh/s1280/kini-aman.webp)

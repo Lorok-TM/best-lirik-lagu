@@ -30,6 +30,5 @@ _Bawi Desa = Gadis Desa_
 > 
 > Kita berdua tidaklah serasi Kenyataannya sudah terlihat Tapi bila kau katakan aku pilihan Aku setia tetap bertahan
 
-![Kristin - Bawi Desa](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRXMIZAl9Og1__hgJteK3eySflz6MyosE5CEWY-bKT4PPKcmsmTULO7_UG9qwlUKD3gqLl_BsjpgRXE8auI03frxjwg5NB-J_yyi1TN_FIXSonoG2OHswOmfGPF7DZfyXWnvqg3kpGB0suN4zKyB0145DaVmfDNQ-ohnXSoyqPzp1GFzTl3aoeB-5OcQ/s1280/kristin-bawi-desa.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Kristin - Bawi Desa. Silahkan bagikan juga ke teman anda.

@@ -21,4 +21,3 @@ Demikian lirik 'Kidung Akhir Jaman' sebagaimana di atas.
 
 **Credit:** Judul : Kidung Akhir Jaman Voc : Niken Salindry Ft Awan Abimanyu Cipt : Merlisto Musik : Jandut Everywhere
 
-![Kidung Akhir Jaman - Niken Salindry Feat Awan Abimanyu](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-IUF8dFTuR-fCUYcRS55ZBk7D6H2CX7Jq03-uV9i_3k7CAE96EkcrZQ8lpkBquMH028TL8rcR4uhIA781W9KcTzFHCahbHRXr14BCXZSZHw-lrc1ykKnThEt6rEFUkPlWbo3A-sAgzsAf-sEDOBMChyZ4QVJvtNeSHWKsQZrL2ACHgMHl5OP_QVdgqSny/s1280/kidung-akhir-jaman-niken-salindry-feat-awan-abimanyu.webp)

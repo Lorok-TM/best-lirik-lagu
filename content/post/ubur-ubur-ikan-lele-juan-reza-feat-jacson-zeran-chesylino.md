@@ -35,4 +35,3 @@ Demikian lirik 'Ubur Ubur Ikan Lele' sebagaimana di atas.
 
 **Credit:** Judul : Ubur-Ubur Ikan Lele Voc : Juan Reza, Jacson Zeran, Chesylino Cipt : Juan Reza, Jacson Zeran, Chesylino
 
-![Ubur Ubur Ikan Lele - Juan Reza Feat Jacson Zeran, Chesylino](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJ47GFwQr6mE58FUF3RsBRzVE5bjKWVTQQ4W5Cqa-x9uLyXGoHZ3jSeNYddMMyI0U896OptRC82zPVL5CARKpu0z1OoQFlMR2KHINiIhOKD3YfWCG3UPbYPKrRp1R_TVCyoUJZjc2nyD4HykAtQu1IRCg0sBIrpzsF5C22uYmy5uvGOeLgDB6sj7_ty28x/s1280/ubur-ubur-ikan-lele-juan-reza-feat-jacson-zeran-chesylino.webp)

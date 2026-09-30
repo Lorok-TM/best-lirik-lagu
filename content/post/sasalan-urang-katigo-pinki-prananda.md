@@ -19,4 +19,3 @@ Demikian lirik 'Sasalan Urang Katigo' sebagaimana di atas.
 
 **Credit:** Judul : Sasalan Urang Katigo Voc : Pinki Prananda Cipt : Nav Ws Arr : Decky Ryan
 
-![Sasalan Urang Katigo - Pinki Prananda](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiolkIp53Y5m3DFQu2H9mpyqX0y_dFIJs0XZIDVNDNq3Z_5ME8qTT5AM-wEe2of07UJfs2Zf9gNaZTb6Z0ndDOxPh-yoDzZq2ykgGI6o3ey4-Fa_lYLnCy1w_LATW1bZnOsB1ZPrGgVUkUIMlLQjeIQ9Hfr4WMvILW41dA8S4VMlN-ofVV-kijUIY-TZSMe/s1280/sasalan-urang-katigo-pinki-prananda.webp)

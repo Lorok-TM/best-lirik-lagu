@@ -15,4 +15,3 @@ Bia ditampuang hujan nan labek hinggo kariang di badan Daripado bataduah di tamp
 
 #Credits: Title : Bacakak Buliah Bacarai Jangan Artist : Pinki Prananda ft. Tata Talita Songwriter : Amri Damanin Arranger : Decky Ryan ℗ & © Andalas Musik
 
-![Pinki Prananda feat. Tata Talita - Bacakak Buliah Bacarai Jangan](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQiArbu3LCgVmoaibHhj_2omMxCGTLwCChmjxHdsadbLcvC5A_IO7iAsF6A86Yuudh_AJE6elo-_WuBuJ2WNEl2sROlvQctz1bsRBI8LxtmPRiz-ksvEIwH23EHYfrlaE-n6iyCYAm9fK2TZr7rGlCbVJdllZlhkgRBCsQlHVI77PifGx_JLdtEJyi8cn0/s480/pinki-prananda-feat-tata-talita-bacakak-buliah-bacarai-jangan.webp)

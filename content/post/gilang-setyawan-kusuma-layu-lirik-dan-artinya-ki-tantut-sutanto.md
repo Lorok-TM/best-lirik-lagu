@@ -41,6 +41,5 @@ _Kusuma Layu = Bunga Layu_
 > 
 > Rela aku rela Huu uu uu Rela aku rela
 
-![Gilang Setyawan - Kusuma Layu](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSMYIQRwVTAdrZDKYDqYuE_4x_7QK9Vp84QVW5-ps2oxq4PiU31QdNpgd7mTEHDb-ecyrUufXiSNGwhTxdIH8oEMTt5iQ2H2GbM8aM1jCSqwRbRmOKhWSktvNIrRQNs0xesyKlm-xvEfUCKwluaCaSy3UaNpOPa_c453u0eodXYEzjInxzgS-NXCz_MrVW/s1280/gilang-setyawan-kusuma-layu.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Gilang Setyawan / Ki Tantut Sutanto - Kusuma Layu. Silahkan bagikan juga ke teman anda.

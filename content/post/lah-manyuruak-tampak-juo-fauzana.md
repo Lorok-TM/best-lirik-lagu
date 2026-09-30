@@ -13,4 +13,3 @@ Lah manyuruak tapi nan tampak juo Sagalo mato mamandang denai Antah ibo antah gu
 
 Sampai hati uda ka denai Babaliak ka cinto partamo Lah jaleh hati masih ka urang Manga dulu denai uda tarimo Lah jaleh hati masih ka urang Manga dulu denai uda tarimo
 
-![Lah Manyuruak Tampak Juo - Fauzana](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEht7oLhnoDKJCMPLyNb4PEXh8a3lNbMHN9lqIRsDJ2LLIiHXpdFB7KlmCij7sNn7uXs7uQwRqZE1ksjJjOY_mgXvhvR4eVVjjYp7xBcm-d1gJIycy3OeM8qL9rXr8Snf8WWo0j9QdavwjxkYgJHm6loK9VLHNbBdQGSpXZSGlmBdWUuj9c3BBwsn1-o4iSG/s1280/lah-manyuruak-tampak-juo-fauzana.webp)

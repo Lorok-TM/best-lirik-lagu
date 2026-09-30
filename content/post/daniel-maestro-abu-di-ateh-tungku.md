@@ -21,4 +21,3 @@ Salah denai bacari cari Namuah raso nak ma lukoi Ganggam hampo denai tangisi Gal
 
 #Credits: Judul : Abu Di Ateh Tungku Voc : Daniel Maestro Cipt : Nav Ws Arr : Diandra
 
-![Daniel Maestro - Abu Di Ateh Tungku](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhG8XoOBktPKTr4-hY7A7Oq7YJj4vjHKyN8mV07xPiDzx39wNEceTvGDBD4fjK-e4H9O1MMIR4-qleJ2n0tK3WibSIevZFJST82W2s4lM3P5nnDb1gqdMhI9-vhZrX8QDAr82p7dDEc7ypKcdvR4VxI5mgNJLK3XcVVpEvpYMpJRkym1tkTgJvhQzXWZh8K/s1280/daniel-maestro-abu-di-ateh-tungku.webp)

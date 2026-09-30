@@ -25,6 +25,5 @@ Title : Jeritan Hati Artist : Cut Zuhra Songwriter : Heriadi Published : PT. Glo
 > 
 > Tuhan hapuskanlah rasa cinta kepadanya Yang tlah mengkhianati Aku juga ingin bahagia Walau bukan dengannya
 
-![Cut Zuhra - Jeritan Hati](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjV_q3yoBDt3-03QX-8iZ1BhhefO8n_R3hhwOWTx6j9PNu_ir1_sNHHQD5AmER0ENva9HQlnfS_KbheC8w8qVIERTitxT5tVULR53FiR41vJa5W90S6LlN-Rfe6okdVKAxkLcLLE0qWRnhjZXPQCXxdiyIjC-LK9VwhGk82kvHojW6l0DKnvCikrPMqwGZx/s800/cut-zuhra-jeritan-hati.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Cut Zuhra - Jeritan Hati. Silahkan bagikan juga ke teman anda.

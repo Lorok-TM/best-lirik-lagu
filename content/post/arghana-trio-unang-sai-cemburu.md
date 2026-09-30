@@ -25,6 +25,4 @@ Title : Unang Sai Cemburu Artist : Arghana Trio Vocal : Swandy Silalahi, Ruben N
 > 
 > Sasada ho ai holan ho Dingolukki dinipikki sasada ho Unang sai cemburu be ho Unang cemburu tu au Unang sai cemburu be ho Unang cemburu tu au
 
-![Arghana Trio - Unang Sai Cemburu](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUhcYeZW0ph-XxSQsD2Sli3MIg1Vimxk0R0JTbHfEIpQ8_gZE_SYG-J7CuSMPn0SwRoxflifAT9Y9xX63_V8_VLupqdZnUgarmbzMZqaM93p8g1KWYzfsACwByqf2-kIWM91FzFjJ37gBRUZgutUzj7O87_5shbxKw1xJObIfYoWC5wFBTp6RrmeOIpg/s800/arghana-trio-unang-sai-cemburu.webp)
-
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Arghana Trio - Unang Sai Cemburu. Silahkan bagikan juga ke teman anda.

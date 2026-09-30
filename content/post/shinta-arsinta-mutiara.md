@@ -5,7 +5,6 @@ categories:
   - "dangdut"
 ---
 
-![Shinta Arsinta - Mutiara](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzvixLXfhzKtlkSYGXJtLxHGYKqr2BJbalYHdCtCxFpvnvGeolAMumYi8CnXIHyaDcXhODznuYeTk3leVvjxKEFfJk6mPItO3TCxdBOTo6GzbcWNKbRgpXOxzzDA4IjrGVYfzEYK1qUp80mbyjhyiQjwhsO-eDs68ty44XmzJcZZG_UlzQwVt2jNE38SxM/s1280/shinta-arsinta-mutiara.webp)
 
 Engkaukah mutiara itu Rela kuselami di laut biru Tingkahmu bagai purnama Paras bertaburkan cahaya
 

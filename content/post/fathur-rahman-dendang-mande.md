@@ -27,6 +27,5 @@ Title : Dendang Mande Artist : Fathur Rahman Songwriter : Eddy Palangki Category
 > 
 > Lalok lah nak piciangkan mato Baitu bana dendangnyo mande Lalok lah nak piciangkan mato Baitu bana dendangnyo mande
 
-![Fathur Rahman - Dendang Mande](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWQ5K3Kd1wLDpm4zg7y-dEXZuyZOjEHYhYAk2naDvU_ewTreBbARAZKWMgMZfHBVZDmlt4LTo3UyxjHpUU7QVKJJWmxgH8Wd132AGWpXj-rJZqXNBx2nQ2pnqW9l3Y-2lSGd3wo3w8SKtZzPmy4tw3xYDOMXCIbvd9ZaTykVMeyGrOSZHkIHNV2hHY3Q/s800/fathur-rahman-dendang-mande.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Fathur Rahman - Dendang Mande. Silahkan bagikan juga ke teman anda.

@@ -15,4 +15,3 @@ Basuo malu bapisah rindu Bacakak hati nan di dado Di katokan kok salah Di diamka
 
 Badabok dabok darah di dado Bilo kito batamu muko Latiah rasonyo hati Manahan nahan santiang Awak nio tapi takuik bakato
 
-![Fauzana - Basuo Malu Bapisah Rindu](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj78bRpCEUzQbK0tDOpr1NASHaZOt1VBrEE4OCeY8hEpVkOel3CqCLN_kd2tHw-epX7I68CRUAMlu7AwrV_V-BcDALy346aug-NL7_0Da9MWpu_TuJas_pWcTXbJcWLurt2Eg30op3IbNintgju2-P_YvuKDYPU5xVlvXtij-kGangNZwZcEvGcjpY_CLew/s480/fauzana-basuo-malu-bapisah-rindu.webp)

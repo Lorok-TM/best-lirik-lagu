@@ -21,4 +21,3 @@ Lewat lirih sworo angin Tak titipne roso kasmaran Sedino koyo sewindu Ngantu-ant
 
 #Credits: Judul : Lewat Angin Wengi Voc : Niken Salindry Cipt : R. Husin Albana
 
-![Niken Salindry - Lewat Angin Wengi](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8MJtbNtcalNOCPshFGwG64IDqPjs_vUDiwspplFMOwl0_xsR4Bnmv6b4i3m2kSRwHyoiMPG46YO12cWrY7WCawY1oTLqn5wczx9Ptu0zFAR-pxO_pXgtZ4BIerBLon4wib4pOs05JopCJiUwuw-wu0OejTlk2dWWDHZCx3UWx7Jdfe8MEOzwo1SDVDnUq/s480/niken-salindry-lewat-angin-wengi.webp)

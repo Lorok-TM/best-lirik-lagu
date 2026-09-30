@@ -5,7 +5,6 @@ categories:
   - "melayu"
 ---
 
-![Elsa Pitaloka - Sirnalah Asa Ku](https://raw.githubusercontent.com/Lorok-TM/2026-08/img/elsa-pitaloka-sirnalah-asa-ku.webp)
 
 ## Lirik Lagu Sirnalah Asa Ku - Elsa Pitaloka
 

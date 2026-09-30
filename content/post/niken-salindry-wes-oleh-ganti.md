@@ -15,4 +15,3 @@ Maturnuwun Gusti wes maringi ganti Sing luwih gati
 
 Loro sing tak roso wes oleh tombo Wes oleh ganti sing luwih tresno
 
-![Niken Salindry - Wes Oleh Ganti](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiukjflGw_CI3RBmp2Z_AKNH12aypS-SIz0Mde6_xtwSeDzxCNe4JPsc_j88lJ1O2UNbNXa_9Ns5wlwwhOaZ81_h8DTOJRyRon0R38Mr8MSrk3R4uIGqGeZrq2yqLOoPhDHhzScfFQoVSMIv899oQ257mE61I9_M7fe4yBnO6NBuWeLICTHDEzHyUrjE43h/s480/niken-salindry-wes-oleh-ganti.webp)

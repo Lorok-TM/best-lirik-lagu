@@ -21,4 +21,3 @@ Beurijang tajak hai tajak rakan meutuah Tapula bagah beusabe banja Bek na teukab
 
 Beu ta ikot hukom adat Reusam meuhat tapeulara Taleung paleut ta meuhajat Jeut na berkat lam useuha
 
-![Cut Zuhra - Meugoe Blang](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikqOBlXylWyyBxmcUkC3by7CTbHSwfwteWsntIi4r-xv7ZhJ-I7jrPiE505RaQQrWQ9538r0KriJUGAi4IGk9l-l2CHHaqv-HMlD57WCvHbISIMBmj6O7VyIwDV3_dDknw4n_CpkKiWgk4ERgcGMMMP2kL27MP4hJX3iuritmsat9CCll1_np78uIyzoRx/s480/cut-zuhra-meugoe-blang.webp)

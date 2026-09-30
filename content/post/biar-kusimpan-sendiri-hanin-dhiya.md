@@ -31,4 +31,3 @@ Demikian lirik 'Biar Kusimpan Sendiri' sebagaimana di atas.
 
 **Credit:** Judul : Biar Ku Simpan Sendiri Voc : Hanin Dhiya Cipt : Hanin Dhiya
 
-![Biar Kusimpan Sendiri - Hanin Dhiya](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimt6xe42EinlLaMco_mZboNPB_gqgzJVIXh2hKcmwwYVz7CHUG6BPtVFqka5zI0BbJGjXLp-YXXKpsqOjZ8iZ7skSs0L3Pb2QJT05iB4qM5DD-piNjFkkhdeFmLKWaUlyRf7_Oo8Jb81GGUy-mHow-jZSe8NtXxL9IdShotTc9S676L67laJPtqSCsAb7c/s480/biar-kusimpan-sendiri-hanin-dhiya.webp)

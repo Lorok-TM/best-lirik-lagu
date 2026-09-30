@@ -25,4 +25,3 @@ Demikian lirik 'Sujud Di HadapMu' sebagaimana di atas.
 
 **Credit:** Judul : Sujud Di HadapMu Voc : Anisa Rahman Cipt : Wahyu Whl
 
-![Sujud Di HadapMu - Anisa Rahman](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuDXpKvUvL0H_gfiBWR6bFjYFuwKOXRnsQM02q6SIWSfkMXYgmyEb8utnpkruKaiRwMsdGOHhyphenhyphenDbret_fPkyRvTpCL8pmBcQKa-pI8rOXA2WQIJad5y87vuXroRvOnTuUM_8lhnCBLYCDpzXcpyDZOWFamCfuHlppOL-GqO5H8j18pzP382ZLMSwALltAH/s1280/sujud-di-hadapmu-anisa-rahman.webp)

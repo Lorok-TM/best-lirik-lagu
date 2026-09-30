@@ -45,6 +45,4 @@ Title : Memori Artist : Armada Songwriter : Andika Mahendra Yuda Category : Lagu
 > 
 > Memori memori Memori memori
 
-![Armada - Memori](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmEM_dbEgsdMu7ox8MCOOjYV3fT322xg1bV_q5th3cF7qgXrNqPzxa3PJaxguQBLdp8daoaBoXdF4UTGIeVaGVWifOJcmjhM1UiaMTeMcv6OofgLj2fEcow_yUPhYFQh8UDX2UE6-n1wh8WkyQxQsDuWde86hyTmxzIEoe78XLDXvgmc1P4KxupGjN9Q/s800/armada-memori.webp)
-
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Armada - Memori. Silahkan bagikan juga ke teman anda.

@@ -27,6 +27,5 @@ Title : Ayu Kumala Artist : Budi Arsa Songwriter : Gung Alit Semara Production :
 > 
 > Oh adi ayu jegeg bulan Dini beli rindu Tunas apang langgeng tresnan iraga Tusing dadi palasang
 
-![Budi Arsa - Ayu Kumala](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4l9j8OwQsE_PVjI8UWwA5RhVVgEsz8jJbpyolY-_FI8nw9SxOrTCxtqmcxXGUuUA4CcPVf2sHwnykjAyjY2l8z3EbLImiJ2aWZyVVnMuM_3iVkk-evTBsVlhAWq7d0spa7HTBhyfSZMiVBv2LZb1ovwgkVJvjnv54KxWqnyNLC-uNTOuuBdijE7KWkw/s800/budi-arsa-ayu-kumala.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Budi Arsa - Ayu Kumala. Silahkan bagikan juga ke teman anda.

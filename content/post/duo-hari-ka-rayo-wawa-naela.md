@@ -13,4 +13,3 @@ Katiko balimau badan balangang surang Lah tangah puaso rindu di hati maradang Ba
 
 Lah acok bana da hari rayo ndak pulang Taibo taruih hati denai ko da sayang Kok sakali ko uda indak pulang juo Jan disalahkan denai cari ka gantinyo
 
-![Duo Hari Ka Rayo - Wawa Naela](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbonLGebc0FyrlkGIFAYXJ_JkhcdOInqx9DPrL2XcSrfyQ4HouooYB4phzzPOnP1npHDPL6EpBlYNkyyDQqueFhTJxEOsClFp9UFqjS8ZfZU8zJPFFxT-9qTr_0hDPKdKAcbIt8KcMKbXfgnRQZIT9SjzqYUB-3LhvDwFtLaumzMv-WfpCcxoDbutP6RwH/s480/duo-hari-ka-rayo-wawa-naela.webp)

@@ -25,4 +25,3 @@ Amang oi tahe PDKT pe dang marnalulus Amang oi tahe Andigan be naeng iba marhall
 
 Amang oi tahe PDKT pe dang marnalulus Amang oi tahe Andigan be naeng iba marhallet
 
-![Deby Sinaga - PDKT feat. Ilham Siregar](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqNw4h8VI57yXXd7_ZdaXzGIAvzd4_W8pZOHns6uL6j_kO1HkfniyvhngEZwZJ7eeCcCIpDWU9UCThbUpDnkpaRwdr8ncKv1-8nGcvbx17hsgGeduMPSuGZ5jXBixhWv38srk-uIAB8WjhKeo8Q0e8D-nixEGT9J7wymvBnnB8Y3LHLeUIP_mZa3B0vMEL/s480/deby-sinaga-pdkt-feat-ilham-siregar.webp)

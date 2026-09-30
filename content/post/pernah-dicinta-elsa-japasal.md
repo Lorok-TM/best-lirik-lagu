@@ -29,4 +29,3 @@ Tapi izinkan ku simpan Yang paling membekas di hati Meski semua sementara Kau bu
 
 Meski semua sementara Kau buatku merasa pernah dicinta
 
-![Pernah Dicinta - Elsa Japasal](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3Lr8Hsuff5hgb16qlo1-6FcT0c8lHWTJRxMt2FJQutflXdm1CFCpmIIQ5ELDFV-i-QNWj5D8iiK85-MW2Nv-3xJtbMVHVL87CumjCWhpFHjy2JHVxiDgMgOdzRPoJZf1ZNX5UqKaszRH2-nJEIKlHNSn6tBYzrH6iDEzifUS2uYFlVEzmyEG87YhK4bzM/s1280/pernah-dicinta-elsa-japasal.webp)

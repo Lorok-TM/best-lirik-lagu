@@ -27,4 +27,3 @@ Asio lada ba nawu Lötesöndra ma'ifu Mendrua manö sa'ae gi'a budu Hatö toru u
 
 #Credits: Judul : Toru Ungu Voc : Fajar Halawa Cipt : Fajar Halawa Publisher : Tube Nias
 
-![Fajar Halawa - Toru Ungu](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyf1WyOdcfZK_FBPiS0sEqrTWwteEvsB5-9Vcz4zeu7gXWjeR2nT2WqEyXBbMkM9n138K2PMAEH3hdE0l7OwLNUVMZI8jCM1JEeJGSVQbbtft4Wq_LGd5EQxh0NZW7JBNKzWdOWYQBi8hGqZd5inWhoizTrwzIZyyuw9FEA43mfsdchsxRYuuboPbpGjmo/s480/fajar-halawa-toru-ungu.webp)

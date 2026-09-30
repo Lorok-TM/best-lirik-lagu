@@ -27,6 +27,5 @@ Title : Selem Selem Jukut Undis Artist : Gus Jody Songwriter : Bayu Krisna Produ
 > 
 > Selem selem jukut undis Diapin selem adi lais Beli dot nganggon adi tunangan Ene tusing je rayuan gombal Adi selem tapi manis
 
-![Gus Jody - Selem Selem Jukut Undis](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKE0OnVd-ht4yvTLPEjk8gQ7SMqUjBUs437czY6udeY5hwHrAdECFFIWM7gzn2HY2kShV_1gLTYBlu37gQl2DyYKHvoh-UitiHOnyMOZv7P0gRvOugXG5CXxEBtoL12qNsLorttT7pN6Do-ePHug5smcQShdqqvPtBowo7jhr0kFo5Pd0u1j7KCDvhGQ/s800/gus-jody-selem-selem-jukut-undis.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Gus Jody - Selem Selem Jukut Undis. Silahkan bagikan juga ke teman anda.

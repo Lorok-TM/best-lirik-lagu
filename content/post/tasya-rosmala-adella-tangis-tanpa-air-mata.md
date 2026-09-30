@@ -17,4 +17,3 @@ Hati pedih dan perih bagai tertusuk duri Janjimu kau ingkari Ikhlas aku terima d
 
 Serpihan kisah masa silam takkan kubuang Sampai saatnya berdiri oh batu nisan
 
-![Tasya Rosmala Adella - Tangis Tanpa Air Mata](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMkCSFP6EgZsguMzXWVt6Fu8CrZwq-hkwjOwz1MRwDaCmt5ogXEN1-HwzQhgS2vR44OUe__TUcm9TuiwGPlAP486WdXGIitSrcX9ug3f09DsGcJeOdRU1mCiyUCTkS7rkeMXnhdZoYvUQlkCZwj4cgx5252nTQ6hyphenhyphen54PNAlIOTuRm3DCkowkllKdy20-uO/s480/tasya-rosmala-adella-tangis-tanpa-air-mata.webp)

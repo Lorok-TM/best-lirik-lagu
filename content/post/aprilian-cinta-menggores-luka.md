@@ -27,6 +27,4 @@ Title : Cinta Menggores Luka Artist : Aprilian Songwriter : Amri Damanin Product
 > 
 > Katakanlah kasih Apa artinya aku untukmu Katakanlah kasih Apa artinya aku untukmu
 
-![Aprilian - Cinta Menggores Luka](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUzaS8AynrBMASilIACEuefwbyo1IRWdJ2QgxTMKlkdeBfB4bGxczvCPGzc88Dl5FJp4KiaThBv0UO0JDZWngZ9Rym10xr8JqJR43QeTNInrUpw0uav6VVAOv4yi3zTBFd7sZw2YSxVrkpg9P_BEpN3Lblh_O9Aq5PsS0e6Umk1AQaJNnNTh-vkrivIA/s800/aprilian-cinta-menggores-luka.webp)
-
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Aprilian - Cinta Menggores Luka. Silahkan bagikan juga ke teman anda.

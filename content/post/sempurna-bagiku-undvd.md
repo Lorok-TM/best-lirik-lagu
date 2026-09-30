@@ -17,4 +17,3 @@ Yesus hanya Kau Juru Selamatku Yesus berikanku hidup yang baru Kau curahkan dara
 
 Yesus hanya Kau Juru Selamatku Yesus berikanku hidup yang baru Kau curahkan darahMu selamatkanku PengorbananMu sempurna bagiku PengorbananMu sempurna bagiku
 
-![Sempurna Bagiku - UNDVD](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlvZ7uSU13gLycJTUvD-CNgu-xqmwMbUvyXR9g8jiaaeaIJmwY1F-EKJQrFPm-3CzBdTPbYQ_eGhPwYpvz43pJGn8I1YuwitO-zO3OGM2C6uJUinxUtQLbXdOaJ8NbqszzwtnE46VR2J606X6rr-jXaAHdZlHKTyYc3PaQEUb_JTQ6vkYC4yGKTovWGqih/s1280/sempurna-bagiku-undvd.webp)

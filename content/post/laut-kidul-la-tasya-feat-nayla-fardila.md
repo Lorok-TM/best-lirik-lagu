@@ -5,7 +5,6 @@ categories:
   - "java"
 ---
 
-![Laut Kidul - La Tasya Feat Nayla Fardila](https://raw.githubusercontent.com/Lorok-TM/2026-08/img/laut-kidul-la-tasya-feat-nayla-fardila.webp)
 
 Suoro ombak segoro laut kidul Eling sing biyen tak rangkul Ngucapke janji, urip tekane pati Tapi mesti mbok blenjani
 

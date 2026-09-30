@@ -63,6 +63,5 @@ categories:
 > 
 > (kamu sepuluh, kamu sebelas, aku dua belas)
 
-![DJ Bukan Sekali Kau Buat Begini](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdPJKPI5nez465l-j7CcnEasig6O5WUhSCHwxSR_1eP1MWm-azmcAIpzJ4nPnZSX-p7z-HSKaeG4HWTddTPAIcN1FflOEsHshHZer2Q6pA2uTkGgDSfLqFsfHZbbSIguyLPaCUsHsKAmx9iCRNcU-dqLLwlD-COF5_W8sc21Ku7XW14ZBCQgctCsL9N_DJ/s800/dj-bukan-sekali-kau-buat-begini.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu DJ Bukan Sekali Kau Buat Begini. Silahkan bagikan juga ke teman anda.

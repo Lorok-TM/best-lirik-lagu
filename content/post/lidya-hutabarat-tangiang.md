@@ -15,4 +15,3 @@ Alai ingot do i Jala lambok do i paingothon au Anak hasianku unang ho lupa Marta
 
 Tuhan Lehon hahipason tu dainang i Ajari au palas rohana i Asa gabe anak hinaholongan au Tuhan Ramoti ma tong tong da amang i Pagogo au pahot poda na i Asa gabe anak sitiruon au
 
-![Lidya Hutabarat - Tangiang](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2I6xv1nI74NvigH3wSqPsk2Km3yTOnnHtiFOXMgyNsxxPvq5EDFVqJkpeu4xfLaufIBLAnyBMsheT06qybWtTvSd5x_oBh18BZHqWGZUf5IiGVoMJJDN2OrpOkypwlHSEvCznZA9G1Nk7KPiKQFdaumkKsDsgoqdRci_ah_39Q5pkFL34trw_RG1ON5u-/s1280/lidya-hutabarat-tangiang.webp)

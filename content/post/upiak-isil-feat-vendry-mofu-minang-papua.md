@@ -33,4 +33,3 @@ Kaka mau cari bini atau tukang cuci Kalau bini aku sudah berlaki Kalau cari tuka
 
 #Credits: Judul : Minang Papua Voc : Upiak Isil ft. Vendry Mofu Cipt : Upiak isil Arr : Wadri Pelok
 
-![Upiak Isil feat. Vendry Mofu - Minang Papua](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMP483WpPUGd1D3hXXPsxp0cFhoHv0vrM3dHmM_wD6MBrV22f9ty5GoYw1NoI_LWGC5caqlCdCGBocqaS2KE_7rMVrBgFaNGjxoX87zEZ6Er7ZVwkzWdpnFt6JZ1m4QujUQL46ri3XuPogXUTdUPHYz1PvT1J1b2PguHrw4tuZ3rQKfBAMsuMGgkpYXtfk/s1280/upiak-isil-feat-vendry-mofu-minang-papua.webp)

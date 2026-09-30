@@ -43,4 +43,3 @@ Demikian lirik 'Putar Putar' sebagaimana di atas.
 
 **Credit:** Judul : Putar Putar Voc : Jacson Zeran Feat Juan Reza Cipt : Jacson Zeran & Juan Reza Arr : Juan Reza & Hady Boven
 
-![Putar Putar - Jacson Zeran Feat Juan Reza](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmaNID2P1Gok5Kb4_kNxAjqjK9MRE58U5RdQkV1lzHrunil-LYmOsXs8SCGq80txgXGbPRJ6KLHIGH3fBWySNgYNtGFlSmIcm-0qo5hutNnO0MQLFqWDVioswF4adyOzxRY-7bK9q13mj4E-kbQTRZNRA1ZDKdsKifz3XmPEnfFdDTzyPi-h9aC9m-oUgl/s1280/putar-putar-jacson-zeran-feat-juan-reza.webp)

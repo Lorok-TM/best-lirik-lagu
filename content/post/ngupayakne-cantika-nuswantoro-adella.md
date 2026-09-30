@@ -5,7 +5,6 @@ categories:
   - "java"
 ---
 
-![Ngupayakne - Cantika Nuswantoro Adella](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_pEBNe_phOA6WxkMq36vUFt5nAbJ1YW-ociTPhsbX1Cityo_atDqtjxIes5PM6HILb9G9QrFZcTlf67lJBD_sJ2-hdDIVb2yp6Qk0bdFfkTZO-WcD6EyIdAFOlf4xfVDqpYrVuUiRxJj4-6aCqi4X704P4rwb6xIOT7ER_HTz2Waur991QV0BkcsQNvln/s1280/ngupayakne-cantika-nuswantoro-adella.webp)
 
 Awale dudu sopo sopo Suwe suwe due roso Roso tresno sing tak rasakno Matur nuhun mpun purun nompo Sayangku tetep ning sandingku Ngancani aku dadi tombone loroku Susah e nyuwun pangapurane Seneng e iseh tak upayakne
 

@@ -29,4 +29,3 @@ Adi penghianat cinta Jari tengah ne pantes buat adi Adi penghianat cinta Fucking
 
 #Credits: Judul : Penghianat Cinta Artis : Myfriends
 
-![Penghianat Cinta - MyFriends](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhbhz7s8Tz6w36Yo8dkdEElewAMgtpYM3AZHA4V6SngGKpvGPrBzhzxl3DZFf_cadflsBdrwsSOEhNvrx93uDPTGFKf387_cahDznkWVcP9ItWEqQfotwmi03tdsMrmKFFTG4cT90AlchlU-UBF0g6adobS5cIK_Iuq-j7jnAmwRh46GCoo-6-8EcIEki2/s910/penghianat-cinta-myfriends.webp)

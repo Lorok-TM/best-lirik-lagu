@@ -25,4 +25,3 @@ Demikian lirik 'Dek Ulah Kubik Mato' sebagaimana di atas.
 
 **Credit:** Judul : Dek Ulah Kubik Mato Voc : Ridho Zulma Cipt : Rozac Tanjung Arr : Aditya Fajrul
 
-![Dek Ulah Kubik Mato - Ridho Zulma](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlDuqLAhbGa6qgaiRTN2LtDYYrlgHuksP4EwnIm2sINYdg3ot2OK8Y2wNVx8-GH2QyWytDCAtEw2sb6PReRIH5WbirKVamK_89vR87lrrzmPv6tzcBtT5ex7b6sCbLC_FRc4flm8t6WEJo3CjktVP8J59CjhduLbeQ2FrHWrOR-5Rjak3v9HGUGLn-MWoI/s1280/dek-ulah-kubik-mato-ridho-zulma.webp)

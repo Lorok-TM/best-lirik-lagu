@@ -5,7 +5,6 @@ categories:
   - "campursari"
 ---
 
-![Niken Salindry - Sikep](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYnuxS30tEjBordnjMAXY9DA944CBq_ovgcczA-mBsDpXz1KJE48XOTKUPigJgpQrWDQRpF81RFVsxtp-5jvQt7eTItPdb4JUrSbiidsd5daWPUxo6YsnN7exVBbeAyCazFbz1M0sOYeqrBC2cDvpqlc3pYg5FBLNZiElTdM1VQ4ndhNX9-lFlIbbHoRD8/s910/niken-salindry-sikep.webp)
 
 Piye kabarmu saiki Nomer wa mu wis ganti Tak tulis lagu nggo kowe Mugo-mugo fyp Kowe iso melu ngrungokke
 

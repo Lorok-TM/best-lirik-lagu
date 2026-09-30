@@ -19,4 +19,3 @@ Mauliate ma tu ho hasian Sai diulaon ho burjumi tu au Ai holan ho ito pasonang r
 
 Ho do ito paulak hosa lojakki
 
-![Tesa Manalu - Paulak Hosa Lojaki](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlAEcdpUrf7uxfy5Z1ijkrsY49OuOcTgfecTBLTPvkdVK5aDY2a0gob-oGzWyS_zNLS8LyJJQz-oOn3ngyyFP6HCRGsiLSzl7rLEl-c8mtvckdHGmTHeEyWOH0QQCeIRA6EPBFRlySwBRD-ZREIYeacdDtvBk98F_yfxqtOVUF4erc565aRUOnLoVOqxvK/s1280/tesa-manalu-paulak-hosa-lojaki.webp)

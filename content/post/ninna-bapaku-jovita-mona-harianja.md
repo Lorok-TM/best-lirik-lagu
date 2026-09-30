@@ -21,4 +21,3 @@ Demikian lirik 'Ninna Bapaku' sebagaimana di atas.
 
 **Credit:** Judul : Ninna Bapaku Voc : Jovita Mona Harianja Cipt : Bulan Panjaitan Arr : Rahmat Saragih
 
-![Ninna Bapaku - Jovita Mona Harianja](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_HHnuRQc1u7Dl6xheV-W8siKYh39YDcJeBOEpZ7_ssYo51X42HM9bn_hr0P_n9Ps-iHAKSExD3zVowjo-MJC2z5p6pvg8Pk70cYsFefDSPZMJjxOWFKhHsKQUVGNNR9pPOn4GwsvxEwtS09lvfoxYDsfpnWQkTWOxvmjYp8o-BXPikbdDgHaxZ1ln7mTS/s1280/ninna-bapaku-jovita-mona-harianja.webp)

@@ -35,6 +35,5 @@ _Asa Taruli Ho = Agar Engkau Bahagia_
 > 
 > Agar engkau bahagia di tanah perantauanmu Agar engkau bahagia di manapun
 
-![Falado Trio - Asa Taruli Ho](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGoBCncFvsE14iNkaYrDTKqO8lsDa01SkUxEI4feTx5wFg6mXrM2btUU1ux2yj-nBjp2FjNs4ZadMfxF2BSR1QBHd3GKrS_pfPfiVF-SGq_TOkcP2A3QwI4P8-QtlAqhG6-C1sYc-KlTI1xhFD72SIuMN6xsh_E2gbPD-yqGSTEsSKsge85E-C4F0AXA/s800/falado-trio-asa-taruli-ho.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Falado Trio - Asa Taruli Ho. Silahkan bagikan juga ke teman anda.

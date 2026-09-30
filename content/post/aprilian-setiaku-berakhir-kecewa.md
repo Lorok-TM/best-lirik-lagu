@@ -29,8 +29,6 @@ Situs bestliriklagu.com tidak menyediakan chord dasar / kunci gitar / Mp3 lagu S
 > 
 > Kasih dan manjamu hanyalah sandiwara Ternyata semua janjimu berselimut dusta Harus ku jalani penderitaan Ku jadikan semua ini ujian
 
-![Aprilian - Setiaku Berakhir Kecewa](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkRPSvFKN5tja6l2IX-z6TcG9Flz0MQWFQFe2yZ6WnxGr_3EjHqzMDOyv-cmXN7aBR11aCqc4le1FT-SMuvTSLZdShllHaGkfwm2puIdCe5vzSA4s-2_ijbhtqValvX09C3Tuz6kYCfeD01yRNu4e-sdC4i7JQGb3pFFPviE04u6L1e9cNr9J-aIU88Mog/s800/aprilian-setiaku-berakhir-kecewa.webp)
-
 Tujuan kami berbagi ini ialah menyediakan dan menambah sebanyak mungkin informasi arsip lirik lagu untuk mempermudah bagi Anda yang ingin menghafalkan lagu Setiaku Berakhir Kecewa ini, maupun belajar bermain musik.
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Aprilian - Setiaku Berakhir Kecewa. Silahkan bagikan juga ke teman anda.

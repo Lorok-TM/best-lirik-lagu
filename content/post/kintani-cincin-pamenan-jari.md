@@ -25,6 +25,5 @@ Title : Cincin Pamenan Jari Artist : Kintani Songwriter : Novian Nobel Productio
 > 
 > Uda kanduang indak denai manyasali cinto Mungkin suratan nasip kito baduo Cincin tunangan nan dulu denai tarimo Jadikan sajo pamenan jari
 
-![Kintani - Cincin Pamenan Jari](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjW-L1roxly1wgXs0XVWasHtxsWI42Grs08hCcKklMLJ3ZbH6ihky4s3uLZb06Rf242AE5bj-58rKZk8AgYJtT6nvPoU7jczfqSbv1nZ26Il_9ncHKcYaCxHve_MgBV4KmFURybN1mESjOVmwVTh_kaKuHpkDa44kLrdhAVhDyAQL2VUHvEDExe-CCGAg/s800/kintani-cincin-pamenan-jari.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Kintani - Cincin Pamenan Jari. Silahkan bagikan juga ke teman anda.

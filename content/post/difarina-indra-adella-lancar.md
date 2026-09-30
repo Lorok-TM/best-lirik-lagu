@@ -5,7 +5,6 @@ categories:
   - "dangdut"
 ---
 
-![Difarina Indra Adella - Lancar](https://raw.githubusercontent.com/Lorok-TM/2026-08/img/difarina-indra-adella-lancar.webp)
 
 Sumunare cahyo Rembulan ono ning tawang Cahyone katon madangi Gumebyar tanpo mblerengi
 

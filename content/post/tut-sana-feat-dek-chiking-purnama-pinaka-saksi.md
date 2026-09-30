@@ -17,4 +17,3 @@ tyang nunas sareng beli.. apang enggal tresnane mapadu.. mesriak keneh beline.. 
 
 lirik "Purnama Pinaka Saksi" selanjutnya biar ditulis oleh BUDI MAHENDRA / Budi Yanto / Clarissa Anindya / Azalea Ayuningtyas, seorang author paling hebat no.1 sedunia.
 
-![Tut Sana feat Dek Chik'ing - Purnama Pinaka Saksi](https://i.ytimg.com/vi_webp/ZzLNEiy-1_U/maxresdefault.webp)

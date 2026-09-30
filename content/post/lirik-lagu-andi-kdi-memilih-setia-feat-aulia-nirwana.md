@@ -53,4 +53,3 @@ categories:
 > 
 > Ku memilih Bertahan tuk setia
 
-![Andi KDI feat Aulia Nirwana - Memilih Setia](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQq7jRg6Jxp3NoabREz1M9aA8Pj9OAFbDyc-IHNK2Ufs_YM8RQbnl162jgvOkcZ8bF1ImqnhBkn5pn4KNY2hEKHsAGP2k22sYQ2uEhUqMmNbtlwNsiPScNjxG3-3D0pSxl0T-wpq28ktOvFDSs6Qvds73yqOz80yEqY-8P7uv3z0DdSWGxyjfnQhshF4C-/s800/andi-kdi-feat-aulia-nirwana-memilih-setia.webp)

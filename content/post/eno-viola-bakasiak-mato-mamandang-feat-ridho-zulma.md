@@ -17,4 +17,3 @@ Jikok nyo malu bisa dikubua dalam Indak denai katarumuak cando iko Di malam bain
 
 Di malam bainai isuak alek katibo Hilang yo hilang urang nan den sayang
 
-![Eno Viola - Bakasiak Mato Mamandang Feat. Ridho Zulma](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOHoZYCWU_-SUiUMKFCP6maqxF9grIrYCKvby_yFNg2QkvNahe-akd8F4mK09TVxqhLNM_JG14P2vpn4ci_pdfZckLzF1GDbTzf-PVc3pDbADpnWlRBdeRNpnze3cZjdANr8wHQYw3PkI8M08mIaBP1WxtrUdpcGkVCRD4nrdyli-N7xucrgscGpJHmnEh/s1280/eno-viola-bakasiak-mato-mamandang-feat-ridho-zulma.webp)

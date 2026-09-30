@@ -23,6 +23,5 @@ Title : Cinta Tulus Ku Artist : Puspa Indah Songwriter : Roza'c Tanjung Producti
 > 
 > Ajari ku jadi yang terbaik Cuma untukmu kekasih hatiku Bila nanti tak cukup umurku Jangan hapus cintaku
 
-![Puspa Indah - Cinta Tulus Ku](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSQkSjXDqwTG-auPK7i4kAAWYvGpJdb6--b4dw1Cb2neU4M1VkJaNANepc900hn3OudGTJCb7gFCuHfMN78SUjZvsMpBH85HAATyS4CELih2bVtdd3viTz1YapXGEz70OEbjUvocOVIbHAAQtC9gUZkyX0YXKjDQw2SzGQY1ZD-DLWflvBmdCjUefgyw/s800/puspa-indah-cinta-tulus-ku.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Puspa Indah - Cinta Tulus Ku. Silahkan bagikan juga ke teman anda.

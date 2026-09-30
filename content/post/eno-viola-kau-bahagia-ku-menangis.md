@@ -25,6 +25,5 @@ Title : Kau Bahagia Ku Menangis Artist : Eno Viola Songwriter : Harry Parintang 
 > 
 > Dan kini kau bahagia ku terluka Kau ketawa ku menangis Dan kini kau bahagia ku terluka Kau ketawa ku menangis
 
-![Eno Viola - Kau Bahagia Ku Menangis](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzR75lgEp4WaQX9uiwdOQPzd4peYL-D087wj7xVpLh7r6_C4pTI4b386SbDE5xT10dQI8Cvp7LFoMFY959riUerO24c3nVBaNN4pSNHRanmQP9VKoWG4kHiL4fU07-c78QmV2DNmMz1j84jY814TK_3ZY-D21VSEtdJtnA9O2SldZbYelVE5aud0FhOQ/s800/eno-viola-kau-bahagia-ku-menangis.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Eno Viola - Kau Bahagia Ku Menangis. Silahkan bagikan juga ke teman anda.

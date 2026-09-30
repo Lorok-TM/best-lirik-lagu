@@ -23,4 +23,3 @@ Cintaku bagimu hanya penawar luka Kau datang padaku saat engkau kecewa Setelah s
 
 Apakah ini Takdir yang harus aku terima Apakah ini Takdir yang harus aku terima
 
-![Hanya Persinggahan - Rheka Restu](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5i9fYTN6GyfGCCWO7uUwgq-VMDIMbNc-rANRvcZGArE2emHoAOu9LJ83dVhnROH8y4q9vi8ZQtYSmUsWT_Ed_8F70_VEItlmedJYrMcx18g3z3KUlniIs20-O4imPkGpJ_RcmWGwkXPMLqwOjXPs0Be36KRXF3t0m9bpohXSIVl8c0LPoJ0vQC4TgIXg2/s480/hanya-persinggahan-rheka-restu.webp)

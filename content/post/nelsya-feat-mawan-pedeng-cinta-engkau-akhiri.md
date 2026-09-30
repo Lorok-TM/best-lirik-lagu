@@ -31,6 +31,5 @@ Title : Cinta Engkau Akhiri Artist : Nelsya ft Mawan Pedeng Songwriter : Thomas 
 > 
 > Sungguh tega tak ku sangka Aku kecewa Hoo oo aku merana Hoo oo maafkan cinta
 
-![Nelsya feat. Mawan Pedeng - Cinta Engkau Akhiri](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPqKSyox9pH2JCMdVHuHMe1V6_zO8z5RqEgav5S-kFHToMpw9-EOExYt67Bn3VGSd5COoFqjDCdlpWpGZasZFwlZTwMwemSUUbz3XE0aFbKoJBQb-VQPtKQi6nIxD7MzJDwgRymdxeAjnVez5BtvN_B4gZP1-EItWRgFxqNCZTjTl1jjHEDl9ToTiRjg/s800/nelsya-feat-mawan-pedeng-cinta-engkau-akhiri.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Nelsya feat. Mawan Pedeng - Cinta Engkau Akhiri. Silahkan bagikan juga ke teman anda.

@@ -25,4 +25,3 @@ Demikian lirik 'Sedang Berjuang' sebagaimana di atas.
 
 **Credit:** Judul : Sedang Berjuang Voc : Shinta Gisul Cipt : Ajhay Pasma Arr : Lembayung Music
 
-![Sedang Berjuang - Shinta Gisul](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJbuTuU1Et7C54T-IRqaamZqK0kDKzPZCGoQ_7DnN5TtRoRqEPD1P3shpOCg9jkxye7vbWKUKS1KjlcWHvzpVxnWCwOcsQ38uinPJtOQDJymLqPaS1eZqELPbglfmaDqNj6Ax9OVP-2MofZ-rmRzxnV4rK1vSKk7sXBbYyzdwuuGI6o8vEfiyPzFaRi-dp/s1280/sedang-berjuang-shinta-gisul.webp)

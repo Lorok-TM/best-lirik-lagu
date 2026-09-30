@@ -29,4 +29,3 @@ Bukannya aku kuat rasa Atau sakit hati telah terbiasa Tapi karena Tuhan yang mam
 
 Ku akan tetap baik Karena Tuhan baik Ku akan tetap baik Ku akan tetap baik
 
-![Tetap Baik - GoodFriends](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkGvAmXWW4UHWOPnFVkKO-al_GwK03TwkhJdmATjMr0ZS-JR7-nFuO_azi7bkhGcban6zl9_jXMUiDMY2nydczRl5dopBu7g6gAux4UtRRXdVgo6tk2iwJQoibBbZ3gwhO5PYXfteM6Ke9_RUoYib3R_HohsTSF1nMepPlyuI1ZCmTUELnnJjaAErSRsie/s1280/tetap-baik-goodfriends.webp)

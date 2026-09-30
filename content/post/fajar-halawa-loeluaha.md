@@ -13,4 +13,3 @@ No möi ba danö sebua No möi do fakuli ba niha Dania usöndra taria lö nai ae
 
 Ha fangandrö mi utötöna Efaö fefu ngawalö zala Enaö usöndra haraajaki si oroi nama Tefahowu'ö he ina
 
-![Fajar Halawa - Lö'eluaha](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7YSpknlZqFR_819NUnaK6Ji1jpQB7t6zUWMFQ2zGhRNsVGEu_fxthTTYy6hljBBPfz2QgCs0Xm2OnHUsme7bJUz6bFVb-NJTCxZtIZqzmTKmTzchNXmVTupWdeOTr5GtnQiKLxIOHOZAmXKl6GGM9oP0zWhGHUl0khvEucalZUadK1dgUMHQNGaRBU5iz/s480/fajar-halawa-loeluaha.webp)

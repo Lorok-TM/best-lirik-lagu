@@ -27,4 +27,3 @@ Yo tarumuak yo cangguang diri Diri seso dilukoi Kok cegak bariang tak abih Abih 
 
 #Credits: Judul : Dendang Parintang Voc : Vicky Koga Cipt : Agus Taher Arr : Iwan Romeo
 
-![Vicky Koga - Dendang Parintang](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVlu66yqTusz4UHQo5Vdy69MKEBeZsx7PVoVyWvBO7KIjex1FeAdgcqy_aDOZqXxRhZu_9P5fhBwI-3pMweO3i5HFoEbxUoF3V-iYDKfZLYO4O53sO4rub7dEPJV9dkzR9kE5-MXB3aK7z-2qqppm_WAWisNXKWmsJ9DNrO0MM7ZCyDWNwlezVH9fpgHMk/s1280/vicky-koga-dendang-parintang.webp)

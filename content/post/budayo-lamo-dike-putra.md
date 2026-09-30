@@ -19,4 +19,3 @@ Demikian lirik 'Budayo Lamo' sebagaimana di atas.
 
 **Credit:** Judul : Budayo Lamo Voc : Dike Putra Cipt : Lirda Ns. Melayu / Misramolai Arr : Aboed Wendri
 
-![Budayo Lamo - Dike Putra](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqr2THIFHmHv11NNg-0Xo6sjXko2u57idrBt1BdZufhyphenhyphenAZtsZXAFM4KYZjQhCATlsJ4zC9ywkblg_97Mgel9f_MWdVjzSk0wSop0CLhUEdE1jykeYgtbP9t1WT4lh0KWQzZ8NiOX_h0TvpMYJAQb3F3uUa_TGTSYMMx7lLfTM3BQRCdHd5p8YGW_VMhsU9/s1280/budayo-lamo-dike-putra.webp)

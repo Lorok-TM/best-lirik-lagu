@@ -31,7 +31,6 @@ Situs bestliriklagu.com tidak menyediakan chord dasar / kunci gitar / Mp3 lagu A
 > 
 > Aku tak apa apa bukankah sudah biasa Kau berikan aku luka
 
-![Eno Viola - Ambil Kembali Hatinya](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijeR_7kLbA5K6VCkA78Ho-L2aXyFPxb_Io7h7GRUR4fLxrGMfmdxITlOuodueLzETWxk3SvArV6CFjCnNEcmIOR_J8FgLBe4VSibK5WBZpNad5WDNClI_Hng8BtBYzjHXRkGf6vtnPnOwk-_pebqTt9SmUWeXHCnh_d6GEehxWr21nOKbY0qPdLPmP4p9X/s800/eno-viola-ambil-kembali-hatinya.webp)
 
 Tujuan kami berbagi ini ialah menyediakan dan menambah sebanyak mungkin informasi arsip lirik lagu untuk mempermudah bagi Anda yang ingin menghafalkan lagu Ambil Kembali Hatinya ini, maupun belajar bermain musik.
 

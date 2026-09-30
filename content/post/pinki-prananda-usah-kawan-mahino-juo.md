@@ -17,4 +17,3 @@ Usah kawan mahino juo Jo mambuli diri denaiko Dimato tuhan kito ko samo
 
 Nan mambedakan caro bausaho Nan mambedakan caro bausaho
 
-![Pinki Prananda - Usah Kawan Mahino Juo](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRfkiF-iJXs50U0TlRdyR4H1sJbH0-GzfyfIHSy7QyUS5v9eiu5zsXP8MweRerFWHedKxrQ363oSKVkvPmoTAMJdpg9G1MmODClu7einvKU90KsslNTg3TgYAguasTqbeC7Im4cjBxydJknjrUt4DPvCA-xWoffQO8pI7dFFUtwcUS_jL5v7x3zjYXZmQL/s480/pinki-prananda-usah-kawan-mahino-juo.webp)

@@ -17,4 +17,3 @@ Yen sih ono wektu go ketemu Pisan wae tak sikep awakmu Ngomongo aku lungo opo ku
 
 #Credits: Title : Sikep Artist : Difarina Indra Adella Songwriter : Helarius Daru Indrajaya Music : Adella
 
-![Difarina Indra Adella - SIKEP](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj80NQf81772FMtUcK9N3QIbbGtsrABp9l3kopFykru0oxaOj1M8TKc6-kLFe13_SgI5NSx5z6bIUHOWZn194AmNFLy4gF96c7el3PdSRLf12fqlD8phE-Xm5goAbLFwRW7SQMkgEYQga8DCGl-R64lnBs3tzb0_aK_fjkxEPM0VeMY7NDW9akqMi5SXJKL/s480/difarina-indra-adella-sikep.webp)

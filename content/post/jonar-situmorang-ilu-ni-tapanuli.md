@@ -23,4 +23,3 @@ Tuhan sai paombun rimasMi Tuhan sai paombun rimasMi
 
 #Credits: Title : Ilu Ni Tapanuli Artist : Jonar Situmorang Songwriter : Hotma T Simanungkalit Arranger : Sinnson
 
-![Jonar Situmorang - Ilu Ni Tapanuli](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj585-wlcJL6FjTXWWXpwax_TweKxQB5-XWRs5wZ7B_4OTSTtzfr8r5ktTrqzIj1QUeLS2ZCNGx-AWx6MxGxZvK27Jmu6yxAPZ07wYKaJHWUDtRRtqzTz9XiEJpnFSqdRAFJb5S4L8IE3nt6T83rxw6NW1PLOJhQWWpsoLZQ4dmvWphr0mqu-XN_2MLCDsr/s480/jonar-situmorang-ilu-ni-tapanuli.webp)

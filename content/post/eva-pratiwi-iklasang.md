@@ -27,4 +27,3 @@ Iklasang je tiang Ninggalin beli jani Depan je tiang pedidi Naanang sakit hati
 
 Iklasang mekejang Mirib bli sing jodoh tiang Tiang pilih beli bagia Yadiastun tusing buat tiang Yadiastun tusing buat tiang
 
-![Eva Pratiwi - Iklasang](https://i.ytimg.com/vi_webp/p3Ecb-vFXKk/hqdefault.webp)

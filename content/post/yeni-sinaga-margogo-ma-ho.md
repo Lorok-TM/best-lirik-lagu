@@ -25,4 +25,3 @@ Molo tarilu ho gok hasusaan i Unang mandele amang Tutu ngaloja ho borat nang lak
 
 pos roham amang
 
-![Yeni Sinaga - Margogo Ma Ho](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhU_uMFcZL9BScf38gE_46rlGZFjCy3Z_MXYxnSyOyiWXOd-2TSd1m-LB37mnq65-psffHV1UXoK_hhEZ2eMVsgNaX3NO0KLtToOQqyJxM1o8XA-0StNRjxOxPVZ2VKPA11dM-lJH9njUtQXEuY0Weo21LzORQ9rFG0rOF6DDj0OZ8NeWWUkOgV8Ue2ffsq/s480/yeni-sinaga-margogo-ma-ho.webp)

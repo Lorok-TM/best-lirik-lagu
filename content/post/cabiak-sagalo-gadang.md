@@ -23,4 +23,3 @@ Kok dulu bodynyo montok kini lah sagalo gadang Kok dulu jalan malenggok kini lah
 
 #Credits: Judul : Sagalo Gadang Voc : Cabiak Cipt : Jacky Arr : Jacky
 
-![Cabiak - Sagalo Gadang](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJQEd1fkC88krB4uTRgB75sFSUqynP-p0RQZI770KjZ-4z8E6GszGenTLy5mSN-ktaDNSiqyXahwHbhkpLO6VGlC_kTlo8RXJ4q0xHysLiEfS39LBVUMYA5SGBp67ffhqy4VEOJCFNCjXm-PqyCilC5X7gotdJmQxffTkQYuJgMIk-TBYouMTmtePLBn8P/s1280/cabiak-sagalo-gadang.webp)

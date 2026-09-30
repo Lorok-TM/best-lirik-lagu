@@ -21,6 +21,5 @@ Title : Doa Untuak Ayah Artist : Silva Hayati Songwriter : Erwin Agam Publisher 
 > 
 > Lupo kok ayah jo diri denai nak kanduang ayah Yo santiang bana pakasiah urang nan lah tamakan Nyanyian mande satiok sanjo baibo ibo Apo ndak sampai ka batin ayah mangkonyo lupo
 
-![Silva Hayati - Doa Untuak Ayah](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMzF2NrpxfljNJcqXADr2R7NVxSNklZ70aK96zdGeiRR_dkxDmzLDbWlzyWhF8kIrl-ZuWNrh4ATCXB0KDt44ZfGtIKeTl_cJcnyMebBaWis_P5RZldrfMXHhcWpuvrvleYVV5BOdH-EU17il7I86cQBc5N8RNKb20WjpRlUelFjI3H94gM4OnDz46hw/s800/silva-hayati-doa-untuak-ayah.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Silva Hayati - Doa Untuak Ayah. Silahkan bagikan juga ke teman anda.

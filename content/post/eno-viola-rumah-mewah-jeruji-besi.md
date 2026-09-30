@@ -27,4 +27,3 @@ Title : Rumah Mewah Jeruji Besi Artist : Eno Viola Songwriter : Roza'c Tanjung P
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik lagu dan lain sebagainya. Terimakasih atas kunjungan Anda.
 
-![Eno Viola - Rumah Mewah Jeruji Besi](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxN3voa1EeuLxS4KHY4Bt0Zll4KqD1pmqCCCctH3m8RqC7yQbuQQsLIH2-YwXTR7FXIX_NF_nLfjtGO7SyoOS3v4jCKwpuAhUzJr5CgzKCiMVlSkFQ4SL9E1PBRjqWom6lyWbv0QN4UP14QIR2D-qzYZZbt8GK19DpDi3fjW62uyAOCUfaYOPCs8R6qg/s1280/eno-viola-rumah-mewah-jeruji-besi.webp)

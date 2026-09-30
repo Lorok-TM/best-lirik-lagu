@@ -15,4 +15,3 @@ Ganang ganang si aia mato Den paluak anak ka dado Mamakiak alang pulau paco Cint
 
 Cameh oh cameh Cinto ka uda tiado duonyo Bia tambilang mamisahkan kito
 
-![Gamang Di Seso Mimpi - Dewi Bunga](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_U7xfAafrECNnOhwi2jZduXlmKViJ3A3AfFxpRb08CQPij4W3rZ6iBTHdU4XZXj43f6T_tXEeztrZeyJNxtSxQ_g84S16rLDdfe4xtkUJ4HJDyyEy2Dtji4RnMtefkcBokmgk7u-UQJC1X-DhG54DuJfRnfhk7Z8GkSweu9YJI-odrifmmFypipL6XdPw/s1280/gamang-di-seso-mimpi-dewi-bunga.webp)

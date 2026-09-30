@@ -19,4 +19,3 @@ Uroi wa’omasi
 
 #Credits: Judul : Matonga Dödögu Voc : Rocky B Duha Cipt : Anton Telaumbanua Arr : Chical Tel
 
-![Rocky B Duha - Matonga Dödögu](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpk6Xwl1vA5Tm_2k4IrBBwSCz2AyMTx2PmaIZAvH8LAvtgi82c9nQC04yfsDSUMEPiuUKP6XdC8La_p4xJkOAV55rJgqv2mk01ReedCle8rxrAjse7HlWq2hphoI5UIoXUNwv3UeDoV3cuBtpZ6kK6b7L7Its4mY0_9x7nUlLrgH3DjPhdaP_FTvtRS_rv/s480/rocky-b-duha-matonga-dodogu.webp)

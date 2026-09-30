@@ -65,6 +65,5 @@ _Tek Simpen Sayange = Ku Simpan Rasa Sayangku_
 > 
 > _Ku simpan sayangku Untuk kamu saja_
 
-![Via Timor - Tek Simpen Sayange](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1L-LoVnGLdWMGD0qWOSr22D66pKfz9sifAd0_yAWCKp-hBFOi2G7YYQCq6FTHR4CoRJX8LWpWPft9mmdFbBUaBB5XJYDe-rWmmdN0ES4K6imnOd84wU4NEsHtGmvJ7s_iIiELcBjIJufWWZj7cbctWkYlqYrGtvjc-JtgfmeOnTXmRcbR0_RiJrUufQ/s800/via-timor-tek-simpen-sayange.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Via Timor - Tek Simpen Sayange. Silahkan bagikan juga ke teman anda.

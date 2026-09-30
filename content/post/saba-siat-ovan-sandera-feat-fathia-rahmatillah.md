@@ -31,4 +31,3 @@ Demikian lirik 'Saba Siat' sebagaimana di atas.
 
 **Credit:** Judul : Saba Siat Voc : Ovan Sandera Feat. Fathia Rahmatillah Cipt : Fikar Konsep / Ovan Sandera Arr : Heri Wardana
 
-![Saba Siat - Ovan Sandera Feat Fathia Rahmatillah](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfFxPnfC2ovpVa5KzwIsrVHuVtLjt-CTkk2SyAEnCN_rzNfKdOy1SZpstl_SCwkxeMYRWjPBdBJRe4cOAfJJzA4__xI3dp5rJsd1vzXgIhNtzEdu_N8ZKx4pkfHG1gOJues17EEVPOJDVvDz9lExuXJrmNj5AEWsQeo23o8akhbuoeoFdbHaVDaHhdngeG/s1280/saba-siat-ovan-sandera-feat-fathia-rahmatillah.webp)

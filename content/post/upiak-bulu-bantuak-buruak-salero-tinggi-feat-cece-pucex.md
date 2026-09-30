@@ -37,4 +37,3 @@ Dasar ndak tau diri ndak balaki kau ndak anti Den ndak nio marasai kok nyampang 
 
 O mak apo juo dek kau lai Tolonglah carian wak den laki oi mak
 
-![Upiak Bulu - Bantuak Buruak Salero Tinggi Feat Cece Pucex](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqMqBsR0UGUG8wza88bIHznOJG_Ac545fCxRWxnp0lz1Z4q58aQfP93u13UG74bORb_Pw9lKjIhfxFGiO3v78kRVN2w7bLHhq0K5zUf8wdJ6fLU3v1_Ilg011VXD64L68rYANFz8iNLnH8Zayz70CToNOiFSwTCYnw0zSmV6PJ5S8z1N9F6JpcmrwcaV33/s1280/upiak-bulu-bantuak-buruak-salero-tinggi-feat-cece-pucex.webp)

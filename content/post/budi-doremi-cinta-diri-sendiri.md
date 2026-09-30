@@ -5,7 +5,6 @@ categories:
   - "indonesia"
 ---
 
-![Budi Doremi - Cinta Diri Sendiri](https://raw.githubusercontent.com/Lorok-TM/2026-08/img/budi-doremi-cinta-diri-sendiri.webp)
 
 Lagu bertajuk "Cinta Diri Sendiri" karya Budi Syahbudin Syukur yang lebih dikenal secara luas sebagai Budi Doremi merupakan sebuah refleksi filosofis mengenai pentingnya penentuan batas emosional dalam hubungan interpersonal. Dirilis pada Agustus 2026, latar belakang penulisan lagu ini berfokus pada fenomena psikologis masyarakat yang kerap mengorbankan stabilitas mental dan kebahagiaan pribadi demi mengejar validasi serta cinta dari pihak lain yang tidak memberikan timbal balik. Melalui pendekatan jurnalistik yang objektif, komposisi ini bergeser dari narasi romantis konvensional menuju seruan untuk menghentikan ambisi yang sia-sia, menempatkan urgensi penerimaan diri, serta menjadikan diri sendiri sebagai prioritas utama sebelum membangun hubungan dengan orang lain.
 

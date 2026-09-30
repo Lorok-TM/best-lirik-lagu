@@ -31,6 +31,4 @@ Title : Mungkinkah Cintamu Kembali Artist : Aprilian ft Rheka Restu Songwriter :
 > 
 > Sayang beri satu kesempatan Untuk menyayangmu lagi Sayang lupakan saja semua Kau dan aku tak searah
 
-![Aprilian feat. Rheka Restu - Mungkinkah Cintamu Kembali](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi21s40CSxl61U2krCyt2ErXmBm2vmYfdsfVzjh4CgflSc-WZBpyOTkSNsG2bmgvijUvz3H5UfuJ1sEy3zEhxLqALvJz97O76MRFH3OA8hvyToIRCFiwWwV85nG1Qi4Y1t0318Ck_3CQqZYnTalfZC05-WctH5L_SksvabSDHgQ_AJH86df5qZFOq98fcW6/s800/aprilian-feat-rheka-restu-mungkinkah-cintamu-kembali.webp)
-
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Aprilian feat. Rheka Restu - Mungkinkah Cintamu Kembali. Silahkan bagikan juga ke teman anda.

@@ -21,4 +21,3 @@ Mandeh kanduang si birang tulang Manga denai batinggakan Tagamang badan ka gadan
 
 #Credits: Judul : Sangko Sarupo Nan Kanduang Voc : Difa Aprilia Cipt : Nici Queena Arr : Trizz
 
-![Difa Aprilia - Sangko Sarupo Nan Kanduang](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoskQTc-KXC-hohqDWfQYMedXrzg4L8KatCUrRzra53yxCayJR1WQzPwgzKXd1HwToQkHYJ6pJiyJACDei944J4O4V6zMVlJxDVGDe0rvfaQOBR3n746KNF54iWxTMvUHB-GaOKfBBkd8OpebHAen5rksmL_pYVomN9DdH2WmwTBPZIyCs4urc_4zO4eth/s1280/difa-aprilia-sangko-sarupo-nan-kanduang.webp)

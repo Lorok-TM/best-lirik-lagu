@@ -21,4 +21,3 @@ Demikian lirik 'Janji Palsu' sebagaimana di atas.
 
 **Credit:** Judul : Janji Palsu Voc : Fizzabella Cipt : Dera Arr : Khanif
 
-![Janji Palsu - Fizzabella](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYBxuTX08tHbXWJLSWZXbjbyYdOpBc4v8w5lyXV3wumGlIZ3G4VzfnbxtNRvWzkicDtlg8HhR-da8BZyawBU1e7qMzulOlAoY10ftr-cvSgefQoUdZcw_PLPvk3Fx2cMH7vCWgAgbjWf9wJ0ySqw3JJIDfY86g7L98hgI34CPrlUptx6-gcmrtDEqfa2Xi/s1280/janji-palsu-fizzabella.webp)

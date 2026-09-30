@@ -27,4 +27,3 @@ Aku ra bakal dolanan seng jenenge tresno iki Yen ujunge bakalan aku nandang loro
 
 Aku ra bakal dolanan seng jenenge tresno iki Yen ujunge bakalan aku nandang loro ati
 
-![Sepine Wengi - Silvy Kumalasari](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEithqs-DMHfjXjA5R8_s_FijKmk8azwrO1tI5e7MwpGiAJT-ahfsNZSX0ztocat7n8NdE42vviAYzOEWViHSRYcuJKBTuzcvVPokytetlXFUw3XQqUqEtzH-FIc54LbqESMm5aSMVJvjsHAttibDIUjxLB2NWXUICtFWhoI79MjqpkVWb_zsVvZ53v4bbgD/s1280/sepine-wengi-silvy-kumalasari.webp)

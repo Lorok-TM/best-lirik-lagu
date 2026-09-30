@@ -21,4 +21,3 @@ Udah aku nadai agi pemandang Nuan meda aku tu baka rampang Laban aku nadai mai p
 
 Umbang diberi isi ga diambi Bebara api dendam ditanjah ai Enda padam taja tinggang ujan memesi Ila tebak sengkilu diri
 
-![Steve Sheegan - Bebara Api Dendam](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTHWEB0SbExBFVyHiBjSGmzSnzUHZDR32vLOGORyIWZ4G-juOG0U9fYI0xXa60LOexGaGLtJ6ihWkCT8mrLyD1SVFAAc0F-9SVN_u_DZXx0EV9sVrbdtLx0pEJ1Wc6ZeBWVxDwSb5lBEdfkgk4dVqK_wRoAV9rXUwBFJWxDDJ-4uaRJXS6Fi73hRTWbYU5/s480/steve-sheegan-bebara-api-dendam.webp)

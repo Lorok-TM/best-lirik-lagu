@@ -33,4 +33,3 @@ Oh kasih mengapa kita berpisah Sedang cinta kita masih membara Berakhir kisah ci
 
 Berakhir kisah cinta kita Di dalam jiwa yang hampa
 
-![Tri Suaka - Andai Waktu Bisa Kembali Feat Dodhy Kangen](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibphBAQX3rGcCKLd1eBSDbP3WhtAlrgrMQ_MEjjdZwtJ_fOfMEpVh9-gi2HJ3rkzqxEEnZeXvV9p0q6RektYh4PWTaXk1lm63NAU2sGNi4bt9i26fA3tqanlDpeLxHEFDZr9nmMnYY1qco-xlILBFSh4CVRMiZH4HfF3hQhh3jbXn_rM-96e2psRaEjMyh/s480/tri-suaka-andai-waktu-bisa-kembali-feat-dodhy-kangen.webp)

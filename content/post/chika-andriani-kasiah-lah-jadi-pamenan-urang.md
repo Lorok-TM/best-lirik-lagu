@@ -17,4 +17,3 @@ categories:
 
 Title : Kasiah Lah Jadi Pamenan Urang Artist : Chika Andriani Songwriter : Syamsir Pulungan Arr & Mixing : Dowan
 
-![Chika Andriani - Kasiah Lah Jadi Pamenan Urang](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNDCe2AokAWXtQJPUa-Y97albj0G7Eox8HB1X2Sd9iHqyQffewq5vWuJiGjf-_45_6vAaj18JWhXlfzSKdJMhzHyB5_z3Zzpqftp1k-XQiZ0S5K2XYIO1vTN0FoU7ya0b0ueDEYXGI8DPLxXkCd1CuQso_sJBU-syEoEPPJu7WnRVhc9SEN6AU4-zCzw/s1280/chika-andriani-kasiah-lah-jadi-pamenan-urang.webp)

@@ -25,4 +25,3 @@ Apa sesungguhnya engkau mau Aku tak tau Apa sesungguhnya engkau mau Aku tak tau
 
 #Credits: Judul : Dimana Letak Hatimu Voc : Rheka Restu Cipt : Iyok ℗ & © One Records
 
-![Rheka Restu - Dimana Letak Hatimu](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEip-mCudiENsLYQKwOz1K79_hxp6GsBP-qbcWc2JRHWKWXB-8epzsje_aTaC-1GFERyTPB4SpL7zjMaMJ1SDXoGB7QaupOiXOQR0n7V3U6gOqB0IENzy_lEQMFHs8w3V8LHrFErxJQaKjfhHntqnDXVAdX6TGRle9g9KnlmSCBzR-HeD0K2HtFeLddzGhNg/s1280/rheka-restu-dimana-letak-hatimu.webp)

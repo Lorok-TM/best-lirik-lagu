@@ -37,4 +37,3 @@ Demikian lirik 'Karejo Kantor' sebagaimana di atas.
 
 **Credit:** Judul : Karejo Kantor Voc : Arghado Trio Cipt : Damma Silalahi
 
-![Karejo Kantor - Arghado Trio](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6-dbPgiM-q3asCXSpoFbqeOuzrvhbFzz_tzkQD3WbdqBTLqNVkBtitDvdW7NlagR5Ezkw9K98-0-WvOWsSEi5CT-1RovgjQ99XzKQAfHp2r6l4s0dW2os7l6A5KAmuIP8pXk-L_ID0QbAKgfZCuO8sbq3c3nig7G8A_Cp7avzJFLNCowL61GAYB-AX0Lr/s1280/karejo-kantor-arghado-trio.webp)

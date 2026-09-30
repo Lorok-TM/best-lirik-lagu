@@ -5,7 +5,6 @@ categories:
   - "timur"
 ---
 
-![Ego - Justy Aldrin Feat Rina Sainyakit, Asaprio](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDIQ__oNSlz6oK-j_sup2iW6bE2HaAgARdyrtBHHpu0gzeasxpHIt-d_SJvSNBYqhZgwcBCFr6jA4O4MNNlmZYVE1dgZRU19r3snpcZeWmYQfK6NH1gaJRAHA5u_MlnWG5ZaStXRoO4u4BMb-gXeOPp7GRPq8F6onXniPLzxNxLK6XuVmcnl3JymcomJw4/s686/ego-justy-aldrin-feat-rina-sainyakit-asaprio.webp)
 
 Hati ancor se buat ulang-ulang Kisah yang seng mungkin beta ulang Lapas beta pigi jauh seng mau pulang Se seng pikir kal beta ancor panggal panggal
 

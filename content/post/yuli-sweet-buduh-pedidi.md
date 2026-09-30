@@ -27,6 +27,5 @@ Title : Buduh Pedidi Artist : Yuli Sweet Songwriter : Uncle Joe Production : Wah
 > 
 > Ne jani tiang lakar megedi Ninggalin beli dini pedidi Sing kuat tiang ngayahin beli Kerane beli tusing ngidaang ngajinin dewek tiang
 
-![Yuli Sweet - Buduh Pedidi](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEid7giPnLHCJh1R_TQFVnDcddWRi-10eJ7lCj3ONhT56pR3y4or_z7yksUUOWncJv_WpI4AWjDRjBwNV_GGhKAv8h2IdDHTbjWASIO4Ntmim32ic2jGE5U1jAZcRrpB1F7mGBbXLGnRcJMVZLRzz6PtDRRLCaK1QTWifwF-mD_rYuNNW6JdnuV1nys5bA/s800/yuli-sweet-buduh-pedidi.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Yuli Sweet - Buduh Pedidi. Silahkan bagikan juga ke teman anda.

@@ -23,6 +23,5 @@ Title : Didia Holong Mi Artist : Interna Trio Vocal : Sungkono Gultom, Edward Ma
 > 
 > Boha ma hasian Bahenon ku lao pa poshon rohakki Molo sai adong dope ito Na sai buni di roha mi
 
-![Interna Trio - Didia Holong Mi](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkEGcDP9v45XG2vRE_vD7sifrEioT37SlzYX4vgbbW8BwWdFeb0_ue3Ax1-Seoin8Gn0LX6TmsVqx2tG9BcQ0pgRcdPqceB7OxwUQyGMS3tISJOyoga2EjRnhSS-3HWXBU_n5Xed-CnMKCgyrO5rHQtre2dyKar99UiiMKe3Un5ifR9SFF5vyN-hqPWg/s800/interna-trio-didia-holong-mi.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Interna Trio - Didia Holong Mi. Silahkan bagikan juga ke teman anda.

@@ -25,6 +25,5 @@ Title : Pergi Tanpa Alasan Artist : Cut Rani Auliza Songwriter : Wandi Bireuen L
 > 
 > Mana janjimu mana sumpahmu Kau akan setia Selamanya untukku Tiada salahku kau tinggalkan Kau pergi tanpa alasan
 
-![Cut Rani Auliza - Pergi Tanpa Alasan](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4xfgMXQkoRB5TIiLF6t7OrjlH5Sl-qDW4um-cAzwF_55rHkNRNoB0DoWj7sNfzEv2haPXSLcTAMUFeHHaPgsPJ_lQWrXYc3iO1dtogezdXD1Ch34StS0NqNMSJ4K0gWA5I0zBTn8QDaX7G82-Pws97JrGnjrKOrNOQIDQN_dhYXUj5P9ebXxUutM-M7kC/s800/cut-rani-auliza-pergi-tanpa-alasan.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Cut Rani Auliza - Pergi Tanpa Alasan. Silahkan bagikan juga ke teman anda.

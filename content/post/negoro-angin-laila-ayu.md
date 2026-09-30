@@ -5,7 +5,6 @@ categories:
   - "dangdut"
 ---
 
-![Negoro Angin - Laila Ayu](https://raw.githubusercontent.com/Lorok-TM/2026-08/img/negoro-angin-laila-ayu.webp)
 
 Tak tampuh sawelas sewu kilometer nyusul awakmu Sing nate janjimu mulih ning aku Sakwise ngrampungke urusanmu
 

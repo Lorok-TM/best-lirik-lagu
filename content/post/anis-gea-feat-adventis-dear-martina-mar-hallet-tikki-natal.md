@@ -37,6 +37,4 @@ Title : MARTINA (Mar Hallet Tikki Natal) Artist : Anis Gea ft Adventis Dear Song
 > 
 > Tikki natal do hape Tikki tikki tikki tikki Tikki tikki natal do hape Tikki tikki tikki tikki Tikki tikki natal do hape
 
-![Anis Gea feat Adventis Dear - MARTINA](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxNHL1Uwc7l5MnBUZqE5Z27-CwQ2YHxbZZWgNqmTTbiVn2SnLAlYteENPz5iF1P6Weh6L69V2EhvEPdBGKvk-lGqMMkkPA4ww1U7NV6fMc7l_N6n8tNQzMsPxJgMHjY95Q58Z3wXXQX81PaacM5qRLRlrSuoqvNXD6ixXkms1ySNo4BGo4bIHu4aIk9w/s800/anis-gea-feat-adventis-dear-martina-mar-hallet-tikki-natal.webp)
-
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Anis Gea feat Adventis Dear - MARTINA (Mar Hallet Tikki Natal). Silahkan bagikan juga ke teman anda.

@@ -25,4 +25,3 @@ Demikian lirik 'Ho Do Rajakku' sebagaimana di atas.
 
 **Credit:** Judul : Ho Do Rajakku Voc : Duo Naimarata Cipt : Dakka Hutagalung
 
-![Ho Do Rajakku - Duo Naimarata](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpJLRAZM5rNjmt5aE4xHf0mcsF_7EmLoZLfTU6X2doSKb3xkTMs59jnWjhyphenhyphena6K6xl8tzihc7crtKROdAUi6jCZuVYjQUDSIfuCk-dW7ZOV_Y7N2-I0YmrH0cTQrO7Q1eXCr9pBqgVDnrDV4mk8FoB87LnUdBgNTSJT6J82IQhXu37o3jSSPo8JBkclzOWi/s1280/ho-do-rajakku-duo-naimarata.webp)

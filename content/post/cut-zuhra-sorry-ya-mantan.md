@@ -25,6 +25,5 @@ Title : Sorry Ya Mantan Artist : Cut Zuhra Songwriter : Nurhayati Category : Lag
 > 
 > Aku bebas lepas dan merasa puas Terasa hilang beban hidupku Tinggalkan saja jangan lagi kau ganggu Ku bahagia kini hidup tanpamu Ku bahagia kini hidup tanpamu
 
-![Cut Zuhra - Sorry Ya Mantan](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOgAyBfGdeKpBDbzFwXFO7dVkWN31G2iX8nQxhRGVqA1OuWoqdIJsL0Xtbp8IA34MTH0uN5_uRcbV0-zUNala9HWYJNbdeuYBuPc1zaPezbB4iynfLB5dpRCr34UbrPcyLyOGHhT1tSuXzZrFpQ_j7ppJlNoUw3iN9jO8XQ3jlssOhSXhBfs4eqPHSUQ/s800/cut-zuhra-sorry-ya-mantan.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Cut Zuhra - Sorry Ya Mantan. Silahkan bagikan juga ke teman anda.

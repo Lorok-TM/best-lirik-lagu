@@ -15,4 +15,3 @@ Hari berlalu Usia semakin senja Namun kasih tuhan tak pernah berlalu
 
 Demikian lirik 'Usia Lanjut' sebagaimana di atas.
 
-![Usia Lanjut - Herlin Pirena](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglgYudNs2N0x5swM2Q-pvhQNfgweLRuq4SmvLlBaV953g5_q6QqPvu1jkGihd864u1c9wZ241_ns0vJ_GmaiF6dNXO91eoiBQF3kym6GR9t5-ObFJpi1vStVJftiTVLlR7r_r3Q580bIEPP7-EHelCjqt-NRL8GfiO0jAzRvP1n1adV80FwodsJv9Nbgb1/s1280/usia-lanjut-herlin-pirena.webp)

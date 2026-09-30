@@ -21,4 +21,3 @@ Usah uda ka denai baburuak sangko Diri denai kok masih sarupo nan biaso Kok basu
 
 Kok basuo elok lah disapo juo Denai nan kini jo dulu masih samo Aduh nona e kaka jadi tau diri Mo dekat nona su jadi takut sendiri
 
-![Wita Sofi feat. Silet Open Up - Nona Minang Su PNS](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvD2vxEhqgHUf1yhkam9JxaJsFd7BkFg-UVTh8J_7k5d9CnkTiKv7ny0vZYSZnU726VOxl7bxaRc5tcvedferA4Xa-Kyv_E8bJCbmqTctJMsyQm5kroUbmfBrfdSnxPjWT85aFczJCzvmbPrxWoo24IDIES6441fAQC_7kxUaoWnv0zGSetzLIuL-8-iv0/s480/wita-sofi-feat-silet-open-up-nona-minang-su-pns.webp)

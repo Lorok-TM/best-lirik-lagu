@@ -33,4 +33,3 @@ Chorus : Sa su coba mati-mati cinta dia.. Tapi hati ade nona orang punya.. Steng
 
 Kaka coba pelan-pelan kubur rasa.. Tapi kaka mau lupa ade tu susah.. Ini yang berat kalo su pake hati.. Sa yang sakit sendiri..
 
-![Martapura (Mau Rindu Tapi Punya Orang) - Kaka Andii](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3eM5Zl_jfIId-3vy_Xhbw3r7gMA32z4syXsYq9Pnk3MUpz6u2VLTzx4gEnAB_109-hC9IC-21M0lSn_yyxNy8Hqx3v3nVWWFOf4R93UNApYZtQwe56PtKDA8D-3a22QIX7vIm-ojBGEWRiTvaqKjBHu4S-25p2swpr7e0sLZm1_ShSbzIz-rXGXjYwVw5/s1280/martapura-mau-rindu-tapi-punya-orang-kaka-andii.webp)

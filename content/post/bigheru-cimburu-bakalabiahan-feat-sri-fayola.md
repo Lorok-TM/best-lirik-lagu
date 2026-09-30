@@ -17,4 +17,3 @@ Sakik di hati luko di bathin Padiahnyo manikam jantuang Tajamnyo kato Acok taluk
 
 #Credits: Judul : Cimburu Bakalabiahan Voc : Bigheru ft. Sri Fayola Cipt : Amri Damanin Arr : Decky Ryan
 
-![Bigheru - Cimburu Bakalabiahan feat. Sri Fayola](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicHmGyvGlOL5sjAwB8sXrTzXroSBjothbHi-eS2Gw5qSMp4UBphIVyFpovsRV9Knr3QPQX5PCo1HK998FOCFiUcw0IfLqScR5ruqeKUv9PdGsPnn2NagkNEGbwsUFgHrcCI8hTVdq5oKQa7NCwnePK1RCSwIMo6w4ATokJ1M3trZtDF5y3yXeZ2ulZrLIc/s1280/bigheru-cimburu-bakalabiahan-feat-sri-fayola.webp)

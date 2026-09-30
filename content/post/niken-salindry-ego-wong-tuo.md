@@ -17,4 +17,3 @@ Kudu iso kuat balungane Mergo ra di songgo wong tuane Kudu iso ngadek dewe Raono
 
 #Credits: Judul : Ego Wong Tuo Voc : Niken Salindry Cipt : Royhan Niiamillah (Mas Roy) Arr : Kembar Campursari
 
-![Niken Salindry - Ego Wong Tuo](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRSFLg20WXwHd0XV6s_0i0UdqmCyhSGFc82V00eG34cEmvEPf8RTtgEpwzMoAP15Wu-TUXxns9yhiybhMYO4RLaQBZ8kJvqa4Y34lPl1UvqB60nEDXtV5CYNV2ctYlX8QyKfKuRAjwM2HLAdlvFP9y-ljNgAG-dISmzMvuWpYO75PERYdeGHmlOoso9z-L/s480/niken-salindry-ego-wong-tuo.webp)

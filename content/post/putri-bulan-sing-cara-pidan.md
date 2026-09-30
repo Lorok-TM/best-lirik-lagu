@@ -21,4 +21,3 @@ Sebet tiang yening kenehang Makejang ngae sube keserahang Pidan beli saje mule s
 
 _Sedih aku bila memikirkan Semua sudah ku serahkan Dulu kamu memang sayang Sekarang kamu menghilang_
 
-![Putri Bulan - Sing Cara Pidan](https://i.ytimg.com/vi_webp/O0SnOl8_JDk/maxresdefault.webp)

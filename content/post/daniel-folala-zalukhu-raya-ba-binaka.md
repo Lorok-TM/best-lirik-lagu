@@ -37,4 +37,3 @@ Wanofu fa'omasira Ba mbu'ulida sidarua Enaö bazilö ara Alua gohitö dödöda
 
 Enaö bazilö ara Alua gohitö dödöda
 
-![Daniel Folala Zalukhu - Raya Ba Binaka](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTEg6pHoHboCMKXpqb5k-9Quy9wX_l6YYBi3y2tZoE71HSXIdEpLIs4Gd3UgqeZNQF2294L-P4nwu03cU0tAX8UPpROSPnpu6E06_sHqEq0qmZj1LZ6P1lDsqBteBI4KXoeFqyP0cyqNQryr_eU7McXd9Lbvzk8N7QKR7SnUiiJsxtwiUO7tXJpNoNnI8e/s480/daniel-folala-zalukhu-raya-ba-binaka.webp)

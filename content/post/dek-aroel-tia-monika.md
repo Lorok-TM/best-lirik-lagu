@@ -21,4 +21,3 @@ Tia Monika manis sekali Bang aroel cinta mati Tia Monika I love you
 
 Tunggu abang pulang Segera datang Menjemputmu Tuk segera dilamar
 
-![Dek Aroel - Tia Monika](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqKoO-4QkqALacv7SM7LYaU2VEa66LEl9lDaUjjR6-TYYDmvLqXJfxOnoKGhuF23qUn27P0dKzjB3sUZG_Sdcjk_duRkoHoqd1xH6KCxz70HS7HFEq5_eDOX8Z6-6jdeYjamHk5o7pODw70JjPv9IdbeEeqO5e3a5TO_aAocyWcGt8vOdNyFd24ioxygNu/s480/dek-aroel-tia-monika.webp)

@@ -31,4 +31,3 @@ Demikian lirik 'Tuhan Tahu' sebagaimana di atas.
 
 **Credit:** Judul : Tuhan Tahu Voc : Dalia Farhana Cipt : Amir Firdaus, Dalia Farhana Arr : Jeson Huang
 
-![Tuhan Tahu - Dalia Farhana](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8Xy41dI3ETbXZdxdRsYxBvbGCrySLE-sfCmXCYS6w3ZgWlaGKDOJ_fmta0bPukGJ7J3leee-WUzjJhAy05ij5n5tpoIcP2JEaqwVgtUsyFq1mz2GIwHigUcvtYtLLiLAkT5EAGUn4QzU8ha9blPylJxi0N7UDwAkwlVeVq-JP-_IW6Mo0uduwW2ktXMXt/s1280/tuhan-tahu-dalia-farhana.webp)

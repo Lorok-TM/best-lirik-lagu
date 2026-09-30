@@ -15,4 +15,3 @@ Basio sio kan denai, Balengah lengah kan denai, Kiro nyo cinto, samo taniayo,
 
 Basio sio kan denai, Balengah lengah kan denai Kiro nyo cinto, samo taniayo
 
-![Indro Tanjung - Cinto Taniayo Feat. Eno Viola](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbNHwnE635S81dhVeNYYpxBiJfVFOZgBn8ytXCHhqPmSyB_qYXg2qBBgMbN3ux1jKN9oF8fT2g4NarEzzk4w3tipK8L0TFvntOIHpQWAgj28Rr5UkZ-E25lCmgpaJh_Ahb8LIr7TVYVMx8KI-7iWfB9Jg_YfWP1RtzSfWrUfDqX_MzI2DQrFhEenVz_fee/s1280/indro-tanjung-cinto-taniayo-feat-eno-viola.webp)

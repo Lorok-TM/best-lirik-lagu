@@ -15,4 +15,3 @@ Dari hari ka hari Rusuah diganyang mimpi Rindu makin manyasak Uda surang dinanti
 
 Uda surang nan dinanti nanti Itu bana kandak di hati
 
-![Rofikoh Isnaini - Kandak Di Hati](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKv4bIIEdOk9FngPYlyMOGfGsuamcdepJEXZCru8T8nQgOEGg2mq8lwVn1LhyVrSTmqXfpUMvizdwaX2fjDnJL1kBoesFM3zn3Nu9mFqjcZPJMpNewkLr40EcAH-ncJeb4OZLEZ6p47CqK6wpHWNM_90dK66Q28-WaZniQHHarG_3q85GmXvcVhPrqAlqi/s480/rofikoh-isnaini-kandak-di-hati.webp)

@@ -19,4 +19,3 @@ Demikian lirik 'Sewates Ngancani' sebagaimana di atas.
 
 **Credit:** Judul : Sewates Ngancani Voc : Intan Shinta Cipt : Aditya Chandra & Intan Shinta Arr : Nugie Aditya
 
-![Sewates Ngancani - Intan Shinta](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgT7sPd1VvMvGH2sm3w0BVdzltXBRonn3dLOPRNU0EFQVQcfdMc44-oklNYbLJE-RuXYEpbSAR-JqQSfQHotmnxGT2Pskjza77o5QYbTC5XZkd8GtuW8hybCegGy8TYsLP-jGwnD0GoPg6wfm6BDr3pbWlutxd4yhzYDRp-Tk87FQGIBo5wPpVafJ_MM3Lz/s1280/sewates-ngancani-intan-shinta.webp)

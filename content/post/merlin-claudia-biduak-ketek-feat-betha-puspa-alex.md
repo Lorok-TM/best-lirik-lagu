@@ -27,4 +27,3 @@ Dalam galak taserak tangih Nan lah acok bamanuang surang Takana buhua lah taurak
 
 #Credits: Judul : Biduak Ketek Voc : Biduak Ketek ft. Betha Puspa, Alex Cipt : Monica Y Arr : Reymond Kuantan Studio
 
-![Merlin Claudia - Biduak Ketek feat. Betha Puspa, Alex](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinBNl0C1KBGEirEFJws8fiU58u1pzNyBrFXObjOWIQDMKOJQklFrTV7mrvOnYYkbqwZkXt_OgclqLFup74JT115W1C2IwIp9X_aVrCznZel_cpbNKh14yrXVmNQuePrbai0btFj4zANt61nbMhTuErji4JMai6OMrpLAntEh6PwBHGQM6UndYRwNdm3Dcg/s1280/merlin-claudia-biduak-ketek-feat-betha-puspa-alex.webp)

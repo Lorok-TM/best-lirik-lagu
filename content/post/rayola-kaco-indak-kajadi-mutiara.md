@@ -17,4 +17,3 @@ Bialah-bia udah pai ka urang lain Denai harok kan raso tabok angin Den yakin uda
 
 Walaupun padiah ramuak hati di dalam Walau balinang si aia mato Mungkin lah jadi suratan badan Denai tarimo sagalonyo
 
-![Rayola - Kaco Indak Kajadi Mutiara](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgG_GEzzW8iqp-eSLVSNkDJZ-CtJKIiMNO0459svjioFEcx_xrYHoAwEIO_9lVuhnEQ7I78zrWwoG0OXug_9rUTknLFpXC1gHd52LcoEVIH2TBcx3sEZM_C0ZRYnDrxls4DoJ_P6UoDf72tMu_DWjmG-3EurF9bBU6YJTznQDy0tJUq4reU2es2WKW_3K-Q/s480/rayola-kaco-indak-kajadi-mutiara.webp)

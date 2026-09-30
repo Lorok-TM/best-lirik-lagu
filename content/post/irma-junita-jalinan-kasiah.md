@@ -31,4 +31,3 @@ Katuju bana di tuan Kabek jo tali cinto Rancak pamenan tuan Jalinan kasih salamo
 
 #Credits: Judul : Jalinan Kasiah Voc : Irma Junita Cipt : Irma Junita ℗ & © Lart Studio
 
-![Irma Junita - Jalinan Kasiah](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbsiSruUz0qfxW-KsNAhv_8wTP9uJZ0rEpm8oF3iZfPM34qc2-tm6P9qkWmbQs9KYUDrm8fyHfHGEaeCc15U2niLcvSqqMN8QLfkEAjxTAq7nBAoshI18th2cULXgeUqCPVraWn8CG9VvuAa6DvEyUxq76-Ke08Pl8TVD55hm6tsGKQ4DeAz6NIfG3KvIz/s480/irma-junita-jalinan-kasiah.webp)

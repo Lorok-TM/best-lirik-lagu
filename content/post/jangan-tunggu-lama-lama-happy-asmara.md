@@ -5,7 +5,6 @@ categories:
   - "dangdut"
 ---
 
-![Jangan Tunggu Lama Lama - Happy Asmara](https://raw.githubusercontent.com/Lorok-TM/2026-08/img/jangan-tunggu-lama-lama-happy-asmara.webp)
 
 Apabila engkau berjumpa Dengan seorang dara Yang banyak memberi harapan Dengan sepenuh jiwa
 

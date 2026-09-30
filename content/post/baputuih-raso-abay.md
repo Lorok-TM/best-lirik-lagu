@@ -13,4 +13,3 @@ Bacari cari hati tu nak banci Ba putuih raso buliah denai pai Lah den tinggakan 
 
 Kok nan ka putuih yo putuih bana lah Nan denai usah di gunjiangkan juo Nyampang ndak amuah hati tu barubah Usah manambah doso
 
-![Baputuih Raso - Abay](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfwA5CX0vaZTkZUoazEe1fVn0DIroZEA9ukLubBeZIbPq34tCQ9qX160J6VOg_rJsTXeIeQRxkuuuD5GFGtZVSNNoKJR2bb0PujoZpuelILWSNa8tt6eMIYo0H3y4ZD-8Q0RyF1u7qLiQltsivkcTJA33POq26qzGnMHvsGA7WuEDb1l2PSTN7PrVuizzw/s480/baputuih-raso-abay.webp)

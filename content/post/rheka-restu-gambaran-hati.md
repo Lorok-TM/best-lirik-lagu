@@ -27,6 +27,5 @@ Title : Gambaran Hati Artist : Rheka Restu Songwriter : Adi Bugak Label : Koko R
 > 
 > Kini engkau telah pergi tinggalkan sejuta luka Ku hanya bisa berdoa agar dirimu bahagia Kau dambakan perpisahan yang tak pernah ku inginkan Seiring berjalan harus aku terima
 
-![Rheka Restu - Gambaran Hati](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwJduwxs_wlAGaKubpGYpi1WM_oFQNgl_cQZWkgRoZSmNI1q-lwomIycEU5WQYkSPWDPnCpXLYyQ1oDEa-CZwL-9w_sbbGk6x9x6lV-kVPpsrx72S1vNzZboRQxMUUPc3Co4lRsgwF-L5f8ONhgX-vEjyeB3Rre6az6Zfko5LDiDHtlhnlnwzF1pNlig/s800/rheka-restu-gambaran-hati.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Rheka Restu - Gambaran Hati. Silahkan bagikan juga ke teman anda.

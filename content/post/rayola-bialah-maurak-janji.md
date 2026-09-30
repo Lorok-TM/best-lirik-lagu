@@ -17,4 +17,3 @@ Kini denai lah manyadari Kain kito indak saragi Padonyo isuak badan ka taniayo B
 
 Manek uda bajanji denai lah picayo Kironyo duto nan uda barikan Rilakanlah kini denaiko bajalan Maafkan diri usah disasali
 
-![Rayola - Bialah Maurak Janji](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlDU_OsQDOxLpkotLJOR8gInaUtzu7Q1ZnFW8djfvhkMhtBDJM1Yc3AbikviaBhuNSUQBEhuL2PxfxKGhdYq1UKDi5rHOslIYs51X5yI5drBtuPyBkJ_hx85bajQyMyKLKphTvoclFJTJj8TVldMC93j7H04ZrJP_YeVN-uc05Pzg4-FjLPRhAgl7nUj27/s480/rayola-bialah-maurak-janji.webp)

@@ -21,4 +21,3 @@ Yo bak cando layang-layang Putuih nan di taraju Baitu bana nasib si badan diri T
 
 Kok nasib malang jatuah di rimbo gadang Kok untuang di elok tibo di ladang urang
 
-![Uria Novita - Diseso Cinto](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhc_AFNXFufvojtV2hRhSGGRBqBKRA6l6VVLENYaBE0t6gQVtkjEwMQSAn_jW1sN1PizlSmOSGMBVBdlREGnIxUAMtoalhD_IIUtbe2jgntfqTjoAA3eKjZ-VjB13bJHSPTarfH5GkXPLmJmBGTnkmp8Qtow09l5DMnGHco3dkS0EhoCAwcawTl-qnI0U5H/s480/uria-novita-diseso-cinto.webp)

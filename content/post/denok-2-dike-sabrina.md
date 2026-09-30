@@ -5,7 +5,6 @@ categories:
   - "java"
 ---
 
-![Denok 2 - Dike Sabrina](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmQ0SXnM9fY7EEl_YUJBqZB9QrU2iTZTwMeafvJ93MuD8efraxMOO30EoVpV6jlHLF8WjOJ-T9KdH_q8pIYTlO77wXbzYy7GDpBeUnlyn41ifDnUSFIjSBAVTmUUds9h5ZT3Z1fEZG0j_5qIa9fx7lzCUpVBO4ln-sYLfNe5vK33B85ApkUpIx0akjyemM/s1280/denok-2-dike-sabrina.webp)
 
 Tak anti anti Saben rino lan wengi Mung tansah kebayang bayang Esem guyumu sayang
 

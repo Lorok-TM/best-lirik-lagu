@@ -5,7 +5,6 @@ categories:
   - "timur"
 ---
 
-![Ecko Show - Kase Gol](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-hRnk9RRb4v3IiSJxGi9tcGQzsOszGMVThJW2ukLOKHp4YQXvMh5yRGfsL6GFowGQ1eLoZuxELDHbAOw3HAiYAKW8IOkhSHLgSPULLM7UU6SFt-qAOJ3zrTI1zCQkslK_X9ubdkdD379VaeMmynV09fxTkqQ6xeEhYUmx9j14OHQUK-Gdw0HITdYFsb9O/s686/ecko-show-kase-gol.webp)
 
 Ada kesempatan mulai dari nol Kalau ade kosong Kakak tembak kasih gol Ade jaga gawang Bola kakak yang kontrol Kakak siap tekel Jangan sampe orang bobol Wasit angkat kartu yellow
 

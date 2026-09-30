@@ -21,4 +21,3 @@ Heiii eiii eiii Oiii oiii oiii Heiii eiii eiii Oiii oiii oiii
 
 Pos do rohaku Hu dompak ginjang martangiang
 
-![Solu - Tongam Sirait](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkNLAeKvdmYLjUzBfpmF1b-pW0gfZqCfOsX8jMTuiGi12AbmoBfj3zR_l81c6DM1qiwtNAiqo9X-6YjubUXKQUicoAwB_TSqPQo4SxyEcC4JX95NBux4wvGAqDywA68dkmMPO8jRKsO7qxvx035C4nug5OkBq_sxSPw2L5GlU_ZiVY1qBhMfJwXmAfPmsq/s480/solu-tongam-sirait.webp)

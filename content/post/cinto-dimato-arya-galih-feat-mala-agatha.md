@@ -37,4 +37,3 @@ Demikian lirik 'Cinto Dimato' sebagaimana di atas.
 
 **Credit:** Judul : Cinto Dimato Voc : Arya Galih Featuring Mala Agatha Cipt : Cak Diqin Arr : D'vapro Studio
 
-![Cinto Dimato - Arya Galih Feat Mala Agatha](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEif1a6pUxtkzoa9KO9Op845OQGMpJ09KzoQhyMbXrp_4pI4u_vMAGkzQLnWJToLQBGY8ehyS3NMe77wYI2hHONE8NnaTYzgHouBApHrpkDZvAriNWr0_21elJpgag52gmuxo4TIQy75DCGNEFMyTudU8R0sryFCcV7JKqVXc4Y9UOfMWZzaadk7lBdNBpHI/s1280/cinto-dimato-arya-galih-feat-mala-agatha.webp)

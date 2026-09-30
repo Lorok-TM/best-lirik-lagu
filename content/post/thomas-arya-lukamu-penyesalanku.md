@@ -15,4 +15,3 @@ Ku meminta kepadamu Buka kan lah pintu maaf untukku Beri aku kesempatan lagi Tuk
 
 Ku tak sanggup jauh darimu kekasih Tak bisa hidup sendiri Bayanganmu menabur duri Menusuk ke batin ini
 
-![Thomas Arya - Lukamu Penyesalanku](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRnSWyX5Lg79V8e479lvLiUyIkK6X7Xje7nx5RLEnItnppCcK2MgfRGtyYa_8e2BE-fD_hcVbdWZmNcD_rTzloACWdY7_Ska0uCO_itXuHwA7lXscfcQEtz9xQ4kujYlF0Ast91ko_9B53IZMItkcQzQsY8fMHhu8xSgMZIvWieASScDs799Cnv-MXrmcw/s480/thomas-arya-lukamu-penyesalanku.webp)

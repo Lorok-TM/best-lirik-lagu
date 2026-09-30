@@ -27,4 +27,3 @@ Lanange jagad dadio koyo arjuno Rakakean crito Susah seneng adepono
 
 Ngger anakku lanang Golek o pepadange dalan Ora terus tak kudang Dadio lanang tenan Ora terus tak kudang Dadio lanang tenan
 
-![Cantika Nuswantoro Adella - Lanang Tenan](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBcF9rBP8a5ClBphp4PUHjei_uQQHjM0ZnUXMvx0pgn2rZu26XSjykdzncV-GuP0TdTbYIP14BQZYkAI7Zh4nN2wVif88j4lsRnG4bMnOqdQTIU-ob6Trf9qQJjgL19K4W9JcNJxxZ6zLT24hJvW_lvMpMy5JKFkjNjBS6I_XmGmfZaDXeac3CKO7Moes0/s480/cantika-nuswantoro-adella-lanang-tenan.webp)

@@ -17,4 +17,3 @@ Inong haccit nai anakkonmon Inong lungun nai panadingmon Ai dang mar ina be au h
 
 Ai holan ilu ma na sai maraburan Tu ise ma ale Inong Patolhasonku arsakki Masihol au Inong sihol di podami
 
-![Roinna Siahaan - Tarsongon Na Marnipi](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyvH4SZWogFujI-R9n3rl9JEqPnhTKcAYdHYQMmlEOTIvdFF8J0cR8GdjXfl-ny1tRoopFbif2N_pRsw-N-9-8-JWFmqFeI00aCF8GGIX1EWdcc4gIpFmBiVxyrtCFg-m3jRHBJ0eCeKjvAjBsUWFILnNEPSsUOSAzSV-8aM9w9bMmxqZhewqWX6Pas51S/s480/roinna-siahaan-tarsongon-na-marnipi.webp)

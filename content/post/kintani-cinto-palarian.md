@@ -23,6 +23,5 @@ Title : Cinto Palarian Artist : Kintani Songwriter : Eddy Palangki Label : Elta 
 > 
 > Usah batanam padi Nan tumbuah ilalang juo Jan sampai bamain api Uda juo nan kaseso
 
-![Kintani - Cinto Palarian](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBkUxiJIy0nLzqFFyLTrtYlxXUw8QdiIqxy7uqOEGDZ9eu_2oXTEd1R-vN2XaE0F0TJlhX-VSDvxBAVpww9eoBVHF80hPgPxG1zrwmCydEnOVt_JP216c1Y_6VqoH9ORwHJcyqVY9S8dTmNUee5u13q-0b3P059xhjp1nBiy2T-fvAc2nkODUQ9ZT9bg/s800/kintani-cinto-palarian.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Kintani - Cinto Palarian. Silahkan bagikan juga ke teman anda.

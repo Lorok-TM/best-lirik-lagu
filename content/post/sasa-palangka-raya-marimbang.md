@@ -24,6 +24,5 @@ Title : Marimbang Artist : Sasa Palangkaraya Songwriter : Lan Tejul Production :
 > 
 > Bulan je tarang bintang balawa Imbitku akan manjadi saksi Tumun te auh sumpah dan janji janji Kenyataan ikau marimbang Beken amun jadi hatukep beken amun jadi itah hakejau
 
-![Sasa Palangka Raya - Marimbang](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjJmkZaVm_D3y9aNSyzNZmGl_xkaJivfq7_Y4Qo_9o6QcvoE6dd-jdpZenvm9NYDdv5WE8cXMhNe8WOu7JaGVxaV8dLlJzFhr8jQxK0otdVtiL0ro31aKCy2PJ9ZsS4Umb2IH-teuQnNP32jfWjGvCiHlTse6nqga5v4M3aZmx2aFRR_LUzVDNJazwNQ/s800/sasa-palangka-raya-marimbang.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Sasa Palangka Raya - Marimbang. Silahkan bagikan juga ke teman anda.

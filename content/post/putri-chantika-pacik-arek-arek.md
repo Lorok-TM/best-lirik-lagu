@@ -17,4 +17,3 @@ Nan kok hilang usah di cari cari Nan kok sayang cukuik sakali sajo Nan kok hilan
 
 #Credits: Title : Pacik Arek Arek Artist : Putri Chantika Songwriter : Rezi KMS Arranger : Doni Asben ℗ & © Koko Record
 
-![Putri Chantika - Pacik Arek Arek](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrRJB9PV3ELNk7gDc0ykcIbI0pbGZbZtJKc-NpcaUnhQj0CNl1lNzqCZHEAiRSoB1Puc2xwQeN0lFwsW_lhTYjDIdrjzdF4MbdCuH7rp_HS1NqkgRYeG2_jgfhVQK0d3qKthCbgOomjG41eZ-rKYc3D1ZbgWgd4FAvwNWRaNXBmWal9S3MeNqSglaDHpso/s480/putri-chantika-pacik-arek-arek.webp)

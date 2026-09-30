@@ -25,6 +25,5 @@ Title : Sewaktu Kita Bersama Artist : Ziell Ferdian ft Cut Rani Auliza Songwrite
 > 
 > Maafkanlah kasih maaf Bukan inginku menyakiti Semoga kau dapatkan Pengganti diriku
 
-![Ziell Ferdian feat Cut Rani - Sewaktu Kita Bersama](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfcbm6R8yVnZzNprLtN4j892DMOsPB4WvFURBWdVJD_4NLWs2ZT4tDIuGdEaXWPC-7PbqrLqz2BkgYkRD6DPfhH8Dqq_gn06p4SgECt0vjsL1EW5HIk8Kq8vRlvWF8rNku8JzXS91OsQShrH-312wr06t-GiL4tDCNVVu1d7XigKtlMnTNlD1J0_EQexRx/s800/ziell-ferdian-feat-cut-rani-sewaktu-kita-bersama.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Ziell Ferdian feat Cut Rani - Sewaktu Kita Bersama. Silahkan bagikan juga ke teman anda.

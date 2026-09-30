@@ -5,7 +5,6 @@ categories:
   - "dangdut"
 ---
 
-![Sandaran Ati - Intan Afifah](https://raw.githubusercontent.com/Lorok-TM/2026-08/img/sandaran-ati-intan-afifah.webp)
 
 Sumilir angin kang nresep ning ati Gegowo roso eling esemu Pepujaningati sing tak tunggu Saiki ning endi paranmu
 

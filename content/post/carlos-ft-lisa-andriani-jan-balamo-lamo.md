@@ -17,4 +17,3 @@ Hati bakato di dalam dado Adiak jodoh dari nan kuaso Nantikan denai datang ma an
 
 Den nanti uda jo urang tuo Kok dapek jan balamo lamo Cinto lah nyato ka adiak sajo Sacapek nyo denai tibo maminang
 
-![Carlos Ft Lisa Andriani - Jan Balamo Lamo](https://i.ytimg.com/vi_webp/xzSN5ftcwTI/hqdefault.webp)

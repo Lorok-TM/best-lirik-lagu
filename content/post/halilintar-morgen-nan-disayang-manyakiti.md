@@ -23,4 +23,3 @@ Hilang arah kamudi Tujuan nan tak tampak lai Kamano biduak nan ka di dayuang Kal
 
 Indak di sangko si rigo rigo Pisau di saruang nan malukoi Indak den sangko ka cando iko Urang di sayang nan manyakiti
 
-![Halilintar Morgen - Nan Disayang Manyakiti](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMu38aJdJKv3TCPltHIGlh8c7xPSE12wmc_uVTK9baY_YrsOUzZgdsa37daSonnWiytBDknwYpbjgDZmZ5eGXPR23gCcT5QrqtAE3yO8peG0LQZqTsSJ1Wxb5krdQ9stQKpLlAMvwFY10esQGrWsUhPeaablo478zLGWLz7p4d38Nmz4zgZvOAxmEKHIab/s480/halilintar-morgen-nan-disayang-manyakiti.webp)

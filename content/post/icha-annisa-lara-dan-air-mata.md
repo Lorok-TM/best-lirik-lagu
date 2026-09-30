@@ -25,6 +25,5 @@ Title : Lara Dan Air Mata Artist : Icha Annisa Songwriter : Erwin Agam Publisher
 > 
 > Andaikan mau saling maafkan Orang tuaku orang tuamu Tak akan ada gundah gelisah Lara dan air mata
 
-![Icha Annisa - Lara Dan Air Mata](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0petvsf8x_RhBbLoYUyNFovmpTUU8eZQosf-5Rj01ODV5-kZzPZtNQ5vCI2bAY6cDsYjzFvJvuinVmXDuT6I3eU2d_uggUX5OG5cC9xkRSWISHkl8cYgHAQdPtDcGO6uDoJlzZFaYx50-G1j12LOa5_ZC6Qta7lc1NezoN5i1Eo57FRHr5Wnwu0M9eg/s800/icha-annisa-lara-dan-air-mata.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Icha Annisa - Lara Dan Air Mata. Silahkan bagikan juga ke teman anda.

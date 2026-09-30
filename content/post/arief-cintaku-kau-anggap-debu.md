@@ -14,5 +14,3 @@ Sudah cukup sudah drama cintamu padaku Perlakuanmu membuat goyah hatiku Ku ucapa
 Hati ini sakit sakit sakit kerenamu Jiwa ini pilu melihat tingkah lakumu Terasa badanku gemetar dan tak menentu Saat kau ucapkan kalimat buruk padaku
 
 Coba kau fikirkan tentang kisah kita dulu Coba kau renungkan gimana perjuanganku Sekarang kau pergi dan meninggalkan diriku Dan kisah asmara dulu
-
-![Arief - Cintaku Kau Anggap Debu](https://i.ytimg.com/vi_webp/ztcxG-NCUQo/maxresdefault.webp)

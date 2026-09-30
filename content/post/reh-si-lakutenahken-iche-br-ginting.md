@@ -43,4 +43,3 @@ Go mapakkel aku kuja nge ku jingkangken (aku sudah tersesat kemana kaki ini ku l
 
 Bicara kam pe arah aku enda (seandainya kamu yang menjadi aku) Gejabkenndu ateku ceda (kamu akan merasakan hancurnya hatiku) Sakit nge aku tadingken kena (aku sakit kau tinggalkan) Nginget janjinta kerna arihta (mengingat janji yang telah kita buat untuk hubungan kita)
 
-![Reh Si Lakutenahken - Iche Br Ginting](https://i.ytimg.com/vi_webp/upBQsSCL-9A/maxresdefault.webp)

@@ -23,6 +23,5 @@ Title : Dendang Mandeh Artist : David Iztambul Songwriter : Eddy Palangki Label 
 > 
 > Mandeh oi mandeh maafkan denai Anak mandeh den malang ko
 
-![David Iztambul - Dendang Mandeh](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJy-yTa_aySf1bqcV9KLRyxtaM1zlMFkcC5YENvHoFoP5vpGkxxVbMruAKjnysLQFSzF9VL_mUFf08uE6KW32Txgi6GURZwrYNGNkbenL-FrjQD_S5UHl0SIWxc5p1n1v7e1PysLdycoV2yuW045QykQf-iooVlxbla-p4VVHz2-E5hgQ19MFn5FP89Q/s800/david-iztambul-dendang-mandeh.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu David Iztambul - Dendang Mandeh. Silahkan bagikan juga ke teman anda.

@@ -29,4 +29,3 @@ Kau berbagi saat denganku Mencintai dia lebih dariku Kau berdusta di balik wajah
 
 Cintaku berakhir duka Aku kecewa Engkau memilih dirinya
 
-![Silvia An - Berhias Dusta](https://i.ytimg.com/vi_webp/gU8QFGSKqPg/maxresdefault.webp)

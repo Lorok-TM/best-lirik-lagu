@@ -31,6 +31,5 @@ Title : Sebelum Putus Artist : Maulana Wijaya Songwriter : Ajhay Pasma Category 
 > 
 > Panas mentari tak sepanas hatiku Malihat kamu bermesraan dengannya
 
-![Maulana Wijaya - Sebelum Putus](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAlwBp5DGUVhHCkLGDTb_KKYVQkMhmsRjEp9I0DVBrXoof5Dy3eiQNlsp6jp8Uuw9eaFXFgz4zvz65lA6cDFB8ZJFii5VGjDwkqd16z7y6IbFd1HTlgQjLSmp3q1QvP21DfwaYhLB5zHymG-oC4iXFysnW1hUdLK2Yk-3j4agkGEhDfVqpou4WUtb-Dw/s800/maulana-wijaya-sebelum-putus.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Maulana Wijaya - Sebelum Putus. Silahkan bagikan juga ke teman anda.

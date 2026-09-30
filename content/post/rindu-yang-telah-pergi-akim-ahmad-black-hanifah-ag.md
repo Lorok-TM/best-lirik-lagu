@@ -31,4 +31,3 @@ Aku.. mampu berdoa.. Ini takdir Yang Maha Esa.. Di pagi raya..
 
 Outro : Wouwo uwo.. wouwo uwoo.. Di pagi raya.. ooh.. Wouwo uwo uwo wowo.. Huwo huwo.. ooo.. Di pagi raya..
 
-![Rindu Yang Telah Pergi - Akim Ahmad, Black Hanifah & AG](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJWqNfpF6nkdZQ44AcPNJLxP7XNa14dyMyVHBANIz9oojMTbVTpkQtU6qiYyHu4cPP_QWnZAmU9X9vj_9HoBjZhjxqi2TQA2HIc5rSGTiDoT3pzFl7CcG53ibNAVwMOUZHZysuGxX0ho3PwwHjpG36GpInin06g1GZcEK61qMhvb96LghDr5mAOK8wSG1D/s1280/rindu-yang-telah-pergi-akim-ahmad-black-hanifah-ag.webp)

@@ -15,4 +15,3 @@ Nan marapi namonyo gunuang ndeh da Nan malatuih mangko barasok Alalai abu tasera
 
 #Credits: Judul : Ratok Denai Voc : Uria Novita Cipt : In Dk Arr : Novan Solkey
 
-![Uria Novita - Ratok Denai](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrV8PEqaxmLSghGQbgvBme_XUW7e-EN32T36o_XZyaJ92NSGcJe5YpQeEcpVqn5zaKMQzbyugTv2B2ZVCf5xya6LJ-kLTnlWrnRb-Au9bsUkn2COZjITJNYmbOaapov6Cge0emC1pc8mGFKj4vOkxlrQuAbVjDjZBDRMmrnFdhc_KcTy8av-TJXolu0292/s1280/uria-novita-ratok-denai.webp)

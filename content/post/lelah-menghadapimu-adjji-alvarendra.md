@@ -21,4 +21,3 @@ oo uwo.. huu uhu uu.. Walau seringkali.. kita tak sejalan.. Sakit ini kau tak pe
 
 Huu.. ku sudah lelah berjuang
 
-![Lelah Menghadapimu - Adjji Alvarendra](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjruRY61dQNhFWm3LAOGoZjBWGpUrNr9oUmTQnq_BmsOWtFELtt1M8gknyXc9CzX_F5TaT7VCgzAl50QYGaWzismJhjOl3CgNIrLli5bAkswQ3UvlwCsn47kYkJequV1Y2jZflv-xt8nBZEZuKhZHj80-swTgO0BGk5GM8wMoR8ZGjdS8UPz3pbiH-5V0VN/s1280/lelah-menghadapimu-adjji-alvarendra.webp)

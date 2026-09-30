@@ -25,4 +25,3 @@ Kau kuatkan aku bertahan Kau harapan dalam kesesakan Kau buktikan kesetiaanMu Tu
 
 Kau kuatkan aku bertahan Kau harapan dalam kesesakan Kau buktikan kesetiaanMu Tuhan Engkau Allah Imanuel Engkau Allah Imanuel Engkau Allah Imanuel
 
-![Imanuel - LOJ Worship x Sidney Mohede](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfrzSgqoPFiDEBzEWNd3s7Srwk0Ve-YsMyGpafEN6o5rb3TbhHTas6wFZn0IMOdiwe1ERVeQPwGmBP6N0Bv4kYrPNM6oKp9hkmajHD3YZCGyd9zKKyyYwyDYo-qao7mK92PcWx3dszQTPf6kmW5R-TtbMUokbTAeZF-bPKgobOk70DQ4Dq46HBvlkVtWJB/s1280/imanuel-loj-worship-x-sidney-mohede.webp)

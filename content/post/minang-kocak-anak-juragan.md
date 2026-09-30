@@ -23,6 +23,5 @@ Title : Anak Juragan Artist : Minang Kocak Songwriter : Erwin Agam Publisher : P
 > 
 > Demi cinta pikiran ku tersumbat Uang di laci juragan ku sikat Sial lagi aku tertangkap tangan Saat itu aku langsung di pecat
 
-![Minang Kocak - Anak Juragan](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkZYPdfCXoDDtu82Cj8vTZ5vjA1NkLsGeKsISQOg-JLGmSfmeCUgEPPDih4lXyNZUjDLqRimZq9Q_gxprg4AYDk9a1RuIZx1FkMM_QtaYqT1LMjYi6Myn1xFtZtkteOp3sO7ek_J-DCqQ304oQ7nUGkaGbGq1QFm0gN6nB8MnnTbX2897n3_0hAkDxRA/s800/minang-kocak-anak-juragan.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Minang Kocak - Anak Juragan. Silahkan bagikan juga ke teman anda.

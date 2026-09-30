@@ -29,7 +29,6 @@ Situs bestliriklagu.com tidak menyediakan chord dasar / kunci gitar / Mp3 lagu H
 > 
 > Tiada gunanya aku bertaruh rindu Jikalau engkau tak mencintaiku
 
-![Gustrian Geno - Harusnya Tak Bertahan](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigJNdzJ6ss2vxXxQr_vnrY2imj7npRM9mjkqCKHI59TsDFl37T4hJHmnFFBgVqUbsfqgb6brAYwK8dHeVYiQDwz7RIx7RL746frGym6Y9oqqBLHBJYdanYxonw8MC6DabSiY9-i-jAFl6kM7nDU09QfbM6DEyBw7S_WkXkeNuVC-N-x7gEgd_M4_h8g9rE/s800/gustrian-geno-harusnya-tak-bertahan.webp)
 
 Tujuan kami berbagi ini ialah menyediakan dan menambah sebanyak mungkin informasi arsip lirik lagu untuk mempermudah bagi Anda yang ingin menghafalkan lagu Harusnya Tak Bertahan ini, maupun belajar bermain musik.
 

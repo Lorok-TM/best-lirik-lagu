@@ -39,6 +39,5 @@ Title : Pilih Saya Artist : Susi Shaundal Category : Lagu Malaysia
 > 
 > Bila nampak dia kau bilang susah Sebabnya disini pun ada dia Susah susah saja kamu mau pilih Bagus pilih saya
 
-![Susi Shaundal - Pilih Saya](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi50YVXZgYyYirmFb5ozWDTTInQEu07j8IpwujwFaqQf3mbpeasCUZmPjlQbQ4LK_LP9XG0T4r0J-CAmwaF9lJuuoG3C1asC8Z5Xv5akHTBjY2PwPrPoM49ZXRsf9eonwYiQf67k2pfi2ugXDcQhiephZKFBhroHJUe93niO9P5glXjw5SSIHgcjyFb3Q/s800/susi-shaundal-pilih-saya.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Susi Shaundal - Pilih Saya. Silahkan bagikan juga ke teman anda.

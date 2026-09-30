@@ -27,4 +27,3 @@ Pancen kudu tak ikhlasna Goleka tresna sing liya Timbang suwe suwe Atiku iki sin
 
 Timbang suwe suwe Atiku iki sing keranta ranta
 
-![Putri Kristya - Sayangmu Wes Sudo](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8i5EHK64BeyEhnC_pVxfFXbOWVR5RJdmzjNFM0gY12eHIn5th8Kx6KqAOa6ogHOUE62dbvoAN55rmHlkwOgQqNA0ybYdab8MJ_Z4DZSpj4KoQx09uHRYDRZwlQwTyWel77RKZguhUg-Vrq705i_QVYdhJLUF_IEJuR3gzPjUcIjbWuabvwvT3Trk90UR0/s480/putri-kristya-sayangmu-wes-sudo.webp)

@@ -25,6 +25,4 @@ Title : Ratok Bungo Layua Artist : Anyqu Songwriter : Roza'c Tanjung Studio : RT
 > 
 > Bungo di anjuang barupo ameh Kini cando karek basi jadinyo Disapuah bana mailang bakeh Barancak rono samantaro
 
-![Anyqu - Ratok Bungo Layua](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsGGZU_YytxF87NKQ_qr1Hg9vTsqqf4RgrwqHcVZGcTANFIRI-NBNCtTYcOvWsgk9Ea_g6YnXp2CdrGMvfDjMiFWa2ObzfJlcIpvWvZuIudgt3IU-yZJbEFSseYEhH8SFKqbSidSlWSZqpFwxgV5azBR0ApbvTbzaZlyCPWemwaK35fh11pjlqlVf5Tg/s1280/anyqu-ratok-bungo-layua.webp)
-
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Anyqu - Ratok Bungo Layua. Silahkan bagikan juga ke teman anda.

@@ -49,6 +49,5 @@ _Samapal = Sehari Pun Aku Tidak Cinta Lagi_
 > 
 > _Aku tidak dendam dan aku tidak bersumpah Namun agar engkau tahu Jika bisa Sehari pun aku tidak cinta lagi_
 
-![Iche Br Ginting - Samapal](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEie9BsQc3nK-yNW1TfMap3sDCw0UE7GkAZYVH06XAU-vJKH0Z9KBnBcHgGSUwqV37jubp0B2M-PqjqQLl9iAM-AKbgSYApZeFmTY4NFZjRqpXvbPybv4rqHL2V3iORKncgOuOokIuEMO0Z5gvcjwSSF4zKSDm9fP_H1z-bE8o6zl2efBoyX7WANPSsxuUWa/s800/iche-br-ginting-samapal.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Iche Br Ginting - Samapal. Silahkan bagikan juga ke teman anda.

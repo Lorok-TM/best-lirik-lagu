@@ -37,4 +37,3 @@ Dang tarulahan be i Dang tarulahan be i Nang au pe ito Tung naso jadi be mangoli
 
 #Credits: Judul : Tading Ma Sasada Au Voc : Erick Sihotang Cipt : Cevin Syahailatua Lirik : Edwin Samosir
 
-![Erick Sihotang - Tading Ma Sasada Au](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7aZHV9WQ-EjIMucIWiVfVmsVH-tz8zXEG2nv86a1U6ENnyX42B6h0w3AXMFLsfbEcnPseugZ8Eye1-pYByR_PK8yYeH-Ymp_OsVN9ITJ0iTgUiNy6wOmRB0eiu7csCfN4osAm7ToPkdk_P6g-ZZVi5icZTvNG512dmJ062mK_R6pF4ei6fRmkZ5x4Z8DF/s480/erick-sihotang-tading-ma-sasada-au.webp)

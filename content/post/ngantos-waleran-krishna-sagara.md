@@ -23,4 +23,3 @@ Luas na lautan Luhur na Gunung Manglayang Moal burung ku akang baris di sorang P
 
 Prak geura keudalkeun Prak geura lisankeun Akang nampi waleran cinta ti anjeun
 
-![Ngantos Waleran - Krishna Sagara](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqhFGOFlXz9DogHq5wYlUvNkA97HmYph9sNtLtG9Ek4Rd4rjFypZac_2-RbfSXvWNICubAvROzzwiCJsz012nXEDclN1aU_lTMYzj41INRYL2X0dYChU3G25na9V_tr1k3t5HmrAIRQqrh8prgu2z_kS9T4ksOpZ_Dy_gZSbjh98RWm9rrZs0fdgzjNN6o/s1280/ngantos-waleran-krishna-sagara.webp)

@@ -15,4 +15,3 @@ Di caliak rono ka badan surang Lah mulai kandua pambaluik tulang Nyampang kok ma
 
 Badantang guruah manjalang sanjo Sadang bamanuang hati taibo Ulah dek untuang nan indak Kunjuangnyo sanang Mangko kampuang batinggakan
 
-![Iqbal Mahesa - Rantau Basarang Tangih](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgxyjBARc1adzSacTTZk0RnYgDUMaTw_48FM4EkFHFckgMIn5hyphenhyphenNjDK45x837aezMoR5YG0_emuX2fCDLA9nzo30xYNyef2H213OKUSmrbZXWUZYxXCv__UAoAG6gZgcSsri8Pyxa2Urzh3ufgp155MFPiZlpDYsoCZMSS9lMwQcKEwrWW4YK1dNn4hg0y/s480/iqbal-mahesa-rantau-basarang-tangih.webp)

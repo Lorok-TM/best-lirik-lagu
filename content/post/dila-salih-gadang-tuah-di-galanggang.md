@@ -17,4 +17,3 @@ Usah manyilau sipancarian Kok indak sato jo pambarian Urang dibawah namuah tak m
 
 Kok tagak lai samo tinggi Hanyo sajo babedo ragi Usah maukua bayangan urang Dek lai tuah gadang di galanggang
 
-![Dila Salih - Gadang Tuah Di Galanggang](https://i.ytimg.com/vi_webp/8QRCfFy9-HY/maxresdefault.webp)

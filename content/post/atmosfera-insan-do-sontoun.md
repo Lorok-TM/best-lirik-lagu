@@ -21,4 +21,3 @@ Chorus : Norikot nodi tadau kaamatan.. Miti timung tokou ngawi rumamai.. Kada to
 
 Norikot nodi tadau piandad andad.. Miti timung tokou ngawi rumamai.. Kada tokou olingai kobasanan.. Kaamatan insan do sontoun.. Kaamatan insan do sontoun..
 
-![Atmosfera - Insan Do Sontoun](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzXyTFwtIvZHSUpe4X2d4xo9gM1QlVUQkNXdewZqL0vQx31BnGPHr3mTulHNV8TTlgGd0K0bCzCQIvQp7ECU1U-f7TiK1Q8qXh4vGHdZbjLLSXW85A2FUfhGmdgc25SYWKcEs0nRna0P8abnUgnpdjlV4et5OAwOvNtC6KEmHLr_WggphN0xP7i8OwlQzI/s1280/atmosfera-insan-do-sontoun.webp)

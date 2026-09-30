@@ -21,4 +21,3 @@ Sabana mandalam sampai ka tulang Kasiah nan jo sayang denai ka adiak surang Inda
 
 Sungguah Tuhan indak ka sio sio Lah tajawek doa denai nan salamo nan ko Manyatukan cinto kito baduo Sanang nan indak bisa takatokan Baoklah da tuntun denai oh sayang Baoklah da tuntun denai oh sayang
 
-![David Iztambul feat Fauzana - Rindu Sampai Ka Tulang](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaHU5f9z_fus-GQHcJxTuqEI5j9p4HZsXOPvpybL_FudvCUc3KUjNbecYlZGD98-DRf3r76BSGeqhBkzIz1viDad_b2w42IqNHO4tyOQuW2a3j9qyiOAxAdqVgwSlX-ghU_LY_BznzRnwx6eOoauwU6Oqf2ExAT6-n4_ca6EAGrocOaC3MuDYJkK2UT2jv/s480/david-iztambul-feat-fauzana-rindu-sampai-ka-tulang.webp)

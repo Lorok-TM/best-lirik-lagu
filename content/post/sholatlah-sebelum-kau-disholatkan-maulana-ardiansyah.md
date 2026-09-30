@@ -19,4 +19,3 @@ Waktu kecil kan sudah diajarkan Udah besar kok disia siakan Bersholatlah bila ad
 
 Ya Allah ya Allah ya Tuhanku Ya Allah ya Allah ya Tuhanku
 
-![Sholatlah Sebelum Kau Disholatkan - Maulana Ardiansyah](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhg9fIbUkwJMh57Im7DDW7_e1_-o_wRZ4k4iCwklCgLJGtUGzRjPNOzVLAMWvSDpryL3at-t_kR9CiFrEuczvE1TrywcpbrLYP9M_-S1_xp5Uq5tDEc7oGZ4U5fFIxdnDRcpBg3PCm4McbLnh0UzeUku5v8hoVDi8UMvmLp3GPJusrd9mtGJyFRKnkuOSPV/s480/sholatlah-sebelum-kau-disholatkan-maulana-ardiansyah.webp)

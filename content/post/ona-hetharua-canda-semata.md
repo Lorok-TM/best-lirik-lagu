@@ -35,6 +35,5 @@ Title : Canda Semata Artist : Ona Hetharua Songwriter : Ilham Rauf Production : 
 > 
 > Se pung sikap yang berlebihan Hadirkan sebuah harapan Ternyata yang se berikan Hanya sebatas tamang
 
-![Ona Hetharua - Canda Semata](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLDM8Bc5b5BWJTBVL_TZRtCE5cscoQgDxsUp_uHusU8D2mCPAVB2ClmMcFVtyr93s8WpWgV3FO4SuUGN2z4JjyaeykKbfvgJ7teSIk7RYURZ4TqIIxfjUSYQov2cQxT1okye15rLFDoBB3_OeFWM2QqEXXdgLTGEHJ3GYem1KcAIJ8WyoKY4pK1XTifg/s800/ona-hetharua-canda-semata.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Ona Hetharua - Canda Semata. Silahkan bagikan juga ke teman anda.

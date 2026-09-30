@@ -5,7 +5,6 @@ categories:
   - "batak"
 ---
 
-![Bobby Purba - Unang Be Jua Cintaki](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtixY2xm_y9lWB-lElsF-VRzZfQpgdqC9kbZ1il46XfxcG0I2sPIeiZG3tS0iMM2WfReOVKwjA5OIAE-HlfRlQlNEvNyTQYhpJs5CxHOsCRkzXzU0Ae6lJ4fKBqHxaGQWVlNOxiFSmPOZw45QrXqtGuTia5HdzdY4AhO3vB7xJvz1Do_CS7mCO-dGT6ff_/s686/bobby-purba-unang-be-jua-cintaki.webp)
 
 Dang manghidop simalolonghi Mangida uli ni rupami Lambok ni parekkelmi hasian Mambaen tarpangan rohakku tu ho
 

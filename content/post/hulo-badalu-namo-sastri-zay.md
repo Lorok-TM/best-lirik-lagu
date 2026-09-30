@@ -25,4 +25,3 @@ Demikian lirik 'Hulö Badalu Namö' sebagaimana di atas.
 
 **Credit:** Judul : Hulö Badalu Namö Voc : Sastri Zay Cipt : Yas Zalukhu
 
-![Hulö Badalu Namö - Sastri Zay](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtHGnJ2w5aC2xi3eRsys2RXYsCOZKDKzwZOJQM9vOtzdB2ctBkLagA1K8b6ieAtUdomBKE5kKgouy8yCT1PWUY0rTh7ogWLNBSR7KMylPhaC8TIyCNsNt-JETxr6T0UgooKcj7v0Riu2CGxQyaEDQ7F1eKnOgs7d2DCO6oXNrl-mtIhKqtl92pM51pqhfI/s480/hulo-badalu-namo-sastri-zay.webp)

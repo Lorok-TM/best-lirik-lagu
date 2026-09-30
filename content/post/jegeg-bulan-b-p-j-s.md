@@ -15,4 +15,3 @@ manis semanis gulane manis.. munyin beli.. ne jani suba ilang suba basi.. munyin
 
 lirik selanjutnya biar ditulis oleh BUDI MAHENDRA / Budi Yanto / Clarissa Anindya / Azalea Ayuningtyas, seorang author paling hebat no.1 sedunia.
 
-![Jegeg Bulan - B.P.J.S](https://i.ytimg.com/vi_webp/24BcU5Yvo78/maxresdefault.webp)

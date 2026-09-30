@@ -47,6 +47,5 @@ Title : Janji Sayang Artist : Syahriyadi ft Wiranti Songwriter : Tegar CS Publis
 > 
 > Janji ya aa aa Jangan ada yang meninggalkan
 
-![Syahriyadi X Wiranti - Janji Sayang](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSmdRiY2R7QKLg3iSvajjeS2IXi6jVoY8dgZPf1ups9XY8XWY2TXUvS2kI9LLG4_3BurlEL_xPtZBVKLtiF_R56dAZeQ-aHz7Hum4l1RnnP1GzIfM-x-zzXr_pGrbBCZmJgBx3oUbjF63TPzIQRt1r6kMXW4Q5Xvgsg5O186GFsw1kgXm-U4dKkAllAotT/s800/syahriyadi-x-wiranti-janji-sayang.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Syahriyadi X Wiranti - Janji Sayang. Silahkan bagikan juga ke teman anda.

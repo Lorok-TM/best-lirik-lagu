@@ -21,4 +21,3 @@ Demikian lirik 'Slenco' sebagaimana di atas.
 
 **Credit:** Judul : Slenco Voc : Lala Atila Feat Fallden Cipt : Cak Diqin Musik : Kembar Campursari
 
-![Slenco - Lala Atila Feat Fallden](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEio5t165nGfswrUMFC91L5HA-nHgxUVU-UTo2Qvroudz33GyyKaPVameCk02d5xTkHnDlnRfJP-0pnZLWWJZDahBzoH5GznRXnvzdlCd-oetqpQXbXcUKQs_9CAmXj-_tiOwRlgRTbOKWfSngL2LjsVP3mf0mKG6Sy_54cQKhHv_L6KN1BrbwtLPSnHAdrA/s1280/slenco-lala-atila-feat-fallden.webp)

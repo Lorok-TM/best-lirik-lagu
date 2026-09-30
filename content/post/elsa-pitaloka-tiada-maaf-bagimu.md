@@ -25,6 +25,5 @@ Title : Tiada Maaf Bagimu Artist : Elsa Pitaloka Songwriter : Faisal Asahan Publ
 > 
 > Kini kau rasakan penyesalan Bagimu tiada kemaafan Pahit derita yang ku tahan Sakit ku sendirian
 
-![Elsa Pitaloka - Tiada Maaf Bagimu](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9cNld41defVVwxLGoH5LArSSDtA3yRS_fi8WyLORxJM-3sxkQxhkb327m8HKAeH-pstk6ZEnDZfhFhIeLA1i4j177oFQOR_UWsPZTPNBS4KMP0JrYn8RE3tAfqEJ_s4o1UV5VpNoSumezAiexHRBuiWTWK77u0A30JLBa7Ac_ye4ZWeTCTaopOmX92Q/s800/elsa-pitaloka-tiada-maaf-bagimu.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Elsa Pitaloka - Tiada Maaf Bagimu. Silahkan bagikan juga ke teman anda.

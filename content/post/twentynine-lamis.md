@@ -29,4 +29,3 @@ Iseh nandes ning jero ati Iseh kerep kegowo ngimpi Ibarat lintang tanpo rembulan
 
 Jebul janji sing mbok ucap wingi Mung tembung lamis ing lathi
 
-![Twentynine - Lamis](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiavCQypSHC58THxO0QqCj6alcM2QYL2jSsjUG99BfGObaRa1uOWwELWvyKgaiJQgsLaLDzpX9xnwCT1A11SqLHbjWJkKmFy5m9022YlUwIgV9OgEXpi5wGL3ENnFpdUs6ZATNoZPsfXwJJMyEfjiKzWHqLKr6zf4I4lx6ELyZz9_snFVVWmTpiOmJT88S3/s480/twentynine-lamis.webp)

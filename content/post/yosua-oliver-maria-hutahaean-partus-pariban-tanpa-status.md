@@ -27,4 +27,3 @@ Papan papan apa yang indah Papan bunga di pesta kita Awan awan apa yang menawan 
 
 Beri aku kepastian Jangan cuma harapan Aku tak ingin menjadi partus Pariban tanpa status
 
-![Yosua Oliver & Maria Hutahaean - Partus (Pariban Tanpa Status)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-do690sS1SEV-KcP6P1x6We3FkhNgan7nn4bd1sQjEmrv-NGOk7WaKuYzCqjd6RzlECGIYPyIQDdulteJmAlclIE4x2s4nUe0gwlHoUrFtASycYMycdROdk4ss1f_ODKyUnIJR8tOIJQvT-TEYwFcGH2ai24yt4YzIa03SUTNpuJs1LFIHuAIlRyZp_MW/s480/yosua-oliver-maria-hutahaean-partus-pariban-tanpa-status.webp)

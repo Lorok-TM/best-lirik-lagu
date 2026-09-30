@@ -22,5 +22,3 @@ Sadia leleng nai boi sabar rohakkon Di sasude na masa on Pikkiri hasian rimangi 
 Sadia leleng nai boi sabar rohakkon Di sasude na masa on Pikkiri hasian rimangi hasian Arga do ngolukku di au
 
 Arga do ngolukku di au
-
-![Arghana Trio - Tangis Ni Holong](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgevnhws2AR750W_33n5FtUil1Yfst5srLTGGh5edE1X9P3-_RKS4jfBrxl5iQ_TjWaOKcElaoDzbHif3HQcO4aGPlEGxFVYWi1RcdJfMsUmqsnrEA7ywO1JPb02ZEe4wuYzoJTOdcaVD34b0YEwsQMVAXyat6sR52uapXDVo_aN_b59fSK-GNTFnHRYRdV/s1280/arghana-trio-tangis-ni-holong.webp)

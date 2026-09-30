@@ -5,7 +5,6 @@ categories:
   - "java"
 ---
 
-![Kasetyan Jati - Dike Sabrina Feat Delva Irawan](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2g_qAvMcVuh15rmac-C36FZpwi-deSdoHZgGpagD4B_AxYkJAXNP3UJz2wuJGHLZIVy_D8_-a1dpZqfzfWwRKg8MrH01fafmdO55OcNlOiJf6rM3pPnMRZnVB7huPaXZ8t2b-Eq0RUFa6IaDPl7UU4-7BLzPreskbX7ksv23_3N2bYs1bZajWA8s5SQCa/s1280/kasetyan-jati-dike-sabrina-feat-delva-irawan.webp)
 
 Hywang candra wus ilang citrane Mendhung peteng nglimputi cahyane Riwis ngantheni kapangku Amung kangmas pepujan atiku
 

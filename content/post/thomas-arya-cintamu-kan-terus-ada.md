@@ -25,6 +25,5 @@ Title : Cintamu Kan Terus Ada Artist : Thomas Arya Songwriter : Thomas Arya Cate
 > 
 > Sekilas ku menyingkap kembali tirai cinta Yang kini tertutup duka Ku pinta pada banyangan Tolong redup kan indahnya kenangan
 
-![Thomas Arya - Cintamu Kan Terus Ada](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4FsnfQawjU3akiN4UDOMyi0JkiPuLGeQA2X8U2_burnnB4lGs0TV6mUbDmtxM2m7pR4c1rsNU80rzbLtg88k01tnZROzt-Rjikw5WFb-Eug-KbdDkeLUrR0oXZw9RociCP9LyI-hRkzwZnE5PAdUa5AbtghT8dJuOUoJwimDmlomDtbq7JhQYwyHwTA/s800/thomas-arya-cintamu-kan-terus-ada.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Thomas Arya - Cintamu Kan Terus Ada. Silahkan bagikan juga ke teman anda.

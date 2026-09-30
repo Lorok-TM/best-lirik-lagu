@@ -25,4 +25,3 @@ Talalu candu candu candu Abang ini sudah candu Mau dekat dekat deng ade Abang ri
 
 Talalu candu candu candu Kaka sini sudah mau Ade tanggung jawab Su bikin kaka jadi candu
 
-![Candu - Randy Husain](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJ9iCgQY5RlhtVF0nZMoSjQ3ZeQdd7yhcvus7r9silc4hkFCmRo7OJvHB3AdVvMNITNgWNv7glLcOkMMbmEhnVVWUe4AYA0Owz7-eTNuoQp8x4KvaYPoeKpF_zyvJn89aL9q74pJ-WgbknTWy7XmjmUEp27rjlpqLLgfGm38PqQUw_Inhw-J6YXrwYlHFC/s480/candu-randy-husain.webp)

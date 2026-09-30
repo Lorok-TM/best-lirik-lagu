@@ -13,4 +13,3 @@ Oi kumayan ndak maha bana Saribu bisa bakandak Usahlah uda bagarah garah Kok pis
 
 Jikok indak nio da tulak elok elok Masih banyak caro da untuak manyampaikan Jan balanteh angan da mantang den baharok Kok tapadiah bana ubeknyo kumayan
 
-![Kumayan Saribu - Wawa Naela](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlonAcB2rEGZ12VydjM733YshOprh7aoaqwlHkmd77w3unP3NAN2Gj2GMPUIoqsaw10GUk0sNHu0fJ07eXYbrZbsfW7R-d9n98vCnp3uEOpa2wLy-dzO7V6ijysuvVFA0xMAWSUcvzD-kpKgbDfBpqRcPUw1z8ZEnWp5MTJULKOyu1MzVicjfWxMqlgpeG/s480/kumayan-saribu-wawa-naela.webp)

@@ -27,4 +27,3 @@ Haruskah aku yang pergi dulu Biarkanlah waktu yang Biarkanlah waktu yang Biarkan
 
 Karmamu Karmamu
 
-![Nyoman Paul - Mundur Perlahan](https://i.ytimg.com/vi_webp/Q1gm5J3PKh4/maxresdefault.webp)

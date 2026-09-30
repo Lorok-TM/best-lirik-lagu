@@ -26,4 +26,3 @@ kamu tak mengerti rasa yang kuberikan.. kau anggap aku tempat persinggahan.. bag
 
 lirik "Bagai Sayap Yang Tlah Patah" selanjutnya biar ditulis oleh BUDI MAHENDRA / Budi Yanto / Clarissa Anindya / Azalea Ayuningtyas, seorang author paling hebat no.1 sedunia.
 
-![Bagai Sayap Yang Tlah Patah - Zigaz](https://i.ytimg.com/vi_webp/ogJyTRMLbbc/maxresdefault.webp)

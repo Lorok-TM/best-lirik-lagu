@@ -25,6 +25,5 @@ Title : Zaadul Muslim Artist : Nissa Songwriter : Ayus Category : Lagu Pop Relig
 > 
 > Bekali diri sebelum menghadapNya Datang mengaji atau buta selamanya
 
-![Sabyan - Zaadul Muslim](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVAzpDUMRVzKP6SkefLyRDwVaOYsuOIwku9QGy6q0-h7qeqbG-6RQU2OZ1xnLL8qlUve6HH7v9irsRXXjUKnhh3OQgLr4oK-qN3A3aUSMieMHZVGd7TwEhCucoP67g3hJuSBu5AXHv8Lz_cvKk4U7SMCEvNGfVxOyt4ybwWkDuOe1q9hz2ZlDEC_pK9Dlj/s800/sabyan-zaadul-muslim.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Sabyan - Zaadul Muslim. Silahkan bagikan juga ke teman anda.

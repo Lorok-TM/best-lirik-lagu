@@ -21,4 +21,3 @@ Demikian lirik 'Sembari' sebagaimana di atas.
 
 **Credit:** Judul : Sembari Voc : Yono & Restha Cipt : Yono Bakrie Arr : Restha Wirananda
 
-![Sembari - Yono Bakrie X Restha Wirananda](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYN1BJydLYsH2-sLF4ELPwzWr0OzAbod9lfIc08f-hX3IreM2i50EgzTCcIJwwcD9HSkTf8JjhKv9iYBXLkiI8NmxPxw7YsXtyEKpnRdhx7qdPxr1RbNvpz3qjGczobw0exvQzyjrYWKdwhI3Vs40otHxrSfnuXh6lcQh1dYcDJeATRFZ7krlw23iuVo6Q/s1280/sembari-yono-bakrie-x-restha-wirananda.webp)

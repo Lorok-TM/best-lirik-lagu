@@ -29,4 +29,3 @@ alah biaso dek kami alah biaso dek kami ondeh malang oi antah bilo ka babini
 
 ondeh malang oi antah bilo ka babini ondeh malang oi antah bilo ka babini
 
-![Cinto Kalah Dek Harato - Bherox'c](https://i.ytimg.com/vi_webp/2on_1aUjzAg/maxresdefault.webp)

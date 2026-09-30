@@ -34,6 +34,5 @@ _Angel 2 (Tombo Teko Loro Lungo) = Sulit 2 (Obat Datang Sakit Hilang)_
 > 
 > Mabuk teler asyik Sekarang sudah tidak panik Sakit hati di dada tidak ku rasakan Karena mabuk teler Obat datang sakit hati pun hilang
 
-![Yeni Inka - Angel 2](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpALFDixwwJvXAU3gBBWjI-mBkusqhCYxuq0i0KjH3G90GDEM4yI_3u-RAKJzrO6lFpjXrWuHmdo4FdjXpPHYvNFhcKmzPRyEyxcR7GhnPua8mDoo437wU55PjrIA_ISdGWhNn6JbgqJSV3FLiI8yZa-2ROuK-WhHPuZhyVAbyIrP6OffSbBbfW9_UwFGZ/s1280/yeni-inka-angel-2.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Yeni Inka - Angel 2. Silahkan bagikan juga ke teman anda.

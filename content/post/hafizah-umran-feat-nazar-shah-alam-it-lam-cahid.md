@@ -33,6 +33,5 @@ Title : It Lam Cahid Artist : Hafizah Umran ft Nazar Shah Alam Songwriter : Naza
 > 
 > Nyoe rumoh manyang meurante tameh bajoe Aleu seuramo peusaho seumantok gle Sigoe lon sayang an mate han lon ganto Beujeut meusaho tanyoe troh uroe akhe
 
-![Hafizah Umran feat Nazar Shah Alam - It Lam Cahid](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqpa_jWuzvrupsHs3R79V0yrfJ4GSvQD5a3YO5s1XLjO7cNBW_lIvWyjkMPMWT5rTU0fxRmg9VS2AMxTV_Rd-I9YXDi5nQn2o5WKDyJFCIksHsrxCVI_j_pi2BLtcmN-Px_9ftAJsqKDO-KeaFS_4RMNQiCk9njRuclhBZ78k5mf3RZYmYtYTdXTdCaw/s800/hafizah-umran-feat-nazar-shah-alam-it-lam-cahid.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Hafizah Umran feat Nazar Shah Alam - It Lam Cahid. Silahkan bagikan juga ke teman anda.

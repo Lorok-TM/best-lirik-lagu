@@ -25,4 +25,3 @@ Walau ku tak sanggup menahan egomu Walau ku tak mampu melihat tingkahmu Ku mohon
 
 #Credits: Judul : Aku Tetap Setia Artis : Dadali Cipt : Dyrga Dadali & Boim Dadali Arr : Dadali
 
-![Dadali - Aku Tetap Setia](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgkambWQ5Ot5r-jQTN2_MYmtk9U7hF4SNb0650vIk2A3MkYfGHuk8lajHhB-iS27KTYe_Y-fBwC7chu0roY_wX7hAfuKHXqrxN1zpewMSqi_q-qixQKTsQDmo-UvmWPsrHOL7tjIQpRlt5D5t6MxZGRpAwaCtD-7-IDSNVMpMNvKGUH31tkwAcFLDHJyyS/s1280/dadali-aku-tetap-setia.webp)

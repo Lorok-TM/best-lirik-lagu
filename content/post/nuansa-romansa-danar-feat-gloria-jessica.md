@@ -35,4 +35,3 @@ Demikian lirik 'Nuansa Romansa' sebagaimana di atas.
 
 **Credit:** Judul : Nuansa Romansa Voc : Danar Widianto & Gloria Jessica Cipt : Danar Widianto
 
-![Nuansa Romansa - Danar Feat Gloria Jessica](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUalnJb6QDLGU80pCyKP4qKOdLevQgTf4KYGn6pMEDr8PKsx67q5kLnypDIo13Rs-gEhBuhUcImeHXSs35BPeBBYhKAdRD3U8aEiQcqAzq6IpfJQqmbdDQI5zttAqEGtVDoefstywip1ZDhbf7h3_xuSD-9zz6DAf-K_ka5v-_ymDQmgOKDw2d7oju5gdm/s1280/nuansa-romansa-danar-feat-gloria-jessica.webp)

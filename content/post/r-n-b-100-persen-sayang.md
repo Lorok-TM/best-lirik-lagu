@@ -31,6 +31,5 @@ Title : 100% Sayang Artist : R n B Songwriter : Rendy Penna Label : Nagaswara Ca
 > 
 > Aku 100% sayang 100% cinta Janji tuk slalu setia Takkan ada cinta yang lainnya
 
-![R n B - 100% Sayang](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyAU50OtJQIbXzTokV--V3ILTTzI1JxMhpYBtWEbRHv9vC7L8TLuTAq8J7-bj1mYiXbAww0tkd8b9kns-isjvmVHO1I-vAE1paje-1JWzMtlUqWIjJoqjjsnp5EQnLNp15Yu_tdPwSHHCzD2kYLCeSzsi5pphIoKVapV0m4FIi_GbeF-MgTMhSpq1z0w/s800/r-n-b-100-persen-sayang.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu R n B - 100% Sayang. Silahkan bagikan juga ke teman anda.

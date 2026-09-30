@@ -15,4 +15,3 @@ Sak jembare banyu segoro Ginambar tresnoku jemblegur ing dodo Mung sliramu lir h
 
 Kekidungan gending asmoro Kang tansah tak tembang sliramu ing dodo Mukti selawase tansah sesandingan Mugi gusti paring kasembadan
 
-![Sesandingan - Lintang Kairo](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTxrBhdmR7MQinYGxqJFqMCImcOq3ICca5eXBuTnerk-IRr7SYXGYqHqpQ9fhpam3Jxme3VMKfNyxmghJbpRVNMv4ZuS4HFg6DrIdz-DaazVkOyPKLkVTcmf23R7cBqf9T9767Ul36t2O4Dr8sLTxCuv1AQkzIVCXaqPl8l9eTvIF5pvDX8yX6ahl-2t9z/s480/sesandingan-lintang-kairo.webp)

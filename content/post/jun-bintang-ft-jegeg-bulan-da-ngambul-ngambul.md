@@ -27,6 +27,5 @@ Title : Da Ngambul Ngambul Artist : Jun Bintang ft Jegeg Bulan Songwriter : Gana
 > 
 > Percaya percaya Diolas beli percaya Percaya percaya De je beli meboya De buin sumandang saya Teken ragan tiang Tuah beli ne ade di hati
 
-![Jun Bintang ft. Jegeg Bulan - Da Ngambul Ngambul](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnkGpVnOT8v7SlQ6KFz8OEuVwxkLOi66OeZLGU5qCsFiD7Be6U6LlRo4etEwWrpDGRggKL27TrBiZc1N8zhnvdx3xohNjIqPPQeqEq--U5wzrkChOYjh5z1u-Ez089QhQyCWOKENiomFld0L6_E1g50udFz5d8PQiwfhXLEz5nCFf4oaqMHN4Wcju71A/s800/jun-bintang-ft-jegeg-bulan-da-ngambul-ngambul.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Jun Bintang ft. Jegeg Bulan - Da Ngambul Ngambul. Silahkan bagikan juga ke teman anda.

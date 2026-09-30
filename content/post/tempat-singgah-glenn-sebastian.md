@@ -17,4 +17,3 @@ Beta seng sangka di akhir Beta kalah oleh takdir Sia-sia beta sabar Ujung cerita
 
 Mungkin ini su jalan Luka jika tetap bertahan Harusnya beta sadar Beta hanya nona pu tempat singgah Nona pu tempat singgah
 
-![Tempat Singgah - Glenn Sebastian](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsFLrJbbD1oK7vmjfptFWMFoOtyh9-fF6DBK-C3UwnQc5C3iLonE7krsnR5PEraeIkwG3EtwwhcuyQQ0A52EYu7FWMj7tDiEOQvkHzQGlseKMyobawUKg9BL_bSjGCENJKOvAGnbmSBwBiSUPu5j73QUX3shAvL1ICmlwwVLWhYhx_K23qOIvgpBP9RH9i/s480/tempat-singgah-glenn-sebastian.webp)

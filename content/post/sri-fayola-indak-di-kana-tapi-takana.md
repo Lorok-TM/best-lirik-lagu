@@ -27,4 +27,3 @@ Bak itu manyeso uda putuihkan Balayua kan bungo sabalun kambang Raso ka baranti 
 
 Raso ka baranti nyao Raso ka putuih jantuang ko Den caliak uda lai galak manih juo
 
-![Sri Fayola - Indak Di Kana Tapi Takana](https://i.ytimg.com/vi_webp/9iSmem620vc/maxresdefault.webp)

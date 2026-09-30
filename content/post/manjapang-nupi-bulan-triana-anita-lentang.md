@@ -19,4 +19,3 @@ sana buka mata.. tiap manutup mata.. ikau je gitang ku.. hekau je mikir ku.. tat
 
 lirik "Manjapang Nupi" selanjutnya biar ditulis oleh BUDI MAHENDRA / Budi Yanto / Clarissa Anindya / Azalea Ayuningtyas, seorang author paling hebat no.1 sedunia.
 
-![Manjapang Nupi - Bulan Triana](https://i.ytimg.com/vi_webp/r2w1OFdE6AM/maxresdefault.webp)

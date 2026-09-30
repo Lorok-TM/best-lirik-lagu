@@ -17,4 +17,3 @@ Demikian lirik 'Tuhan Engkau Baik' sebagaimana di atas.
 
 **Credit:** Judul : Tuhan Engkau Baik Voc : Gaby Bettay Cipt : Andy Suryono
 
-![Tuhan Engkau Baik - Gaby Bettay](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHec3JbUStIwkptkB8a2vgLTDTFDPKjZhU5RPxtbb47uCN1nr4jyn-6KdYS-bP7LWuynj0ImLQhS4uBhBBNT4t9EluD40QgDhBmSjohZaHEcDctWJmavmf0MPQuYFBIh5voQE1yw7kZ69hLTbrDX7zLuFM9fAWxGxy5LjQTASc80-W5fW0ogNyvzU15H_O/s1280/tuhan-engkau-baik-gaby-bettay.webp)

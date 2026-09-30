@@ -5,7 +5,6 @@ categories:
   - "minang"
 ---
 
-![Harok Bulan Nan Tarang - Rayola](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidQXcj-8clGnbEw7Lh8lgf5Vb1vcJLBOT40mJ8SOcR4jAMg6RbrfqTBZP2pe95EwoLjpvGHQ2rYexfzTYD6WoT-f1g3RSL9wcAMmNrfeDIUfYsHCtz2jR5A50PzmyLxbcA4_sJjIZggYjp_QSEXPLGJT79zjnxvd-fPP6R3gbYfnIaFz_jkz-kZECIsnBQ/s1280/harok-bulan-nan-tarang-rayola.webp)
 
 Padi den tanam tumbuah ilalang Uda nan dulu pai kini pulang Baribu sasalan uda sampaikan Ndak ka denai maafkan
 

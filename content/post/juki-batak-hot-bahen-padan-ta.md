@@ -29,4 +29,3 @@ Huboan do ho di tangianghi Boan nang au di bagas tangiangmu Holong na tu ho huja
 
 Toho do dao au sian ho Songon siholmu do siholhu tu ho Sude sangkap na di roha ta i Asa Tuhan ta ma pasauthon langka ta Hot bahen padan ta i
 
-![Juki Batak - Hot Bahen Padan Ta](https://i.ytimg.com/vi_webp/b5BqTIqBv2M/maxresdefault.webp)

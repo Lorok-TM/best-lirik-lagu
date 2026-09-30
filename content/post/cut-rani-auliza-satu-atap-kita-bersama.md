@@ -25,6 +25,5 @@ Title : Satu Atap Kita Bersama Artist : Cut Rani Auliza Songwriter : Erwin Agam 
 > 
 > Satu atap kita kan bersama Kan menangis dan juga bahagia Itulah nikmat yang teramat indah Bukan hanya bergelimangan harta
 
-![Cut Rani Auliza - Satu Atap Kita Bersama](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitCfbRNltNpJnSYGC7x06WEHqJiBG4_TUGb5Debc4i0cEVpCaPfiMec3lFOb1iUiKKXqaXleKxxwFkOIgsQQTkC-xeSBuvPn5_m4wu9H305D7K-k9fcxOwBQ44UHVU5GBDljgC0ZBqS4K14PZVMH-FVG-kGByOOrGIwUU_nQWhjM7r_gJS-SwXcJTSVg/s800/cut-rani-auliza-satu-atap-kita-bersama.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Cut Rani Auliza - Satu Atap Kita Bersama. Silahkan bagikan juga ke teman anda.

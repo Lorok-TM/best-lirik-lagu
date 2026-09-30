@@ -23,4 +23,3 @@ O ale Tuhan apuli rohanami Pinopparni dainang naung jomolo i Sai hipas hipas hip
 
 Demikian lirik 'Sihol Tu Dainang' sebagaimana di atas.
 
-![Sihol Tu Dainang - Arghana Trio](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgusfoIntRhtG2X70JqScO9Z0ZcSLTtbAPBslKXzZty7BB_KpV5zNUCJShXqPyoj2c8bGoMZAPwbYOi9oslMV-Mz_RSW26HU1BErHVLStIHK2MtFzy3c2FtUOKcJ_lW7SDcCgIkOZNijshg1mbUW6xyVWdjSo03pluKqejdXwruPzptnm7-szi5dVMrZUd/s1280/sihol-tu-dainang-arghana-trio.webp)

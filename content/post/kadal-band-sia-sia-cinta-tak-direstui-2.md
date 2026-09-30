@@ -42,6 +42,5 @@ Title : Sia Sia (Cinta Tak Direstui 2) Artist : Kadal Band Vocal : Latif ft Mell
 > 
 > Maafkan sayang Aku tak bisa lagi bersamamu
 
-![Kadal Band - Sia Sia (Cinta Tak Direstui 2)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjR4ZY5mJ_pTjLSZMhbbAfOj1y_rGsXkOjX9EKUjwFAHX3DT-1v9rgdmncZMiXBP6AQqE4KrDTYMCE_HgaKmHZc_-Fv87SoFIIYNhi3HYPu8HkVrkruElPEwqK0CGbfn48Cqe38Fcf8ZM4_nTDiHoqcv3xsjHNuhxSBg3WmlRwd_ufdTJVQmEUwi4ChpBJ9/s800/kadal-band-sia-sia-cinta-tak-direstui-2.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Kadal Band - Sia Sia (Cinta Tak Direstui 2). Silahkan bagikan juga ke teman anda.

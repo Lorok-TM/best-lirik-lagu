@@ -19,4 +19,3 @@ Kakang si anak dewa Kula sampe kegoda Bosen rindu lan kangen Pengen bareng sekur
 
 Kakang ganteng sejagat Sesambate bli kuat Katon bae ning mata Kakang si anak dewa
 
-![Dede Risty - Anak Dewa](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-33tQzqrZokwS-XJGoViPJC1n3euBrYJpyZaABgj2Tqgff-vo2Sb0uJZOUkLcbLNso_hoeQXSkmm9Q-6JFQwVeTiO_alwj5Q5f7CICl995u5FAIaBiM2IaLakVUrGiAagyArdf03DXjFcAB09nlgVvKKFB9Q2QXURX3ikpL0awsqK9c7Q6bRglp_Sa9Wc/s480/dede-risty-anak-dewa.webp)

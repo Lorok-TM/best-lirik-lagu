@@ -37,4 +37,3 @@ Andai kalo ade mau Kaka langsung maju kasana toki pintu Bilang sama mama papa Ka
 
 Outrod🎶💃
 
-![Toki Pintu - Ajeng Febria Feat Wahyu Sax](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcG4i8PhAIi9Kl1npcDzZttTWm4WKXJA9cy4lHg44OX8dYDOM1j39O_6HDapntnKeTBup6yHViLmuj5y3fbr1zhtXMnwkLtIEeAus_vqc4cxL4hvrIHCieetE7vYzPyfvZ7sWY8Xy5LE_SWxbKfLl_eKQ2WPUb-GyhqieMqfMaJNBceu_kLu9Rdmhm65J_/s1280/toki-pintu-ajeng-febria-feat-wahyu-sax.webp)

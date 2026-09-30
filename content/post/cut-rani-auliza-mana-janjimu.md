@@ -23,6 +23,5 @@ Title : Mana Janjimu Artist : Cut Rani Auliza Songwriter : Ziell Ferdian Categor
 > 
 > Semoga kau bahagia Dengan pilihanmu itu Tak mengapa bagiku Mungkin kau bukan jodohku
 
-![Cut Rani Auliza - Mana Janjimu](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEja7cTrTIXR6VIWrgURJEO_EyX6Xvq99A1L3l2G1KnRr_lWv83gtZPtdhWl-oHnboNQ-tNB_lEK_491-nXdG7Vv_HXbOGS_i933LlZ3E3tHpsJ6k_zVW4RgVLm-xXa2nPnsm-5xjnxdM7gf8N4gvytsNe2HnUGJT5oVlJIZJZvzC0EzJvW2Jg1eXSWbKh4q/s800/cut-rani-auliza-mana-janjimu.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Cut Rani Auliza - Mana Janjimu. Silahkan bagikan juga ke teman anda.

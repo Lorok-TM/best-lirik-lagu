@@ -5,7 +5,6 @@ categories:
   - "toraja"
 ---
 
-![Ayu Siramba - Rannunta](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiokuCM6VJ1rzh3wga2jA3Fo8tyAmgCDTuqcrh19hGpG8zfXzO-ekxsTbXFEn2XP4MeIyDe8AVzgsAY4Ol2MK7VGT79aJpWRJ7oY73_rtxcrZyuVrFvwc7pObvAerbmhYoxw7-fWpTJQDjbwuc7otDFdA1afc1MdeISMIE8eQudWPpTl6uO6BrDqe-_3Wt-/s1280/ayu-siramba-rannunta.webp)
 
 Kekukilalai tu kalemu Lendu' parannunna penangku Belanna penaa malambu'mu Lako kaleku
 

@@ -35,4 +35,3 @@ Oh bungoeng harom tapeusom Madu dalam oen loen teupat hana Loen teugoda ken meuh
 
 Nan teuh sabe meusalop Gaseh meubalot tanda loen cinta
 
-![Bergek - Boh Lam Oen](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZ5Kg82QycZPKjd38a4xyFNhEeJL58yo2JZuCMzL-p_BCFrWDuoggvwbwLjM5ChTwPash8xNWSG1TGFyR7JpOErRSTkQpoP3jWGUicT5d_d__3S1JxF1KD2_yBmgv7QbPxRQXl3HMqjsX6oqbftUo25pqLcvZXQNgS5h1XarfCKKrNax4RbM-LN8lk86cx/s480/bergek-boh-lam-oen.webp)

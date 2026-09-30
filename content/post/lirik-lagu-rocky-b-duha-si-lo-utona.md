@@ -17,6 +17,5 @@ Title : Si Lö Utöna Artist : Rocky B. Duha Songwriter : Yarman La'ia Category 
 > 
 > Si lö utötöna wolaumö Watola ölau khögu safökhö Si lö utötöna wolaumö Watola ö lau khögu sokolingö
 
-![Rocky B. Duha - Si Lö Utöna](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisTpA_A_KZnFNL2sO-gaWqbUmRcBHW2ehX6RTTwGLLpfQM5uf0J40lT98gnEPUvaSwGIpnsQin2VCVU4vIC3a8E2ORHPhGDPMOYngGesI4qX1jA2YtJXgMrNRI9W6R2Zggzf8vR9z_QLzhjuysjfeHUP39bAob8eVxknvgXN2aB8sTUiu_Tgbw1glB7sdK/s320/rocky-b-duha-si-lo-utona.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Rocky B. Duha - Si Lö Utöna. Silahkan bagikan juga ke teman anda.

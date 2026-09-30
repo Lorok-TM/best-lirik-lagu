@@ -27,4 +27,3 @@ Ciek duo tigo Bapandai pandailah ba iyo iyo Bia hadapi ado nan basangketo tolong
 
 #Credits: Judul : Pandai Pandai Hiduik Voc : Yona Irma ft. Ajo Buset Cipt : Dion Sikarak Arr : Chito Deona
 
-![Yona Irma - Pandai Pandai Hiduik feat. Ajo Buset](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXMr98lyUG_yjp5P6UikVGD2_FJY7QYqHxQT38bxWKp8MazlVmOcsmPQPFM94oczCoKMA91jQjz50dJJDMzASdwIqqTMXYhZo6fmT6Ktp0XzCAcphxeL5oc6EqoqlGM9FK_oD8LVZ6-N5ldAxNHcvKbFG1wagsC0tf7aHDSawY_rAl2BfISRnQmdWuftFP/s480/yona-irma-pandai-pandai-hiduik-feat-ajo-buset.webp)

@@ -25,4 +25,3 @@ Mabuak mabuak lah denai surang Rumik manenggangkan parasaan Uda liek dipandang s
 
 Manunggu mananti sampai pabilo Uda ka manyatokan cinto Nan sungguah denai harokan Antah kok mungkin abih alek nan sapantaran
 
-![Fauzana - Tarumik Parasaan](https://i.ytimg.com/vi_webp/2gXdUJr1WFw/hqdefault.webp)

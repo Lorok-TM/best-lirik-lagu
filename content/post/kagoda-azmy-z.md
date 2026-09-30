@@ -25,4 +25,3 @@ Hoyong pisan duduaan Énggal atuh geura sampeuran Silih usapan roromantisan Nyeb
 
 Pami wengi ka impi impi Pami siang kabayang bayang Teu tiasa di tahan tahan Hoyong énggal dikeukeupan
 
-![Kagoda - Azmy Z](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6DG3aWX6EQjwuJZ-0bTfK-ieeVI3fbUTXnYqSY1eDNq7yYSfEGIFDQVf6-VbzBWnj-VVX7n5qeYeI5xsOZ9ADdGv_kv4IttF6r-55-po_ae8Qgp3dKVHWOatzDakP3gwq9Y0_sOafvGGnDhxXhnWu7gxA0Sq9gHglgDBEMwWpfCBTTCCRsvS3ZoJmaXNf/s480/kagoda-azmy-z.webp)

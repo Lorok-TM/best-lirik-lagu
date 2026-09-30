@@ -17,4 +17,3 @@ Demikian lirik 'Untuang Badan' sebagaimana di atas.
 
 **Credit:** Judul : Pantun Jari Tangan Voc : Yelman Feat Zizi Cipt : Yelman Arr : Doni Asben
 
-![Untuang Badan - Yelman Feat Zizi](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmyT_N6iuKqbPZJTmaaAXehSiymkVxFr_Et6xYPoIPcxqsnz-li1zOjrPPYCb159JTXyOqVGfedMqLzx9LsWZ_O1u-5G0cEyNKKO3CF75YYTZchOYxd6tmCtvSK1Zbv2gFunQx1CYGP45Nrcllg26jfc5C5m2otD2cDjYLZlLbEF7cGSFSsGQ5_Q5_6WHE/s1280/untuang-badan-yelman-feat-zizi.webp)

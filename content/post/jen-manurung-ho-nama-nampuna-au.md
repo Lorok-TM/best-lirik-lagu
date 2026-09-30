@@ -5,7 +5,6 @@ categories:
   - "batak"
 ---
 
-![Jen Manurung - Ho Nama Nampuna Au](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaIWEg3Evgyru0XgHksxceNN9mlwq9CT8fP9cwZX-rEMwIkepewAs-zCfd6RAocRzEvx-0U8VHq_VGDeIVRB1qy0-_gsqMdRb9gqdoIYnYY5yMUZt0JT8eqeAGeB_HcRPCunFkLmXCZDYc9mt47bmyoRDcs_qTyJ_Mhb1B0XR9YWDkGURLAV1Qay29CpIf/s1024/jen-manurung-ho-nama-nampuna-au.webp)
 
 Dukkon ro ma ho ito tu ngoluki Tung mancai sonang Dilehon tu au holongmi Na so dapot au sian na asing i Diajari ho tu au hasianku Aha do arti ni cinta
 

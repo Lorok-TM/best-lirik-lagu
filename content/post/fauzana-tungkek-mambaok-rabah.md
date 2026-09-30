@@ -27,4 +27,3 @@ Antah ko tungkek mambao rabah Tunggak tuo tampak baransua guyah Daulu pai sairia
 
 Iyo baiyo basudaro Samo manjago sarumah tuo Salamo hiduik roda baputa Nan ka nasib tantu batuka
 
-![Fauzana - Tungkek Mambaok Rabah](https://i.ytimg.com/vi_webp/7zNSZSYgxto/maxresdefault.webp)

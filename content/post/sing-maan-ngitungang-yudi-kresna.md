@@ -31,4 +31,3 @@ sing maan ngitungang sing maan ngerambang ane penting idupe liang
 
 tebelin kupinge ningeh munyi disisi apang tusing mekejang bakat itungang
 
-![Sing Maan Ngitungang - Yudi Kresna](https://i.ytimg.com/vi_webp/lqlBDjM_6Z8/maxresdefault.webp)

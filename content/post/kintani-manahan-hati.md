@@ -13,4 +13,3 @@ Bara ka padiah raso di hati nan ko Manarimo surek undangan Den cubo juo manahan 
 
 Lah den cubo manjauah jauahkan angan Uda pulang isuak datang maminang denai Nyato nyo bakicuah denai oii sayang Babimbiang uda jo nan lain
 
-![Kintani - Manahan Hati](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbqOCg3_KXy4HGtWQgXs98nICVg7EZxzeGiVHqgJfp7h6KNlePVWlIhp_brXMfgpP9Vvgpa5lmsmxCrvoJicM34Yie1LvdE3apY5QXkx-_3qUWxM5_-Z6n9ZvpcDfBvqkEC_VKkp9iQ-RE6mDRFXsWnIz5BQBclO-LMmVyC_GWXOAsLV7g5PcUjpGsa1X7/s480/kintani-manahan-hati.webp)

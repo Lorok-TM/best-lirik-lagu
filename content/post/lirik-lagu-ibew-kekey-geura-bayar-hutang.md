@@ -21,4 +21,3 @@ categories:
 > 
 > Enggal lunasan lunasan hutang salira Iraha iraha iraha atuh lunasna
 
-![Ibew Kekey - Geura Bayar Hutang](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWdYflKqk6tvKcZeznKQ7p3rwxiSFPJSMbIph0IfdF3tLCylEJHwE3lxcaFEkQyDxTyqEaKETf0leLae1TrQxbIlVWtSA2wYKCS0pGbKVFNH2Gml6w68803_D-6nkpGPebsp1_EfyVDVplOh_w08u2JP2DYBKlEQSXboKdbwkPBrpNTK6KY4xTRLa2Dg/s320/ibew-kekey-geura-bayar-hutang.webp)

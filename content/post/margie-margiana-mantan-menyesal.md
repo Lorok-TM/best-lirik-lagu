@@ -23,6 +23,5 @@ Title : Mantan Menyesal Artist : Margie Margiana Songwriter : Dek Artha Producti
 > 
 > Yen sube ngelah pipis liyu Selerane sing buin kamu Yen dompet tebelin kayang gobe mesalin Anak luh tinggal milihin Cen kal menin
 
-![Margie Margiana - Mantan Menyesal](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHgroWPtapoVXtMHrSHDrEq9TrrgGyb4nDdOhPiujsEaEXLTSVhhurLk29K2MA_Pn-FVlfvuYHxzeAYyjWE6cHWV7sv3JDj6Qjnloi10cL7yrvv0vGeeSInu9JHupBq-Bl7qcs9Z0DeoBx7LrPRQJIo_Z9wLmxUxfTcZ_HvZUBOEcz91IMd3Qi_Szvwg/s800/margie-margiana-mantan-menyesal.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Margie Margiana - Mantan Menyesal. Silahkan bagikan juga ke teman anda.

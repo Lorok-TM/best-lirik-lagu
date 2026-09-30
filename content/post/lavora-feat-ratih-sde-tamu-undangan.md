@@ -27,4 +27,3 @@ Kowe ra tau peduli Sedangkan de'e gemati Sampai jumpa Goodbye sayang aku rabi
 
 Minggu esok adus mruput Gas tipis ning resepsimu Nyekseni ijab kobul koe ro bojomu Statusku mbiyen pacar saiki tamu undangan Kelangan koe aku oleh ijol prasmanan
 
-![Lavora feat. Ratih SDE - Tamu Undangan](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5xYQN3nvjuslOEn9pdCDmUOwL2ovFLclyZK1Z3Km0eFz0nlPDqg4_d2Z9NN-PDDi3GmYxZyjUQQdTBYSOEH55aJLha_TB0fpt5B7A_5kJd87Vq2YJDeETksBjBrB36dKBbtvMd6W5y7OMs1t6KrvC6ZM7B5Hek6aRKlhhyo6IXHR-d8vX4JzXHorT6A3e/s480/lavora-feat-ratih-sde-tamu-undangan.webp)

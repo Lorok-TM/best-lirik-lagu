@@ -31,4 +31,3 @@ Aku pancen ora sempurna gampang terluka Tapi yen wes bab setia aku juara
 
 Cobo sawangen sitik wae perjuanganku Bayangkan jika cerita kita ini Bisa membuatmu bahagia
 
-![Silvy Kumalasari feat. Sadewok - Ropang](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOUVvtHe6EBlz8OnDDsstkVGou4gHLJ7SHnCC5TN69NDW1VhtgePuACgkePX3BKWEm94IzVuIwwmMCFWXYObPeFMga35iqCdOZ5b6R3pZzO668pWtAt_-wihPTlI5AtljxXW1Giud3PWC_AfJvMgT5UFzuJj4kz89eiksqwMtvcUVpzntIAWSLcmVOp19W/s480/silvy-kumalasari-feat-sadewok-ropang.webp)

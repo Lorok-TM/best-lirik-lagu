@@ -19,4 +19,3 @@ Semakin jauh semakin ku mengingat mu Kalah benci dengan rasa rindu
 
 #Credits: Judul : Kalah Benci Dengan Rasa Rindu Voc : Thomas Arya Cipt : Thomas Arya Arr : Decky Ryan
 
-![Thomas Arya - Kalah Benci Dengan Rasa Rindu](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiV6x1u9wgBXvcJmeLYleH90sU1qpWFY70co35nOjCII1TmUm8kkVLGQ2w0hjmiPY8pyYh8T8WPTrSa_Tw9XiZdIZOKm9tsCkCGD88j1-J-NC41MryzGb1lFXDKFNYgqCk4TCNQPx11lJcy3xrIc8akcS3ENOxMVMcNeh6YzsetGCF76ugHJuDrdsjCb1LY/s1280/thomas-arya-kalah-benci-dengan-rasa-rindu.webp)

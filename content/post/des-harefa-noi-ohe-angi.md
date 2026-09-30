@@ -25,4 +25,3 @@ Fili fili khöu akhi Si tama folisi He tödögu omasi Lö saatö khou nakhi fate
 
 Fili fili khöu akhi Si tama folisi He tödögu omasi Lö saatö khou nakhi fatema li
 
-![Des Harefa - No'i Ohe Angi](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCYDBW3cZQmNH_0oWGKp9QZwq0ae7-R7tIRH3ZGVbUI-m8KsWVZu5O3FiH2wl-0LG7pUCFsmXWs5tEmyJWp-2G6y5aCEkPtmtPb70KxvOQKiSqLLgAco5DqLODPvMr0glcHbmf-JNl-gi6_5TFFlHwwLsU6Jk5vGyUsGLtsrkyEgx4u6x7Ef_7nlLRmcYR/s480/des-harefa-noi-ohe-angi.webp)

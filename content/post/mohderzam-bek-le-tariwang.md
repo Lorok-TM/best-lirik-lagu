@@ -21,4 +21,3 @@ Awai geu tanyo dalam bahagia Sama tajaga hubungan cinta Teutapi jino dinda yang 
 
 Hana lon sangka hana lon duga Ureng lon sayang carong meusandiwara Hana lon sangka hana lon duga Ureng lon sayang carong meusandiwara
 
-![Mohderzam - Bek Le Tariwang](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEQLKWhTkpeHMjvpb35rdJ9CV1rsz_HpoKb354iHi9X4GmGFOrpT3LenTJiFtQp7PRvtpTuuPxGFUcNzUDPNKXAEC_GVkUzISkxIr-KzmV4YHo1NB1cM58FHUIlzCDqDkBWxgHG9bvwbGHMkH5X9CyrJ6y2GTgK5JQnL_UBvvARnNwwlpX2VGtQcz5GHUD/s480/mohderzam-bek-le-tariwang.webp)

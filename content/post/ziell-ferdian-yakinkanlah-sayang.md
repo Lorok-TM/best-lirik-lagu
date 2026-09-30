@@ -5,7 +5,6 @@ categories:
   - "indonesia"
 ---
 
-![Ziell Ferdian - Yakinkanlah Sayang](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinAletAXbB6g5WqTYV7Mr3l1YUURVGU2DYwp87A0r1dmpRfgVK6ficxn0KoJqhpclTtSYdCpnCAt8InjHjZWvfSiY3iSpKcUddTNOFK3DuiZ_1XZtgCi0F3St7WNXgLFh1egongzQ96-kNvFY_UrjAss3b8heMUQyeMl5XOnbbMIygl6zS8Szh0W5ZR45j/s1024/ziell-ferdian-yakinkanlah-sayang.webp)
 
 Mohon bersabar sayang Suatu saat kita kan miliki Bahagianya dunia belum Saat ini rezekinya Aku di sini berusaha Terus berusaha dan berdoa Bahagiakan kamu dan buah hati Rumah kecil kita
 

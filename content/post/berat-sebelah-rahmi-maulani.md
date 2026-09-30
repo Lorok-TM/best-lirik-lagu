@@ -25,4 +25,3 @@ Biar aku tenang dulu Tiada yang kan mengganggu Tak ingin mencintai ataupun di ci
 
 Jika nanti masih ada Cinta yang sebenar cinta Pasti akan ku buka hati ini pintunya Agar dapat cahaya
 
-![Berat Sebelah - Rahmi Maulani](https://i.ytimg.com/vi_webp/kg1eH469gKc/maxresdefault.webp)

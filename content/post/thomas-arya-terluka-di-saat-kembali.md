@@ -25,6 +25,5 @@ Title : Terluka Di Saat Kembali Artist : Thomas Arya Songwriter : Amri Damanin P
 > 
 > Kerana dia yang bertahta Kau campakkan diriku ini
 
-![Thomas Arya - Terluka Di Saat Kembali](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNVJUP8LK3wsShqchdXi03S0ibo-Mzp5a32k57ChOd-GENCKJTnYTj7TtY6xIv65H0y5GintlLpci6gE1iHpuBU9BL4PH13mY9rVkoqQ4N6vqRmMMaGTh_Cww8MlCV5pukWIV31VqxEU40Dqe3Lo5ZIrDWRBaSnt5Gg1nV2XVN7p7StaPPKOLl-C6kSw/s800/thomas-arya-terluka-di-saat-kembali.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Thomas Arya - Terluka Di Saat Kembali. Silahkan bagikan juga ke teman anda.

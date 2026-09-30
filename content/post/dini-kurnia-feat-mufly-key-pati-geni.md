@@ -29,4 +29,3 @@ Gunung raung sepiro duwure Arep sun langkahi seru kangene Sun puasani ngebleng p
 
 #Credits: Judul : Pati Geni Voc : Dini Kurnia ft. Mufly Key Cipt : Wiroso Arr : Mufly Key
 
-![Dini Kurnia feat. Mufly Key - Pati Geni](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjV2HAO6Gn9OUehEz8MF_ukwwThMAD2xftnqLW46aoYhoKyrvb-Z823lWFgONOfaNozltiZOYa1DSYg_Zw3t7iWUfaXLqeFgV_ozr_SAZTeFP8JXncEfvXy2lXQjINiUxvRuS1c7uJ8qqbU1QmNHueInPEArownOznp_Ms46TNvJuQ2xwnq-QMPowpK4i-v/s1280/dini-kurnia-feat-mufly-key-pati-geni.webp)

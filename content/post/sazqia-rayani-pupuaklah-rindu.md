@@ -23,6 +23,5 @@ Title : Pupuaklah Rindu Artist : Sazqia Rayani Songwriter : Erwin Agam Publisher
 > 
 > Sayang jagolah cinto kito ko Tanang dihati raso picayo Nyampang kok ado bujuak jo rayu Kanalah diri denai nan marindu
 
-![Sazqia Rayani - Pupuaklah Rindu](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnRtH8w2IXrt881yA-LPSXPFeIqDgwzLgtLwXjo3b_EIqjqxFCwnF3wae_pPRwSzZGcbPwu0cqGd9QEjlEjL2gHGncflgaFLsOwzoVGV-PjwINHLoSuQVSYpACIjtzfgx0ubuH_Gf6V_dRD_yh_nPhvYJWSCWJHLr4w1SKzAoYg_ne6zFL5HckWcuToQ/s800/sazqia-rayani-pupuaklah-rindu.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Sazqia Rayani - Pupuaklah Rindu. Silahkan bagikan juga ke teman anda.

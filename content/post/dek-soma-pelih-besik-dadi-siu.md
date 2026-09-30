@@ -49,6 +49,5 @@ _Pelih Besik Dadi Siu = Salah 1 Jadi 1000_
 > 
 > _Tidak semua lelaki itu bandel Siang hari bekerja dan malamnya jalan jalan Untuk menghilangkan gundah hati_
 
-![Dek Soma - Pelih Besik Dadi Siu](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicKhSmABUZ-UheaftRpdHcw8Hhrdac2DeHgdpadsb4_cFZVmtnaLfR_keBEODrNpuSkEWrkObQPQjRLeQNusiPFZgEYQgnBzkzKF6XMlk8qBjpoCu2kwxLuK2jWiDFkxRdcHIh4ypaiJ3G4fBgD0q4bybJllQfM93gm7k2mbWKjDKOJGUFBReO-w_DrQ/s800/dek-soma-pelih-besik-dadi-siu.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Dek Soma - Pelih Besik Dadi Siu. Silahkan bagikan juga ke teman anda.

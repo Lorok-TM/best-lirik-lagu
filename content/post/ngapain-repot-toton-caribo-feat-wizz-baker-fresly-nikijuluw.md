@@ -31,4 +31,3 @@ Aman saja mo ngapain mo repot Jangan sampe tua turun dari freeport Honeymoon di 
 
 Ko tolong bilang cinta ka tidak Ko cinta ka tidak Jang sampe dukun bertindak Ko tinggal jawab mau ka tidak Oh mau ka tidak Jang sampe setan berpihak
 
-![Ngapain Repot - Toton Caribo Feat Wizz Baker, Fresly Nikijuluw](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiN7N1Iv2m_iL5j9R6xvXAQ9jGyXhyFlqgp_q8GYoCJN3k6GueRK8r0M5TITWd8tp2z5sXca96Xtzk4rz6o1jO2wRjC0BLjlEmL_qQGgQ81BvuXxRQEZGh0buP2pcVS0trtYdffOD6cfBv0y5LJ-BQ4SqvbzRGh8pLXzCxtd3npbSFUc-SLSph4jxkUVQ4R/s1280/ngapain-repot-toton-caribo-feat-wizz-baker-fresly-nikijuluw.webp)

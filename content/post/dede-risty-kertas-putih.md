@@ -27,4 +27,3 @@ Cuma selembar kertas sing putih Sebagai tanda kenangan suci
 
 Kegugah sajerone kalbu Rasa gundah kula nahan haru Awan bengi sun pengen ketemu Bayangane sang pujaan kalbu
 
-![Dede Risty - Kertas Putih](https://i.ytimg.com/vi_webp/AvSQwQuMgcE/hqdefault.webp)

@@ -41,4 +41,3 @@ Sing gawe nyesek Kawine karo wong parek Tiwas sun setia Pilihan terakhir kakang 
 
 _Yang bikin nyesek Nikahnya dengan orang dekat Terlanjur aku setia Pilihan terakhirmu bukan aku Ternyata aku cuma buat teman kesepianmu_
 
-![Dian Anic - Batur Kesepian](https://i.ytimg.com/vi_webp/K0_zEBhzRl0/maxresdefault.webp)

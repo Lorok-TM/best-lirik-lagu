@@ -23,4 +23,3 @@ Andaikan aku bersalah Maafkan sayang Usahlah sampai menjadi dendam Sebagai insan
 
 #Credits: Judul : Ucapkanlah Voc : Thomas Arya Cipt : Thomas Arya Arr : Decky Ryan
 
-![Thomas Arya - Ucapkanlah](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqGDQMglIMtWUZQwAvNnyiCF-hPWhAGzFmNvItL8dTbL3vthP8CNVUQUsMum1TRBVPzULtm67rUbCxWT3QkDcMNpZKx4mZuT8egzEf-Sn4SJ3pqvi1sNHp9Pa517ndLFVk1OZ-V_ZaAXm73gfc-EjlGt0FoLxz3GX7lCRPazHA7TtuunZlmn0eWlVeqqcv/s1280/thomas-arya-ucapkanlah.webp)

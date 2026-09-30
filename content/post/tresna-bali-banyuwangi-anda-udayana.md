@@ -31,4 +31,3 @@ Saikine rosone tinggal kenangan Mergo roso iki kabur kanginan Sukat adi ditu mog
 
 Depang sube pejalane tresnane jani Kale parba nanging darma gah ati Saksi tresnan beli tekening ragan adi Anyud ring selat bali banyuwangi Pupus tresnan beli ken adi
 
-![Tresna Bali Banyuwangi - Anda Udayana](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgib2ZFSqb2KzA8yFnJ3UHix6bMh0eDMdoSGPSWwPgVyG0EpNMh2cpfABJbpNLsqAv9dtRVu5YbSlM6NWC2yvfL3Kft6etyoVz-9Us8OgHElw3DBrE4JuzMRf9JnMMmpxEeP2rV77C8lvLu3Q6xJulCDbJMYUWuAvs_4-McnE2rq2ENzBLRyA4halWiFRl2/s480/tresna-bali-banyuwangi-anda-udayana.webp)

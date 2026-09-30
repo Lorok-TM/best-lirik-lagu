@@ -21,4 +21,3 @@ Ngagai nuan ti udah datai Meri atiku kelalu anchur Terima kasih kala ditisi Ngar
 
 Ngagai nuan tikala keran Ti udah ngasuh ku labuh Aku nguji enda ransi Tang diatu atiku udah redak
 
-![Suman Ka Aku - Phoebe Chloe](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOjsEZe_5DH6e6_XmnXoMoIggKXnvhCe3WbvKDNb8AHdHIasaeA7P-DiFd2VjVorGHKVPMXlHCzF_OzjGNeWcFXX5v-REhln-zWcS0KPftxuOjsOM1RjZgeARcaRqgkEWV6YOyCe1RVAoUgMaWzXzx7fWFY5sXSa60IxDimFk8LJiKW4FsIDbj3cDmiEqz/s480/suman-ka-aku-phoebe-chloe.webp)

@@ -46,6 +46,5 @@ _Ora Mampu = Tidak Mampu_
 > 
 > _Sudah coba ku lupakan ternyata ingat terus Malah bikin resah dihatiku Tidak mampu aku melupakan kamu Hati ini sudah terlanjur cinta kamu_
 
-![Via Amelia - Ora Mampu](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1eR3FbW59QnNYaalzwMGG15TBwkeXr1LfNcK5DAXy_f_ZQU-z9oXU2lrUi8Q0YlMQU5JD5AakNj7Y85h0wqpS0lygH7UQkrmo4DSgCjUaabnJicY4IN0Y8aX9LTF55a0xqlRXNTY2RqFasMZdpOZ4M_SStGtsPSS4CpACvH10wsIEAArEovY_fN90EUI4/s800/via-amelia-ora-mampu.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Via Amelia - Ora Mampu. Silahkan bagikan juga ke teman anda.

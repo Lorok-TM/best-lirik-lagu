@@ -25,4 +25,3 @@ Apo guno den batahan jikok tasakiti Batambah luko dihino nan malang ko Alah rand
 
 Bialah lapeh janji nan kito buek Usah batahan dari pado tatakan Den rilakan adiak jo nan lain Nan sapadan Rila den rila kan
 
-![David Iztambul - Manambak Kasiak Kabuluah](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgB_0eJr8PV1lMUa-eqt1NG-XWnsnEPW46FAf-t035o_DX0hWrL-nuD1L6JrwHlWTsx6gK_asooISJlAGUba8lnc6NgEK9L4RCvIrETZUC0Q0mkwN5cmsxvKXMoy4LzgGJMzhm7Um5b6ucwoVBT3nErc1v1svAZNUBt8XYlNfkMZtraMLLF58gERbFA0WTl/s1280/david-iztambul-manambak-kasiak-kabuluah.webp)

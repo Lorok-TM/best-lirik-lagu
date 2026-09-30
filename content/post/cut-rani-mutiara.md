@@ -5,7 +5,6 @@ categories:
   - "indonesia"
 ---
 
-![Cut Rani - Mutiara](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSmw1kctUgyZ3GJh9gIr0aFQKoR0cdD7sFXlCmSI3gzCG8SnN9uBYFFMuiNSnK4LLAMd2pTPqeHx60qYrdi60qyK3_Ps_LxDs9njRQYGNQ80Ehej94dLii6DS2yV2kyUXCBZX_LFIDeXaB_iiyb9fOJc_nIxl4UW3p2l8kUpDXFo6tG-7Rx2bhg0uVDreH/s1280/cut-rani-mutiara.webp)
 
 Engkaukah mutiara itu Rela kuselami di laut biru Tingkahmu bagai purnama Paras bertaburkan cahaya
 

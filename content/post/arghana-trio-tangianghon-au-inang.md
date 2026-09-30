@@ -25,6 +25,4 @@ Title : Tangianghon Au Inang Artist : Arghana Trio Vocal : Swandy Silalahi, Rube
 > 
 > Inang posroham di au inang baloson hu do sude na burjumi Inang huingot do sude nai poda nanilehon mi tu au Burju maho amang nimmu tu au di tikki lao paborhathon au Asa jumpang naniluluan mi diramoti Tuhan i ma ho
 
-![Arghana Trio - Tangianghon Au Inang](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdL-rBJfd3mr0j1g7E3F5vNs_n514HoZ4EzzB6SSNwHDv5NDmiWM4qFmPhsxvE_uZhGi7J2d1IwxgutzkC14MjZZT9adTiLtLlBEJfBuRWH7LYb7wgLRpdtTH2qvnSH6TRPOhlduyJmbC9KymMWxExrHgwcp3Z4-iQmpMhMDVC9ONdB0oIq__AjjyHCA/s800/arghana-trio-tangianghon-au-inang.webp)
-
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Arghana Trio - Tangianghon Au Inang. Silahkan bagikan juga ke teman anda.

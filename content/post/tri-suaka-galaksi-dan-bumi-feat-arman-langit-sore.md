@@ -17,4 +17,3 @@ Seperti naik rollercoster Berdebar di hati penuh adrenalin Mungkin kau gemini Be
 
 Demi dirimu aku rela menjadi semesta Yang akan selalu menerangi Jika kau meminta akan ku lakui Asal kau bisa bahagia Demi dirimu aku rela menjadi orang bodoh Karena mencintai Seperti galaksi yang menjaga bumi Demi kamu aku rela Demi kamu aku rela
 
-![Tri Suaka - Galaksi Dan Bumi Feat Arman Langit Sore](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjzGNCTQApgUtIZy2kA5WtDkI8hD6foMLqvarJ4Q_PvhLXxxgTm8UCIb6YOK2JZ5ULvi4MK66L56VVBQr-hBVJtFcn6cYBIMV_k85Ku4Po-7h_uVR__xDTXOTL8wup6yeFCjGy0kWvvqaVyhsV3HNU0hWd-CkGcv4DSknsOBqqfgNc67FLXgifwySAAvAO/s1280/tri-suaka-galaksi-dan-bumi-feat-arman-langit-sore.webp)

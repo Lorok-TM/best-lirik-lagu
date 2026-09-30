@@ -23,4 +23,3 @@ Nan kok hilang usah dicari-cari.. Nan kok sayang cukuik sakali sajo.. Nan kok hi
 
 Nan kok hilang usah dicari-cari.. Nan kok sayang cukuik sakali sajo.. Nan kok hilang usah dicari-cari.. Nan kok sayang cukuik sakali sajo
 
-![Fira Addinia - Pacik Arek Arek](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxKMxC5lvqNCbZZ8X3674PdxQSLYb0CVc5FtmZpoEU9JHGX9llnzEaE0Etp-HKsVNUBc_h3lFlflmrNS4hAkh-yE5kSTeM8-9dHkvOSbL653_dcvpjmh_JF2c07OV8hCM8B6D6MV7Qve_-NOSpChEyHzHzhTvbfEFgniTrxK-jwJ2he-pV8qtsLaAbeHRS/s1280/fira-addinia-pacik-arek-arek.webp)

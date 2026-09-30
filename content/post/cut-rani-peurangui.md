@@ -29,4 +29,3 @@ Lon neu pedaya neu bri harapan Wate ka bosan laen neu mita
 
 #Credits: Judul : Peurangui Voc : Cut Rani Auliza Cipt : Wanda Hasyim Arr : Iwan Romeo
 
-![Cut Rani - Peurangui](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYQr9paN5-BYsjuTQUnO9SuIpJeQiZCCRJaMZ_kjGW0VyUNOBmnUAxwtMQtm49PvgvA68VGCsc3vGTPTFbADRZTAmim26u9Qgiz9uimQAJw04XVt5VAvkcWfxpR3s5xgac0SrInZ7WPHsidG7mzyJpQrvaeTQB6dg1X5EOUFAnJ6ZtS5N5CFewrm1NXyAD/s1280/cut-rani-peurangui.webp)

@@ -17,4 +17,3 @@ Title : Penghianat Holong Artist : Lamjeges Trio Songwriter : Serli Napitu Categ
 > 
 > Lao maho ito lului ma na asing Nalao mangganti au
 
-![Lamjeges Trio - Penghianat Holong](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBp7f6e-zYPPslED-qHYpbmuDAvMb_NMgZhAKG6l8CZlH96ltvnRjELYCxzxson1OiS_oiZbwfKvNrIudoZxL9zOtqqAbfajbqonNUrog49qcZVXkvTMapCDoyeUwcxh_Z25AbvoQV33pomrYroHIuqX9WJMajfgNIl8EoPBnl1an9Ee5GNRhjeoV9gVwY/s1280/lamjeges-trio-penghianat-holong.webp)

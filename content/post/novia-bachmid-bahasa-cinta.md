@@ -37,6 +37,5 @@ Title : Bahasa Cinta Artist : Novia Bachmid Songwriter : Pay Burman, Dewiq, Novi
 > 
 > Ku ingin kau slalu ada Bersamaku Di setiap waktuku Ku ingin kau slalu ada Di sepiku Aku bahagia bersamamu
 
-![Novia Bachmid - Bahasa Cinta](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRVfx3VeTLKl2MT2d4RpzV1zU7ufBRcxdbvrt6VpxgYWbhUBvtoHmz0M66tSzITOqFopqWGedJgEwnMAJAOpYE0bqEUF6baR__wAQlR6TaUyTX7ZO0xnW55HnaQOhHfRowI0DMz29PuXtDN2CBqRRGon1BPsT0Bc7UZoOnxBPf0AnDZZJWxvobdm-MsQ/s800/novia-bachmid-bahasa-cinta.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Novia Bachmid - Bahasa Cinta. Silahkan bagikan juga ke teman anda.

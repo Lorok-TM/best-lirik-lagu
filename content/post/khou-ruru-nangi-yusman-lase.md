@@ -5,7 +5,6 @@ categories:
   - "nias"
 ---
 
-![Khöu Ruru Nangi - Yusman Lase](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUTmnd_r_nE7ov8BJcBz9kM5SqOIFFtHtoLTbzjhqCZgwfWqb4-juKOq0lsEkA_-rI2SNWsnbr5HTmbV9pC364faSOma5VBDuqwibjuY8HEUQG-Z5x-0Do18HlFQpVAYQImIuxJDxYIlceYI6Y_EvVPYhwA1NMng7aFgeN68r5p4Z24oQJCEWsyEsSVn1X/s1280/khou-ruru-nangi-yusman-lase.webp)
 
 Khou ruru nangi ufaema li Faomasigu si lo aluali Osi dodogu khou uoroisi Faema kho nakhigu sisokhi
 

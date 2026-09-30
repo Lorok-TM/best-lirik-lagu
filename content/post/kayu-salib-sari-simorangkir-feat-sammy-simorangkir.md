@@ -19,4 +19,3 @@ Kasih Yesus sempurna Memulihkan seluruh hidupku Telah lunas di Kayu Salib Supaya
 
 Kasih Yesus sempurna Memulihkan seluruh hidupku Telah lunas di Kayu Salib Supaya aku diselamatkan, dibebaskan, disembuhkan Aku diselamatkan, dibebaskan, disembuhkan
 
-![Kayu Salib - Sari Simorangkir Feat Sammy Simorangkir](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDCT6N3Gn3_FaV3QIurj396bUAc3tf8ki8marfxM96lq_OiXiBNZMT9cZqrtfZCegg-nFpawgdqfRM8GY_eEYqhH7qNvewO1w0LCIHS3uuzrT63uux6EKCXvAxtjWXrTzUPTfIdG6WH2vZ0edFB3MKACBxvASaW39F9-d_9hqogbEhETJ4lorf-SiGTWgh/s1280/kayu-salib-sari-simorangkir-feat-sammy-simorangkir.webp)

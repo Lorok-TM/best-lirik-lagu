@@ -27,4 +27,3 @@ Sai salpu ma arsak na di roha i Pasahat ma tu Tuhani
 
 Marsada marbisuk marroha na gok Marsiogu-toguan martutur malo Marsianju-anjuan marsaor na denggan Martua ma di ngolui
 
-![Siantar Rap Foundation - Marsada Marbisuk Marroha Feat Wahyu Sibuea](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmdP36184tLY_Cxml3TARmbLt7evwjN-D3O7v8veRFGvY79eLKTcizE9FfUQ3XvAWj10AzH1nQWM8sEWtaIkZqsN10vzuQTP7FMzM4N2cI3fUerxRfG_QQr7ZkcLnlCbUOXcbtQzpgEWA7JxHihfdV-_YVLy3uDoeSO7JruZKjX7YRc2v6YHgsWtwaejXD/s480/siantar-rap-foundation-marsada-marbisuk-marroha-feat-wahyu-sibuea.webp)

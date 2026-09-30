@@ -19,4 +19,3 @@ Kumbang-kumbang di taman Jangan kau merayu Kumbang-kumbang di taman Jangan kau m
 
 Aku sekuntum bunga Tak mudah kaurayu Aku sekuntum bunga Tak mudah kaupetik Tak mudah kaupetik
 
-![Cantika Nuswantoro Adella - Kumbang Kumbang](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkNbRJnlGjKvRlbYwAe2K5-81ncf2Zt_h7ycVWxW8QD1GcKbakcnxe62ZlL_T5WMT2BUeXlWdggge2JZu656xoDLz31svvLy1jAc1E2CVAWx7Hd6j0f8X8mTUFM_IabtjQOR0zuRI_4iBRjaxArpm3Vv9Y9WnqAMY2WxKFcYf_7KntM63JKcMp8JP4atiX/s480/cantika-nuswantoro-adella-kumbang-kumbang.webp)

@@ -15,4 +15,3 @@ Nan denai takuik kan nyatonyo tajadi juo Sio sio marangkai janji sahiduik samati
 
 Lah jaleh ka karam biduak di pangka tapian Ombak mahampeh patah pandayuang di tangan Kamalah badan ka marayok Gantuangan bana nan hilang Malang badan
 
-![Rahma Delinofira - Pandayuang Patah Ditangah](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGM1vxavhKfOmhpdFjVz0x3MSTcbiHJtKF_AjeTY-Rpnmuzocv293WnwX-vr15lnMzdLIbKxu3ObMHRIVXz3ewnMJ3iizIGQizk_fmBBWQ_ku-0V-eK9Jr7ryzl3zgLJgKG70fRpunb2-3EIL4fKbRPq3gTLWxWgKWyREWp8eVeGWK3DAjiG56XY4tn4VH/s480/rahma-delinofira-pandayuang-patah-ditangah.webp)

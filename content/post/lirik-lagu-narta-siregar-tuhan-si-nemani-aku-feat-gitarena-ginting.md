@@ -46,4 +46,3 @@ _Tuhan Si Nemani Aku = Tuhan Yang Temani Aku_
 > 
 > Tuhan yang temani aku Tuhan yang menjaga aku Ia beri penghiburan Saat aku menangis
 
-![Narta Siregar - Tuhan Si Nemani Aku feat Gitarena Ginting](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhO0kFpD-z7skShLBTHSixkBFBk9xBRNXvofRN-PJM2C0gWMDp7YbZtFEvAlQuFiAqhx0y_Cs4GkysbCITRulOzLXtH1f12BGsLeeN_XAFleo3_Nhz3IN2J2TWgZMeILDOyj8CTvnmBw9a7ufP-nWrqv9RJE8GNJvJ5zl7Hnj5St3xaZ26sQOjCdIamvA/s1280/narta-siregar-tuhan-si-nemani-aku-feat-gitarena-ginting.webp)

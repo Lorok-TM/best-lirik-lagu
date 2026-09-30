@@ -23,4 +23,3 @@ Demikian lirik 'Judulnya Nona' sebagaimana di atas.
 
 **Credit:** Judul : Judulnya Nona Voc : Teamlo Cipt : Wawan Teamlo Arr : Wawan Teamlo & Bobby Teamlo
 
-![Judulnya Nona - Teamlo](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRifH483kxiNC8uP9dr2sOFCZtXb_ArapMwdv-U-Wi_JvAAQtsR8DwwfANSKQfc4FEJX3iYabid3uuvQ_OCqcdPCVFH_Z6FS6bh942CKwORJazpXpIpAZTvu_mX14f7ZBy14Nft1KeJSFYgAtCnvfRfMCI-Qa0YfX6NdjUBlvXVAdsRy9jO-idzuHLteuP/s1280/judulnya-nona-teamlo.webp)

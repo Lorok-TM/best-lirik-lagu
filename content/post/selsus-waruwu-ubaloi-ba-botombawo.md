@@ -35,6 +35,5 @@ Title : Ubaloi Ba Botombawo Artist : Selsus Waruwu Songwriter : Ama Rini Mendr P
 > 
 > Ena aro dodo Ubaloi'o ba botombawo
 
-![Selsus Waruwu - Ubaloi Ba Botombawo](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxh2y7Dlh5N9KJ5osexMjxEqqsCCH83l40HQxlxuF6JRohT8GYLgnSA4-VGCaXHqd_QjMaKjvD2DfehLWbPuZz5ZJtAJMphtr8WIhDNfZzFMvFVklAwoJjlsxr19Tf2EuaLuwVaM_9EEWVwlQrI-zmu6zjBYwb3qh3t0cYMS-jT-E2dtAQGCbf7loi9A/s800/selsus-waruwu-ubaloi-ba-botombawo.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Selsus Waruwu - Ubaloi Ba Botombawo. Silahkan bagikan juga ke teman anda.

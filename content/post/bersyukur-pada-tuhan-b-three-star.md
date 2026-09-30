@@ -19,4 +19,3 @@ Demikian lirik 'Bersyukur Pada Tuhan' sebagaimana di atas.
 
 **Credit:** Judul : Bersyukur Pada Tuhan Voc : B-Three Star Cipt : Noce Tauran
 
-![Bersyukur Pada Tuhan - B Three Star](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCgMTQ9DA3rurML0zTooYUqZgzRwosf2RIxQ38ezc0y9za0qR637NNtOZY3iTHI2v1CVsdcZm535ay8H2iLEYfjSudYcZyod0kGsqp_W-IDQoEr8KqUsvNWDpy5F0r8Ut-IAqaJS5UXTKnVbOsS5Tw-BPcCYoGHE_k6rKoJDf_iqUNk-2ryZarfhgRHQAv/s1280/bersyukur-pada-tuhan-b-three-star.webp)

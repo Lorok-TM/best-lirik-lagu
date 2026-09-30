@@ -23,4 +23,3 @@ categories:
 
 Title : Minyak Habih Samba Tak Lamak Artist : Arif Lida Songwriter : David Iztambul Studio : Asda Production
 
-![Arif Lida - Minyak Habih Samba Tak Lamak](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOG_xZYjpHRh1yWP0Z6upNVBIf6s0G52mdleBZl12hrP4wzFHzsX9v2QSrHheEMb3r0g985U4DcPBabDcJJjrtIqPazlVV876w0UCLC5fD5x17SY4k-xGBvA3sfa6o3SZ0vwsN08PkmJyvNUrganesrv5NZqvZUyOWY7_T5MeDHURDw96s3LeB6VzLPw/s1280/arif-lida-minyak-habih-samba-tak-lamak.webp)

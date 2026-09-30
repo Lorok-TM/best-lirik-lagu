@@ -23,4 +23,3 @@ Demikian lirik 'Lumpur Dan Berlian' sebagaimana di atas.
 
 **Credit:** Judul : Lumpur Dan Berlian Voc : Frans Ariesta Cipt : G. Diana
 
-![Lumpur Dan Berlian - Frans Ariesta](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJq73nd9giKrP3craIqhVmzUZHYLZ0RXGkd9sRm_mswlwOOCqWTP-xGSSKuzjI62b0IAMAACnjLHGUpk5LTXVor54XCxYNRgaO_VgNVxmRNaSkTre0glwA0Pe-QskqWlYforDlhEXiKIr3Z1v4s3GyQDKID0MvRaOGCWS47rTRtcjetbCpFKBXj4Gs7jAC/s1280/lumpur-dan-berlian-frans-ariesta.webp)

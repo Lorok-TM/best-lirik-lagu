@@ -19,4 +19,3 @@ Demikian lirik 'Tak Sanggup Hidup Tanpamu' sebagaimana di atas.
 
 **Credit:** Judul : Tak Sanggup Hidup Tanpamu Voc : Thomas Arya Feat Ovhi Firsty Cipt : Amri Damanin
 
-![Tak Sanggup Hidup Tanpamu - Thomas Arya Feat Ovhi Firsty](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJ5tw-flBbNaTLs2fr4A_iuQVZPZ-CFpbKHWmbtxgKapRUxhM2Cl7V6e0wghUXLlm0U7xBkdP1-EjTa_u2vHIhOFrWaLaywasYSW3GaL_IWDQoJKq1F5q0FgBgrywenVpVjxoSvwcs3MBPIbtI088Mwg7cwqtvJ36ZMxL6n73ddUAi6sCXaCDoIr1cS9bL/s1280/tak-sanggup-hidup-tanpamu-thomas-arya-feat-ovhi-firsty.webp)

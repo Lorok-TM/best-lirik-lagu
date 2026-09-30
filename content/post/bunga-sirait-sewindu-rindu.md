@@ -23,4 +23,3 @@ Jujur memang sakit di hati Bila kini nyatanya engkau memilih dia Takkan lagi ku 
 
 Oh tak akan lagi ku menunggumu di depan pintu Dan tak ada lagi tutur manis ku merayumu Oh tak akan lagi ku menunggumu di depan pintu Dan tak ada lagi tutur manis ku merayumu
 
-![Bunga Sirait - Sewindu Rindu](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMH_ETflvn0wwsw9cIywf1EmnvyCERMgCL8bPwn-M67aqRmGR04caLqjplxY6eMnWKLgqsZpw_RMC7fIeiwWFmNTqaHBLBfXC22CK_y1KKu5fsOaIk1YE2RhdGfBrHClCfk9nRGvGqQ-GyrqyqRYoeK-mKfmu-vIkKcN7ng1Vi1LiqRdw3PrS7-afpV3bG/s480/bunga-sirait-sewindu-rindu.webp)

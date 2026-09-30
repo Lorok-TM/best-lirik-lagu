@@ -5,7 +5,6 @@ categories:
   - "indonesia"
 ---
 
-![Ziell Ferdian - Kau Pemilik Hati](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_pQwlmqKgsK78SQiMyETM3g0iLTNJpMBWB3b8Apq9cySCNixARco8VcIMA_uDHbLKRg4qsdLqGfkQp_Gj27iS0NmCr36QkRn8PxSDSbcHompb7gl2DW3YJLNCt2vTysER7uaDpiKegdmMULHk_e5V23T2qEvMLcdyVcNCIcGnceHScfSlaJTE9S0dkjOg/s686/ziell-ferdian-kau-pemilik-hati.webp)
 
 Kau pemilik hatiku Yang pernah singgah Walau hanya sementara
 

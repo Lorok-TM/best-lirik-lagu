@@ -13,4 +13,3 @@ Alah takucak nan sibadan diri Dek manangguangkan sakik dihati Dulu bajanji sahid
 
 Tarumuak hati dek manangguangkan Indak badayo sakujua badan Alah takicuah mangkonyo ka tau Padiah kini mambuek risau
 
-![Tasya Meydia - Takicuah Sakujua Badan](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhA5bXIVHFInRpQekOilTlwCB5rsYb5KeVvkNDm-ppLc6cz1VnKmQlyHAyIF1Oz1_nOvfCWaTVjeKHWLEyDRDp9f42QuFy8bRydQNn3RuuDJw5FqlWem4xF9vjqgEJukUb-s61Ydsa7pWtggyiHBd6zqxT9qIdP9NeI0c6t-3GWCpEmSlvo_gOQg1iOVWBU/s480/tasya-meydia-takicuah-sakujua-badan.webp)

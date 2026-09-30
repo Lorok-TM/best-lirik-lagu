@@ -27,6 +27,5 @@ Title : Rinai Pun Jadi Juo Artist : Rayola Songwriter : Ajhay Pasma Category : L
 > 
 > Basuo uda badampuang darah tasirok sirok Hati didado antah pabilo Cinto ka jadi nyato
 
-![Rayola - Rinai Pun Jadi Juo](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpcOiWkdWI8JEbRjDB3P6RTCUopQ9N3fjzXLrZs4RSRR5yRBRAB6a7mctCfM_jId56OFLBdVsdaLfi9pCrvbE6R1XgW2unzH9B3HxIl9rXRKdEifVz1J84Sc80QZy88MC44d6YlnAfT3BDYTO_mWnt6Pt30YTY9sTfMDKUZ76nlyUd9xZjObn5KWE_fg/s800/rayola-rinai-pun-jadi-juo.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Rayola - Rinai Pun Jadi Juo. Silahkan bagikan juga ke teman anda.

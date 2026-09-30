@@ -31,4 +31,3 @@ categories:
 
 Title : Terlambat Pigi Artist : Ebeng Acom, KidRose Songwriter : Ebeng Acom Music Arranger and Producer : Ebeng Acom
 
-![Ebeng Acom Ft. KidRose - Terlambat Pigi](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimlxBaIoWCzV3UwsOEpO3a8Vu5Bz1OukJUP8MvJ1j53s0uGAJih82EWgLy2rrlA-LR6XZg-CY77UqYyXkM0Ytxg583iXPUnYmS9JcckWxewf_ObRLxLtOycZ8OSlJAfN1sVEgPf0t11QepBVG8JimLB1Fo6kx6QgbMqWc_AJQrELWnv9yiryPJtT51Ww/s1280/ebeng-acom-terlambat-pigi-ft-kidrose.webp)

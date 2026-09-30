@@ -27,7 +27,6 @@ Situs bestliriklagu.com tidak menyediakan chord dasar / kunci gitar / Mp3 lagu L
 > 
 > Tahukah kamu rasanya Berulang kali jatuh hati Pada orang yang salah
 
-![Gihon Marel - Luka Baru](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyAMjoOOaLA0gbew1SzdlV2Xwd1X_pUJSIxAT9UmvsIanX0hbNW51qkp-aC3b4tMIoLKywrqqoU-uMR5c4pnoqWFenZKfbXNwZTioI3c-g8vaJMelZRhEaa13MSak7YxLRn6qCEFgGnEHt0q5C3w_p4k9G5Bkaxw5F6lMcRTB1KFnW92DNy7G8kxDEfCRY/s800/gihon-marel-luka-baru.webp)
 
 Tujuan kami berbagi ini ialah menyediakan dan menambah sebanyak mungkin informasi arsip lirik lagu untuk mempermudah bagi Anda yang ingin menghafalkan lagu Luka Baru ini, maupun belajar bermain musik.
 

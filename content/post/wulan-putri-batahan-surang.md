@@ -17,4 +17,3 @@ Den sangko cinto kito ka salamonyo Mungkin dek uda nan takuik badoso Malawan pin
 
 Batahan pun tiado guno juo Batahan surang
 
-![Wulan Putri - Batahan Surang](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZIWk2LSwGFmfr54V76veQgOTOoWNpqkCaztw4kBN8jBBTe1GveVdeOktO59Cm7V9ezMsL9FGf3vk84joZAcim2Bad8pAbeONY3SXcyQjj5Bmia0fZAC9X6cRbXklDU-0euiIz38trJ9A6ATm4ZAFR43vRL044JZUdhnjSeJq6DabgvJ5MmqgyEOUvN6Zs/s480/wulan-putri-batahan-surang.webp)

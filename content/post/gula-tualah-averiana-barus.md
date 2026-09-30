@@ -21,4 +21,3 @@ Tedeh pagi atendu aku turang Tatap ku bulan meganjang Ije pagi mata petintang tu
 
 Demikian lirik 'Gula Tualah' sebagaimana di atas.
 
-![Gula Tualah - Averiana Barus](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwsdbsNdrT-0dNF5DTUpRthyphenhyphenRMcM7RPe-qJty2S7bsT0PrY7zREPjxE-1tjb7-79a_wdZwbWuqDXQJcPntkKEv8PguupmIstR5-K4ACRBoaGYZN_YuTxmUp413HWB9TnM48djk9jUpo4bRVdcqd_bmNSGNQLT1o-AkisH-skzEet6Z7USFC62Yt-NY0mec/s1280/gula-tualah-averiana-barus.webp)

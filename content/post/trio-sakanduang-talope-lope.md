@@ -21,4 +21,3 @@ Adiak nan rancak kamek tadayo den dibueknyo Mukonyo bakilek galaknyo samanih gul
 
 #Credits: Judul : Talope Lope Voc : Gustrian Geno, Rino Cancers, Randa Putra (Trio Sakanduang) Cipt : Gustrian Geno & Rino Cancers Arr : Iwan Romeo
 
-![Trio Sakanduang - Talope Lope](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQpo4Z_VItyZNQJGz7-1cxM03yv8NJSp-mlLCUDXzmlop9MOnKJNCds6ajmwWJ6Hfk3DI-Q1iB5GLEu2o3NrzeSiOA4-9HVWrcb62uyVlQBTuAc_N64Nk0QVJBkcmKD_PC-gSb7ZR9FltKmP0OR5cIG96_czKjmNEsrz71Z72oOLWOn6-duxVDkTDoAu37/s1280/trio-sakanduang-talope-lope.webp)

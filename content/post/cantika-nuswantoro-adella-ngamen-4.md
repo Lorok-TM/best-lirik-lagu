@@ -20,4 +20,3 @@ Masalahnya karena narkotika Heroin putaw dan shabu-shabu Wajahku dipotret wartaw
 
 Jangan bung jangan menghisap shabu Menghisap shabu larangan agama Jangan bung jangan membajak lagu Membajak lagu larangan negara
 
-![Cantika Nuswantoro Adella - Ngamen 4](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjluefigC_LZc1cembavCZGVuiJ7TItNkI7ZTGIe3JjliAHzCsgCheRKd6tnb1QCiX9YuL571ddwQc_W6mFzNm-5v2YNhwNcLiKsdvncTirk6pOk4X-NBfLJytqycRPy4No7BJTGqe-PBGLftM89WiLgiCxavjKQk-hEDSpY_JFEk3EfcWuqkcA02J_cBmn/s480/cantika-nuswantoro-adella-ngamen-4.webp)

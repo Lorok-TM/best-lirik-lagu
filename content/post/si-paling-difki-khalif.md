@@ -27,4 +27,3 @@ Aaaaaaaaaaaaaaaa Si tiada dua di dunia Paling jago segalanya di dunia
 
 Segalanya di dunia Segalanya di dunia Segalanya di dunia Segala di dunia
 
-![Si Paling - Difki Khalif](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGy_Sikwq9I3Wo7exmNSPvbKKxSQTgmaQrt2ulcLzMSM-sFqX-GFBBDsRLl2HMwJpYn1hIQebrYoN6k2EV5i5JG7m0P01nvao27goDlK-pEebfUnu5seLKnbd99JHMUiORV8U_pMzKxDHZCLDT8tf0cg2dG4ZAxAqXMPmp_uW1Gn1mJx7uhsi4ITaUZqo1/s1280/si-paling-difki-khalif.webp)

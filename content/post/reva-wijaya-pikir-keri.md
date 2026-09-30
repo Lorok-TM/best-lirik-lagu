@@ -6,7 +6,6 @@ categories:
   - "java"
 ---
 
-![Reva Wijaya - Pikir Keri](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKfQoVQSQE-TKu149CS1cJbAXAY9p_mTTLbNcQpzSrEvNOnGrPw6-58y57fWUPIiefdJvwjiMer3TRHCqeS3Ynq0X34aoTqSlk-mps51G76KE9rAg8JRb5RC915t6eSBHFrdhUyBY0NPi5mELqP1IgsWoOlWAOutEbBrg9jaHUvLQjszw0lkwb-nmdOfOB/s1280/reva-wijaya-pikir-keri.webp)
 
 Yen gelem tak jak rabi yen ra gelem tak jagongi Sing ra penting pikir keri Yen kowe gelem tak sayang yo ojo mbok gawe bimbang Ra sah kakean alesan
 

@@ -26,5 +26,3 @@ Jauh memandang putihlah mata Adik ku sayang berpaling cinta Apalah daya aku tak 
 Tersayat hati luka menjadi Merenung aku ditinggalkan sorang Apa dikata sudah terjadi Kau ku cinta kini milik orang
 
 Apa dikata sudah terjadi Kau ku cinta kini milik orang
-
-![Arief - Pasrah Ditinggal Cinta](https://i.ytimg.com/vi_webp/70Yw374gRX8/maxresdefault.webp)

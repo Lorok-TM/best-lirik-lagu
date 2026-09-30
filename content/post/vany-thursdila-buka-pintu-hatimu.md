@@ -19,4 +19,3 @@ Title : Buka Pintu Hatimu Artist : Vany Thursdila Composer : Faisal Asahan Label
 > 
 > Aku yang disini berharap darimu Pahamilah diriku ini kekasihku Salahku insafi moga kau hargai Buka pintu hatimu untuk diriku
 
-![Vany Thursdila - Buka Pintu Hatimu](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimQQiqS3NSzo2VgrZtGQEwRoUYYWvfL882YXfTWYU1ulZjYrCDRmOKDsWVdZ9-ESP2X5ufmR8aA6k3GN75SwSoq3DT64eK8Z031Yi4byV6f7GjE2EvIaqzqLKZQD2QOyB09QGw0ebeD7ixpkPQCvrzr8MbEy7sg3E6CW_cftX7a5motQLA7Q_VrKJF7hhZ/s1280/vany-thursdila-buka-pintu-hatimu.webp)

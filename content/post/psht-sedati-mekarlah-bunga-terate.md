@@ -23,4 +23,3 @@ Title : Mekarlah Bunga Terate Artist : Shadjo / PSHT SEDATI Composer : Ridwan Ag
 > 
 > Mekarlah bunga teratai dijiwaku Tanamkan rasa persaudaraan hingga nanti Bersama dengan hati bersinar didada Selamanya hingga hancurnya semesta
 
-![PSHT SEDATI - Mekarlah Bunga Terate](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjS3aQhPl7wi84G9qXJQSLp_7Vr468Ho9pI30hrxJ7MmXK-BohhdRMe0bEV6iEp7WgPTCHQjctR_qOBMPK7XoxLrHAG0iwdQe3rz_a5EP2W5kVpgBRqhnaoVsna3WzSlAQ1PYiFXWGsKekC1jaIm19C1ylgPfXeRLx5fOnwGVd60JAkrxgDRHmRF2wYhAl7/s320/psht-sedati-mekarlah-bunga-terate.webp)

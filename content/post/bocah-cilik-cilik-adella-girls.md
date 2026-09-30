@@ -23,4 +23,3 @@ Demikian lirik 'Bocah Cilik Cilik' sebagaimana di atas.
 
 **Credit:** Judul : Bocah Cilik Cilik Voc : Adella Girls Cipt : Ustadz Khadzik Arr : Om Adella
 
-![Bocah Cilik Cilik - Adella Girls](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6v8gyLrMV78dNe6a9RjCxXkDG2ve81ogCF19H318aP1xvnFMroCT6mlp4pH-rCO2P5fxN36fVZUgwpkPiYF2kBgNMPZKIQe8fr9zX6bVs9syBcnziB4Eru17GFNP6nydg38XzLn509_FIh1f0e_2L5LCCMDBMemFZJZSO6PY-jARMlAH_0WVKRB0Em0K0/s1280/bocah-cilik-cilik-adella-girls.webp)

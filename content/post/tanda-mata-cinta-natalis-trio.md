@@ -31,4 +31,3 @@ Aha salahku (aha salahku) Aha dosakku (aha dosakku) Sai huanju ho sai lam dao
 
 Aha salahku (aha salahku) Aha salahku (aha salahku) Aha salahku
 
-![Tanda Mata Cinta - Natalis Trio](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiI8Mvru__rvuufVILCEzEEPY7t6ox0YZTNyLyv3PUsPXYSmYw7rrAawOLDOtHhK3RjPMNfvE_Dch8gGVWU7m5GzNRKExd8TzyPVe0OS2Oa4stn1jhPC-Hs9BxYqctUJqkaqAek9Qgx4mK9-NA-Thp9qhAoi6V7jPHC1NoZyKGYPBYgmXNUA56tyn8Q_gOx/s480/tanda-mata-cinta-natalis-trio.webp)

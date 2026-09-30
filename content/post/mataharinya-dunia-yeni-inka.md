@@ -21,4 +21,3 @@ Wahai kaum muslimin muslimat Sampaikan sholawat salam
 
 #Credits: Judul : Mataharinya Dunia Voc : Yeni Inka Cipt : Masbul Ba Arr : Dindy Kalizzaka
 
-![Mataharinya Dunia - Yeni Inka](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRSAK6tkfoL8WsAsNP73WQFdiq3fcccWGuJmy8yLOGnr3UcTI1n5rKRo7ZhcFlGfbkIYPQwN5zDP5wKY99gmxRX5myHuViQhyOjtKgwZYIwTyCuXke9TyiQiLdteQICTIb553gnZZPGbULPrnTLvaZXU5VsP_L9pJ3RlbF5FeG59ZHolhakTfntjzIO2gv/s480/mataharinya-dunia-yeni-inka.webp)

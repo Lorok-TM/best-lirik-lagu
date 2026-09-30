@@ -39,7 +39,6 @@ Situs bestliriklagu.com tidak menyediakan chord dasar / kunci gitar / Mp3 lagu B
 > 
 > Ku rekatkan pecahan itu dengan tetes air mata Tegar ku katakan pada dirimu Aku baik baik saja
 
-![Safira Amalia - Baik Baik Saja](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAh4z9_Yr5foVdB_X8QHkSFS-5FS7WO7a2Tg3SRFUewMuMcKn7HF6lcE6y25onnY9VCSQezBRwp5zF5zh1JvBZXGQRtz4Vm7VnfV2Pqjf66RG80qnWOd8mksJEIPjvL0CBicDBnyNJDxuG0neZbUMgXW3gNfHqa5tWjSGbyhBG7KgUX0MI3L4KJtEkM8GU/s800/safira-amalia-baik-baik-saja.webp)
 
 Tujuan kami berbagi ini ialah menyediakan dan menambah sebanyak mungkin informasi arsip lirik lagu untuk mempermudah bagi Anda yang ingin menghafalkan lagu Baik Baik Saja ini, maupun belajar bermain musik.
 

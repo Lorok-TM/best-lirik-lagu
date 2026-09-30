@@ -31,4 +31,3 @@ Demikian lirik 'Pelukan Senja' sebagaimana di atas.
 
 **Credit:** Judul : Pelukan Senja Voc : Fidella Jasmine Cipt : Tri Suaka
 
-![Pelukan Senja - Fidella Jasmine](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEKlV14V3wNGiDPXRq-y0hrp1nZ0LS4QmVtxEHCsFxz3cUMao-oQdSxRE6vG-VfgnmnefdPqGjZ5glkKd2zb1mwQGROnOZnd-GqdFW8_D2XIXqn3OmAI-cXEMt2J6IT-45pKKIBjktjyBjMYuGf7e1ENI0O46DjGG_ggnao8bqWnWqaMiLWiRFhmIrps6s/s1280/pelukan-senja-fidella-jasmine.webp)

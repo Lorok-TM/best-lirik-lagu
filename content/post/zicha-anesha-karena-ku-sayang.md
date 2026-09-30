@@ -5,7 +5,6 @@ categories:
   - "melayu"
 ---
 
-![Zicha Anesha - Karena Ku Sayang](https://raw.githubusercontent.com/Lorok-TM/2026-08/img/zicha-anesha-karena-ku-sayang.webp)
 
 Jangan Ditelan Mentah-Mentah Apa Saja Yang Engkau Dengar Pahamilah Itu Fitnah Yang Kan Memisahkan Kita
 

@@ -13,4 +13,3 @@ Nasa na adong di au hulehon do tu ho Dohot hahurangan hi patar doi diho Di jolo 
 
 #Credits: Judul : Tarilu Voc : Roni Sihite Cipt : Roni Sihite Arr : David Simanungkalit
 
-![Roni Sihite - Tarilu](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAvNb9Uo_cbUDt1GanNX6nGm0s6uyfwizNDQuv8z92CtW2yZrxGCm7I3DS7pCbzermABV77Z2mXpGR5GUCD9g1mbYtpMDx_Si7i3H_dN4t1UBQisXL4ezvSxI-YjzhjCwE5SrOE-FsVEoTSNdLEUBNHih1E7VS4aurp8kWu5r6UHDdXgq3AhcO_lrjO2OD/s480/roni-sihite-tarilu.webp)

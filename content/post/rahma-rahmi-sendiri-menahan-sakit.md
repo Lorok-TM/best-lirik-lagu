@@ -15,4 +15,3 @@ Sendiri aku menahan sakit Namun dirimu tiada peduli Untuk apa aku tetap disini H
 
 #Credits: Title : Sendiri Menahan Sakit Artist : Rahma Rahmi Songwriter : Faisal Asahan © Indomusik Digital
 
-![Rahma Rahmi - Sendiri Menahan Sakit](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7g1yPSYiisc4EW6vU1SEQu41I8D8Fyj4U6fv2CksRzoOP5NRn0lvOucoeMNk5XxFAeqeSqsAaG_c2iIQSPLXu4YxigP97k95ZkQt34klGmOrqQosgR6Uz38uVt7BxNPmsG9nNMnuqMaZCKajIFMh4gnd7ZW5rXN0LvPC33BSK-_CCeTMyIDIdZCCUBhrk/s480/rahma-rahmi-sendiri-menahan-sakit.webp)

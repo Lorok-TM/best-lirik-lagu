@@ -24,5 +24,3 @@ Sejak aku berpisah denganmu Sendiri kini yang ku rasakan Sejak aku berpisah deng
 Ku tanya malam ku tanya bintang Sendiriku kini di dalam kehampaan Ku tanya malam ku tanya bintang Panah cinta menusuk luka dalam
 
 Ku tanya malam ku tanya bintang Sendiriku kini di dalam kehampaan Ku tanya malam ku tanya bintang Panah cinta menusuk luka dalam
-
-![Arief - Panah Cinta Menusuk Luka](https://i.ytimg.com/vi_webp/5-Pj-Df-DsM/maxresdefault.webp)

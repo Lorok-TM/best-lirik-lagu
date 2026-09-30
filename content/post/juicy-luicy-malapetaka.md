@@ -19,4 +19,3 @@ Teman selama-lamanya atau akan jadi bumerangku dan kau berubah
 
 Alah malapetaka Alih alihnya Kau tak pilih Sudahlah Teman selama-lamanya atau akan jadi bumerangku dan kau berbeda Biar lusa ku luka Air turun dari mata Katakan yang sebenarnya Apakah kau suka atau kabar duka Paling tidak ku lega
 
-![Juicy Luicy - Malapetaka](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnPjMOhrpwoR_jEeOnHW2dEOrKmbBglw_POq95gfLrVG7bfpo3L4hhK1hyphenhyphenhL0x_XPWGAdyY9UlfcNiW9x8lyoqG4PwiPCzmcTq5_fEcoyr7bv_SHAg74mgOMDm3doljLn_lcWOAmDqEPKe2S0FaUS7ewl4qjP21Uh7zBu4d_8c20hjmVUSLfpR8VhziSQZ/s1280/juicy-luicy-malapetaka.webp)

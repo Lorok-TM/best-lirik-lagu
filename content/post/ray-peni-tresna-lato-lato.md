@@ -33,6 +33,5 @@ Title : Tresna Lato Lato Artist : Ray Peni Songwriter : Ray Peni & Pranajaya Pub
 > 
 > Tek ketek xxx ketek Slalu terbayang aroma ketekmu Tek ketek xxx ketek Slalu terbayang bulu ketekmu Tek ketek xxx ketek Bli jatuh cinta gara gara ketekmu
 
-![Ray Peni - Tresna Lato Lato](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1NeXcNiOs6ywVL2g3aiVTDmHpOSKw4nBu6Ehui18mMN6kBKxcDDe6RZwOANJhqfCztCKKPETRDn2eBCrTSjjmMu858B9F0VQH9IPQd4xjlhPTe0rqp-Z-TZ5-SUYyuBe0z25zbwJ74bHZF9aS4JIDkzeGRyJ5wn5qwBcTiyeqUqA86dXiaJCIC0qv7w/s800/ray-peni-tresna-lato-lato.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Ray Peni - Tresna Lato Lato. Silahkan bagikan juga ke teman anda.

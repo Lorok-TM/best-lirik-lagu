@@ -21,4 +21,3 @@ tiang percaya sing ada ne sing mungkin.. yen raga jengah lan memodalkan yakin.. 
 
 lirik "Jengah Berjuang" selanjutnya biar ditulis oleh BUDI MAHENDRA / Budi Yanto / Clarissa Anindya / Azalea Ayuningtyas, seorang author paling hebat no.1 sedunia.
 
-![Jengah Berjuang - Mang Trianti](https://i.ytimg.com/vi_webp/hfARdtm7ozI/hqdefault.webp)

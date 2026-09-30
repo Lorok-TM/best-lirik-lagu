@@ -37,7 +37,6 @@ Situs bestliriklagu.com tidak menyediakan chord dasar / kunci gitar / Mp3 lagu B
 > 
 > Cinta dan sayangmu selalu besertaku Dimana pun berada diriku Meski hanya dalam bayanganmu Dimana pun berada diriku
 
-![Evie Tamala - Belahan Jiwa](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiC5hgCqSO9gWXwBb4kGAwpuX3U5lcSfWgqBn9ILlXvuAB0eUx6RR1yk3TBlbA6uJCgJg0VK-ariMPUmWH5um1Mj5taZN7tTj_Fa66V9kUunxfA_mDJbAVQbpn5PuCyso6P9DNjlYR-QoIOptaLLnOgS_WttCPdurWHd6ekBUNQhz1fQkbr8ymaD3OkmZZf/s800/evie-tamala-belahan-jiwa.webp)
 
 Tujuan kami berbagi ini ialah menyediakan dan menambah sebanyak mungkin informasi arsip lirik lagu untuk mempermudah bagi Anda yang ingin menghafalkan lagu Belahan Jiwa ini, maupun belajar bermain musik.
 

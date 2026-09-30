@@ -33,4 +33,3 @@ Demikian lirik 'Cintaku Tahalang Restu' sebagaimana di atas.
 
 **Credit:** Judul : Cintaku Tahalang Restu Voc : Riski Bajuh Cipt : Andrey Ms Music Arr : Andrey Ms Music
 
-![Cintaku Tahalang Restu - Riski Bajuh](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgprabvipjqHf3YnyuvL6Lv_Ycfaumg8SRe31hz2OIL6IS0fk4r3isRgt-sd3FSVfs9Y4H9xpb-Uz7s3EgzlZefbfDCWZr2DXCXqjXPQAdu1Kq7h_b8uKhKUSKNeFcWBEcbhC3yGYzoiaIXIEJo_-f6yp33Zr95Cf0r756TF8DWhegsApIwLiHEjhKm5Pke/s1280/cintaku-tahalang-restu-riski-bajuh.webp)

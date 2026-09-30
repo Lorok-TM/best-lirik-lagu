@@ -5,7 +5,6 @@ categories:
   - "java"
 ---
 
-![Wkwkwk - Cantika Nuswantoro Adella](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbaaJ8dAxuyyGcSYWns-wPoPfi1j_Ji9pKFqxeXALEHSFcp-l2FeA2KO5QkR6x0_0kXWYhBeY2eZEKpbbktpArdzu33ZBVgmAEgHqwGLOtoF3tkiIJnd_xOkhtE0VKN3WXtCEM0EIs2YVAnFFIiqilmHZ8esdtQnlwtCNMFXju5G951dhKhUEs1Do95tIl/s1280/wkwkwk-cantika-nuswantoro-adella.webp)
 
 lha kok sengit aku Omonganku mung mbok anggep angin lalu lha kok sengit aku Kowe senenge mung nuruti egomu
 

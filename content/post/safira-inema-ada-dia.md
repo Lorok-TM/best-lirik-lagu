@@ -5,7 +5,6 @@ categories:
   - "dangdut"
 ---
 
-![Safira Inema - Ada Dia](https://raw.githubusercontent.com/Lorok-TM/2026-08/img/safira-inema-ada-dia.webp)
 
 Lagu berjudul "Ada Dia" ciptaan Eko Saky yang dibawakan oleh Safira Inema mengangkat realitas konflik asmara mengenai dilema moral dan keterbatasan ruang dalam hubungan cinta rahasia. Liriknya merefleksikan benturan emosional yang dialami seseorang ketika terjebak dalam dilema komitmen, di mana perasaan sayang yang tulus harus berhadapan dengan kenyataan pahit tentang kehadiran pihak ketiga yang sah secara status di antara mereka. Melalui aransemen musik dan penjiwaan vokal yang lugas, karya ini menyoroti latar belakang cerita tentang kepasrahan atas takdir pertemuan yang salah waktu, sekaligus menyampaikan pesan filosofis bahwa ketulusan perasaan sering kali tidak berdaya saat harus berhadapan dengan tatanan komitmen hubungan yang sudah mapan.
 

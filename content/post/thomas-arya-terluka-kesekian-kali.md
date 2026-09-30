@@ -31,6 +31,5 @@ Title : Terluka Kesekian Kali Artist : Thomas Arya Composer : Thomas Arya Catego
 > 
 > Wajar saja dirimu memilih dirinya Untuk jadi pengganti Ku faham dan menyadari Tak mungkin untukmu memaksakan hati
 
-![Thomas Arya - Terluka Kesekian Kali](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLpN0dhsD24-1lR0opl8Jk_6LEsikNI32ZdusjQsf0VqVm5UgqK492MuuJoZaVjI-pJuKzfECafrP7tIryk77a9cBXdQXv7sCNDJVTdTVUsm3fulQqHLhpzSGkJBZWZMh0rOyjDzGkEGSxyqsKpQoAF6wFM4e2I8QbM5lZYrs4auVVAJHYQF6DrQZppg/s800/thomas-arya-terluka-kesekian-kali.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Thomas Arya - Terluka Kesekian Kali. Silahkan bagikan juga ke teman anda.

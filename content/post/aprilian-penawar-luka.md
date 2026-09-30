@@ -25,6 +25,4 @@ Title : Penawar Luka Artist : Aprilian Songwriter : Ajhay Pasma Category : Lagu 
 > 
 > Lihat aku yang menantikan hadirmu Disaat kau kecewa Rasakanlah getaran cintaku ini Karna ku penawar lukamu
 
-![Aprilian - Penawar Luka](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKnQcahFFMFpx3cJB4TaKKUc8PLKKbEryYwG6tyExhauPAJ9QTzpVAN6F1yi72Z179Oid78TWkAsUVKmlzC3uMIJ2xLg-jJ9i0j7_AXSCn8IAVDafjft6_51gbERhwPlmeVgZBi8jC0lr8shjA-9819M6Xj2XvDWKDRBkRye3HpmllE2cG_pV-XLUvL88_/s800/aprilian-penawar-luka.webp)
-
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Aprilian - Penawar Luka. Silahkan bagikan juga ke teman anda.

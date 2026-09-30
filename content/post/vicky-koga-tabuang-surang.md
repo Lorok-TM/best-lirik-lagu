@@ -13,4 +13,3 @@ Uluran tangan nan dari tuan Lah taminum nan jo tamakan Kini mambuek raso manyeso
 
 Taraso padiah dek tuan baragiah Kato manurun manikam hati Ka hulu jantuang raso mandidiah Kini tabuang sibadan diri
 
-![Vicky Koga - Tabuang Surang](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbo5DrsVIo3nC6UulBm5hf8oAmVniuProhDdGewZ_rhAoULDOhqw0cF2U5HMc0lHK3z_LZYjx2y-WO83O5Z5FsppgQeh1_Uv-XaHvD3lYcXq8DoP7HpD-pCWNEnX5LF9AYoti09LQ8_x_WMTzO9NPlY7Lvu4eYsRlrhNYF43UZPxpkHngXd32mnjggtO-h/s480/vicky-koga-tabuang-surang.webp)

@@ -5,7 +5,6 @@ categories:
   - "dangdut"
 ---
 
-![Empat Mata - Ajeng Febria](https://raw.githubusercontent.com/Lorok-TM/2026-08/img/empat-mata-ajeng-febria.webp)
 
 Biarkanlah diri ini Untuk mencoba mendekatimu Mendekati indahnya dirimu Dirimu yang hadir di mimpiku
 

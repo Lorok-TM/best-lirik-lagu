@@ -27,4 +27,3 @@ Demikian lirik 'Nutupan Kanyeri' sebagaimana di atas.
 
 **Credit:** Judul : Nutupan Kanyeri Voc : Abiel Jatnika Cipt : Abiel Jatnika Arr : Rifaldy Ipey
 
-![Nutupan Kanyeri - Abiel Jatnika](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVey1ucJKsknV8csiNMfVw6qphYYNxsd3mkQ1X6_mRiZy2YxMLTtL2IAKyAx9aJ3QUSecT-8JV6OXEzpqwMGirRJCQx63FqxbfDXgq1NdbGaniZCfRs24RPDiFX1aRpcI94jyiiTx-s6plbn9aI48vi88DOFS2BN-bCtLVrvtgW1lYgyoOaaQZ9vbxwE4-/s480/nutupan-kanyeri-abiel-jatnika.webp)

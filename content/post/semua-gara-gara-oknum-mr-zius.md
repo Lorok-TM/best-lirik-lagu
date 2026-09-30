@@ -33,4 +33,3 @@ Demikian lirik 'Semua Gara Gara Oknum' sebagaimana di atas.
 
 **Credit:** Judul : Semua Gara Gara Oknum Voc : Mr. Zius Cipt : Mr. Zius
 
-![Semua Gara Gara Oknum - Mr. Zius](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4BQt0YfrRy0vlmCH2gzk7fsuiSHo_-zQu_Cr7YA2AlXLxabRgTTTYKvo8Sf5aDBO-CNQ0OXfpyDPi3mJD2mzSJtaPhxp8uZlo0EKRRBTuelVPDNalzZnVKJF6d19Ri2jwSTq66bRqhBLiE86Nl4Ili86M2bOWFjUY7FPXxb75POe_sF_pcGAIdf53oX7g/s1280/semua-gara-gara-oknum-mr-zius.webp)

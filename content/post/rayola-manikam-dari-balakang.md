@@ -25,4 +25,3 @@ Jikok di kana samaso dulunyo Ado cobayak diriko Usahlah sagalo salah Batuduah ka
 
 Nan rusuah lah ka jadi pikiran Kok banci usahlah jadikan baban Ditimbang talabiah jo takurang Tadorong sapanuahnyo den rilakan
 
-![Rayola - Manikam Dari Balakang](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpsqSdx4HK-6EZbh8a91YuHYjbslITrwqH5JtApPGdy45hBcZUFOImTpMLEqFvuqq9iv3JI7rfeYl3WQ7s1p9ftbA3HSFRPObjNLgBWnNGXRClKKL0b0ILZ44CqrmQZQNpIvs-iexzSGbdbltm3GDx5me60NaDKZe3OkjJ0T3kpVIN6sF4lcs7qC53hx2U/s480/rayola-manikam-dari-balakang.webp)

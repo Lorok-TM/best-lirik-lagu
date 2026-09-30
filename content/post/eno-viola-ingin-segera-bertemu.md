@@ -25,4 +25,3 @@ Pejam mata pun aku tak mampu Bila tiada kabar darimu Tolong dengarkan hatiku ini
 
 #Credits: Judul : Ingin Segera Bertemu Voc : Eno Viola Cipt : Jasiky Arr : Iwan Romeo
 
-![Eno Viola - Ingin Segera Bertemu](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXMbGix7lJ-WSzPBGLEuRzQgx10FaMb3fnsaCz5ff65JRvtmAE8Xr11pjoB9AMwl0ChKGmGZ4rOVakaNH9Clh-zNpDckvEt-J3N-tei_qENBgjsTf5ovhshu2MrPATnMNo3TjgUEpC1jxF9EWoHnmf2ldEZApvR6PaeUCXZwjxc8SyGqHqvzvm9Z11cpnS/s1280/eno-viola-ingin-segera-bertemu.webp)

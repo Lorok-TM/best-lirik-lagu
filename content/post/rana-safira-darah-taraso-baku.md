@@ -5,7 +5,6 @@ categories:
   - "minang"
 ---
 
-![Rana Safira - Darah Taraso Baku](https://raw.githubusercontent.com/Lorok-TM/2026-08/img/rana-safira-darah-taraso-baku.webp)
 
 Lagu bertajuk Darah Taraso Baku yang dibawakan oleh penyanyi Rana Safira serta diciptakan oleh komposer Amri Damanin mengusung tema kecemasan psikologis mendalam akibat bayang-bayang kehilangan pasangan. Melalui metafora lirik berbahasa Minang, frasa darah taraso baku yang berarti "darah terasa membeku" secara filosofis menggambarkan reaksi psikosomatis seseorang ketika dihadapkan pada firasat buruk atau mimpi buruk mengenai pengkhianatan cinta, di mana sang kekasih digambarkan bersanding dengan orang lain. Karya bergenre pop Minang ini menyoroti kerapuhan emosional dan konflik batin individu yang telanjur menyerahkan seluruh komitmen cintanya, namun terikat oleh ketakutan ekstrem akan realitas yang tidak sejalan dengan harapan. Secara keseluruhan, narasi lagu ini berfokus pada ketidakberdayaan manusia dalam mengendalikan masa depan hubungan, menjadikannya sebuah refleksi atas dampak emosional dari rasa rindu dan ketergantungan afektif yang berlebihan.
 

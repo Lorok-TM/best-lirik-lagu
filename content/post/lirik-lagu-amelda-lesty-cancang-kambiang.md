@@ -39,6 +39,5 @@ Title : Cancang Kambiang Artist : Amelda Lesty Songwriter : Efrinon Production :
 > 
 > Oi alai, oi alai Luruih jalan ka Sicincin Taruih ka suok ka Piaman Kanduang baraliah ka nan lain Baralah cancang manyampaikan Ndeh kanduang manyampaikan ndeh sayang oi
 
-![Amelda Lesty - Cancang Kambiang](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiG3RjcL3I2HTr_vrZIje7CmvNUmpRILKIzLxtfzuTjzDZ7edRiog8eI27l3dvbx103_RDgKLGvliVNXe2XXfmaSXgd1Sjf87MvG3Ag10D72yzazNB68CgxS-FtkSpdxu_2Dr53qGzrWk2vAsYRycyqebrLVRxy1430unPCxaYXjgtOS2Nr8W7TtQyhS4fk/s800/amelda-lesty-cancang-kambiang.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Amelda Lesty - Cancang Kambiang. Silahkan bagikan juga ke teman anda.

@@ -25,6 +25,5 @@ Title : Mengapa Masih Disini Artist : Najwa Songwriter : Ajhay Pasma Category : 
 > 
 > Jangan kau balut luka hatiku Biarlah aku sendiri Semakin kau obati lukaku Semakin sulit ku melupakanmu Carilah penggantiku Carilah penggantiku
 
-![Najwa - Mengapa Masih Disini](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6ZVK_oLD-AyfdPtA23so9WCYlEyGgsE67x1iQgdWqf3gJrAj8vEhwrkMA21iJurh_YAeoZRFIGkiAbAVSiTSbcUERwNs7bv_C6u6h7V5tBmO3ZzGmUaQHMPwT7mQanU8ALCwrn89RF4AxdeBmf4641R4KDpRmF43wzf8VaHfnPuN5mShBIqqVPCgDMQua/s800/najwa-mengapa-masih-disini.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Najwa - Mengapa Masih Disini. Silahkan bagikan juga ke teman anda.

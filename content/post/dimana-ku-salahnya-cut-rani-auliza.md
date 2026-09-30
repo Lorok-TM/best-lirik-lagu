@@ -5,7 +5,6 @@ categories:
   - "melayu"
 ---
 
-![Dimana Ku Salahnya - Cut Rani Auliza](https://raw.githubusercontent.com/Lorok-TM/2026-08/img/dimana-ku-salahnya-cut-rani-auliza.webp)
 
 Habis sudah airmataku.. Tak tersisa untuk dirimu Apa yang pernah terjadi.. Diantara kita..
 

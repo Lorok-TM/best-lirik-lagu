@@ -33,6 +33,5 @@ Title : Sauah Putuih Artist : David Iztambul Songwriter : Era Darwis Arr : Nover
 > 
 > Bialah karam biduak ditangah Pado nyo lapuak ditapian Nyao dibadan kok nyo baralah pusaro usah babatu mejan
 
-![David Iztambul - Sauah Putuih](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMldNzfr2XaRDMpjTa6mZKDlmZBuzuQQ0cJjXQnfUFiMZDBH0XtLRpt-d3wMJ2X_KvJgqTvsOkU5sgUDo3uD3TwhanCWZt4BWgSzHkvlOP2alwfJnFeGi98DB4_Xx4bbIoHSPwsGw6WQ3_-rh8p3akSwAS6ct9jG7dgm1izIwEoZmxPyywvOR5p-fD4Q/s800/david-iztambul-sauah-putuih.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu David Iztambul - Sauah Putuih. Silahkan bagikan juga ke teman anda.

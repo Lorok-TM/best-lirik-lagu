@@ -37,4 +37,3 @@ Makase so pernah ada Biar cuma beking soe
 
 Beking soe
 
-![Dandy Barakati X Melandy Jacobus - Karemous Beking Soe](https://i.ytimg.com/vi_webp/G6ZiCf5PJrk/maxresdefault.webp)

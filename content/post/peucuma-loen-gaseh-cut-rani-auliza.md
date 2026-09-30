@@ -19,4 +19,3 @@ Peucuma kanda loen gaseh sipenoh hate Jinoe hanale ureung yang loen cinta Ek sam
 
 Walaupih saket hate loen rasa Deungen teupaksa ka loen perela Semoga kanda bg bahagia Dengen pilihan yang droneh cinta
 
-![Peucuma Loen Gaseh - Cut Rani Auliza](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhc31FpCHGoo-HV-KdObkjjySEkgESuuDcixixond9I7rNa4OkxNhxENkzsgwUBir0FbC3KIdiKecMQPKIk-wUq-uPO6mnTBrGIMV677KXTUJ0Ch-6krMVKmm32Hn0yFVITBkrZrdS_Gdg4-QOVe7j2l4Q7QYh7NEB9NK4S-HCi0K8AYyeoJ9lmgXt-ta03/s480/peucuma-loen-gaseh-cut-rani-auliza.webp)

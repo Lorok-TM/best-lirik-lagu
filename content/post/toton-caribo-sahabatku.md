@@ -21,6 +21,5 @@ Title : Sahabatku Artist : Toton Caribo Songwriter : Toton Caribo Category : Lag
 > 
 > Sehatlah sahabat kecilku Suatu saat kita kan bertemu Ku dengan gelarku kau dengan gelarmu Kita akan berjumpa di garis masa depan
 
-![Toton Caribo - Sahabatku](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJLC5eRLcfgtOF3mAc1mZgcdblnIKQ6KBQXJEzdcBkvSTUvnjOnU8EVuRLX28BLqB6vci7EyfZyd5wYOZ_f9FME_2DAA98k-COLhjTJsfmLDtCufxdfE8vgKok_S-2_1et-fO8En0TJWZdyaKURJjOh_CWLSr4snDn0ycJgcSd-_n6koS2Nv-ElvKNMrD3/s800/toton-caribo-sahabatku.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Toton Caribo - Sahabatku. Silahkan bagikan juga ke teman anda.

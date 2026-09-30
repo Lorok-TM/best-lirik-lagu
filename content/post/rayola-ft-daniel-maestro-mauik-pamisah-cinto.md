@@ -23,6 +23,5 @@ Title : Mauik Pamisah Cinto Artist : Rayola ft Daniel Maestro Songwriter : Rino 
 > 
 > Sanang lah hati mandaga Uda bakato cando iko Apo pun ka tajadi Cinto uda indak ka denai siokan
 
-![Rayola ft Daniel Maestro - Mauik Pamisah Cinto](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZGhO4JTMKkwD1GDyb4PY1Av_2p92bzEu5Hrh7hUn1HEViROLZxOlxxRsyJ0X6b6p_n3Srv8FxZ8HMc5gbE8ljyJQtcYv9KgJJEB9pgb--yy_3uTXVbZm4XZ04H9Lb15sy1KNwiIrVajvmRCFMzNNAFvg6UeK9JUxNFlG8LRdobvKraZFXNAxywJrWFw/s800/rayola-ft-daniel-maestro-mauik-pamisah-cinto.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Rayola ft Daniel Maestro - Mauik Pamisah Cinto. Silahkan bagikan juga ke teman anda.

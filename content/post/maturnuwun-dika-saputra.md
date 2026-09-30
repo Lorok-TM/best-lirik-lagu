@@ -17,4 +17,3 @@ Demikian lirik 'Maturnuwun' sebagaimana di atas.
 
 **Credit:** Judul : Maturnuwun Voc : Dika Saputra Cipt : Dika Saputra Arr : Bayu Mukti
 
-![Maturnuwun - Dika Saputra](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyaepNSG-1EEwxgG79DMER9WGpTPfz5enXlt_FLhyu1wqYbHdAk27xIkSYyv7gA0_RXueHlT7UnQ8Y9NzT4brWQZtwe6tLIndH_7rTR3vCOKGoFG1Iro4R5vrOwvwTSuvkwIuLhW5qEPMkSFNT-GXpRBT2IRaaUeg7PhSdWmKPRGF_vHYQxpZArzhZrp7u/s1280/maturnuwun-dika-saputra.webp)

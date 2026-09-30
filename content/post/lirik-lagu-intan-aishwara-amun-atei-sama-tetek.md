@@ -36,6 +36,5 @@ _Amun Atei Sama Tetek = Kalau Hati Sama Sama Suka_
 > 
 > Percayalah abang pilihan hati Kalau rasanya tidak akan menyakiti Andaikan dayung bisa patah Ada timba pakai mendayung Kalau hati sama sama suka Ada niat di dalam hati
 
-![Intan Aishwara - Amun Atei Sama Tetek](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOuOtR8yBbasLIa2mzwYqZ7fzw_MfIZImwEUyiEJIW5uh6x8uO4RX6aieOjJ5eP3GHRFmQTRox8aH14AGUAKIGsdc9P9BTYpcAj-DnX0HsfF9pjr6YCIN0ohhcfFDr6pBt2_fHQbx_dGaiIg3pcb5mk4TNlqGF33YvtYViIO0FwauteSXW44oqnFz_s9pu/s1280/intan-aishwara-amun-atei-sama-tetek.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Intan Aishwara - Amun Atei Sama Tetek. Silahkan bagikan juga ke teman anda.

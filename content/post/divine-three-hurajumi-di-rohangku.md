@@ -17,4 +17,3 @@ Marlanang dosa do ngolungkon ale tuhan Naso tama habaoran ni pasu-pasum Alai tun
 
 Sai hurajumi di bagasan rohangkon Di haholongi ho nang pe mardosa au Tung pe rara songon hasumba au tuhan Alai ias do songon hapas au muse
 
-![Divine Three - Hurajumi Di Rohangku](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDkhj4JGivPwTDoGRgrhtL6SjUhT37nyj6kddCHjB6iaBPd-pkS2yBI_1zbRGTGKTTqhK2GNOGhuHHqtSZbqxT8TWdDSDr0DNvkchp-tWKGB_F8igZP-DdbvqJXsnZjLDmJ6HAoSe1ck2W0hh5Oz9ueGfGWrUwtlMENVgylsYF4PWcBdOWh0IfQnxsWA6t/s480/divine-three-hurajumi-di-rohangku.webp)

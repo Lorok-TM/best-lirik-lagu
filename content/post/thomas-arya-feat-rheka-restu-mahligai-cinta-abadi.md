@@ -17,4 +17,3 @@ Jauh didasar hatiku ingin slalu bersamamu
 
 Betapa ku merindu bila kau jauh dariku
 
-![Thomas Arya feat. Rheka Restu - Mahligai Cinta Abadi](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiReTROJ5XfPW2bKwLGZV2QI6stjLZB_S5Jfg9nIaGwV3JKvXVRwW2jyXAVR9xFKW8FPDUDKUmBYKTcDP89oUuuhQofk9GpCr4k6oxyrczM6JPnacQ8Q-HFeB4EcI8rrcuqVBmUUjwwxz86c6BqkOZi3zr-zAX_WE8WR4Kpkv3zTnEBMNWVx0yXd8edlAYW/s480/thomas-arya-feat-rheka-restu-mahligai-cinta-abadi.webp)

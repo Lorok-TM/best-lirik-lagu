@@ -15,4 +15,3 @@ Bia larek dirantau Dikampuang badan tabuang Bak cando padi ampo Yo ampo tumbuah 
 
 Kok lai kasanang badan ko bak cando urang Kuaik kan diri walau dilamun galombang
 
-![Indah Novianti - Tapaso Marantau](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihSvt7wL_r_uAda4_ZzZb4tLVjNp2BYl2vD_gyfNQOwqas9uRW5fpydLTt0B58jVXQ1F1eWgYHpGXtfVVt1N_8CooV1CnCsOBcrFBEfQ9sCP0LxFDqfh68ZrXfs6iUPcbPdl1YiPreTB6TAO2nmkd95f9NDw493rnA-d1OzvIMDnD4gGQorYHjFfJTTPTK/s480/indah-novianti-tapaso-marantau.webp)

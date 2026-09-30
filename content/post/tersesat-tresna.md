@@ -29,4 +29,3 @@ Di hamparan sajadahku.. Kutundukkan jiwaku.. Memohon ampunan-Mu uwoh..
 
 Ku hanya manusia biasa.. Hamba-Mu yang penuh dosa.. Yang lemah tak berdaya di hadapan-Mu.. Yang lemah tak berdaya di hadapan-Mu..
 
-![Tersesat - Tresna](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPmdyvjwGzfJorl8816q2NNcCZ48Ta2t3inBeaPiRJ8Uoo0pMGc86b2AlwFEFVjwK0B0WvjzGOmgC0ZakiyeynrH7ft0rfWeI0IFunPwI4qibUsrItOeiKdc_VrREMA9aF6mIpMvmUB_ouuSQ6JQzU_QZNmyR9vSYCvjeIzWqXSJXuJOGi_kIphlsv76kl/s1280/tersesat-tresna.webp)

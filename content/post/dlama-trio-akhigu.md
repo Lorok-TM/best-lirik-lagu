@@ -27,4 +27,3 @@ Utötöna angawuli Ubase'ö we'asömö Ta ozui gohitöda
 
 #Credits: Judul : Akhigu Cipt : Yurisman Laoli (Eltoris Trio) Cover : D'Lama Trio (Feriman, Wira, Ridho)
 
-![D'Lama Trio - Akhigu](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpPFB5JyOU61e2VhlK9vfwXwu0DRPVA4HM3ujCIlQnzJFgeLciaMdnS4OLG057TAXiG_XUDc4q6GIDACKqM-tBgiSgdAySRIhyphenhyphenY2exOoi9Myk3yvGhHOczXT3jUNe9FWwyVhhF-_h3hd1ixXKNqPjiHP0HfEDXtlIf0zl2Ng2a55ELizNlbbX520phUyIt/s480/dlama-trio-akhigu.webp)

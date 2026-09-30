@@ -23,4 +23,3 @@ Ale di mana ada deng sapa Rindu ini harus bagemana Su paksa par lupa Sama sa sen
 
 Su paksa par lupa Sama sa seng bisa Satu yang jang se lupa Beta orang yang pernah se panggel sayang
 
-![Kamar - Chesylino](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiM9J_OJOXVhBWCAGHeC1y07sW3LxRi7A55Uu7wVXjcLSUlxTNSC11RFwsux9m85mBZzIMXv6_nKad1Ge1WiSBBoRCkI3AtvHhwfkzcsd2mqaT_igpJoeAaWDQhjePillqy_TMbmaQ4cOPxDHlCRs2piyvMdoiDsRRdGE8-sbOhP2ytwQBNrVfYw97TbYq1/s1280/kamar-chesylino.webp)

@@ -21,4 +21,3 @@ Sakujua tubuah den tak badayo Takuik rasian ka jadi nyato Kasiah nan alah tadoro
 
 #Credits: Judul : Darah Taraso Baku Artis : Rayola Cipt : Amri Damanin
 
-![Rayola - Darah Taraso Baku](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQ1a0qmac2h3EoXQH-j8W77P3-5tj_RRXrX7-RxCYTFgcDNd4jhc8-CKtkFAOIBYzK-DUIDwvHCet7RFa8fTew2L7UnlbhK74z5byGXVQsHUo5p35S5DtSVjcFYqwFYDZHqb8ouCORfog14A8tidAAmKisKc2Qfq9-0SLUSPa62kZaHSJ1lQl7RuRtv8xk/s480/rayola-darah-taraso-baku.webp)

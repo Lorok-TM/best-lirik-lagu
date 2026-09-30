@@ -5,7 +5,6 @@ categories:
   - "minang"
 ---
 
-![Trio Tacilak - Manihnya Galak Uda](https://raw.githubusercontent.com/Lorok-TM/2026-08/img/trio-tacilak-manihnya-galak-uda.webp)
 
 Talitak badan ndeh da Malamah tulang ndeh da Galigaman raso uda denai nan punyo
 

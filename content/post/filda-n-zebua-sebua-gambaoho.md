@@ -13,4 +13,3 @@ Uwai mano mege ya'ia niwaomo Talazu khogu wanema fehedemo Faomasigu he goi faoma
 
 Awena anehe uwawalo Nodofi awena ofatuno Yaugo falimo oya ceritamo Sebua gambaoho
 
-![Filda N Zebua - Sebua Gambaoho](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirMZWl-5fOaOMAuE8o51JEBmBdgHPpfKtDJtYGp1rlQRaELmG28APlC9fxm3ydTpK1dBoZAppMbZMT3WiJlVsqmtqBGsLFK2ZCBTdOeLEhjHEwmaPnfLbCjF1_mXBvUnn1Pm9xDEuTNvChQ5zwGJ_oxv2E7yrhvd8mky0nov1kD-ydJKOz1Aut8jr-VyTZ/s480/filda-n-zebua-sebua-gambaoho.webp)

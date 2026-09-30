@@ -25,4 +25,3 @@ Demikian lirik 'Menyesal Tlah Memilihmu' sebagaimana di atas.
 
 **Credit:** Judul : Menyesal Tlah Memilihmu Voc : Rheka Restu Cipt : Eriston
 
-![Menyesal Tlah Memilihmu - Rheka Restu](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLDsZltI0PgxidH12xsyTzZnbZQXGYC3h8y7RRbviveSwEWCiISIIeJpGgVKLLTM5i_D5CC0qYDBza4ZZZP5H9m3VVtegvDaEaU0G2bWZbWKwv5e22aSl_EfCQQSY_3fSRwc2hpGjsHRoW1_ujZe2HaK9Z5fblZ0Dp2MGfEJLOVuJgOk1M03lDbmqnrvFv/s1280/menyesal-tlah-memilihmu-rheka-restu.webp)

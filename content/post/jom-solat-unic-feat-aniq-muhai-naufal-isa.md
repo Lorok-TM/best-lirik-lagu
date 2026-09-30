@@ -25,4 +25,3 @@ Demikian lirik 'Jom Solat' sebagaimana di atas.
 
 **Credit:** Judul : Jom Solat Voc : Unic, Aniq Muhai & Naufal Isa Cipt : Bazli Unic, Ito Lara Arr : Papashabell Productions
 
-![Jom Solat - Unic Feat Aniq Muhai & Naufal Isa](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEji5f_qP0Twe6JgTVAJU0SpQgowPCkRUbLo-jNnjV1Lx3FkjQJl287zFFku6u6R8Sd1aU4Yk32EE6V-4Nrl0nI3I2IkZHBC2NJn2poAk_NQsexOINMpUsym_jVD7FgqmF_ieJ83chyphenhyphen1cZN1a4Ff5lb_L1vBJISaQ7wmK7k-cdb1PR_d0QSSDVo6lefXQ8DL/s1280/jom-solat-unic-feat-aniq-muhai-naufal-isa.webp)

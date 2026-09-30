@@ -19,4 +19,3 @@ Lai ka iyo bana da Lai dari hati mancintoi Jikok bamain usah di muloi
 
 Lai indak ka uda sio sio kan Lai indak ka di duo kan Katiko hati lah denai sarahkan
 
-![Lai Ka Iyo Bana - Fauzana](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3EMTN_BuOmz7vpFruuSdehLNH05dnLiYVJxJJSnAawcZp1gg14Nh3JKHpne56cxDzNXRx7Y1kpNxM3uP1gjOnnTeOa_1K522DCXtXfFoW7o8jPO91i6PWJQ4eFlTxwQh9EBOOxN6lRCOJTy8TTxRLNvx0-426vSFT3ZxSAAnrU4vHiEvqdT9yOOAqFa1T/s480/lai-ka-iyo-bana-fauzana.webp)

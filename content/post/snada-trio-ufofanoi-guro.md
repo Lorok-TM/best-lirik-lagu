@@ -27,4 +27,3 @@ Mendrua manö ndra'o niha tani
 
 #Credits: Judul : Ufofanöi Guro Voc : Alfin Harefa, Aris Lase, Nugi Zalukhu (S'nada Trio) Cipt : Yunus Gea Arr : Azwin Harefa
 
-![Snada Trio - Ufofanoi Guro](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBfqDQkPIfrFWJoZ5z3y4mu7gNoNikk3hmdni8kR_IEnBBWYoob9PozgD-PLKSyD1xLT_oLT5Mr8C0toY4S4cH_6E-FtA0PUMjMWXnpmSjd3rObYwxnybQiwUp3WH61g3KTiALvP_uaSinzhseniLpNKyhZCZgIDdmyMWtwD2oQeMF5KfMIay4VimYAZZU/s480/snada-trio-ufofanoi-guro.webp)

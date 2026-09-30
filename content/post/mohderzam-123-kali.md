@@ -23,6 +23,5 @@ Title : 123 Kali Artist : Mohderzam Songwriter : Adi Bugak Label : Platinum Reco
 > 
 > 123 kali ku katakan cinta Tapi engkau tidak perduli dan acuhkan saja Kumohon engkau terima Cintaku tulus dan setia
 
-![Mohderzam - 123 Kali](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIDpBdFRv43B-MokoyZ7pyBfSdM586KKw55i-yCvKjtGNT_bBnxIMnc0HjzZhQbMIWhUj6jL8zjqMLwxK5MYCN2VlMfEUdKeBt0Ze9U1ievMqu25yuLGR89jzse7GeFE0XirWl4rqGKpnamMb6Oedqbh9mKERWWdf5zYQbseFnW65zbdIpA_RLcGnzMQ/s800/mohderzam-123-kali.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Mohderzam - 123 Kali. Silahkan bagikan juga ke teman anda.

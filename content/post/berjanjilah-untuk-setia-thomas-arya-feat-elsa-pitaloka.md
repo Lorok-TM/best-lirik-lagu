@@ -5,7 +5,6 @@ categories:
   - "slow-rock"
 ---
 
-![Berjanjilah Untuk Setia - Thomas Arya Feat Elsa Pitaloka](https://raw.githubusercontent.com/Lorok-TM/2026-08/img/berjanjilah-untuk-setia-thomas-arya-feat-elsa-pitaloka.webp)
 
 ## Lirik Lagu Thomas Arya feat. Elsa Pitaloka - Berjanjilah Untuk Setia
 

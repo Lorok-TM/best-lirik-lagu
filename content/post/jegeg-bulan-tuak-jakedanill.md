@@ -25,6 +25,5 @@ Title : Tuak Jakedanill Artist : Jegeg Bulan Songwriter : Nathaswara Production 
 > 
 > Cir tipis tipis ajak sawitra Cir tipis tipis ajak sawitra
 
-![Jegeg Bulan - Tuak Jakedanill](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAa1TWrR_WWInDzcS7YTeBDdzIoRV6ru-LrriCCFdrGzw5XpgdQUmsQLvtG_tiCMVGg8AhvJqzS7A4--KWBS_gieqvxceqDPGv5K14v80mPpRYTcPnfnMnS59kJv31YVj0ON0Oomc9RbYOMGO6-uGawOjX-LAWNuWzcQh_FDJ0Ie4_gqGgmRLFEJQ1oQ/s800/jegeg-bulan-tuak-jakedanill.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Jegeg Bulan - Tuak Jakedanill. Silahkan bagikan juga ke teman anda.

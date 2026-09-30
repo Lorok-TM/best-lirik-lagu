@@ -57,6 +57,5 @@ _Janji Suci = Janji Suci_
 > 
 > _Hanya kamu yang terakhir Yang terakhir aku cintai_
 
-![Kesya Peni - Janji Suci](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1nGDKQI7cZGuU0zBmU4iiOqKfY9qnd4KqIFMSOBcjx85j5zEwQ_lpgNcg-Cl2eCTO_Eq2hWARUKZhhIf3Sf49w-i-QfyomSX9OgGx3W9YrEjNi1yO07RJZYi-vcthEn6CUttG3qkhbw1vaHhdzqG-z2lZlDAzrsSxGjJFYPB2b5YAWh9tVfKldSy_og/s800/kesya-peni-janji-suci.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Kesya Peni - Janji Suci. Silahkan bagikan juga ke teman anda.

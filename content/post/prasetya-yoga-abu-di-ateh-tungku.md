@@ -27,4 +27,3 @@ Salah denai ba cari cari Namuah raso nak ma lukoi Ganggam hampo denai tangisi
 
 Galak urang nan bagalak an Suok ka kida batangguangkan Sansai badan manjadi umpan
 
-![Prasetya Yoga - Abu Di Ateh Tungku](https://i.ytimg.com/vi_webp/x2a49Q1HF80/maxresdefault.webp)

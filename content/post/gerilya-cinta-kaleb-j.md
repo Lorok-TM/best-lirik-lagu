@@ -5,7 +5,6 @@ categories:
   - "indonesia"
 ---
 
-![Gerilya Cinta - Kaleb J](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2MjzyVwXlmumECpsXJcj49uIMPRUfyr7NIKXBKi7K4QvIpDf_4-TGZODSpD3MJ_Vz-HsQhmxyYbHreBRvDGOvuCNX-YyQFJKe7fvt0T6xhxSRRH0dtZATDeH1S5K4tS2mHUWD3E2xn6Xg3WovgwEFJuHs4IxVnJZKcFUxw1C9BZ5Bj1DZTu5zCPsH3Tst/s686/gerilya-cinta-kaleb-j.webp)
 
 Oh mesranya saat bermanja Kau dan aku di bawah rembulan Bagaikan raja ratu Satu cinta berpadu dalam kasih Betapa mesranya
 

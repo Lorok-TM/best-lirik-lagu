@@ -17,4 +17,3 @@ categories:
 > 
 > Fangonagu khöu safuria ga’a Lösa’ae tola falukha ita Aröu mbanua usawa ba danö amerika
 
-![Yahman Laia - Atagedo Wanegu feat Hermita Laia](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPxrAWqOmYrVPg3Ea9m8t4zo3mrb6PCRMGda2Oh8dIaiIBAWUiY-p1DkTxXyOpTcHzM--7MRClo2QLf__7wFLO3lnzwVlgmzp3baGjQWx9ufHDu4sqE-iYWbknaFJG3xDHKprkt1PDzG0YmFU8lurWMoIduVniKV66cTbs9mOn8eitBktrmErGhYsQKQ/s320/yahman-laia-atagedo-wanegu-feat-hermita-laia.webp)

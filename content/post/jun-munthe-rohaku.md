@@ -25,4 +25,3 @@ Gomos di tangiangku ikkon ho gabe rokkapmu Di suda ni hosakku naeng ma nian di a
 
 Tiop tanganku oloi pangidoanku Sian ias ni rohakku tung so jadi bahenonku ho tarilu Salelengnai ikkon ho hot di rohakku
 
-![Jun Munthe - Rohaku](https://i.ytimg.com/vi_webp/_79WjnaWKqY/maxresdefault.webp)

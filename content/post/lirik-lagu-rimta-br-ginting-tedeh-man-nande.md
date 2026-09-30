@@ -27,6 +27,5 @@ Title : Tedeh Man Nande Artist : Rimta Br Ginting Songwriter : Kresna Ginting Ca
 > 
 > Dibata sinampati Ia sipegegehi aku anakndu Oh nandengku
 
-![Rimta Br Ginting - Tedeh Man Nande](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgF8rzxrRmRLSES6JviDJ2RffDSY9oS4wyjH8jLnWihQbkByOKPtU8b5_dClhjLQInbp0OHG1r3HcuZc7kX7eIrxvbV-RFpYMfU2LWMAZ4m9AJ1caDFx8cdTKxUprDgrtD6bD-Tjh4y90DXAuKZ2oH7uPtSjl-b5XuhT6JRmyiuYAG3JYHEHW4fIEyPKEwJ/s1280/rimta-br-ginting-tedeh-man-nande.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Rimta Br Ginting - Tedeh Man Nande. Silahkan bagikan juga ke teman anda.

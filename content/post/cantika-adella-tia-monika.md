@@ -21,4 +21,3 @@ Tia monika manis sekali Bang aroel cinta mati Tia monika ... I love you
 
 Tunggu abang pulang segera datang menjemputmu Tuk segera dilamar
 
-![Cantika Adella - Tia Monika](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZOA072eDedYDs8RJg8MlMf22MDqvprCYUGspqD0vRTD0pFwzk9PfpxKnAvkUf4wc_vTdwWh2DgFiYbbDjOXmAFo9gJJZdJJLDViJKjeY2qLtdp6cvJLg-7271K8nBpfCtXarC2Q_bgMXAqysOZZw6Fprl0GlMiJLuvc5vq7HI33AFC5rEQah5DWQ2HE_k/s1280/cantika-adella-tia-monika.webp)

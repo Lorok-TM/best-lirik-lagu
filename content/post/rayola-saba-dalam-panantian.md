@@ -15,4 +15,3 @@ Siang jo malam seso dimabuak angan Mamikiakan uda pautan sayang Lahia jo bathin 
 
 Bamain uda di angan angan Manari uda di palupuak mato Bialah kito tapisah jarak Harok di hati batamu pandang
 
-![Rayola - Saba Dalam Panantian](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7t87JYmN8Ea8RnWzELBKveO095J1u9UwIP7hF45g1ngV3RCrIAsPYs51eYT6AARH6EMpix57njNJdOPWgrndOp9rWgK6KJVr6Vi1OzghpQfW6_EU-eBCeVm2gs1ApRyiqLfyYxU28hmD-xEVAB858Xu8HDyGm7hfLa0CLdvTDv8QvR1ujsrljHxQWp1nd/s480/rayola-saba-dalam-panantian.webp)

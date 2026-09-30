@@ -25,6 +25,5 @@ Title : Buruak Untuang Artist : Fathur Rahman Songwriter : Eddy Palangki Label :
 > 
 > Sapantun lapiak buruak diak Lapuak dek kahujanan Denai tau buruak untuang diri Usahlah balanteh angan
 
-![Fathur Rahman - Buruak Untuang](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0qGDBLb3CiTojmATgM-Sjg_HfWJSOHgyxeM0MKLPOdNiy-E-K9Y9XvcZfz-zf1nWaa3W38ZnDqwiss2daZVOj0vJscaUNisz-iOw3MJ-_np9RHwFkTUvkXk4RVZTIJiGxZzuh-3CPRqvLJ1XviU6FdN85KvAMGb66AqehvXrvQzHWVypQeYAAai0ALg/s800/fathur-rahman-buruak-untuang.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Fathur Rahman - Buruak Untuang. Silahkan bagikan juga ke teman anda.

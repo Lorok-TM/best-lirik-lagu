@@ -33,4 +33,3 @@ Denai lah salah tingkah Dek uda taruih mamandang Jikok nak bakanalan Jentelmenla
 
 Jan malu uda sayang Jan jan jan jan malu uda sayang
 
-![Jan Malu Da Sayang - Trio Tacilak](https://i.ytimg.com/vi_webp/wXEWibgDcaY/maxresdefault.webp)

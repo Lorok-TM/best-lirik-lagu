@@ -27,6 +27,4 @@ Title : Kau Pilih Dia Artist : Aprilian Songwriter : Amri Damanin Production : A
 > 
 > Aku tak kuasa menahan pilu Disaat ku mencinta Engkau pilih dia sebagai kekasihmu
 
-![Aprilian - Kau Pilih Dia](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJ9MYywLzXS0QmWAtTPxn6l_RP0jzo2rcsXlPSE3byoK___sq1FfmTrZnAy-TAhUkDaK-UIDVOa6FPF2aZvmNyyQp4Bx7pTBMxD9TfSO5ptmpIsYdrEot7y51cPHDUCbvO8PR6sqbLwnVOtm3vHaXGoDC_gvRcZPcG6Hbh_rJvVIHrJI7BZopksU1BKg/s800/aprilian-kau-pilih-dia.webp)
-
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Aprilian - Kau Pilih Dia. Silahkan bagikan juga ke teman anda.

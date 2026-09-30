@@ -37,4 +37,3 @@ Ku bukan fucekboy Atau mas playboy Asal bisa bareng kamu aku enjoy
 
 Kau seperti pelangi Indah menerangi Akan ku cintaimu sepenuh hati
 
-![Tri Suaka - Mas Playboy](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJ1dMn3CEuQj2dMxgtb2g-CgzPFvVsZO4cVtmhGo61UnmSv_12xOk2NrKgwZRPVafJnSONOe5Tvs1byeJ9E0G-epIZWmzOPuvu-X8xXGhAqzzxXja3sysUB5b5ywPr4moIeB_2nZ4ntnAZ54KO5XVUGLdjzhfQV-y-9K7PDE1QPXs6qxW9GjFliVZuHicP/s480/tri-suaka-mas-playboy.webp)

@@ -5,7 +5,6 @@ categories:
   - "batak"
 ---
 
-![Jose Simorangkir - Epiliya](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXBmBqRb1Nucd4rRq8pKU6H7ddGwyTok1dO2ZaZqMSWgerCt8KR_LH0nLOn9x39zGVHLd6xynfANbMAGdgoi-roj6EQ5cqzwtLBy0D3EnuXUOFoFLmSstIaIUcCwxbB4f0W9FQ0ougu_Ca6uMFRqta16ZgxoRah-hq4FoCssvEsRf4kqvzTznovEYaaAyz/s686/jose-simorangkir-epiliya.webp)
 
 Epilya ho do tondi-tondiki Si panganju rohakki da hasian Epiliya ho do sayang sayangki Na boi pasonangkon rohakki
 

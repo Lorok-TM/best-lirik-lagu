@@ -34,4 +34,3 @@ _Ela Nyia-Nyia Je Tege = Jangan Menyia-nyiakan Yang Ada_
 > 
 > Kata katamu terlalu menyakitkan Saat kamu belum bisa merasakan Makanya kamu jangan menyia-nyiakan yang ada
 
-![Radha Lina - Ela Nyia-Nyia Je Tege](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjciRTOINP6EHJI07pL0WGRB3Z6didLcnbE4ksin04q5W13ig4Wz6wFrw3H5y_P3MekAtldmEgxOcHBYhCBmgkGxFYVEGVCX9Y7VmlYcAWMeFuYaABOk4PcjfTSy-c30Lw441rqLqSaa8lo8nhKexUTRCaMFpVNSxwg3vySTqLMGCJez91CUYijNvEoiZah/s1280/radha-lina-ela-nyia-nyia-je-tege.webp)

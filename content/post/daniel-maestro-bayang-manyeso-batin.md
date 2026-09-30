@@ -5,7 +5,6 @@ categories:
   - "minang"
 ---
 
-![Daniel Maestro - Bayang Manyeso Batin](https://raw.githubusercontent.com/Lorok-TM/2026-08/img/daniel-maestro-bayang-manyeso-batin.webp)
 
 Siang jo malam taruih mambayang Rupo nan manyeso Sadangnyo tumbuah tinggi manjulang Nan si bungo cinto Ramuak radam jantuang hati barangguikan
 

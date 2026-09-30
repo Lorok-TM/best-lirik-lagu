@@ -29,4 +29,3 @@ Akhi Yawara hadia uwa'ö Hewa'ae afökhö badödö Me nilau dödömö
 
 Utötöna khömö Böi falua ba niha bö'ö Fondrege afökhö wolaumö Ya'ö öbe ahöwö
 
-![Bezi Halawa - Böi Falua Baniha Bö'ö](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRu5K-MwKOIJGQXhSPUE_T08ZNpcqcJYVP31ZMTStNS46SNKq6y2OfjkCZirWCv2ZloDEi8sCAUhOWANgHYWbXRcYNuwLRBo46dIq1Zcr1XkXv7dV_eZuPWYvDsambr2qfxqF-xMDxhyphenhyphenl20gtn_bs7UGFdZlm8UUai5Co2gumxy46cMx8xHiHHFIxYQUim/s1280/bezi-halawa-boi-falua-baniha-boo.webp)

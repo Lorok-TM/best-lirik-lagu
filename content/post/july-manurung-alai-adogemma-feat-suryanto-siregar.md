@@ -15,4 +15,3 @@ Met-met sai met-met dope singkoru Da nungnga di handang-handangi dainang Sai met
 
 Sahat sahat ni solu dainang Sai sahat ma tu bortean dainang Sai leleng sai leleng hita mangolu ale amang Sai sahat ma dainang tu panggabean
 
-![July Manurung - Alai Adogemma feat. Suryanto Siregar](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhk3qpQ16wLMJnZ0j6-inQ3STrAbA37jgClXglP7QVWgLTTywBQZvVyx1GfjTfiJ7yaZNQHjX8rTUppREU82sC0HYpJbju-THlTHXkTAfC55I9fdmxE3GsVJFg_cRovwRgdyN6LHAmcjTkaAKHkkSzHsr0H_RewvzxUI5ThTJ15a8M-KQ0HlBeiLOE-a77u/s480/july-manurung-alai-adogemma-feat-suryanto-siregar.webp)

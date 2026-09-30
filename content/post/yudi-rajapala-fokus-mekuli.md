@@ -29,4 +29,3 @@ Hidupe semakin parah Saat ne jani berubah Pang tusing terlalu benyah Masa lalu t
 
 Kal suud mejudi Fokus mekuli Sing ngidang meli ferrari Kanggoang sebates scoopy
 
-![Yudi Rajapala - Fokus Mekuli](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjV8gIfFPfD0aPS-SzXZM5p3SUJYOxzIKxa7m4s-OLwtdZJRz2J8a0PsmseO7l5UbrgxkDEfoDGNn8ilq18i06yeh2Cfag-8piS2PTEOGUOUXUU83eyG4HkURzlzLHEPQ8xCS2snqB2pPpjB0bEiIPgPccvkTK3c1QKXQ_7G-_-U0DTRFGEUfdglm4RGPFi/s480/yudi-rajapala-fokus-mekuli.webp)

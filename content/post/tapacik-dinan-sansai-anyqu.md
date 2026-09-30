@@ -21,4 +21,3 @@ Malangnyo nasib nan den tangguangkan Nan den tangguangkan Sajaknyo mande alah ti
 
 **Credit:** Judul : Tapacik Dinan Sansai Voc : Anyqu Cipt : Yan Guci Arr : Trizz
 
-![Tapacik Dinan Sansai - Anyqu](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjk0LnEIAdrJkXNrIbCjfzDK0Mw7BVaeQyCYh3j5MJ9d8ukmWl_fSRz9BhwsxgI_9_ED520TC5Dmf0-gIyYzj4aKR8Q1VZvjjnwpf_cBYikmPaEFAzrTPFtlZ_tZlPnbND-EAPvQ-RIO63F-N_coplAxCWbF8a-sOFcPbJTnBFaVwiwn8CxOpTuwATBbq9W/s480/tapacik-dinan-sansai-anyqu.webp)

@@ -25,6 +25,5 @@ Title : Rumah Sudah Tukang Diusia Artist : Rezki Mahoni Songwriter : Roza'c Tanj
 > 
 > Rumah lah sudah tukang ba usia Paga lah rapek dindiangnyo tinggi Sansai lah badan hatilah caia Abih paguno hinolah diri
 
-![Rezki Mahoni - Rumah Sudah Tukang Diusia](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjplhm75ZU-SCrW1f6teeZAx2tgXMo49jJtWmf6eVeLcSG64cvnbBmEabXLzG6_O1CcFvpvykBmKqKrNEskQfu4fFLzYBU6BeK4XbzBRcBtRci_KGkzCavCQvHZj9ZomJn8A0HYrN6xuGI8TXxsWmoVlVm1DFv4j_qHbny8LAdojfiEqUlwfXDjigakrA/s800/rezki-mahoni-rumah-sudah-tukang-diusia.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Rezki Mahoni - Rumah Sudah Tukang Diusia. Silahkan bagikan juga ke teman anda.

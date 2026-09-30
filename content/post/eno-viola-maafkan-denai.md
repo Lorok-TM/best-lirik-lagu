@@ -23,4 +23,3 @@ Kini denai Tapaso yo manarimo Pilihan bundo Rilakanlah denai yo diak
 
 Maafkan diri denai Uda sayang maafkan
 
-![Eno Viola - Maafkan Denai](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjomTnSAHotZ_qVsAzN4DqKWg2VeiXKSF1GmiJZjIGRqskejRDs_PqTheqhmzdAOUYSgWHmSqxw-dtD8B5tuw3UxHOpHgkkZDeE3c6AGwLS9ZwYpqhZTgKMQdmA72Bs4OT0p7xu9EaoZhI22q-qKNyhrxQumjAvomPR2cDjgZBhByQppQGvT-u6KZ-EfWFj/s1280/eno-viola-maafkan-denai.webp)

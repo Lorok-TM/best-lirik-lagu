@@ -30,5 +30,3 @@ Dia sahabatmu jadi kekasihku Pengganti dirimu Dia sahabatmu ingin meminangku Rel
 Demikian lirik 'Antara Kau Dia Dan Aku' sebagaimana di atas.
 
 **Credit:** Judul : Antara Kau Dia Dan Aku Voc : Dinda Teratu Cipt : Jhon Dayat & Ririn S Arr : Royal Music
-
-![Antara Kau Dia Dan Aku - Dinda Teratu](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi55Q8KIwGu9OqL7esuK_kBJALNIuZS-XVTdmcxxqofozAnUPB4N1Uh51RtPN1oOeIra_HfU8B7N2RN91Ko0QcDVPzQgzNQjLqIkJVHRglPYx7Ch1mliCSiNgG0SVGthw-J71_NUsQveKo38YQN7uLblBnS2Xh4kQosPC9OBikbyrMi1sWDzmg4G0X9M4ig/s1280/antara-kau-dia-dan-aku-dinda-teratu.webp)

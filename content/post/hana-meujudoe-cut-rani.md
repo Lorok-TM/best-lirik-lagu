@@ -29,4 +29,3 @@ Do’a dari lon kanda Semoga sabe bahgia Ngon geunantoe Laen yang leubeh sempurn
 
 Do’a dari lon kanda Semoga sabe bahgia Ngon geunantoe Laen yang leubeh sempurna
 
-![Hana Meujudoe - Cut Rani](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8540rGST-b9KiFzMkTbXsgPV43sLVvra1Ty51n0bh8933PYb48WMgFT8hgZ3SyTQiraBXrjAOP7o2MgzJL-2EnIqvYg9hB_kSXHEiUZV_vsWF3T1Mw20Nt-EZedv75P53WXNibZ1FMVnhXac8BdOoYBJiz1aJWM28pTJ_WcGm-LxaWHxmtXtFrD4qHuww/s480/hana-meujudoe-cut-rani.webp)

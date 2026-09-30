@@ -39,4 +39,3 @@ Tum ketumba indai ragum nadai dia Nyau nubai sungai kara Bulih undang empa matak
 
 Tum ketumba anak kami anang ngiga Jauh nuan antu kamba Serepak ngachuk mata Hey
 
-![DJ Xavier feat. Shirley - Tum Ketumba Antu Kamba](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgB9KMnGSOAnM5RhVkbvjx9H_kmuoL5k0ZQ_oWaJdtzOGChb8tC-MajTWNJln_dQ_z59pDyKG8OmaPCiM6Tjlc8jILppTD8AEaRZSvWgOINQMnQ4rwUFCI9raQvzzNWQd0djIB41pkW2aSGLaJeyTlaiyzf3AVn7OrG8zzfcYqvS7B4ItSmC-1mX0r9qqTx/s480/dj-xavier-feat-shirley-tum-ketumba-antu-kamba.webp)

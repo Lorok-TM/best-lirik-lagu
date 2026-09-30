@@ -15,4 +15,3 @@ No ufabu'i nakhi walö uröi nda'ugö Lö tebulö zazigu khömö sino uwa'ö Bö
 
 Bua la'izu bua zimandeke U ohe misitou ba mandehe Ato zame'eli ga'a lö utehe Ubaloi nda'ugö ola wa'amate
 
-![Jenita Gulo - Bunga Melati Bunga Dahlia Feat Yas Zalukhu](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhg7FYEU_oALZ6eMmIrvNSeJcwqCD6k7dntB4JjchWxN2Tnj_Sq7wS2wenhUTs0EpditFX5Hne64rmKWtFL5fUgynbKSbHFkvX0CPhIbPvxIBsQ4q7o3iEb9dQzTyTiC-HciuatUGaF53Z8KsErxPU1cfXJCBv45LfdfBr8yRjg7wpgFeKJnBOF4QaRDC4w/s480/jenita-gulo-bunga-melati-bunga-dahlia-feat-yas-zalukhu.webp)

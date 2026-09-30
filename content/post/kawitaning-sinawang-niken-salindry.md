@@ -19,4 +19,3 @@ Demikian lirik 'Kawitaning Sinawang' sebagaimana di atas.
 
 **Credit:** Judul : Kawitaning Sinawang Voc : Niken Sallindry Cipt : Setyo Puji Antoro (Setyantoro) Musik : Kembar Campursari
 
-![Kawitaning Sinawang - Niken Salindry](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdshAUokaXRYnSsfl9x3FyS8BPZZrNb-YZq5Acb_OnUrEuqNkgprXtuwz_UOHSD_s6nThGR7WClAk1EMQyfS7fNy0fZD97pEY61qKQbn-tpFImVBB-UotTE4mI6NEHH8umCowVeDU7sec1xn1ampqfIBbrI_5Kp7o2cC9-xGrQwM1tUFA0RIPe-xiurSwP/s1280/kawitaning-sinawang-niken-salindry.webp)

@@ -25,6 +25,5 @@ Title : Tak Sempurna Artist : Cut Rani Auliza Songwriter : Adi Bugak Published :
 > 
 > Semoga bahagia bersanding dengan dia Ku hanya melihat berderai air mata Semoga bahagia bersanding dengan dia Ku hanya melihat berderai air mata
 
-![Cut Rani Auliza - Tak Sempurna](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJLENIAfZJu6H4Dpwbw-ei8qAPkWeSK3pmlFS33NaCbrdD-cjXdNmM_BVCSVfhuk5U-w7OqcO-E77TSY9ElFoL2mJ2SJoL9dg1kCo2pK_ekFvatMU5DvxuJpcCky5SCTZ6EE-EHyceX8CzGOUmBWQOvE6rDAHI8qH_fBiG6wvnZj2nlehzmqlB17kf_eKe/s800/cut-rani-auliza-tak-sempurna.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Cut Rani Auliza - Tak Sempurna. Silahkan bagikan juga ke teman anda.

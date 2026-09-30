@@ -38,6 +38,5 @@ _Tahalang Harta = Terhalang Harta_
 > 
 > Mungkin nasib ini ada benarnya Takutnya kau terlanjur nanti Menyesal hidup bersama denganku Menyesal hidup bersama denganku
 
-![Tria Ramayanti feat Vitaloka - Tahalang Harta](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWehjMXigB2MGVK3O94E-E1U8Fp7eo5-1t6-69FJDBfBG2IwMjdFR_2NvQyTPRAFRgQIdZCF3EmNe3GjfIvvc5a0vAy_T0YK7OYZhesNcXRhAs_xGB0QAF_EiK0QSoAnBi4C_XkzTdc8v0oN02MFeHf6rnwkLBwVTsxM6-cpGtw8dTsaahAoMJxzbmTVaP/s1280/tria-ramayanti-feat-vitaloka-tahalang-harta.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Tria Ramayanti feat Vitaloka - Tahalang Harta. Silahkan bagikan juga ke teman anda.

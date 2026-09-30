@@ -17,4 +17,3 @@ Hati pedih dan perih bagai tertusuk duri Janjimu kau ingkari Ikhlas aku terima d
 
 Serpihan kisah masa silam takkan kubuang Sampai saatnya berdiri oh batu nisan
 
-![Diva Hani - Tangis Tanpa Air Mata](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdGqMEmKknUczBhhpqNlgt4oNiyvyw-9unuBpFjHac6xsTQt-FwH8ak_WVmxeS4vbG4ZrFCMe89DwyNajjtawTE-o4gJ6NeefLr8JoHULszSOdeKyJeMZl31uEZ_mSVppOKiWuUcD-jHvJ9GgEeAh8vjpThymphbCQnQvKK1CO6TJgv1WmIzzre_hGdq8O/s480/diva-hani-tangis-tanpa-air-mata.webp)

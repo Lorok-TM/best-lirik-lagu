@@ -23,4 +23,3 @@ Demikian lirik 'Duniaku' sebagaimana di atas.
 
 **Credit:** Judul : Duniaku Voc : Dpaken Cipt : Ewa Dpaken
 
-![Duniaku - Dpaken](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNX7_OGyOMMaZALkKa00U7yoVStGUAdNXBocTHwoB64cNGu_FYKvNtET6ny94d8qlSKn8asl78teuhOrYRWR0Ic1aDyiSW7s4D-LXbPloWn06Vz3T6EydxRBGmBAMPwyC-ccDPCBGj6MISWYS6waW1tm6zxdyABTkHfRLuXk5hSoJ5rePbepitwvtglNxu/s1280/duniaku-dpaken.webp)

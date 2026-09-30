@@ -37,4 +37,3 @@ Usai sudah senyuman indah Seperti waktu yang telah berlalu Ku sadari tak bisa ke
 
 Demikian lirik 'Bukan Takdirmu' sebagaimana di atas.
 
-![Bukan Takdirmu - Wizz Baker Feat Toton Caribo & Jacson Zeran](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipAlqhUxjozRfAdLmzp149e0vygo4LQxs9G48L9VieFMZoAAOqICNAp3tTd3vw4KtgshgTQ5W8dLepLu3IcXQhIHF0WgK1GRYVzptHAG44OhcMTvgQOOB_0Fn6ghXnbfQrMVC8X8Es7GQ5GXYvV-9QJflHYce2bnxYbztDJHtOFBjSqDr3q9NfGPsdcnl1/s1280/bukan-takdirmu-wizz-baker-feat-toton-caribo-jacson-zeran.webp)

@@ -19,4 +19,3 @@ Demikian lirik 'Mujizat Bagiku' sebagaimana di atas.
 
 **Credit:** Judul : Mujizat Bagiku Voc : Vionita Sihombing Cipt : Andy Suryono Arr : Danny Rico Novianto Sali
 
-![Mujizat Bagiku - Vionita Sihombing](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjavUKNN_Z5fIV1ZohvgJeeLeFRQmJtYJZjyh7s5Uf0KyXwpWwtIJTsGb10vf9BOTCnGQx6aSCHjxGnZyd6Tt-oOtZRF2E0FevIYkc-nMgEsIW776FXC50ZCKZt2rEIu4Dnwza0-1nRRLLDvvX-OQp9-E39X0pIjB-hgv2xipqmJbyY3AKWLRKx7OYQ_FhK/s1280/mujizat-bagiku-vionita-sihombing.webp)

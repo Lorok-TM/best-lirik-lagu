@@ -23,6 +23,5 @@ Title : Baru Terasa Artist : Netty Vera Br Bangun Songwriter : Netty Vera Br Ban
 > 
 > Kenca lanai kena kuidah Enggo aku kidaram Mama karo tedeh kel aku Lanai lit sindiatekensa Mama karo baru terasa
 
-![Netty Vera Br Bangun - Baru Terasa](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhM_16l_NfIfjN02Q6m327i-_PipFo8rD83WOcQ-faWtIedut9RPnLwgB_g47Fmbggxakl5k0PL5nXMkqELmx4TfZb40zKa_DhQqJCzBUT1uObQ21Xj_szNeORnesaBBpYIbJXPVFI8q3DI5bKV2kdIb_alFAAlsgGKplCF0cIdAdNgwWpqnrHaudkQRA/s800/netty-vera-br-bangun-baru-terasa.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Netty Vera Br Bangun - Baru Terasa. Silahkan bagikan juga ke teman anda.

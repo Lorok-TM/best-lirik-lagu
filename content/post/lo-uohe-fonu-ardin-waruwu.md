@@ -29,4 +29,3 @@ Lo u'ohe sofao fonu Ubee khigu saohagolo Hewa'ae natenga Khogu ndraugo
 
 Demikian lirik 'Lö Uohe Fönu' sebagaimana di atas.
 
-![Lö Uohe Fönu - Ardin Waruwu](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYn1aY9dREgL7s56P8BRAOH78j7ThCoS0ArvGF_qhkgY3q6L8hUxf5hnytFWDevqhUmCK4JewtSUxZ0Nq4UhztkSs3OokK1z17TbwIhSpyUflwN06aWyZApIrf2_QbaML1ie87pJmkELum4u_Eo1BtzFfSuPhWD-v_1d3HV0oFV0N4tMD89ftlqZ6GDr3x/s1280/lo-uohe-fonu-ardin-waruwu.webp)

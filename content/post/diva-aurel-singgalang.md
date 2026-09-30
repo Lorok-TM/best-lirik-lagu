@@ -31,4 +31,3 @@ Nan di kuduak lakek pasangan Barek ringan di elo juo Panek indak dapek baranti
 
 #Credits: Judul : Singgalang Voc : Diva Aurel Cipt : Yu MR Arr : Chito Deona
 
-![Diva Aurel - Singgalang](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjr4vfbWkYVONCaZV-KaOa93OsBrDIiJmC5joU5kQPeodfdf5zn_VfZiVPSdjPKqG-Ng3tZXOqeB8lGi6Yr3cvObaoOYwWUOeD1UiVj16xk_wBNPmSkWhQsFpnVn-vsDoX17jfHPgMCEEvoAwHNTsrLvnoL9V4kECAeauZiU4LeH1QN_dtGTaBe82mSYqon/s1280/diva-aurel-singgalang.webp)

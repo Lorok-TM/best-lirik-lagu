@@ -33,4 +33,3 @@ Demikian lirik 'Teulumpoe Lumpoe' sebagaimana di atas.
 
 **Credit:** Judul : Teulumpoe Lumpoe Voc : Ramlan Yahya Feat Ami Rahmi Cipt : Ramlan Yahya
 
-![Teulumpoe Lumpoe - Ramlan Yahya Feat Ami Rahmi](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjN23yLPzeBnmWkj67gMvsBfs4xcVr58wy077E1ceuVlOftxs12oFC4j58CJE9jqjv903FjCgqOvPrPSKFS1PaOeiLJ9vagi-VA5Lqe6IOaU3AoXAqGtJXu_c557NrCo1hPUIxo-jYI9wDMePW-3IRZQM054t2pxrMVea6Umuz-VwXJBs6CbLLbbdjSSiw9/s1280/teulumpoe-lumpoe-ramlan-yahya-feat-ami-rahmi.webp)

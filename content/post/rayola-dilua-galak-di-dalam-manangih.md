@@ -5,7 +5,6 @@ categories:
   - "minang"
 ---
 
-![Rayola - Dilua Galak Di Dalam Manangih](https://raw.githubusercontent.com/Lorok-TM/2026-08/img/rayola-dilua-galak-di-dalam-manangih.webp)
 
 ## Lirik Lagu Dilua Galak Di Dalam Manangih - Rayola
 

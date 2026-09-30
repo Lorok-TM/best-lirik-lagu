@@ -23,4 +23,3 @@ Dek, pangapurane kanggo awakku Mergane tresno iki tak direstui ibuku Aku mblenja
 
 Mas, kowe mbiyen janji karo aku Nglakoni tresno suci kanthi ikhlas tekan mati Neng nyatane ngapusi, cidro ati iki Netes eluhku mili deres neng pipi
 
-![Cantika Nuswantoro Adella - Kelingan Mantan](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj81MU7AQJX8Z13ZVS2BnWt9kutmwgZvtaECyzR-MDiiE3RY4FXXS_7R7kAPU3MwMyg4USK3dLE2eZ1_ndykgpfhjv7C4W1vfBrlp29pMFVY-QeTbbt5CUjKj_hpY83RUYnKN-9rw5i66taHrc96RwO5Frlh1lhhck7SU6jc65AqfmCzR6b2yMqpxxtRQ0f/s1280/cantika-nuswantoro-adella-kelingan-mantan.webp)

@@ -19,6 +19,5 @@ Title : La Tertambari Artist : Intan Br Ginting Songwriter : Intan Ginting Categ
 > 
 > Kune pagi si kita jumpa Anggap saja kita la pernah ngerana La tertambari la tertambari Perbahanenndu erbansa bage jadina
 
-![Intan Br Ginting - La Tertambari](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzEKLtEqxpkyB3O7HIEq8U2jTQQDkzWVBSvp5tHlrAkJe_Uh2gQu_DhULWiQMcNI9hhpzFTo24qm8l2sxlesQh-lGh6DG1JWA6YLB8WyYG9-VpnTEG7gxfBD-RF6KBR_pyaX3gci8Nbu6Daz_EZAmc6F7Wux6zbtICNDu3f66Ky-NkuoGfudibRIUOt1Ce/s1280/intan-br-ginting-la-tertambari.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Intan Br Ginting - La Tertambari. Silahkan bagikan juga ke teman anda.

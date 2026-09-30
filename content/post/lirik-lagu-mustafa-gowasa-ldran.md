@@ -27,4 +27,3 @@ categories:
 > 
 > Lö sala nia nakhi Asala mangawuli
 
-![Mustafa Gowasa - LDRan](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAX9MamLd3yPYwfd8tzMJlgQ62rEVIMwodlXQC3NAlEZO-ch6pHaEeb3WfPaQ86HJy2rgNVJ6B9nw6HJ3yB3CRePTZM6hg1XpFQgozU-HHxyJ8mBLBEI8T2kGm0rsmu9RWe0H5hq9QqCBR0vDdtkuO4phoO5wGi2ROWrBb32fQ-dtUfbF1hVIyi9fM8w/s320/mustafa-gowasa-ldran.webp)

@@ -19,4 +19,3 @@ Taukah kamu bagaimana Jauh darimu ku tak bisa Kau membuatku bahagia Lengkapi cin
 
 Satukan hati sayang.. untuk slamanya.. Satukan hati sayang.. untuk slamanya..
 
-![Satu Hati Sampai Akhir Masa - Andra Respati](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEionU17RznmrOkSOmAiqyqPPg660LnxGBgIv5k3zb-xIjDw4JO1Rjxl0RvaeCT7P_kflCUsYITM8Jr5RnsgpjUAyeCjkGUiBgxzIjc3ubfDFwyt_KVexFCw5OQ5tfSuqOJwpvGwfx1n6h2RX_K0chxFop2N4aLaMqS4FUkl-rUpe0OyZrl016xQWSBAdniz/s1280/satu-hati-sampai-akhir-masa-andra-respati.webp)

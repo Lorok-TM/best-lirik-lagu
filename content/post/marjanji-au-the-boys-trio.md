@@ -21,4 +21,3 @@ Demikian lirik 'Marjanji Au' sebagaimana di atas.
 
 **Credit:** Judul : Marjanji Au Voc : The Boys Trio Cipt : Alm Abang Ku Rinal J Situmorang Arr : Barita Situmorang
 
-![Marjanji Au - The Boys Trio](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaC5WI_qk9dCpjBQ-aSYf69R0Jirj5cI5mnofaKyOWi-M9jqpbdvXM5qEBe4-LPqp1MUWb_FXcuUY0WIImpaSfmVru4tefd3zyCKxgxD9wxVX5vj8iWXOil7pmO1KwbopHZJX6RwF5XTv_cpLCfPSW6jCn-guFdlf792GOm0WmourGw544zho6IU4JGmtT/s1280/marjanji-au-the-boys-trio.webp)

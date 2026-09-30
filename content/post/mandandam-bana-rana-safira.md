@@ -17,4 +17,3 @@ Sakik nan denai tangguangkan kini Raso hiduik tiado arati
 
 #Credits: Judul : Mandandam Bana Voc : Rana Safira Cipt : Rozac Tanjung Arr : Rozac Tanjung & Decky Ryan
 
-![Mandandam Bana - Rana Safira](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUnokOuyCQ0SmUvVwRbqueUqXOoWwjuwAGvk7Uls8qGP5VOC6o7WL0O8fjOARFesMD4fvKnp-DEEh2FyB2VXwgZHknJyGrixz5fiP7JqeKRLwI5HhhWXWd-au4oEezKH8M5WefVh0jT1nml6cb6YaK27pPggxiPc55ABsO-B7wQfdrk5YzDNYgeHUt0tcD/s480/mandandam-bana-rana-safira.webp)

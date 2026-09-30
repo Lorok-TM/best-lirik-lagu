@@ -37,6 +37,5 @@ Title : Masih Disini Artist : Gihon Marel ft Jacson Zeran Songwriter : Glen Seba
 > 
 > Sa tunggu ko bale nona sa masih di sini Ko pu senyum temani sa pu mimpi sape pagi Sa masih simpan rindu ini Tolong ko mengerti Sa masih tetap setia tunggu ko di sini
 
-![Gihon Marel feat. Jacson Zeran - Masih Disini](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPltR6p48-o7IsTXt2LGBheIsJox9IE5i3-zXv_1vq7WkwILScpQiPkdsuC_twCuO6GM7j83rDcrMGir2PYVOOlUhl2tZl2no3D2KNLvuNnAv7tK0ngkBdF5N66yHuyrEBpzFGJHT3vkVvoNeSV7yDZlEhp73rBmMJKy1CCy0TqfriuNofLen7jp9at7co/s800/gihon-marel-feat-jacson-zeran-masih-disini.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Gihon Marel feat. Jacson Zeran - Masih Disini. Silahkan bagikan juga ke teman anda.

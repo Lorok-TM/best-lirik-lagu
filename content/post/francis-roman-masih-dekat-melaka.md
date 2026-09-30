@@ -5,7 +5,6 @@ categories:
   - "malaysia"
 ---
 
-![Francis Roman - Masih Dekat Melaka](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMu1Z3dDa8szMSUydf6p22RiYni3DQ97ZkdjIKinIJBxD8VaHpOFkRtklmKLYkesay98438eqKouuY2AP1YxWrJsX4h5wC5RLhzTkl4Ew5nj6xX6NrnH4ebT0dOrMNvtX6-mVeLdEcZoCht8bchwxCkzdg3aHmyV50HmA6UvCirARjIPiE6oNNndc73DbP/s686/francis-roman-masih-dekat-melaka.webp)
 
 Semua member tanya aku cuti nak ke mana Aku cakap nak balik kampung dengan parameswara Jangan ikut kalau asyik nak bertanya Member tanya mana aku masih kat Melaka
 

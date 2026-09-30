@@ -19,4 +19,3 @@ Sio nona e sio sayang e Sio ale sampe hati Kas putus beta e Sio nona e Jang se b
 
 Beta pung cinta mati par se hoo Beta seng bisa jauh dar se Sio nona manis e
 
-![pe Hati Lai - MWP Feat Marvey Kaya](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEje9uiKBJ7eOScKsZ4QPqz3d28hi_30t4CgBsSQMCeeeic6fdW29K4FtSPokvNLmGThEn544swk8Wdca3n3fa5JgdtNZ3rUIc1ZPU-spHbTqlUXqMMDPtUjPa5JSZO0MhoVB-gvwpQFpbcxh1xaZjOibeZmfhXjWoiPWga2-sSK83_MrxP4hvy4EIGekS1e/s480/sampe-hati-lai-mwp-feat-marvey-kaya.webp)

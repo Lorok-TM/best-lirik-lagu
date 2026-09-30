@@ -5,7 +5,6 @@ categories:
   - "java"
 ---
 
-![Tamu Undangan - Intan Afifah](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8_wjkxqCnZnfHwO2HhBrNqYRXR9RhXNp86rgQHbqn18KUeCJY6Ze49x3XGwxfUSfqPgtfOYglC3Xpqz6WmkSl0Sd3GS3lFhkWgsyeaGCZCxKgCReWUNjalbuu4BqnoqN9del0Q_x-jMA67zl82UEgMXFUQ19zTUlfibDOvtnqKFx6pEz5w3dqokDxpnUu/s1280/tamu-undangan-intan-afifah.webp)
 
 Minggu esok adus mruput Gas tipis ning resepsimu Nyekseni ijab kobul koe ro bojomu Statusku mbiyen pacar saiki tamu undangan Kelangan koe aku oleh ijol prasmanan
 

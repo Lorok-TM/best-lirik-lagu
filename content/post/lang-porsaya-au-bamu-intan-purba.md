@@ -17,4 +17,3 @@ Ulang bahat tu sahap anggo lang dong buktini Kepastian do bakku na porlu Ulang b
 
 Halani ai rossi attigan pe botou Lang bakkalan porsaya au bamu
 
-![Lang Porsaya Au Bamu - Intan Purba](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgao_wqWuFj-dLhgmffqDO54KbsX2DQ1_rzagB379XpD1Zxjww9DvEeduKcsxg_otZMmnDTSq-tft0y8saS6GTdnRX1WKYcXXlFx9VpOONSkeB60YBTMQMT6QBPWD97mkUy1BxauPw178RRDGa4NvGYJEdQVGbYnaf-IxiI2OB4bNyfxcVV64n8JTRMETng/s480/lang-porsaya-au-bamu-intan-purba.webp)

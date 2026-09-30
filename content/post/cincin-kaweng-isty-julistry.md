@@ -29,4 +29,3 @@ Demikian lirik 'Cincin Kaweng' sebagaimana di atas.
 
 **Credit:** Judul : Cincin Kaweng Voc : Isty Julistri Cipt : Jemmy Ratulangi
 
-![Cincin Kaweng - Isty Julistry](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilS3t6eOqWbG9af6TWdge_dDsrRU6XDufAJYJLAauog1gS06xm3m6HxhfD8PL1Txl35q_pHefzd2vVuRGoj1i8XHhyphenhyphenLQHGRxvXt0TM8-XXp27xppHuL_KpPY3LIFrpX983xjHSb0ExhtqfpPy-Rk7smkaeKKqloKNgA5ybz27IctxvhROLy5L3aLdYTnt4/s1280/cincin-kaweng-isty-julistry.webp)

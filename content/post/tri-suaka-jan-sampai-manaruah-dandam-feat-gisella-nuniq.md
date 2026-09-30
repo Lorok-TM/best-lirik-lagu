@@ -13,4 +13,3 @@ Indak ka denai putuihkan yo tali badunsanak Walau tuan maraso denai ko ndak bagu
 
 Kok kareh tamparan tuan bialah denai tahan Indak ka denai baleh walau padiah taraso Pado dunsanak nan den lawan bak mancabiak baju di badan Nan ka malu kito juo
 
-![Tri Suaka - Jan Sampai Manaruah Dandam feat. Gisella & Nuniq](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhghwubHyriFP9Y1T2Uw9OWkjIW4UUdaklM6Jq5JWXiBZR1aKz_4P6e7MF1anR0rw1gzkkUM-tGfkcuT9fZFghvUX2ICH8HQ_gfp844FD-vOSzRJ8waumZwj1QyhE-FMn8mKB7Vulkq1-TMROSVKIv0eCIDPXJQ2pAmG0T_CJIWmIkupcnwvY54MWvqunlD/s480/tri-suaka-jan-sampai-manaruah-dandam-feat-gisella-nuniq.webp)

@@ -19,4 +19,3 @@ Ie mata ulon roe saat hate nyoe rindu Bah kan teukadang ragu saat jioh di mata O
 
 Oh sayang bek ta moe na lon nyoe sajan gata Akan sabe lon kawai sampoe ajai troh masa Gata sabe lon rindu lon teupu gata setia Han sampo lon peudua
 
-![Nurul Munira feat. Fahmi - Sabe Sajan](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiESNbZnt8O6CJaYiPF8zXnHGDsDIw1YjhGICDQaoi6dxwQTnX85o2sBpkAmJw381Cuvy33OQ68o6bQvB4qJV6ORiQwd2_Z99BMCOjS4tVfGbtGmTSKPPW_h5EbcAseKALuhVs673IVTiT6O2vlf4zg37VpwcSoHted-ElzhBOy5GyjndwhMJ73cf_CLC6C/s480/nurul-munira-feat-fahmi-sabe-sajan.webp)

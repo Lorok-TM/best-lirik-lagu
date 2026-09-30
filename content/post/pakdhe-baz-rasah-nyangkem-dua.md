@@ -50,6 +50,5 @@ _Rasah Nyangkem 2 = Gak Usah Banyak Bicara (Versi 2)_
 > 
 > _Orang yang jauh berbau harum Orang yang dekat berbau kotoran Saat dibutuhkan aku kau cari_
 
-![Pakdhe Baz - Rasah Nyangkem 2](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAIch0u1SE6r22b-UbHesOnk8E-kvUMUyQ6jWP1BptZdlUGwQcpnxL93kOTEVRKb6Ufhu-W2rECH_mo4JlDqME1GJd5i8Y_A7onQ-RHwWr3_K1vdQr96DddiKgQFEC7aBtPyXfmrh6OQqaERk4AloRLb0QZgtx-hy6wJG7rM76DwCxsgQVOWhnDWNOBA/s800/pakdhe-baz-rasah-nyangkem-2.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Pakdhe Baz - Rasah Nyangkem 2. Silahkan bagikan juga ke teman anda.

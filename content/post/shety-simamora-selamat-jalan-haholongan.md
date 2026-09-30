@@ -17,4 +17,3 @@ Ilungki sai maraburan Huhut hutatap bohi mi di ari parsirangan Hassit ni na mago
 
 Tinggal na ma au, borhat na ma ho Selamat jalan ma di ho
 
-![Shety Simamora - Selamat Jalan Haholongan](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeP9O7C3KvZozJG75ge1G0j7IcSgeLTWKVZ63WSL-YRSsqFiSK3ums1hzz4f_QYTixPb17XzlDZv8v4G_jC1N2j9ykPlm6mfSxPp8j3kyvR7Lg6mismRv13oMLiJ_TwUouzKWZv1Y0DAeQMNHbG_f5gGAlaEgOv_3imxlnRM1KxhHww5Qb-OZSfmiqw9Fy/s480/shety-simamora-selamat-jalan-haholongan.webp)

@@ -23,6 +23,5 @@ Title : Janji Ka Janji Nanti Ka Nanti Artist : Puspa Indah Songwriter : Rozac Ta
 > 
 > Tanyo urang siliah baganti Tajawek lai nanti ka mananti Kawan samo gadang alah baduo Denai manunggu janji uda tacinto
 
-![Puspa Indah - Janji Ka Janji Nanti Ka Nanti](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIWlW7kfpTg75Ans1wnHFX48Qo327wLm3maVwIBlkHwXglQ0jrtmrbKNFNv0lcujy3GYjmEf0wQ4ujwJuXLp4knq_ZfEsKmNex9EfZvgneEIOJJZA1Dt-zAhoyl5QE893tj4i_-I-xK0zPuvgovWsZjd8PHLsJ66WOv4aKOVsvZrAfFn0ETp5m9EL7THak/s800/puspa-indah-janji-ka-janji-nanti-ka-nanti.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Puspa Indah - Janji Ka Janji Nanti Ka Nanti. Silahkan bagikan juga ke teman anda.

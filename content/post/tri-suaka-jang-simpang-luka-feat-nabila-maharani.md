@@ -25,4 +25,3 @@ Jujur par beta jua sayang Jang se biking beta kecewa Beta su coba tuk mengalah h
 
 Tolong hargai beta pung rasa Cinta yang beta su bicara Kalau memang seng cinta beta Hoo bilang jua jang simpang luka Kalau memang seng cinta beta Hoo bilang jua jang simpang luka
 
-![Tri Suaka - Jang Simpang Luka feat. Nabila Maharani](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQZT7-CCirLQ2iaZTJFIRFos9caWVcRwX49WnGWSQivrcTEQZDC9dYuutLnHixZDhpo4C7c31aj3ET1gOGD4JixHKvU0JIEUY3mw0iTe8lNeDVdn-sP3dYdHXrtmsA3yGEUq9dNFpeLeUta9oGgKZKmHKYVuvCTdgCBXu0yfZNn71WXY0rrJ0vlIeOD1Kc/s480/tri-suaka-jang-simpang-luka-feat-nabila-maharani.webp)

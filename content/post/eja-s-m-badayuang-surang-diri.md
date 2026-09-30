@@ -27,4 +27,3 @@ Tiado tampek mangadu Hanyo den pandam sagalonyo Supayo cinto kito indak bapisah
 
 Bialah den taseso Asa uda taruih maraso sanang
 
-![Eja S.M - Badayuang Surang Diri](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsxE4PhIe3pHPSYn6rPmdZQvviMXBzKSxS57xuhu_MmreGQA0Sf0VH2Nk1gXFh8jgzra5NsCyjZMJIxfJiUmcFowbvpRM23JvLs7zY4lffVDgm-yWhXbvS0AX3eND62l4JZNFLFvKCDPfDd6vSu8LWYM20r8AClx3H_LU5mg4q6grTT7ddBK_Me2oKWXFe/s480/eja-s-m-badayuang-surang-diri.webp)

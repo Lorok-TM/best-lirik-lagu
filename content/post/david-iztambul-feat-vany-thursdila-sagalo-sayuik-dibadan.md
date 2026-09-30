@@ -25,6 +25,5 @@ Title : Sagalo Sayuik Dibadan Artist : David Iztambul ft Vany Thursdila Songwrit
 > 
 > Bialah luko den tangguang surang Rilakan denai oi uda sayang
 
-![David Iztambul feat Vany Thursdila - Sagalo Sayuik Dibadan](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidz6J6p3RA7vhmvM8Ev-PdcHhThxTceeGPykfQB6ULa7LBEusP6Tgrzx42_sqvHaymKTAyaBmbfw1l_42wLvJby5rOyCyh43R-EmD3p-NYb2X6u1Vh4OSA06KlQSelHkjAZPbLXh90x0lJBNvll8EeGf3MPEgY0ofhQsfybheCFTno933op37svRIDsw/s800/david-iztambul-feat-vany-thursdila-sagalo-sayuik-dibadan.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu David Iztambul feat Vany Thursdila - Sagalo Sayuik Dibadan. Silahkan bagikan juga ke teman anda.

@@ -19,4 +19,3 @@ Demikian lirik 'Kaja Bakaja' sebagaimana di atas.
 
 **Credit:** Judul : Kaja Bakaja Voc : Rendi Kurnia Illahi Cipt : Misramolai Arr : Doni Asben
 
-![Kaja Bakaja - Rendi Kurnia Illahi](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGI-M5RoZe7EHcPty0TKsACeWW-uUsGUuQ0P9q89rzRFqY_m896x68wuz0ngr9AClTaxFypkNgZlThUdfsO7OUqQHfcgZQNTS1KDpSmkF5xaVvveMA-HzTWiHbRPw2MCke7AHoIvkNbPbP3tA3uoAQpHsCu9xZDFyi7PK9DTxzacDLj1DDczxFrWXmFpdk/s1280/kaja-bakaja-rendi-kurnia-illahi.webp)

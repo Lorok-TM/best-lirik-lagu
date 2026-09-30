@@ -17,4 +17,3 @@ Hakekate cinta dudu kemewahan Tapi kenang rasa nyaman Lan rasa watir kehilangan
 
 Kakang bli bakal keganti Sebab sing kaya kakang iku sewu siji
 
-![Sewu Siji - Dede Risty](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiF6r0s5CoWCMvk91aaUqrekEg2gIyfqvNTh3vieNdxkHbFpU9DxhHvgOTue7ClyN_yrJ0NH0PQX2V4AVtD6N34FpwDg8HMuK2AZ6AUUxlZHkXUsYfrmGq_YanGriogOVIthWtkWiyeMSPvQ_c5D-BZTZI_3ckWutLDrQXzLdrCIfkcEoaTZMsfHo36Ol-G/s1280/sewu-siji-dede-risty.webp)

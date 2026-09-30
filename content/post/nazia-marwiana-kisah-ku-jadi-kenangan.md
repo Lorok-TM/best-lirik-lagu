@@ -45,4 +45,3 @@ Title : Kisah Ku Jadi Kenangan Artist : Nazia Marwiana Songwriter : Riyan Arta P
 
 Video musiknya telah tersedia di channel Youtube CMD Studio yang dirilis pada tanggal 24 Desember 2023. Anda bisa menonton video musik lagu Kisah Ku Jadi Kenangan - Nazia Marwiana di bawah ini.
 
-![Nazia Marwiana - Kisah Ku Jadi Kenangan](https://i.ytimg.com/vi_webp/dyNNlpcxYgA/maxresdefault.webp)

@@ -33,6 +33,5 @@ Title : Komang Artist : Happy Asmara Songwriter : Raim Laode Arrangement Music :
 > 
 > Sebab kau terlalu indah dari sekedar kata Dunia berhenti sejenak menikmati indahmu
 
-![Happy Asmara - Komang](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJ2pgJoBu7cq9csJrY3oce1nxSQFaGPYG6KyC7naueSJ-XT7VdL2z_OpgYAerTzTGvYUjHfzftpU0wh1d0p0PMRf3-1nVuBBL0tCrTl6LRmBCjrqNqeqxBfoL2lkoldCZYw6SaLkbS9Rg2tLH8TS2OSOskJr29NrWauKbscwgMJO75oOWWyjkNGxYk5Q/s800/happy-asmara-komang.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Happy Asmara - Komang. Silahkan bagikan juga ke teman anda.

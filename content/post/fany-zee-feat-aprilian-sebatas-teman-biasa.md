@@ -25,6 +25,5 @@ Title : Sebatas Teman Biasa Artist : Fany Zee ft Aprilian Songwriter : Andri Dha
 > 
 > Jika nanti kau tak temukan bahagia Dengan dirinya Aku disini akan setia menanti
 
-![Fany Zee feat. Aprilian - Sebatas Teman Biasa](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjc5V2_ZjdEzIm2L2o6pC5kYEA51dP2Bf7cFanvOSzqXvhcHJ4IU2_XAUUhq-3i0QpephRDyjmylO3iA0nbYS2-QiOpkqhiIsonNdaTpO1ymBjhBulTllwG4fx7z7DnQ-fwPlFvFD1h28ACe6LU3N_w1PIIzm44t-rw8it1JOvYsx6Vl_1LJTEQL24UxA/s800/fany-zee-feat-aprilian-sebatas-teman-biasa.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Fany Zee feat. Aprilian - Sebatas Teman Biasa. Silahkan bagikan juga ke teman anda.

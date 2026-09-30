@@ -33,4 +33,3 @@ Indak denai yo badayo Jikok uda balamo lamo Siliah baganti urang manyeso Bakanda
 
 Dituruik lah da pintak nan ko Siriah jo pinang sa carano Cincin suaso kuniang tak jadi Bialah da pangikek janji
 
-![Fauzana - Janji Cincin Suaso](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEHdbiTE3kRu1Oxfs4irT6u_sAEYhCZBSmKnFf1bozdncyUDU6qua-AKpL5XCbCpYFL71IDh57_jZ6OigU1K_dOUQMQpUEhf5-yCJNw4fat1m2empjhcv1wDfiQEwgDftIf0efLnAghsl-rebINnG8_xQ0NiXqep6hQgLFjO_PaLjaJ0ep4YeZKnvrIEnR/s480/fauzana-janji-cincin-suaso.webp)

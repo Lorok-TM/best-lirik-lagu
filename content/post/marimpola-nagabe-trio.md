@@ -27,4 +27,3 @@ Songoni ma rohaki tu ho Marimpola do ho ito Bagas di ate-ateki Dengan ni lagumi 
 
 Marimpola di rohakki
 
-![Marimpola - Nagabe Trio](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHQsaBdblicRmH79aon9kMhmujyEmNYo_o6gwM5ZGIiqpJ22aIkBSZLH0pozrmeA4VL9mdzYwCVJG1a9OEYTiUd77A_pPYat7sjfrMNiC2es1wcwcjgwIkymxLPZgTJN5qngHE32rBa7AAzcwDjZ-7nGVG6L4hsJAj4Zv7ZyiH9S_D2XbJ-TjUSpmZQ5iF/s1280/marimpola-nagabe-trio.webp)

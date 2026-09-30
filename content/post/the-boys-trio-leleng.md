@@ -25,7 +25,6 @@ Situs bestliriklagu.com tidak menyediakan chord dasar / kunci gitar / Mp3 lagu L
 > 
 > Gabe sai marsak rohakki dibahen ho Sega ma nang pikkiranki Molo naung adong gantikku diroham Paboa ma tu au ito Unang sai tarpaima ima au Unang huingot ingot ho da hasian
 
-![The Boys Trio - Leleng](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2whXMLPV3g0E6BnKf8WEagvqFmkXL6gbXYDC3l8Z4QPhHKRzYx8Le_USk46qQ28baA4NfAnGY8RJL9B0_2fbUsF6l4rIhsayuu0D8icfy7Oy489sPzLFPZOSvdllpd_-uoJYfgZDhOsk4pVWkyjssMAnfdK1Zum6vsmpmNCD2IwZV_g8ewXP0YgvoIEks/s800/the-boys-trio-leleng.webp)
 
 Tujuan kami berbagi ini ialah menyediakan dan menambah sebanyak mungkin informasi arsip lirik lagu untuk mempermudah bagi Anda yang ingin menghafalkan lagu Leleng ini, maupun belajar bermain musik.
 

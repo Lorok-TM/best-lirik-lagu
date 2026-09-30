@@ -31,6 +31,5 @@ Title : Roti Tar Artist : Gitarena Br Ginting Songwriter : Jhon Pradep Tarigan P
 > 
 > Ise pe labo beluh Nambari sa pusuh ku ceda Dilakin kena mama nangin Mulihken bangku
 
-![Gitarena Br Ginting - Roti Tar](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJ-dInfUGQ7yYeMlcnA_Q4gsKN7u0yCR9Cj_EzQZOUBDiJ4S-50glRkInvdvDtRWBb40e0hvxxJG8JInyScXhN1aZjLnbDguyMe_AQxZIiGamy2Kkpgyb_BmXLdjvVknlkmBrwfVA3x2ecmPHL2TtgdFs2yCGmYEqI0uqlSGOFv1LnynqWc9oRkWR1FQ/s800/gitarena-br-ginting-roti-tar.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Gitarena Br Ginting - Roti Tar. Silahkan bagikan juga ke teman anda.

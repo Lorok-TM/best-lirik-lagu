@@ -5,7 +5,6 @@ categories:
   - "timur"
 ---
 
-![Kalo Suka Bilang Suka - Juan Reza Feat Niken Soge](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9SLg6LQ6SXkpQKKHnssE789BWuZKrOvEWanUSWan0tNfEJzkilbOWfo5yJHME8FDyhTa9Y_a9bHGb6C9_cgZ1b1mtUm0Lm_4JApzQQns4zl8NPmm4MLQh1FJGeEXzNll6pwMBKbWKMLvh0ZifkCxj9_Q9lsN0q76EwCCdQPdR6A1YVtcFqXhiziK9R3cy/s686/kalo-suka-bilang-suka-juan-reza-feat-niken-soge.webp)
 
 Kalau suka bilang suka Jangan simpan lama lama Bilang saja
 

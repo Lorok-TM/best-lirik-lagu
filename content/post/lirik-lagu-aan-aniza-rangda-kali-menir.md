@@ -39,6 +39,5 @@ _Rangda Kali Menir = Janda Sungai Menir_
 > 
 > Lelaki memang pandai merahasiakan sesuatu Dalam jok motor uang lima puluhan ratusan ribu Giliran istri yang minta jajan Alasan yang diandalkan dompetnya hilang
 
-![Aan Aniza - Rangda Kali Menir](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcoEuUBevTcKV-uzg_klqUal7J75OjqLbyIkR4pZHg1NXiAtI0tLJX-WWFbI05zJ26esCenZHeNWLB5i3SAevu9O4JBegh-JxZOV55jrBRZVW_mrbHrjEd-G-EMQHGAUkht39DxyOFamsDguR1icZRho5F6mum-dLK5jnpy-Ws2TDs4gRJ0SEaO7gztNL-/s1280/aan-aniza-rangda-kali-menir.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Aan Aniza - Rangda Kali Menir. Silahkan bagikan juga ke teman anda.

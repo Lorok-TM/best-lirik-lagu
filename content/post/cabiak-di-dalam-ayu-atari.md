@@ -19,4 +19,3 @@ Demikian lirik 'Cabiak Di Dalam' sebagaimana di atas.
 
 **Credit:** Judul : Cabiak Di Dalam Voc : Ayu Atari Cipt : Erwin Agam Arr : Decky Ryan
 
-![Cabiak Di Dalam - Ayu Atari](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlReiFFWTagaXcL-7sH1SrOwEHRJ8slbPzpBGjfAiYxQclIzIlyXwp-6mEDCu5kZa1ldgs_7GvPq17yKSSSeCU3Us-Xgvodg5kDCcJWTf-WrruzbtZw9kdDO9_2nipzgqBQl_Jhz_kexaYXcexEQwXM6SDlIKgxu1TuggeTKCd36GdL9CGOFCkl0c-Eldq/s1280/cabiak-di-dalam-ayu-atari.webp)

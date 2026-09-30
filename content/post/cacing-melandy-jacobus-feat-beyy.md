@@ -23,4 +23,3 @@ Dia mulai sirik lia kita lebe asik Ta lebe asik
 
 Demikian lirik 'Cacing' sebagaimana di atas.
 
-![Cacing - Melandy Jacobus Feat Beyy](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiK5lWZZK4ZGN4zYABYsz_FnwYeZ1igLbL3Lv11i4u-YK2l6bIVW9yZJ00GlON2HOEj-_gBt-xDWwGrNNm5eugTSD4iKosDZyTQ6DA1KLpbPKDfS5X2Lg4T_96h6i3LFEQyfsSYeDhwmrdRMmx2c5bq-Zu6k9E9spUYTiajZXbWytnGpEkKCUn-c6n8tU2i/s1280/cacing-melandy-jacobus-feat-beyy.webp)

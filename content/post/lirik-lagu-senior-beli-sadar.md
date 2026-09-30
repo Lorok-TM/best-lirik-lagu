@@ -19,4 +19,3 @@ Title : Beli Sadar Artist : Senior Songwriter : Dewa Mayura Label : Aneka Record
 > 
 > Beli mulih luh Ngaba sisan tresnan beli Beli kapok luh Mengalih demenan disisi
 
-![Senior - Beli Sadar](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinJjW1wldsPlWU_7OlZfULDSafteBhGELlJyRIJDJj2bla4RoEN_Q9hsVH4uW2YpsdXJIn3BwhW0Zvr6JGqyyAlCHbpizUw6S1vmR73Gp9yOTS_scFeIsfTGTgVtJkQ_iaLafv6-KoF3Uuf1dadOfDLqRFWzbLUea50WCveU3WzEUkITLujk6_9vSWvF2p/s800/senior-beli-sadar.webp)

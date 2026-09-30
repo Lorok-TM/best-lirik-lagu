@@ -5,7 +5,6 @@ categories:
   - "dangdut"
 ---
 
-![Cinta Atau Nafsu - Pawzia](https://raw.githubusercontent.com/Lorok-TM/2026-08/img/cinta-atau-nafsu-pawzia.webp)
 
 Baru jadian Abang ngajak ke kamar Minta berduaan Langsung bongkar bongkar
 

@@ -17,4 +17,3 @@ Demikian lirik 'Kemanapun Memandang' sebagaimana di atas.
 
 **Credit:** Judul : Kemanapun Memandang Voc : Evie Tamala Cipt : Evie Tamala Arr : Ais Arza
 
-![Kemanapun Memandang - Evie Tamala](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivBYkbTRlYpSCaeXvYBeTrtSTOFRilzxjcYbVCg7oEXetEsKNjBW9FI7iXFk0p1ciWpVFy0DLUdW3GSyLO1yey6FVrR0zHxjMEK1bHmE5gLAnaTxZdBq3HrbcsJG6WwkZ3oHn4O00Pn_-6tA-mA1s8aiJLwIk9-TQwfLAuJP0cRbcKa2IGzXRDMn3yyxEX/s1280/kemanapun-memandang-evie-tamala.webp)

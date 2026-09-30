@@ -17,4 +17,3 @@ categories:
 > 
 > Tak kuasa ku menerima pahit kecewa Sungguh tak kuat ku menerima beban asmara
 
-![Era Syaqira - Bayangmu Masih Di Hati](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOguEKB72FfgU4rFs58HhBCbVkkugE9tRKGVL0Ok9onsm6xnvpQ2Vju3EgekD3ljyIDeKcL5tztNWl_WHd9nodVorq_Z9_wUqc1RAqzYcroM3ypacLYwVZwk_ZuyvDViP54E2YevqrcL2RlhMc2rVkSfDyd4MySSCuH9rRDSlU36ZgIoVyoqmNC9b6og/s1280/era-syaqira-bayangmu-masih-di-hati.webp)

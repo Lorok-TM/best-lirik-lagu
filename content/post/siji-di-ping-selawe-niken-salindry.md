@@ -5,7 +5,6 @@ categories:
   - "java"
 ---
 
-![Siji Di Ping Selawe - Niken Salindry](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgugn-zs24cyaQrJrrETHIcfMHFw6teAnrG4JZw-9Ttzry55kUl48MnalckcUvKEFN_O4ohKnB9lcOW4UuIOOLnQ4XbWU3wNVPh-iA2ORUvIxXPKEecMXqgqzKWdcLK8PTA3VM1ixMwUe5TlN65wC5wQslBoan2EQa8MhM35M9GF_62NNEdlixIsItzHOfT/s1024/siji-di-ping-selawe-niken-salindry.webp)
 
 Siji diping selawe Kowe mung siji Tekan selawase Siji diping sedaso Siji sijine mung kowe sing tak tresno
 

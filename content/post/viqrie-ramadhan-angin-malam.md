@@ -19,4 +19,3 @@ Uda jauh denai pun jauh Kadenai cari dima tampeknyo Uda rasah denaipun rasah Did
 
 Angin malam sampaikan Salam den bakehnyo Angin lalu bisiakkan Hati den nan rindu
 
-![Viqrie Ramadhan - Angin Malam](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSM9GW0EufJLuy3E1mTkgnmWrXoDmMB_EDW0UVlbFtPUS1BbPmcs-piatZz-mXWsYNVxkiA4lSNRt05m03V6DRlNB6WCfWeVS1y3M-26eEHyFu9v7RTVnhcyndLRJOYjKDyr7xJANDSTUx3DJkUQDN7ipzPxx0SSC8rgBM1Mku-Pzz28Dcyw6ekWJ3YLFr/s480/viqrie-ramadhan-angin-malam.webp)

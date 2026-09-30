@@ -25,4 +25,3 @@ Chukup pengaga enti mimpi amat nyadi Tang nama mih daya Tu semina mimpi di siang
 
 Di baruh terang langit biru Aku tegenung nengkilah remang Tekenyit tedani ari mimpi Betemu enggau nuan keling ati
 
-![Mimpi - Natala](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEwF_NCnDBMfVkc9R-jX-REuR55QFSWAmjepYaLJG373kiQ8uNYZmF_plcpGlrC_2tzrvnCabf6jD3wF6uPtpAmcqt2Qzru5WgCDmVjmXQhpv2PIgPPKGw4YbZTwFsdSbEucuqPvfHu-rwX4Vq0Gy6c-hrxqafJLIC3yOY3Sr3Tjp3-r_lbBh5l-hJPOJG/s480/mimpi-natala.webp)

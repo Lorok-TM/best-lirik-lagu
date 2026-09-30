@@ -19,4 +19,3 @@ Jikok lah habih raso cinto Jikok lah habih raso sayang Hapuih bana denai jan dik
 
 Lupokan denai lupokanlah Hilangkan bayang bayang cinto Anggap kito tak pernah manjalin cinto Den do’akan uda tasuo Jo urang labiah sasuai Denai rila denai rilakan
 
-![Fauzana - Jan Di Kana Juo](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheRxx9HOJ_JRySpV-lFuuPzUXk6B9HMzVAnMCGxOLqjr5IZizf1mRwGo2bLTxfMoFgJBmqf1GoaE9nnpJDfN30phlZm9xae8qyVgy3jQNa418zEULM3NvYNRrtjjFcp18LEFjAan5I41lJgq9G02hoKxrwjb8jRem4IVx530T5W5sQ9PnBgHdVaHTqv0NQ/s480/fauzana-jan-di-kana-juo.webp)

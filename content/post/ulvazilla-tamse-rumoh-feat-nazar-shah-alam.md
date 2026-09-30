@@ -21,4 +21,3 @@ Cok lah cok keu papeun Plah plah bak rambong Keu bubong jeut on meuriya cok dek 
 
 Lon anggap gata seubago tampong Bak lon peulindong harta ngon benda Lon tamse gata si tameh teungoh Sang reuloh rumoh nyoe gata bungka
 
-![Ulvazilla - Tamse Rumoh feat. Nazar Shah Alam](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYD8xDrQ7uSDhtRAoYjUwvoBneeR4B5hApR2YXFMUggAwxsowcP98OsZrvHKFjYoJI6AedyuqVlknD1vy40BFGtMuHGio7heOpdysm-fTmXAoFKM7YYjh1g1HsTIdkuEbRkHUrnN7f9J-fdtNa-OPtght3Hm7WZfAZBw6qoUrbSbQPTAVrJHXM3pfxbJYa/s480/ulvazilla-tamse-rumoh-feat-nazar-shah-alam.webp)

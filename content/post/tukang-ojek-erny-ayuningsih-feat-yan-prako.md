@@ -21,4 +21,3 @@ Aduh dende ariq ku saq solah inges Dendeq girang patiq raos unin dengan Mun eaq 
 
 Searan te jari dengan tukang ojek Nine mame pasti eaq buat doang Mun eaq peleq ruen dengan saq eaq tojek Embe langan yaq mauq jari setoran
 
-![Tukang Ojek - Erny Ayuningsih Feat Yan Prako](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMFgkY3CgVwa7NYcMP4fhckbn3IWVE-3hRy8TKEa5LPr6g-Fijk-HZ9i3AS8JJDCrGr-lQ7zRxM2ktWUyvLTlnU9nfIEPSVmi_pa0vBhuE-ebYcCLl-QgoZFfhO65vxs8f0m41TCwEs9Vm9j9L0FnG6iG_6GM4tq8hpOne8xHl8eUXfnP-eI6yp8mGAVna/s480/tukang-ojek-erny-ayuningsih-feat-yan-prako.webp)

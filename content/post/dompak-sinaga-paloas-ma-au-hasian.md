@@ -15,4 +15,3 @@ Pos roham di au hasian Tung so sega bahenonku roham Sai papitaonku doi Hapeahan 
 
 Husiphon ma alusmu Tu sipareonki Asa pintor huboto Nasib ni holongki
 
-![Dompak Sinaga - Paloas Ma Au Hasian](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiP6Rj1H5F4v1OYqW8e7KnzZjQo7isRPQWApldPwu7PjQTNr_3GV790zfEFeALdgoag7rx8bFbFvMqUomsGgMiLLFgPuP6b4Gtup7nMDWDZj4or5zNH8alUFpC149bVlRNT7W9wpOdnHBLKayzm2RD0YW5AHiIvjxvRUCM82LQ51o-jJ9p41Ho7PBDfh4_j/s480/dompak-sinaga-paloas-ma-au-hasian.webp)

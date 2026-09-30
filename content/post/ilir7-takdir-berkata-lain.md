@@ -40,6 +40,5 @@ Title : Takdir Berkata Lain Artist : Ilir7 Songwriter : Vic Ilir7 Production : A
 > 
 > Tapi bila nanti Tuhan berikan Beri sebuah keajaiban Ku inginkan kau ku dapatkan Tak Terpisahkan Tak Terpisahkan
 
-![ILIR 7 - Takdir Berkata Lain](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYtnGY2fLzAyStI4WYyqv7i1raO2GJYQjR7syg8-9h49LUu4oTExl3FqBdS6ipUcBU6ziuPPjWWp7pAYqNYsZxoy9cDIbF5irQ17inAkfgBUMCQVX2hutKFWUeSvlSLjcYGnKmAKnrVIzOg8SpFeLHbHSFgBnqcTfSUbnmYhP-iV7AaILOLeb-aw4A9w/s800/ilir7-takdir-berkata-lain.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu ILIR 7 - Takdir Berkata Lain. Silahkan bagikan juga ke teman anda.

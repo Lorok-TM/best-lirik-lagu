@@ -23,4 +23,3 @@ Baruntuangnyo denai ko Dapek kandak nan dihati sanang Bajalan samo sabimbiang Ci
 
 Tuhan tolong dangakan Jagolah cinto kami ko salamonyo Sampai mautiah rambuik ko Susah jo sanang baduo Hinggo denai lah manutuik mato
 
-![Sakik Batamu Ubek - Ovhi Firsty Feat David Iztambul](https://i.ytimg.com/vi_webp/0MPD1gq6f_w/maxresdefault.webp)

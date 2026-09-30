@@ -33,4 +33,3 @@ Title : Senandungku Artist : Ria Angelina Label : JK Records Category : Lagu Mel
 
 Video musiknya telah tersedia di channel Youtube JK Records yang dirilis pada tanggal 5 April 2022. Anda bisa menonton video musik lagu Senandungku - Ria Angelina di bawah ini.
 
-![Ria Angelina - Senandungku](https://i.ytimg.com/vi_webp/keX6Md_aN9E/maxresdefault.webp)

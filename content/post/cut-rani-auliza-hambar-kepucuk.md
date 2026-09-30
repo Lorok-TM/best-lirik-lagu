@@ -23,6 +23,5 @@ Title : Hambar Kepucuk Artist : Cut Rani Auliza Label : SMDM Records Category : 
 > 
 > Kalau kau masih manis untuk apa menangis Karna tak mungkin terbuang bagai sepah Ku masih rasa tak asal membuang saja Namun hati ini sudah teramat luka
 
-![Cut Rani Auliza - Hambar Kepucuk](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuZTn-4hbomqCEQsOoXfFv2-8UxYltjPZi4qMoStjom7XlCg6-t7dphGyx7sSxTodY-rDWdN3BZcqTrRwETw2RDog252EJjiUQlj8D-Xqo0pr6q74lnenxhM4GKqbfqBw6nD05m_HcU0mO-mQpTwgBmXakt7mJZ4nv0SKccxCUF7zEEvYHdBVOFnwlJA/s800/cut-rani-auliza-hambar-kepucuk.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Cut Rani Auliza - Hambar Kepucuk. Silahkan bagikan juga ke teman anda.

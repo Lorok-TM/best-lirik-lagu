@@ -25,6 +25,5 @@ Title : Anak Turang Bapa Artist : Rina Fitriyani Br Pinem Songwriter : Fajar Dj 
 > 
 > Tiga panah ku rumamis Terusenna ku sribujandi Nande nangin ndu la terjeng cakap manis Ota gundari turang sidahi kila ras bibi
 
-![Rina Fitriyani Br Pinem - Anak Turang Bapa](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjREzq45KEMmOOcfESyrDCXBTaJXQue2mZO5ckSInf217MSARSCl3JYilZRrnUxmqC1kXZ4x4PzHpCC-4o5yQr0dSTde90tGLUwAE2Sgv38LYPy0tccoZMXBxQdA19yEkeTzZqwAmf74AdEtkgkUhI0vcnpoH9DMblaKfYJtNkEIcTFXoJTWVHQ1pjprQ/s800/rina-fitriyani-br-pinem-anak-turang-bapa.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Rina Fitriyani Br Pinem - Anak Turang Bapa. Silahkan bagikan juga ke teman anda.

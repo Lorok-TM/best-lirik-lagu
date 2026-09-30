@@ -5,7 +5,6 @@ categories:
   - "batak"
 ---
 
-![The Boys Trio - Ding-ding I Pe Boi Do Makkatai](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4XcjTJvIrsOiZ2GwmDDHjlzzuRDEhKNkZ1n4LUCNkLLn5ptJ3EXm6LpiMcCk2Kd0x1UAkzARlOHPBm3RuBEISoBogaPD_lt8Zk3eKLUivxeE1eTmdYIMV8lBycnxhAQpZ07-HzptKDGJ2m97tKC4ZlcRjR3qVutnuhAOWWdl6fKmEy26gS_xYv2IUYVie/s1024/the-boys-trio-ding-ding-i-pe-boi-do-makkatai.webp)
 
 Unan attar dibahen ho Tarsongon na kecewa Lao manutupi sala Unang dirippu ho Ito na so huboto Boha pangalahom
 

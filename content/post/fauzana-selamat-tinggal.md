@@ -15,4 +15,3 @@ Mungkin sudah takdirku begini Mencintai tak memiliki Sekian lama berjanji setia 
 
 Memang sakit kini ku rasakan Tetapi haruskah bagaimana Engkau yang ku harap pendamping selamanya Ternyata tak sanggup setia
 
-![Fauzana - Selamat Tinggal](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEOHg2pCp4RU8I1D6rGWMirV0GYhNq42olo_mkq-TFV8KeA6bnVFJ6V-Pvwd0A2Oc0Xr6rHt7YB3PuoeKRHup4ZryomlCoS1eAecE2BqIdNH7xDd7zViPoWoyHp_zrzdpTh5EEQvt4n3AxdMRRC05kUnhGDvSEumPFHEJoUlDWFUodTS8Bzw2VhyphenhyphenZZIItK/s480/fauzana-selamat-tinggal.webp)

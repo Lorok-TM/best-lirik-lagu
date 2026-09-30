@@ -35,4 +35,3 @@ categories:
 
 Title : Lacur Beli Luh Artist : Remonatha Songwriter : Remonatha Arr : Dek Artha Production : Bhasudewa Pro
 
-![Remonatha - Lacur Beli Luh](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKaMXaHFPh4k96G2cr7_UPZ-NBYAazQ84yRP4p7YAuchgWKjImngnUqcS9CuSpoJOT5JSvAAyxXtyEzJc-LNVIokzU4GbzaCD5zSvKc9kgH7FTZHPRx0FoMojeYglLB1NYA0ChCNDhJPhB12foofonZ8e20VX68RacKoFUM5xUhlTFC1b4poRFiPylpg/s1280/remonatha-lacur-beli-luh.webp)

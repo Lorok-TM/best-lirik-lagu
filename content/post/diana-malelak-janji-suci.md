@@ -23,4 +23,3 @@ Chorus : Sadarilah kasih.. cinta itu suci.. Sadarilah sayang.. cinta itu anugrah
 
 Sadarilah kasih.. cinta itu suci.. Sadarilah sayang.. cinta itu anugrah.. Jangan kau ingkari.. janji suci kita.. Biarkan cinta kita abadi.. selamanya..
 
-![Diana Malelak - Janji Suci](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAwp6KHNsIIaAsyBrlilSyzMyYawcnvrZf5zYi-3sa9pxEqETd07Ut3j7QKDJlvkiyArLencdUOrq3hDL5AE31Tx1gtzDLVM18NHXNbBjKNGNDdjybOtQWAIbQs7ljdYcHesb3IHbDOFawaN0PQ-D2zUxDGmCfNrNla0bEBKYqweohAHKTv30F63PtJxuB/s1280/diana-malelak-janji-suci.webp)

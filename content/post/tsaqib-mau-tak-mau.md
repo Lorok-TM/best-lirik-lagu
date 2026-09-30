@@ -27,4 +27,3 @@ Chorus : Mau tak mau harus lempar dadu.. Ku tak tahu satu atau enam Yang menghad
 
 (mau tak mau harus lempar dadu..) Ku tak tahu ku harus mau.. Mau tak mau.. (harus ku coba dulu..) (paling-paling ku jatuh dan mengeluh..) Sakitnya seperti hari lalu.. Tak apa mungkin sakitnya cuma ku yang.. tahu..
 
-![Tsaqib - Mau Tak Mau](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiML9qPgvhyJrcDyPBj8NteHcy5XRJtpP_phwGRemZuXuDAl7NEa28fjIvpA1iXgi70spxh7DqaQ6heQWHoNh9Qgj11rJyDzA6D6jh9YohchZ42weMGduPWsRk059kxfF2PcJRx_d-W5GbGScgB1v58ftk_3F4QPlH1XSivPNUuxf8OOnFUVcDy7rk7S3XT/s1280/tsaqib-mau-tak-mau.webp)

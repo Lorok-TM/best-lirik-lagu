@@ -21,4 +21,3 @@ Harta nyawa dan dunia kau berikan semua Bahkan di sisa waktumu yang kini telah m
 
 Seroang ibu bisa merawat semua anaknya Tapi tidak kebalikanya
 
-![Tri Suaka - Hebatnya Seorang Ibu](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhv48wZsPvjG_fnuCGjhz9P4x_xG6QbA6FbDLh7l8bfKT9tA__JFMMej4K1JM98-pwypW0RJTgzl0uxDuewqobEAVT3RBNbL-phSknXtGa7PrQ9Ft_MXrFOtq4sPBQJI8iEWcuJbuLXOr3HKs_oEb9S1PKOvVHNAqen2G4kYcIFlwxYjdWKlADBj1SjLD4z/s480/tri-suaka-hebatnya-seorang-ibu.webp)

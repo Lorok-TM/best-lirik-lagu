@@ -58,6 +58,5 @@ _Kembang Wangi = Bunga Harum_
 > 
 > _Hoo uu hoo hoo Tak bisa terganti Selamanya kamu_
 
-![Happy Asmara - Kembang Wangi](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6VUKTG2V9DEPIpN5nN0tzyrCnp9qfIB1BkQa6ol3ADUZubWZBsKvUtzC9F3Mr9QGaH0PqBFONUIYTyKs0vpupaEiDhbj7Qqrqd82LJfgyucyG7VtkOpvt2LNbmEd-lIa1I931y2HjS87cj9T11dUqImLVVc5yw74cVlXCJek8xxe92ZGmOs-DXu1b4w/s800/happy-asmara-kembang-wangi.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Happy Asmara - Kembang Wangi. Silahkan bagikan juga ke teman anda.

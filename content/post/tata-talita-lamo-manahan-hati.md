@@ -25,6 +25,5 @@ Title : Lamo Manahan Hati Artist : Tata Talita Songwriter : Ajhay Pasma Publishe
 > 
 > Rila denai rilakan Uda tinggakan diri nan ko Rila denai rilakan Uda cari nan lain
 
-![Tata Talita - Lamo Manahan Hati](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgs2ZmlAZGNAmm1koDi07rCc65A3IBEw5F-XawXF2MbPAKtI928-_U8-c6pM7AY1ZlsTZQO17CBDtDn6NhlZqy5ehoNWqfmPthF2kD389Xdb2iHAnG32QYapBBMrGAdYk8ig9nSip_PwpwdEain48U5EKmV-KaqJoeB77kcfhZy4hEpxVn9TB6CLBPbyA/s800/tata-talita-lamo-manahan-hati.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Tata Talita - Lamo Manahan Hati. Silahkan bagikan juga ke teman anda.

@@ -19,4 +19,3 @@ Aku wes mbok wanti-wanti Ojo nganti aku lali Tapi engkau lupa diri Cintaku kau b
 
 Timbang mikir kowe penak turu wae Sopo ngerti aku ngimpi pethuk kowe Njrone ngimpi terus kowe tak jak ngene Yen ra gelem penak diplekotho wae
 
-![Niken Salindry - Denpasar Arjosari](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWol8JE4WE7CDIkgft_0w7d1lw0KVySNFvq9tRW60FJNgvWyc3V_eEZNmLtsi1YOnL16pRqRZxG9Z5jUNQB051kLB0BwHvdiPsa3wZVe75-jZiQUQ9NBZok84OYeKV7cVa3XaamzxW4hfMX16FraDBCnkhLT_J3fF8Le2AAQzRvQo9DRjutjmT6qKqr6Ks/s480/niken-salindry-denpasar-arjosari.webp)

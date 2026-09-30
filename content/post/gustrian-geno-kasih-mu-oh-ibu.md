@@ -23,6 +23,5 @@ Title : Kasih Mu Oh Ibu Artist : Gustrian Geno Songwriter : Koko Label : Koko Re
 > 
 > Hingga berpisah kulit dibadan Bercerai tulang jadi serpihan Hanya maafmu ibu yang aku harapkan
 
-![Gustrian Geno - Kasih Mu Oh Ibu](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRx_6RUB0yhisdstlbtzv3MQoxb4MYjViDC-snELH591IJNqLOjcWddR0QJXtP1XV2hdGH65RsTFAKo18awPRN3rOhfehkBMiSFImVL2ML7F0FQYjQU1773-G73OTBCemaap73WMO_LMfzZ5moiuZez-51xr2ArbuvHk_Aq_ZnarGZzqe4hjuSEsIR4Q/s800/gustrian-geno-kasih-mu-oh-ibu.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Gustrian Geno - Kasih Mu Oh Ibu. Silahkan bagikan juga ke teman anda.

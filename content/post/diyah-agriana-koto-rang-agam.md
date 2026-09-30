@@ -13,4 +13,3 @@ Oi saluang anak gubalo Padi la manguniang di sawah Sampaikan salam rindu denai k
 
 Kok dapek kandak hati denai Baliaklah adiak kini oh pulang Lah lamo kampuang adiak tinggakan ndeh kanduang oi Jan sampai lupo jo ranah minang Lah lamo kampuang adiak tinggakan ndeh kanduang oi Jan sampai lupo jo ranah minang
 
-![Diyah Agriana - Koto Rang Agam](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1FxOzzXWJWTZua5AR_5meH4uVPhM-NamJw_IUFZkyIBu0dBwtqQVO5CDrVC-85AaNhdtUhBm5MME0XtRxPKvzlRiBfiKUw2Vy1sUDnaq_DbIA_BWFNN5-7KMa6wVTlj9nUjtFnNMmC5q32PHKCRS_gvZGoh53wPUwZIwgk1QR7xvkXN3L2EzW3Z_hc61w/s480/diyah-agriana-koto-rang-agam.webp)

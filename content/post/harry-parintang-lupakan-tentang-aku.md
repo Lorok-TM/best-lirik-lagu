@@ -27,7 +27,6 @@ Situs bestliriklagu.com tidak menyediakan chord dasar / kunci gitar / Mp3 lagu L
 > 
 > Tertawalah bahagia tanpa aku disana Lupakan semua tentang kita tentang dimasa dulu Biar ku telan semua ini walau tiada manisnya Lupakan tentang aku pernah bersamamu
 
-![Harry Parintang - Lupakan Tentang Aku](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1C4Lp2qCegmA7rxdx6-fCBsFxTEmbKfZkY5_IjHlafexxiwTvLB17O5H0oUhKCij97ObS0Mdqaeiwk2d5TCpQz0-0d1MbI-JyoROc2vkZbxmxNKZao2WkdiIprwFWpu0tUF1Th4FhER_X4deFffI1Cf1GMSQ_2AH0coxFYVu7uGG39lWq8RZ9ma5JyUNX/s800/harry-parintang-lupakan-tentang-aku.webp)
 
 Tujuan kami berbagi ini ialah menyediakan dan menambah sebanyak mungkin informasi arsip lirik lagu untuk mempermudah bagi Anda yang ingin menghafalkan lagu Lupakan Tentang Aku ini, maupun belajar bermain musik.
 

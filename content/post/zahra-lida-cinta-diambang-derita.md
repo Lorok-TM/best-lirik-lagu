@@ -31,4 +31,3 @@ Title : Cinta Diambang Derita Artist : Zahra Lida Songwriter : Faisal Asahan Lab
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik lagu dan lain sebagainya. Terimakasih atas kunjungan Anda.
 
-![Zahra Lida - Cinta Diambang Derita](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4lQpGPCbNoSlw3jsVW8nhCjMlnTAEKztQJ5GSvQmtbdgrIgDYhO6nsLfaH4O43HM6q2Bt9pmC481xzxmUsXLGwhz0D1ehSxyqLpw4tvJJ0D5HKbWXDbdTlXqB_FV6dCYebMZXafRR2Vr9XcmDqh2PVXV1wBnOemvt_Luo0CKQmVOzy5tt8qcRntSK9Q/s1280/zahra-lida-cinta-diambang-derita.webp)

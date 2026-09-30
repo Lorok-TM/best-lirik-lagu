@@ -29,4 +29,3 @@ Harok ka sanang diraso Sansai lah badan Ditikam janji sarato duto Disangko lai s
 
 Salah yo salah denai bataruah diri Bataduah badan Sangko tampek balinduang indak ka tiriah Kironyo aia mato kamandian
 
-![Fauzana - Sakik Ditangguang Paik Ditalan](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgm3p3B8J6cIAN_Un7eFW8rdhuZXNZk8HXl8OBm6FS0CoNFBqvaYf32KYwSb8dy0PCGD93WdupdFxbgyhHBg9WTr1Lp9BFKjmqtVADH3H-T04gGgpLG0iA5_FeryRCCTowFHBhGslsRPJjO3N5gbD3QLS8Vy3OIB7qWnCx68bJBFyIwWNNdHHIU5q7yxn2Q/s480/fauzana-sakik-ditangguang-paik-ditalan.webp)

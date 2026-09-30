@@ -25,6 +25,5 @@ Title : Pengelegiku Artist : Iche Br Ginting Songwriter : Arel Manta Tarigan Cat
 > 
 > Sedak bas pusuhku e tigan Ngidah sideban erban kam tawa Ngandung bas pusuhku e tigan Pengelegiku ngenda mbarenda
 
-![Iche Br Ginting - Pengelegiku](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvlr349llNhZFYbONW67SQ7VQf1AE0Sk6wPF2f-25IgVbvA5cD3unQ7WrzAMjwdNcjb_LCLT6xWJ-UduIimDuBhwZw5QFzc80JMH3P_QdQDq4Q-uWAIXCaK1TiwOJjm1Lx-oTtQwgp48_rY5hm0yFw12Autp82CcJ4oBbWXe8oCfS7IXb_rfhfLk-b3Dzt/s800/iche-br-ginting-pengelegiku.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Iche Br Ginting - Pengelegiku. Silahkan bagikan juga ke teman anda.

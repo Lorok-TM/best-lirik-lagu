@@ -23,6 +23,5 @@ Title : Masihol Hian Au Tu Ho Artist : R.A.P Trio Songwriter : Tigor Pardamean S
 > 
 > Cinta tulus yang kuberikan untukmu Simpanlah dengan baik di dalam hatimu Walaupun aku jauh dari dirimu Cintaku yang tulus hanyalah untukmu Cintaku hanyalah untukmu
 
-![R.A.P Trio - Masihol Hian Au Tu Ho](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxnFk9HlZRS6TsCdqvEkgFi0zIikoeS074VFRq34_2GGjkOuuCLiOo-RKxXpHN46PJX7Hj_Nwm27d_l2qKiV7pGw-GFc0SO0TQ5faMY00tmBmV17V8mEnm8zwXIyOIkojAo6x52_1e484hMCx2Bn62hUm4HOmkIwFVASS7_HYN3jC52e8AR2e_ImBZfA/s1280/r-a-p-trio-masihol-hian-au-tu-ho.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu R.A.P Trio - Masihol Hian Au Tu Ho. Silahkan bagikan juga ke teman anda.

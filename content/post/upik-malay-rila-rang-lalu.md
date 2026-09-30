@@ -35,4 +35,3 @@ Awak bansaik hati paibo ondeh deh mak Ka tuhan untuang kito sarahkan Ka tuhan un
 
 #Credits: Judul : Rila Rang Lalu Voc : Upik Malay Cipt : Misramolai Arr : Aboed Wendri
 
-![Upik Malay - Rila Rang Lalu](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5la-CPqj4QfYP4OEhOau8ye3vICSQqs_kMn3DGVyLVtNpL0TTODDVM4B7RSQSkQavSRbKnHBVx6J_b2KnlGaFcP7fbSadv5vWiJodDjQmuQfKTFmAipVDC_SR9ontpzzRniieXzV1XubrSyOetY65FfTpRK4Z11skdgrPdNEYQEDCkKBXCGVcSbKT0V1C/s480/upik-malay-rila-rang-lalu.webp)

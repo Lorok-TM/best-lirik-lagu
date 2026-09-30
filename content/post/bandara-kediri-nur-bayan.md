@@ -29,4 +29,3 @@ Demikian lirik 'Bandara Kediri' sebagaimana di atas.
 
 **Credit:** Judul : Bandara Kediri Voc : Nur Bayan cipt : Nur Bayan Arr : Nur Bayan
 
-![Bandara Kediri - Nur Bayan](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgDX2KbwisIa3FWAdH_Kbazt1_M9kCfb075XGFs5vDyx9yUlwRiAmcrsQ5AbaPBhjkPrDO_1LTXLtmS1IFqZ6FF2gyfwHT538fcj3fSZTblestCUxUF7vzX0fEvsL9B294b_DiYg4ZtzzlT8o8Xg1spjTtLR4HQYJZXMaVmNnqvfz0SG2mVKVpOSg5aZ-3/s1280/bandara-kediri-nur-bayan.webp)

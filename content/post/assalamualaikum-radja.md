@@ -35,4 +35,3 @@ Assalamualaikum waalaikumsalam Semoga diberikan Berkah keselamatan
 
 Assalamualaikum waalaikumsalam Hidup damai dan senang Tak ada permusuhan Assalamualaikum
 
-![Assalamualaikum - Radja](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioYoh9in6jcH-gTvHNpp4NsHOtfX6g6yKgcsewxkCo1Jt3jNA9R1MS4UcJeO9WJQW34PDln8U_Bkn_3Z6m_iTbIjpWIeLq8eh3bD2SCV58ibxVMRF6hi6T2C-verITc3W4cHxvk3V4KkxpEJ5XE0cntLcdMEEXJvSXsKk2aNZtoo-fXeEGoViNvr1Zwl1x/s1280/assalamualaikum-radja.webp)

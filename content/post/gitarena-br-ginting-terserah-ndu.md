@@ -35,4 +35,3 @@ gundari terserah ndu saja adi siring pe nindu gundari saja gundari terserahndu s
 
 gundari terserah ndu saja
 
-![Gitarena Br Ginting - Terserah Ndu](https://i.ytimg.com/vi_webp/febgxMiDfsM/hqdefault.webp)

@@ -27,4 +27,3 @@ Simanö lala sinö utörö Ba worasa atua sasai’ö Na olofo na owökhi dödö 
 
 Na olofo na owökhi dödö Ba mbanda u badu nidanö
 
-![Rocky Duha - Talu Gatua](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6xzNFWc15m1q0C4TwLnioTiu0zRQKJ-JL9FiWNEcQArMddN9aGbN1T8vleCxeXDjexPmruuqqJg5r249r_cc5Oqueu-11jr80qztPt626KCR6_GChMyGoVxrhWDg2RSm2dHOH5KdlyNAqnSLZ_bhu2fQVXzypfHXo1h0l1Xj6WxLOcf3rtY9rSG8FSvp4/s1280/rocky-duha-talu-gatua.webp)

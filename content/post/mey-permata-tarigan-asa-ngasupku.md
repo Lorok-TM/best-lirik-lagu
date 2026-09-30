@@ -21,4 +21,3 @@ Asa ngasupku Segedang geluhku Kutami-tami.. Kena pepagi La kam kutembehi Mama na
 
 La kam kutembehi Mama nanginku
 
-![Mey Permata Tarigan - Asa Ngasupku](https://i.ytimg.com/vi_webp/TioF3nD3M3g/maxresdefault.webp)

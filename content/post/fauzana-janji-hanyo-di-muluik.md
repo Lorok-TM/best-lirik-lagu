@@ -19,4 +19,3 @@ Sagalo nyo alah denai bari Dima juo latak kurang nyo Mangko nyo kini Uda membagi
 
 Baa bana lah musabab nyo Sahinggo janji uda duto i Jikok lah anggan ka denai ko Elok katokan Usah lah batingkah main balakang Main balakang
 
-![Fauzana - Janji Hanyo Di Muluik](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAvT0-qK1jNK73Xfpu4sYA1o_wxVB3CugEw2isBvTIBCGNAHlQ9zvKsyg5JGxfRrI-vO_875Qk-JdRKbMSSoPqFmmDuI3VL6eHanoewwb3fF_3She0UcmS-ExqKtOu6xxISQsMLj7OsXb8gEdQ_44i6j6N3yKulRLNjVz3xSKpRsGFxgLI6L0D7E_D2hVR/s480/fauzana-janji-hanyo-di-muluik.webp)

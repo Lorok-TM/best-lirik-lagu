@@ -21,4 +21,3 @@ categories:
 > 
 > Pada malam ku titipkan salam Untuk dirimu yang aku sayang Semoga cinta kita kan abadi
 
-![Maulana Ardiansyah - Rembulan Malam](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_c6EMM4oInzCkcP_MSeBPMyMhFfkPBpOHskSsK3f9qCEDGhrsLX-xZROROPzyLaA_z8psPj10YI2d1703UoXQ0JuKvsj1sE3dyBGNjCoUfQdq_vNB1eb5p8eo9Q6Opo3lft4_bXHFS34fmFZeWufAY-nja65k40jIzCI9GZpepOsrQGTOZo3Wi9i4tg/s1280/maulana-ardiansyah-rembulan-malam.webp)

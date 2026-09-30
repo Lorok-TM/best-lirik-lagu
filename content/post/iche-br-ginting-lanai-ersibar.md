@@ -23,6 +23,5 @@ Title : Lanai Ersibar Artist : Iche Br Ginting Songwriter : Inka Maya Br Gurusin
 > 
 > Meganjang tuhu si batang nabar I je kuliki kabang kabang Tetap nge pagi aku mesayang Ban keleng ateku mabiring lanai ersibar
 
-![Iche Br Ginting - Lanai Ersibar](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjft59P_qgFtL4AhOHHxzV4qdMOtXcNguhPaAnzaVEJqwDbhBlbArQl3W3eGgPT_yTB3Jvo-UvMdILYG8QYdDYVCrMhlAbct9XLFigxjOuvQAzA380yCnIDbvtnp-ZQSQldv0CunvocXZ8C4CObOsJNi10P2_cNSjYaH_dhoRlcU7IKMi2IlLdoUgICaw/s800/iche-br-ginting-lanai-ersibar.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Iche Br Ginting - Lanai Ersibar. Silahkan bagikan juga ke teman anda.

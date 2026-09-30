@@ -27,6 +27,5 @@ Title : Salahnya Aku Dimana Artist : Elsa Pitaloka Songwriter : Saf Saha Label :
 > 
 > Bekas luka di hatimu akan ku obati Sampai kau percaya lagi Bila sukar engkau menentukan tuk kembali sayang Yakinlah semua takkan terulang
 
-![Elsa Pitaloka - Salahnya Aku Dimana](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxzEdm2SgtBHYTGtkmdjj-PSwT4SN3EuiCTdf_33zk6zZ8g9kO5djWBaPVfegKxAS3GLCEdGOnXV7kSMdrpQgw35RIPQ_smWHdPJFBVTsGR6p--wgPwBaUktHemkNmpkybuKu6leZi-FprPHuBga-8pa_p-LfDNTI-sahAebVlHYilpRLxrGyk3wR7vA/s800/elsa-pitaloka-salahku-dimana.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Elsa Pitaloka - Salahnya Aku Dimana. Silahkan bagikan juga ke teman anda.

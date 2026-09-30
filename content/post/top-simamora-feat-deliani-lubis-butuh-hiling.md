@@ -21,4 +21,3 @@ Na daona manopot horja Salobina kehe jiara Taon tu taon tarsongonima Ongkos dua 
 
 Ra do au songon halaki da Tai hita gadis hartoi sudena Hita tabusi mobil avanza Marmayam mayam keliling dunia
 
-![Top Simamora feat. Deliani Lubis - Butuh Hiling](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtOv_Bo2iTdJg5ocMCCLA5uJIKPai-Br0uLxPA888b_mvz2rDN_wHqjS6a_-dO6jYYjCRU1KhNHN5SP3z3kwWgMrewC1wzXAhROKRxymUdei3KPHnPnUqUCuJL6Hef4zCwtBCgldz41UFptMG5hjX6zC96Ilim0p1ZAYarjcRkvz8Mg_abS1JRJOpNuIHA/s480/top-simamora-feat-deliani-lubis-butuh-hiling.webp)

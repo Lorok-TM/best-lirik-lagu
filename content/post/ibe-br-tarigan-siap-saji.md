@@ -27,4 +27,3 @@ Si ajar ajaren ras kita duana Sada nioga Si keleng keleng ngen ras saling percay
 
 Si ajar ajaren ras kita duana Sada nioga Si keleng keleng ngen ras saling percaya Kita duana
 
-![Ibe Br Tarigan - Siap Saji](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5MjM2RhOisb5TWwILiHO12bF7RlQxZmWpcIN6JSadPjIWENVaO1OFYDm_d0Xnk5buWr6cvyEFIovf76Agpq6NsOsLEOOikI28LnuJ6w9v8f2_F64ABKlgMGa3EkSAPcnkYnJWartdfoQUK4IhdUHsGeRJ11_mOgGiPUMA25kP5cOMOQtk6wqz61FFKQna/s480/ibe-br-tarigan-siap-saji.webp)

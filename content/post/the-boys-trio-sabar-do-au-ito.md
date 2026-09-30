@@ -5,7 +5,6 @@ categories:
   - "batak"
 ---
 
-![The Boy's Trio - Sabar Do Au Ito](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBespJ-plOZQ_sjmzDT_xjgqqFdqF16wzITw9bEDQapQLSOHO6fY-2wjAeffTO8R-LVLmOAf8aIz9fKy0I8QbTqaaelAnlk2D3LpIGh7Rg97_DDgdDxrDFJRDxSXpxEkrZZmYcdDcizqWL9uEEPdwena8_RKsFQQ86_0MBnEvpvTjWWN8spfiwnTXyXwlF/s1280/the-boys-trio-sabar-do-au-ito.webp)
 
 Ai aha be na so hubaen tu ho ito Lao pasonanghon rohami Ai tung sipata jot-jot dibahen ho Hansit ni rohakki da hasian
 

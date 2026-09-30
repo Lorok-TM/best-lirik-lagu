@@ -13,4 +13,3 @@ Raso ka lamak racun den pandang Dangka tampaknyo lurah nan dalam Den baruik dado
 
 Bialah dicubo mambujuak hati nan ko Nak jan sampai pacah tangih di dalam dado Bayang nan marupo jauahlah dari mato Jan di seso juo sudu hati nan luko
 
-![Ratu Sikumbang - Taganggam Bayang Bayang](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwBVyUM5Dq_vRNflXYBib5KGhKSeVpLS5tESNMYoWlmPri3Bqo7o5QHvzBSnEPntoe_ikprFwm7MYfgCi5J869f2BU1B6N0eoGHkS81GXfOuauCfAsnMkLWmnEt97kWjgPs_tWE23SF2UcT-KRQ7YvoQyGp6flrjwIVR8-H3pHAcOhjg1yL2kRfRvIzMuQ/s1280/ratu-sikumbang-taganggam-bayang-bayang.webp)

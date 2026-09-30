@@ -33,4 +33,3 @@ Demikian lirik 'Merindu' sebagaimana di atas.
 
 **Credit:** Judul : Merindu Voc : Ayu Sasha Cipt : Eska Januar & Ronta Crisma Arr : Arie Sutan
 
-![Merindu - Ayu Sasha](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisyu_K_cEWQfBD5qdQTA4zfhRlrI3zzve7WKGGvW7I-bvnQCfY9fhBPrgBi6hoiEDm0me6yW7_e9kGeMaCmfOd-WVYqpOvG7D6JGHJb-Hv4hu_CrWEoYPwUM_zhctzv5M8WW9-IbXHJmor0rQWJ4cHZBuFHjoitUJ3QGJfdfL7hjcUGLSm_w9nx3hke5X6/s1280/merindu-ayu-sasha.webp)

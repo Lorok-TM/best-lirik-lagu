@@ -15,4 +15,3 @@ Cinta ku sungguh luar biasa Sayang ku tiada bandingnya Ku ingin kau mengerti ku 
 
 Dirimu lah satu satu nya Kekasih yang aku cinta Di setiap doa ku di hembusan nafasku Selalu ku sebut namamu
 
-![Cut Rani Auliza - Cinta Luar Biasa feat. Frans Ariesta](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjYb01XDIIn5mCzFcGzsiq_NaLRB2HNMzHOiNN9QnfWsaCz4bg9GARcw7mZYKmLc-j2qsuQZud3uQQD9o3uwCdEOE_eClLr6dsTBL2k7LW6zTqViXZaTyoSxSBicmpEPJOv9LZsztsSnXG9dWc4fCHS6RunVbqNPaiWNuxk5zkaQCB0xKckIuetG5yW8he/s480/cut-rani-auliza-cinta-luar-biasa-feat-frans-ariesta.webp)

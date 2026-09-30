@@ -27,6 +27,4 @@ Title : Dandam Inai Tak Jadi Artist : Anyqu Songwriter : Roza'c Tanjung Category
 > 
 > Sumpah lakek upek talapeh Namun badan gamang di dadoko Sampai nan pabilo denai manangguang kan Mungkin sampai sakik uda rasokan
 
-![Anyqu - Dandam Inai Tak Jadi](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgU6JXuWGlMo9TvVkAZvr_AYE3MqVO8n_pobvrtvqpkFGHlyM3oTlSrFDQM29exgHO1ddhoVc0-7W2euHoGO04O1Xc8m5t3fO075UJlZPHiEIiDxUZv0FBvbc9ueCfuEPLvxX3vbhHMMYV6jk3c_iSrPCIgX5eNJfnNRgT0rU50Evawiirli5Oe724H8Q/s1280/anyqu-dandam-inai-tak-jadi.webp)
-
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Anyqu - Dandam Inai Tak Jadi. Silahkan bagikan juga ke teman anda.

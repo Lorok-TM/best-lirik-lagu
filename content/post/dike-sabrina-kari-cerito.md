@@ -5,7 +5,6 @@ categories:
   - "osing"
 ---
 
-![Dike Sabrina - Kari Cerito](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrRg3o_vbUpRoY9LweTxC7o5WTD6XgJP68KpdS-NkbC2kE98IhSIGgxBN6Zsu6TCLUosaEAyfLgK6yTWXq-6_-tyg4D7WbMK1IbODIkSvs-g5FPEbBSsCFDqbQX-N_di_v5SoH5PsF1UAq8aeCpCJnQMDLZfV4Na6j3gTACJMFeCLyJ-N1VXfA4QHYgQOi/s1280/dike-sabrina-kari-cerito.webp)
 
 Kahanan hang koyo iki Riko sing biso nerimo Abote gudo nyekso batin rogo Riko mutusno ninggalno
 

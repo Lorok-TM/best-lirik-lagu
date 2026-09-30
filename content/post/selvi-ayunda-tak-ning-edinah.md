@@ -33,4 +33,3 @@ Kaberek ka temor Pekker bule ngalengsang Klamon engak ate bule nika pas posang P
 
 Hoo oo oo
 
-![Selvi Ayunda - Tak Ning Edinah](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijgpTIQ23_IxyEpuoAvqsTbdBM4GkSBVB_h_CTE3-HRILo96B0ByLVoeLoxwV-Xl3WTJiWzt-y68a2FAoKwck6qqIMLVfz7PUjDimpiWf-RJ1bbdiLZ5obAeVVt-o_pdtO9gE5nAb0AKFiSe0MZsHDsbQZ1uBEl3V61XIHHCLPyTOZlSNLBWdPWyPxHlja/s480/selvi-ayunda-tak-ning-edinah.webp)

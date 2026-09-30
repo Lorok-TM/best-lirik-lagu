@@ -27,6 +27,5 @@ Title : Perceraian Lara Artist : Ipank Composer : G. Diana Category : Lagu Pop M
 > 
 > Mengapa begini harus disini Engkau akhiri Bersama mendayung rumah tangga bahagia Mengapa harus berpisah Haa hoo hoo
 
-![Ipank - Perceraian Lara](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKK-oxyHlH6c7W7Cust0550dvOctzpXnR8EyY-Ct2_EzOkhuEz8xe3wHVfd9gZODg4CHkraDGHE25tl6US1Fwhne3uXY5-yX1wZ5jN0psS70jZiWJzf4FGspDkkUFViM6tbDWAS4qdFh9AjjUMixJkkr35fN4gEKOQII221n7m5gPx1j1vv26s86924A/s800/ipank-perceraian-lara.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Ipank - Perceraian Lara. Silahkan bagikan juga ke teman anda.

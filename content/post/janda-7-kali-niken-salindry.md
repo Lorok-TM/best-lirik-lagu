@@ -17,4 +17,3 @@ Demikian lirik 'Janda 7 Kali' sebagaimana di atas.
 
 **Credit:** Judul : Janda 7 Kali Voc : Niken Salindry Cipt : Sandi Sulung Arr : Safari Music
 
-![Janda 7 Kali - Niken Salindry](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUziriyTmM03YpXJHdIEOCpSyZpyv8PFGLIC6tssBvaBIADd7R28-9hfIg0WXFBta1Ab_qt4gASDT4eK-OEnHmB09tDsdxEy1HFgX4BojD-NDHTk__7XSnfrQmrq_NS-qtKl25T9SblkWEBq9VRt7a3RLfTqdf1GJ-5ESlQfmTBhzEYiqZ0YoTWWGw1wAa/s1280/janda-7-kali-niken-salindry.webp)

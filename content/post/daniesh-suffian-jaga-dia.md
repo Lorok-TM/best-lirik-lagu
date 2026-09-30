@@ -37,6 +37,5 @@ Title : Jaga Dia Artist : Daniesh Suffian Songwriter : Daniesh Suffian, Omar K, 
 > 
 > Maafkan ku kerna pernah Wujud dalam kisah cintamu Yang kita bina Cintamu yang kita bina Tuhan jagalah dia Tuhan tolong jaga dia
 
-![Daniesh Suffian - Jaga Dia](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuXLs58tzY9r2cfsp-pTWI-t246IbTVJtZFypKSpOwvGjdq-W-e5iZzPfbYRRt3o_mwxP12vpkk0bUA-A7zbDvyOcosROG4RtqJfcyZ2P_c1oOJlENuU1KQ3j6ULepK_oH34k44FSBOibvbtmNi-KIMzesKHt2EVetKvdHZRii9f5da_hunqKHpkvLLp4L/s800/daniesh-suffian-jaga-dia.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Daniesh Suffian - Jaga Dia. Silahkan bagikan juga ke teman anda.

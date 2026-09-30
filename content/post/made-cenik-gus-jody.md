@@ -43,4 +43,3 @@ Demikian lirik 'Made Cenik' sebagaimana di atas.
 
 **Credit:** Judul : Made Cenik Voc : Gus Jody Cipt : De Mas Arr : Ojik Bray
 
-![Made Cenik - Gus Jody](https://i.postimg.cc/MKwkbbrJ/made-cenik-gus-jody.webp)

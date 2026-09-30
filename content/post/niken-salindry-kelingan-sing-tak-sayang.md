@@ -30,4 +30,3 @@ _Kelingan Sing Tak Sayang = Teringat Yang Ku Sayang_
 > 
 > Apa memang sudah nasibku Tidak bisa memiliki cintamu Jika memang sudah keinginanmu Rela aku rela walau hatiku terluka
 
-![Niken Salindry - Kelingan Sing Tak Sayang](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhTf3yIVz-vlb-HeVHV0wk7hNVF4go5fHugsDPfZvZI6Je2kMM4EZGnOcTINo8sAkdAxOZDvexka9rwPl8DWEwYQzLOiwKtpgKZ-pn4noR7UdOee-VI375zg6m-ler-D8p37NM1kAoHH_-H27U_5tv2DruHGV8zcvzNXNEGatl9_U73QenX6NhLIG7enMi/s1280/niken-salindry-kelingan-sing-tak-sayang.webp)

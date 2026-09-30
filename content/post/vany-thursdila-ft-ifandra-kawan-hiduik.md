@@ -19,4 +19,3 @@ Title : Kawan Hiduik Artist : Vany Thursdila ft Ifandra Songwriter : Roza'c Tanj
 > 
 > Barek baban da isuak ka ditangguang Ambo ko banyak baradiak dunsanak kanduang Tongga babeleang badan diriko Bajodoh jo adiak denai kini Tantu banyak sudaro
 
-![Vany Thursdila ft Ifandra - Kawan Hiduik](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimFFaVsYc0SJmRSAePtBq_mTYdlcCsQNOyw3XCAcoaDsJumv8nwHU2yxFjFABrrCDcn1jisl7tNDc6iGCoc2jMU0FgxRjuv9FAqc_tJU2N8yoHUGBvBq68FfclMvm0pXrmq9UBnMh-la3hmhWSJdNyMP7NIv0zJUKrFAC6dkQZilb-4y7k4AlPpO5ViQ/s1280/vany-thursdila-ft-ifandra-kawan-hiduik.webp)

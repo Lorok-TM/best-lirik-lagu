@@ -5,7 +5,6 @@ categories:
   - "minang"
 ---
 
-![Uria Novita - Tigo Bulan Cinto Tajalin](https://raw.githubusercontent.com/Lorok-TM/2026-08/img/uria-novita-tigo-bulan-cinto-tajalin.webp)
 
 Lagu Minang berjudul Tigo Bulan Cinto Tajalin karya maestro musik tradisional Misramolai yang diinterpretasikan kembali oleh Uria Novita, mengangkat realitas konflik asmara mengenai hubungan yang terbentur oleh status kepemilikan orang lain (denai tacinto pamenan urang). Secara naratif, lirik lagu ini menggambarkan rasionalitas serta kedewasaan emosional seseorang ketika menghadapi kenyataan bahwa jalinan kasih yang baru berjalan tiga bulan harus diakhiri demi kebahagiaan pihak lain. Di balik untaian liriknya, terdapat latar belakang filosofis tentang keikhlasan dan kerelaan untuk mengalah (bia denai mangalah), yang menegaskan bahwa manifestasi cinta tertinggi tidak selalu berwujud kepemilikan fisik, melainkan kerelaan melepaskan demi menghindari konflik yang lebih besar. Penggunaan metafora geografis lokal Minangkabau, seperti Pantai Padang dan Aie Pacah, tidak hanya memperkuat identitas kultural karya, tetapi juga berfungsi sebagai analogi konkret atas hanyut dan runtuhnya harapan sebuah hubungan yang terhalang oleh garis pembatas takdir sosial.
 

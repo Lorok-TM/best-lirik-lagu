@@ -27,4 +27,3 @@ Kini ku terima takdir cinta kita Berakhir dengan derita
 
 #Credits: Judul : Setelah Lama Bertahan Voc : Cut Rani Auliza Cipt : Safril Saha Arr : Iwan Romeo
 
-![Cut Rani Auliza - Setelah Lama Bertahan](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbb1o6Xsinc0cVT6c8AIcM2O-85uv_Wa2L2AnhZKc-wd-o3J7TQedCfuG7uvQbQwLWvskq52Bn6Tr3Hv9s7mZKuIIDXtfV7F8aMJh1tuOfQelAknqoW9rzw8S39X_WilgaaY0fVSCoRX8XFQIvns0bJtia8-fJ1QAWpHH42JxXImhonYod-9XGYSBjV-CG/s1280/cut-rani-auliza-setelah-lama-bertahan.webp)

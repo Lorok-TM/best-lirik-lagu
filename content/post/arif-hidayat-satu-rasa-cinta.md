@@ -25,6 +25,4 @@ Title : Satu Rasa Cinta Artist : Arif Hidayat Songwriter : Ajhay Pasma Productio
 > 
 > Kuakan membuktikan cinta di hatimu Satu rasa menggapai bahagia Kupinang dirimu sebagai teman hidupku Berjanjilah kasih setia bersamaku
 
-![Arif Hidayat - Satu Rasa Cinta](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8PYr91wLG5grB3idTlKAxME0YyWD_c013Psu0nHkNq4ueQJujgClu4pb842hnhgjxxILw7anjnDuqnip-BnbHoO9Q-5Z_b2lH4040Lr1KazH5fROV5jBg07rjjFz5MLFLhAOptY6afHcZIdIgZhrk8zu5nchP1bm-sEB4ds6leu0JDa7jKSTul_KtwnqL/s800/arif-hidayat-satu-rasa-cinta.webp)
-
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Arif Hidayat - Satu Rasa Cinta. Silahkan bagikan juga ke teman anda.

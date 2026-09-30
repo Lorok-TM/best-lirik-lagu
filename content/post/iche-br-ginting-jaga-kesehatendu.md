@@ -51,4 +51,3 @@ _Jaga Kesehatendu = Jaga Kesehatanmu_
 > 
 > Nanti kalau sampai sakit sayang Tidak bisa merasakan makanan enak lagi
 
-![Iche Br Ginting - Jaga Kesehatendu](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwqWiVcvTC99EZ3iLPDj4-1z85zoTkTvScq9U42gPXVco08Wbx1SDNLU0FDhrTa47M6zVxwXZU_iSq7slHtd83bDnQJItpcYmo73NZf5aN-vq-hJ_gUec-EB3qKWdB-MmRvcafetTxPQa1VdEq8Xl7nXqngB9ZUAPnrFzj1Y06XSIc_xxqAVQOEI_RIw/s1280/iche-br-ginting-jaga-kesehatendu.webp)

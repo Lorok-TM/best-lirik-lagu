@@ -5,7 +5,6 @@ categories:
   - "java"
 ---
 
-![Sumandhing - Ajeng Febria](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiS-rQkl9iKs23FCDiMcqbxr0jByTEs0oP_tpTKQQNq-ifXAUh109BGDhfuc6SSyNqfSF5arCqLG1eWwYawEOESAKOhzG1SSW1yjI5UKbNF8GMT8ClcWO6aEqZFMw76BtZ77mYBb9YZin6XPItbYHiYbwIR67tnkYZgXrkSsNL5WGpwSSy-wv7CL4azhhbC/s1280/sumandhing-ajeng-febria.webp)
 
 Sineksen mbulan kekencar ing ratri Nggurit jagad bareng klawan si reki Natah bungah ngrengga tresna nyandhing sliramu Kenya manis sesotyaku
 

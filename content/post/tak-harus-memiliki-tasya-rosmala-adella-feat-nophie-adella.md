@@ -5,7 +5,6 @@ categories:
   - "dangdut"
 ---
 
-![Tak Harus Memiliki - Tasya Rosmala Adella Feat Nophie Adella](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjT-6ellTttcMbdgWHvD1r-rBhDiYr_LJDCctYhxK95cWo09Ecp8Sb8o0NNQgvrqR7HWizof0zpD1v2VpzloyCNanDiTRroBAOnalcHctgcCQY8E7V6UZdt2-mSCvZHverwlrhVSl128OhSH6jfWM1SCWLiTKtdXlMTcR0bu7DjjikdG_MwAMWNPdoBzB5L/s1280/tak-harus-memiliki-tasya-rosmala-adella-feat-nophie-adella.webp)
 
 Hancur sudah diriku kasih Sungguh tiada berdaya Ku terpaksa harus menikah Pilihan orang tua
 

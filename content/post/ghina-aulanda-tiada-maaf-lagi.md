@@ -25,6 +25,5 @@ Title : Tiada Maaf Lagi Artist : Ghina Aulanda Songwriter : Harry Parintang Publ
 > 
 > Tiada maaf lagi Yang akan ku berikan kepadamu Tiada maaf lagi Yang akan ku berikan kepadamu Tiada maaf lagi Yang akan ku berikan kepadamu
 
-![Ghina Aulanda - Tiada Maaf Lagi](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0ZRSMlh2_iKz1rQGDaKWC7SePYzXd_UMHT6i6DhCgovF_HQoeE-MhnEc2kojyVOERq6qQCoyM3RtKHyJHJOj1J0CkjwvaTJ9lMUXCR5W7iQ6GSWO-rif4RD_HH4V-2YAxnh-E19plpG5wl1PoLTG4nVViNsHq0B4ZgI7hbAFewRRZPrROjqFnpNAwiA/s800/ghina-aulanda-tiada-maaf-lagi.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Ghina Aulanda - Tiada Maaf Lagi. Silahkan bagikan juga ke teman anda.

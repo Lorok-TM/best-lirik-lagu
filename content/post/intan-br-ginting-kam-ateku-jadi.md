@@ -27,6 +27,5 @@ Title : Kam Ateku Jadi Artist : Intan Br Ginting Songwriter : Egy Suranta Gintin
 > 
 > Nangin nangin mama nangin Kena nge jantung hatiku Kuja pe nande ginting e Ras kena makana malem ateku
 
-![Intan Br Ginting - Kam Ateku Jadi](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAcrRC9lkaV9VgmROWt3Ue9GiGiFDo-8jiiE_6XKAtAp2h8G-_ox0gveZgCWj2JcZ3aCJ9rwcMJJ-0pTdEu-xASjHnSUW_3aJGPFl62h89X6j5avz95i_Xuk_-pDExq_jA5DZyxoihuWYlWBcUcDbhdlH2xeobVTD2PvapzV-rfC3ZS4kXl2DY-jrD8w/s800/intan-br-ginting-kam-ateku-jadi.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Intan Br Ginting - Kam Ateku Jadi. Silahkan bagikan juga ke teman anda.

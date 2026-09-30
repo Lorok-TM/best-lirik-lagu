@@ -17,4 +17,3 @@ Hadia horo sitebai mu'efa'o Watola lo sa'ae mangandrauli dodomo Lo famakholo ola
 
 #Credits: Title : Öröi Ndra'o Ba Gidö Song Written : Bastian Ndraha Artist : S'Nada Trio Personil : Walman Lase, Alfin Harefa, Aris Lase
 
-![SNada Trio - Oroi Ndrao Ba Gido (Bastian Ndraha)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjmgiXHhRfxD9bJKAkYa0y8b5kPqGrOunjPgSah269figplwPkRxO_vgI8b1sEN4N_yBT0xa9FN6DuWENrOqWci6nKePRblUVL_7fTNS_UB8WuVNDuFscXtOTQkRxvmeIHadjDx2k1q465qTKO2qPANqSERacJAyO5U-fhTsuuSZ87smp9GPwr6lhSszT0/s480/snada-trio-oroi-ndrao-ba-gido-bastian-ndraha.webp)

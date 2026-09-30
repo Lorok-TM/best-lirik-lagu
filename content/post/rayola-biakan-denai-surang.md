@@ -13,4 +13,3 @@ Ranuangkan untuang surang surang Denai kini bialah surang Barikanlah cinto uda k
 
 #Credits: Judul : Biakan Denai Surang Voc : Rayola Cipt : Hendra Safutra Arr : Decky Ryan
 
-![Rayola - Biakan Denai Surang](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDek5_P-t7ZCFwSKG-0fKqyuYbzRTQBtw5nIFHospDfYtNofuEfGFr8cSHrHmaQe8ioG1mNtRiWlBXkKWHlAXrxvy032rtlU24VBCPwr-5GO-FWpnOJeEQsgZKQ0u43lDQdxibKpX7kG_WC5hpIMSKmZHYZc1Zai7CUOswPM3ERmaNqiFMOraNPwOOShQF/s1280/rayola-biakan-denai-surang.webp)

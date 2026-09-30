@@ -27,6 +27,5 @@ Title : Gokhon Dohot Jou Jou Artist : Duo Naimarata Songwriter : Bunthora Situmo
 > 
 > Margabus ma damang dainang Tu akka na torop i Gabe ilukku maraburan hapuasan ni arsak ki
 
-![Duo Naimarata - Gokhon Dohot Jou Jou](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjx4uMByxdqrWoiGEcQbPLInAYwJ1E5Gwie0NxnvQNFUlvSwtrGYDL2fM5MbOx6Jlbt3M59RsY-6vjyzoISxDUX9ygYC6IqofjSz2MIE7za-X4QdXDaNXKTpxeghNEXxTSRolqMxlSXfBRwVuEANPil_rubjv01IjaYVs5lR9u71d9DlxbH4DvjQCD7IA/s800/duo-naimarata-gokhon-dohot-jou-jou.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Duo Naimarata - Gokhon Dohot Jou Jou. Silahkan bagikan juga ke teman anda.

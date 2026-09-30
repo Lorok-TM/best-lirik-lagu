@@ -31,4 +31,3 @@ Demikian lirik 'Move On' sebagaimana di atas.
 
 **Credit:** Judul : Move On Voc : Chelosa Adella Putri Ft. Cantika Adella Cipt : Yonanda Frisna Damara
 
-![Move On - Chelosa Adella Putri Feat Cantika Adella](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwqeKAYFlfxFFRdYKbxn6LHAoqP3mWHPlg0dDRDi8y5AefH43WmcuN5WosF5eFnYrEAPyRCjosAU94WdBC8w75qC2KtatZJdA6Lg4LKDhBzZULggpMOSq_IXoS9IScA1MR9rkHdWAa0Sz3Yr3iVx_8aFggVvv-ii9a1ASyRki3RPLN_Nb_BRCCL9kBBIIk/s1280/move-on-chelosa-adella-putri-feat-cantika-adella.webp)

@@ -29,4 +29,3 @@ hati denai acok taibo taingek mandeh ba rarak di ladang urang tapi denai indak k
 
 tapi denai indak ka pulang sabalun mandeh denai sanangkan
 
-![Dikampuang Taibo Dirantau Taseso - Daniel Maestro](https://i.ytimg.com/vi_webp/lgTQfWc5cR8/maxresdefault.webp)

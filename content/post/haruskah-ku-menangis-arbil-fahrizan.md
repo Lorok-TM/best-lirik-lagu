@@ -23,4 +23,3 @@ Mimpi yang indah Kini telah engkau hancurkan Cinta yang putih Kini engkau hitamk
 
 Cinta yang putih Kini engkau hitamkan
 
-![Haruskah Ku Menangis - Arbil Fahrizan](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwDfTdsALThC86nmBkt_pXg0AeWKlcfOo-D2CpYbWrFbHvjKRUXEf-jxF6ruzvFljqeEoets8wwHDfSGcEyPkOFUsIgqPXSMLs7v-pB0kaNnGSGnTdapG87fYg4EksT0radlqGXj5La3aaXGdpCyfb7MTiSexUquwOBOTl0HVIQL4c4zg9KQE1tZH5-bqk/s1280/haruskah-ku-menangis-arbil-fahrizan.webp)

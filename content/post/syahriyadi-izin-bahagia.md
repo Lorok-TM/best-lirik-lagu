@@ -5,7 +5,6 @@ categories:
   - "banjar"
 ---
 
-![Syahriyadi - Izin Bahagia](https://raw.githubusercontent.com/Lorok-TM/2026-08/img/syahriyadi-izin-bahagia.webp)
 
 Karya musik berjudul "Izin Bahagia" yang dibawakan oleh penyanyi asal Kalimantan Selatan, Syahriyadi, dan diciptakan oleh Tegar CS, secara naratif mengangkat tema emansipasi personal pasca-keterikatan emosional yang destruktif. Melalui lirik berbahasa Banjar, lagu ini memotret fase katarsis seseorang yang berhasil melepaskan diri dari belenggu hubungan romantis yang penuh tekanan dan manipulatif, yang dianalogikan seperti "burung yang lepas dari kandangnya". Secara filosofis, esensi utama dari komposisi ini terletak pada pengukuhan kembali kedaulatan diri dan hak fundamental individu untuk mengejar trajektori kebahagiaan baru tanpa bayang-bayang masa lalu. Penggunaan frasa "izin bahagia" tidak merepresentasikan kepasifan atau kebutuhan akan validasi pihak lain, melainkan sebuah deklarasi ketegasan sebuah pernyataan sikap objektif bahwa masa penderitaan telah ditutup dan ruang emosional kini sepenuhnya dialokasikan untuk pemulihan serta ketenangan batin yang mandiri.
 

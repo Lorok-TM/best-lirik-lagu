@@ -5,7 +5,6 @@ categories:
   - "timur"
 ---
 
-![Hitung Hitung - Toton Caribo Feat Justy Aldrin](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitb5qng8CXNPn9RapjldoIsDTFotfUd9KuiIW0vVvEjHsS9VqOU1sP6IV2FWjLe8f2gQWRxExCtZYQWZq793UnbtaPzwpwrN6XBu7xWKpBt70YR4-OUDwqiUux9NpiuhAeMCTjD4BLkJmSaDzc35Ik_rsumg_s3mncfsm6qn2ZcL5yuDjLfQsBSzRvMYGM/s686/hitung-hitung-toton-caribo-feat-justy-aldrin.webp)
 
 Tong baru jalan ko su perhitungan Baru pacaran belum juga tunangan Sa juga susah masih butuh tumpangan Please buka hati jangan ko buka tangan
 

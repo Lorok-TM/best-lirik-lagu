@@ -17,6 +17,5 @@ Title : Lanai Kam Jelas Artist : Fida Purnama Tarigan Songwriter : Rinto Deje Mu
 > 
 > Kuakap enggo me gelah Arihta terjeng je saja Lanai man perusur usuren Adi bagi se bahan ndu e Karo lanai bo kam jelas
 
-![Fida Purnama Tarigan - Lanai Kam Jelas](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifGtA5srJKLZmcyqU5bGpscfEFeJuBZNHBz4v0GDO98LWIq5Cpa-kGbnFAtzFmOGxbza2P6RAYzsvVyQ9zqj_kAB-Jo3dH-onUv3ifhkTCqJvWpNJNdF57JrZEGtyvLziYvgZJE0PSJjZklJgIT5HqOsAPzoUs6BvDp2-6jjj52RL7-5RGAd9N_RNC8dNN/s1280/fida-purnama-tarigan-lanai-kam-jelas.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Fida Purnama Tarigan - Lanai Kam Jelas. Silahkan bagikan juga ke teman anda.

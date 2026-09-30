@@ -21,4 +21,3 @@ Salah mu yang dulu tinggal kan aku Memilih dia jadi pendampingmu Dan kini kau in
 
 #Credits: Judul : Merawat Cinta Diatas Luka Voc : Yaya Nadila Cipt : Ajhay Pasma Arr : Decky Ryan
 
-![Yaya Nadila - Merawat Cinta Diatas Luka](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8qqUjT-4pu3ZKSrlzCbUPG6bv79DvtTREkfaymMKg3WlpewvaTB72LO6y56U1sM8FVXz7mxatqKpkkbU1jexoTf1h1LyhekPiUA23j3c-LGAAmRBIlcVZJdu1WDclzKU8t6hsc_gmUDDAA3riC894VD1k4PDbsg91TsDX5VU01_0Lo6qbSHZTtNsv1NOA/s1280/yaya-nadila-merawat-cinta-diatas-luka.webp)

@@ -29,4 +29,3 @@ Demikian lirik 'Basah Sehabis Hujan' sebagaimana di atas.
 
 **Credit:** Judul : Basah Sehabis Hujan Voc : Andre Cipt : Andi Armand , Andre Arr : Andi Armand
 
-![Basah Sehabis Hujan - Senandung](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhImxjBzDaFtXc17xQGRYFVgiPE5q3i6F0q0chi8sED_GehOiH_6b8cIW503UdsF3HBfkq7UvfsFJ0RhZf26YURv7ZNiw8EO9OSqrCsua5ifUXsFy8Wkz8LHGOtg31LORTuFmWWO3GnzhuyKEHvqUqkWr83NpgjGvb3gXRqOmk5lBLQiKvvV3IUEmzTeUTD/s1280/basah-sehabis-hujan-senandung.webp)

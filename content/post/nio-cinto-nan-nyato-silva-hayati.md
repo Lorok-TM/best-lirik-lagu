@@ -5,7 +5,6 @@ categories:
   - "minang"
 ---
 
-![Nio Cinto Nan Nyato - Silva Hayati](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjI6b3dPDt1CSxkBNsWeRmVuWE5vimVRTCERwdVafVSgSowCzoAHcl38TL4t5BiWh8Zvb9aEAl32WJcm2wdNgYKHMzuidhQYWbXDezXeE0CkmQ-3VHSj9fVgqdBRkMyrAqz3TyAiNst908xbnY92HBr9W1wW0H52SBXSJ-o9xJc-YR4wEdmWC7dWbvhlyBn/s686/nio-cinto-nan-nyato-silva-hayati.webp)
 
 Denai ndak habih pikia Apo salah dibadan Mangkonyo acok tasisiah
 

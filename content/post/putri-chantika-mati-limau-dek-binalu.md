@@ -23,4 +23,3 @@ Kini malilik yo manggulampai Batang dahan lah nampak batangkai Pandai babungo ba
 
 Dek ulah abih raso pareso Urang nan datang bakuaso Dek ulah takicuah rupo elok laku Matilah limau dek yo binalu
 
-![Putri Chantika - Mati Limau Dek Binalu](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinci5MrklkCAnHe_MPDwoqSFvj91IWfsZXGQ7bdDutaT-tISZW8WOnIwEH1jjdKVmPO4bnZQrbrfUxpfoxjTnDQwTJ9hcmIwtm2dy-X90nItvHKnIR5XYYnSFgkhzDGBQR018EUNbta3i-CC0ahM95fR8CPImNgRzUwkPiait_AN43QiUHp0VYZzSzKmGd/s480/putri-chantika-mati-limau-dek-binalu.webp)

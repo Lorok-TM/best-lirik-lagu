@@ -25,6 +25,5 @@ Title : Anak Dagang Rayo Dirantau Artist : Frans Ariesta ft Ghinta Kinari Songwr
 > 
 > Bialah kini kito ndak pulang Untuang rayo katibo lai katajalang
 
-![Frans Ariesta feat Ghinta Kinari - Anak Dagang Rayo Dirantau](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCTVxPosCPkhNkyE5BiZ7YuXbooPkgS9lM2WPL8YT3q6DDTvyYLkANm3EzQkocs0nCL8o_GnGpgqs49WifHpUQ1B6u7bf9eV8L2w824BfGSUaOY-Q6vnF7ViX2PNXZwtFyVep_j2oJF4BLs1mp3iIzYCO0oxGipkSk5qlgOlAPMekaxJedmxCnQh_onQ/s800/frans-ariesta-feat-ghinta-kinari-anak-dagang-rayo-dirantau.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Frans Ariesta feat Ghinta Kinari - Anak Dagang Rayo Dirantau. Silahkan bagikan juga ke teman anda.

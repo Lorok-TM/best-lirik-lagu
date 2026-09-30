@@ -17,4 +17,3 @@ Badabok dabok darah nyampang Kasiah ndak sampai Iyo ndak sampai baa caronyo Tolo
 
 #Credits: Judul : Indak Gagah Bana Voc : Wawa Naela Cipt : Erwin Agam Arr : Vandy Satria
 
-![Wawa Naela - Indak Gagah Bana](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJYGZJkDCQdQuBz71g43y8tc8tuiE4v-GSDbV7cuOHwgOPLKfW3aPo0_n1_xlavDuqCc4KDWGmAiIpX63ZSRwMlDqLSfSI3XJJy9jW13hWdSwvnqevE1xednvDltmj6hG3rcAqjayt6wJt5UGVcp8L6vN1nogJ6FEMQyn9bkWr0pGL6Z0M-xtY40iU0XSt/s1280/wawa-naela-indak-gagah-bana.webp)

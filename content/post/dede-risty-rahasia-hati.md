@@ -15,4 +15,3 @@ Cukup sing weruh kula lan pengeran Sepira gedene sayang ning sampean Wong sejen 
 
 Cukup dadi rahasia hati Sampean mah bli mungkin ngerti Kula sih wis cukup bahagia Sampean masih gelem nyapa
 
-![Dede Risty - Rahasia Hati](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJvPCbDjndskz6bleJNc5sTpmzYHy9zOnrq0KKpNov49JOaI41ZG6bQqcpwuuf1I7o0EXHY56A1R9ATeMccGxqBY5vjiVjhA6VQIk87shzia6jsXFXl7dH9TyWSjYhOLqovOqjZbM1-_BDKCYbVwmsAw0UFU5Wv09JwtAq9u4tS4jaR037Ns50qWkyQlcx/s480/dede-risty-rahasia-hati.webp)

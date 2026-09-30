@@ -31,4 +31,3 @@ Jinoe ka neugisa Bak lon ka neuriwang Tasimpan harapan Gaseh yang ka sirna
 
 Bek sampe gadoh rasa lam hate Tajaga sabe rihon lam cinta
 
-![Bergek - Peunawa Hate feat. Cut Rani Auliza](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOLG6UqkT6Eb12-hI8e5QHDKokSTnFtJ2YnpruuZegGHDkWEUUGo7NH62JnRLLeFi46q7_U9qgfzz74pEmKSClhzW8RyTTLn4csripDTenzQZB4klqTaORCUXAIKpuxWKJ99JiW_7rSSw0rGN3TMtg97Z1YsXE5eyIZbegOrlWnKw9SN1DfEMwN5MVrrMe/s480/bergek-peunawa-hate-feat-cut-rani-auliza.webp)

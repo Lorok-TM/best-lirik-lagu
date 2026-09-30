@@ -31,7 +31,6 @@ Situs bestliriklagu.com tidak menyediakan chord dasar / kunci gitar / Mp3 lagu M
 > 
 > Biarkan ku ketuk pintu hatimu Kan ku basuh lukamu yang dulu Agar tiada perih yang tersisa Dan kita tetap bersama
 
-![Rimansyah feat Yolanda - Masih Adakah Cinta](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYczOXytqxZIiHpouYK1PDAkUXz2fybvIMmDJYiWppIwdBpIObnxKzYa9C48FmUutfqGjb5n48TVW5woNUSPoP19Fuq0aeO56lLjlqqqT0ONhPK1I8Ie7Xsn7sZNqXkQCcwxgAzAn9jBAXa9n8Jycc6x9O72h9hEqrGlF60ed9zPcV3Z5V74LTjPwEcMD6/s800/rimansyah-feat-yolanda-masih-adakah-cinta.webp)
 
 Tujuan kami berbagi ini ialah menyediakan dan menambah sebanyak mungkin informasi arsip lirik lagu untuk mempermudah bagi Anda yang ingin menghafalkan lagu Masih Adakah Cinta ini, maupun belajar bermain musik.
 

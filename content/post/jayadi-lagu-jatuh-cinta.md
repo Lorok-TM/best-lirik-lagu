@@ -15,4 +15,3 @@ Ku jatuh cinta Tanna podo tosibawa Dan kumulai cinta yang tak letih Hanya bersam
 
 #Credits: Title : Lagu Jatuh Cinta Performed : Jayadi Songwritten : Jayadi Arrangement : 4tree Production
 
-![Jayadi - Lagu Jatuh Cinta](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6M49xHygYBSRUmoeP2cJlFUgfW4He6MF_UmftsSKQteXtceDhAiX15bujpycMkt0XUhgOrib7BhpuZJnsRJb1LDUUzIeEUgBlLwaxNIrzlPDcMxPvLiAwjMrftnaADhg_NGw67D2fZawN8U2ZtbWPw3fnn-VsuI2qq76Onu5u7ojaFsMZ2bNMFLrEIBrr/s480/jayadi-lagu-jatuh-cinta.webp)

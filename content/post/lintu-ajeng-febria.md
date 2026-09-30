@@ -15,4 +15,3 @@ Nyatane opo kok tinggalno Keronto ronto rasane atiku Tak lilakno kowe lungo Pung
 
 **Credit:** Judul : Lintu Voc : Ajeng Febria Cipt : Sasya Arkhisna
 
-![Lintu - Ajeng Febria](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikMC8XmxgyS77nP6uoVuUjBuVglIhWiMHL0mn9N3N6bNi39ahx3m3YLTo8bHD5AEp-BMqaUNpSL_F-LpK2-bUKnGAKhMSN4ooAysE0rqBDO4J8asKtOuSJ_DJJBnJzJuAkuHIADCekwolQ-78hi8HF-_vMtZLXkhLF0KIxORKWV_mwRyoLsdqVNmpIlgOE/s480/lintu-ajeng-febria.webp)

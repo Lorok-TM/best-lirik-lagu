@@ -15,4 +15,3 @@ Ba natebai u'ila khala khalamö He haturiau öfaohe'ö Ba natebai u'ila khala kh
 
 #Credits: Judul : Turia Mö Fa'ohe'ö Voc : Frans Bulu'aro Cipt : Aan Haryanto Gowasa
 
-![Frans Buluaro - Turiamo Faoheo](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-COoQnsrXDG-UKCsuZuLAUVbmKq8hka-8-WyWBV7T-n7qOCqlBz4FZd7LstaeFMoGUCWx2KFHAjtPxkDrgdLFPivtVZY3MCeW54G6poDhT9YePYHmvaNchmpK0lDmZ3PpX-pdSvfJnqe2pid4arBenlQqmE8RrH6WNvep0ntvlW8VBt-NqgEL_EvENZic/s480/frans-buluaro-turiamo-faoheo.webp)

@@ -45,4 +45,3 @@ categories:
 
 Title : Harapen Si Muluah Artist : Tiara Songwriter : Saniman Riotanoga Executive Producer : Y\_record
 
-![Tiara - Harapen Si Muluah](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5tM0A6pTN5gLacEJM2cvVAk35EOyo_cpi11t_HZ5PHq797YYvdNuD4lj3ALCYVQtt-KJykVBQFPZbpxXRAD6Xz0kLkSQq97iz2bWLU-NMzVfA-3xy4Uxn0BMNJVDHm53_MCBN5J290_JCfqocfSvn1LqvHsoDowV1GZvSd1FWCzENd95RKE08iUkq4g/s1280/tiara-harapen-si-muluah.webp)

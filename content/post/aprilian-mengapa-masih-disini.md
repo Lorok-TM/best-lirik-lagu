@@ -29,8 +29,6 @@ Situs bestliriklagu.com tidak menyediakan chord dasar / kunci gitar / Mp3 lagu M
 > 
 > Jangan balut luka hatiku Biarlah aku sendiri Semakin kau obati lukaku Semakin ku melupakanmu Carilah penggantiku Carilah penggantiku
 
-![Aprilian - Mengapa Masih Disini](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVdldeDiODwQpaNU7Wu6nZrnjPmrGrOiqQoNAzn2pTSuYCaLFazdlqXZgRQy4W4CXKR3n-VlrGPyd6fnEDTVq2K7piOjyP4wC0KEX2eT84PuHppuDRceQyqY6ip6JjvOW61yudDCEaRR-fV3jDQIumABZJNjEixHv5PZUmwDESi17G-6TpyuYoejPRzioF/s800/aprilian-mengapa-masih-disini.webp)
-
 Tujuan kami berbagi ini ialah menyediakan dan menambah sebanyak mungkin informasi arsip lirik lagu untuk mempermudah bagi Anda yang ingin menghafalkan lagu Mengapa Masih Disini ini, maupun belajar bermain musik.
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Aprilian - Mengapa Masih Disini. Silahkan bagikan juga ke teman anda.

@@ -21,4 +21,3 @@ Kok ribea hatai mano kamai ndok ngato Badarei tangaih ngan rideak tatahangkan Si
 
 Lah harok nian dudeuk basanding duea Nyatonyo cinto direnggauk uhang tuo Dikimok sajo ngan sanang Dalon hatai ngan badarei Badeang ngan remouk raso ideak butulang
 
-![Cindy Okvi - Cinto Ideak Sapadan](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2CpyV0iMR84gTe2M1tHHyMzVZbVULzWOIV1fif9ddlexs89M9xhg0mKjEcICbdEcVW2g3xoYeCftVTn4JLPLmMeQgN8KJpYy1QWhycCZSAY5qBQBsJ1TIFQPpWm8EkcEpH-sGnbKHhk4lXjsYaixIX4iT6e64YvG2HoUS2YmLJLoNw0zSUe4i0t_C8Q0N/s480/cindy-okvi-cinto-ideak-sapadan.webp)

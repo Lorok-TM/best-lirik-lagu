@@ -23,6 +23,4 @@ Title : Istana Cinta Artist : Aprilian ft Chenia Songwriter : Andri Dharma Publi
 > 
 > Ku tak ingin berpisah Di saat kita sudah berjumpa Tunggu aku disana Kan ku bangunkan istana cinta
 
-![Aprilian feat. Chenia - Istana Cinta](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXQwIT8CtVuhqO0nubZVGwbNDYbffnDwx0zb6hm1Ca1oIHVRlX13UJYlbS1_Encn0Y0-hpHgHqwf9_rxtIItgw5HAsnLfDUYcaqnjIy2m38ZNO6kst0HVPiW5e4fLNDx_44IbS92v-4npITmgt1mY7K8XUPpMHebO17JVBrkXUYWXQ8h3GBy4tOw8vWFsv/s800/aprilian-feat-chenia-istana-cinta.webp)
-
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Aprilian feat. Chenia - Istana Cinta. Silahkan bagikan juga ke teman anda.

@@ -21,4 +21,3 @@ Demikian lirik 'Tiada Silang Ikatan' sebagaimana di atas.
 
 **Credit:** Judul : Tiada Silang Ikatan Voc : Thomas Arya Cipt : Andri Dharma Arr : Decky Ryan
 
-![Tiada Silang Ikatan - Thomas Arya](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPKo2DQY-UIdoOo_Wctgeg2Xv0ExmC0Y42uekTERc5ZolY4bgtoWLW5NxBVSdfm8xxcux8kOtsxUQJDYYJtkSftFA1xIcnv6enR6tUso57N8HsDF0kLjcp63BVUkCq0dqDBqpNRwaj467jvhZD6ur2sIzERoO6yWLbWPXkgMA1KgCYtV2qIyw9MSH2woEz/s1280/tiada-silang-ikatan-thomas-arya.webp)

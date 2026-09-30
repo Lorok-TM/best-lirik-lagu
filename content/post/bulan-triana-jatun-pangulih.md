@@ -62,4 +62,3 @@ Pilih haranan kapilih Lembut ndai bingung jatun pangulih Handakmuh karamak darau
 
 _Pilih karena memilih Akhirnya tidak dapat karena kau terlalu memilih Mau kau ambil semua Aku tidak sudi Lebih baik kau pergi Karena cintamu kau bagi bagi Lebih baik semua pergi_
 
-![Bulan Triana - Jatun Pangulih](https://i.ytimg.com/vi_webp/UKZUzI1JCUY/maxresdefault.webp)

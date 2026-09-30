@@ -5,7 +5,6 @@ categories:
   - "dangdut"
 ---
 
-![Melamarmu - Ajeng Febria](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWyQouIDd1iIwjvm1DKjBR-prt0BppHip4Yo3EtVBFTx_bmpkEHpmOLg4L7LniDA602NVXIpZeEZ4BmvxwMowAF20ooBi3aEbaOp3zR3ZgV6-1uK0JQ8pvstsjfhP1lFasoAmIJQufl7W4AvGq65s7AyJHD3v7URtvgmmFI_v8gjUXswSezvk6NIGf-B3o/s1280/melamarmu-ajeng-febria.webp)
 
 Maukah engkau menikah denganku Sekali saja cukup satu kali ku bersamamu Menikahlah bersamaku
 

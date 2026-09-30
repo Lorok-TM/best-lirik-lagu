@@ -6,7 +6,6 @@ categories:
   - "java"
 ---
 
-![Rujak Uleg - Anggun Winata Adella](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhD4oLr6mgkRkBH3gPCSo_qYYAn63VnRPNQ1YwMuHM8IQwAq_6y0QErNR0OOvTiuoAMQjGkhX_ZdaBomKkSLhq32DtjecvB8iwDk1-BB97wHUAcfv845ipwejktzRag8lYwKzS5bKBt-r8-1KxMgbazDG8OCpvfT9y1ifiBUs3_Qac7J8YM77u4z8BsAZJn/s1280/rujak-uleg-anggun-winata-adella.webp)
 
 Rujak uleg kroso sepet kakean cengkir Atine judeg dhadhane sesek kakean mikir Ngalam ndonyo warno warno kahanane, jarene Mbiyen kondho nalikane perang gedhe Bondho nyowo dilabohke negarane, jarene Mugo mugo gek enggalo bubar wae
 

@@ -33,4 +33,3 @@ Demikian lirik 'Renjana' sebagaimana di atas.
 
 **Credit:** Judul : Renjana Voc : Krist Segara Cipt : Krist Segara Arr : Krist Segara
 
-![Renjana - Krist Segara](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiWg3NrDXOC8p-aV8d8ed1xSlnKplAKsDLvUKkRGmYWF0IUHE8Jr4sTYqeU3Ot8rgUZSj4Q7R1W4cpjAmQkAzugkx9EBuerjOYFrKvXVqZqFBFv8-OL7OGctcjWlQuTJtM9VhPdbFcwtHFG7ipoAQKL19KWtBi7lM1hZ7-GWZKkVDXRFKvqW3XY_1xBC0A/s1280/renjana-krist-segara.webp)

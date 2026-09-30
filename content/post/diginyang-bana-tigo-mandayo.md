@@ -53,4 +53,3 @@ Apo gala pipi Pipi palakek badak Jan dihino badan diri Mantang kawan bapitih ban
 
 Apo guno kaki Kaki untuak bajalan Disiko ibo hati Dek acok dikicuah kawan
 
-![Diginyang Bana - Tigo Mandayo](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheh4_A6GN6qCH8CL53_1iPrrfpZPfYJieiQK1Kz_8YfHN1NknXkqZ1x4wz3vCGYG0k8exnRmSkmNZEeY3NatCKyncQfl63gr2w51i1ljij0QfiwbdjJDPLozwq8lgyfdr-dQEslgg4OQEPVNwpTn1FWZQd37TLOuPiD4SVUe0TWy62OO8jqjvFpI7Ohczy/s1280/diginyang-bana-tigo-mandayo.webp)

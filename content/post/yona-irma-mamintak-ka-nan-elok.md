@@ -23,4 +23,3 @@ Digaro padi digaro Nan masak jatuah badarok Kok buruak tasuo juo Samo mamintak k
 
 #Credits: Judul : Mamintak Ka Nan Elok Voc : Yona Irma Cipt : Ben Tusipa Arr : Chito Deona
 
-![Yona Irma - Mamintak Ka Nan Elok](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBuARzqYtPUHLIeitGKXGxPKV3eG4gF84A_sgcrr8lRZobcUHAy47xF9ThYkE_4oHJIPH-lVuzaVdbcg0YFUJ8B0c3ca1IT-rKvZaGHQPyq_yetwwP9ufrjUGXbxVpLDji_gNPuXDd1eU9nEXMDCeWz5Ocj2O2uxhj8lc_vdUbq_HCs9MreYbzssXpZFD6/s1280/yona-irma-mamintak-ka-nan-elok.webp)

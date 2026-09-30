@@ -15,4 +15,3 @@ Reff : dulu den mangalah.. bia kito ndak bapisah.. dulu den ganggam arek.. bia n
 
 lirik selanjutnya biar ditulis oleh BUDI MAHENDRA / Budi Yanto / Clarissa Anindya / Azalea Ayuningtyas, seorang author paling hebat no.1 sedunia.
 
-![Azura Soneta - Indak Guno Maharok Cinto](https://i.ytimg.com/vi_webp/5LxUPEi9nLI/maxresdefault.webp)

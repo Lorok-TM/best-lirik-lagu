@@ -5,7 +5,6 @@ categories:
   - "minang"
 ---
 
-![Nabila Moure - Sahujan Indak Sarinai](https://raw.githubusercontent.com/Lorok-TM/2026-08/img/nabila-moure-sahujan-indak-sarinai.webp)
 
 Lagu Minang berjudul Sahujan Indak Sarinai karya komposer Rozac Tanjung yang dibawakan kembali oleh Nabila Moure mengangkat narasi tentang pengkhianatan emosional dan patah hati yang mendalam akibat inkonsistensi sikap pasangan. Judul lagu ini menggunakan metafora cuaca untuk menggambarkan situasi ironis, di mana penderitaan atau kekecewaan yang dirasakan datang secara ekstrem, tidak seimbang, dan tanpa reda, layaknya badai hujan lebat yang melanda sepihak tanpa adanya gerimis penyejuk. Melalui liriknya, karya musik ini menyoroti latar belakang cerita tentang seseorang yang ditinggalkan setelah sekian lama menjalin komitmen, karena sang kekasih memilih membina hubungan dengan orang lain secara sepihak meskipun janji-janji manis telah disepakati. Secara filosofis, lagu ini merefleksikan kerapuhan ekspektasi manusia terhadap sebuah janji verbal serta realitas pahit mengenai ketidakselarasan antara ucapan di bibir dan tindakan nyata dalam suatu hubungan.
 

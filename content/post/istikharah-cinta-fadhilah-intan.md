@@ -23,4 +23,3 @@ Namun jika dia Mudahkan jalan ke arahNya Karena ku percaya rencana Ku yakin isti
 
 Lebih besar dari dunia Namun jika dia Mudahkan jalan ke arahNya Karena ku percaya rencana Ku yakin istikharah cinta
 
-![Istikharah Cinta - Fadhilah Intan](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1SjoLI-jvDINh6cTs2HQtDIJBk30e6p3un_BixO04IxPfBRVrpU19QU2yLm1Dgw6hM5bRDsFldojOD3mEcIN7IwhZmsywnROCN3B49W-fUgIJHygxYwBhh5HBfqGRAGMTuQxSvuLxsm1OGVSyr_aWiXngRoDjtH61hgF88na6ljFpyIYIFU5p2VHwF_0n/s480/istikharah-cinta-fadhilah-intan.webp)

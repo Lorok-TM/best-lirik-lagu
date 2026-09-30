@@ -62,4 +62,3 @@ categories:
 > 
 > Aku punya kilauan merah dan ingin minum jus jeruk Aku punya air toilet dan ingin minum soda merah Apa yang kamu lakukan? Aku sedang tidak bercanda denganmu, bajing\*n
 
-![DJ Thailand](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfPYs9mbNRO6lA2yQkwAwUDxNyNA_-uaURbAdCCa-fgqwKUc38XJs4EZ5XMzqcfictCm1WcxCnpoi-KS8E4Lbgfs3brSHrefZfkhzk8bdGihoyScx1nCt737xxCdfZ98W4F-TYQWJi5qB7TeJo-awhOD-23ezprSZkqsv750M7t9vU73DCqQTsZna5Q7mM/s800/minang-deng-laka-kinang-siuang.webp)

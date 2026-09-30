@@ -81,6 +81,5 @@ _Ramalan Joyoboyo = Ramalan Jaya Baya_
 > 
 > Beruntungnya yang ingat Beruntungnya yang lupa Lebih beruntung yang mengerti
 
-![Sodiq - Ramalan Joyoboyo](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2ZeybkMA1BEisgcMEFpZx1LDIIvLFiFWT6mTOud6PkZaPBInVZqcMJyzuiRHlkmPhTo2bGMnnzx_bi1KbCyAtRqt2pxf_PJT26TMROdEGVSJVfP0N53hK3tSaFGzHT1VrwslSJuB6Fbeeo31BomC8ErqBOoi5v13Uwxr7kmRHddNGpvtCSrKbq66avoZ9/s1280/sodiq-ramalan-joyoboyo.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Sodiq - Ramalan Joyoboyo. Silahkan bagikan juga ke teman anda.

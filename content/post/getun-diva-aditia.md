@@ -47,4 +47,3 @@ Ngopo iseh ono bayanganmu (mengapa masih ada bayangan dirimu) Ning njero atiku l
 
 Wes kadung jeru roso atiku (sudah terlanjur dalam rasa hati ini) Wes tenanan setyo kowe ngeliyo (sudah terlanjur setia kamu mendua) Wes kesel tenan aku loro (sudah sangat capek aku sakit) Angel nglalekno (sulit untuk melupakan)
 
-![Getun - Diva Aditia](https://i.ytimg.com/vi_webp/mM1MLX9TeSE/maxresdefault.webp)

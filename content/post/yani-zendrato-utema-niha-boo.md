@@ -5,7 +5,6 @@ categories:
   - "nias"
 ---
 
-![Yani Zendrato - Utema Niha Boo](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhY4g3tMzpI27rESgNyDI3-dm34IGjiL_N8j2MAle3mO34ED69fWijRPZMTggQ-SuzTZYiKw89avgBwnLCbAp7BT4H_60vzVBmEvVhw5yBFFGTtEBlPznROBRuVMeuUOVq2qjPBnI7u29EP4Rnh1IRRMNQ20KhGv1o41LA9GQ5ok0ojBYzU6OOtelsFDlVY/s1024/yani-zendrato-utema-niha-boo.webp)
 
 Heza manö möI u'alui Aekhu ba ndöfi no mofanö Taniu mege möI wangalui halöwo ÖröI mbuusa limö sambalö öfuliö Wango'ozui sino ta dunö-dunö
 

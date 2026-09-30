@@ -29,4 +29,3 @@ Tangkas diboto ho holan ho do hasian Na sai tarpangan rohangki
 
 #Credits: Judul : O Ito Hasian Voc : Lineker Situmorang Cipt : Jonar Situmorang Arr : Barita Situmorang
 
-![Lineker Situmorang - O Ito Hasian](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVP_XJfwaSelNQRpv9otn4bQcSN8haw_3dfZqEFU6HvGz_eH1IAaC5bklBDM4-P97ZIM5Y68A0ofbQlJlzTpeE3bCnA7XeUf02FjPwikiiITN01fC5AjkeFZ51HfA9MFmoOHmoAKyaKsvceVv9bA4IB002bMhNsZYbFhvxrEXkcPR0lW6G8pN06tNBVXYb/s1280/lineker-situmorang-o-ito-hasian.webp)

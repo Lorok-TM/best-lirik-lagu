@@ -5,7 +5,6 @@ categories:
   - "dangdut"
 ---
 
-![Kita Putus Saja - Winda Gige](https://raw.githubusercontent.com/Lorok-TM/2026-08/img/kita-putus-saja-winda-gige.webp)
 
 Aku Sayang padamu Jiwa ragaku Hanya untukmu
 

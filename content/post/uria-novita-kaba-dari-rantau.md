@@ -13,4 +13,3 @@ Ondeh uda tolong tenggangkan Janji nan alah di pabuek Diranah minang den mananti
 
 Walau uda dirantau urang Tiok datiak indak den lupo Acok denai bamanuang surang Jatuah badarai aia mato
 
-![Uria Novita - Kaba Dari Rantau](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRnYX5wksouB-F0RiCOacVVABmhTwpTiyVT6bNZ2cwzzU1PlqoIMB_tTlgdH1FTltv9rKUYWceMhDYUfiLbiquQZQUzebKjzaZS47NuOwsdoqpGajKFyUEnuCTxNLNFeeyHfXqj95aqeA0hBcz_pZlCaFGZYNPDnYKQEsqfXTi4XI_6NhvVrBvIZBzg4zF/s1280/uria-novita-kaba-dari-rantau.webp)

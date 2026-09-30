@@ -15,4 +15,3 @@ Lah ramuak raso nan didalam Lah tasirok darah dalam dado Dari pado babuah dandam
 
 Denai bari raso sa abih abih Ka uda surang tiado nan lain Sampai hati uda maungkia janji Baurak kasiah nan lamo tajalin
 
-![Mesya Orin - Seso Cinto Di Ujuang Jalan](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiW5aKW9A0T1Tong21VLys2mcHO5jVgJZ40luu0VEWAkoTEM-wfhXJ5Y7PnvsmzhJ3kPX5Nsexb1nfcyRLKhXuukWieDawvoRbX5tqBdXYjgNnnO86hSl8tljGZhL2ZMd56zdbM-DQfpw7u2SICswxFxVt6QQTKYRkuW9EVxzFcvwTAxTw2wHiu21WqcWw7/s480/mesya-orin-seso-cinto-di-ujuang-jalan.webp)

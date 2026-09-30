@@ -33,4 +33,3 @@ Ora perpisahan sing dadi getuning atii Nanging nyapo mbiyen, kowe tak senengi Ny
 
 #Credits: Title : Cidro 3 Vocal : Dike Sabrina Songwriter : Faried Ds Music : Om. Sera
 
-![Dike Sabrina - Cidro 3](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicS1K4qeH1C5V4mKB1x8IF7orI6TXfoxO7B0DaczpTHh5xaS10s4TNcuItQPRzizEM3AhuzF9shqv4thAU_O-6Vofanjd0Ea2-YLlYWGfoRuA42zlHmAdgI0wWve7ji8dy467YyUmJWiwD2kSdxtO7o_XpDEfqsvmkmYhMeX3vg-RuzIavBlC82L-wOFSz/s480/dike-sabrina-cidro-3.webp)

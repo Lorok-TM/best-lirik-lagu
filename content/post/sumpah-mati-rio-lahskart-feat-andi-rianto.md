@@ -5,7 +5,6 @@ categories:
   - "indonesia"
 ---
 
-![Sumpah Mati - Rio Lahskart feat Andi Rianto](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7WRC0r8rpqLOLbuj7C2tSNs21dLS0TqdGui196ouOo5J4kKDnXeRWHAEOGeO60e8wSPol7s9ZJrIQzq5z47kyAQmBwqu0U6livaHaF1oa1DsHoCPoFmJxtkEN_ngt2ZtaCzhDf6Ai2wdUOKeHD6JyYRTI2G-6lorBpiHJ4LR7NWnRCdOuSJTNh-biNsUz/s1024/sumpah-mati-rio-lahskart-feat-andi-rianto.webp)
 
 Bukannya kita satu pasangan Yang seharusnya bersama Tapi mengapa ini berbeda Jauh dari semestinya
 

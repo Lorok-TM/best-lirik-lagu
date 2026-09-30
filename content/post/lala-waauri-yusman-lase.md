@@ -27,4 +27,3 @@ Demikian lirik 'Lala Waauri' sebagaimana di atas.
 
 **Credit:** Judul : Lala Waauri Voc : Yusman Lase Cipt : Iman Wira S Telaumbanua Arr : Fothan Zalukhu
 
-![Lala Waauri - Yusman Lase](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiF8eoVapoDHLmdVJI5N7rbuPN6l6S5khpssasjJZFUjZmHQCmjiwpcpKd8VrNWNxu3fvmJTz2cqGTYEcK2pmFc4_n2oHmrmjnKq4oUAtdkvUGdWw0mPbJqA8zJxUd1PZQMrrilqLG5nu-9sRsdPMePO3kwQVHHTHDsbMQZOlEwLdAavi1jZ5VCZ-fcPGJ3/s480/lala-waauri-yusman-lase.webp)

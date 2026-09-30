@@ -19,4 +19,3 @@ Demikian lirik 'Ku Mengucap Syukur' sebagaimana di atas.
 
 **Credit:** Judul : Ku Mengucap Syukur Voc : Gwen Lovely Cipt : Danny Rico Novianto Sali Arr : Danny Rico Novianto Sali
 
-![Ku Mengucap Syukur - Gwen Lovely](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd-Va6gK4SzamyI_knjpyztRYGi2oRhPpCZeq1pgCL_Le4NJcFfszQmys15W3VntD-AgGMZ596Do7fQ-20UTyhomT7ZR3Er2hyJ69EXxxNY8Exmok-B3RQsoSBKniZgGZNwHq9uReVDB7o8CHWPUevBC4tFIVAu1TqTtpJZ2fMo3osU9FR0cI2njuVKnJT/s1280/ku-mengucap-syukur-gwen-lovely.webp)

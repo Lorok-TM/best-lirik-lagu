@@ -29,4 +29,3 @@ Serko pe ningen lalit si nulih tigan Ku darami pe la jumpa suki Ku sayangi ja ng
 
 Maka e kel ulihna kam ku kelengi
 
-![Dessy Anggreini Br Bangun - Sedak](https://i.ytimg.com/vi_webp/7qf-r5GyPQk/maxresdefault.webp)

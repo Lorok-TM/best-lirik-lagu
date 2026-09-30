@@ -11,4 +11,3 @@ Nalikane pertama ketemu adem ayem atiku Naliko aku ono ning sandingmu Esem lan g
 
 Ora nyongko roso iki iso tresno Aku sadar atiku ono wong liyo Nanging kabeh roso iki nyoto Kowe iso nggawe tresno
 
-![Silvy Kumalasari - Patgulipat](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0l4WjKjbUfUxRt5EFkkywU7cVy1Oka_-nNAtEyC_r1fTpl5G64-ODmtia5iGnbt4CEmXKZgMuLbyowHfHtjcZOcsGU42Ty_VGIKCZH_pzaQVonKIkAX6WHjEVWufgJL7NRSVpl1GxP8sWAy3ceQGiBZKpUbMnEmatHEVlCkO-1ikuSCJZRvJAf94SkrgT/s480/silvy-kumalasari-patgulipat.webp)

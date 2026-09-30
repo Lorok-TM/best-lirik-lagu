@@ -20,4 +20,3 @@ Selamat malam Tidur yang nyenyak Aku di sampingmu
 
 Selamat malam Mimpi yang indah Sampai bertemu pagi
 
-![D'Masiv - Selamat Malam, Mimpi Indah, Tidur Nyenyak](https://i.ytimg.com/vi_webp/qh7QYxXmGAA/maxresdefault.webp)

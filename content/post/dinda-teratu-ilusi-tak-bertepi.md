@@ -27,4 +27,3 @@ Cinta, galau aku menimbang Rasa aku atau sahabatku Pantaskah kuabaikan Hati yang
 
 Pantaskah kuabaikan Hati yang menangis menginginkanmu?
 
-![Dinda Teratu - Ilusi Tak Bertepi](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9AwXkzTE7pZAiCb0kkAuk6BsUBYZjiFK8P37d0T9VimhbwKBXBcFa8fx_eSr-rkba7CE0DXDGz0S19D4V1VNjZziqJ4t0dgn-o7kBaJTisaymeHQnETgDJHcRi4iqnUiUGgdpbE5cER6VLT_eJnnUFzVeRec_QIAIqH7RhFAaUV2GWCQpMPSB9tf-AXF5/s1280/dinda-teratu-ilusi-tak-bertepi.webp)

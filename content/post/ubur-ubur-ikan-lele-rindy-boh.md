@@ -35,4 +35,3 @@ Demikian lirik 'Ubur Ubur Ikan Lele' sebagaimana di atas.
 
 **Credit:** Judul : Ubur Ubur Ikan Lele Voc : Rindy Boh Cipt : Gopy Arr : DJ Komiz
 
-![Ubur Ubur Ikan Lele - Rindy BOH](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4dL_rTmq_xbQwR7ei5l9qNuSCuLfLS_7Okp6yT5ktK1KwwF8VaOJew3OhewzkghlOEm4hT6IvYjurq6MXm_nn1Ahl5PlIStTEAFbPwVmKVaK9IomqMhF5K0qyqSGxwaTABrccLL10Z1echyO4D8WeuPopZWjKmFUu8aAij-biPGR1_alBMKd6My7GH6Ig/s1280/ubur-ubur-ikan-lele-rindy-boh.webp)

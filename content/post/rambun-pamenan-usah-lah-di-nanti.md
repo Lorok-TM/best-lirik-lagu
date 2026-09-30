@@ -5,7 +5,6 @@ categories:
   - "minang"
 ---
 
-![Rambun Pamenan - Usah Lah Di Nanti](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8YPKc6tEovsFnb42GyPRZzj62pz4yQyUN1Xn36ENkfs8b8ckn1ESvdXIGTBdHmWJw8rKdYijEJ-1_NpBIDd49iA432y33wrOIbzfDQpSU7iMuVdwWsGhwLLdOr6oEhEKtJ6Pmwd0wOwr3AjuBqYMki6G_EhcvGWBbm3xgjEyccs5eqRTjnVoDisLvd6ih/s1280/rambun-pamenan-usah-lah-di-nanti.webp)
 
 Oi adiak kanduang di rantau urang Maafkan denai salamo ko Larek mananti adiak jadinyo Denai nan malang indak kunjuang pulang
 

@@ -21,4 +21,3 @@ Tu sadaan ma ho ito Dang di au sisongon ho Luluanku nama i Na seken-seken i Lao 
 
 Luluanku nama i Na seken-seken i Lao gabe donganki Sahat saur matua
 
-![Strike Trio - Na Seken Seken](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRCPvPDmCt67yrvYnZdMMkT7ZhzYTfQScl-Iq0GMGWUFEum21ggLKNpZJqzFz0xT7U4lmQ4F7sy3fcWpHhWNS5gYUDk2E6cGsg9xvQudiep2LdPSd_OrS-_B7sIfyxMZkfe1BQaeRRgHlmBXkRu9dph3WQYMpEhdj8x2kUnJVAb0lxwzbiNwGWhyMbq2xr/s480/strike-trio-na-seken-seken.webp)

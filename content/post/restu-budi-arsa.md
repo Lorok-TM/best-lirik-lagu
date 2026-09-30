@@ -29,4 +29,3 @@ Demikian lirik 'Restu' sebagaimana di atas.
 
 **Credit:** Judul : Restu Voc : Budi Arsa Cipt : Budi Arsa Arr : Goes Enen
 
-![Restu - Budi Arsa](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJIafnWSrpFW085SbkcKIH5B6k-23bHbbSaG1FpF3IvnXDQrMtDuw9b-FFw4ESJw2V2g3PAnnxAoWjbk9s81n9DUCTt43TPj1phyXawciSc6A16vz1f4JKPV4fO8btm0E3dLjN3eW6MX6g21k0T6wYYTf_4744uGYR-a2yHMW3o75ORDCqF8zdoqX6nSli/s1280/restu-budi-arsa.webp)

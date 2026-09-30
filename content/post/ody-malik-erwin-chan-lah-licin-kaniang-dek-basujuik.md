@@ -43,6 +43,5 @@ _Lah Licin Kaniang Dek Basujuik = Kening Sudah Licin Karena Bersujud_
 > 
 > _Dibalik makanya di bilah Pandai berlindung disaat panas Seperti itu tingkah laku anda_
 
-![Ody Malik, Erwin Chan - Lah Licin Kaniang Dek Basujuik](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIpZ4DY9TOzKvQT2quoTbRBSrlSntl6l9nDxqARlXNdw2LRHyGbplNZfEtRFjvEVqfgbUp87d_DQGzMqg0NN4jFrf3-AOYZtuyleu4oPOvFclKPZHOUFOnDzvV-OpZdYiCkLj-iJZlqlSh8XhrZTjfjmHdT-YdlNHFwsgv0z0C8rTt7g-dSF66GgO_LSXr/s800/ody-malik-erwin-chan-lah-licin-kaniang-dek-basujuik.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Ody Malik, Erwin Chan - Lah Licin Kaniang Dek Basujuik. Silahkan bagikan juga ke teman anda.

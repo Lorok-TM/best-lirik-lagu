@@ -33,4 +33,3 @@ _Boya Nyeluk Lega = Tidak Mengharapkan Imbalan_
 > 
 > Aku tidak menyesali Tapi aku menyayangkan Tarik perut untuk menghembuskan nafas
 
-![Yan Srikandi - Boya Nyeluk Lega](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijQgQ3yG_E6wbReeLDXBvJr6Sn-xoPW2j51nWxRxAHqnGIOh3o_yNMSIaPPj4GcPuVunSP5E2gWJHAiFvYam1i2qhLks6PCJMClLxYHVcy6k7vbiugpe17HVlu0d7s4qPS7fPv80Nz8sVLhanHVYfI89KclSNwwusBXUmd-hRoV5Wu_UH_DqTk2qIetwGe/s1280/yan-srikandi-boya-nyeluk-lega.webp)

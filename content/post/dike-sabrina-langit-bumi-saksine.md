@@ -25,4 +25,3 @@ Langit bumi iki dadi saksine Welas isun nyang riko seng ono ujunge Isun seng ngi
 
 Langit bumi iki dadi saksine Tuluse welas isun iki nong njero ati Masio saiki seng biso dadi siji Sun pastikno welas iki sampe mati Sun pastikno welas iki sampe mati
 
-![Dike Sabrina - Langit Bumi Saksine](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoj-q63HenZ4rh9SwaHwUEKR4Wu0wO_o1uUlmtVY8KdlD9vBNpXoTDwF06MgRxY6l1tmtID9V6PQH1fguQLgmNLfsboMbRRP3ssPQjiEdch__9rDvdv-rjtz8MAUYJfzgB7ujA0cM-PHGHf8sQkHyyBcpw8z-AaZWgV5eycf_GOfd8s4YHIQWGtSZi9WrJ/s480/dike-sabrina-langit-bumi-saksine.webp)

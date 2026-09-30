@@ -21,4 +21,3 @@ Alun lai lapeh hati taragak Hati taragak Oi ka bapisah ka tibo pulo Katibo pulo 
 
 #Credits: Judul : Tampek Hati Jarang Basuo Voc : Rendy Kurnia Illahi Cipt : Misramolai Arr : Doni Asben
 
-![Rendy Kurnia Illahi - Tampek Hati Jarang Basuo](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf-99LJnIZZimE0eSsxFagFq6cEuE7SjTyyff3q6-JgIyEus6iINatMN_ahNgtQOGwnAydY45p250UQDMjGIaVZfExTv1Qto9PP2_YUKQmsyJaFcmQElipwObv9moQk6yCPxRQ-4e5gpWTibkMI_8-B3mgGkXb2AxHb7-b-FUKhHQ6uGH9WH8DtZ9bKEJp/s1280/rendy-kurnia-illahi-tampek-hati-jarang-basuo.webp)

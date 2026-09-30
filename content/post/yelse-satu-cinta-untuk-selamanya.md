@@ -27,6 +27,5 @@ Title : Satu Cinta Untuk Selamanya Artist : Yelse Songwriter : Mansyah Saragih C
 > 
 > Hanya kau yang ku cinta Engkaulah segalanya Hanya kau yang ku cinta Engkaulah segalanya
 
-![Yelse - Satu Cinta Untuk Selamanya](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEil_NNmpRbdRVSblgGTs6rCKHYd_qULlcph_t8gkvwNAP_A7ExMNDKo-em149Vyq2K-iBdoJjFalUWfGi3CZjjsBXOuOTwjET0GEf001t8KB7YSc4Y3G9INrl7ckC4Ae9jbRZrq9ICNlu38sbKPKRZk4vznsR6CelsxFkDyTitBh5fyunV8vDtkQyANXw/s800/yelse-satu-cinta-untuk-selamanya.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Yelse - Satu Cinta Untuk Selamanya. Silahkan bagikan juga ke teman anda.

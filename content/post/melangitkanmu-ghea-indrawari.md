@@ -29,4 +29,3 @@ Runtuh pertahananku dan sok kuatku Kuakui kelemahanku Dan kuberjanji Takkan habi
 
 Runtuh pertahananku dan sok kuatku Kuakui kelemahanku Dan kuberjanji Takkan habis puja-puji melangitkan-Mu.. Segala puja-puji melangitkan-Mu..
 
-![Melangitkanmu - Ghea Indrawari](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEoGD0dcuM5dFgx-ck27Q9N0Cgv2ETq_MAbUEUevASskwFbW3t64aolylcamZ7y5cnsJ_omeTd7znYjH-PixQj-h8ywCj3zoWqTggJXfSUnEllvZI9IJTmc4Wu1XYB3obCpQNagCsh3oodLd_aaFTzHvvdq8YRUBgGp7CY8LLvylHabp5_luXR2dApM0yN/s1280/melangitkanmu-ghea-indrawari.webp)

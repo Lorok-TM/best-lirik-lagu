@@ -17,4 +17,3 @@ Maratok hati di dalam badanllgminlamo.wpc Sayok nan senteang ka dipangakan Dudua
 
 Baitu bana oi nasib nan malang diak Duduak bamanuang, bamanuang mangana untuang Takana dulu samaso pandai tabang diak Tabang mambubuang bagurau samo gadang
 
-![Uria Novita - Buruang Bondo](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgo-lhhOvmI-497SnLxZYGRuSgXhdBNZMICSqx5rv8WuiCc2H9MA9IlBl2mhL_zgmccBAV5DZ_wgVtNKgqc6SqNpi_9AN6_WGbOkQUbbrkk7W1rPek3xbqkQEqF7mECvIkQBUda6egIoOQ9aGaW8VpMvkD0bDUn-TJB2ue8yJ5k_aJt5JqEDIKqSMdLRe5O/s1280/uria-novita-buruang-bondo.webp)

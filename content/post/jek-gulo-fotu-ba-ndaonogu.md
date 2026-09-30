@@ -5,7 +5,6 @@ categories:
   - "nias"
 ---
 
-![Jek Gulo - Fotu Ba Ndaonogu](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNmCjkrmAc46XUatpeELv9uUKnv0lrsQHYzFxzntAztZwtGkfNR4fSI3J1RV1xTUhWGTSndXCEzqQsbbV8oNucd0XOblGUn_XSyBzd51_ytQigYA8zWahtoH7ETXlw2hJsXqWHjOqtFtLnvuZdHoZ_PZ6giET5ugrvpZEjAs5fuuFw470XoaV7escjzOv8/s1024/jek-gulo-fotu-ba-ndaonogu.webp)
 
 Ufatou-tou tödögu He balala wofanögu Hawa simanö zalua Bawa'aurigu
 

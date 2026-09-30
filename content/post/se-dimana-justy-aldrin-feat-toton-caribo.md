@@ -5,7 +5,6 @@ categories:
   - "timur"
 ---
 
-![Se Dimana - Justy Aldrin Feat Toton Caribo](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuRrAbu721ZfCT4p3xJ2_s52ySSLqE3PO93q2vwfT_bNUgYmd6ZRyucbPDK44IGsivapj54WuDciWq138TI2VluTySsY7xnvJKhpGaT1KLq3SbnZedqE3A_DWEzmEXtSm7dx5VyYlgEOcM0CJ7Sxl0acGEqWttP_RePqava-nFi-8UaFjCTqLZ42sF6FYq/s686/se-dimana-justy-aldrin-feat-toton-caribo.webp)
 
 Samua skarang su habis Waktu seng bisa par bale Selalu sah beta yang kalah Manyasal jua su seng mungkin bale Beta antar cinta orang masu pele Saki orang laeng su ambel
 

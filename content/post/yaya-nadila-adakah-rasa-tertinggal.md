@@ -19,4 +19,3 @@ Jika memang sudah hilang cinta dihatimu Kurelakan meski hati ku yang terluka Mun
 
 #Credits: Judul : Adakah Rasa Tertinggal Voc : Yaya Nadila Cipt : Ajhay Pasma Arr : Decky Ryan
 
-![Yaya Nadila - Adakah Rasa Tertinggal](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgg-mwtSea1WYk9kx7XZ-2bemQF28hoimjIcHkEj3__0BuL60pVk9D7x1iQ2aoNO4eGLKQ85aLx3YVapuvkvF_d_C5hifnkXXw2QiIDv1ZeWfp3TTcSJs_3cPeCNS4fPdPUsYC8D3hGdyl6M6_WVm3G4Nl2CBm9dnySmCo4Mbg4ny3blL3ILeVyTwygtkfd/s1280/yaya-nadila-adakah-rasa-tertinggal.webp)

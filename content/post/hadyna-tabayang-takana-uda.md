@@ -15,4 +15,3 @@ Salamo uda biakan denai mananti janji ka sampai Mungkin ka marasai Nyato nyatoka
 
 Jikok indak sadari kini Dapek di urang di baok pai Pintak hati hanyolah uda Kok nan lai tido dipangana..
 
-![Hadyna - Tabayang Takana Uda](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6ePLS9DErFQ-kpfkBh52wCwfrrUuS07nDzGLlpNmsJKAVKMiYqPPaeBVRTsbkNG735-cTdGFLfoIPe3WyeDZyr1bZQwebEMNZSvA8rMUFfRU2Oe3A5EY76kipQnM162ftJlaPLucC3tArI_dbeXLM_mPgrxPBLiFODf1mCjNhiMvhSas6NJJ-BKBm5dKP/s480/hadyna-tabayang-takana-uda.webp)

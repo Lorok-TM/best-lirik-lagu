@@ -31,4 +31,3 @@ Ala ni tongtong ma ho mandok mauliate Jala unang lupa ho lao martangiang Si ari 
 
 Unang lupa ho martangiang Sude naung dijalo ho parhasea Sian Ibana do Jala mulak tu Ibana
 
-![Unang Mabiar - Aisen Silitonga](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtPCEEHPdIcvNV0NEkBJsvUtIcjscE6nhQzSvTsTWr3X41UtbwYYOg8YMjHLTcNRdZbPBFlThMVPLRDgtkqau2pxH4kV3GA8yPyHEn5C6IKSuObHvVkLF4JVAVvbVHb1bHTTO5QarNxeuN7sZEwSUGUz5ZDCT6zIGWQK5SMc400XUBtN-nR6hVdlH6RDje/s1280/unang-mabiar-aisen-silitonga.webp)

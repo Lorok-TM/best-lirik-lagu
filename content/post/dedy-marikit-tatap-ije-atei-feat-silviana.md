@@ -36,6 +36,5 @@ Title : Tatap Ije Atei Artist : Dedy Marikit ft Silviana Songwriter : Dedy Marik
 > 
 > Tikas tuh helu kesah sarita Akan pahari je kula tunda Tambi bue je mina mama Bawi hatue bakas tabela Bawi hatue bakas tabela
 
-![Dedy Marikit feat. Silviana - Tatap Ije Atei](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7thrwahYByJamFtRL4XfCsUNSOfacqDCHS6zZUXXhyrAlgICTxDAskVoCJ6jxJBw7SLW7wtC-1w4AJYFs1kRaRsCQSueye3weFUU9pY5IjOdaJYDMg39J3YEi5FGdcovWTQKiK58nTAy2rH5HOxxX791P8UJH52Y4My7tD0cl_KXcPNl4b_BYqOBszd6A/s1280/dedy-marikit-feat-silviana-tatap-ije-atei.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Dedy Marikit feat. Silviana - Tatap Ije Atei. Silahkan bagikan juga ke teman anda.

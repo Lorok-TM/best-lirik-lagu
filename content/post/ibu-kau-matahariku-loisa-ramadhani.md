@@ -27,4 +27,3 @@ Ibu terima kasihku Atas cinta yang tak pernah layu Kau matahari dalam hidupku Ca
 
 Demikian lirik 'Ibu Kau Matahariku' sebagaimana di atas.
 
-![Ibu Kau Matahariku - Loisa Ramadhani](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiv9YepZPpwc6e_3_bPYsON9vdF2RVhf-RnV7T6QQILyb_Yi3nSW6GPs_NlVQDpQIcWk43kO5ID0PKcJk88XgBP_OocG3cpBFeOsFQKlT1hDQVNreSHt__is_NpbeOjuq94smDHkCnzi5l_nIU3VO_kbRSPSIQLfk2yTqF1WXQoLBx0B1Kw1SkGn4bia5U/s1280/ibu-kau-matahariku-loisa-ramadhani.webp)

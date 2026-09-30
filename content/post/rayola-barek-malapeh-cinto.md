@@ -17,4 +17,3 @@ Kini uda lah batamu ganti Denai lah batamu pangganti Lain kato taucap di bibia L
 
 Malapeh raso cinto indak ka talok Ibaraik malapehkan nyao di badan Jikok masih tasiso rasonyo sayang Denai masih maharokkan
 
-![Rayola - Barek Malapeh Cinto](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEir0zHbD0bk8bH1BOBEI5UeIcVCme8WtYiSPxmC1T_98xJLnbnEODX4CW_QZu80dyDkOnTbQ-FgjT6kUno8bbyNJkbZ8_kdVsH7oAKMvaqkeNWSmr0fjSzsPLUBXwEF6wiISW431M7GxUW1zAoId9FuGSyTGwDPvftjpyAA4ziz4SvvIia5smjfGOlrb2mk/s480/rayola-barek-malapeh-cinto.webp)

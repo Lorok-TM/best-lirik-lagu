@@ -29,7 +29,6 @@ Situs bestliriklagu.com tidak menyediakan chord dasar / kunci gitar / Mp3 lagu M
 > 
 > Bertahan sakit Pergi pun sulit Terpaksa aku jalani
 
-![Eno Viola - Mampukah Bertahan](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpHIJzv3Oynh9rUqKlc15RH5M22riNmuvMmv1obDJZ7FTnmzE5nSRUJszEu5zotxEQqSHUgZQBQmFtf3wIHgo8mnUklGqe4s2HrIp8lPaiVxPOEseKUldIR_Ip8aQQwbyPiTLRfXlcmFFrIV_AAo32aOmzDRiIARCKMoerZ9HU7mnKk6nf9lk-9awrkKCh/s800/eno-viola-mampukah-bertahan.webp)
 
 Tujuan kami berbagi ini ialah menyediakan dan menambah sebanyak mungkin informasi arsip lirik lagu untuk mempermudah bagi Anda yang ingin menghafalkan lagu Mampukah Bertahan ini, maupun belajar bermain musik.
 

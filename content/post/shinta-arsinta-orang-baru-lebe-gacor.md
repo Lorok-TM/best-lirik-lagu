@@ -17,4 +17,3 @@ Tor monitor ketua Anggota mau lapor ketua Kondisi lagi gacor ketua Yang ini baru
 
 #Credits: Title : Orang Baru Lebe Gacor Singer : Shinta Arsinta Songwriter : Istianto Eko Poernomo Produksi : PT. Talenta Abadi Perkasa
 
-![Shinta Arsinta - Orang Baru Lebe Gacor](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyIfYbg09YIgoWFA208Zmn4Hp3wEV9SupNjMhH035ImusaMo-P72LawQ8RZulh_h8JTKaf7a5DT11bJ1iLKcWbYIuSYoe7MVWxqAChKxeuMEQJBRJ1eiAEofETazWjLsnh0_uFBC1nTwAHCzvU0U0TuQUzkndhYtzbivcnOjghi3MSRmbogIm94i8Jiojc/s480/shinta-arsinta-orang-baru-lebe-gacor.webp)

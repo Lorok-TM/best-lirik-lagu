@@ -25,4 +25,3 @@ Bakal taka jogo tresnomu Tulung jogonen atimu Kancani nulis cerito uripku
 
 Yo mung kowe ning ati ku Ra ono liyane Selawase bebarengan tekan patine Selawase bebarengan tekan patine
 
-![Sasya Arkhisna - Kabagyan](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1yFR_T4mf61Hr7FjvQMVqXlUrtxpGSkjqJjlpsFEuo_6YPHUMaQLywZ6C3LChyphenhyphenA5xHEmpahxFrnRLwAgbjrq9sryobYsuFu1y5lucLlYnRkjUNhhEmkftWyF8Qoa5A8wJbiPPwelnJfIDpIGpeIZaGTzhgRkMeYt928KOYOImHww2bkGR2bwtawlMmvjG/s480/sasya-arkhisna-kabagyan.webp)

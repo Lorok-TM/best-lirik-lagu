@@ -5,7 +5,6 @@ categories:
   - "indonesia"
 ---
 
-![Menjauh - Vanessa Zee](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBM5DhcR4ZTrSK3Dy-RWkGeqOyosTqKEAaCI5x7eNLiD2BuVmaqYYft4QVNRwJujYM8APjQvii2CZM3VQrTm-0_10pmnnpPfdKiO3O2_bDr7qGMOMsIBTZEy9ueG7rV8mQw147WOXYkr7kgnDganO-LAyEdJhqbEwZ2YV3wvxnV85OzdzGiX2P_X9H4Hvq/s1280/menjauh-vanessa-zee.webp)
 
 Tak mau kah terus berusaha Bisa saja tidak akan sia-sia Terlihat salah jika memaksa Namun sulit untuk terus mengalah Tentang akhir cerita Yang kau hindari sejak lama
 

@@ -27,4 +27,3 @@ Tatufa dödöda Fareso dödöda Hana
 
 Tatufa dödöda Fareso dödöda Hana
 
-![Saridewi Zalukhu - Sawai Khönia](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTd-YRLQH41acpImzAGAhzNOaOmuGnOAodpk-CjQj8JRFRQStwdFYH4UQBT6WkqDY-LNd32T-dkmNnGL9pXmY40bLhaOj3ocBLlEGXS-EXZptATQcgd1d0DCgGgFzw8LZVfPai9ijlkjqy5WLOrCsNibaP6yGMOMoLHWKNZNK6x4WIfXUe7n0utMDAvO40/s480/saridewi-zalukhu-sawai-khonia.webp)

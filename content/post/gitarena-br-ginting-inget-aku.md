@@ -23,6 +23,5 @@ Title : Inget Aku Artist : Gitarena Br Ginting Songwriter : Giba Ginting Product
 > 
 > Bage bagekin ndi biakna rate tedeh Song kita tawa banci ka rempet tariluh Bage bagekin nge lebe bagem si baba Seh nge masana pepagi kita resada
 
-![Gitarena Br Ginting - Inget Aku](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjq5u7_wk4gDqI_K_YeAkfGKCCwRPaHr0eiYyoIgs2IBwHwh8incqHfuMt5xbhxxVE8FRfqdsDD09CwL9aEH7-LRFZFOO18ok8ozwxwvs-rweqyko5WEHv0Vr7fjkagAJ1y90AZzaF7bYuH76RPhEQ1_TWpOroelVCKnnOpofsZ2KwUB-TLsV3fRS_dxA/s800/gitarena-br-ginting-inget-aku.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Gitarena Br Ginting - Inget Aku. Silahkan bagikan juga ke teman anda.

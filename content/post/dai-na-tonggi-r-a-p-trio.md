@@ -21,4 +21,3 @@ Boan ma au di roham Togihon ahu di ngolum Saleleng ni lelengna Raphon ho
 
 Saleleng ni lelengna Raphon ho
 
-![Dai Na Tonggi - R.A.P Trio](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzz-HZOWa8BcnsvX1C-iuYXpmNQsD-qx-d1FoOvqF4nbWvh8viRIkZGEjboWB16HMtGaFpOuq9SnZ59QMJ_xqZ8_2kQtx4ZZNsGbXQwSsqURDeHno93Hy1CWnbxl0LteqL2dMw2mYMT2WJkR2w3Fg1-CSkLhKVunx5dyRbYy3S2-X232xCY37Y4wFuGyHb/s1280/dai-na-tonggi-r-a-p-trio.webp)

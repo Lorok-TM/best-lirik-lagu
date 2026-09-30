@@ -29,4 +29,3 @@ Sungguh ora biasa Cinta sing tek rasakena Apa kien pertanda Cinta pandang pertam
 
 Ketemune ora sengaja Tapi ati langsung jatuh cinta
 
-![Teristimewa - Dewi Mahira](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrBu4jlO49-eBzbkLocKVCS5m-jVjq-cWsfn-BDIImHhgjpyIgsWjG8louVjEJBGDANEHxfGDHRQIzWIT_Qxx6_XSdTRosncWa63T8vqUCxs8IAfmH8pJY41wxP0x-u1n_3O9tbD4BRy3frO8aIxPLWTqGNVWAHdGtS5n_Fnm5Pze7SKp-7kM5GPG5kA04/s480/teristimewa-dewi-mahira.webp)

@@ -21,4 +21,3 @@ Hape tarito hape tarito Boasa ma ingkon tarito muse Dang tarpabuni ila sian bohi
 
 Hape tarito hape tarito Boasa ma ingkon tarito muse Dang tarpabuni ila sian bohi Ai dang sadalan tu pangidoan i Boasa tarito Boasa tarito Boasa tarito
 
-![Osen Hutasoit - Tarito](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDw50OaEtzSUMCc2gOIU9CXU55qvqiq0yziKdUeVwPO7jg0ZS0OJi5CDInnfAj_OOdH1W_ttvspITSr1NUtug9HKdj1Vx9c_m9fNkp-dtMKj0EQtmPF45nbENsa96BXg09h9aHyWAcexwfhvS6YdJkXgeZTorvtcXsZYfYys4ofDzAcd4HMKYzD-L640QE/s480/osen-hutasoit-tarito.webp)

@@ -5,7 +5,6 @@ categories:
   - "nias"
 ---
 
-![Jennie Waruwu - Meno Lö Yaugö](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAUrmJgXUGBAAlBzGFIpOrSYDWaJ3oyFbo1Yjhvsotc0wrLI8gISLj3mqCbNPi79TNTwPK97-zS9fkHhWlO0aWfP5-1JQvu4Vbk6N3gCUGZDeixord_ldp5JctcqtboLCLm3EMvpXYj0QQht1EuGkU2hKr0SyAc_pW9WXvZMNiBBY0b0WPBVCDRfrUa2GC/s1024/jennie-waruwu-meno-lo-yaugo.webp)
 
 Natola enaöfahuhuo zibongi No ituriaigö khö gabula dödö Me hatö awai nawögu götö wofanömö Taria no tamanu manömeno lö yaugö sabölö Ö lau'ö ba mböö löngona li moroi khömö
 

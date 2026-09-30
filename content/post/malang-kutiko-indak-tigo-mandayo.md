@@ -19,4 +19,3 @@ Demikian lirik 'Malang Kutiko Indak' sebagaimana di atas.
 
 **Credit:** Judul : Malang Kutiko Indak Voc : Tigo Mandayo Cipt : Roza'c Tanjung Arr : Reymon Kuantan
 
-![Malang Kutiko Indak - Tigo Mandayo](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgusdeqfcWyHNpi_TXGBc6kPf7TBUqyy7S1ALnMBkakeSv-GImeaivVUEFomCtsICw82f0558Q7pgxnqOLYU7rucOOlrn6OIfQevAU3jadE5j3gkjc5s89-kZGYW2h3c1UVfxZHO7xpJRrywJEHlBf5mkxphk8i8o8u3NouG3vntu1Gm_WfLVhvlEe-bdLF/s1280/malang-kutiko-indak-tigo-mandayo.webp)

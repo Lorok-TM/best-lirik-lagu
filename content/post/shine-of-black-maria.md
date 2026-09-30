@@ -39,6 +39,5 @@ Title : Maria Artist : Shine Of Black Vocal : Leazzy, Yella, Pache M Koko, Intor
 > 
 > Oh maria Ko bikin sa pikiran karna ko tra pulang Bah jang ko marah lama lama sa puh lewa Teristimewa sa menyesal Suh bikin ko kecewa maria
 
-![Shine Of Black - Maria](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj22IUjq24HXaBjS5oKkH5otQLzYWck_5Y8a7k2B0A8UK0tAeVshBQ-RA3wwvPfs_RIOA-Jm-kimksV9uI79N2_DDttKKBofu9ivZn7Zo_hg4sI06frroaYI1T2--QYrHKqV44fFsx_a3yycHsSDKZAyo1iUVes_AO_q8b0m2NThUhxrEmkbFHoQ_wZzw/s800/shine-of-black-maria.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Shine Of Black - Maria. Silahkan bagikan juga ke teman anda.

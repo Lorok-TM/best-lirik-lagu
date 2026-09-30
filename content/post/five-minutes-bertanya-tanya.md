@@ -30,7 +30,6 @@ Situs bestliriklagu.com tidak menyediakan chord dasar / kunci gitar / Mp3 lagu B
 > 
 > Hidup penuh misteri Terkadang sulit dipahami Kau datang kembali tuk taklukan hati
 
-![Five Minutes - Bertanya Tanya](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVzrfS7Jp7ErPHCiaF5fox3SGSA52qd9yni0tbdduxvy4P_YnX30L3PSvv4PEwcM5Xt0XALFoGQgMNYQpHlx_iSEXmG4ejxX0bxE2Yx00pbsEeO4bfK2SgBC7X_d6UbuVE7ZL1EGN-jQs8R7sZQQo6RLPryXmgCHdxo6OkPxcgwFDm4VW0SHm5Yz8da3BZ/s800/five-minutes-bertanya-tanya.webp)
 
 Tujuan kami berbagi ini ialah menyediakan dan menambah sebanyak mungkin informasi arsip lirik lagu untuk mempermudah bagi Anda yang ingin menghafalkan lagu Bertanya Tanya ini, maupun belajar bermain musik.
 

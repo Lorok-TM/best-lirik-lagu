@@ -5,7 +5,6 @@ categories:
   - "minang"
 ---
 
-![Puspa Indah - Buaiyan Sayang 2](https://raw.githubusercontent.com/Lorok-TM/2026-08/img/puspa-indah-buaiyan-sayang-2.webp)
 
 ## Lirik Lagu Buaiyan Sayang 2 - Puspa Indah
 

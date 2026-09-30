@@ -5,7 +5,6 @@ categories:
   - "minang"
 ---
 
-![Vicky Koga - Usah Maninggi Juo](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOXA9Z7m3xcuNc3ovO52ZRzaHlJyWD3MeaTzwjD4yFpseIuor4LIEEQzBKxZ44avupjGzjgZ7azhRhttvoLAxZ4-NlGKaHZrSnHIcwkPOZ9ncCNNgbBzh7m3SeEW6yP99ODKFIF-CRFS6EDRia1vwN2OhhTHuIDRRBJ1SzVXAkGHKEfXxduhRA-3Q_sBvj/s1280/vicky-koga-usah-maninggi-juo.webp)
 
 Samantang bana tuan bakato Lapeh – malapeh tiado pikia nyo Ndak tantu urang nan nansakik hati Naruni tuan dima lataknyo
 

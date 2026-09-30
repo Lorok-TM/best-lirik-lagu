@@ -5,7 +5,6 @@ categories:
   - "indonesia"
 ---
 
-![Samuel Cipta - Jagat Rasa](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHGHs03NP_vVzuZCHrXHtYrNBcXwexNZYAFhH-3vlNu0H3LtOZc5BSXqPf1k5UEK5jqvfNoCB8eXlhC5fWYvxMlBjbhEVhbCrs8CYTxurh1DD6yq075s862LkpbiNR4Uw1zxn-afvBxUDoQJfaBrutknS7QQEU2ZYuVJZJtg_riBpoIr8fA4YbB0gbSku2/s1024/samuel-cipta-jagat-rasa.webp)
 
 Mungkin langit punya jawaban Dunia yang berhenti berjalan Kau ucap mantra Terbuai dalam rasa
 

@@ -37,6 +37,5 @@ Title : Lake Hate Artist : Cut Zuhra ft Nazar Shah Alam Songwriter : Nazar Shah 
 > 
 > Bek ragu keuheundak poe Neulangkah lajue keunoe Ilah do'a pasti tuhan peusampoe Ilah do'a pasti tuhan peusampoe Ilah do'a pasti tuhan peusampoe
 
-![Cut Zuhra feat Nazar Shah Alam - Lake Hate](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgr6gK0zspkBSvdiLaQ0eR3XU06m3Hc7YKvCL0Sh_zYnh1TZDkqX3yM5UjTc9XVveWTG88Uu7syBorWIwwiNUBczpoP88pLsk4cSrleS5xR6ZXQXBQKVylKQS0EnBMi-xAX2xNHl-8Q0ztcOPrUDhcDhA1WEZYk0CiiZsN13VlOGxVevXYRq_wPCdCtIA/s800/cut-zuhra-feat-nazar-shah-alam-lake-hate.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Cut Zuhra feat Nazar Shah Alam - Lake Hate. Silahkan bagikan juga ke teman anda.

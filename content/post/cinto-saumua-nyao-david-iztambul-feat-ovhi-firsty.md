@@ -23,4 +23,3 @@ Demikian lirik 'Cinto Saumua Nyao' sebagaimana di atas.
 
 **Credit:** Judul : Cinto Saumua Nyao Voc : David Iztambul & Ovhi Firsty Cipt : David Iztambul Arr : Decky Ryan
 
-![Cinto Saumua Nyao - David Iztambul Feat Ovhi Firsty](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNobIX8ZpUAPXVYdThyMX42_6qr7kddFiImh-vGXrj3NnUEm0f7GQivVyUVMuzKOqHjRCqobdwWTOQUzlSohdb2xlOPufH1_xVk6-85EWImMSAhtjCXYyraNXUODd5LxdDI45GjnVoNU2rbW6fLhn4HmiGIaflm3aGkmbwDfL8xj8-sSuwpYHKuk-UGaQ4/s686/cinto-saumua-nyao-david-iztambul-feat-ovhi-firsty.webp)

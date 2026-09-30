@@ -17,4 +17,3 @@ Berakhir sudah cinta suci ini Kenangan indah kini sirnalah sudah Percuma saja me
 
 Kasih mengapa teganya Hancurkan hati yang mencintaimu Kasih mengapa teganya Hancurkan hati yang mencintaimu
 
-![Fijar Arif - Sirnalah Sudah](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQDbLgzI7hpvMMbwLCweAcE_w3MwG2Uk1FwHB7KEuoLR9N8gcZftDizYcH36xN1yviNeaSoUigbLjO4O2wtj18Tg4qAqj_xjTvCCQeuQvxiakqHpKaZE72WrbesuXfZNoyeB9XPfXUw2vDbp9TN18OEwMpveaJaPxnw5-s4qbB7ZXugH4jDJTvd6ac8sXf/s480/fijar-arif-sirnalah-sudah.webp)

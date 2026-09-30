@@ -23,6 +23,5 @@ Title : Muani Pilihan Artist : Gus Jody Songwriter : Eka Jaya Category : Lagu Ba
 > 
 > Terus terang beli ngorahang Apang adi jani pedas nawang Setegeh gunung sedalem pasih Tresna ne sanget tekening adi
 
-![Gus Jody - Muani Pilihan](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi06-j6pf1lgGkfeOqHwr8RlK5OUH_zj-dAs0WEAo0mYvPbwu-yxgfw3crfdt8A6MyOShNc8sUrWT4jUSKkj_wFkMu-7bK1dWDEtIbdsipIE2k7aLCKMux3yaCWbJcc4tchYFWKoDu3aVtxSJ5JD_IgFH3kuRVl2Irpma9aPOusK4gaNVuuS4kWJ6xXX3NS/s1280/gus-jody-muani-pilihan.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Gus Jody - Muani Pilihan. Silahkan bagikan juga ke teman anda.

@@ -17,4 +17,3 @@ Oh pulanglah Di kamar kecil ini tempat kita bersembunyi Oh kembalilah Suaramu ma
 
 Tak mampu Pulanglah
 
-![Mario G Klau - Pulanglah](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIbyiLARvOvm32437lCDzr9eFBSGC0J2H_KNvM5r1P0oZgycVDU7MG3pJwWD_l6_p9qx2jYN7y2GUhIFcNV6iH0h-pd9b44QoGKMnKn767-WeQjap8rt3Be0YsdwdIZ1eS2OUzllH017LDCg_ZrSLCM0frHXKxb8YcqNCObf-5SN6siJZsErP5-6SsBL2N/s480/mario-g-klau-pulanglah.webp)

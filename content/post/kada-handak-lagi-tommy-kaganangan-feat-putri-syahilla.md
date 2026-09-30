@@ -5,7 +5,6 @@ categories:
   - "banjar"
 ---
 
-![Kada Handak Lagi - Tommy Kaganangan Feat Putri Syahilla](https://raw.githubusercontent.com/Lorok-TM/2026-08/img/kada-handak-lagi-tommy-kaganangan-feat-putri-syahilla.webp)
 
 Kupa dahi Jangan ikam paraki aku lagi Jangan ikam hubungi aku lagi I do not want melihat ikam lagi
 

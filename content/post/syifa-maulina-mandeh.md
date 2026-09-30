@@ -21,4 +21,3 @@ Cando patuih jo kilek mahantam mandaro daro Den imbau imbau mandeh ko indak manj
 
 Tanyato kironyo mandeh alah tiado kariang aia mato di ateh pusaro
 
-![Syifa Maulina - Mandeh](https://i.ytimg.com/vi_webp/8TdmSNijP8Y/maxresdefault.webp)

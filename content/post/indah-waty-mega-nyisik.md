@@ -21,4 +21,3 @@ Tiwas sun pasrah Gunung segara Sekien ninggal kula
 
 Ati kula mung siji Sun demen sampe mati
 
-![Indah Waty - Mega Nyisik](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiayDCF-DtTfqI1B26rt8drQu67jXbVUJ84dOqBbDQ4pBHA1Gx8LB4l7S3tEeQLiwj_fJtJLbFK7fEHPtUSq5eHMO6WWeb5CLbbpi2vvICeAm7YPlgSefynLHAhqKA35J2zZ4M2Cqo9ypTSqptSgzIOxe3GqSVt0Yh0tsFP7hPZpog8sgl7x8v9dLGzA0Dc/s480/indah-waty-mega-nyisik.webp)

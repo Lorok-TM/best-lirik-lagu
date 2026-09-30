@@ -19,4 +19,3 @@ Demikian lirik 'Tampang Lugu Suhu Kironyo' sebagaimana di atas.
 
 **Credit:** Judul : Tampang Lugu Suhu Kironyo Voc : Indah Delvia Cipt : Amri Damanin Arr : Decky Ryan
 
-![Tampang Lugu Suhu Kironyo - Indah Delvia](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhderP2udfTJ5xX7V6ENxsrcSbViD_KJvywZFOn8aD58TCVT7pRcg4RoLNCdz2TFuiGMktneD6w0KgFQlbX-WI-wurPBjuOrEDQotA9mg-M93y-dRC3GGnYLXxY8_VGkCzbPE_VoBooTqGySKU1iZ-e_86m9IxdkljmUcnQQc6bmp4RFC4WzEwVBTX2MbmL/s1280/tampang-lugu-suhu-kironyo-indah-delvia.webp)

@@ -30,6 +30,5 @@ Title : Aku Tak Bisa Artist : The Titans Vocal : EQ Purba Songwriter : Indra, EQ
 > 
 > Ku sungguh tak rela Bahagia saat mencintaimu Harus berurai air mata hanya karena dia tak suka aa aa
 
-![The Titans - Aku Tak Bisa](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglOQeEwa0x7Fl3GV3vA5fnXTlYWdRL_dexqSM94Ok0M3lJtw7eY0pCaln7jH9zLrNNZ7wCQbfiV9KSE70qNMP0jR7LiU7ZcOgiYk_Aj6pQ7szT7_I7jUdP_EO53DVApnPTReWlbw9IY_vqKu61fvB9oUmf-prvkearIjxVjUoczv-qkebEOvKL3tlp9g/s800/the-titans-aku-tak-bisa.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu The Titans - Aku Tak Bisa. Silahkan bagikan juga ke teman anda.

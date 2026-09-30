@@ -5,7 +5,6 @@ categories:
   - "indonesia"
 ---
 
-![For Revenge - Saat Kubenci Dunia Dan Seisinya](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVYljApKt7EPUbG3hJNz4G6QpXNuZCzOuNTALfPw82YBVqLyW8m-Y2XpuihVyCyKB3XN_3HgIPdYBhqhgffdMh-Y_jRw298ncgpGUblU5wiM_OfJkxaS7y0pWCBMaJTD20KgWthqspzTdWlQiCifhTflyn_hTeH7RY5pkkyUHuEqM81YoHIu0lhTd5qAGH/s1280/for-revenge-saat-kubenci-dunia-dan-seisinya.webp)
 
 Jika pilu telah berganti Ajari aku lagi Yang tak pernah pandai menghargai
 

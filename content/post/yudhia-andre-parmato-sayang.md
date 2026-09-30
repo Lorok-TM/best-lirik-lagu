@@ -21,4 +21,3 @@ Dangalah diak sayang tolonglah rasokan Bilo bajauah manyeso diri Cinto jo rindu 
 
 Pandanglah da sayang tolong dakek dakek Tibo masonyo kasiah manyatu Ikek cinto kito baduo Nak jadi parmato sayang
 
-![Yudhia & Andre - Parmato Sayang](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjR1uz7FaOiPdtcC3FVEeJdAB8VTCo7jJulXUbfuQd_ieZ35y1N9ZnS69cenwE2o_iqdX3Fyk0ikeJ-gvl4DzEHDJCQy6Aqh3CYLG7oA5S97lRjje2e_UzA8SBOkGFf46AAFnS1BVqor5u1IKCNiJTgROsvDM-XgzMh_CwkbdoCWv7EKp6ykqs6hZRMfg/s1280/yudhia-andre-parmato-sayang.webp)

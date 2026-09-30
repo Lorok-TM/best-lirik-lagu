@@ -29,4 +29,3 @@ Demikian lirik 'Rapuh' sebagaimana di atas.
 
 **Credit:** Judul : Rapuh Voc : Dj Mahesa Cipt : Dj Mahesa Arr : Dek Artha
 
-![Rapuh - Dj Mahesa](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6TGenr2dSm1v_AMtugQ8QkKxkdLVSPnkQZJeru3TF1CbAR3WAj2d1Zh1Ggwasi6mTttuY2VcaG736-P63WIwPWu7f8T7_jj7s0OX5NJMqx-5AMQnJ1yP4QtFu0XSJGGGyVGHbeFB-YhjLC7QUSc_EGQavk_c7ZDwD_orVqObFAP5TrTYaPzHdZH_Vtnks/s1280/rapuh-dj-mahesa.webp)

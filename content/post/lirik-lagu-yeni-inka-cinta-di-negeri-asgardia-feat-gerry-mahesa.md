@@ -45,6 +45,5 @@ Title : Cinta Di Negeri Asgardia Artist : Yeni Inka ft Gerry Mahesa Songwriter :
 
 Anda bisa menonton video musik lagu Cinta Di Negeri Asgardia - Yeni Inka ft. Gerry Mahesa di bawah ini.
 
-![Yeni Inka feat Gerry Mahesa - Cinta Di Negeri Asgardia](https://i.ytimg.com/vi_webp/8_Svq-qMYwc/maxresdefault.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Yeni Inka feat Gerry Mahesa - Cinta Di Negeri Asgardia. Silahkan bagikan juga ke teman anda.

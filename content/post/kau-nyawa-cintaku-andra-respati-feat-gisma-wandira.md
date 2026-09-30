@@ -21,4 +21,3 @@ Demikian lirik 'Kau Nyawa Cintaku' sebagaimana di atas.
 
 **Credit:** Judul : Kau Nyawa Cintaku Voc : Andra Respati Feat. Gisma Wandira Cipt : Andra Respati Arr : Decky Ryan
 
-![Kau Nyawa Cintaku - Andra Respati Feat Gisma Wandira](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFGpufRMKWGcHVMuSkLbLjz2A2oqcWDxbvv0r2Hty_rzJeAlElUcJOGauyB-b0dVLozKfMZ5SaCW45FFD1uJLgXb30DI3v_e2kUD8-GADVrNX019vaMQGEAvgo4nZW97AxYhZxY631T_vSwCyisDOJjCKkaj5sTxvlKQZTc9mTmft-uVKfpi3U_6NeZVW6/s1280/kau-nyawa-cintaku-andra-respati-feat-gisma-wandira.webp)

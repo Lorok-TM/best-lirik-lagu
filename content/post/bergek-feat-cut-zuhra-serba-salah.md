@@ -33,7 +33,6 @@ Situs bestliriklagu.com tidak menyediakan chord dasar / kunci gitar / Mp3 lagu S
 > 
 > Ku tak tahan Tetangga pun semua bilang Pacaran tanpa modal Hidup segan mati tak mau
 
-![Bergek feat Cut Zuhra - Serba Salah](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiK0Qpomqzsw3fJbDaa8NHgpbzK7dfKoIpLnauhnK9y4GaaF2eA66V0ayO4dAt941uLRpGwfVpt6TfjolL6tNT2gkzVU2EKys-3HpqzOq9fk5TzV6gKHvH-dAjT-7nrKlrHnjn2HAITa2xpQ4NMVGSaKI4M32Wgm6-4rsZFnThSL65a16KKDp31HWPW7zUH/s800/bergek-feat-cut-zuhra-serba-salah.webp)
 
 Tujuan kami berbagi ini ialah menyediakan dan menambah sebanyak mungkin informasi arsip lirik lagu untuk mempermudah bagi Anda yang ingin menghafalkan lagu Serba Salah ini, maupun belajar bermain musik.
 

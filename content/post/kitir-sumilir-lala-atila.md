@@ -19,4 +19,3 @@ Demikian lirik 'Kitir Sumilir' sebagaimana di atas.
 
 **Credit:** Judul : Kitir Sumilir Voc : Lala Atila Cipt : Ki Gedhug Siswantoro Musik : Kembar Campursari
 
-![Kitir Sumilir - Lala Atila](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrz2zZa745uE3hyMav9MYcdA3t0z-SpJTkyPQHVBuBfjiSd2x5yladDz4Xi1QI6eqyp3e1uusrWUK2qiqBY-fjGadSnLXYgUUveFmpfAdKNp2wP-KYks_zvx4xhvMt_uQg2mBiHulKGf2CJUJEPC9vmh-rW0Re8Vh7XAijyrV6g50YNiD7IvCHIdVQ_BqE/s1280/kitir-sumilir-lala-atila.webp)

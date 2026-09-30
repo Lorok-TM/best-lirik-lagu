@@ -47,4 +47,3 @@ Verse : Ndak usah lamo bana manimbang pikia-pikia Janji arek diikek dijamin ndak
 
 Kudo balari kancang, sakancang kapa tabang Adiak nan denai sayang kasiah indak ka hilang Dari dalam hati ko, denai sabana cinto Alah dari samulo tuak salamo-lamonyo..
 
-![Bajanji Arek - Eja SM Feat Dayu Koto](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCi79gyrqmM9-h8LCE0vIek365BlLPsdqjsTugf8lCRniTPdagh8coSwCSxdaDPXtaPvn3sieQKZiO0SerclU8vQuY_YhallViVOp_jeNcdMDIrntU_vmzF1SVNvQ8MNy2MbsgG4-tgBveVIkxkVWThG8e-ZawPYA06HR-dI1-nXjoJTFssC2guRNX9Ksg/s1280/bajanji-arek-eja-sm-feat-dayu-koto.webp)

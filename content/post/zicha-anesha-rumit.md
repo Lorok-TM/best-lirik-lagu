@@ -13,4 +13,3 @@ Bagaimana cara menyudahi Cinta kita yang serumit ini Ku ada yang punya Sedangkan
 
 Andai ku tak mampu melupakan Maukah kau membenci diriku Agar tak bertahan Pada cinta yang sangat keliru
 
-![Zicha Anesha - Rumit](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhmiCbPba6a7a9GyGC_EiRGmeWMc15SXQlGjIZHoL9pn4Ne9hHvhT9IJ0nlk9jIMRoZG0DGeSYJKO-a2kaptORzSlgMGqsr6nrzd538vE4-z-XWzfFPKDZXfBJXuD57xv4I_I2qLAzZLCGQy2WOWqF0icgNT6-2loZgu1IsID2uAd3GnWPx0Tj4osXNMgv/s1280/zicha-anesha-rumit.webp)

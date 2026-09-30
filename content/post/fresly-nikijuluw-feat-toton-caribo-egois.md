@@ -29,4 +29,3 @@ Nona se ada kanapa Jang kasih diam beta Kalau mau pigi Ale tinggal bilang saja
 
 Egois ale Seng pernah tulus di hubungan ini Beta ini se pung kekasih hati Ataukah cuma jadi kedua sehabis dia
 
-![Fresly Nikijuluw Feat Toton Caribo - Egois](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRu7fkfdyoqIke6OFlsIlFegq_RE7JWgvllbQPaJxveGfmUcnIIKQkdw-tzzGfT4NTuqe6vGikWnmccM4BvevClaBeSIPpnKAl4Vl__rNz8H27cYhzaclbESJIeiHN7XhuJ3pXRdwu_hJtvTprakN98eH2nJV_evBstcs337RnAQApV2TUoNVxUyV37852/s1280/fresly-nikijuluw-feat-toton-caribo-egois.webp)

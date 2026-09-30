@@ -5,7 +5,6 @@ categories:
   - "batak"
 ---
 
-![Basadoi Trio - Siholni Roha](https://raw.githubusercontent.com/Lorok-TM/2026-08/img/basadoi-trio-siholni-roha.webp)
 
 Sugari ma ito hasian Sada ma hata ta Sugari ma nian Sada ma sakkap ta Soada hata hata be ito Soada bada Namambahen arsak Namambaehen jut Gale ni roha
 

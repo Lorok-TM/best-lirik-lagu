@@ -25,4 +25,3 @@ Tangis kenca kempundu sintua ije kuinget kuta Asa gundari lanai tadaina kade kad
 
 La terjileken kehamaten man kalimbubu La terdudurken isap ras kampil nina tendingku Ajari aku uga nge ningku Lanai bo lit sirate tedeh bage me ningku
 
-![Usman Ginting - Ajari Aku](https://i.ytimg.com/vi_webp/HZ08UcKuAl4/hqdefault.webp)

@@ -25,4 +25,3 @@ Urang ka urang juo ondeh Awak antah pabilo Urang ka urang juo ondeh Awak antah p
 
 #Credits: Judul : Urang Ka Urang Juo Voc : Trio Gali Gali Cipt : Wanda Mahardika Arr : Aditya Fajrul
 
-![Urang Ka Urang Juo - Trio Gali Gali](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCkpeYfS7Vjrvz4ZvhMwqswsoZSrw_GJTTYwFAuKWxZobbuDC32aM7ELbsQq_BuMjne0pLOGWzRSMGQlJVFpRx7c-P61TaI3HcU8N9whCTLHF-CpNoBtz_DmEl5ARQ7L1vxGyD6rAHHPqqtX7lWxxRuwjKcAU71v-WjJBmFC3WsuVjRN-WzB46zlPlhVH1/s1280/urang-ka-urang-juo-trio-gali-gali.webp)

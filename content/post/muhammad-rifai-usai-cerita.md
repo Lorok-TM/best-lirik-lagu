@@ -17,4 +17,3 @@ Biarkanlah aku membawa hatiku pergi Meninggalkan cinta yang telah berlalu Untuk 
 
 #Credits: Title : Usai Cerita Artist : Muhammad Rifai Songwriter : Muhammad Rifai Arranger : Ziell Ferdian & Stevano
 
-![Muhammad Rifai - Usai Cerita](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLkmEMcEy0ajlMimZtXsGfCuPawMcPd5pt329framX1l-YWPWTN6ZaBGYKahWEahjBD1c-dQHZ50KS2TYpKIIRU0zbTWpnd6uTvwyfn9xMaXIpNHXxIUL0UIWQj1xvnu8KAF-1k9mUA-zbfBCGqPmMakjBkQtq15jcRyQ1vryFp-bQd0RylajVHK6MudSK/s480/muhammad-rifai-usai-cerita.webp)

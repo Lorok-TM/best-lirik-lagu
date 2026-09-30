@@ -17,4 +17,3 @@ Dulu denai di sanjuang Raso dak ka mamutuih cinto Denai baharok uda jo denai
 
 Bukan denai bamain cinto Hanyo ado kasiah jo sayang Bukannyo denai pangicuah cinto Cinto denai bukan gurauan
 
-![Ayu Amanda - Cinto Denai Bukan Gurauan](https://i.ytimg.com/vi_webp/8-RHpkzqJlY/maxresdefault.webp)

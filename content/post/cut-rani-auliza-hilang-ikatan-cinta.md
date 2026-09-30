@@ -17,4 +17,3 @@ Kini semua hilang bagaaikan angin lalu Kejam nya hatimu permainkan diriku
 
 Bila tidak cinta baik nya jujur saja Jangan kau berpura dan seolah setia
 
-![Cut Rani Auliza - Hilang Ikatan Cinta](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHEqdW8TgTItIUTqneLiTV_82uycLwZvmoM8VUgFFfvM2-tNXidMvxPoFbCtWD3YmOTNe2vnNO3RXdlVk3o7oaDd_uEf0FKX_WyoDuk_12Ymi1ZsGWsYCkY-lLTaDUBvtE30f3lwQjiD3eh7v_ZjZLVnJZOLwQ1mLnSwC_V0db__PinIjvQ08CjfoNwQW0/s480/cut-rani-auliza-hilang-ikatan-cinta.webp)

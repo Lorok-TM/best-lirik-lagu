@@ -21,4 +21,3 @@ Kang mratelakake katresnan Nedya bakal urip bebarengan Sayang gandamu kang arum 
 
 Tresnaku suci ubayane datan mbalenjani
 
-![Safira Inema - Kasetyan Jati](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjk8aX36DA4hVjVtro9A7_rAxvY9DmKnhocnQiSdXFu7TYhzIEicgUpGinvF6mqdOMo9Ln4c7kWY1o5YHNtUSoBBNsmUmSiedJ87ojVeBO27Y_hJ1Ij8lZD-WmNB_222a27j9G36ISXz4NcrTm6HqWtG5upoyDdYZ9kcU_HoUr32z3BD4ZvIG9HGmzvCAIA/s1280/safira-inema-kasetyan-jati.webp)

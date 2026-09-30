@@ -5,7 +5,6 @@ categories:
   - "nias"
 ---
 
-![Blessing Trio - Faerege Dodo Zatua](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7A4aoOhHreZA9deu3PGA0i4cS9fdYQJOCo-ykkjIqrs3lGz7ILpL4A_x01N36qu3pIkvtYjEIOEiiaq8_NJ0OwxBJUqrzTtCbuusSEUr4M9mYAwCJyhIdge26MCkdwWYuVZFggj5AjceqVRILzvn3QTaTZXc4NFbNX2drzWvNClXcTXGfJlQqfIUKhO7K/s1280/blessing-trio-faerege-dodo-zatua.webp)
 
 Saohagölömö ama Waerege dödöu bakhöma Saohagölömö ina Sondorogö sangebua
 

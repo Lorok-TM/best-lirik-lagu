@@ -15,4 +15,3 @@ Ai tung boasa hasian Ingkon pulut roham tu au Digabusi ho sude na holongki Holan
 
 Sidoli i sian au Gabe muba rohami tu au ito Kecewa hian au ito dibaen ho Marsapata ma holongki tu ho ito
 
-![Bobby Purba - Beda Di Arta](https://i.ytimg.com/vi_webp/RY7BhggOrAw/maxresdefault.webp)

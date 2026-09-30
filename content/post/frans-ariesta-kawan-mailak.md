@@ -13,4 +13,3 @@ Bapangakan denai ko kawan Di nan lanyah den batinggakan Ibo hati tasisiah badan 
 
 Bapangakan denai ko kawan Di nan lanyah den batinggakan Ibo hati tasisiah badan Lapeh kabek den balupokan
 
-![Frans Ariesta - Kawan Mailak](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJwquK5KfBu3kJvbLRQORTX2_hsGH6ZcJJTneFHrUf_0vFE0slrc3t3S3IQ2D5oFzZvX-pI4wv3qGwnhZiKOf_HK9bRQKkNXQJmS3R94HsaMj8Kj0vpllSH-W4iA2zCbfqN66LokeXT5SKNd_TQg3mqbpDuFG0_DU1uH0Wx20y5C94CHOe5BjsFL8gnwob/s1280/frans-ariesta-kawan-mailak.webp)

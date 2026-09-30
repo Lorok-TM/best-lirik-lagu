@@ -23,4 +23,3 @@ Kon karangan yang ulon ucapkan Tapih mandum nyoe rahasia hate Bukti lam lagu hab
 
 Haa haaa haa aaa aaa Haa haaa haa aaa aaa
 
-![Peunjara Hate - Mustafa Kamal](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpNd6DZhhTlDPqgysv_0snKNZ0q9jfYimplFwnFxJCFta-4YW-mo7p2qOhleESiviMPp546paWozV_TqgZ06bNE1cHWtO0XUtB6oICFPinpYxbnb-kWCmt6B98UGUC3XYWh1OLDXYzZnv6ac-mCbXTVXb7TKCG2hXOQlAa9pK73kfx_2xkrYgQ1MEorAXm/s480/peunjara-hate-mustafa-kamal.webp)

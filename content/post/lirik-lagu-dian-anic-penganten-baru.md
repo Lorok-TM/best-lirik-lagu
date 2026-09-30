@@ -19,4 +19,3 @@ categories:
 > 
 > Penganten baru pada setuju Penganten baru plesiran sampe seminggu Lanange gagah wadone prawan pasangane Dadi jodone seneng uripe sugih dunya
 
-![Dian Anic - Penganten Baru](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9iuHA-r4ak1KQVJ82SRhYFPiiUWVGZgFwSvL3z58QCrJNkoi-V_0Z3JnRLfOw2LJEPNFWYhNEZPmxWKPOdzh1Fctbtz-ZtZNWipBHbSj0hP7M_jCsdxML-8TdGHBXK886NzM65WlADTDJ_lJ_5E5OBqOEmxP9k_roQ64jPN37VBdpUBKVVT6MsdqnsBUQ/s1280/dian-anic-penganten-baru.webp)

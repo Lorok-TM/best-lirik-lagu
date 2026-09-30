@@ -23,4 +23,3 @@ Demikian lirik 'Menjaga Jodoh Orang' sebagaimana di atas.
 
 **Credit:** Judul : Menjaga Jodoh Orang Voc : Mamnun & Cimbruut Cipt : Wawan Dcost Arr : Radit F
 
-![Menjaga Jodoh Orang - Mamnun](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVwAfriROcmi1VDPKf4tUabqEw1IEAGGi5Y0SLUOqfP4pBpzASSsfMDH0jHFyn8sYRoeNQUXj9Ob9y8xaelSFmNiOB3l3txaTDJpIa78hXClw6VdlmjLeQupEtvd48Cng3_zr7CqnLB3hsD8z49bJANES2cB4WFv819PBtpflA30w7I3t5t_k5zeOQj14s/s1280/menjaga-jodoh-orang-mamnun.webp)

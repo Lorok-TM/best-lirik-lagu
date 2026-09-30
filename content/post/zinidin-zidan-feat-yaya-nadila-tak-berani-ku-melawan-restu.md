@@ -27,7 +27,6 @@ Situs bestliriklagu.com tidak menyediakan chord dasar / kunci gitar / Mp3 lagu T
 > 
 > Kasih jangan salahkan dirimu Ku tahu ini bukanlah maumu Turuti saja kata orang tuamu Pasti itu yang terbaik untukmu
 
-![Zinidin Zidan feat. Yaya Nadila - Tak Berani Ku Melawan Restu](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5Q5QV0pjMqjPqDHFWvR-w783AwfgzTusR4yT5jRbHAhf5mX-NL6-Ql-7lEa6ddy7XSv_ZLobYE09KK4YR5AXstpLZ1lvoBeWAr3sJ135Hjiy2HYonSJqLzPoWwnn54yTTqvEwzJUwHwmOB9gk3yNquAmUmX3G_3GtsujrVB23B8hKNl1R7rGrcOOXG-8p/s800/zinidin-zidan-feat-yaya-nadila-tak-berani-ku-melawan-restu.webp)
 
 Tujuan kami berbagi ini ialah menyediakan dan menambah sebanyak mungkin informasi arsip lirik lagu untuk mempermudah bagi Anda yang ingin menghafalkan lagu Tak Berani Ku Melawan Restu ini, maupun belajar bermain musik.
 

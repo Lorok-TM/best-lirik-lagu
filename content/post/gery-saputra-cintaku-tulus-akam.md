@@ -17,4 +17,3 @@ Amun malamun taingat dengam Melai khayalan Aku mahamen handak basuman Ku cinta d
 
 Andau ikau katawan ku sayang dengam Mungkinkah ikau manarima Cinta je tulus akam
 
-![Gery Saputra - Cintaku Tulus Akam](https://i.ytimg.com/vi_webp/NL5bnkFbeqA/maxresdefault.webp)

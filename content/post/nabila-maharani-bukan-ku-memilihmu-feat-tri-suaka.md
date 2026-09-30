@@ -21,4 +21,3 @@ Ku memilih kamu bukan karena parasmu Tapi tuhan yang memilihmu untukku Kau bisa 
 
 Ku memilih kamu bukan karena parasmu Tapi tuhan yang memilihmu untukku Kau bisa buatku jatuh cinta pada hatimu Jadilah kau hidup dan matiku Jadilah kau hidup dan matiku
 
-![Nabila Maharani - Bukan Ku Memilihmu feat. Tri Suaka](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdcET_ejNCNV-KjBdrjjmsjDhxgSR-UD_SknFZMcThb1EEo4jZgld4Mq7lcqOIAcNFGvnhK1DlqczvXsO3x_JHPwqFg5QYd8FyFz1lKNJrdYBrvhFl2nqGYrw2u7KGj1GNWfr-6oJLci1HqIN4MSO6cE0ubSWpEdA3pW9Ckj7LVECaLuhouagO_E4oUGuO/s480/nabila-maharani-bukan-ku-memilihmu-feat-tri-suaka.webp)

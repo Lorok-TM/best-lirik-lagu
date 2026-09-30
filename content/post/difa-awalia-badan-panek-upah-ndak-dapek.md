@@ -15,4 +15,3 @@ Kok upah ndak batarimo Kabalakang suok nan ko Indak hanyo denai surang Sarumah m
 
 #Credits: Judul : Badan Panek Upah Ndak Dapek Voc : Difa Awalia Cipt : Erwin Agam Arr : Vandy Satria
 
-![Difa Awalia - Badan Panek Upah Ndak Dapek](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzZHkoSnOMshSbe9_buNed_Q1jUszDs6CHkV2K186MuELpCm9GalFvFVeS0wKwvGrBlfsdLMhBr__k8ZqpP8iFOmVuvUnabjdObPFxuIrxmvWwtaHEzyGbjpdMa4StSFQd692Wgkpr3Twm5gMMFddoLsLoSWMD1tyLUrnaXK5BVpHM-ca-D7kU9PLFBMrs/s1280/difa-awalia-badan-panek-upah-ndak-dapek.webp)

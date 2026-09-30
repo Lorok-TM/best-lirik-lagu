@@ -15,4 +15,3 @@ Ramuak jantuang hati tak rila Sampai hati ka diri denai ko Jo denai basayang baj
 
 Cangguang isak malulua tangih Gamang risau mambaok seso Padiah di batin indak tabado Bakubua harok jo sayang salamoko
 
-![Ramuak Jantuang - Salsa Ratu](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQ0xS06yNRWlXNJTdbcvXq9riSfKanw_Y5dvtjmF4mGlJkZR3jYgWMhQdfcarVSyOVUeAXZkZrbnAvtSwBwmnpgB85ma69oH-TxjDceaotMaL_bECnZqHOVD7-53_aWZOoPMkb7FM9g0Nx6I-XGCLbWdtYkdLaYr7XExDbVLZ5PrjE8_VaN_KfZf5gaxUu/s1280/ramuak-jantuang-salsa-ratu.webp)

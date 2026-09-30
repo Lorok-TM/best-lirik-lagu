@@ -29,4 +29,3 @@ Gelap… Menjadi terang karenamu Damai… Hati dalam pelukanmu
 
 Kasih ajaklah aku Terbang ke langit biru
 
-![Keputusan - Adibal](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiavLAPutwSOMMHJdCMLnyUWxVg0Vn9hyphenhyphenza1t2jo2arN5zTMHle1hLtcuJbPEc7c29L6VU4xFWbNj-wWmoaGPE1Eg3WLsb4HkpbwVX2HMaRyUSYkrM9IDVlJReuUMOjvG0Ts0_Qkjowjc1urEdvDB9CC3gAWDQDVVJF38qvjSjoBvqCbnKYoq7eargyd_yn/s1280/keputusan-adibal.webp)

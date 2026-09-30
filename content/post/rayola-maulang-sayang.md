@@ -27,4 +27,3 @@ Rindu denai manuai galak Ingin denai maurai tangih
 
 #Credits: Judul : Maulang Sayang Artis : Rayola Cipt : Ridwan Idma Arr : Decky Riyan
 
-![Rayola - Maulang Sayang](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFrb4Mq5UTKtqFkBlYyLVqozTp3kfipdtFVT2PGBBpW1tAj2y1z0sHwk7vSv7A7PtJ4lubAv53pjhLhDuXPjvMxivgmKMledjCBVMWzgrR0e7l-suEja9gObkgUt8qmL9AEy09BF4Gi-TyUNNYdo3T-O6-IiHbUgUFL5UmbzPZJ0IdQYYsu4cvdBLcARve/s480/rayola-maulang-sayang.webp)

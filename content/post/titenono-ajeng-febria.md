@@ -5,7 +5,6 @@ categories:
   - "dangdut"
 ---
 
-![Titenono - Ajeng Febria](https://raw.githubusercontent.com/Lorok-TM/2026-08/img/titenono-ajeng-febria.webp)
 
 Dek opo koe ra kelingan Jamane iseh pacaran Meh bendino Koe tak boncengno Numpak motor seng wis tuwo Tanganmu mlebu celono
 

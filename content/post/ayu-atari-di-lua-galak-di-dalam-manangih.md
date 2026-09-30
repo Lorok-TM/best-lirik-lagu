@@ -17,4 +17,3 @@ Lah di ranuangkan lah di tanangkan Hati manangih juo Kama di bao nan parasaan In
 
 Cincin parmato di jari manih Baikek jo timbago Dek pandai malenggokam Mangko bakilau juo Hati jo jantuang lah hanguih Dek pandai mambaokkan Nampaknyo sanang juo
 
-![Ayu Atari - Di Lua Galak Di Dalam Manangih](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2ABXGXSarg0wfPdSgmLScDN9P-DFrOBzNMfcIukmyU2hfg7KESp7MGvMFjcQ_-emIQDSnInAmpqopL9Ms9ovv6xDbee-WpDwiCgQetgY7ZyJMEKNPilwv35nzJyZO4GdVUDGWl8HFI_Dy-j7OT08oQxLBYKxguIP4GSaEWL5QRbQBvGOPiHFLo3eX70EF/s480/ayu-atari-di-lua-galak-di-dalam-manangih.webp)

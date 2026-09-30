@@ -23,6 +23,5 @@ Title : Luka Yang Tak Terobati Artist : Ipank Songwriter : Guspadiana Label : Bi
 > 
 > Hapuslah air mata Tak ada gunanya Hanya alasan palsu Hanya alasan palsu
 
-![Ipank - Luka Yang Tak Terobati](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9eak0D69F5JI6bFzavePTC3QwgOfD0viLGjOVOhgvbNi1YhR8fTL8v66PyoEv3m0kfJy4g5T7I8HUWONlmj6uc7DIPrnDuU4V6ZcYHTzyK1aUAU6lgNV9kmvGdMpY0N0b3U4H_RUzM5vhelSH21P9J30P-qAOcz0lIExIpce1spvt1b5c3Qdrn4jcnRJG/s800/ipank-luka-yang-tak-terobati.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Ipank - Luka Yang Tak Terobati. Silahkan bagikan juga ke teman anda.

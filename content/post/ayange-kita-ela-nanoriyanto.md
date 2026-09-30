@@ -21,4 +21,3 @@ Ayang ambung gah sepisan
 
 #Credits: Judul : Ayange Kita Voc : Ela Nanoriyanto
 
-![Ayange Kita - Ella Nano](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgF3nMERVcDwGJIgVXgIhTYLOaxu07NZrtr-wK-FZ_4ISo38a7eUtideuJAZj4jrH6kE1omWKWadJRBcI7HyEIaToXAgmEazr7f6VrS56u1Wb-algedBkpQoKRY9KXM25jSPJQFbx2QM9Male5cHdphvAeI2M-XApsrliYYQlqHAyL9sRYz1V7TaxfGPIi-/s480/ayange-kita-ela-nano.webp)

@@ -5,7 +5,6 @@ categories:
   - "dangdut"
 ---
 
-![Delva Irawan - Sikep](https://raw.githubusercontent.com/Lorok-TM/2026-08/img/delva-irawan-sikep.webp)
 
 Piye kabarmu saiki Nomer wa mu wis ganti Tak tulis lagu nggo kowe, Mugo-mugo fyp Kowe iso melu ngrungokke
 

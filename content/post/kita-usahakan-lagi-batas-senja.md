@@ -19,4 +19,3 @@ Janganlah menyerah dulu Waktu masih panjang Ingat doa kita selalu Yang tak perna
 
 Kita usahakan lagi sayang Yakin waktunya kan datang
 
-![Kita Usahakan Lagi - Batas Senja](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4BSfvf0l-WYIdxvMr9CM88c9L_afLx_xqU9M-EmNlZNWN0DhSpeSyNCVHM0P8K0DV-muilxuaW2uBm-CSQBNUmhhljxj4S5ONaZ-eEwmb8ocAXYD54wEqed9yQgguxfIe6uuW6kcWeSriQuPb6KkjH4PGlfKeHZFSzz8UVeg2b-nYg58E2uqHGBK8c9he/s1280/kita-usahakan-lagi-batas-senja.webp)

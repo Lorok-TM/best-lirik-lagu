@@ -16,5 +16,3 @@ Reff:
 Biarkan aku pergi Bila itu membuatmu bahagia Biarkan aku terluka Melepaskan dirimu kekasih
 
 Biar ku merawat luka dihatiku Tanpamu disini duhai kekasihku
-
-![Aprilian - Usailah](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-w7vShShzx14Uryuw6F2u172xp9lN_-2tshjMzNIgNqQ2excurSOUwrMY0FtG9ul3GOIdnsQuC20nbmKcR_pQREKJ7CW4gk9FAo8nE1A9KRghFq7jzxcRCRJwL8xKNzkxaBXEHpg0ncedO6Xg16JxybbJH-8Nd0mlr2X9ft3qoQfHzR_yFqhOcJYnsnLH/s480/aprilian-usailah.webp)

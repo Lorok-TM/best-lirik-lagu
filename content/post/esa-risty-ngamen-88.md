@@ -6,7 +6,6 @@ categories:
   - "java"
 ---
 
-![Esa Risty - Ngamen 88](https://raw.githubusercontent.com/Lorok-TM/2026-08/img/esa-risty-ngamen-88.webp)
 
 Lagu "Ngamen 88" ciptaan Miswan Samudra yang dibawakan oleh Esa Risty merupakan sebuah satir sosial yang memotret realitas keputusasaan ekonomi masyarakat kelas bawah lewat narasi yang lugas. Berlatar belakang problematika kemiskinan urban, lagu ini menggunakan tokoh sentral seorang anak yang putus sekolah akibat keterbatasan biaya, lalu memilih menjadi pengamen jalanan demi bertahan hidup. Secara filosofis, karya musik ini menggambarkan kontradiksi tajam antara ekspektasi atau angan-angan tinggi seperti keinginan hidup mapan dan menikahi figur publik—dengan realitas pahit berupa jeratan utang, keterbatasan finansial, hingga pelarian destruktif kebiasaan mengonsumsi minuman keras. Melalui pendekatan komedi getir, Miswan Samudra tidak sekadar menyajikan hiburan panggung, melainkan sebuah kritik tajam mengenai siklus kemiskinan struktural, kegagalan sistem pendidikan, dan hilangnya ruang masa depan bagi generasi muda di sektor informal jalanan.
 

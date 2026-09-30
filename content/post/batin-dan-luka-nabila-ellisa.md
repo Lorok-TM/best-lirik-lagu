@@ -5,7 +5,6 @@ categories:
   - "indonesia"
 ---
 
-![Batin Dan Luka - Nabila Ellisa](https://raw.githubusercontent.com/Lorok-TM/2026-09/img/batin-dan-luka-nabila-ellisa.webp)
 
 Apakah benar ini cinta Yang kita berdua rasakan Ataukah ini hanya luka Yang selama ini kita jaga
 

@@ -13,4 +13,3 @@ Lai bana taraso tapi tak takatokan Kini diri denaiko alah dimabuak angan Indak s
 
 Makin uda diliek makin gagah marupo Denai alah tapikek raso indak takao Baitu lah kironyo raso manaruah cinto Denai tagilo gilo
 
-![Yona Irma - Lah Taraso](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZJgjWAIBQKjGgWWep_GzsBiFq_cUybI77lTwWD2rzz1vzpEgedhq36sosEiX_EYWng7YySAqFa6ls5ibGlBgyy_aZVrCSHokigdowDl5AAWbnif6Q3mrEVko70bszSjaZOEdPVvjiCoMCUfDQdQQdMn33sPSAXkzH6cvD7C_OK9sSe4G5CWf5FbqEb14J/s480/yona-irma-lah-taraso.webp)

@@ -29,7 +29,6 @@ Situs bestliriklagu.com tidak menyediakan chord dasar / kunci gitar / Mp3 lagu U
 > 
 > Lolah lolah dahin e si menahangna Ise pe labo kel tampil nambarisa Lakin kam labo sibeluh pejoresa Mama iting oh upah tendingku Aloi nangin ndu
 
-![Dessy Anggreini Br Bangun - Uga Beritandu](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihRHWODU1VIXi4SFRCpxgNtAzPgcR2T-GJ2jLCLoK1E8tLFxWq9q4jqP35vbQS1dSj1ZeNIWAdX6hIXkxQ9XnPM-2FLay-wbkWDlauOBOwvbXnpZtHQQ8sBrOehEsFk_3lQdXjUJ0CHKNm2CoCmD5yZKCwx1aQm3gY47i8i3PhNPQ8mP4_onlG6b_r9H80/s800/dessy-anggreini-br-bangun-uga-beritandu.webp)
 
 Tujuan kami berbagi ini ialah menyediakan dan menambah sebanyak mungkin informasi arsip lirik lagu untuk mempermudah bagi Anda yang ingin menghafalkan lagu Uga Beritandu ini, maupun belajar bermain musik.
 

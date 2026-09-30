@@ -25,6 +25,5 @@ Title : 3 Bulan Cinto Tajalin Artist : Rhenima Songwriter : Misramolai Category 
 > 
 > Luko rasonyo yo didalam hati Luko antah kamano ka denai baok Tigo bulan sudah cinto dijalani Kini tibo pulo garih pambatehnyo
 
-![Rhenima - 3 Bulan Cinto Tajalin](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTaA7asPJoN7mF8On9cia_WWRZOmXzuaQ0rJd7eGzAdMPlL7c6vatWCO_trcuh1T5MIQAPoYSweICiHLMhR-cApnr2tw0FCWYjhObWWBQe1b03VkVW3SXmIa1g0bmvW9bUwE0n5Dq0S4x52XO3vmo92T7y5EtQvwyb7_Tpvlri38HHqcgQDHwF6dbBhw/s800/rhenima-3-bulan-cinto-tajalin.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Rhenima - 3 Bulan Cinto Tajalin. Silahkan bagikan juga ke teman anda.

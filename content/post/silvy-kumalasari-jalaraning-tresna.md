@@ -5,7 +5,6 @@ categories:
   - "java"
 ---
 
-![Silvy Kumalasari - Jalaraning Tresna](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9HVJUJdWVUtbSY2lGEmv1vcj1UIPaj_8XsodHGt302PHliQBo4hXksKujCeuSPAQlQdaBtIUSP7MZUAFmPUOvkEZwetjuva2WIcYtz8jMQg7LBQensl6c5MjGgJ0Z1nPx8GDig3kD34qxu4QsCZJuh221uxCHXwUvzS064dxJV9UnsrnMYz7x7c0FP8Xx/s1280/silvy-kumalasari-jalaraning-tresna.webp)
 
 Sunar mbulan wayah dalu Kalah endahe yen kalawan esemu Solah slagamu kang lugu Amimbuhi kapang jroning kalbuku
 

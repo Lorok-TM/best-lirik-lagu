@@ -23,6 +23,4 @@ Title : Tipuan Belaka Artist : Aprilian Songwriter : Amri Damanin Producer : Pad
 > 
 > Setega itu dirimu oh kasih Aku tak menyangka Layu bunga di taman hati
 
-![Aprilian - Tipuan Belaka](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYtb6RetXfy9pOSek7me-vLjsrKdjvmzROZcteEMjsgxbxBUv8LVmWM9n6vqITobSTzMsdzgGX5VlPQ_2oBTb8hUTVoHe5_0v3XuoxTeXI4sySa92M5n4RXZ5D3hr1sT2Es-3s8pikzsjMVQ8kqckRG2Ia3BD6NDctRxwXfQ9uaSqVwWm-EB8F3k1n9w/s800/aprilian-tipuan-belaka.webp)
-
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Aprilian - Tipuan Belaka. Silahkan bagikan juga ke teman anda.

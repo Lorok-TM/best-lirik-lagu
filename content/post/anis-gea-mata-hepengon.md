@@ -23,5 +23,3 @@ categories:
 > Ipe huboto holan hepeng Na adong di pikkiranmu Sipangido ido do ho hape Dang mararga holongki di ho
 
 Title : Mata Hepengon Artist : Anis Gea Songwriter : Onsimson, Anis Gea Production : Wiranis Production
-
-![Anis Gea - Mata Hepengon](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1lmn3gWScHcErS5l8pIHzuxOq19NkVmP-Mv_6BMwxvJqWD_4QKt6xdefr9xSmFV7hnZRhjSuBrTqkHJDb-GRQRNgcFjwEHCA7PE0XsI5ytzAQzBCPsH8lxp38lnoCY9YcR8Tt-HxdFCZXsl6U1b5jRufvDqzB1_Uct_7Vg6mPDdVvJRJXX42GhJK4Ow/s1280/anis-gea-mata-hepengon.webp)

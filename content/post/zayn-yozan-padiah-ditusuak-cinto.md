@@ -17,4 +17,3 @@ Padiah nyo di tusuak duri denaiko Labiah padiah ditusuak nyo cinto Kamano denai 
 
 Rasonyo ditutuik mato denaiko Bia ndak di liek adiak baduo Tapi bathinko taruih bakato Kabaa juo
 
-![Zayn Yozan - Padiah Ditusuak Cinto](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwF84SUtckBwbXY7pK_DhC7CyRjcEZcFwI0XhZY5qkmAopJdGJ_CAexRpoVqtLk_IwjkMFlKgT_bm3_iDTKyI9F-pwq25NwWtQZ6Wa-Zl_X36fMwNJv4V1lYO-Uz5wGurMuk5m5KNQwKfRn0GNmREH3JBsaeRfoA_E0lOBCfVacc13721nN6l2-JFZSVrw/s1280/zayn-yozan-padiah-ditusuak-cinto.webp)

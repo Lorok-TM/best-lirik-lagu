@@ -5,7 +5,6 @@ categories:
   - "dangdut"
 ---
 
-![Shinta Arsinta - Pian Ulun Sayang](https://raw.githubusercontent.com/Lorok-TM/2026-08/img/shinta-arsinta-pian-ulun-sayang.webp)
 
 Sa sa sa sa sa sa sa sa Sayang, Ulun panggil sayang . Ci ci ci ci ci ci ci ci cinta. Ulun panggil cinta.
 

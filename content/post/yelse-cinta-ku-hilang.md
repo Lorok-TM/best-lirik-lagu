@@ -23,6 +23,5 @@ Title : Cinta Ku Hilang Artist : Yelse Songwriter : Adit. LC Category : Lagu Pop
 > 
 > Sakit sungguh sakit yang ku rasakan Aku melihat kau bersanding di pelaminan Perih sungguh perih yang ku rasakan Cintaku hilang kini di ambil orang
 
-![Yelse - Cinta Ku Hilang](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4dSUbc133SgizAegrfBwkpI971zaqjMpaWB1PjjdYOks_JUknFsLsmIgDpDmlH-KYA-AVObi_LuFCAhJTiQ1bspJr4nDjna8S8B87wIEwj8MmkRMc1Xd6SMzmclh4h0EeK1nKJn5NsIwHgDRzqqA6K0rApM8qIseDIh0LVDnj0qAtulWwjEOLRHSBYg/s800/yelse-cinta-ku-hilang.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Yelse - Cinta Ku Hilang. Silahkan bagikan juga ke teman anda.

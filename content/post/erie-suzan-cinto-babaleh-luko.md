@@ -31,4 +31,3 @@ categories:
 
 Title : Cinto Babaleh Luko Artist : Erie Suzan Songwriter : Wanda Mahardika Label : RTJ Pro
 
-![Erie Suzan - Cinto Babaleh Luko](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWrHfFJcy2XX_IxRk88IhKYZ9oErpRPghJQ19tL6OVZebrNjetgzy5dwHk366L63kHk3YbUrwy-tGTc8YyUqFAb7fF7Povjuu0MSs_P1eFM0fbmPjQRub6q6I3y7tLAe3zV8FNsEKLW_c16pJTa4zBFUu7VHaqh7hiUCzx7eRlpJSii4LaWHdxS3OS_g/s1280/erie-suzan-cinto-babaleh-luko.webp)

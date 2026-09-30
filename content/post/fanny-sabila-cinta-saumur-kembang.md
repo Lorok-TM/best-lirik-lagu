@@ -23,6 +23,5 @@ Title : Cinta Saumur Kembang Artist : Fanny Sabila Songwriter : Dose Hudaya Prod
 > 
 > Kaduhung segede gunung Kaduhung teu manggih tungtung
 
-![Fanny Sabila - Cinta Saumur Kembang](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEil9wf5FYn8FQL2f3Ez8X8GhDRM15e4mgcDL3zZjSTsWxdEgvjU92gnyAzgaijR2bXzGn6a0GyIQPPmjsW2abkEwhALfMtdzlddc7g5QNKSUAsTZXql7a6Q0wNuDt9EKkTVS6qiMmoMzyBti7Z2EORlkiCtcWsNfI-ybZ2GkilFiL8sfM4cWe25r1Psbg/s800/fanny-sabila-cinta-saumur-kembang.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Fanny Sabila - Cinta Saumur Kembang. Silahkan bagikan juga ke teman anda.

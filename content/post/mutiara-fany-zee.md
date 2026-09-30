@@ -5,7 +5,6 @@ categories:
   - "slow-rock"
 ---
 
-![Mutiara - Fany Zee](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigA9hFFoMC60SMSTArfLVb7XCYEXCwL7BFStZ8X9Pg2StXWtyeIJ71Ag2VdcI3NxdrqF3yAqKQ4c56e4J5ugIxMYXtDUv0ztquDuK0tsTA7xY5MYtB-xN211VcgKGzBoY-S9Qlz9EwHCsIE6Rz2FlmcfA2FmoyRmVJqmCVFqg60wbw7D0w1ZZQI5Fxjv16/s1280/mutiara-fany-zee.webp)
 
 Engkaukah mutiara itu Rela kuselami di laut biru Tingkahmu bagai purnama Paras bertaburkan cahaya
 

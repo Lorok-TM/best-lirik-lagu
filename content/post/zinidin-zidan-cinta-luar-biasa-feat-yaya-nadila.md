@@ -17,4 +17,3 @@ Dirimu lah satu satu nya Kekasih yang aku cinta Di setiap do'a ku di hembusan na
 
 #Credits: Judul : Cinta Luar Biasa Voc : Zinidin Zidan ft. Yaya Nadila Cipt : Ajhay Pasma Arr : Decky Ryan
 
-![Zinidin Zidan - Cinta Luar Biasa feat. Yaya Nadila](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYi6XY85sDQX8RTsRC55Vk03LRfH2sA1XZD7caR-z-C3GP11UxLGWHN7jB2zL-JjCBI4rCdHE7GHEa7M9d90r01CIAXwMpQqVhi3gAn8ifxPuIDDBzL3L40iUZTj2IzGDOTVttT2Xr4ACmzuVFyvg12SPmuiIQl09wxPY81ibF138tDzL2kKCSlWNq5yiV/s1280/zinidin-zidan-cinta-luar-biasa-feat-yaya-nadila.webp)

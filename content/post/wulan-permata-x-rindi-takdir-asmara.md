@@ -25,6 +25,5 @@ Title : Takdir Asmara Artist : Wulan Permata ft Rindi Songwriter : Agus Ghozali,
 > 
 > Biar ku sendiri Jalani hidup ini Berteman sepi di hati
 
-![Wulan Permata X Rindi - Takdir Asmara](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXN-pLDPBlBtyYULXgdGvIyxQM3rx-KYd4SKIcfO5Y7kt2JFJGqj6S1SZ6DTSYkt7tfBkmgaZaAHHY0IZP7g4tWAX8sDJDaQ463QqjOA3N9GZ-eI8QKat2l6Ze5x1zw0QD3bGtSk_ed1JYBWvhhmptVpZybDA_uTh4DDlxjlkdDZqcwtIKQhT4dq_h9g/s800/wulan-permata-x-rindi-takdir-asmara.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Wulan Permata X Rindi - Takdir Asmara. Silahkan bagikan juga ke teman anda.

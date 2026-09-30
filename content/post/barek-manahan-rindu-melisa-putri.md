@@ -31,4 +31,3 @@ Demikian lirik 'Barek Manahan Rindu' sebagaimana di atas.
 
 **Credit:** Judul : Barek Menahan Rindu Voc : Melisa Putri Cipt : Syahrel Putra Arr : Satria Wandra
 
-![Barek Manahan Rindu - Melisa Putri](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcQadR0S2K6OlHupX1hfC1FxibkXXSdQWtnnqR_RJDO1M7W_-hc-W5ZSaEvoR8eP6ACH_w0X2EDpErWZFx_eplt6cVbUssVeleDma5NQP_A6y_kMlw5vuUvjoZS3fvSUfQ7-poNoe4N8pxf7qIk2FzWP9jZGMHKHOK0XF20kcNWlJ_I44fhY1pwD-01KTF/s1280/barek-manahan-rindu-melisa-putri.webp)

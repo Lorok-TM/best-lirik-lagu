@@ -23,4 +23,3 @@ Demikian lirik 'Tresno Selawase' sebagaimana di atas.
 
 **Credit:** Judul : Tresno Selawase Voc : Arya Galih Cipt : Joko Setiawan Arr : Kevin Ihza
 
-![Tresno Selawase - Arya Galih](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4rsBSwCz83u8CtR1E8Esl4bDQOHcEi255X2tpb9HPJNAGUCdLDkDARVpbxno_LKRRdHJnpRflbbH07pSZsOrBS3BJDtI4n6yfXZ-IG-g7qKOkVm-SJ3sgLCHuxnWgO8wCO7NW_8B5EeGmLkpIEhjz9FECs-sLkBk9CHWfnhLV26KuTP809ms9Kz52uQqS/s1280/tresno-selawase-arya-galih.webp)

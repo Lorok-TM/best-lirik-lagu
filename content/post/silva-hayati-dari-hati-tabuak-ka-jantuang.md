@@ -19,4 +19,3 @@ Tabaok rendong jadinyo Batumpangan jo diri uda Harok sanang ka didapati Kironyo 
 
 Usah didanga kato urg nan ka marumik adiak jo denai Asakan kito lai sajalan adiak sayang Usah didanga kato urang nan ka marumik adiak jo denai Asakan kito lai sajalan adiak sayang
 
-![Silva Hayati - Dari Hati Tabuak Ka Jantuang](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3NwZglZimZqAhHOlwcgJrZI8M24XdGlEgDsaPq_eYAEx8sqVDN58-ovEi7SXSQ4oXhsR45xIQfmOI0DEDwLvRpu5RlRtx9kopLs3q5KDbEIMmWR8_tB2n0t9xCYC846gewfkkxOr3PvJIqR_cn3ol4ZulcnieVAWrqoqMOyuPL9UBoV5_fxaJ3vkaPhHm/s480/silva-hayati-dari-hati-tabuak-ka-jantuang.webp)

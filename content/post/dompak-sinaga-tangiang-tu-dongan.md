@@ -15,4 +15,3 @@ Asi rohaM ale Tuhan Jaga daging nang tondinai Sai pargogoi ma donganki Sai salpu
 
 #Credits: Judul : Tangiang Tu Dongan Voc : Dompak Sinaga Cipt : Dompak Sinaga
 
-![Dompak Sinaga - Tangiang Tu Dongan](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjit4HrhlgnWwZs-FdHZxbDvQGVTSOW3rrWFfXmOohSJGCSjFPzf1lfKVLDu1OfDTfvQlEb2M764U0fP2KqNveDUTFUu9PV0qYihgk9KOrp6-afuzCmbsOQkserm1HtXHLzTX5y5DvA0xD2XaUUVGMWmESgnUsYecMO1gO55PdECDwbEFSyA6hLorJIhtpu/s480/dompak-sinaga-tangiang-tu-dongan.webp)

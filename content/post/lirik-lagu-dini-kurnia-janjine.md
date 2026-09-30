@@ -35,4 +35,3 @@ categories:
 
 Title : Janjine Artist : Dini Kurnia Songwriter : Adistya Mayasari Label : Aneka Safari Records
 
-![Dini Kurnia - Janjine](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyNiaVNgIj05QAByznsCV50AkJ7SSlTahaS4RA4m1tXVqyjNNMaQT85QiGQLfBCvF_xnQKKnsXpOsHiW-YufUOV5bz6ZR6WtcHFY6sUUyfyLRvlEW0AmgCl-F1BaHrWjg49dVH_tBrsUdkC2Ofw7MpgQJcTlDO1pqW_J1H6ypUyDs2h1PZt3F1T-g5hA/s1280/dini-kurnia-janjine.webp)

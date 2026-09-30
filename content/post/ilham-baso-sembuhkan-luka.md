@@ -23,4 +23,3 @@ categories:
 > 
 > Tak apa bila harus pisah Kuberikan waktu kau sembuhkan luka Akan indah jika cintamu Terimaku bukan karena terluka Akan indah jika cintamu Akan indah jika cintamu Akan indah jika cintamu Terimaku bukan karena terluka
 
-![Ilham Baso - Sembuhkan Luka](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiy3ngqAJlHg3NPYZcVDXMRw1MM_S26xMOlFcCYahNBFvBDyVX3yJIwFfSwChA_EYbrtcBZxJOP98_OD1o71rnDfmEUFuGqqHh_OShPeoOBkd-jjzzciyYIL3R1TN7aT1Ms2qK49T7m2TYR3xFaE0XarTOxVI9PORY46VGiW6C_JVikRZyiuDsDWLhFzA/s800/ilham-baso-sembuhkan-luka.webp)

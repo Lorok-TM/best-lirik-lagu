@@ -35,4 +35,3 @@ Hasian Arga do holongki di au Unang gabusi au Unang hassiti au
 
 Hasian Aha di roham Ido dalan nadumenggan Rade do rohakki Hasian
 
-![Sihol Mi - Okta Simorangkir](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQClv9mE4yqDC88VTWQCg2Qo9bmSnuW9kijE88eRkmOOZrnNHC8ADPKHCU6XRzKC-ODS4qgM7R3ECS32AwUE-a4qMFtjm1yAqDqxdWBdlyiAH7gi-dnjHDHLkgyLGlRFYb2tT5tM6VuxpRxFRSLGhyphenhyphenDO8zf2Ic-Ciio-PMUfiyVNADlxPyXxdXCuc2v-c2/s480/sihol-mi-okta-simorangkir.webp)

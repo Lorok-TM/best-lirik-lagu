@@ -19,4 +19,3 @@ Tangah malam denai tajago Dek buruak datang nyo mimpi Datang nyo mimpi Niaik bab
 
 Tangah malam denai tajago Dek buruak datang nyo mimpi Datang nyo mimpi Niaik babaliak ka rumah nan lamo Kunci indak dek denai lai Dek denai lai
 
-![Ridho Zulma feat. Puspa Indah - Talonsong](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVsZLwbIPfUSTXUv0cJZLuemR5ZWIi6JtCZPM6J-JCAdpfnEHzZQilXtiwOZWig7CQIQfro-JBrSBdEF7KK3kwfy5OQA2zxvF6OuAv3LsixzArx1VkVA2Lh-PeTqayoBnxb2k6w2FRIy3aFM6L9osPB_WCA_oqdJe9RBR9C-dUa_Ff_r6echPfPl13vC8y/s480/ridho-zulma-feat-puspa-indah-talonsong.webp)

@@ -15,4 +15,3 @@ Siapa yang paling cinta Di antara kita berdua Aku aku yang rela mati matian untu
 
 Siapa yang paling sayang Aku ataukah dirimu Aku aku tapi kau tak hargai itu
 
-![Maulana Wijaya - Siapa Yang Paling Cinta](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsYp4oTrIBXqqKjpgWXG9P_rtyJjuVNILCdJiG3P26OhqiRITJQTgV0YBHkKiag4RKYJth1SFpkLKTSqmrZja7FmEhonDDf7xlTtk0zVdp2Z8CMt0qOCxmuCuT3x0i0qqWK1IPw5L310DXCvP_nVWlqn0CstaohilHphM33BW0o0DRXF7WaL1vc4vjBdmq/s480/maulana-wijaya-siapa-yang-paling-cinta.webp)

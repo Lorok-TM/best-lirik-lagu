@@ -29,4 +29,3 @@ Demikian lirik 'Beda Keyakinan' sebagaimana di atas.
 
 **Credit:** Judul : Beda Keyakinan Voc : Marlon Lilitnuhu Cipt : Reno Titahena Arr : Bt Pro
 
-![Beda Keyakinan - Marlon Lilitnuhu](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmYa0AmS9ipkPDLXsMXb3oFLsJ_bjExtKrRiiRUDBxzZwjb6eBAWQ7m4KJ9gurX-CfTkX2KIg15jlg7XRLmHhZbATNDiWZ0E6R0DK1SnVQhI7AAti1SpIHFeBmKmbMO2DUjqFabMMRLd3s8ReUk_07Ocj43rBhranOLzQL0-7-Dc11181OzjV3T9GDWg8W/s1280/beda-keyakinan-marlon-lilitnuhu.webp)

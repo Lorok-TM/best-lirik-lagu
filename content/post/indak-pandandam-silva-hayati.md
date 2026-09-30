@@ -33,4 +33,3 @@ kini babaliak panarangan takana mamak jo kami luko mande masih mangasan pai lah 
 
 kini babaliak panarangan takana mamak jo kami luko mande masih mangasan pai lah kok kama ka pai
 
-![Indak Pandandam - Silva Hayati](https://i.ytimg.com/vi_webp/67nGOAqFjQo/maxresdefault.webp)

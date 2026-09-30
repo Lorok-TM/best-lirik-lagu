@@ -31,4 +31,3 @@ Sungguh rinduku menggelitik Ingin bertemu, ingin bertemu, oh Sungguh rinduku men
 
 #Credits: Title : Ay Singer : Shinta Arsinta Ft Ririn Da Songwriter : Michael Christian Production : Beta Creative
 
-![Shinta Arsinta feat. Ririn DA - Ay](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJQEkLdeyZx4bplko7FNREl7a1GKWTscAA1WTZ5mZoWsezjlqJx8Nb0p4mtNfw4IKgvvjXNNqJziSA34E00hRHPyKD35JU9oGReXk2oku2IoV6jrpO6dY4Vdh34eQIAW8mYE3dR_Iwbe2UJor834lUdXKStTDGicS3b2Mj-__-V3lsDeuJKGx-gZqP5w0q/s480/shinta-arsinta-feat-ririn-da-ay.webp)

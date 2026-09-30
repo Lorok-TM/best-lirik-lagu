@@ -21,4 +21,3 @@ Demikian lirik 'Dimabuk Cinta' sebagaimana di atas.
 
 **Credit:** Judul : Dimabuk Cinta Voc : Ficky Tanjung Ft Ria Amelia Cipt : Asmild Nst Arr : Bombom
 
-![Dimabuk Cinta - Ficky Tanjung Feat Ria Amelia](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg78it3hLYeTuqViwq9sabSZ3vOdwDF2fSL4sRiUG5eB0oOl573cwDv-io9XkLy3ZTHgb950oQ15AcaWdtNu2vfnIRjpkS8Y6tfbbyycIMHnWGsXa0pB-6XB9QdwzL8-ctUUiZov_iUiOXWo6yNujfq1vj5hTy8nTJPlsgE9YyKxGb3mOS_MPKqV-UuIypq/s1280/dimabuk-cinta-ficky-tanjung-feat-ria-amelia.webp)

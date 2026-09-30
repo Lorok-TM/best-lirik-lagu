@@ -19,4 +19,3 @@ Demikian lirik 'Bakubua Mimpi' sebagaimana di atas.
 
 **Credit:** Judul : Bakubua Mimpi Voc : Eja SM Cipt : Nav WS Arr : Diandra Music
 
-![Bakubua Mimpi - Eja SM](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUWRGK4bTBYDjPElyHl2j-kZ3sP38wjm16jn_0o2M5huDWvI6EsqypryaNBwFQlyZuM-sJBidor_ODDVIqNUGMK0q1SSC6FwRNOV1Eqh58FPEEUlBTbsQn_er9Lr_CuvQbw8Wi5qa_a3kbkXJ7hVK-_KQvW1V3QZJ5YEIX3gohSbsD9QWNPcp-kO3Dc46z/s1280/bakubua-mimpi-eja-sm.webp)

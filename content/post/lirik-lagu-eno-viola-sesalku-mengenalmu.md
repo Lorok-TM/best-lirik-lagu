@@ -19,4 +19,3 @@ Hadir mu bagaikan bulan Terangi sepi hidupku Sekejap mata kau pun menghilang Tin
 
 #Credits: Judul : Sesalku Mengenalmu Voc : Eno Viola Cipt : Duski Lukman Arr : Decky Rian Prod : D'Bay Pro
 
-![Eno Viola - Sesalku Mengenalmu](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiB8ehOl6giwgb_he5kdnYXq5KYQfiXIh03PgCSXuCkjn9WM-TCnOCbjJng30WFz_sGHA0hEJX-bCSDy_5Iu-KoMdF4c2ucWydrJyBPwNW4aP-EHAArOT-nHgonKb60-a00G8ZBafGE2yi_pG4I0s4qYeq0MN9wkIvapb1s4k__FSf_SKYOSq8AYAKrbd56/s1280/eno-viola-sesalku-mengenalmu.webp)

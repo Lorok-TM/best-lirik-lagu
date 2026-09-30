@@ -19,4 +19,3 @@ Demikian lirik 'Pelih Pejalan' sebagaimana di atas.
 
 **Credit:** Judul : Pelih Pejalan Voc : Dek Soma Cipt : Tu Alit Arr : Ngurah Adi
 
-![Pelih Pejalan - Dek Soma](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFGZdKufjZLP0eaFQ0wRIicjrDiKT4oOkCun1c1c5usbn728O8KsonNN6gly9ckYlo0VOtdzT67DQjjxsY1X4pMpPV2O53FsEUNWZiY1LkoI79kAt2-DJcKBvnfpCQp1kCb6HZb7PurS4C0bhIMJU4ZgrFvqiDie6_D0jzVf2bKU_oq6CcsInZUZAZuL_A/s1280/pelih-pejalan-dek-soma.webp)

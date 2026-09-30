@@ -15,4 +15,3 @@ Dimelahne Tresnan beli buke tanpa walesan Disakitne Adi teke saha ngeling sigsig
 
 Meli kamen kemu ke bangli Dimulihne singgah di kintamani Yening saje adi demen teken beli Sayangin beli sekonden beli mati
 
-![Dwi Nugraha - Pelih Abucu](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxHsL0oRRlC41XCjG4j3uJaDs6hXIrZSWnmgyU7pc6ZCWj1Yveq1eBJmq8SE43bM-blt_CjiScHSDYErj0vKHV0d7432OzxnThfWhLdIlqke-rvDtjqusuttwABTmq5FzPjbzjmJG4bTkzmBx0hmucepghhHaICfPn7ylLsw-pwdA2VauQqmkauF826LJH/s480/dwi-nugraha-pelih-abucu.webp)

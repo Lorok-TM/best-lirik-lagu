@@ -31,4 +31,3 @@ Ku hanya tak ingin semua berakhir Di saat kita sedang merasakan (kan) bahagia..
 
 Ku diam bukannya ku tak tahu Tentang kau dan dia.. kau dan dia..
 
-![Tinky Winky - Aku Kau Dan Dia](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJkSq5cQZJ3SgWo2P1NoURyNaGzaN5aLpud9GtR_W3M2ReM7TGuw26B9dwmUSrM2Zy-4Jq6A7-Dzg2vKnbT4y3NbvEeOxjw5Dw6p8Rc1ReP3CJp_EvRhynmv8B04JWygJ4uBKIK3zhvu8PQCPiJcIeNmMYGJS9Y22qpkvq2bYg2pu1QC_h2i7GqRnhFtIt/s1280/tinky-winky-aku-kau-dan-dia.webp)

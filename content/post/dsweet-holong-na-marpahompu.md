@@ -25,4 +25,3 @@ Sada hahomion dibahen Tuhan i Di roha ni jolma i di na marpahompu Sintong ni na 
 
 Sintong ni na mangolu di portibi on Pahompukki do tumpal ni ngolukki
 
-![D'Sweet - Holong Na Marpahompu](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrBslEpJOSmMWXLwV2iFpHbcJ4L3vPbvGiiFhxHQUzwy25S4T8_fzz1xznnpUxksuVzAT89q8DeugR-REzMAKCmimBp_q89ftsf5zq7MEOEfKygTpIcBG5E2wMXI2uZJVTLz4lxKrzmN-MkodJD1ZzFhdDnOZ1P-Zrr9H5IUPU5vLcLkjRKlsTYOTeOjK6/s480/dsweet-holong-na-marpahompu.webp)

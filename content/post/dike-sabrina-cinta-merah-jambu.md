@@ -33,4 +33,3 @@ Kulit dan jantung milikmu Lahir dan batin cintaku padamu
 
 Cintaku hanya kamu Cinta merah, merah jambu Rinduku hanya kamu Rindu hangat-hangat kuku
 
-![Dike Sabrina - Cinta Merah Jambu](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfnVbrhfS7QSVtQWfduYuOnIPUktNcB0MNksarXcWv-X7kLB2elqoTFOgzNSzVubZjUOP0lSH7n7kKVgrjtmYxbclckRWuClq4Y6IygXZhkdJhSnpHmZhD8nBsWK9_BSS0Cj0CtfiYaNePS0Pm1XBiyXBrWg3gBcxuahZaBkNz5zPYVAY4SCEMGAc4Oihw/s1280/dike-sabrina-cinta-merah-jambu.webp)

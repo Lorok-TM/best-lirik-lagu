@@ -37,4 +37,3 @@ Hoo hinaholongan Paulak hasonangan uju i
 
 Hoo hinaholongan Boasa litohan mu holokki Aha salahku aha dosakku Sai huanju ho sai lam dao
 
-![Flora Susanti Hasugian - Tanda Mata Cinta](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtXATO6h0GUXkzQ6q66cdL3NHPoKPIqdXpNFiyOlUw0sFKCuil__7EdOLmQscToePkkzTEbKcovyIInqsh8lO3gGfmaKNAGDadhN4iYsLArMV2Anhw6sIQdI0IcFy9HLp5kx9IyVk4CiA30MI6U8N3LKPX1oablGFSccenIoTKjkypmXJg4zYbRgqoo7xV/s480/flora-susanti-hasugian-tanda-mata-cinta.webp)

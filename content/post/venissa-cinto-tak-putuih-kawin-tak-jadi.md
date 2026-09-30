@@ -23,6 +23,5 @@ Title : Cinto Tak Putuih Kawin Tak Jadi Artist : Venissa Songwriter : Eddy Palan
 > 
 > Padiah yo sabana padiah luko nan uda turiah Dek ulah kilaunyo ameh Mangko timbago kini tasisiah Mangko timbago kini tasisiah
 
-![Venissa - Cinto Tak Putuih Kawin Tak Jadi](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi--tn7dwMWVVeWufAneMy8P3ki7JNwhiSzRy0Emv2JKwup2U14hWYobUXswArtoM86Uu53C6xTKaFHQYtHFJbdtCxZ-VSqbtFJ_N6mmmgc7fiwWg2hVc2g1eD1fBaMb1vS2Npx7sfaWw_nYtgXSY2AeGl9N8YU4OsS5HgaNY5E4azQWVIEyo8YvzdvnA/s800/venissa-cinto-tak-putuih-kawin-tak-jadi.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Venissa - Cinto Tak Putuih Kawin Tak Jadi. Silahkan bagikan juga ke teman anda.

@@ -27,4 +27,3 @@ Demikian lirik 'Kau Tetap Harapan' sebagaimana di atas.
 
 **Credit:** Judul : Kau Tetap Harapan Voc : Tryana Cipt : Faisal Asahan Arr : Decky Ryan
 
-![Kau Tetap Harapan - Tryana](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfMyJscd1L4j5z5eTGOGurLlesUYSXSGTPH6ku_QM1Oj0pRQF2INn-Oc-z6Ue8Ub__7r8o2YpNpe32OFKn3FHmNUGt8PFfYKJummvhzGIrhx7LeFUCayPd5_ngeeyc4wW05oqMFwftQftAnDk8nyPV6e2LxbJjs5JwS1Z1rNbxQhVW9_JMGEtI23CyYej_/s1280/kau-tetap-harapan-tryana.webp)

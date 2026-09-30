@@ -29,6 +29,5 @@ _Cinta Tahalang Harta = Cinta Terhalang Harta_
 > 
 > Sangat kasihan nasib yang menimpa kehidupanku Orang tua mu tidak memberi restu Karena harta jadi pemisah kita Aku tabah menerima
 
-![Taufik Hidayat - Cinta Tahalang Harta](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhecsF2N_DBy2aSUnXTVE_c0uz0yF_FHT6DRl5cUp-rqG5E-0H5EZxX_Jx-0OzGNhnTrUQMe41pbPp8R22bKDoRNPdFJ9AEukwYax4J9Q08GHHDTAXZl3YXW2Xb3a_5gvsUmtiWXV8ojszYSYHSoKQZmIlP5LPP_eduCku6HnflZM7fxdaJmfamg3eB6By8/s1280/taufik-hidayat-cinta-tahalang-harta.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Taufik Hidayat - Cinta Tahalang Harta. Silahkan bagikan juga ke teman anda.

@@ -25,4 +25,3 @@ Ilusi apakah yang telah kuraih Senyum manis khayalan yang tak pasti Terkadang en
 
 #Credits: Judul : Mutiara Voc : Ipank Cipt : Guspa Diana Arr : Decky Ryan
 
-![Mutiara - Ipank](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnOmWOHeQQnqgqPBWkG1geHwbhoaO2bq3RjtaYRLdR0mP2Cmfa9gWf8Bz3wLraFlUGZLaJ3qrmhAjazKZA0Opm0UCFYShQMpdilhrAT02vk-q7ZuAnYOzrcuvrQ5Dg9bGqpf-S7PHE1r3TUuWQoEIAP12aEMDz-y1eqasPwgEb8uQZgwXXmxjhuTbmhS0A/s480/mutiara-ipank.webp)

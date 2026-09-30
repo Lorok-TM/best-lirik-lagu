@@ -15,4 +15,3 @@ Dirimu lah satu satu nya Kekasih yang aku cinta Di setiap do'a ku di hembusan na
 
 #Credits: Title : Cinta Luar Biasa Artist : Shinta Arsinta Songwriter : Ajhay Pasma Music Arrangement : Aneka Music
 
-![Shinta Arsinta - Cinta Luar Biasa](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrdDjedlEPuqw-60tuTGABVQdZ6Av7Prgl3xxXRRB-Fd98Dc-9QN86syuEtov3DQWxtsrJ1MmXSwEViS-n2dbHoRbZif5cRJLqtmrTYjqhWvegsli4cuzSI8sYsowKejxl0j7Pu00vT4Y4akyJdRUlPfMIZkqwOohMkX_26IpPCFYfpCX2rPY2dahLp4z4/s480/shinta-arsinta-cinta-luar-biasa.webp)

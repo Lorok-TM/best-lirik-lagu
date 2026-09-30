@@ -17,4 +17,3 @@ Puaskah engkau kini menyakiti Perih hatiku yang setia menanti Lebih baik kau per
 
 Ku ikhlaskan kepergianmu Walau pun terluka Biarlah kenangan kita Terkubur dalam ingatan
 
-![Mohderzam - Dimana Salah Diriku](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkx8EsnCGdwfy8wotUWO56D0KzN_yTWkESzl9_rQeSGuuecaMIzqeK1gHDtpDrmBMrzQ1LgZXpwEUd2Tg4ukEl_aajI7ng25g4a_mr7iXfK2nLkF8FqoEIwTBRb0TBdd2VfAXgPuYY4FBROy2VmILkiRwlm3re0_8qsO56frsVLGYibgpLRqQyhQODMkik/s1280/mohderzam-dimana-salah-diriku.webp)

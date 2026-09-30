@@ -19,4 +19,3 @@ Nyampang isuak cakak babaleh Sado urang lah banci Nyampang isuak cakak babaleh T
 
 #Credits: Title : Kana-kanalah Badan Artist : Diana Syaheskia Songwriter : Adrizal Busra Arranger : Dowan ℗ & © ANP Musik Digital
 
-![Diana Syaheskia - Kana Kanalah Badan](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiusrRNf-lkv_UZAM6Jx4ukwDSOay-bNnOpjYkK9b9ooNx4N7a_NWcW5UOanjt7nBVzYsc4gSnGVn8fIYM4RQP1a4GrL2Dh3bm7ovekgHNJD9F0zX73V52MM1AU-s99dbqi89vlw9PMfP42K2mzj6V_4SV1VVm84qZRxaQxgR8-L46jCjVd1dua9RT46y63/s480/diana-syaheskia-kana-kanalah-badan.webp)

@@ -39,6 +39,5 @@ Title : Karena Cinta Artist : Iis Dahlia Songwriter : Nanang Suwito Executive Pr
 > 
 > Karena cinta cinta cinta
 
-![Iis Dahlia - Karena Cinta](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSCYjCmL7Tezj_pbt1ofXD2-qP3ZjCPIDeG1mdsb8_NNgGh5OYD5L3e5AAIZhC6uZKQVFKgfSMYSI_R5wtXcBMxTd2Mjr0w817z5tsm-O6sxDyyWnd5Bw7Wb6Gt7HnLWQuJF4utu0as42G5HDKiPXy0DXxORr7xIAp4lPAyYyUOOpVRz2PaVZx5_I5hDHg/s800/iis-dahlia-karena-cinta.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Iis Dahlia - Karena Cinta. Silahkan bagikan juga ke teman anda.

@@ -23,4 +23,3 @@ Sio bunda sayang jang marah beta Cemburu boleh tapi jang cemburu buta Beta bergu
 
 Bunda bunda bunda bunda e Bunda e Bunda e Bunda e
 
-![Jacson Zeran - BUCE (Bunda Cemburu) feat Toton Caribo](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEie-GoOcIkvHWH3ZuvocRvnSr46CaSklAmcdcBsrtVurWSvKYeYOWYzQS5i1FY7tzy91Y_2RhuOZYnRGdVadlfUjINHsyWrbpljrZlkH7daf1vlElySWEJGzf5dLBKnsoh6xomOc34NxAHqUdfxgbX72mzvBSp0wqNWsUVoeW7v7cckYOVcYQ1u58aoQLgu/s480/jacson-zeran-buce-bunda-cemburu-feat-toton-caribo.webp)

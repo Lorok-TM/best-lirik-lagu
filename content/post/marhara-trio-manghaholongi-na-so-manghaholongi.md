@@ -17,4 +17,3 @@ Ida ma pambahenanki na manghaholongi ho Lobi sian na di rohami hu pasahat do has
 
 Otokki manghaholongi ho na so manghaholongi au
 
-![Marhara Trio - Manghaholongi Na So Manghaholongi](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2dXgFjpC5w36ZCRAseUk6hPwtgSEO87cmyg52r8Sm6TPoeuZX2pUGeoaRykEZNVndyKKW1HGNCVxVfr7rv2OWA5OHYpidDNJJXYZh-Xa1_gOgLS9YEQwXWPGw5XZF7VZP0Y0ZDxDQOV-x_5mYUqKiq2GkBiVP5IStYgvNMY_BJbg9gkuKYfjzggA1S8m6/s1280/marhara-trio-manghaholongi-na-so-manghaholongi.webp)

@@ -35,4 +35,3 @@ Setatusku mbiyen pacar Saiki tamu undangan Kelangan koe, aku oleh ijol prasmanan
 
 #Credits: Title : Tamu Undangan Vocal : Dike Sabrina Ft. Happy Asmara Songwriter : Tatak Irwanto Arrangement : DS Music
 
-![Dike Sabrina feat. Happy Asmara - Tamu Undangan](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7ac8hGfVEHG7qaTWaHvyasllxZ00k-R7qEc4wfUeo-QKSPgIWViLhqyEy_rA5sNhUynhnlX7dE75pQ4KlZpXamIKpvmCpLTLoJuNc_3vx-2w8RyCvtoTSQlNH1btKasO7mDLb2Kc94OSsD8tZCetmE-7EVEiuR7-WwWy7RA-BxD7sTvO8Z-eHLdZZmxuv/s480/dike-sabrina-feat-happy-asmara-tamu-undangan.webp)

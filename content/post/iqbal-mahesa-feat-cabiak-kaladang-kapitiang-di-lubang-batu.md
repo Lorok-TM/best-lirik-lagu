@@ -5,7 +5,6 @@ categories:
   - "minang"
 ---
 
-![Iqbal Mahesa Feat Cabiak - Kaladang](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGFm1bZhK5g0ZhDE_7LVmbHzsntPh44QL8hGDHkkXXP33T4TkS1-fWdoh_K5xgK-R_47_Nb7bxqh54xsFPiFmfaNJB2DrkseTJKedP2mfh8QqZxqOpGSsW1hPXd7gXYakf343X_Se054kAiqDPHf-cXgL_pFSDYtt2Aspxvc2P_cOkrdP1dO5VrUXlG-8J/s1280/iqbal-mahesa-feat-cabiak-kaladang.webp)
 
 Kepitiang di lubang batu Cari makan di lubang karang Basanang sanak dahulu Dimulai pantun jo lagu Bakain batorak torai Bacampu jo banang suto Kok dapek kato sesuai Baisuak jalan baduo
 

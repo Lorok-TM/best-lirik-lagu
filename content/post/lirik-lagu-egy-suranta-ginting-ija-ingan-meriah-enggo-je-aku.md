@@ -23,4 +23,3 @@ Bagem kubaba karo Pusuhku luka Bagi kerbo sijalang luka
 
 Nande karo la ku sumpahi Gila bage banndu man bangku Sada kel ngenca ku pindo bandu Kelengi ia perbulangenndu
 
-![image](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBeNx4haEcMEMMiEZwUcTvr2Rqbo5nTNHPQRqWPicLveds7rw9ewTCHrXN98MTEv6OPtrKES1B6PnRWZa9uYoQWeyBo49VhX9RPdnw2PeTqtqVIMQNWDq1Vp7sNk97ecn9-dCfMZWbGHzoiR3F_D8hl6jjaEgJI7zd0dr-KPJtO2hCtcy0OpM6OzrNkQmP/s800/egy-suranta-ginting-ija-ingan-meriah-enggo-je-aku.webp)

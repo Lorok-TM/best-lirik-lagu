@@ -23,6 +23,5 @@ Title : Bahasa Hati Artist : Ray Peni Songwriter : Ray Peni Production : Rum Rum
 > 
 > Mari kita buktikan pada dunia Bahwa cinta itu bahasa hati Woo cinta itu rasa Oh bahasa hati
 
-![Ray Peni - Bahasa Hati](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-szE0M7WIalzhnNW9CerW1LUH25uKNesSd94BlK5u2HuAU0U7_zITc2rsRNkcSjf5xldCDS9ZW_4SDmv_qVCM68XWnZd108FAIU6OhzVOgtTBsF453WLyqm8Hs9lAQbbnIw2Eet9nXllJ72Pv-k7UxWXgJIHZXrwK4UNyXXbEOjEW2Fj_RjfJNl_NIDSV/s1280/ray-peni-bahasa-hati.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Ray Peni - Bahasa Hati. Silahkan bagikan juga ke teman anda.

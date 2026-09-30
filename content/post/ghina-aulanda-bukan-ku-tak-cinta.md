@@ -23,6 +23,5 @@ Title : Bukan Ku Tak Cinta Artist : Ghina Aulanda Songwriter : Harry Parintang P
 > 
 > Biarkan aku membasuh luka ku dengan air mata sendiri Kerna sedar siapa aku Mainan bagimu
 
-![Ghina Aulanda - Bukan Ku Tak Cinta](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisN1laM7qEk-JE8tQSeCCW9R4VztNNOSS4EpWSPqbOkKPUBjjxIURuUYJXTlymaL50MGTb5KYZBS2Cil8uGhsNqjyoGyIXiB_EBiEAY2egFBuMzw-roWK5MwHZSHG0x9D87c9R2TZ-dDzxioWxV1J075iKiRwOsCUWChIPTHaC-h6ZQHxnAEg4v6l2_A/s800/ghina-aulanda-bukan-ku-tak-cinta.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Ghina Aulanda - Bukan Ku Tak Cinta. Silahkan bagikan juga ke teman anda.

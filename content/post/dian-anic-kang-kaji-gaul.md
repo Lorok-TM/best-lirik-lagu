@@ -39,4 +39,3 @@ categories:
 
 Title : Kang Kaji Gaul Artist : Dian Anic Popularized Before : Desy Paraswati Songwriter : Amin Hermawan Poduction : Anica Nada (Dian Anic Group) Alamat : Jl. Pangeran Sutajaya Gebang Ilir - Cirebon Job Contact : 0852 2448 2258
 
-![Dian Anic - Kang Kaji Gaul](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijZ7WYRR5ZHEuyitaGK6CrDr9NGuuCXQlRL4ZbpviCJdoUJ6B85LrTm_4fjHMNsQFYJeo3ZUX2y3eTBVjnOXA5vV3YOwwab0_ym5h49NIuFVdbLSgbq3xyfcKXM8GnlluUnSLtp-Bn7oTSqOlaWJdbY7_k-e7ViKeW33NUAtDagaT6RNdvttCYwyEW_g/s1280/dian-anic-kang-kaji-gaul.webp)

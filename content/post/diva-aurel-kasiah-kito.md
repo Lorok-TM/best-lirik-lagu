@@ -21,4 +21,3 @@ Hari ka hari kito lalui Padiahnyo hiduik kito jalani Sabalah uda yo dek mananti 
 
 #Credits: Judul : Kasiah Kito Voc : Diva Aurel Cipt : Kiki Acoustic ℗ & © Pilar Minang
 
-![Diva Aurel - Kasiah Kito](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9mCmX1o3DZchyphenhyphencA-VNf2ucopDfhm1559hKzG8QaNpnaPZBA5xgYUw2uv_m0DmiBDiCwsCNbulmOCO0e4Kf5OpBkn1dKdO3vOSaYz4Nx54P4tO5lcvbbNcNm2XojAmeMBLImrrdjs6BBGryeiPAAkqEqHe7eAtL4-YQ4ud65TOl0vHWoWZ7TZUYk33NAxD/s1280/diva-aurel-kasiah-kito.webp)

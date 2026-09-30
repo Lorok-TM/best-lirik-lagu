@@ -21,4 +21,3 @@ Iki tondone welas isun Wujute roso mung kanggo riko Mugo welase riko terimo Myak
 
 Iki wujute roso, iki wujute roso
 
-![Sasya Arkhisna - Wujute Roso](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiftLATPSZmf-PwRdm0B4_wHw2YONx3SM7T8MMqoRctIwSbNA31WvJBzuu4QxCMsJ2QQPNTRz9Axt73vi9zBLpgLT4MlSRfkkVlrRvRedrQX6at3VIb1NfcECqiHMTGfqjMxK7e8DF8i8bNkA4NGV3UrCHST8CMfnbHWjWlQjg7ZbSx8-qqX4cQgCvKlooG/s480/sasya-arkhisna-wujute-roso.webp)

@@ -38,6 +38,5 @@ _Emanen Isun = Cintailah Aku_
 > 
 > Sayang sayangilah aku Dengan rasa cintamu Cinta cintailah aku Seperti diriku mencintaimu
 
-![Suci Tacik - Emanen Isun](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5jTMLflIUZdJ_lup__JJbj0XjTa-5qxBRkJ4eveue7tq6CqZtjfGZovfv2ODGJ0o_7wEz-cpsk7J6txRDbNvBI-YhpJTOFzrnmMH_SAuXC-QO5X43Y_l5R-oC5PeZ5S6kPjotNaHnKjWvCJkTbw0E5HkUjj6ueAGRHJyrjRIG_d91KSCCU1Is401kL3Jo/s1280/suci-tacik-emanen-isun.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Suci Tacik - Emanen Isun. Silahkan bagikan juga ke teman anda.

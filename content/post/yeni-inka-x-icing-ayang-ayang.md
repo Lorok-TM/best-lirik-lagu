@@ -21,4 +21,3 @@ Duh dewo dewaning asmoro Kuatno ati kawulo Anggonku lelabuh tresno Datan kendat 
 
 Tak rewangi tak pateni Lahire tresno kang suci Kasunyatan yen to aku Sliramu isih nyawiji
 
-![Yeni Inka X Icing - Ayang Ayang](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJLlDvqBRktFepeSh1eF9ui9WyFCtVF7PqwXcB5O-P3OD3CiiO_KM-G6w2PzlzHjL-8Hh8b_3gDok8I3dv4kjfg46E70Lpll4RrML5pdb4Rjn3IyFQZuqJdGjzs8vmay1566kiWv0H1eKvwPXVnN_moBrbVyvNeDqmIaQzSFhCxTZXoc28TOlSyhcpj9ke/s480/yeni-inka-x-icing-ayang-ayang.webp)

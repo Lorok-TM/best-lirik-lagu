@@ -13,4 +13,3 @@ Reff: Pos roham ito godang dope nauli Na lobi umburju sian au Di tangiang hi sai
 
 Holong na ias na dibagasan rohami Lehon ma ito tu siboru nauli an Molo au ito dang boi be putikhon mu au Ala nga adong nampuna holong ki
 
-![Melin Marpaung - Nungnga Adong Nampuna Au](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhec-RXrz7uHRZexNCjuGetT9zdl3RlwbwD3RL8eSQ6yvxuHbac4YdtRu1i4015x-i9-ysiE4fYe_M8egoiV8qvMo9EO-pdmh3PCi6uYnqj3enOIWUahHfgGLIERHmJX2U1ECOwOn5YgR6VCcHleVXQczVZpsrfY7EMDxcc1JYP1a32TMvMVhyphenhyphenLLoxx2NXq/s480/melin-marpaung-nungnga-adong-nampuna-au.webp)

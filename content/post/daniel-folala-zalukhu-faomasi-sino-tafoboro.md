@@ -25,4 +25,3 @@ Yaita bangaluo zima'ökhö Hasara dödö tefahowu'ö Ya'ugö ni'omasi'ö ga'au y
 
 Ya'ugö ni'omasi'ö ga'au ya'o khigu Tobali sambua ngambatö
 
-![Daniel Folala Zalukhu - Faomasi Sino Tafoboro](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhu-EDqBwuTi2UsaUfVjlvx2STQ11d6M2IjbSmZDmtjjdeE6V38dnyQVTZAlZudobtAoCUWQLaRpTnxw8KbFEmMovLX7o32dRFQZZTYChybFhCStl-hmNldZlMZJbOT6GlSzl4arpABtFETYJqOuXi6TaUyBpOzucEnUu6jwtVXgDbG307hJuan5DPq7Nq/s480/daniel-folala-zalukhu-faomasi-sino-tafoboro.webp)

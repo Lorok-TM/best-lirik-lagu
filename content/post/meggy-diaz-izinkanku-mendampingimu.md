@@ -25,6 +25,5 @@ Title : Izinkanku Mendampingimu Artist : Meggy Diaz Songwriter : Emen / Iwan MS 
 > 
 > Janganlah engkau pisahkan diriku dengan dirinya Ku ingin selalu berada disampingnya yang ku cinta Tuhan ijinkanlah aku untuk slalu bersamanya Selamanya
 
-![Meggy Diaz - Izinkanku Mendampingimu](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrYoLlbzlK-FqNVxVg9NqmehNiOU52FhBvVAWe2vlHXq7uYUCLXYM_AfoaAKgiBnyNJpYcKtH7kaRTARireH185DxTM-gu2FmfiFJnqGinaX3hichgl3H9L1V8kMWG3gsKzJWxJuSYW2ZASbzNNwMC5J1jhNJAqw3WCEYux4EnEEqj_a0A6XlcsYSduEv1/s800/meggy-diaz-izinkanku-mendampingimu.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Meggy Diaz - Izinkanku Mendampingimu. Silahkan bagikan juga ke teman anda.

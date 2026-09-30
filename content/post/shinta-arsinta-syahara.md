@@ -5,7 +5,6 @@ categories:
   - "dangdut"
 ---
 
-![Shinta Arsinta - Syahara](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg82vY7PNeOHNagivaK9V5885xHW8R4JfRuwPSQEHrAPusF1AN6F42nBPJVJWznrVkYqPUT6X9F21tg6jH1rxJ9LmsMJgHVMFarxuDMZUn1nsialqUbJI2btwfUJ1-e1OeuCLiuyUk6RtjaM_L8Af-GbdOlOIdMT4AGan8AUoU5SM7O-wogY7f8_JnEgEnp/s1280/shinta-arsinta-syahara.webp)
 
 Syahara, kasihku Kau menyinari ruang hidupku Syahdunya bersamamu Mengenang di hatiku Syahara
 

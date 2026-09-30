@@ -23,4 +23,3 @@ Demikian lirik 'Rindu Ibu' sebagaimana di atas.
 
 **Credit:** Judul : Rindu Ibu Voc : Laily Suci Cipt : M. Rizal Abjan Arr : Fanny Yandhi Mk
 
-![Rindu Ibu - Laily Suci](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQx1M9qa_-0O0VMvA8rKeeqgpIqDNeXCMTdMlWFLjCse0s671BKHkB4xODFaWRpwe3aSMsWDRVe05S32S_ae7skhaf_FvEWIZOs07_lLZsTeJj2CgelQ43zNiqeF9v703RPmMV6rg6I6q23ry-6x3z3LrH6c0Kle_i9WQ7rcVD-xqQqKc8iFhObh57tlQx/s1280/rindu-ibu-laily-suci.webp)

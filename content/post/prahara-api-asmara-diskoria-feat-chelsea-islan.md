@@ -37,4 +37,3 @@ Demikian lirik 'Prahara Api Asmara' sebagaimana di atas.
 
 **Credit:** Judul : Prahara Api Asmara Voc : Chelsea Islan Cipt : Mondo Gascaro Arr : Mondo Gascaro
 
-![Prahara Api Asmara - Diskoria Feat Chelsea Islan](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXQH-veYOsYpD9ynK5NC8_jiLzI4fDtmUOpCc2BDKY8-X82H8wHowO4juyT4qVLuLRQQeWiLrv5f0GDwrlApPEBcBpjni0knmH2H5uK-TGLJ_-7i5H-Su4zXxyqhUUDOyXVqy-HBP8vGa8jIggHKzfm1sqo_4aUW3xx6czC_OCOR9IKrG3AwAw7PbMR21E/s1280/prahara-api-asmara-diskoria-feat-chelsea-islan.webp)

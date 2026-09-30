@@ -26,5 +26,3 @@ Yang berlalu biarlah berlalu Hidup terus berjalan maju Tuhan pasti sudahlah tahu
 Rejeki pun sudah tertakar Dan takkan pernah tertukar Asalkan kita ikhtiar Berada di jalan yang benar
 
 #Credits: Judul : Hapuslah Air Matamu Voc : Arief Putra Cipt : Arief Arr : Decky Ryan
-
-![Arief Putra - Hapuslah Air Matamu](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiit10Bda58QF7iMeMUV3_kVMZ8FGWGHMY4011nT4_E1iVUgj5p6XQ-ZzGTSnrf_n_0NhjhEPVMJT6INPoOFOzQveGgaUYkM_DvdbDcey91CDdStgGilnrWu7yQ4WJfeGZxp2Jdwy67hntwakxFiiQFmZByxyVpV1h4VJx6GCAFNvEFt_pTfU084EeL4bfQ/s1280/arief-putra-hapuslah-air-matamu.webp)

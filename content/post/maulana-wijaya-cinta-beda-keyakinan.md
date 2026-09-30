@@ -27,6 +27,5 @@ Title : Cinta Beda Keyakinan Artist : Maulana Wijaya Songwriter : Ajhay Pasma Ca
 > 
 > Mengapa kita bertemu Dan saling jatuh cinta Jika akhirnya terpaksa saling melepaskan
 
-![Maulana Wijaya - Cinta Beda Keyakinan](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuarZAsqJ_7QZVFLGO63tpJs_DPLNmut6C23eBS9_kGD0CH3O_1JGMrNrM4Fo8Yh9cZJ7tV1_8OtuC02hbEqFlUXoe4RczU7S19ILlWAwcqKSFEA7ryHSoKoF4I0OTm-gyggIElQKzj9i3glgOOG6t3eE3wHZavIeU6JPXraPZhTZ9SquErWBVNzCL1Q/s800/maulana-wijaya-cinta-beda-keyakinan.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Maulana Wijaya - Cinta Beda Keyakinan. Silahkan bagikan juga ke teman anda.

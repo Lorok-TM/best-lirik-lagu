@@ -29,4 +29,3 @@ Post Chorus : Nara m’biang.. nai daku hanang latang ite ta.. Weta.. raes nai d
 
 Nara m’biang.. nai daku hanang latang ite ta.. Weta.. raes nai daku hanang mo.. Momang de nang tedeng len mose de.. Momang de nang tedeng len mose de..
 
-![Septiano Papu feat. Angelina Keytimu - Tedeng Len](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxDifadqoZKZ6SN2QqMTx3rN52SFHS8O25YuRTHPwGzcMv3APm2eXrGjlPG5OQRc_eLiQoZvKpVOqtL7ISAurZKfC13Dhtz_04SQOAdMqx_dHUpaVw14p13ZavNnjyPkMuINyRmVso7x2OQvBJ6QLuCScJkMzVMEsxxBKXfi_vbNkuhYL6jF4QnUwWrLuP/s1280/septiano-papu-feat-angelina-keytimu-tedeng-len.webp)

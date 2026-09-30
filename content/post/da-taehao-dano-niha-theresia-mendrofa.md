@@ -13,4 +13,3 @@ Sagötö dödöda böi olifu ita Böi tabe tou lakhömi danö niha Nekhe-nekhe n
 
 He talifusö so ba danö niha He bawanohu fa'atua-tua Naso ginötö böi olifu ita Ibaloi ndaugö tanö niha
 
-![Da Ta'ehao Danö Niha - Theresia Mendrofa](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVyP7hKemBtOmRmnfg6kl3K72WrHIW206TchgfSmIpcvh5jetJL-A0YEnQxyqulxy4Fbfxab7pjgKMw4eHn0YilAApNlYDpfKC4oOcCjMQjf0b8J3YgS2IfPEgnSsCAX0fgU_yf09CrkKdS6GjA8CZOE-9OOshr702XnKTG4YCy0Uko-oO-z87xaEu6i4V/s1280/da-taehao-dano-niha-theresia-mendrofa.webp)

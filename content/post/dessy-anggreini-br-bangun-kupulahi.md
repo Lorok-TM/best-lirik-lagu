@@ -49,6 +49,5 @@ _Kupulahi = Ku Lepas_
 > 
 > _Aku berharap kau menjadi rumah Namun ternyata bagimu ku hanya rumah singgah Ku harapkan kamu menjadi rumah Tapi ternyata bagimu aku hanyalah rumah singgah_
 
-![Dessy Anggreini Br Bangun - Kupulahi](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQVhABYixpaDOuF4k7ejA3bv0V4DuSs1xxhc3OmIEfVENMYrn03EqPA6v2FZRtF6am9MD_2Y3T99cmHBD3iYyodvej2h7rrXqoGqk8QXZxoLOVazQ3nyyLTC_BNpGqH580UDpGZwZ3_NWwgrq8XdB0onXxPfq9FPh3qR8tP582Drk7fyMqUSDO4iYdRw/s800/dessy-anggreini-br-bangun-kupulahi.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Dessy Anggreini Br Bangun - Kupulahi. Silahkan bagikan juga ke teman anda.

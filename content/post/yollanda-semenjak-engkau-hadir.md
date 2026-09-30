@@ -17,4 +17,3 @@ Kekasih jangan bosan menyayangi aku Kekasih ku selalu ada untukmu Hati ku tak ak
 
 Tetaplah di sini dan jangan lah pergi Bersamaku selalu sampai akhir hayatku
 
-![Yollanda - Semenjak Engkau Hadir](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTgARazVMMHqO0zfrgBIdkdI3Xx50q9YHpkhGfvYugYMiZRTF-S5wSra_A2g3bnS14wn3RPv15XSxeT2eHuWZX0Cih68LYSFJ_K_TuYJ_cuJQM2-uaovDZxUnHgYJP9M6PBzoHqjOmwBucsiH-Tj5ZKz-I3VsRC2WEqFE007QlC8pcdrdpCAuLvkY5hT13/s480/yollanda-semenjak-engkau-hadir.webp)

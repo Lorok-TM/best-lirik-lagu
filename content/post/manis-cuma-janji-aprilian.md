@@ -5,7 +5,6 @@ categories:
   - "slow-rock"
 ---
 
-![Manis Cuma Janji - Aprilian](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTI2otDwQw7ccjCvDrjkksFGa8GVtwCw5qDRHztWbSDd1xsFWOodhiwPLQecsChyphenhyphenIgGoZA5a9VwP0uysoq1IfUvIt0gJ6xlrpZCtKjV8zFWn2PY7fD2bvZN4eUKJyaXRc5rxT2xGZJl83pVJoTBfskTJ_ztHYz_kNDQGiSgyl-lK4oeikpBPMBCzND99-d/s686/manis-cuma-janji-aprilian.webp)
 
 Katamu akulah segalanya Kekasih yang sangat kau cinta Hidup tanpa aku dirimu tak mampu Pandai merangkai kata hingga ku terlena
 

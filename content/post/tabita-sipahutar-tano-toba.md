@@ -23,4 +23,3 @@ Tano Toba tano namartua eme gok Bidang na so ra suda Tano Toba tano namartua eme
 
 Laos disi do nang tao Toba Tao na ummuli di nasajolma Tao toba tao namartua Tarbarita tarbarita tu bariba Tao toba tao namartua Tarbarita tarbarita tu bariba
 
-![Tabita Sipahutar - Tano Toba](https://i.ytimg.com/vi_webp/-WfE5Lp3BVA/maxresdefault.webp)

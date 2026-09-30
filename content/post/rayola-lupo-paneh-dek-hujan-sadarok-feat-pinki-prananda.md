@@ -37,4 +37,3 @@ Maafkan janji nan kito karang Bakabek jo uda babuhua ka urang
 
 Sio sio lahbajariah salamo ko Bansaik urang tingga kironyo
 
-![Rayola - Lupo Paneh Dek Hujan Sadarok feat. Pinki Prananda](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5qsJ-AV_pawrLDmhmikidNd9VGty4UNCHf2h6L2piKtg5N4a91TBlWcQETj67CaWHztdsM3ilv2wRFlYwPVrs-xpg5qy9TJ6lsWNj2D8kfIttgOtsivdDMLjkWX_Qq856BzdibZcoZW18TlwYXsZoFougsXd2zkhYakNSyNpqd-YNthf4lldglDDkSJku/s480/rayola-lupo-paneh-dek-hujan-sadarok-feat-pinki-prananda.webp)

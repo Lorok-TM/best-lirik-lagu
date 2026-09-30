@@ -13,4 +13,3 @@ Jika tidak hari ini Mungkin minggu depan Jika tidak minggu ini Mungkin bulan dep
 
 Jangan lah menyerah dulu Waktu masih panjang Ingat doa kita selalu Yang tak pernah usang Kita usahakan lagi sayang Yakin waktunya ka, datang
 
-![Silvy Kumalasari - Kita Usahakan Lagi](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4yj_mM2jMG26LAUfQYvhyphenhyphen7Zoi47whGqwAXUeVKiFXsPbYIQrhqrSPMlFeAKFE6QDu-VTtITk2U7Ds87jw0PKnTB82Na8-K98M-g4ZT4VVHW3qGh6gIQ0wn1-3L-scBCqalnsBBPwjAnOpzq_pc62jt31h4AQpKC-JXOclyoQAD8z5fwsOWQbrvbgW1X4x/s1280/silvy-kumalasari-kita-usahakan-lagi.webp)

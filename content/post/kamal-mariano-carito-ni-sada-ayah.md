@@ -41,6 +41,5 @@ Title : Carito Ni Sada Ayah Artist : Kamal Mariano Songwriter : Top Simamora Cat
 > 
 > Ayah ayah ayah Ayah ayah ayah
 
-![Kamal Mariano - Carito Ni Sada Ayah](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWOgCeK5BgRW_WEP0AguqavP26ZeDbnVtA9hn7nk4QbQvMUabHYwFT21X4nbxDLLT1_BetgXiUorNdp1DX7UXPgNypvBJXCWPt2e_7zIbKDnL6Duy84CK9ovs9M1EjMXFz5SL4urE5KqJzYUHWJV5CkBEZ3qNjTxMp4k9rBxnBKh9dXC2I3L-XJdm77Q/s800/kamal-mariano-carito-ni-sada-ayah.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Kamal Mariano - Carito Ni Sada Ayah. Silahkan bagikan juga ke teman anda.

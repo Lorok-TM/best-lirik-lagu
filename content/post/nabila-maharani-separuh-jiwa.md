@@ -5,7 +5,6 @@ categories:
   - "indonesia"
 ---
 
-![Nabila Maharani - Separuh Jiwa](https://raw.githubusercontent.com/Lorok-TM/2026-08/img/nabila-maharani-separuh-jiwa.webp)
 
 Karya musik berjudul "Separuh Jiwa" yang dinyanyikan sekaligus diciptakan oleh Nabila Maharani secara filosofis mengeksplorasi keteguhan emosional dan loyalitas tanpa syarat di tengah konflik hubungan yang asimetris. Berdasarkan narasi liriknya, latar belakang lagu ini menyoroti potret dilematis seseorang yang memilih bertahan mencintai pasangannya, meskipun terus dihadapkan pada pengabaian, luka berulang, dan kepalsuan janji. Esensi filosofis dari karya ini terletak pada dekonstruksi konsep kepasrahan, di mana penantian dan rasa sakit tidak dipandang sebagai kelemahan, melainkan sebagai manifestasi dari keyakinan bahwa sang kekasih merupakan bagian esensial yang tidak terpisahkan dari eksistensi dirinya ("separuh jiwa"). Melalui pendekatan aransemen pop melankolis, lagu ini secara lugas merekam dinamika psikologis individu yang meyakini bahwa loyalitas emosional pada akhirnya akan menjadi ruang perlindungan terakhir saat ilusi dan kedok pasangannya mulai runtuh.
 

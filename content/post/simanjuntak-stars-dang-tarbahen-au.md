@@ -21,6 +21,5 @@ Title : Dang Tarbahen Au Artist : Simanjuntak Stars Songwriter : Much Simanjunta
 > 
 > Benget maho amang diparjalangan mi Unang tois roham tu akka jolma i Burju maho amang tu na tumua i Marhite hite i amang Lehon onna ma diho Akka dalan lao tu parnggoluan i
 
-![Simanjuntak Stars - Dang Tarbahen Au](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiunbuNJbAb46g_5S8VFW8meWnswS3DSsiVhCKCoS2TwMEuiRSH5dWXQaSK0vCwdxhW1W13cOdxAuNkic6Wb5pqfALhc0omBst-h5zgK6YjdD7C9kyfdR5FKuw6vggpuFUScZjMlFCdCw9uEmA7x4rrX3Odcd6bx5gFHMdt--QFbG1guP1t_z4RpdHG6g/s800/simanjuntak-stars-dang-tarbahen-au.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Simanjuntak Stars - Dang Tarbahen Au. Silahkan bagikan juga ke teman anda.

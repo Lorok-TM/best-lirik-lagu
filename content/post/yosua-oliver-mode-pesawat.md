@@ -19,4 +19,3 @@ Sengaja hu baen mode mode pesawat Na mabiar do au annon hape gabe terlacak Didia
 
 Sengaja hu baen mode mode pesawat Na mabiar do au annon hape gabe dilacak Didia lokasikki nunga di ujung bumi Sorry hasian au nunga lao terbang tinggi
 
-![Yosua Oliver - Mode Pesawat](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZ2jJNfhGJPXza3sWlzcqnFFsBdRwY6aFFXIGEqhRSobYvsqGkTmuwM7iCXp-7Ra5T2q7a7LqHo0tej0_OrmQRvtPL6DyMDfFESU0NmAn7Sv-vj2vjVMYCd6xkzYLWPYurzkTj4Kf6X4gON7y5Qcs556r19FJyXrnW1slDPnnoPvIiL88XQ7XEqjB6OqT9/s480/yosua-oliver-mode-pesawat.webp)

@@ -5,7 +5,6 @@ categories:
   - "indonesia"
 ---
 
-![N/A - Riku, Josua Natanael, Naykilla](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWrGNGr9SY0z1kBX0fseDz6ONLEPsp1T6t3GBxvoAoIqeTRosuVbN6g8RHZbq7fRKoTLVq8R6OMEwjY0ubgtAauVDO9o-ZAUdJBMLLQpN0THxgTx-e1UXq8829UJMHE1rcRJZN9Lyjh_qiQGz2ICLF8bqb_1ewamE6v0kO_iF5bXYW_XGZdWCPOEk5r1Hf/s1280/n-a-riku-josua-natanael-naykilla.webp)
 
 Malam-malam aku mendingan sendiri Pagi-paginya ketemu ah mending pergi Duh gimana mau lu apa? Loh kok banyak maunya? Lo bukan makhluk sempurna
 

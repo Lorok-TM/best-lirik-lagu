@@ -37,4 +37,3 @@ Ade bikin kaka mete Tidur malam bola bale Sejak kaka lia ade Aduh Tuhan ampun e
 
 Ade bikin kaka mete Tidur malam bola bale Sejak kaka lia ade Aduh Tuhan ampun e
 
-![Tabola Bale - Silet Open Up Feat Jacson Zeran, Juan Reza, Diva Aurel](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVhdStIfrDc4dX0aVTW0f5cxHOmS3Q2iQxc0J4axvObik9yeJ6p7xdQnJ4mrCDMvuKwXmn1DZYksE1RNj50aHuu3rZpPu7o2bkaizNykQC6nBYAO68LwzdeMjaC1sCJM8RMBKyhlx0Ay1arOuPO8tlPhHbqVBxJrA5iEJw5U_nW6fT1GAdoi7hJVzi63ij/s480/tabola-bale-silet-open-up-feat-jacson-zeran-juan-reza-diva-aurel.webp)

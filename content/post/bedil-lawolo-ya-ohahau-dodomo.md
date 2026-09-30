@@ -25,4 +25,3 @@ He nakhi böi törö tödö Olifuö ö gaau Ya ohahau sa dödömö Baniha nifili
 
 Ya ohahau sa dödömö Baniha nifilimö
 
-![Bedil Lawolo - Ya Ohahau Dödömö](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPGMbLyEXEcwr6BLGyaIR_j7mHEhgrQxXk8ktnnEQywVfMpVDZFiEpGNk3CDsV8KyPlK1pnsWUtzHVurlDYeQ9svCL_MDYecN8LpPnihzEuftKfS76ulYwsN-bZfs-ykVqq6pNL_Y-z2kJvxHLRQPBhQWytq2xEd9hFCm-IkteBgfKeendwCQetjm8uAcQ/s480/bedil-lawolo-ya-ohahau-dodomo.webp)

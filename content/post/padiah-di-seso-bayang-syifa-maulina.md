@@ -15,4 +15,3 @@ Da kanduang... Rindu denai rindu ka uda surang Rusuah denai kini jo mimpi mimpi 
 
 Ulah siang tabayang bayang Tibolah malam jadi rasian Oi uda kanduang uda den sayang Lah padiah denai diseso bayang
 
-![Padiah Di Seso Bayang - Syifa Maulina](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRoRaVFIGHFbSrLREMW6T91g2b78n5ARWP8YX0W-bBxraCN7fRbjSYhyptHKBvm2f3yb3UDZy6bnLcgtJAV8Gmwf9cFxRRrKgXMR6Z5V4xB-X8OJumw-IqTeOTRtp_rpeBes2v5Ey99MUYSj6dsgLhRUqban3bBFUfAFJLYrUxBaHj0Oh-EI2wsB85m7vA/s1280/padiah-di-seso-bayang-syifa-maulina.webp)

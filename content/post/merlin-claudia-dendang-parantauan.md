@@ -13,4 +13,3 @@ Pado mananam lobak lambau o sayang Elok si sawi den tugakan Pado manahan hati ri
 
 Hari nan sadang patang patang o sayang Nan badendang parintang rusuah Pado nyo bansaik den bao pulang o lalai Elok lah rantau den pajauah
 
-![Merlin Claudia - Dendang Parantauan](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNy9jk-K7qOB9K1TKEmC8sn9p-usZOPAmDB7FhPPbp8ALjttl5X8LgBYeR3pe2FxszhrDbxt2N5B3HfQhp93k_NGPmN5OHB1kvMexu-tFun00EfrnF-hftidcBpYgDPIRG6lDv9MsXPNRBYhGxzCGqSBX0bSW5hML8_SaozWRbU4cG6_EKgIe_OCFyw9ib/s480/merlin-claudia-dendang-parantauan.webp)

@@ -5,7 +5,6 @@ categories:
   - "band"
 ---
 
-![Foto Lirik Lagu Asbak Band - Tertunda Bukan Akhir Terbaru](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGtxNg38aeI_fooYv4nYRcA2WmVPs2kCb1sGOZk_LSHOGJUpfup81wshvpCtwxMoggAWSZ-IDsf9y9IyIHj5UgIBax9fBXuqByA64TfccGqqJC2bK5CL4ftJBPOjy0l-4xaGpxDdAhygaM3Nzb2XLnVTZtPxinYCHbL_nLs_zLw61fsdHqu3oWN-It5z_x/s320/asbak-band-tertunda-bukan-akhir.webp)
 
 Wajar bila kita kadang merasa lelah Kita hanya manusia biasa Pernah putus asa Jalan yang kau tempuh Memang tidaklah mudah Namun janganlah engkau menyerah Kau harus melangkah
 

@@ -21,6 +21,5 @@ Title : Payong Keunangan Artist : Cut Zuhra Songwriter : Amiruddin Ali Category 
 > 
 > Malam nyoe lon lon duk sidroe Payong bak jaroe hate meuraba Ujeun han reuda malam pih jula oh sayang Lon eh lon sidroe payong bak dada
 
-![Cut Zuhra - Payong Keunangan](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieEiufBbIC765UNQ2-XjRzHHLSCuuqdonJLUbUw_2C3wKX7i0LQv7gFm4V6XckD-Xb9PS_Y0wq4Bc2VDnFKh123OVZwKY4WRyfWPrWxYVBYxmCbOEaHnN1iXoW9Ok7cyMDxSGzxze3hVrBN6s6VfPUHzrPadnZ9kRokGxppDzpjgTtsTs4Tqg-zuzbbQ/s800/cut-zuhra-payong-keunangan.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Cut Zuhra - Payong Keunangan. Silahkan bagikan juga ke teman anda.

@@ -27,4 +27,3 @@ Demikian lirik Trompet Gacor sebagaimana di atas.
 
 **Credit:** Judul : Trompet Gacor Voc : Ever Slkr Cipt : Ever Slkr Arr : Elfoza
 
-![Trompet Gacor - Ever Slkr](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2PHhiNaEeDUrfbCdQTNqAfjS40WgJapQG4qyazV1A5w9Zx7tAtyFDiS8Exl-iZGqlRf_QkDn_pU57KSJDArj99Cqt7aZUPKwIqCx8TuszOrf8pvbfollbDr17XydtTkubY-dSIr-i_LlkKjVwF3f8Qgu7H2ezJ6LB2NLYDgzX7RhwPN8kN_POR0MX0W2W/s1280/trompet-gacor-ever-slkr.webp)

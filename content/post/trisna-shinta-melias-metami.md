@@ -23,6 +23,5 @@ Title : Melias Metami Artist : Trisna Shinta Songwriter : Ersada Sembiring Categ
 > 
 > Kena kel ngenca labo lit dua Kena kel ngenca si ngiani pusuhku Kena kel ngenca tambar tedehku Kena kel ngenca si pepalem pusuhku
 
-![Trisna Shinta - Melias Metami](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis-aOVLf7wEnqEF8ZLvEbLOMJYKVnGc99HX0e7YtEJuJweV7uDRMIhrcRnSlfTpXaNsUGIhuYZhnM-jIn0v-G0HbRna7BggOUNO1v9V08hUiySx-nuqMRAETNJwmwrNT0B9BrF5Fg1luF6THR3cqV12C3PhgiwvXepGAg0woAFcQinyFX4KymIL7aW3w/s800/trisna-shinta-melias-metami.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Trisna Shinta - Melias Metami. Silahkan bagikan juga ke teman anda.

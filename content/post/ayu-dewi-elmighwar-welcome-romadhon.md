@@ -33,6 +33,5 @@ Title : Welcome Romadhon Artist : Ayu Dewi Elmighwar Music Arr : Elmighwar Gambu
 > 
 > Romadhon romadhon Welcome holy month ramadan Ahlan romadhon
 
-![Ayu Dewi Elmighwar - Welcome Romadhon](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihLBO7IyY4w3nbSwaJA1i5TdQPmWvrFrBBF0_mHoQ4rWioOa7bIhINQ-Wyp688ZyJppvOVWCN6jf8yStEGcoeXzxTe8acUENv6b6pSJR52q0JnHTPXXbi-TZXWZd8N0aRb0HlJ2X8UZAU8jjTKRP-yohkAom6-O1T6Pu-ShnuvoRjKJYzot3q3UfD3MA/s800/ayu-dewi-elmighwar-welcome-romadhon.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Ayu Dewi Elmighwar - Welcome Romadhon. Silahkan bagikan juga ke teman anda.

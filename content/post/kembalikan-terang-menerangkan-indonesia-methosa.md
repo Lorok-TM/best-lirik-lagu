@@ -23,4 +23,3 @@ Hidupkan jalan kebenaran Kembalikan terang ke tempat semula Nyalakan cahya keadi
 
 Hiduplah kebenaran nyalakan keadilan Hiduplah kebenaran nyalakan keadilan Hiduplah kebenaran nyalakan keadilan Hiduplah kebenaran nyalakan keadilan
 
-![Kembalikan Terang (Menerangkan Indonesia) - Methosa](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHiGdOmFT-DTLL-j9TFGoXoQmcrGMsJbJGITs_fD4VGwS6cSRUfzPcUG_w1Drold4iJbcUyQ-PHCy9zzM8vyma6Abrb0N3nFiNeXNork-8ikO7GdPdpc1uPxpvQKZVTj7hkHDPyxQOOaNG7EU9FZqcVLS1P4href6hh-Qdvvgl_0P9JiQ6lkOCvyZqw6KR/s1280/kembalikan-terang-menerangkan-indonesia-methosa.webp)

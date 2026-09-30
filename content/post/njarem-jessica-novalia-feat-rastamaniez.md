@@ -35,4 +35,3 @@ Demikian lirik 'Njarem' sebagaimana di atas.
 
 **Credit:** Judul : Njarem Voc : Jessica Novalia Cipt : Royhan Ni'amillah Arr : Rastamaniez
 
-![Njarem - Jessica Novalia Feat Rastamaniez](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOHytozuITEj3qs4ZRiGUMhT6thVoIZFJcc2w5iH-ekIA8YZcveFiC6NdFHJ-KxK0bpnKK4soDB84QQ5TGbhdc14EJGciBxzv_Zb2RYwU7c26p9gLInZt8H8A7ambab7IDSDyDsOObESTiCFMjFYy1UVZIpj-Qbq74iX88ruJSBenfslGsKjwH72zAGiTs/s1280/njarem-jessica-novalia-feat-rastamaniez.webp)

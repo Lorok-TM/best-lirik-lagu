@@ -13,4 +13,3 @@ Bagaimana cara menyudahi Cinta kita yang serumit ini Ku ada yang punya Sedangkan
 
 Andai ku tak mampu melupakan Maukah kau membenci diriku Agar tak bertahan Pada cinta yang sangat keliru
 
-![Rahma Rahmi - Rumit](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZp-ROmEBw6_XRQlRnmnUHdFoBAGYTitGBJkfeEgpLR_hZu9GWZyNNoyAiHaNiBPHSoeC6a08evhyphenhyphenVa1o56ladu4lPznpZbf8CuPeTwLJGKRFsVHG2m5qFFoxn3NHGbx5u9tk_UPyfwVnTq1rugYm9XGio9HuWao34IZ42lTDCXN4ZQFfiryd2MW8Sj7JD/s480/rahma-rahmi-rumit.webp)

@@ -5,7 +5,6 @@ categories:
   - "indonesia"
 ---
 
-![Mawar de Jongh - Kan](https://raw.githubusercontent.com/Lorok-TM/2026-08/img/mawar-de-jongh-kan.webp)
 
 Bukan kali pertama Kau buta karena jatuh cinta Sudah biasa
 

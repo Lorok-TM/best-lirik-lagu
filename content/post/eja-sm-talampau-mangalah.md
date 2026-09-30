@@ -13,4 +13,3 @@ Kok di paturuikan antahlah Sasak dalam dado Dek ulah mampatahankan Nasip tali ci
 
 Antah kok denai nan salah Talampau mangalah Ulah takuik kahilangan Dek talampau sayang Sabab di badan nangko Hanyo uda Kajadi tompangan Sabab di badan nangko Hanyo uda Kajadi tompangan
 
-![Eja SM - Talampau Mangalah](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0GJsSOaQOJ3SdyAIhIxq_qY7z5oX9aFwT9G4XDmT8mdozUP626KEOgPocAMjJCllDJ-RObYlHnxO-wC0muU3yg2OWXEVCnXeJFa6lDd0d9LefWMSIAFRjmKW5q7vmr3V38GsuyQg8cf1FZyIorOXrYP1sBZltQ1t5IiRIQ8gWHvYkNvhLHkczjorMynkV/s480/eja-sm-talampau-mangalah.webp)

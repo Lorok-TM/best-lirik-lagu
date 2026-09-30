@@ -32,4 +32,3 @@ Kitik riut handalai ngawu Ganji ganjir marayu-rayu Masang kaji bakasai bagincu L
 
 Syalala lala lalalalala Syalala lala lala Syalala lala lalalalala Syalala lala lala
 
-![Intan Aishwara - Handalai Ngawu](https://i.ytimg.com/vi_webp/v-THeK0E3sU/maxresdefault.webp)

@@ -21,4 +21,3 @@ Sampai mati kau kan ku jaga Lewati penat keras dunia Sampai memutih rambutku Bun
 
 Mungkin waktu kan pudarkan raga Tapi tidak tentang kisah jiwa Juangku tuk dirimu Cintamu lengkapiku Berjalanlah bersamaku
 
-![Justy Aldrin - Kau Wanitaku](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnKszn0NUxHSQZ33cS0p8V8bTBEIqGD4DVSfiKdDHiMcPiVYU6sSVtJPHc1pJoFyPzeYaGBZPnbJl6RaWBCBcQXT6df-GAGSVUAadUjC6BuTWi2-iY0xG-dCuESKAc6uUEOgfo8b1geMKAyDTNO_Jrqz7N97bFhhcqREGhe_csNXBWGETnsWw4XFd53z4z/s1280/justy-aldrin-kau-wanitaku.webp)

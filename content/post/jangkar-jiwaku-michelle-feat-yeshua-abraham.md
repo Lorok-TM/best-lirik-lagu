@@ -39,4 +39,3 @@ Demikian lirik 'Jangkar Jiwaku' sebagaimana di atas.
 
 **Credit:** Judul : Jangkar Jiwaku Voc : Michelle Feat Yeshua Abraham Cipt : Michelle, Yeshua Abraham
 
-![Jangkar Jiwaku - Michelle Feat Yeshua Abraham](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIU3xeVWfJWCRpeBuoc_s4SE1zSk193aMrPUc3Us9ohlJprna4EqbCrVJRBQGVeTJoGuegEFkBqTZCFLR6f-LIjm_U-o-1SzU6kSVc9dzMVevQ1XK8LnidMrFaGIXEGG9m_rNH8sNA5qDDeradYtTka4UNp1VnltUyv4fAlngVDNMdap7L0UGimT4EL5yP/s1280/jangkar-jiwaku-michelle-feat-yeshua-abraham.webp)

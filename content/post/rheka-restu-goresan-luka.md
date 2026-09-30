@@ -25,6 +25,5 @@ Title : Goresan Luka Artist : Rheka Restu Songwriter : Rino Cancers Label : Koko
 > 
 > Ternyata mencintai dirimu Bagai menggenggam serpihan kaca Semakin ku genggam semakin bertahan Hati hancur kesakitan
 
-![Rheka Restu - Goresan Luka](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhK0S1fInz3uaMabv__m6hGtmnmQpksQBT0u_HpO9rcY21mV2Trt0hiAi4BRSqCLWzvh5MwluWwh3rNTHiStESXjQXdvEISjSrErrrx89ASPKyX_E-21ZtalZKvD-JUzYKw1LMUg8UfHnCdtCHkUTa8RF5OrfDjwevOiZuzi5On8LvQ8o2MljevezgE6Q/s800/rheka-restu-goresan-luka.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Rheka Restu - Goresan Luka. Silahkan bagikan juga ke teman anda.

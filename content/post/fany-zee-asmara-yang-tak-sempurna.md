@@ -25,6 +25,5 @@ Title : Asmara Yang Tak Sempurna Artist : Fany Zee Songwriter : Aprilian Categor
 > 
 > Bagiku engkaulah permata Bagiku engkau belahan jiwa Walaupun hancur perasaanku Ikhlas ku terima asalkan engkau bahagia
 
-![Fany Zee - Asmara Yang Tak Sempurna](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqJr3smJ8Hsxwq2RYu-cxpn8daNuuOMApdYepgAHH99zoBsEd2CuUXXv01bHCD5UgG6Z08G--cEIX4VvzwpgmOTx5pTtROFjX78lU67Do7oqmDypupaDEwOaTxRIJNkauvwpEfs-1G_mWWQGE36gOhXKkQC2JLxdQBg5IxmTRxXJmb3af5uNGs8NoVqg/s800/fany-zee-asmara-yang-tak-sempurna.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Fany Zee - Asmara Yang Tak Sempurna. Silahkan bagikan juga ke teman anda.

@@ -36,6 +36,5 @@ Title : Kapait Janji Artist : Ling Ling Puput Songwriter : Hartelo Production : 
 > 
 > Tahiris atei ku tahiris Amun mangganang janji janji manis Kilau tuh ampin cintam oh kaka Hapisah belum andim ikhlas reda
 
-![Ling Ling Puput - Kapait Janji](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhScRpS8Hzvj9TpfqxPKeFhGsNVHq0TX6WkB1cGGAb44K9BPgEMwN0i9WZizsCPuz7pgoaJnUin1WSbdsxaeJQyIRHOHv77LrdjAGQ97mOBi_Gcz1SuQq3Mv2jFLLS4vMJq_3BrnhmbSJKeGkOJEW8Ro0XDADo9wKgT18v65EM1Vft-gJgMiRvxCTZ8HO5r/s1280/ling-ling-puput-kapait-janji.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Ling Ling Puput - Kapait Janji. Silahkan bagikan juga ke teman anda.

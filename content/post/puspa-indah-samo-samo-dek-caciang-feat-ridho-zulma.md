@@ -27,4 +27,3 @@ Uda Iyo diak Disinan rang bajojo bajua Adiak Iyo da sayang Alah tu diak dompet u
 
 #Credits: Judul : Samo Samo Dek Caciang Voc : Puspa Indah ft. Ridho Zulma Cipt : Rozac Tanjung Arr : Wadri Pelok
 
-![Puspa Indah - Samo Samo Dek Caciang feat. Ridho Zulma](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAkSHF82hAhe1vtWIuwoBG6GOn54so_NA-hIIYnetXcylWKcqYgCXXQH5kgu8rfPATGTK2nB2-m21BkZJSznz9OUOk5rwci1rGig7DXf-Suzxq6ehZJA5C9Y_Yfgy9RhvyooR64wRyrR8eSYm1GkEuFjSJ_-trZirRC-yqhpEDEsKomrol51B5GVaeVMon/s1280/puspa-indah-samo-samo-dek-caciang-feat-ridho-zulma.webp)

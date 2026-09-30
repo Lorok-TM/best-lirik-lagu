@@ -51,4 +51,3 @@ Demikian lirik 'Daster Merah' sebagaimana di atas.
 
 **Credit:** Judul : Daster Merah Voc : Cemos Wbo Cipt : Studio 5 Official Arr : Studio 5 Official
 
-![Daster Merah - Cemos Wbo](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOYr_bh7n7YZU2mOgONSpLjNINPaPLp8n8loSaptfAXiBmZgVIlIDftwKdg-V8_IkmFEbNs4l3ZIH7vqr-hyUkAqRnz4y7_h-Pq_jemCticstmxik1PNMw6xkcUGRV9oBUjJcVoSy8075UqOC6ULrRRUdAxOZPinD1qVlfLHUT2S0uf4W405Qd7i1hST7m/s1280/daster-merah-cemos-wbo.webp)

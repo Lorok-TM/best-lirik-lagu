@@ -5,7 +5,6 @@ categories:
   - "minang"
 ---
 
-![Kawan Raso Dunsanak - Vicky Koga](https://raw.githubusercontent.com/Lorok-TM/2026-08/img/kawan-raso-dunsanak-vicky-koga.webp)
 
 Dek pandai badan nan mambaokkan Tenggang manenggang dalam bakawan Jauh manjadi dakek dakek kini lah arek Labiah raso badunsanak Barek samo dipikua ringan samo dijinjiang Kusuik kita baok barundiang
 

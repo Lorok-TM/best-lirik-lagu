@@ -19,4 +19,3 @@ Maila au dibaen ho
 
 Didok halak au salah pillit tu ho Dang parduli au hatani jolma i Asal ma muba roham ito Asal ma muba pangalahom
 
-![Loja - Arul Gurning](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqpbY7dBnAyZGBr1V9iS_kmbbUulkkBuAd55SKjljKFnABIUbj9OLHp2aTgN7OiI1gheeyoME4Odmr6px90Enr71Tn25_wdiPTWpT69R1FTjgrXTCuub8U5AkDqkZZXVWDEod64Q_rIsmw1qpqx3WsamsBRufQYoei2SBjRj5P38WWu6c7lHR-m9OVaoQp/s1280/loja-arul-gurning.webp)

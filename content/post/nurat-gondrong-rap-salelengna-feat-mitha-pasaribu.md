@@ -21,4 +21,3 @@ Hot ma bahen au di hambirangmu Jala hot ma ho di siamunku hasian Tiop tanganki d
 
 Tiop tanganki di tikki susa nang sonang Rap salelengna
 
-![Nurat Gondrong - Rap Salelengna Feat Mitha Pasaribu](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbJo-0FjZdhTWqVYTkYkRnZJC5Q83gXv6qWwJ2d26VA1v8EMP7B3Bh85PkNm6xyrUm7PJRpJq_G5lzDe_hizBudiDqP6-vytSSEbn2sSwx9GgBb2kaN9KSHuIJOoVerhZdQ-Wmn-om6tC32uVJX1y0azgk9edaHE3uff0DSRsJpwYAv-IsAMOyxCqG5SW2/s480/nurat-gondrong-rap-salelengna-feat-mitha-pasaribu.webp)

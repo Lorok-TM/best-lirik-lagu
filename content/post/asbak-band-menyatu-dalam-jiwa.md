@@ -40,7 +40,6 @@ Situs bestliriklagu.com tidak menyediakan chord dasar / kunci gitar / Mp3 lagu M
 > 
 > Dan bila nanti rasa itu memudar Berikan ruang tuk memulihkannya Agar cinta kita lebih berwarna Kita manusia tiada yang sempurna Kita manusia tiada yang sempurna
 
-![Asbak Band - Menyatu Dalam Jiwa](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDLbUbG3zncH1Zj67zzsZKbAgZixPuNL_NgqUta7IiVsR01qzTYYRQruVJBp0tv55d7sm83yNN6n-aG0p28TUdVj8NVp3wH6VFYBuIvMAF-w6rFNtTXjNu4Zm5hT8EqOb3N8zCNeUSuuN2YDgIY7BH9kCX6r33O2TSdYgB1fiRV8RRCrxFeLQIpAq06BaR/s800/asbak-band-menyatu-dalam-jiwa.webp)
 
 Tujuan kami berbagi ini ialah menyediakan dan menambah sebanyak mungkin informasi arsip lirik lagu untuk mempermudah bagi Anda yang ingin menghafalkan lagu Menyatu Dalam Jiwa ini, maupun belajar bermain musik.
 

@@ -31,4 +31,3 @@ Löhadöi ni'ohe löhadöi nifaögö Hatö girö girö dödö Löhadöi ni'ohe l
 
 #Credits: Title : Girö Girö Dödö Vocal : Fajar Halawa, Rius Batee, Cendi Batee Artist : Fajar Trio Songwriter : Fajar Halawa Publisher : Tube Nias
 
-![Fajar Trio - Giro Giro Dodo](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-T5mOGhb4eWuxLqxcyrzvzGmbLvYcgImofnt9rud3OASB3N2jPyC07vz9xZb9vUEP-MMniYQLOb_OqRNcJHpRfPk-dNjirrrbvaxyTl-lehnjb0ESkzV77sZbYgOcNDiv8Vjt4KkZKlXqB1Td7wshA4lb6MPevKhBTwr0EV7X3_R46HZuuNGiGGgmTEv_/s480/fajar-trio-giro-giro-dodo.webp)

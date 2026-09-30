@@ -31,4 +31,3 @@ categories:
 
 Title : Tentang Kita Artist : Febian Song & Lyric : Rafi Hendra Arranger : Trizz
 
-![Febian - Tentang Kita](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiB_ahklHbt3_Mfb6xBPW2z--OsmV5kTBRCHIj-KT0n_QAxCM0xcFECr_2S-NjUCo3Ucqa2hr3CPTk0s352fRPrMep-6tdSNQ-J95_b31bhA2FzqYRHZ3jataUpngIt1-nNtTnda6r52-d8VaTzUnWI4UgoxkQx3GL69eQ8pds5cwCH4aoxrtAZZexKcg/s320/febian-tentang-kita.webp)

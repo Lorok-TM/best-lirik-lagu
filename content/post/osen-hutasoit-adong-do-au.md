@@ -21,4 +21,3 @@ Tarilu pe ho hurangan pe ho Tung adong pe sitaononmu Manottong do au mandongani 
 
 Di ilu engkel nang sidangolonmu Adong do au
 
-![Osen Hutasoit - Adong Do Au](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3UzrtmidcDeW3cUPnFtc91E5PDoir3lyPRc7dd5A5iKCcIc70_zTsEUePxbyD99nrW4yUubUHPDjQ1ArBolwdEfrmIq1inK77Wj4vD-6j9X_tXpDyMeCEXEDanw4vOOHZ0HYjvAS20SkMaf9hz12LqWNRkz5a4P28KsAP9CorH8c0g-BvmnMGQs2iZ7-0/s480/osen-hutasoit-adong-do-au.webp)

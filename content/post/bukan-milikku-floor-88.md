@@ -19,4 +19,3 @@ Ku tak bisa melupakanmu Kerna kau cinta yang pertama Di dalam hidupku Di dalam h
 
 Cintaku hanya untukmu Tapi tiada gunanya jika cintaku Bertepuk sebelah tangan
 
-![Bukan Milikku - Floor 88](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFIWKVVNJnHyCY0CixcOI4WKyHbwSUJwpuDpWXUaI2oKkoxZqTjeeWvr-QLtpiryozSathjrHtNUh0KQXnWRxAZTLM-OuuyGzaZdIyOAXTGNsLd2oDlrAbxke9hIB8F8dJt-B3GU1ry2BCx7t0MiDwpC-pDR_nB7PS1i3_npMp3RDXcWk0i3ZR28gGotnn/s1280/bukan-milikku-floor-88.webp)

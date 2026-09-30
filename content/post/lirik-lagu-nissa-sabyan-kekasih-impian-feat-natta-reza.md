@@ -27,4 +27,3 @@ Tapi akan ku perjuangkan untuk mu yang ter hebat Kekasih impian
 
 Andai ada keajaiban Andai ada keajaiban Ingin ku ukir kan Nama mu diatas bintang bintang angkasaa Agar semua tau Kau berarti untuk ku Selama lama nya Selama lama nya kamu milik ku
 
-![Nissa Sabyan - Kekasih Impian](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrJO_G0NyYJUHM-HwTF-0OjqfyafRJbJKFy3OJCohdKk8US9_VhgMto3Ix8cAsKh7CdtwnUx7KxIPC5KlvEkcLDLstBkXM-TDT4L6EOvM2OOc1wX0xQ_jqENESs4vdQj5BFcuN5L-gyi6Wnh7F8JKX_raEOmJnLQeANOCZnVvyEsiUglqcu10m6iLDE2Gq/s1280/nissa-sabyan-kekasih-impian.webp)

@@ -25,6 +25,5 @@ Title : Bimbang Berbagi Cinta Artist : Ipank Songwriter : G. Diana Category : La
 > 
 > Musim telah berganti Aku telah letih Ku masih disini Telah ada yang memiliki
 
-![Ipank - Bimbang Berbagi Cinta](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqc8VJ1KMzxHqeAGTRq_yGinDg7v9fYb0Wmy4UdhFqQyrGjt93G-xBwWJ3_Yd2FHC1o2PkKzNuQYg3ALPfGK0-nyXIje0NwRs2dz4nTs61KG0hR1gWRXJvyZTPgUVVMMKgpYu915ZrdSaMabHOqjacFGGVS-NavKFcdE0O6zC8CtF2WIhABcUbc-0-hA/s800/ipank-bimbang-berbagi-cinta.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Ipank - Bimbang Berbagi Cinta. Silahkan bagikan juga ke teman anda.

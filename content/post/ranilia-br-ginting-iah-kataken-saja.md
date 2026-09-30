@@ -45,6 +45,5 @@ Title : Iah Kataken Saja Artist : Ranilia Br Ginting Songwriter : Tata Banata Pr
 > 
 > Emaka iah kataken saja Ula kam mbiar ikutken isi hati Iah lanai kusabar Turiken saja kerina isi pusuhndu
 
-![Ranilia Br Ginting - Iah Kataken Saja](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKfYkk9QjLCy-sXYRDzWgCZEXE88-aVP5TPJtKM15FsEP3B0C9XEMMCMdgMAO4Hjuwynp_lFelYM7O0QE34gr9OPQBR7MrARrmyDwOTY0qcy9fII2TlcD8Xp41_tb1vl2EbpR3v_nRUNSs3QkI7NCizNwYZCU-KGwUtMkdcCg5JMFz749KiTEkw3uqzQ/s800/ranilia-br-ginting-iah-kataken-saja.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Ranilia Br Ginting - Iah Kataken Saja. Silahkan bagikan juga ke teman anda.

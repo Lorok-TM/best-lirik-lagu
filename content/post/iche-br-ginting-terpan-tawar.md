@@ -31,6 +31,5 @@ Title : Terpan Tawar Artist : Iche Br Ginting Songwriter : Amiruddin Surbakti Ca
 > 
 > Sahun pagi aku bene mama nangin Adi sahun si kita sirang Sahun pagi aku bene mama nangin Adi sahun si kita sirang
 
-![Iche Br Ginting - Terpan Tawar](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6otEBuNNHmRxen1iTyicx6WMbGOatgZVSDMb3Upc1x1412wn_rwhUZ-z-figo5ZhTDyMjARavJBFSP5_t5poaWeM8v_6K7PwoVMHRhujz1vmd8oE6jvFcJj57SYDX56gixE3NQNuAIxZXh9irPLIsm6ryaiZNac0x3F7I2pK8x_FacmlPG3xssjxwfA/s800/iche-br-ginting-terpan-tawar.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Iche Br Ginting - Terpan Tawar. Silahkan bagikan juga ke teman anda.

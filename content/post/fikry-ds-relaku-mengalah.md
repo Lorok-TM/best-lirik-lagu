@@ -25,6 +25,5 @@ Title : Relaku Mengalah Artist : Fikry DS Songwriter : Wanda Mahardika Productio
 > 
 > Aku bisa apa Aku bisa apa
 
-![Fikry DS - Relaku Mengalah](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQRjuNdSkslEcjYE4YNTzFKOEgYeUewaTAmFIpABVxR5OxnPn5koGn6kcINUkOQ2QB4nqKnKyRJtElZGsuXG7Re_7XJFVFFO4MeDcJaAGy5ayTm9VV_g1BiyaqIl47bSvyb73cG4FZfQFbMYm2fzgQZNoz1SkZQYjfiks3vPSYO8bfSqTfaVGaNpB1Wg/s800/fikry-ds-relaku-mengalah.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Fikry DS - Relaku Mengalah. Silahkan bagikan juga ke teman anda.

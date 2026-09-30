@@ -23,4 +23,3 @@ Walaupun terik mentari aku kan terus berlari Tuk menggapai mimpi dan harapanku i
 
 #Credits: Judul : Menggapai Mimpi Voc : Dede April Cipt : Moh. Trio Jatmiko
 
-![Dede April - Menggapai Mimpi](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPQKZvrY4o_sNesjN-Ag_jZlZ1r-XXv1X86gCQnUbIgp5TSh3HzP_BsxbcEkkSjHeqiVFSJDXLGgsdekxEJoeF5jneDTawTd_3WaZZ-Y8Q_LZs1nFCdNfwJS5eMkFfvwQlls6zfifHeRKS-TrHtEixqVZSKRUGkE3cXUnHu5pVDgpCQzH2Ac8A681AaeKr/s1280/dede-april-menggapai-mimpi.webp)

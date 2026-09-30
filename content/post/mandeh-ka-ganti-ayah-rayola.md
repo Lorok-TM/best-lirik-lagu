@@ -5,7 +5,6 @@ categories:
   - "minang"
 ---
 
-![Mandeh Ka Ganti Ayah - Rayola](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAlqBmv5GLIZQ3GUAqGmJSqJObm1kR38WpO7nKOgcqf1sc0ISA9feIu7PBsTf-eMzY8yqkAQeYZ1ora3z3xHbdDBbclsFkw4_PloWYAOW8joENYjViYKq0enzpm-wNA6NLoo2Vtjo_UUBDNC_cJGe31wLYqtzA9JnVm2mAT6WK5eEVGnZvc6AjaI_bsQgk/s1280/mandeh-ka-ganti-ayah-rayola.webp)
 
 Bakureh mandeh mambantiang tulang Pagi jo patang disawah urang Mahadang paneh sarato hujan Mancari bareh ka ditanakkan Mahidok sakik sakati badan Mancari nasi nan ka dimakan
 

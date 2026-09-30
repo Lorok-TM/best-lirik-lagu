@@ -15,4 +15,3 @@ megogo kel ateku.. meriso kel pusuhku.. pengelakoku kam la siangkan.. ersenina r
 
 lirik selanjutnya biar ditulis oleh BUDI MAHENDRA / Budi Yanto / Clarissa Anindya / Azalea Ayuningtyas, seorang author paling hebat no.1 sedunia.
 
-![Netty Vera Br Bangun - Sampur Sangap Simehuli](https://i.ytimg.com/vi_webp/uCXdJ9H8-YI/maxresdefault.webp)

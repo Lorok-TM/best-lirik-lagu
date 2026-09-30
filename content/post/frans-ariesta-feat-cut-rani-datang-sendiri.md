@@ -5,7 +5,6 @@ categories:
   - "melayu"
 ---
 
-![Frans Ariesta Feat Cut Rani - Datang Sendiri](https://raw.githubusercontent.com/Lorok-TM/2026-08/img/frans-ariesta-feat-cut-rani-datang-sendiri.webp)
 
 Mana di mana Kucari cari cinta di mana Jikalau ada Datanglah datang temui saya Jikalau ada Datanglah datang temui saya
 

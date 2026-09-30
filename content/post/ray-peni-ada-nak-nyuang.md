@@ -69,6 +69,5 @@ _Ada Nak Nyuang = Ada Orang Mengambil (Diambil Orang)_
 > 
 > Handphone ku banting ku buang Beli baru ku tak punya uang Gara gara kau yang ku sayang Dibawa kabur setan
 
-![Ray Peni - Ada Nak Nyuang](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhA6tA8w3BSmz1DKsYU50K25G5EaXeC2zJsiQrekljV-790SbyWq63dhnWjFMIl5ckfvx8CNT1Y-WbO972aJsppwN9EYsXcgm13_4nAzEgmIq0xn3KPaASQxBPQk4lkqvgzgy0PC1ziH-WjmFCJV1DHSgnBacGnYQxzLvEvtGEbU9yP_BEkyq8ww8p-Ig/s800/ray-peni-ada-nak-nyuang.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Ray Peni - Ada Nak Nyuang. Silahkan bagikan juga ke teman anda.

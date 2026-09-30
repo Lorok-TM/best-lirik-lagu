@@ -33,7 +33,6 @@ Situs bestliriklagu.com tidak menyediakan chord dasar / kunci gitar / Mp3 lagu T
 > 
 > Hilang cinta dan impian karena kita tak sejalan Kau berubah inginkan perpisahan
 
-![Rheka Restu - Tak Usah Kembali Lagi](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgg4kTcyYcccLCWHWBPo31_ngsnEglGRyspfGlRD0xTsh_HsTcYjaHoopbj7XdHYAOtw3pchWDRmspKVWW1skE8Vo9rwj1F8_e9saXV43vmVE7CPW8-FgtPur4eru4vOAwVWsoCbMzew6Yl22Zevt2sm42ZcIYq9XB1K0qFvjRyjy8TGA7jaO3cI9yDqXmQ/s800/rheka-restu-tak-usah-kembali-lagi.webp)
 
 Tujuan kami berbagi ini ialah menyediakan dan menambah sebanyak mungkin informasi arsip lirik lagu untuk mempermudah bagi Anda yang ingin menghafalkan lagu Tak Usah Kembali Lagi ini, maupun belajar bermain musik.
 

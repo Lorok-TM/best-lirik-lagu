@@ -21,6 +21,5 @@ Title : Bia Luko Den Ubek Surang Artist : Ovhi Firsty ft David Iztambul Songwrit
 > 
 > Rilakan denai rilakan sayang Kandak rang tuo ndak mungkin denai lawan Untuang lai ka sanang cinto nan bajodohkan Doakanlah denai uda
 
-![Ovhi Firsty feat David Iztambul - Bia Luko Den Ubek Surang](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjj8wnPSFYCO44Xvj8JYZ65dxrKEC3cxbBNBahXz6Zylm01gu7aRDgbM7Va2RmPROiARBQ0erl1v6_wt2jsgzLaBFDRNljV1vJQaLMJgq6OvUNbWreeujFxNMveXS2mBFYp8kGZQsi2tGZmtF3Qv6dyURgmvaVAXoOrkMPCXX3763tKVgK6NZBBpkVnWg/s800/ovhi-firsty-feat-david-iztambul-bia-luko-den-ubek-surang.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Ovhi Firsty feat David Iztambul - Bia Luko Den Ubek Surang. Silahkan bagikan juga ke teman anda.

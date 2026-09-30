@@ -5,7 +5,6 @@ categories:
   - "java"
 ---
 
-![Esa Risty - Sinau Nrimo](https://raw.githubusercontent.com/Lorok-TM/2026-08/img/esa-risty-sinau-nrimo.webp)
 
 Karya musik berjudul "Sinau Nrimo" yang dibawakan oleh Esa Risty dan diciptakan oleh Risti Esa S secara mendalam mengangkat konsep filosofi Jawa mengenai nrimo ing pandum, yaitu sebuah ajaran spiritual tentang keikhlasan, penerimaan diri, dan ketabahan dalam menghadapi garis takdir kehidupan. Latar belakang naratif lagu ini memotret realitas pergulatan batin manusia saat diperhadapkan pada ekspektasi yang tidak sejalan dengan kenyataan, baik dalam ranah asmara maupun perjuangan hidup sehari-hari. Melalui lirik yang lugas namun sarat makna, gubahan ini tidak sekadar berfungsi sebagai media hiburan, melainkan sebagai ruang refleksi yang mengajak pendengarnya untuk "belajar menerima" (sinau nrimo) demi mencapai kedamaian jiwa dan menyelaraskan langkah hidup di tengah ketidakpastian.
 

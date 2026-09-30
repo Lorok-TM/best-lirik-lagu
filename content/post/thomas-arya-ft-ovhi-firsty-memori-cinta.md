@@ -25,6 +25,5 @@ Title : Memori Cinta Artist : Thomas Arya ft Ovhi Firsty Songwriter : Emen Produ
 > 
 > Hanyalah engkau seorang
 
-![Thomas Arya ft Ovhi Firsty - Memori Cinta](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZW-9vYfzWxMr9ribowxTDbl5yeytcoFCeWaVBHpLRB2d-Sfd9GlPvHgAJlb3qp_4DcLlDPaM5YbGkyY0Sk0fzrrpnT6Kb5LngUQGToNDZvBtMZN-yrrEwLzqdp-DgYjf3sM2a-h4DNXX1_2Nd9Flnf6b9_O0feBvl0AWEsi594C1UlnaPcSCVFrgrjQ/s800/thomas-arya-ft-ovhi-firsty-memori-cinta.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Thomas Arya ft Ovhi Firsty - Memori Cinta. Silahkan bagikan juga ke teman anda.

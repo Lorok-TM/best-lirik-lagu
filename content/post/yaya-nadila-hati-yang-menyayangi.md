@@ -21,4 +21,3 @@ Di setiap denyut nadi Namamu ku sebut dalam doaku Berdua kita untuk selamanya Sa
 
 #Credits: Judul : Hati Yang Menyayangi Voc : Yaya Nadila Cipt : Ajhay Pasma Arr : Decky Ryan
 
-![Yaya Nadila - Hati Yang Menyayangi](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh42RuA2wsy9eniNe6pRj5ehA4bwb_Rko-ZJzTxbYMBHUSs53n2BL2a3Ppda3R4-FZC0nl1NsNmxlZqwb3DHzJN5uolTS4IFpXNrTGOphLZE1aFuqBiM-ZFLirWS6p_IJ5Tu7S4NwMiXmKnkBwRgywxBG4BkBC5SD7vqcPmN2bbP0S8faeYM8yOU-lxQHMf/s1280/yaya-nadila-hati-yang-menyayangi.webp)

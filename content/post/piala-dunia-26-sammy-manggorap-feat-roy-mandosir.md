@@ -5,7 +5,6 @@ categories:
   - "timur"
 ---
 
-![Piala Dunia 26 - Sammy Manggorap Feat Roy Mandosir](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0SUzAv51cLKtcXIgFgEQ90CoiBgfGqItSxdPm4G4-AHkkA7gYobJjQf-PPqLQtBpM1GEoeOzVJE00OYJoS72LE6MyEYu3Nhc-DDqvUwDhzHhHNEh0_HOe3gFufzcNhG5fqvXDt8w0beNplG3y_pLmzCk9AKeySvQWTUzi078QzzDMdPisxPWtHPuY5KqE/s686/piala-dunia-26-sammy-manggorap-feat-roy-mandosir.webp)
 
 Sa pilih portugal Maitua pilih spanyol Ipar nomor 1 pilih jerman Mama mantu pilih belanda Ipar bungsu pilih brazil Keluarga kandung argentina
 

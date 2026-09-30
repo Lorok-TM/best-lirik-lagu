@@ -29,4 +29,3 @@ Lupakan, lupakan.. Lupakan, lupakan.. Ooh lupakan, lupakan.. Lupakan, lupakan..
 
 Ooh lupakan, lupakan.. Lupakan, lupakan.. Ooh lupakan, lupakan.. Lupakan, lupakan.
 
-![Kau Pilih Dia - Raavfy Feat. Malikoendang, Mas Jordan](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTfuprOcfnOqVjfhaClZNXhL1EmxvgkTSCGW5rwTsM_fQ8qK2UEhTd-Kf28Ca5zWiNbM3KBSy8L6hyphenhyphen_9oOpRiK95sh8C0A4r8SUHQR8PKLWCCTvKDhxAXNPR9-mszLadVfmEoxVX3Qh9vfHua23nRnrAdEefDWZOJMdPP68GHV3KoAV6vjF_s-BGyRyNRY/s1280/kau-pilih-dia-raavfy-feat-malikoendang-mas-jordan.webp)

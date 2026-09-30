@@ -27,4 +27,3 @@ Demikian lirik 'Hidupku Diberkati' sebagaimana di atas.
 
 **Credit:** Judul : Hidupku Diberkati Voc : Nita Margaretha Cipt : David Adinata
 
-![Hidupku Diberkati - Nita Margaretha](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8yuiDZlcisPZcZJjkFpaqWZcNeyIgEYaWhFrgPv32PNSYCXvaAUR01LJuEIV0n5OjKuYQTJXEFGqUM8lTnv12Do4DTcCmMmNS-RAJt2meiaYU8VycPLkHo7-oLIC3UX3os5G5J7I4di9qLCp2SV7GxG5NwX9l7VKyX5xcbz9pdrbceNd-G5BZJSGh_VRZ/s1280/hidupku-diberkati-nita-margaretha.webp)

@@ -17,4 +17,3 @@ Demikian lirik 'Riak Dalam Galombang' sebagaimana di atas.
 
 **Credit:** Judul : Riak Dalam Galombang Voc : Chika Andriani Cipt : Syamsir Pulungan Arr : Doan Khan
 
-![Riak Dalam Galombang - Chika Andriani](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOS5LzHDZ3qHTjfyPwMVxD0tNiFAPM2eYc2XZYFvJ3USubH3gIoGTuVIDO15-fH2Im4uuZ-ILDntVWuOtEHoMQvDY2Bbb8qoDLDSm95Bds9Q86jqx2fAPgY15ZmEGT67ysGxVMxYLQDekpRWnpxYy3x9N2pe_xFa14ghuFLm5ojLDmjbTYvhUQ7DBSjNe5/s1280/riak-dalam-galombang-chika-andriani.webp)

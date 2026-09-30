@@ -27,4 +27,3 @@ Demikian lirik 'Kosong Dua' sebagaimana di atas.
 
 **Credit:** Judul : Kosong Dua Voc : Dj Qhelfin Cipt : Dj Qhelfin Arr : Dj Qhelfin
 
-![Kosong Dua - Dj Qhelfin](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdwKJMPAl8kvVIKB0644sHJPmOOLSQXSP10vnf1PQHSToWwmqWMtBmxfJw61uAJ8kjfhIJ39387RpdYsyQUkZ77JSPtMhnKJMq-hQ9r4Gr7bKjtuK73ZdJLdjOhraN0M-vKypQqIHyLISDipjQ_sBGpDxOvCaC6IIMAGzbYDrIIVDlgo4sKO4PhUrBDBxz/s1280/kosong-dua-dj-qhelfin.webp)

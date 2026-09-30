@@ -5,7 +5,6 @@ categories:
   - "campursari"
 ---
 
-![Niken Salindry - Kari Cerito](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjO1Ej3P3WYwubPV4vRclVUG9T9uz3iDAP58ihwKlZ7RivfbxsoPZztOOk3k27KTLlCkuRrlqYt91YdxRDB39GRd1LVhsuV6UrmjfoChC8lutB_KN2ka05MUpVr3_UVRdCXNbwkfimTrYv8MMzouRcbKlRwDyvXCQEHaXgAeZNQHpcBJMor4M7XziPJdvtP/s1280/niken-salindry-kari-cerito.webp)
 
 Kadung riko kepingin ngadoh Isun ikhlas mung biso meneng Mergo salah sun wes ceroboh Sing biso gawe riko seneng
 

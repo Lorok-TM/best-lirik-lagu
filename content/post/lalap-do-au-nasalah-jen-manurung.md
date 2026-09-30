@@ -21,4 +21,3 @@ Molo tu parsirangan i Napinangido ni roham sian au Oloanku nama i tolopanku nama
 
 Oloanku nama i tolopanku nama i Asal ma boi sonang rohami
 
-![Lalap Do Au Nasalah - Jen Manurung](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpO8fKOrWiYuKmpyBdbVSiGeuwbJuhs_CiiAATU4g2G9bGVsGWB4rr8OL051tFeUjUmlYWpHXo_6Wws02R7BcEu7RLq97ryv6FUMj4SWvCB8wdqiCfU1B4TBDAD8CgP0l4Xrd661Lk2QajAb3RX9BPuB9Ol__BX6oNdZoq90JeG40X58-7-KRqpmqAmqrE/s1280/lalap-do-au-nasalah-jen-manurung.webp)

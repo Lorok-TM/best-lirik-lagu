@@ -15,4 +15,3 @@ Berjanjilah kau padaku Tetap setia dalam cinta Tiada orang seperti dirimu Walau 
 
 Tetap di sini setia untukku Satukan rindu selamanya Hatiku juga setia untukmu Bersama dalam mahligai cinta
 
-![Cut Rani Auliza - Setia Dalam Cinta](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWJ5KxO28wPp8UYWBN948de-_iW6o8eTatB-6GYlLK9XZc_Ou9nRnazxv3vq-ytRG4Vdsa3L4fryAzKeAttBqw-yDzGxXhBgpt2GJRpaVqLNjsj08EnTO_tFQCNEs38dPt3iYvVNVod6x7fkyOUoHPyF5jBl-MthsfAYizVSsLTIhptykgBo-4OFMEJ80A/s480/cut-rani-auliza-setia-dalam-cinta.webp)

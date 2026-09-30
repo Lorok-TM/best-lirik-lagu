@@ -5,7 +5,6 @@ categories:
   - "nias"
 ---
 
-![Sibarisi Trio - Lö Ufulido Ba Gidö](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOXO3c4Y5TnyJwBsNdxMuM-31r0speZoIwKGpOL5Wp_WKBEzxi_Wqb_pZro1d-lhP4XBJ0XQd8HGeu8XOg4W5OneME6ErT2NWjh2AyY_OdNTXt9ii8uJLRMd7xvfUE5OTqjMS38GDoeoCp7Ubes5IpgM5sJ4ughrvuqosIL8vJ16-sBDn3J3GDHeb4ai4-/s1280/sibarisi-trio-lo-ufulido-ba-gido.webp)
 
 Lö ufulido ba gido Me yaita ba fabali saatö
 

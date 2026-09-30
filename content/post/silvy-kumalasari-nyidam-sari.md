@@ -13,4 +13,3 @@ Midero sak jagad royo Kalingono wukir lan samudro Nora ilang memanise Aduh dadi 
 
 Nalikan iro ing dalu atiku Lamlamen siro wong ayu Nganti mati ora biso lali Lha kae lintange mlaku
 
-![Silvy Kumalasari - Nyidam Sari](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7nU3gfLRzxiueWODy1zdEg38J-IbBVpre5AX1esK9aCzVgLTL5oHv8cRkK29lBHEQO9yILSdDo_UCH9Y-mgojPUZXTHBHsg9rSuUdBc6YcYGvc0YIELd85vbohDGwGEXjMBvP84kh6-1R9sriZuK6uKti3yg8DE-1pVXEOEIZGjRiRO9a9BcK9ChatUUe/s480/silvy-kumalasari-nyidam-sari.webp)

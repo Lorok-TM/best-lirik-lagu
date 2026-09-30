@@ -29,6 +29,5 @@ Title : Suratan Artist : Gustrian Geno Songwriter : Faisal Asahan Label : Koko R
 > 
 > Damailah kau di sana wahai sayang Bukan salahmu bukan salah padaku jua Sucinya cinta kita wahai sayang Namun tak dapat merubah garis ditangan
 
-![Gustrian Geno - Suratan](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjE1Bdc-qsLDaXLkDkyeLODls0A-q7xej5uGeQm_xJvfFAmfpPnbUwPAIFgfgbV0maXVsigK0QNpjrwT4YrWXdW0-vOL0_O7E5QKYhU3g86TrVZD1iOB_UqFGFS1fZGbkLsV0xDRaznDNdUYyn09UviWIuUAlryQu10FNHLlRRP9-XLocyGkSfwPRxM2A/s800/gustrian-geno-suratan.webp)
 
 Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Gustrian Geno - Suratan. Silahkan bagikan juga ke teman anda.

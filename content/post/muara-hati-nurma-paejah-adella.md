@@ -5,7 +5,6 @@ categories:
   - "dangdut"
 ---
 
-![Muara Hati - Nurma Paejah Adella](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQpq5lHmz1Y7Rfxr-ZeKWlzSS2O6VC7Amveadf3g9erBpJe2Rcb7FfRNfj3o75jReIVWHphMBya_iUIe_kB7Uk5sDsQl_J4BsHhqsstcGdk7qToM8cUukZrNToSAMeWTM303KgEhFD9js7crsDsWrsLKxlc2UniHfBe7ahgAwnYzo7vd-PwFGuuDXn5UH6/s1280/muara-hati-nurma-paejah-adella.webp)
 
 Tanpa dirimu ‘Ku bagai perahu kayu Yang terombang-ambing di tengah Laut biru
 

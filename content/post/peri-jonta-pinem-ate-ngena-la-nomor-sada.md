@@ -33,4 +33,3 @@ categories:
 
 Title : Ate Ngena La Nomor Sada Artist : Peri Jonta Pinem Songwriter : Arel Marta Tarigan Girsang Studio : Lorong Sempit Studio
 
-![Peri Jonta Pinem - Ate Ngena La Nomor Sada](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj09x_MCRRcJbbtbAT9sSqtkjT1boYerR-AnAjMvJJ1I_S75yH2b9tRB8E-tHVME-Re-qVdjJyYzpa9pgrMNUTqZT7FXwZW49zFbd3Si-reZJcuFNDfggiMO5YcPfdsgLjh0qIJ5kGyi08AebZv8PyCE1E4kmx4zM-09oPOg3HEyJP5d6jChPjAarI9_g/s1280/peri-jonta-pinem-ate-ngena-la-nomor-sada.webp)

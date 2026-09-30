@@ -17,4 +17,3 @@ Usah disorakkan juo Bak manapiak aia di dulang Nan ka basah yo kito juo Tarimo l
 
 #Credits: Title : Basorakkan Jaso Nan Sabijo Artist : Eno Viola Song & Lyric : Jaisky Arr : Iwan Romeo ℗ & © SKY Musik Digital
 
-![Eno Viola - Basorakkan Jaso Nan Sabijo](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQwsFooDiM7nUm9XKx19cewo9RP-hb33WLW9o7JcGCOFeAujfzNUI7owGfd3mlgwFUaZFNiehD3_CY7UBpL9Z2DrB-4vJPfghTOCDvYX_898-Uubhx9ZiZuOtEoGwZ9h_upFcv_QJIMP3XlccOXI-XEfLaeIeKPZF_V3lyIUHrQZT2_GzO6CqHWksL8bzo/s1280/eno-viola-basorakkan-jaso-nan-sabijo.webp)

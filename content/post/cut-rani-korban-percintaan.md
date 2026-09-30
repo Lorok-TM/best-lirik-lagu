@@ -17,4 +17,3 @@ Lebih baik terlambat menyesali Undur diri setelah tersakiti Dari pada bertahan d
 
 #Credits: Judul : Korban Percintaan Voc : Cut Rani Auliza Cipt : Safril Saha Arr : Iwan Romeo
 
-![Cut Rani - Korban Percintaan](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoZ2M4QTPMenRz68nBBunCQRKvgAjHlu58jEzV0HiLyhMHNjnk_4UJXXNNTHlLrvdtk5k_3_834xyd9h3AnDoHBhwmKV174l0wyELfFEregA6fSKPt4HyUYGtIMhWmXLbgPzRpMlegU0FAkgg61RuU4gWhEsTIJ-cT-j78PtiTHh8GYNonIWF9TsSkA7Kl/s1280/cut-rani-korban-percintaan.webp)

@@ -35,4 +35,3 @@ Garawe lamun hayang sukses montong loba ngabangke Karna hirup mah da ciga naek t
 
 Garawe Garawe Garawe Garawe
 
-![Asep Balon - Gawe](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXteiC8_khyphenhyphenxzVedcj0elql2fXtTCOsEeUUFTrsth-8wNFiCHKmoEjGVU8idTvqFxstoLO6ARmXa8xOW6B1Sk-sMVuGdfIUdMDiPA8ewPC61UijkePNYgupZUiYsG_fFz6nvHj_SPhyphenhyphenJfYc8QFnaVzvCuX1WHOFdAnC-QU20jQwWM1dlpkFoA9m8zQxrX-/s480/asep-balon-gawe.webp)

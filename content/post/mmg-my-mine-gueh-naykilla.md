@@ -5,7 +5,6 @@ categories:
   - "indonesia"
 ---
 
-![MMG (My Mine Gueh) - Naykilla](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkYQO1Oz7mffJERlARoq_vM07tKUJ45529lk_2F9CI_UCNon-baOh1SpFXSP_Aj9OIfU8U2Kh1UVjLMabsjxhvWAlfC5oGiDe9uRk-StEx7ME5sSGW9luW_U20Pte3nVVQGxZNAS6A_ipqqVXe8u48tcuaBHRttCvHDT2PNhnzQATYUn00XUh-xVlxbBEN/s686/mmg-my-mine-gueh-naykilla.webp)
 
 Janjimu sabtu Katanya mau ketemu Kamu buka pintu Sapa kamu dengan manja Aku tau kamu ga bisa nunggu Kita berdua pergi ke entahlah Ke mana aja ya wis terserah Tapi matamu lirik cewek Eh kok langsung gerah
 
