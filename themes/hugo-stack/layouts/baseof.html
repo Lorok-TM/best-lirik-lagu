@@ -136,7 +136,10 @@ body{background-color:var(--bg-basic-node)}
 
 {{- /* EROR 404 */ -}}
 {{- if eq .Kind "404" -}}
-.not-found{margin:0 0 24px 0}
+.not-found{margin:0 0 24px 0;text-align:center}
+.not-found .page-title{text-transform:uppercase}
+.back-to-home{display:inline-block;margin:24px auto}
+.back-to-home a{display:block;background-color:#1f883d;color:#fff;border-radius:.375rem;padding:.75rem}
 {{- end -}}
 
 {{- /* HOMEPAGE-1 YOUTUBE PLAYER */ -}}
