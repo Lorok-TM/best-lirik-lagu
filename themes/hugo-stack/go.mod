@@ -1,3 +1,3 @@
-module github.com/CaiJimmy/hugo-theme-stack/v4
+module bestliriklagu.com
 
 go 1.17
