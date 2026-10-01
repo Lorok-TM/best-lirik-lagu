@@ -10,6 +10,12 @@
 {{- $currentPage := . -}}
 {{- range .Site.Menus.main -}}
 {{- $active := or (eq $currentPage.RelPermalink .URL) (or ($currentPage.HasMenuCurrent "main" .) ($currentPage.IsMenuCurrent "main" .)) -}}
-<li {{- if $active }} class='current'{{ end -}}><a href='{{ .URL }}'>{{- .Name -}}</a></li>
+<li {{- if $active }} class='current'{{ end -}}>
+{{- if $active -}}
+<span>{{- .Name -}}</span>
+{{- else -}}
+<a href='{{ .URL }}'>{{- .Name -}}</a>
+{{- end -}}
+</li>
 {{- end -}}
 </ul></nav></div></header>
