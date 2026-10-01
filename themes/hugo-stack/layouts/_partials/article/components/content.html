@@ -7,9 +7,11 @@
 {{- $c = $c | replaceRE "(<br\\s*/?>)\\s+" "${1}" -}}
 {{- trim $c "\n\r " | safeHTML -}}
 
+{{- /*
 {{- if and .IsPage (ne .Section "page") -}}
 {{- partial "baca-juga.html" . -}}
 {{- end -}}
+ */ -}}
 
 </div>
 
