@@ -2,7 +2,7 @@
 title: "Dini Kurnia - Bokong Semok"
 date: 2025-06-12
 categories: 
-  - "osing"
+  - "Osing"
 ---
 
 Aran bokong Nongko sesigar Aran alis Nanggal sepisan Kulit kuning lare Kuning langsat Gawe hang nyawang Ngelek idu gorokan asat

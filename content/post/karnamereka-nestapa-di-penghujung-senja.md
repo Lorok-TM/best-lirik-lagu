@@ -2,7 +2,7 @@
 title: "KarnaMereka - Nestapa Di Penghujung Senja"
 date: 2026-06-03
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 

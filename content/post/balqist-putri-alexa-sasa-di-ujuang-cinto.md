@@ -2,7 +2,7 @@
 title: "Balqist Putri Alexa - Sasa Di Ujuang Cinto"
 date: 2025-10-05
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Kusuiknyo si tali cinto Nan tak kunjuang batamu ujuang Den rangguikkan putuih jadinyo Sasapun datang kamudian

@@ -2,7 +2,7 @@
 title: "Rinu Tangalayuk - Toe Manda'mi Limangku feat. Tania Amba Datu"
 date: 2025-09-10
 categories: 
-  - "toraja"
+  - "Toraja"
 ---
 
 Masero langi' membuni salebu' Tongku parampoanko issi penangku Kumua masaimo kasitandanta sola dua Pantan si peladaran lan kasisolanta Masussa masannang puramo ta olai Pasiumpu'mi basseta lan rampanan kapa'

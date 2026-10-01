@@ -2,7 +2,7 @@
 title: "Dike Sabrina - Bokong Semok"
 date: 2025-07-03
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Aran bokong Nongko sesigar Aran alis Nanggal sepisan Kulit kuning lare Kuning langsat Gawe hang nyawang Ngelek idu gorokan asat

@@ -2,7 +2,7 @@
 title: "Vivied Gulo - Ga'a Omasiö"
 date: 2026-01-28
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 Faasöndru dödö silalö Götö ba wofanömö Me’öbuaö gaheu wofanö Öröiga iraonomö

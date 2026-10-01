@@ -2,7 +2,7 @@
 title: "AEON Raya 2026 - Cerita Raya"
 date: 2026-03-19
 categories: 
-  - "religi"
+  - "Religi"
 ---
 
 (Verse 1) Dulu naik bas, balik kampung jauh, Tidur bersesak, tapi hati penuh, Mak masak rendang, bau harum semerbak, Abah senyum, rindu terubat.

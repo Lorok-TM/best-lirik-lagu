@@ -2,7 +2,7 @@
 title: "Intan Saragih - Iluh Ni Boru Sikahanan"
 date: 2025-05-20
 categories: 
-  - "simalungun"
+  - "Simalungun"
 ---
 
 Diateitupa ma bamu Bapa ku na bujur Bani podah pakon tonggomu Hu bakku borumon Au borumon Borumu sikahanan on

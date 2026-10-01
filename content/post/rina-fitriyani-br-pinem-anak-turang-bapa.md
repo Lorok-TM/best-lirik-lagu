@@ -2,7 +2,7 @@
 title: "Rina Fitriyani Br Pinem - Anak Turang Bapa"
 date: 2023-02-06
 categories: 
-  - "karo"
+  - "Karo"
 ---
 
 Lirik Lagu Karo dengan judul Anak Turang Bapa yang dinyanyikan oleh Rina Fitriyani Br Pinem dan diciptakan oleh Fajar Dj Pinem dengan irama musik Pop.

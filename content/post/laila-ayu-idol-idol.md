@@ -2,7 +2,7 @@
 title: "Laila Ayu - Idol Idol"
 date: 2026-09-07
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Lila lali lali lala..

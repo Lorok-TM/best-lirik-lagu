@@ -2,7 +2,7 @@
 title: "Gadis Manis Kalimantan - Difarina Indra Adella Ft. Fendik Adella"
 date: 2026-07-19
 categories: 
-  - "banjar"
+  - "Banjar"
   - "dangdut"
 ---
 

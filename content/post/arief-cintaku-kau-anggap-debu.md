@@ -2,7 +2,7 @@
 title: "Arief - Cintaku Kau Anggap Debu"
 date: 2023-08-23
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 **Lirik Cintaku Kau Anggap Debu - Arief**

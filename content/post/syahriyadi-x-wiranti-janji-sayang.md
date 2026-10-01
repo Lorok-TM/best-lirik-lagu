@@ -2,7 +2,7 @@
 title: "Syahriyadi X Wiranti - Janji Sayang"
 date: 2022-12-26
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Syahriyadi & Wiranti dibawah naungan Nagaswara rilis single Indo berjudul "Janji Sayang" yang diciptakan oleh Tegar CS dengan irama musik Pop Dangdut, menceritakan tentang sepasang kekasih yang sama berjanji akan selalu setia menjaga keutuhan cintanya.

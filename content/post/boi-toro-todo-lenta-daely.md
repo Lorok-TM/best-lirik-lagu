@@ -2,7 +2,7 @@
 title: "Böi Törö Tödö - Lenta Daely"
 date: 2025-04-15
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 Lö khögu fa'abao dödö Lö khögu fanahigö He naitaria itörö tödö Utayaigö uolifugö

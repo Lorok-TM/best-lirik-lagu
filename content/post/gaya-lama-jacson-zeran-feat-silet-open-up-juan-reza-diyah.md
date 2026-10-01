@@ -2,7 +2,7 @@
 title: "Gaya Lama - Jacson Zeran Feat Silet Open Up, Juan Reza & Diyah"
 date: 2025-04-19
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 Aduh ade nona e Mo putar bale sampe mana Aduh ade nona e Kaka ni pemain lama

@@ -2,7 +2,7 @@
 title: "Difarina Indra Adella - Kawitaning Sinawang Feat. Fendik Adella"
 date: 2025-07-03
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Koyo ngene yen nandhang loro asmoro Jroning nolo mangambar arum puspito Dahat rasaku sesandhing marang sliramu Dyah ayu memanike jantungku

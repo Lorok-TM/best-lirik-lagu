@@ -2,7 +2,7 @@
 title: "Turiama Ba Worato - Doli Doli Trio"
 date: 2024-07-26
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 Fondrege Fondrege wa'afökhö he ina Ba danö zotanö Ha fa'erege dödö Falukha bongi ma'ökhö He afökhö mutaögö manö

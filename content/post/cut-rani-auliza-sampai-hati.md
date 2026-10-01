@@ -2,7 +2,7 @@
 title: "Cut Rani Auliza - Sampai Hati"
 date: 2025-09-02
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Sungguh tiada ku sangka Dirimu kembali padanya Sedangkan aku yang selalu ada Mengobati lukamu karenanya

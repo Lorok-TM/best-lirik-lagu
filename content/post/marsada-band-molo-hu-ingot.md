@@ -2,7 +2,7 @@
 title: "Marsada Band - Molo Hu Ingot"
 date: 2025-11-14
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Molo huingot Molo huingot ma sude akka naung salpu i Molo sai hurimangi di rohakki Olo menetek ilu sian mata Dang tarhatahon be tahe Ai nungga salpu be sude lungun nai tahe

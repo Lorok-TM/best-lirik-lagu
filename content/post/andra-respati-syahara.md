@@ -2,7 +2,7 @@
 title: "Andra Respati - Syahara"
 date: 2022-08-12
 categories: 
-  - "melayu"
+  - "Melayu"
   - "slow-rock"
 ---
 

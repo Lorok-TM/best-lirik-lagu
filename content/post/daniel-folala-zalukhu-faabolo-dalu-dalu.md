@@ -2,7 +2,7 @@
 title: "Daniel Folala Zalukhu - Fa'abòlò Dalu Dalu"
 date: 2025-12-10
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 Enaò u'ila bòi òbini'ò Òfatunò manò naso zabao dòdò Òbe ginòtò da tafaulugò khigu Ta'osara'ò naso dimba dòdò sagakhòkhò si wede wede'ò

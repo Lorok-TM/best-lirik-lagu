@@ -2,7 +2,7 @@
 title: "Bondalem Ponjok Batu - Semaya Koplo"
 date: 2024-09-25
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 Amonto ban bli nyayangin Nanging tusing taen meaji Pontag pantig bli berkorban Nanging tetep kepalasang

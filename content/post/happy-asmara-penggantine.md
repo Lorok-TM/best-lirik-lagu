@@ -2,7 +2,7 @@
 title: "Happy Asmara - Penggantine"
 date: 2026-09-14
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 Udane ora terang-terang Koyok atimu sing kelaran Rasah mbok tangisi Semua sudah terjadi Ono aku ning kene setyo ngancani

@@ -2,7 +2,7 @@
 title: "Sri Fayola - Nan Tido Manahan Hati"
 date: 2025-04-22
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Bialah da hujan tangah hari Nak nyo tumbuah sirumpuik banto Bialah da denai surang diri Kok jo ambo mungkin sangsaro Iyo iyo mungkin sangsaro Iyo kok jo ambo mungkin sangsaro

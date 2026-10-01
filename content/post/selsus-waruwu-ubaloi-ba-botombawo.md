@@ -2,7 +2,7 @@
 title: "Selsus Waruwu - Ubaloi Ba Botombawo"
 date: 2023-06-12
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 Lirik Lagu Nias dengan judul Ubaloi Ba Botombawo yang dinyanyikan oleh Selsus Waruwu dan diciptakan oleh Ama Rini Mendr dengan irama musik Pop.

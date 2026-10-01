@@ -2,7 +2,7 @@
 title: "Ajeng Febria - Ngamen 2"
 date: 2026-07-07
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 Mak iki anakmu prawan Wiwit mbiyen ono ing perantauan Iling ngiwangi neng kantin sekolahan Telung sasi mak aku urung bayaran Mak dongamu mandhi tenan diijabahi marang gusti pengeran

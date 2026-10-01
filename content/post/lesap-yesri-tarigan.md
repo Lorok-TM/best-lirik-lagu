@@ -2,7 +2,7 @@
 title: "Lesap - Yesri Tarigan"
 date: 2024-08-05
 categories: 
-  - "karo"
+  - "Karo"
 ---
 
 Adi ningku gundari turiken Kai ibas ukurndu Ula rusur lagu la mehuli Ibahanndu bangku

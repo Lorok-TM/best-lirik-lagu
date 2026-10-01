@@ -2,7 +2,7 @@
 title: "Indah Delvia - Saarah Satujuan"
 date: 2025-05-02
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Sayuik sayuik panantian Uda jauah tak tampak dimato Siang baangan malam batanggang Co itu lah nan denai rasokan Angan angan lah manarawang Hati denai lah mulai tak tanang

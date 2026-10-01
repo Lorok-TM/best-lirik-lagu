@@ -2,7 +2,7 @@
 title: "Niken Salindry - Kepaling"
 date: 2025-06-10
 categories: 
-  - "campursari"
+  - "Campursari"
 ---
 
 Kadung riko ngerti tuluse welas Hang ono ring dasar ati iki Sing kiro riko tego ngelarani Natoni hang koyo gedigi

@@ -2,7 +2,7 @@
 title: "Pinki Prananda - Nan Disayang Manyakiti"
 date: 2025-06-24
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Lai sasuai... pintak nan di hati Harok sabimbiang Jo adiak Ka palaminan.. Kironyo denai alah malapeh hao Lah bajadi sajo adiak Jo urang

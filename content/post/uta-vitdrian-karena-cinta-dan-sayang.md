@@ -2,7 +2,7 @@
 title: "Uta Vitdrian - Karena Cinta Dan Sayang"
 date: 2026-01-26
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Karena cinta aku masih disini Walaupun hatimu tak dapat kumilliki

@@ -2,7 +2,7 @@
 title: "Ridawana Daulay - Abu Di Mata"
 date: 2023-03-06
 categories: 
-  - "tapsel"
+  - "Tapsel"
 ---
 
 Lirik Lagu Tapsel dengan judul Abu Di Mata yang dinyanyikan oleh Ridawana Daulay dan diciptakan oleh Masputra Pasaribu dengan irama musik Slow Rock.

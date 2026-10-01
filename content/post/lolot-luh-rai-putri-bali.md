@@ -2,7 +2,7 @@
 title: "Lolot - Luh Rai Putri Bali"
 date: 2024-05-07
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 **Lirik Luh Rai Putri Bali - Lolot**

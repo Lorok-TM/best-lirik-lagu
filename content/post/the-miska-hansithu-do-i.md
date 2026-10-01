@@ -2,7 +2,7 @@
 title: "The Miska - Hansithu Do I"
 date: 2025-09-11
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Huboto do ito Lomos do rohami mamereng au Alai di tingki rap hita ito mamungka padan Na uli do mulana

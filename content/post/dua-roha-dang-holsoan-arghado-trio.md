@@ -2,7 +2,7 @@
 title: "Dua Roha Dang Holsoan - Arghado Trio"
 date: 2026-07-15
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Pajumpa hita tikki na parjolo Hona dangol au na hancit Modal angan-angan do arta ta Lao mandalani ngoluon

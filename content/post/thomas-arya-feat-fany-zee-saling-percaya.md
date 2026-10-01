@@ -2,7 +2,7 @@
 title: "Thomas Arya feat. Fany Zee - Saling Percaya"
 date: 2023-11-25
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 Thomas Arya & Fany Zee bersama RW Pro rilis single Melayu berjudul "Saling Percaya" yang diciptakan oleh Rino, menceritakan tentang sepasang kekasih yang saling percaya dan sama menjaga keutuhan cinta mereka.

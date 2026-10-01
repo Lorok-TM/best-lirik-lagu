@@ -2,7 +2,7 @@
 title: "Ridho Zulma - Kok Indak Labiah Bialah Samo"
 date: 2025-04-23
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Alah samak jalan nan ka parak Ambiak sabik ndeh tuan tarangi juo Dicaliak urang dicaliak pulo ka badan Usah bakato sakahandak hati sajo

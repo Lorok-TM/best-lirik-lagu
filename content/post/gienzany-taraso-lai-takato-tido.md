@@ -2,7 +2,7 @@
 title: "Gienzany - Taraso Lai Takato Tido"
 date: 2025-05-17
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Bamulo tumbuah nyo raso Ulah acok basuo Dek rupo uda nan mandayo Ba angan taraiah di tangan

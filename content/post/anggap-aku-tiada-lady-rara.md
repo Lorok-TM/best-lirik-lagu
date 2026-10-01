@@ -2,7 +2,7 @@
 title: "Anggap Aku Tiada - Lady Rara"
 date: 2026-07-08
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Merana hati engkau tinggalkanku

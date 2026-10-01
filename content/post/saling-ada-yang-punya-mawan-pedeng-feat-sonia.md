@@ -2,7 +2,7 @@
 title: "Saling Ada Yang Punya - Mawan Pedeng Feat Sonia"
 date: 2025-01-30
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Saling Ada Yang Punya yang dibawakan oleh Mawan Pedeng Ft Sonia.

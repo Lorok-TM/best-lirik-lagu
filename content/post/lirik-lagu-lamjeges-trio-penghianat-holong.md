@@ -2,7 +2,7 @@
 title: "Lamjeges Trio - Penghianat Holong"
 date: 2021-06-17
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Title : Penghianat Holong Artist : Lamjeges Trio Songwriter : Serli Napitu Category : Lagu Pop Batak

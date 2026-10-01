@@ -2,7 +2,7 @@
 title: "Gustrian Geno - Dinding Pemisah"
 date: 2025-09-25
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Berakhir kisah cinta selama ini Tak mungkin lagi untuk aku jalani Aku yang hina di mata orang tuamu Biarlah kini deru air mata Mengalir deras di ujung perpisahan Agar kau tau ku sangat mencintaimu Tak 'kan terlupa meski kita harus berpisah

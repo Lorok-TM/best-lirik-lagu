@@ -2,7 +2,7 @@
 title: "Indro Tanjung - Lah Mabuak Cinto feat. Elsa Mayora"
 date: 2025-09-05
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Tasirok sirok diak Darah di dalam dado diak Sajak batamu pandang Hati rasah pangana cewang

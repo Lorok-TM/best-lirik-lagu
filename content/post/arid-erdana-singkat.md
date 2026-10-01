@@ -2,7 +2,7 @@
 title: "Arid Erdana - Singkat"
 date: 2025-06-12
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Sesingkat inikah hubungan kita kasih Telah lama bersama dan jadi asing lagi Dan menyapa pun enggan walaupun berpapasan Kita saling diam

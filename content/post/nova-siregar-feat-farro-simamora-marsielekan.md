@@ -2,7 +2,7 @@
 title: "Nova Siregar feat. Farro Simamora - Marsielekan"
 date: 2025-05-25
 categories: 
-  - "tapsel"
+  - "Tapsel"
 ---
 
 Dung hu tanda cintamu Taraso ma abang holongmu Borgo na pe manusuk Songon ombun manyogot di rohakku

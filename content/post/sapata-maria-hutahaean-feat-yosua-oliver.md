@@ -2,7 +2,7 @@
 title: "Sapata - Maria Hutahaean Feat Yosua Oliver"
 date: 2025-03-26
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Sapata yang dibawakan oleh Maria Hutahaean Ft Yosua Oliver.

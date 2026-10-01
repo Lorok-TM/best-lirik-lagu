@@ -2,8 +2,7 @@
 title: "Rujak Uleg - Anggun Winata Adella"
 date: 2026-07-14
 categories: 
-  - "dangdut"
-  - "java"
+  - "Jawa"
 ---
 
 

@@ -2,7 +2,7 @@
 title: "Arief - Kurangnya Apa"
 date: 2023-02-18
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Arief rilis single Melayu berjudul "Kurangnya Apa" yang diciptakan oleh Erix Davino, menceritakan tentang seseorang yang berulang kali tersakiti hatinya, punya kekasih yang tak menghargainya dan hanya membuat luka perasaannya.

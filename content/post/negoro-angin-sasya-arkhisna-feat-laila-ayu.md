@@ -2,7 +2,7 @@
 title: "Negoro Angin - Sasya Arkhisna feat. Laila Ayu"
 date: 2026-07-14
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 

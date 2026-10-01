@@ -2,7 +2,7 @@
 title: "Zia Riza - Ending Yang Hilang"
 date: 2026-09-19
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Kujaga hatinya begitu lama Aku dibutakan cinta Mengapa semesta pertemukan kita Jika tak berakhir bersama Perih ya rasanya

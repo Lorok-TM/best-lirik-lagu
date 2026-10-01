@@ -2,7 +2,7 @@
 title: "Tual Perbual - Bejeng Ginting"
 date: 2025-04-15
 categories: 
-  - "karo"
+  - "Karo"
 ---
 
 Enda sada cerita Sekalak anak kuta Kerina nge tempa angkana La tersimbak katana

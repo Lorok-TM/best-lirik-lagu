@@ -2,7 +2,7 @@
 title: "Halilintar Morgen - Darah Taraso Baku"
 date: 2025-06-24
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Di ujuang malam nan sunyi Tasintak lalok dek ulah mimpi Rasonyo adiak alah bainai di ujuang jari

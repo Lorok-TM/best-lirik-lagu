@@ -2,7 +2,7 @@
 title: "Cut Zuhra - Retak Hatiku"
 date: 2026-09-07
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Kau hadir di saat aku terluka Kau datang sebagai penawar Gagal aku dalam merangkai Cinta Kau Rangkul aku ke pelukan mu

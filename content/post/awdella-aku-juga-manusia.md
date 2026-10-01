@@ -2,7 +2,7 @@
 title: "Awdella - Aku Juga Manusia"
 date: 2026-01-24
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Bolehkah ku meminta Tuk yang terakhir kali Hati yang patah berkali kali Belajar mencintai setengah mati

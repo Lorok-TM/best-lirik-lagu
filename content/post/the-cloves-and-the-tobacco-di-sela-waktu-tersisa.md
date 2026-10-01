@@ -2,7 +2,7 @@
 title: "The Cloves And The Tobacco - Di Sela Waktu Tersisa"
 date: 2026-02-16
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Gelap merayap Senjata habis tuk mentari tua Sunyi di ujung kota Petang terdiam Putar waktu pun seperti tertahan Heningnya mencekam

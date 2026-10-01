@@ -2,7 +2,7 @@
 title: "Valdy Nyonk - Layu"
 date: 2025-06-03
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Setangkai bunga yang kuberikan Kini tlah rapuh layu di tangan Hatiku pilu tandus dan gersang Bagaikan debu yang bertebaran

@@ -2,7 +2,7 @@
 title: "Akka Poda - Duo Espos feat. Putra Pasaribu"
 date: 2026-07-04
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Unang ho mandele di ngolumi Unang sai mangapian marnida jolma i Ula ma si ulaonmi Pos roham di ngolumi Martangiang ho tu Tuhan i Sotung lilu haporseaonmi

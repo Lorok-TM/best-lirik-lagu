@@ -2,7 +2,7 @@
 title: "Fany Zee - Asmara Yang Tak Sempurna"
 date: 2023-03-31
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 Lirik Lagu Melayu dengan judul Asmara Yang Tak Sempurna yang dinyanyikan oleh Fany Zee dan diciptakan oleh Aprilian dengan irama musik Slow Rock.

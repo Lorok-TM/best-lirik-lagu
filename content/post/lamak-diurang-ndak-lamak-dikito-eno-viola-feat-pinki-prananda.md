@@ -2,7 +2,7 @@
 title: "Lamak Diurang Ndak Lamak Dikito - Eno Viola Feat Pinki Prananda"
 date: 2025-04-12
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Indak babaleh raso nyo cinto Tasangkuik di angan angan idak tasampaikan Denai sangko adik surang Nyatonyo lah di ganggam urang Talambek hati nak manyampaikan parasaan Denai sangko adiak surang Nyatolah di ganggam urang Malang cinto ko taraso malang

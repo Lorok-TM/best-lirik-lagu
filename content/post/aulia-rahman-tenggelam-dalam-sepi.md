@@ -2,7 +2,7 @@
 title: "Aulia Rahman - Tenggelam Dalam Sepi"
 date: 2026-01-14
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Ku coba tuk melupakanmu Di saat dirimu kini bersamanya Kenangan yang tak mungkin kembali Terdiam di dalam ruang sunyi

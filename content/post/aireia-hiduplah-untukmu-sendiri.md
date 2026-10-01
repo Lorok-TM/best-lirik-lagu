@@ -2,7 +2,7 @@
 title: "Aireia - Hiduplah Untukmu Sendiri"
 date: 2026-01-03
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Pernah kau coba bertahan Saat semua menjauh perlahan Suara hati pun tak terdengar Tapi kau tetap melangkah sabar

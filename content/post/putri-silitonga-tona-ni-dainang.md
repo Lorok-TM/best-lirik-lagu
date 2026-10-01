@@ -2,7 +2,7 @@
 title: "Putri Silitonga - Tona Ni Dainang"
 date: 2025-09-21
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Marbisuk songon ulok Marroha songon darpati ma ho amang Togu hasangapon i tu joloni damang dainang mon

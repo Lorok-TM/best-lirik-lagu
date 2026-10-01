@@ -2,7 +2,7 @@
 title: "Dian Anic - Nanggung Resikone"
 date: 2021-05-15
 categories: 
-  - "tarling"
+  - "Tarling"
 ---
 
 ## Lirik Lagu Tarling “Nanggung Resikone” by Dian Anic

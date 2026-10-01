@@ -2,7 +2,7 @@
 title: "Orang Sebaik Aku - Tri Suaka"
 date: 2025-03-22
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Tak pernah ku sangka engaku berdusta Menghianatiku yang tulus mencinta Kau tikam diriku dengan manis tuturmu Kau anggap aku tak tahu

@@ -2,7 +2,7 @@
 title: "Indro Tanjung - Cinto Taniayo Feat. Eno Viola"
 date: 2025-06-22
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Den nanti, adiak den nanti Babulan, tahun bagantu, Lah acok bana, hati taibo, Dek bayangan, acok marupo

@@ -2,7 +2,7 @@
 title: "Aprilian - Lebih Baik Sendiri"
 date: 2025-10-02
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 Sudah jangan menangis lagi Usah kau halangi ku pergi Sering kali kau menyakiti Dan ku maafkan lagi

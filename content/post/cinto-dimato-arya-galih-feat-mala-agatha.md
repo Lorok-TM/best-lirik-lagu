@@ -2,7 +2,7 @@
 title: "Cinto Dimato - Arya Galih Feat Mala Agatha"
 date: 2025-03-23
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Cinto Dimato yang dibawakan oleh Arya Galih Ft Mala Agatha.

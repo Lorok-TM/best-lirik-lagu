@@ -2,7 +2,7 @@
 title: "Jen Manurung - Proses Tuhan"
 date: 2025-11-23
 categories: 
-  - "rohani"
+  - "Rohani"
 ---
 
 Semua ada waktunya Semua akan tiba pada saatnya Semua ini proses Tuhan Percayalah akan janjinya

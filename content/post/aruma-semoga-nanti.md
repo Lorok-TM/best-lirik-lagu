@@ -2,7 +2,7 @@
 title: "Aruma - Semoga Nanti"
 date: 2026-09-05
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Setiap laki-laki yang mendekat Ku sambut dengan curiga Ku pasti menjaga jarak

@@ -2,7 +2,7 @@
 title: "Ikke Nurjanah - Melepasmu"
 date: 2025-06-19
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Bebaskan Hatimu Teriring doa ku.. Untukmu

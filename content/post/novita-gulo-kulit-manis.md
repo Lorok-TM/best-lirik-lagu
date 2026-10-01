@@ -2,7 +2,7 @@
 title: "Novita Gulö - Kulit Manis (Olmar's / Yas Zalukhu)"
 date: 2025-12-21
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 Oya zinanö sisökhi Bahawarö ni’a uli Yaia zotöi kulit manis Somohua na no oköli Yaia zotöi kulit manis Somohua na no oköli

@@ -2,7 +2,7 @@
 title: "Laila Ayu - Diari Cinta"
 date: 2026-09-14
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Ku tulis namamu di dalam diari cintaku Semua cerita telah kususun rapi Kenangan bersamamu Cerita tentang kita Kini berakhir semua

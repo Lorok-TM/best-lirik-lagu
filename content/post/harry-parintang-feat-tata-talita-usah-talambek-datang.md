@@ -2,7 +2,7 @@
 title: "Harry Parintang feat. Tata Talita - Usah Talambek Datang"
 date: 2026-07-19
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Lah habih maso musim balalu Sampai pabilo denai manunggu Usahlah ragu oi adiak sayang Nanti kan denai untuak maminang

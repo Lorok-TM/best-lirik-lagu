@@ -2,7 +2,7 @@
 title: "Cantika Nuswantoro Adella - Damar Opo Lilin"
 date: 2026-09-04
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Digowo nong endi Digawe kelendi Suwi bebarengan Nono kejelasan

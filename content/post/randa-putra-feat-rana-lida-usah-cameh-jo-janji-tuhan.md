@@ -2,7 +2,7 @@
 title: "Randa Putra Feat. Rana LIDA - Usah Cameh Jo Janji Tuhan"
 date: 2025-04-29
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Bamacam rintangan nan alah kito lalui.. Susah jo sanang paik hiduik kito rasokan..

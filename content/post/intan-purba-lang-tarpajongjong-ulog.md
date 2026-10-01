@@ -2,7 +2,7 @@
 title: "Intan Purba - Lang Tarpajongjong Ulog"
 date: 2025-12-12
 categories: 
-  - "simalungun"
+  - "Simalungun"
 ---
 
 Marubah ma au marubah demi ham Indo janji mu hubakku na dopin Harap do uhurhin ipasasittong ham do janjimu Pengorbanan lang be habilangan In ma na gabe buktini holongkin bamu

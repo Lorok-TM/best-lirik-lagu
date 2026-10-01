@@ -2,7 +2,7 @@
 title: "Angelista Silaban feat. Dompak Sinaga - Paloas Ma Au Hasian"
 date: 2025-10-28
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Paloas ma au hasian Mamereng lambok ni bohim Paloas ma au hasian Mamereng simalolongmi

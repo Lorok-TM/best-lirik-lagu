@@ -2,7 +2,7 @@
 title: "Shepin Misa - Dia Atau Kamu"
 date: 2022-09-21
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 ## Lirik Lagu Dia Atau Kamu - Shepin Misa

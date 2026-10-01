@@ -2,7 +2,7 @@
 title: "Tata Talita - Lamo Manahan Hati"
 date: 2023-03-26
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Tata Talita bersama SKY Musik rilis single dengan lirik dalam bahasa Minangkabau berjudul "Lamo Manahan Hati" yang artinya "Lama Menahan Hati", menceritakan tentang seseorang yang sudah lama menahan rasa sakit hati karena kekasihnya menyakiti perasaannya.

@@ -2,8 +2,7 @@
 title: "Cantika Nuswantoro Adella - Ngamen 4"
 date: 2025-10-22
 categories: 
-  - "dangdut"
-  - "java"
+  - "Jawa"
 ---
 
 Aku pancen wong ra nduwe Jare simbok aku seng ayu dewe Ijasahku smp, pengalaman ora nduwe Paling penak rabi wae

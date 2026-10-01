@@ -2,7 +2,7 @@
 title: "Yelse - Rindu Semakin Dalam"
 date: 2025-07-26
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 Sepi semakin dalam rindu hati ini Lama tidak bersua dirimu oh sayang Kini ku sendiri rindu berpanjangan

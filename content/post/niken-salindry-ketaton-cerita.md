@@ -2,7 +2,7 @@
 title: "Niken Salindry - Ketaton Cerita"
 date: 2026-09-05
 categories: 
-  - "campursari"
+  - "Campursari"
 ---
 
 Sumilir angin wengi Nggegowo roso Lintang e wus sirno katutup mego

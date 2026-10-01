@@ -2,7 +2,7 @@
 title: "Difarina Indra Adella - Stecu Stecu"
 date: 2025-05-12
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Pandang pertama, lia’ nona langsung suka Nona salting, stecu abis buang muka Sa mabuk ko pe senyum tiap hari sampe fly Datang dalam mimpi inga nona manis lai Nona stecu stelan cuek aduhai

@@ -2,7 +2,7 @@
 title: "Arfa Arnold - Ibuku Malaikatku"
 date: 2022-09-18
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Title : Ibuku Malaikatku Artist : Arfa Arnold Songwriter : Ajhay Pasma Production : WAN Pro Category : Lagu Pop Melayu

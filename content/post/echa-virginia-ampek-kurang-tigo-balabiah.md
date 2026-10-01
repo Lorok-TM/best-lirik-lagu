@@ -2,7 +2,7 @@
 title: "Echa Virginia - Ampek Kurang Tigo Balabiah"
 date: 2025-05-13
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Ampek kurang tigo balabiah Dima ka cukuik da etongan nyo Dima ka cukuik da etongan nyo Ciek lukah nan ciek aia Induak juo nan taniayo Induak juo nan taniayo

@@ -2,7 +2,7 @@
 title: "Mas Joko - Niken Salindry"
 date: 2025-02-23
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Aduh aduh pipiku dicium mas joko Duh aduh bibirku disentuh mas joko I love you katanya Kayu yung katanya Sekujur tubuhku merinding jadinya

@@ -2,7 +2,7 @@
 title: "Maulana Wijaya - Jika Bukan Cinta"
 date: 2025-08-12
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Di dalam tangis engkau tersenyum Seakan tertawakan diriku Dari pancaran sinaran matamu Tiada kesedihan di hatimu

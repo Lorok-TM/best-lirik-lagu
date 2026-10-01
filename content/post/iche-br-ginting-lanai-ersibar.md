@@ -2,7 +2,7 @@
 title: "Iche Br Ginting - Lanai Ersibar"
 date: 2023-03-26
 categories: 
-  - "karo"
+  - "Karo"
 ---
 
 Lirik Lagu Karo dengan judul Lanai Ersibar yang dinyanyikan oleh Iche Br Ginting dan diciptakan oleh Inka Maya Br Gurusinga dengan irama musik Pop.

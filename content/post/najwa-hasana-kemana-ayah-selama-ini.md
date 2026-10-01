@@ -2,7 +2,7 @@
 title: "Najwa Hasana - Kemana Ayah Selama Ini"
 date: 2025-11-21
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Datang setelah pergi minta tuk diakui Kemana ayah selama ini Saat butuh kasih sayang ayah pergi menghilang Lebih memilih hidup senang Anak orang yang ayah besarkan Anak sendiri diabaikan Nasib kami tak dipedulikan Tak pernah ayah menanyakan kabar Apakah kami sudah makan

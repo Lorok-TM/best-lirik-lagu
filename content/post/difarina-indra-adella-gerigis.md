@@ -2,7 +2,7 @@
 title: "Difarina Indra Adella - Gerigis"
 date: 2025-05-18
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Gerigis aduh udan gerigis Soyo suwi anter gluduke Apuwo riko nangis Opo tah hang dirasakno

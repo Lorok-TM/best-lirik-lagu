@@ -2,7 +2,7 @@
 title: "Yahman Laia - Atagedo Wanegu feat Hermita Laia"
 date: 2021-10-14
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 ## Lirik Lagu Nias ”Atagedo Wanegu“ by Yahman Laia ft. Hermita Laia

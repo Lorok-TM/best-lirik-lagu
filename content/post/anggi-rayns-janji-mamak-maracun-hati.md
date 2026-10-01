@@ -2,7 +2,7 @@
 title: "Anggi Rayns - Janji Mamak Maracun Hati"
 date: 2023-10-19
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Anggi Rayns bersama Minangswara rilis single dengan lirik dalam bahasa Minangkabau berjudul "Janji Mamak Maracun Hati" yang diciptakan oleh Erwin Agam.

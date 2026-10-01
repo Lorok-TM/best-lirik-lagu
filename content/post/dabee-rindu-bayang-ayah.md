@@ -2,7 +2,7 @@
 title: "Dabee - Rindu Bayang Ayah"
 date: 2022-08-28
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Title : Rindu Bayang Ayah Artist : Dabee Songwriter : Jaisky Production : SKY Musik Digital Category : Lagu Pop Minang

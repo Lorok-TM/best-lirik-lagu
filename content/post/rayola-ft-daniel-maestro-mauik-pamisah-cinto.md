@@ -2,7 +2,7 @@
 title: "Rayola ft Daniel Maestro - Mauik Pamisah Cinto"
 date: 2022-11-30
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Lirik Lagu Minang dengan judul Mauik Pamisah Cinto yang dinyanyikan oleh Rayola Feat. Daniel Maestro dan diciptakan oleh Rino Cancers dengan irama musik Pop.

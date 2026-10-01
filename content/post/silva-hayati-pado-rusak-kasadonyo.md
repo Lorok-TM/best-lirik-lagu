@@ -2,7 +2,7 @@
 title: "Silva Hayati - Pado Rusak Kasadonyo"
 date: 2025-05-31
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Kok den jawek kato nan manikam hati Mungkin kito amuah cakak badunsanak Mangko elok denai malangkah pai Bia kampuang den tinggakan Marantau denai manjarak

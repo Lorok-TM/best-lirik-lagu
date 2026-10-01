@@ -2,7 +2,7 @@
 title: "Fira Cantika - Bukit Berbunga"
 date: 2025-07-17
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Di bukit indah berbunga Kau mengajak aku kesana Memandang alam sekitarnya Karena senja telah tiba

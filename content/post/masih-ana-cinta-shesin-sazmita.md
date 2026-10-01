@@ -2,7 +2,7 @@
 title: "Masih Ana Cinta - Shesin Sazmita"
 date: 2024-10-29
 categories: 
-  - "tarling"
+  - "Tarling"
 ---
 
 Lagu Masih Ana Cinta karya ciptaan Lee Hien yang dibawakan oleh Shesin Sazmita merupakan salah satu repetoar musik tarling yang secara mendalam merefleksikan dinamika asmara, keteguhan rasa, dan konflik batin dalam relasi manusia. Secara filosofis, latar belakang cerita dalam lagu berbahasa Jawa dialek Cirebon-Indramayu ini menyoroti sisa-sisa keterikatan emosional dan harapan yang masih bertahan di tengah keretakan hubungan atau situasi pelik yang menghadang pasangan kekasih. Karakteristik lirik gubahan Lee Hien mengeksplorasi dualisme psikologis antara logika untuk melepaskan diri dan desakan emosi yang menegaskan bahwa perasaan cinta itu sesungguhnya belum sepenuhnya padam. Melalui aransemen khas tarling dangdut yang mendayu namun memiliki ritme ketukan yang tegas, karya ini tidak sekadar berfungsi sebagai media hiburan melankolis, melainkan menjadi representasi sosiologis masyarakat pesisir Pantura dalam mengekspresikan kerentanan perasaan, kepasrahan, sekaligus ketahanan mental saat menghadapi ujian komitmen.

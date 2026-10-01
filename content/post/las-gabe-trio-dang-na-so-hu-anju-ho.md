@@ -2,7 +2,7 @@
 title: "Las Gabe Trio - Dang Na So Hu Anju Ho"
 date: 2026-06-12
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 

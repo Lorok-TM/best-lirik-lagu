@@ -2,7 +2,7 @@
 title: "Wis Lisuh - Laily Suci"
 date: 2025-03-09
 categories: 
-  - "osing"
+  - "Osing"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Wis Lisuh yang dibawakan oleh Laily Suci.

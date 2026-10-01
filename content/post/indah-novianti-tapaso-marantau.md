@@ -2,7 +2,7 @@
 title: "Indah Novianti - Tapaso Marantau"
 date: 2025-09-21
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Tapaso den marantau Jauah mambaok diri Dari pado dikampuang acok bana baibo hati Yo alah biaso sibansaik badan tasisiah Tiado dunsanak nan tibo untuak baragiah

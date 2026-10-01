@@ -2,7 +2,7 @@
 title: "Tawoe - Ramlan Yahya Feat. Bergek"
 date: 2024-08-02
 categories: 
-  - "aceh"
+  - "Aceh"
 ---
 
 Buleun di mana kau kini Sunyi diriku sepi merana Buleun tampakkan wajahmu Kelam gadoh trang seunelhoh mata

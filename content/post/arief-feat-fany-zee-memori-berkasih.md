@@ -2,7 +2,7 @@
 title: "Arief feat. Fany Zee - Memori Berkasih"
 date: 2025-10-10
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 Telah ku cuba meminta kasihmu Biar menjadi ikatan abadi Namun apa daya terlerai janji kita Mungkin takdir yang meminta Namun apa daya terlerai janji kita Mungkin takdir yang meminta

@@ -2,7 +2,7 @@
 title: "The Boys Trio - Si Doli Mangalului Rokkap"
 date: 2026-09-05
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Nungnga tung tarpaima-ima Ho si rokkap nungnga didia Sai hu paima laos so marnatarida Atik andigan do au bahagia

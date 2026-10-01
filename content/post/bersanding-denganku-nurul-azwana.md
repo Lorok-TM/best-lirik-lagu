@@ -2,7 +2,7 @@
 title: "Bersanding Denganku - Nurul Azwana"
 date: 2024-12-26
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Adakah kisah yang lebih indah Dari perjalanan hidup di dunia Saat kau ucap janji yang mulia Air mata jatuh menyentuh kalbuku

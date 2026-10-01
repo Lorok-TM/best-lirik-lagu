@@ -2,7 +2,7 @@
 title: "Kamal Mariano - Carito Ni Sada Ayah"
 date: 2023-04-19
 categories: 
-  - "tapsel"
+  - "Tapsel"
 ---
 
 Lirik Lagu Tapsel dengan judul Carito Ni Sada Ayah yang dinyanyikan oleh Kamal Mariano dan diciptakan oleh Top Simamora dengan irama musik Pop Dangdut.

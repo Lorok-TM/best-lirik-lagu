@@ -2,7 +2,7 @@
 title: "Niken Salindry - Sabar"
 date: 2025-10-22
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Sabendino rasane rakaruan Ngombe kopi legi neng rasane pait tenan Mangan mangut lele rasane kok podo tempe Opo koyo ngene rasane wong ora ndue

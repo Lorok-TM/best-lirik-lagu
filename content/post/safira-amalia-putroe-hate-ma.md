@@ -2,7 +2,7 @@
 title: "Safira Amalia - Putroe Hate Ma"
 date: 2025-09-04
 categories: 
-  - "aceh"
+  - "Aceh"
 ---
 
 Si putik mancang Hai bungong keumang wahé ee haté Nyoe katrôh watè Ôh aneuk judô neuteuka Seulangké ka neuba bak poma Lé judoe gata Geulakè gata Hai jantông haté meujudô dua

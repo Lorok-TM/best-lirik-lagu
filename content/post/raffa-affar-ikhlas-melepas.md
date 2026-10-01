@@ -2,7 +2,7 @@
 title: "Raffa Affar - Ikhlas Melepas"
 date: 2026-09-05
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Sayang maaf belum sempurna ku jadi kekasihmu Maaf jika tak bisa menjadi seperti inginmu Yang ku mau tak pernah ada kata untuk menyerah Tapi tetap kau pilih jalan untuk kita berpisah

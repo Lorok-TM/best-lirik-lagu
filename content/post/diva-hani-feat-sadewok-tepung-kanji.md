@@ -2,7 +2,7 @@
 title: "Diva Hani feat. Sadewok - Tepung Kanji"
 date: 2025-10-22
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Mas, aku pengen cerito Tentang kita berdua Wong tuwoku ora setuju Yen kowe lan aku bersatu

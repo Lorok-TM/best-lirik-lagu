@@ -2,7 +2,7 @@
 title: "Kam Bas Pusuhku - Laira Munthe"
 date: 2024-10-17
 categories: 
-  - "karo"
+  - "Karo"
 ---
 
 Ermutik bulung taruk Buahna jambe Ulanai kena surut mama karo Enggo jadi ate nande

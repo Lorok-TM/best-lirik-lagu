@@ -2,7 +2,7 @@
 title: "Kesempatan Kedua - Anik Arnika"
 date: 2024-07-11
 categories: 
-  - "tarling"
+  - "Tarling"
 ---
 
 **Berikut lirik Kesempatan Kedua yang dinyanyikan oleh Anik Arnika.**

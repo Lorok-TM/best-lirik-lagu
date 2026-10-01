@@ -2,7 +2,7 @@
 title: "Yelse - Mana Janjimu"
 date: 2023-03-18
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Lirik Lagu Melayu dengan judul Mana Janjimu yang dinyanyikan oleh Yelse dan diciptakan oleh Wandi Bireuen dengan irama musik Pop.

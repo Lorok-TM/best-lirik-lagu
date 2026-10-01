@@ -2,7 +2,7 @@
 title: "Siti Aliyah - Murub"
 date: 2025-11-09
 categories: 
-  - "tarling"
+  - "Tarling"
 ---
 
 Dedonga awan lan bengi Usaha tiba tangi Najan lara tek lakoni Kula ikhlas demi mimpi

@@ -2,7 +2,7 @@
 title: "Thomas Arya - Putri Kayangan"
 date: 2021-05-17
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 Thomas Arya dibawah naungan label Elta Record rilis single Melayu berjudul "Putri Kayangan" yang diciptakan oleh Jeffri Lubuak, menceritakan tentang seseorang yang masih terkenang sama indahnya kisah asmara dimasa lampau, kini ia berharap sang dambaan hati datang kembali padanya.

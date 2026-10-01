@@ -2,7 +2,7 @@
 title: "Rayola - Barek Malapeh Cinto"
 date: 2025-07-25
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Indak ka mungkin hati ka lain Bilo indak di pamainkan Tapi kini uda lah bamain hati Apo lah dayo den surang

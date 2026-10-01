@@ -2,7 +2,7 @@
 title: "David Iztambul - Sauah Putuih"
 date: 2023-01-13
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Lirik Lagu Minang dengan judul Sauah Putuih yang dinyanyikan oleh David Iztambul. Lagu ini diciptakan oleh Era Darwis dengan irama musik Pop.

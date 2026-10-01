@@ -2,7 +2,7 @@
 title: "Angkasa - Sampai Memutih"
 date: 2025-11-24
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Aku telah menemukan cinta sejati Yang sembuhkan aku dari luka sangat dalam Kini kau mengisi hatiku Yang lama telah melayang tanpa arah

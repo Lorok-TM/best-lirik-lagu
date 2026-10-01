@@ -2,7 +2,7 @@
 title: "Wawa Naela - Masak Di Batang"
 date: 2025-10-14
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Panek panek manjuluak nan buah indak lareh Sadang arek ditampuak dima munkin ka lapeh Jan harok bana yo bana jo diri denai ndeh kanduang Cari lah sajo yo sajo cinto yang lain

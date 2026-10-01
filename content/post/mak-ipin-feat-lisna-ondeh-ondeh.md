@@ -2,7 +2,7 @@
 title: "Mak Ipin Feat. Lisna - Ondeh Ondeh"
 date: 2022-10-13
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Lirik Lagu Minang dengan judul Ondeh Ondeh yang dinyanyikan oleh Mak Ipin feat Lisna dan diciptakan oleh Eddy Palangki. Situs ini tidak menyediakan chord dasar / kunci gitar lagu ini. Halaman ini hanya menuliskan syair / liriknya saja. Berikut dibawah ini lyrics lengkapnya. Semoga lagu ini dapat menghibur anda.

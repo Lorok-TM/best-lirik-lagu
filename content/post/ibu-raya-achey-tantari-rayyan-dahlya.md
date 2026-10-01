@@ -2,7 +2,7 @@
 title: "Ibu Raya - Achey, Tantari, Rayyan & Dahlya"
 date: 2026-03-20
 categories: 
-  - "religi"
+  - "Religi"
 ---
 
 Pagi-pagi, di Aidilfitri Subuh lagi, dah bunyi kuali Ayam direbus, rendang dikacau Untuk makan, dihidang Untuk jiran, ditapau

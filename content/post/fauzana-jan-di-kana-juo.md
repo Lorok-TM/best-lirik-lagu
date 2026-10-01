@@ -2,7 +2,7 @@
 title: "Fauzana - Jan Di Kana Juo"
 date: 2024-05-09
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Taniaik manjauah jan salahkan Tadoroang bapisah jan tagamang Uda bana uda surang Nan mambuek hati denai taluko

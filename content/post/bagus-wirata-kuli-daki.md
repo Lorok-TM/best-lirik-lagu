@@ -2,7 +2,7 @@
 title: "Bagus Wirata - Kuli Daki"
 date: 2025-07-09
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 Adi jegeg sayangang beli Sampunang je adi nyeselin Adi nganggon beli kurenan Kanggoang sebatas monean Hidup e jani

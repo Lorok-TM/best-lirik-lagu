@@ -2,7 +2,7 @@
 title: "Cokop Dibudinah - Winda Nefira"
 date: 2025-02-17
 categories: 
-  - "madura"
+  - "Madura"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Cokop Dibudinah yang dibawakan oleh Winda Nefira.

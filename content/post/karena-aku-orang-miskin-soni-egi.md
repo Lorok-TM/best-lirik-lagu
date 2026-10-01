@@ -2,7 +2,7 @@
 title: "Karena Aku Orang Miskin - Soni Egi"
 date: 2024-07-20
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Sejak awal kita bertemu Waktu itu di masa dulu Telah aku ceritakan padamu Tentang siapa diriku

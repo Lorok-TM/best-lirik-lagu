@@ -2,7 +2,7 @@
 title: "Alfina Braner - Kok Ndak Ka Jadi Manga Bacinto"
 date: 2024-03-04
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 **Lirik Kok Ndak Kajadi Manga Bacinto - Alfina Braner**

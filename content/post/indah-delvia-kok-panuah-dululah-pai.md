@@ -2,7 +2,7 @@
 title: "Indah Delvia - Kok Panuah Dululah Pai"
 date: 2025-09-13
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Badulu bakudian dalam hiduik Tu alah biaso Nan panuah barangkeklah Hati denai indak ka ibo

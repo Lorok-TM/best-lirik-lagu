@@ -2,7 +2,7 @@
 title: "Silva Hayati - Di Denai Uda Juo"
 date: 2025-08-13
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Dek hanyolah uda yo nan denai sayang Dimalah ka mungkin denai tarimo Ameh babungkah pitih babilang Dari urang nan iyo nio pulo

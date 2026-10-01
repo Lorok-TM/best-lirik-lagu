@@ -2,7 +2,7 @@
 title: "Daniela Sengalang - Manis Dimulut Pait Diati"
 date: 2026-09-19
 categories: 
-  - "iban"
+  - "Iban"
 ---
 
 Lebuh ku bekenang ke pengerindu Nuan lalu ngelimpang ke jaku Ngasuh atiku enda temu tuju Semampai ngasuhku irau selalu

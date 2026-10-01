@@ -2,7 +2,7 @@
 title: "Thomas Arya - Kau Perulah Perasaanku"
 date: 2026-01-07
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 Kelak kau kan tahu rasa kecewa Merana putus ditinggal cinta Suatu masa jiwamu meronta Ketika mimpimu dibuang Orang yang kau sayang

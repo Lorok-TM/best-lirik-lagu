@@ -2,7 +2,7 @@
 title: "Randa Putra - Taluko Tapi Cinto Juo"
 date: 2025-09-07
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Alah di hilang hilang tapi marupo Di kubua dalam dalam tabudua juo Cinto manyakik hati sudah di paganti Tapi nan takana nan mungkia janji

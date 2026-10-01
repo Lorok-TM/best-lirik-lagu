@@ -2,7 +2,7 @@
 title: "Roje Firdaus - Tanyo Hati Surang"
 date: 2025-08-21
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Sabalum diukua ditimbang Gadang jo barek kasalahan Usah cinto langsuang sajo kito putuihkan

@@ -2,7 +2,7 @@
 title: "Syahravi feat. Rinni - Salah Paham Lagi"
 date: 2026-09-22
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Salah lagi Belum tau maksud hatiku Jangan terlalu cepat Kamu Apa yang kamu tau Mungkin bukanlah yang sebenarnya

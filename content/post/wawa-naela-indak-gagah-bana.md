@@ -2,7 +2,7 @@
 title: "Wawa Naela - Indak Gagah Bana"
 date: 2025-06-19
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Uda ndak gagah bana tapi hati ko kanai Yo kanai hati denai ruponyo Lah acok den tahan jan sampai mandalam Yo samakin yo dalam juo

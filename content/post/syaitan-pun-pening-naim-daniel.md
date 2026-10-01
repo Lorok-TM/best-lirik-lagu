@@ -2,7 +2,7 @@
 title: "Syaitan Pun Pening - Naim Daniel"
 date: 2025-02-02
 categories: 
-  - "malaysia"
+  - "Malaysia"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Syaitan Pun Pening yang dibawakan oleh Naim Daniel.

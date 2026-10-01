@@ -2,7 +2,7 @@
 title: "Pepy Grace - Takana Juo feat. Fed Barber"
 date: 2025-10-04
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Takana takana juo Tabayang tabayang juo Takana takana juo Tabayang tabayang juo

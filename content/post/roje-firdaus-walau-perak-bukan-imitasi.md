@@ -2,7 +2,7 @@
 title: "Roje Firdaus - Walau Perak Bukan Imitasi"
 date: 2026-04-04
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 

@@ -2,7 +2,7 @@
 title: "Tuhan Gembalaku - Sari Simorangkir"
 date: 2025-01-15
 categories: 
-  - "rohani"
+  - "Rohani"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Tuhan Gembalaku yang dibawakan oleh Sari Simorangkir.

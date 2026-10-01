@@ -2,7 +2,7 @@
 title: "Thomas Arya - Tiada Nampak Gambaran"
 date: 2025-09-18
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 Tiada nampak gambaran Cinta darimu yang amat ku tunggu Suram rasanya bayangan Akan keindahan hidup bersamamu

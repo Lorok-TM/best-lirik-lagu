@@ -2,7 +2,7 @@
 title: "Ridho Zulma Feat Puspa Indah - Hilang Budi Dek Ulah Pitih"
 date: 2025-04-30
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Jaso pitih rang sabuik sabuik Jaso budi hanyuik di lauik Baitu kini banyak tasuo Ulah pitih budi binaso

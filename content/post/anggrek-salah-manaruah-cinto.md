@@ -2,7 +2,7 @@
 title: "Anggrek - Salah Manaruah Cinto"
 date: 2025-09-09
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Alah batahun denai mamandam Raso cinto nan makin mandalam Namun denaipun manyadari Tak mungkin kabasatu Dek uda didalam ganggaman Urang lain

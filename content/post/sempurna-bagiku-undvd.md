@@ -2,7 +2,7 @@
 title: "Sempurna Bagiku - UNDVD"
 date: 2025-04-13
 categories: 
-  - "rohani"
+  - "Rohani"
 ---
 
 Dengan anugerah Kau memandangku Aku yang hina Kau buat berharga KematianMu menghidupkanku KebenaranMu gantikan pelanggaranku

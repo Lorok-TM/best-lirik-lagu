@@ -2,7 +2,7 @@
 title: "Sharul Kamal - Emas"
 date: 2025-09-05
 categories: 
-  - "malaysia"
+  - "Malaysia"
 ---
 
 Bertahun lama ku menunggu Tersembunyi di balik ragu Mencari cahaya di ruang yang gelita

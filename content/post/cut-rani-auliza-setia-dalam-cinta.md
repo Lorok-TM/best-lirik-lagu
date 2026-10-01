@@ -2,7 +2,7 @@
 title: "Cut Rani Auliza - Setia Dalam Cinta"
 date: 2025-10-10
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Seuntai kasih yang engkau beri Akan ku isi dengan cinta Bahagia kini sungguh kurasa Setelah lama kita berpisah

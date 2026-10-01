@@ -2,7 +2,7 @@
 title: "The Boys Trio - Aha Salahku"
 date: 2025-07-05
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Lam sai hupikkiri side Nadenggan na hubaheni tu ho Nungnga percuma be Hulehon holong ki saleleng on

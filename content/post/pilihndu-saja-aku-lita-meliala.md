@@ -2,7 +2,7 @@
 title: "Pilihndu Saja Aku - Lita Meliala"
 date: 2025-01-28
 categories: 
-  - "karo"
+  - "Karo"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Pilihndu Saja Aku yang dibawakan oleh Lita Meliala.

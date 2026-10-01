@@ -2,7 +2,7 @@
 title: "Tungkek Mambaok Rabah 2 - Vicky Koga"
 date: 2025-02-08
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Tungkek Mambaok Rabah 2 yang dibawakan oleh Vicky Koga.

@@ -2,7 +2,7 @@
 title: "Bentar Lagi Sayang - Indahkus"
 date: 2026-07-16
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Bilang cuma temen kok jadi demen? Katanya enggak baper kok jadi caper Please stop lyin' to me  lelah aku ngejer Tapi tiap aku sentuh kamu langsung geter (ah)

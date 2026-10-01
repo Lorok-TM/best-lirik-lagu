@@ -2,7 +2,7 @@
 title: "Hendro Sinambela - Saleleng Na"
 date: 2025-05-20
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Molo boi mamillit au nian Ho ma na laho gabe rokkaphi Ai nungga jumpang au na hulului i Ooo ito haholongan

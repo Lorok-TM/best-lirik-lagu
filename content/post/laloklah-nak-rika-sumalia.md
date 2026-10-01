@@ -2,7 +2,7 @@
 title: "Laloklah Nak - Rika Sumalia"
 date: 2025-01-13
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Laloklah Nak yang dibawakan oleh Rika Sumalia.

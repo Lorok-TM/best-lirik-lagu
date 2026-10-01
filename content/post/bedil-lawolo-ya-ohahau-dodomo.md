@@ -2,7 +2,7 @@
 title: "Bedil Lawolo - Ya Ohahau Dödömö"
 date: 2025-05-22
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 Me mböröta uawaö khömö Mu ufaehagö li faomasi soroi ba dödö Lö ötimba lö ötimbagö Hawa omuso dödö me öwaö liu meluo daö O hahau dödögu hulö zanöndra Anaa ba firö

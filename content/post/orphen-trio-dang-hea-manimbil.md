@@ -2,7 +2,7 @@
 title: "Orphen Trio - Dang Hea Manimbil"
 date: 2026-09-05
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 O inang ni gellenghu Boasa sai asing hatam Molo tung tarsor ma au Mulak di tonga borngin i Murhing ma bohimi lao mangadopi au Dang olo ho jonok di lambungki

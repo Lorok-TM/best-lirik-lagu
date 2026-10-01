@@ -2,7 +2,7 @@
 title: "Selsus Waruwu - Utete Uwuwudo Furi"
 date: 2021-12-22
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 ## Lirik Lagu Nias ”Utete Uwuwudo Furi“ by Selsus Waruwu

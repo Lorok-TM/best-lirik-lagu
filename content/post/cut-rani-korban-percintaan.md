@@ -2,7 +2,7 @@
 title: "Cut Rani - Korban Percintaan"
 date: 2025-08-07
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Manis cinta yang ku terima Hanya lah luka yang kan menjadi ujungnya Indahnya di awal pertemuan kasih dan cinta Aku yang selalu menjadi korban Percintaan

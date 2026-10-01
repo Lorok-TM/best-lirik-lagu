@@ -2,7 +2,7 @@
 title: "Niken Salindry - Denpasar Arjosari"
 date: 2025-07-06
 categories: 
-  - "campursari"
+  - "Campursari"
 ---
 
 Tanggal 30 Oktober dek wingi SMS mu isih ono HP iki Tak simpen ono njero folder Pribadi Trus tak woco saben awan saben bengi

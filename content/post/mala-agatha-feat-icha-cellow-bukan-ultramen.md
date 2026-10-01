@@ -2,7 +2,7 @@
 title: "Mala Agatha Feat Icha Cellow - Bukan Ultramen"
 date: 2025-04-30
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Aku bukan peramal Yang bisa tau isi hatimu Tapi aku pemuja cinta Kurang tidur banyak mimpi

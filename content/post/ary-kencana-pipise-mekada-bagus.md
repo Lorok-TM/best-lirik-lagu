@@ -2,7 +2,7 @@
 title: "Ary Kencana - Pipise Mekada Bagus"
 date: 2023-03-13
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 Lirik Lagu Bali dengan judul Pipise Mekada Bagus yang dinyanyikan dan diciptakan oleh Ary Kencana.

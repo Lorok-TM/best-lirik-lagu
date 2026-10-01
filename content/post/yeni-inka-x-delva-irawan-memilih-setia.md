@@ -2,7 +2,7 @@
 title: "Yeni Inka X Delva Irawan - Memilih Setia"
 date: 2025-12-08
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Sukamu sukaku juga Dukamu dukaku juga Bertahun kita bersama Mengarungi suka duka asmara

@@ -2,7 +2,7 @@
 title: "Ressa - Haruskah Aku Relakan"
 date: 2025-09-01
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Mengapa ini terjadi Saat hatiku tlah memilihmu Di saat rindu ini hanyalah untuk dirimu Duhai sayang

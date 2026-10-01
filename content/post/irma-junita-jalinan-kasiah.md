@@ -2,7 +2,7 @@
 title: "Irma Junita - Jalinan Kasiah"
 date: 2025-12-20
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Jampuik lah ayam tuan Bakukuak acok di pintu Jampuik pamenan tuan Di hati sadang katuju

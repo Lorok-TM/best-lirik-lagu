@@ -2,7 +2,7 @@
 title: "Cinta Membawa Derita - Irwan Krisdiyanto Feat Diandra Ayu"
 date: 2025-01-24
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Cinta Membawa Derita yang dibawakan oleh Irwan Krisdiyanto Ft Diandra Ayu.

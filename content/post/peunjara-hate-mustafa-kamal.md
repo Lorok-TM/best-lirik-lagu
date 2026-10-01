@@ -2,7 +2,7 @@
 title: "Peunjara Hate - Mustafa Kamal"
 date: 2025-02-12
 categories: 
-  - "aceh"
+  - "Aceh"
 ---
 
 Bungong cedah lam taman Indah loen pandang meunan keuh adinda Sabe bungong lon siram Hajat lam hate bek sampe mala

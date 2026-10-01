@@ -2,7 +2,7 @@
 title: "Difa Awalia - Badan Panek Upah Ndak Dapek"
 date: 2026-01-07
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Badan lah panek upah ndak dapek Kamano untuang ka dikadukan Harok mananti jariah taubek Paluah lah kariang nan di badan Harok mananti jariah taubek Paluah lah kariang nan di badan

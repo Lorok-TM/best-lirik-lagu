@@ -2,7 +2,7 @@
 title: "Frans Ariesta - Api Dalam Ilalang"
 date: 2026-03-09
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Ditiup angin bermandi hujan Burung di awan Janganlah bermain dengan pasangan Kekasih orang Rayuan manis memang menggoda Menyesal di akhirnya Rayuan manis memang menggoda Menyesal di akhirnya

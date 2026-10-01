@@ -2,7 +2,7 @@
 title: "Tercipta Untukku - Laila Ayu feat. Gerry Mahesa"
 date: 2026-07-09
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 

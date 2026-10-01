@@ -2,7 +2,7 @@
 title: "Dwi Nugraha - Pelih Abucu"
 date: 2025-05-01
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 Saje buke anake ngorahang Benehe siu sing meaji uliang pelih abucu Kudang peluhne be mepeseng Apang state ngidaang ngae adi seneng

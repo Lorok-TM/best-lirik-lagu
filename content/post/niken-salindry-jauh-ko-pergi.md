@@ -2,7 +2,7 @@
 title: "Niken Salindry - Jauh Ko Pergi"
 date: 2026-07-17
 categories: 
-  - "campursari"
+  - "Campursari"
 ---
 
 Sa ceritakan pada bintang bintang Ko su hilang di malam panjang Su tarada lagi yang panggil sa sayang

@@ -2,7 +2,7 @@
 title: "Ulvazilla - Tamse Rumoh feat. Nazar Shah Alam"
 date: 2025-08-01
 categories: 
-  - "aceh"
+  - "Aceh"
 ---
 
 Gleh ie calok mangat tamano Sigoe goe bak ta rah muka bang oi Gaseh gob cok di dalam jaro So han moe tijoh ie mata o bang

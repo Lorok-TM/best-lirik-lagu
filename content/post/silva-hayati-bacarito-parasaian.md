@@ -2,7 +2,7 @@
 title: "Silva Hayati - Bacarito Parasaian"
 date: 2023-02-24
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Silva Hayati bersama Dubai MusicLine rilis single dengan lirik dalam bahasa Minangkabau berjudul "Bacarito Parasaian" yang artinya "Bercerita Penderitaan", menceritakan tentang nasib seorang anak yang menjadi korban rumah tangga atas persetikaian orang tuanya.

@@ -2,7 +2,7 @@
 title: "Rayola ft Daniel Maestro - Adiak Nan Denai Cinto"
 date: 2023-03-19
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Lirik Lagu Minang dengan judul Adiak Nan Denai Cinto yang dinyanyikan oleh Rayola Feat. Daniel Maestro dan diciptakan oleh Rino Cancers dengan irama musik Pop.

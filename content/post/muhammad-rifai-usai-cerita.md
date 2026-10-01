@@ -2,7 +2,7 @@
 title: "Muhammad Rifai - Usai Cerita"
 date: 2025-11-27
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Telah usai sudah cerita Cinta yang telah lama Kini berakhir penyesalan

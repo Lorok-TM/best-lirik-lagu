@@ -2,7 +2,7 @@
 title: "Arid Erdana - Dapek Pinjaik Hilang Kapak"
 date: 2025-07-28
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Cinto denai ka adiak indak tabateh Walau pun kini tapuak alun babaleh Denai sabakan hati jo panantian Bia lah taraso harok harok cameh

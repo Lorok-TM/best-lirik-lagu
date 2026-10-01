@@ -2,7 +2,7 @@
 title: "Jika Aku Harus Pergi - Rheka Restu"
 date: 2024-07-07
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 **Lirik Jika Aku Harus Pergi yang dinyanyikan oleh Rheka Restu.**

@@ -2,7 +2,7 @@
 title: "Tabita Sipahutar - Tano Toba"
 date: 2024-05-03
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 **Lirik Tano Toba - Tabita Sipahutar**

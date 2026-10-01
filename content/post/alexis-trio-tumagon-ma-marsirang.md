@@ -2,7 +2,7 @@
 title: "Alexis Trio - Tumagon Ma Marsirang"
 date: 2025-07-29
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Soada ito nahuparbaga sian ho Nungnga di ose ho padan ta i naung ta pudun i Pulut do rohami marroha roha ho Molo tundal sian jolo ki

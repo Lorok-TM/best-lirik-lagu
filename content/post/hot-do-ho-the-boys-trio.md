@@ -2,7 +2,7 @@
 title: "Hot Do Ho - The Boys Trio"
 date: 2026-07-19
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Dang tarhatahon bagas ni holongki Hot tu ho do i tu ho sasada ho Nang pe magargar akka dolok i Dang na lao muba holongki sian ho

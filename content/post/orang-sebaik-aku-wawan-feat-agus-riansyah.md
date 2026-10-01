@@ -2,7 +2,7 @@
 title: "Orang Sebaik Aku - Wawan Feat Agus Riansyah"
 date: 2025-04-13
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Tak pernah ku sangka engaku berdusta Menghianatiku yang tulus mencinta Kau tikam diriku dengan manis tuturmu Kau anggap aku tak tahu

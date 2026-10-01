@@ -2,7 +2,7 @@
 title: "Dandy Barakati X Melandy Jacobus - Karemous Beking Soe"
 date: 2023-12-26
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 Sia sia tada jaga pa ngana Mar apa daya ngana dya so dapa Mo babale ulang so nya da peluang Karna nga so bukang tape jalang pulang

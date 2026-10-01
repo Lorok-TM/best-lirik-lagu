@@ -2,7 +2,7 @@
 title: "Anakku - Sherly Br Sitepu"
 date: 2024-08-21
 categories: 
-  - "karo"
+  - "Karo"
 ---
 
 Anakku buah baraku Anakku arapenku Me bias bias si sitik e Geluh geluh ndarami temen Mbage anakku Adi geluh di perlajangen

@@ -2,7 +2,7 @@
 title: "Tagaduah - Difa Awalia"
 date: 2026-09-05
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Tagaduah hati bilo takana janji Tak lamak makan sajak uda tinggakan Tabayang bayang maso sabimbiang tangan Antah bilo ka ta ulang

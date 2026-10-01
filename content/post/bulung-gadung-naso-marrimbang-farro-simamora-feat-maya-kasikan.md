@@ -2,7 +2,7 @@
 title: "Bulung Gadung Naso Marrimbang - Farro Simamora Feat Maya Kasikan"
 date: 2025-01-27
 categories: 
-  - "tapsel"
+  - "Tapsel"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Bulung Gadung Naso Marrimbang yang dibawakan oleh Farro Simamora Ft Maya Kasikan.

@@ -2,7 +2,7 @@
 title: "Yas Zalukhu - Fofo Katitira Langi"
 date: 2025-08-09
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 Hawa o’sofu sofu mbua sami Ya’ia mbua nduria ba bua manggis He na mo doi he na aito guli Ba o’sinia bawa ami sibai

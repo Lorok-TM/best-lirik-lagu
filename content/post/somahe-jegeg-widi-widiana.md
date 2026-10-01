@@ -2,7 +2,7 @@
 title: "Somahe Jegeg - Widi Widiana"
 date: 2025-06-21
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 Dot meliang iluh pupur Apang tusing jegeg iluh kanti luntur Dot meliang iluh lipstik Nang edengang kenyem iluhe abedik Umah bedeg bakat gantungin kise Ngelah somah ne jegeg Beli sing mekite kije

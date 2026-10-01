@@ -2,7 +2,7 @@
 title: "Lai Ka Iyo Bana - Fauzana"
 date: 2025-01-02
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Lah jariah buruang dek tabang Taragak hinggok di dahan Hati nan dulu bimbang Kini raso raso ado harapan Hati nan dulu bimbang Kini raso raso ado harapan

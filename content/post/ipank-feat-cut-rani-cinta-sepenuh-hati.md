@@ -2,7 +2,7 @@
 title: "Ipank feat. Cut Rani - Cinta Sepenuh Hati"
 date: 2025-11-19
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Kasih dengarkan aku Ku lantunkan lagu untukmu

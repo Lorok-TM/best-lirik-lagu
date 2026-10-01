@@ -2,7 +2,7 @@
 title: "Danum Mata Manyaksi Himang - Sulastrie"
 date: 2024-10-15
 categories: 
-  - "dayak"
+  - "Dayak"
 ---
 
 Hubungan je jadi imbina Salama banyelu nyelu Lembut ndai putus bagetu Metuh surung kanahuangkuh

@@ -2,7 +2,7 @@
 title: "Ayu Nadaho - Tatap Sabar"
 date: 2026-09-18
 categories: 
-  - "dayak"
+  - "Dayak"
 ---
 
 Ampeatn aku mikiri' diri' nyu Talama' nian jauh man kao Hoo oo

@@ -2,7 +2,7 @@
 title: "Pilihan Siduri - Bagus Parijata"
 date: 2024-12-31
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Pilihan Siduri yang dibawakan oleh Bagus Parijata.

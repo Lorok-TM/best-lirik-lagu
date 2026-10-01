@@ -2,7 +2,7 @@
 title: "Vanny Vabiola - Bayang Wajahmu"
 date: 2025-12-21
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Langkahku terasa hampa Menyusuri jalan yang sepi Membawa ingatan lama Pada janji yang kau tinggalkan Dulu kau genggam tanganku Seolah tak kan berlalu Kini hanya sunyi Yang menjawab rinduku

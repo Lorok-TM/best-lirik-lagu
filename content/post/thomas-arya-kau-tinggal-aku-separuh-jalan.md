@@ -2,7 +2,7 @@
 title: "Thomas Arya - Kau Tinggal Aku Separuh Jalan"
 date: 2023-05-08
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 Lirik Lagu Melayu dengan judul Kau Tinggal Aku Separuh Jalan yang dinyanyikan oleh Thomas Arya dan diciptakan oleh Aprilian dengan irama musik Slow Rock.

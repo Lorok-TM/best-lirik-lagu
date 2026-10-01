@@ -2,7 +2,7 @@
 title: "S'nada Trio - Ufofanöi Guro (Yunus Gea)"
 date: 2025-12-20
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 Andö wa uwuwu tete Lö ufadou sa'ae lahe No atage dödögu ba wangehene Tobönö khi ginötö zi walu fakhe

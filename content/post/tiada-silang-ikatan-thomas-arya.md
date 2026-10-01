@@ -2,7 +2,7 @@
 title: "Tiada Silang Ikatan - Thomas Arya"
 date: 2025-03-07
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Tiada Silang Ikatan yang dibawakan oleh Thomas Arya.

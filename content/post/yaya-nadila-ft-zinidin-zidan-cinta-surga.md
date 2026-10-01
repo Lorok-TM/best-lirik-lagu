@@ -2,7 +2,7 @@
 title: "Yaya Nadila ft Zinidin Zidan - Cinta Surga"
 date: 2023-10-04
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Yaya Nadila & Zinidin Zidan rilis single berjudul "Cinta Surga", menceritakan tentang sepasang cinta yang merasa bahagia karena mereka telah berjodoh, dan akan selalu membina rumah tangga dengan sebaik baiknya.

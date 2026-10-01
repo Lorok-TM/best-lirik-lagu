@@ -2,7 +2,7 @@
 title: "Hanya Yesus Satu SatuNya - Symphony Worship"
 date: 2025-02-04
 categories: 
-  - "rohani"
+  - "Rohani"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Hanya Yesus Satu SatuNya yang dibawakan oleh Symphony Worship.

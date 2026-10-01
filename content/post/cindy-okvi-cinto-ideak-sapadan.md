@@ -2,7 +2,7 @@
 title: "Cindy Okvi - Cinto Ideak Sapadan"
 date: 2025-09-01
 categories: 
-  - "kerinci"
+  - "Kerinci"
 ---
 
 Sanangnyo hatai jiko badeang disayang ruwo Namunnyo berubeah cintoa ngan harus bupisah Rakau uhang ngan ideak bupunyo Sadonkan kayo bamandai harato Tasiseh cintoa karno kito ideak sapadan

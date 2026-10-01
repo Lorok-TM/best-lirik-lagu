@@ -2,7 +2,7 @@
 title: "Motor Sebelah - Ulfa Tanjung / Yanti Bapuk"
 date: 2024-09-02
 categories: 
-  - "tarling"
+  - "Tarling"
 ---
 
 Kula ana lanange Statuse dhemenan Najan ana sing duwe Durung resmi kawinan

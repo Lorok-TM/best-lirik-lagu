@@ -2,7 +2,7 @@
 title: "Ody Malik, Erwin Chan - Lah Licin Kaniang Dek Basujuik dan Artinya"
 date: 2023-10-03
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Ody Malik & Erwin Chan bersama Nadi Musik rilis single dengan lirik dalam bahasa Minangkabau berjudul "Lah Licin Kaniang Dek Basujuik" yang artinya "Kening Sudah Licin Karena Bersujud", menceritakan tentang seorang muslim sudah giat beribadah namun masih berkepribadian buruk atau bertingkah laku yang tidak baik. Untuk lebih jelasnya silahkan Anda baca terjemahan lirik lagunya berada dibawah.

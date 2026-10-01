@@ -2,7 +2,7 @@
 title: "Aprilian feat. Fany Zee - Anugrah Cinta"
 date: 2023-11-11
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Aprilian & Fany Zee bersama RW Pro rilis single Melayu berjudul "Anugrah Cinta" yang diciptakan oleh Ajhay Pasma, menceritakan tentang sepasang kekasih merasa bahagia atas cinta yang mereka miliki membuat hidupnya menjadi lebih berarti.

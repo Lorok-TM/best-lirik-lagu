@@ -2,7 +2,7 @@
 title: "Sugih Ulian Warisan - Ajik Artawan"
 date: 2024-07-06
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 **Lirik Sugih Ulian Warisan - Ajik Artawan**

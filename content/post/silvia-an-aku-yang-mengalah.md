@@ -2,7 +2,7 @@
 title: "Silvia An - Aku Yang Mengalah"
 date: 2023-06-26
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Sudah lama kita hidup bersama Merajut menganyam tali cinta Namun kini semuanya sirna Karna aku orang tak punya

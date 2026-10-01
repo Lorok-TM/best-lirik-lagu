@@ -2,7 +2,7 @@
 title: "Tama Boys - Moru Moru Saotik"
 date: 2023-03-24
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Lirik Lagu Batak dengan judul Moru Moru Saotik yang dinyanyikan oleh Tama Boys dan diciptakan oleh Jhon Kenedy Nadeak dengan irama musik Pop.

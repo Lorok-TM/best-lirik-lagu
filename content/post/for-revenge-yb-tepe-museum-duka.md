@@ -2,7 +2,7 @@
 title: "for Revenge, YB, Tepe - Museum Duka"
 date: 2026-09-04
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Di tengah riuh Di sela gegap gempita yang beradu dan ingar bingar yang tak lekas meredup Terulang lagi Kudengar lagi Nama yang kuyakini menunggu

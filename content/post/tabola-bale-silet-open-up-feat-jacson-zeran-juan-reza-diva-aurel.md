@@ -2,7 +2,7 @@
 title: "Tabola Bale - Silet Open Up Feat Jacson Zeran, Juan Reza, Diva Aurel"
 date: 2025-04-03
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 Lia ade nona makin gaga Bikin kaka jadi suka Dulu ade rambu kepang dua Sekarang rambu merah merah

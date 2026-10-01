@@ -2,7 +2,7 @@
 title: "Bunga - Tiara Amora"
 date: 2026-07-26
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Merana kini aku merana Kekasih tercinta entah ke mana Sendiri kini ku dibalut sepi Tiada tempat tuk bercurah lagi

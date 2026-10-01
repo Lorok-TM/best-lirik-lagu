@@ -2,7 +2,7 @@
 title: "Ray Peni - Disyong Disyong dan Artinya"
 date: 2023-05-23
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 Lirik Lagu Bali dengan judul Disyong Disyong yang dinyanyikan dan diciptakan oleh Ray Peni.

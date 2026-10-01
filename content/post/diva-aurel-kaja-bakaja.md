@@ -2,7 +2,7 @@
 title: "Diva Aurel - Kaja Bakaja"
 date: 2025-07-27
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Hujan nan indak labek bana Taganang aia di halaman Sakik nan indak sakik bana Sansai di lapiak katiduran

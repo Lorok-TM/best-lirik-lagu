@@ -2,7 +2,7 @@
 title: "Tak Ingin Sendiri - Yeni Inka"
 date: 2026-07-07
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 

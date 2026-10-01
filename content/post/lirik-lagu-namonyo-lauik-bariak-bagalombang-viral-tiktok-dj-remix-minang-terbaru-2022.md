@@ -2,9 +2,9 @@
 title: "Namonyo Lauik Bariak Bagalombang - Viral TikTok Dj Remix Minang Terbaru"
 date: 2022-01-13
 categories: 
-  - "minang"
+  - "Minang"
   - "remix"
-  - "tiktok"
+  - "Tiktok"
 ---
 
 ## Lirik Lagu Minang “Namonyo Lauik Bariak Bagalombang” by DJ Novi Thailand (BA MUSIK DJ REMIX)

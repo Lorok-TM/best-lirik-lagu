@@ -2,7 +2,7 @@
 title: "Ajeng Febria - Kari Cerito"
 date: 2026-07-05
 categories: 
-  - "osing"
+  - "Osing"
 ---
 
 Kahanan hang koyo iki Riko sing biso nerimo Abote gudo nyekso batin rogo Riko mutusno ninggalno

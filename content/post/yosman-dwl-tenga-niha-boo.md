@@ -2,7 +2,7 @@
 title: "Yosman Dwl - Tenga Niha Bo'o"
 date: 2025-10-27
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 Ero maökhö löfa'asökhi zikhalamö Momangerau manö mae zigöna fökhö sokolingö

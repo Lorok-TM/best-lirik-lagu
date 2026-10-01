@@ -2,7 +2,7 @@
 title: "Ovhi Firsty feat David Iztambul - Bia Luko Den Ubek Surang"
 date: 2023-05-11
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Lirik Lagu Minang dengan judul Bia Luko Den Ubek Surang yang dinyanyikan oleh Ovhi Firsty Ft. David Iztambul dan diciptakan oleh David Iztambul dengan irama musik Pop.

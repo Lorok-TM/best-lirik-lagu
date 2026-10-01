@@ -2,7 +2,7 @@
 title: "Mergem Mardeh - Tony Aldiansyah"
 date: 2024-08-31
 categories: 
-  - "madura"
+  - "Madura"
 ---
 
 Tak nyangka buleh dek ka dikah Dikah mak tegeh adinah lokah Taresnah dek dikah epalober Sampek aing matah buleh gegger

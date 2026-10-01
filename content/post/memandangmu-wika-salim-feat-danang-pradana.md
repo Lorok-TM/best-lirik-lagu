@@ -2,7 +2,7 @@
 title: "Memandangmu - Wika Salim Feat Danang Pradana"
 date: 2025-03-25
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Memandangmu yang dibawakan oleh Wika Salim Ft Danang Pradana.

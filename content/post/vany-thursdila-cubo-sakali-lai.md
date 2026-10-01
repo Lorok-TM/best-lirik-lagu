@@ -2,7 +2,7 @@
 title: "Vany Thursdila - Cubo Sakali Lai"
 date: 2026-08-18
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Alun juo pueh Uda manyakiti denai Lah cando ko dek manahan tangih Raso ka den tumpahkan Aia mato nan ko Tapi masih den tahan juo

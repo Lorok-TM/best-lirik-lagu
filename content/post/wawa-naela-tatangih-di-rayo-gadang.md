@@ -2,7 +2,7 @@
 title: "Wawa Naela - Tatangih Di Rayo Gadang"
 date: 2026-02-27
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Lai bana taragak pulang Ka kampuang di rayo gadang Basaba badan dulu Dek indak dapek mambana Mamintak ka induak samang Hati lah dibaluik rindu

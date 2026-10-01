@@ -2,7 +2,7 @@
 title: "Laila Rahmi - Kaba Takambang Alek Tak Datang"
 date: 2023-05-02
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Lirik Lagu Minang dengan judul Kaba Takambang Alek Tak Datang yang dinyanyikan oleh Laila Rahmi dan diciptakan oleh Rozac Tanjung dengan irama musik Pop.

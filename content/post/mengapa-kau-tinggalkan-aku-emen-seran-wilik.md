@@ -2,7 +2,7 @@
 title: "Mengapa Kau Tinggalkan Aku - Emen Seran Wilik"
 date: 2025-04-16
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Verse : Aku yang dulu engkau sayangi Mengapa kau tinggal pergi? Di manakah janji yang suci? Yang katamu tak akan berbagi

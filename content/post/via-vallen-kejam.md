@@ -2,7 +2,7 @@
 title: "Via Vallen - Kejam"
 date: 2023-02-10
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Via Vallen dibawah naungan label Ascada Musik rilis single berjudul "Kejam" yang diciptakan oleh Dyrga Dadali, menceritakan tentang seseorang yang begitu tega mengkhianati kekasihnya, hingga sang kekasih merasa sakit hati karena telah ditinggalkannya.

@@ -2,7 +2,7 @@
 title: "Ayu Amanda - Cinto Denai Bukan Gurauan"
 date: 2024-04-04
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 **Lirik Cinto Denai Bukan Gurauan - Ayu Amanda**

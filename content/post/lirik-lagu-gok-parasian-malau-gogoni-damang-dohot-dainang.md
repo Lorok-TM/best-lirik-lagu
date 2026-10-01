@@ -2,7 +2,7 @@
 title: "Gok Parasian Malau - Gogoni Damang Dohot Dainang"
 date: 2021-09-27
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 **Lirik Gogoni Damang Dohot Dainang - Gok Parasian Malau**

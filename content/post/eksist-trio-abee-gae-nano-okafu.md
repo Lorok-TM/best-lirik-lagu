@@ -2,7 +2,7 @@
 title: "Eksis't Trio - Abe'e Gae Nano Okafu"
 date: 2026-06-21
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 

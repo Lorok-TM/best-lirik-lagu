@@ -2,7 +2,7 @@
 title: "Tabita Sipahutar - Leleng Ma Hu Paima"
 date: 2025-05-16
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Leleng ma Hu paima-ima Na tinodo ni roha Matua au so ro

@@ -2,7 +2,7 @@
 title: "Thomas Arya - Tersingkap Kecuranganmu"
 date: 2023-05-22
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 Lirik Lagu Melayu dengan judul Tersingkap Kecuranganmu yang dinyanyikan dan diciptakan oleh Thomas Arya dengan irama musik Slow Rock.

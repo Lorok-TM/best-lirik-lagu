@@ -2,7 +2,7 @@
 title: "Pupu Tagua - Dayak Krio Kalbar"
 date: 2024-10-01
 categories: 
-  - "dayak"
+  - "Dayak"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Pupu Tagua yang dibawakan oleh N Tini.

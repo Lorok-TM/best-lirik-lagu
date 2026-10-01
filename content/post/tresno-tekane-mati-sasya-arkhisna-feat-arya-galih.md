@@ -2,7 +2,7 @@
 title: "Tresno Tekane Mati - Sasya Arkhisna Feat Arya Galih"
 date: 2025-02-27
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Tresno Tekane Mati yang dibawakan oleh Sasya Arkhisna Ft Arya Galih.

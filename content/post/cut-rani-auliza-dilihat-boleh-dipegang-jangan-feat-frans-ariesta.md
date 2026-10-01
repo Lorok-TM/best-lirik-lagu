@@ -2,7 +2,7 @@
 title: "Cut Rani Auliza - Dilihat Boleh Dipegang Jangan feat. Frans Ariesta"
 date: 2025-10-31
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Sungguh ramah adik menyapa Senyumanmu bak manis gula Hati siapa yang tak tergoda Akulah salah satu korbannya Hati siapa yang tak tergoda Akulah salah satu korbannya

@@ -2,7 +2,7 @@
 title: "Suryanto Siregar - Mawar Tak Bertangkai"
 date: 2026-09-05
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Mengapa tak dari dulu kau jujur padaku Bila kau punya yang lain dalam hatimu Jangan aku tak rela Kau nodai cina suci ini

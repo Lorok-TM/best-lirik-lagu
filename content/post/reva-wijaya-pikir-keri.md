@@ -2,8 +2,7 @@
 title: "Reva Wijaya - Pikir Keri"
 date: 2026-07-14
 categories: 
-  - "dangdut"
-  - "java"
+  - "Jawa"
 ---
 
 

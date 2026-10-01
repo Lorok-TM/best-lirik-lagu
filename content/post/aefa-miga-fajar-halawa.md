@@ -2,7 +2,7 @@
 title: "Aefa Miga - Fajar Halawa"
 date: 2025-10-19
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 Awai zanondra ana'a ba firo Me'ofaehago khogu nosi dodo Oroi khogu kodau sisagoro Oroi laeduru fanoro todo

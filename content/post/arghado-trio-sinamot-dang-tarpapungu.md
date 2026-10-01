@@ -2,7 +2,7 @@
 title: "Arghado Trio - Sinamot Dang Tarpapungu"
 date: 2025-09-13
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Dang na manjua au inongku Dipangidoanmi tung asa marhasohotan au nian Tingki di ngolumi Marningot au anak buha bajumi

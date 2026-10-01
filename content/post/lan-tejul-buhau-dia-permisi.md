@@ -2,7 +2,7 @@
 title: "Lan Tejul - Buhau Dia Permisi"
 date: 2020-09-22
 categories: 
-  - "dayak"
+  - "Dayak"
 ---
 
 ## Lirik Lagu Dayak ”Buhau Dia Permisi“ by Lan Tejul

@@ -2,7 +2,7 @@
 title: "Eno Viola - Maafkan Denai"
 date: 2025-06-15
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Maafkan diri denai Uda sayang maafkan Rilakan rilakanlah Denai yo da ka tangan urang

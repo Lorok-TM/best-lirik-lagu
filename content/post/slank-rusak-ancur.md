@@ -2,7 +2,7 @@
 title: "Slank - Rusak Ancur"
 date: 2026-06-08
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 

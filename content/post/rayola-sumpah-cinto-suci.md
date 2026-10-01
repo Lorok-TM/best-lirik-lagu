@@ -2,7 +2,7 @@
 title: "Rayola - Sumpah Cinto Suci"
 date: 2025-04-25
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Alah batahun diri uda dirantau urang Denai mananti diri uda jo hati gamang Dulu uda mangatokan Lai ka pulang ndak kunjuang datang

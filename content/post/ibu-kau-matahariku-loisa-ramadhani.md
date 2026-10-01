@@ -2,7 +2,7 @@
 title: "Ibu Kau Matahariku - Loisa Ramadhani"
 date: 2025-04-04
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Ibu Kau Matahariku yang dibawakan oleh Loisa Ramadhani.

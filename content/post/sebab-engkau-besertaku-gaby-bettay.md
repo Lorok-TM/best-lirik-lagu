@@ -2,7 +2,7 @@
 title: "Sebab Engkau Besertaku - Gaby Bettay"
 date: 2025-02-16
 categories: 
-  - "rohani"
+  - "Rohani"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Sebab Engkau Besertaku yang dibawakan oleh Gaby Bettay.

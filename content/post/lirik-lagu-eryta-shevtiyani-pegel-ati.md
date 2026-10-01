@@ -2,7 +2,7 @@
 title: "Eryta Shevtiyani - Pegel Ati"
 date: 2021-12-22
 categories: 
-  - "tarling"
+  - "Tarling"
 ---
 
 Title : Pegel Ati Artist : Eryta Shevtiyani Songwriter : Amin Hermawan Category : Lagu Tarling

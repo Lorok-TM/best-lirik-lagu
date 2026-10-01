@@ -2,7 +2,7 @@
 title: "Mimpi - Natala"
 date: 2025-04-08
 categories: 
-  - "iban"
+  - "Iban"
 ---
 
 Di baruh terang langit biru Aku tegenung nengkilah remang Tekenyit tedani ari mimpi Betemu enggau nuan keling ati

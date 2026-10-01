@@ -2,7 +2,7 @@
 title: "Jika Nanti - Kadal Band"
 date: 2026-07-29
 categories: 
-  - "band"
+  - "Band"
 ---
 
 Cinta yang dulu pernah kita bina bersama Kini hanya tinggal cerita Kau dan aku kini berpisah Karna perbedaan antara kita

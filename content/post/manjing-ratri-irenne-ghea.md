@@ -2,8 +2,7 @@
 title: "Manjing Ratri - Irenne Ghea"
 date: 2026-07-17
 categories: 
-  - "dangdut"
-  - "java"
+  - "Jawa"
 ---
 
 Sumunare srengenge wanci sore Ngelingke marang kowe Duh kangmas bagus pepujanku Mung kowe sing tak tunggu

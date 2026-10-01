@@ -2,7 +2,7 @@
 title: "Kasetyan Jati - Dike Sabrina feat. Delva Irawan"
 date: 2026-05-30
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 

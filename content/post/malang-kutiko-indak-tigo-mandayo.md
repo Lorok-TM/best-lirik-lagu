@@ -2,7 +2,7 @@
 title: "Malang Kutiko Indak - Tigo Mandayo"
 date: 2025-02-24
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Malang Kutiko Indak yang dibawakan oleh Tigo Mandayo.

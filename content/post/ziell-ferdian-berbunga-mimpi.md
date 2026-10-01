@@ -2,7 +2,7 @@
 title: "Ziell Ferdian - Berbunga Mimpi"
 date: 2025-07-21
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Ku coba untuk selalu bertahan Denganmu yang slalu menyakitkan Diriku ini yang tulus menyayangimu

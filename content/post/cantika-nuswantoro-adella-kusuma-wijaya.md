@@ -2,7 +2,7 @@
 title: "Cantika Nuswantoro Adella - Kusuma Wijaya"
 date: 2025-11-05
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Lunging mekar lan semi Puspito ing taman sari Manglung manungsung wengi Kalawan wulane ndadari

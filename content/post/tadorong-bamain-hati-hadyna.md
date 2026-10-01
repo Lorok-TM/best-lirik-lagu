@@ -2,7 +2,7 @@
 title: "Tadorong Bamain Hati - Hadyna"
 date: 2025-01-29
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Tadorong Bamain Hati yang dibawakan oleh Hadyna.

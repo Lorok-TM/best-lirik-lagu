@@ -2,7 +2,7 @@
 title: "Eno Viola - Basorakkan Jaso Nan Sabijo"
 date: 2025-12-03
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Aia bariak tando tak dalam Bakucak tandonyo tak panuah Bak cando tong kosoang jaleh nyariang bunyinyo Diam dek sagan malu bagaduah

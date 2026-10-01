@@ -2,7 +2,7 @@
 title: "Dengan Lafaznya - Sufian Suhaimi Feat Sarah Suhairi"
 date: 2025-01-14
 categories: 
-  - "malaysia"
+  - "Malaysia"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Dengan Lafaznya yang dibawakan oleh Sufian Suhaimi Ft Sarah Suhairi.

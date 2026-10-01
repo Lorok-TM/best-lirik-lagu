@@ -2,7 +2,7 @@
 title: "Thomas Arya - Perih Tak Terkata"
 date: 2025-07-20
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 Jangan kau ulit lagi Cerita silam kasih Yang pernah singgah Menyakiti hati

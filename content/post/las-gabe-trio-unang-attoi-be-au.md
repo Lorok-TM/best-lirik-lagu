@@ -2,7 +2,7 @@
 title: "Las Gabe Trio - Unang Attoi Be Au"
 date: 2026-06-16
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 

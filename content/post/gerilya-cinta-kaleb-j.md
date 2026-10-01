@@ -2,7 +2,7 @@
 title: "Gerilya Cinta - Kaleb J"
 date: 2026-06-15
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 

@@ -2,7 +2,7 @@
 title: "Gagal Bawa Pulang - Mario Yamlean feat. Steven, Bertho"
 date: 2026-06-25
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 Apa yang ko cari sebenarnya selama ini Apa yang ko ingini sa penuhi Kurangkah selama ini sampe hati ko bagi Sa pu setia ini juga ko tra pernah hargai

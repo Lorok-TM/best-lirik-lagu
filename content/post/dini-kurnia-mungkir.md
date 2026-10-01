@@ -2,7 +2,7 @@
 title: "Dini Kurnia - Mungkir"
 date: 2026-07-15
 categories: 
-  - "osing"
+  - "Osing"
 ---
 
 

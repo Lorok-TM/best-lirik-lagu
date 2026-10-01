@@ -2,7 +2,7 @@
 title: "Andra Respati - Cinta Dari Seberang feat. Gisma Wandira"
 date: 2025-09-29
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 Kupandang pandang adik dari seberang Cantik juga rupamu sungguh menawan Bolehkah abang bertanya Apa adik ada yang punya Jika belum kuingin nyatakan cinta

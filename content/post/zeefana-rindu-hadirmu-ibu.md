@@ -2,7 +2,7 @@
 title: "Zeefana - Rindu Hadirmu Ibu"
 date: 2025-08-12
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Andai waktu bisa ku putar kembali Ku inginkan engkau ada disini Tuk mengulang masa lalu Ku rindu akan hadirmu..

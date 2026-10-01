@@ -2,7 +2,7 @@
 title: "Pinki Prananda feat. Tata Talita - Bacakak Buliah Bacarai Jangan"
 date: 2025-12-04
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Lah sanang mangko ka baraliah Karam juo biduak alun balayia Dulu nan satujuan kini balain angan Denai dayuang ka tangah uda nan ka tapian

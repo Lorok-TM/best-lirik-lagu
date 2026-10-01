@@ -2,8 +2,7 @@
 title: "Salahmu Ayu - Silvy Kumalasari Feat Sadewok"
 date: 2026-07-22
 categories: 
-  - "dangdut"
-  - "java"
+  - "Jawa"
 ---
 
 Rasane ning saben wengi nganti raiso turu Mung kelingan sliramu sing gawe baper atiku

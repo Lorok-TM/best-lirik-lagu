@@ -2,7 +2,7 @@
 title: "Serangkai Trio - Zaziu Mbulu Gae Hili"
 date: 2026-06-21
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 

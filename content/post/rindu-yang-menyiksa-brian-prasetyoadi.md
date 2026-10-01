@@ -2,7 +2,7 @@
 title: "Rindu Yang Menyiksa - Brian Prasetyoadi"
 date: 2024-12-26
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Rindu Yang Menyiksa yang dibawakan oleh Brian Prasetyoadi.

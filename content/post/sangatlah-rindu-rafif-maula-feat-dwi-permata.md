@@ -2,7 +2,7 @@
 title: "Sangatlah Rindu - Rafif Maula Feat Dwi Permata"
 date: 2026-07-20
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 

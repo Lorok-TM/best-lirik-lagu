@@ -2,7 +2,7 @@
 title: "Anis Gea - Andigan Do Tuhan?"
 date: 2023-04-09
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Anis Gea bersama Wiranis Production rilis single dengan lirik dalam bahasa Batak berjudul "Andigan Do Tuhan" yang diciptakan oleh Wira Purba.

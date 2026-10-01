@@ -2,7 +2,7 @@
 title: "Perceraian Lara - Difarina Indra Adella Feat Fendik Adella"
 date: 2026-08-13
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Apakah ini menjadi suratan Perpisahan penuh duka lara Ini sungguh bukanlah keinginan Mimpi buruk jadi kenyataan

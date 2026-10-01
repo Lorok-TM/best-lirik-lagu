@@ -2,7 +2,7 @@
 title: "Bahagianya Bahagiaku - Sadly Noor Feat Widya Laurencia"
 date: 2025-04-10
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Telah banyak kisah cinta yang kulalui Tapi tak ada seperti dia Dia yang membuatku bahagia Walau dengan cara sederhana

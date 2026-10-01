@@ -2,7 +2,7 @@
 title: "Kau Nyawa Cintaku - Andra Respati Feat Gisma Wandira"
 date: 2025-02-08
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Kau Nyawa Cintaku yang dibawakan oleh Andra Respati Ft Gisma Wandira.

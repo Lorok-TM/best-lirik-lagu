@@ -2,7 +2,7 @@
 title: "Kita TTM - Pawzia"
 date: 2026-07-15
 categories: 
-  - "remix"
+  - "Remix"
 ---
 
 Awalnya hanya biasa Saling sapa penuh canda Semakin lama berbeda Ada bahagia di sana Setiap jalan berdua Dunia seakan berubah Dalam tawa yang tercipta Diam-diam ada cinta

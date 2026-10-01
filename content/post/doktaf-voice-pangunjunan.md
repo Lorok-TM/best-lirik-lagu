@@ -2,7 +2,7 @@
 title: "D'Oktaf Voice - Pangunjunan"
 date: 2025-07-08
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Nga lam matua be portibion Tarimangi ma akka na masa on Nga tung torop be jolmai Mangalaosi hatani Tuhan i

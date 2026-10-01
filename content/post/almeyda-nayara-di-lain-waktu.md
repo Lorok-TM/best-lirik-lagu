@@ -2,7 +2,7 @@
 title: "Almeyda Nayara - Di Lain Waktu (OST Diary Putih Biru Season 2)"
 date: 2022-04-03
 categories: 
-  - "indonesia"
+  - "Indo"
   - "ost"
 ---
 

@@ -2,7 +2,7 @@
 title: "Romantis Trio - Holong Naso Tarjua"
 date: 2025-07-09
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Denggan do ujui pargaulan tai Denggan do ujui pardonganon tai Soadong na hurangi Uju rap au dhot ho Hu oloi do sasude Pinangido ni roham Patuduhon balga ni holong ki tuho Sopanagaman ki roma sikkap mabarbari Di naro sian jakata pariban mi Siboru naulu Boru in na morai Tinodoni natoras mi Gabe parumaen nai Tinggal ma au boru ni na pogos on

@@ -2,7 +2,7 @@
 title: "Dek Aroel - Guna Guna"
 date: 2025-08-28
 categories: 
-  - "aceh"
+  - "Aceh"
 ---
 
 Peudeh rukung loen ka teurhok Teuka batok tiba tiba Bak uloen pandang adinda

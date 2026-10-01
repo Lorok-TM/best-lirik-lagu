@@ -2,7 +2,7 @@
 title: "Silvy Carlina, Sadri Zarro - Bausaho Basumbayang"
 date: 2026-07-11
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 

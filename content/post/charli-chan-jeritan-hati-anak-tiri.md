@@ -2,7 +2,7 @@
 title: "Charli Chan - Jeritan Hati Anak Tiri"
 date: 2023-01-21
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Charli Chan bersama Wan Pro rilis single Melayu berjudul "Jeritan Hati Anak Tiri" yang diciptakan oleh Annisa Fadila, menceritakan tentang derita seorang anak yang telah ditinggal pergi Ibu kandungnya dan kini punya Ibu tiri yang cuma sayang pada Ayahnya tapi tidak sayang pada dia.

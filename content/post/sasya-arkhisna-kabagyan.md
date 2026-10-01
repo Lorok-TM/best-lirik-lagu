@@ -2,7 +2,7 @@
 title: "Sasya Arkhisna - Kabagyan"
 date: 2025-07-21
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Ora kroso sampun tibo wancine Isoh nyanding kowe saben dinone Senadyan akeh bedho lan godho Tresno ku karo kowe ora ngliyo

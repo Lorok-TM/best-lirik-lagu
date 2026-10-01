@@ -2,7 +2,7 @@
 title: "Balebat - Friska"
 date: 2024-09-03
 categories: 
-  - "sunda"
+  - "Sunda"
 ---
 
 Tuh balébat Geuning geus katembong caang Ngalangkangan carita nu maksa datang Ieu haté teu beunang di sisilihkeun Bet tibelat ku anjeun aduh jungjunan

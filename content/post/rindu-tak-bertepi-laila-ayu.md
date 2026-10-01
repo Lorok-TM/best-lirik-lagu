@@ -2,7 +2,7 @@
 title: "Rindu Tak Bertepi - Laila Ayu"
 date: 2026-07-17
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Aku memang belum mampu Membuat mu tersenyum bahagia Namun ingatkah janjimu padaku Takkan pernah lelah mendampingi aku

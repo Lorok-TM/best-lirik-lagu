@@ -2,7 +2,7 @@
 title: "Trio Sakanduang - Panyakik Zaman Kini"
 date: 2025-04-25
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Susah mancaliak urang sanang Sanang mancaliak urang susah Susah mancaliak urang sanang Sanang mancaliak urang susah

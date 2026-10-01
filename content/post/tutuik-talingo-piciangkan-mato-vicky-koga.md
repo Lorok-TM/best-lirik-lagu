@@ -2,7 +2,7 @@
 title: "Tutuik Talingo Piciangkan Mato - Vicky Koga"
 date: 2025-03-23
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Tutuik Talingo Piciangkan Mato yang dibawakan oleh Vicky Koga.

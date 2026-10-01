@@ -2,7 +2,7 @@
 title: "Petani - DJ Mahesa"
 date: 2024-12-19
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Petani yang dibawakan oleh DJ Mahesa.

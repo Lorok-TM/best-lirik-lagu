@@ -2,7 +2,7 @@
 title: "Aprilian feat. Anggrek - Acok Talompek Kato"
 date: 2025-09-24
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Cando si bisu iyo nan parasian Muluik takunci hati nan bakato Taraso lai nan indak takatokan Marasai badan denai jadinyo

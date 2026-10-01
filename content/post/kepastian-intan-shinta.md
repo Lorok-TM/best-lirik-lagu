@@ -2,7 +2,7 @@
 title: "Kepastian - Intan Shinta"
 date: 2025-02-12
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Kepastian yang dibawakan oleh Intan Shinta.

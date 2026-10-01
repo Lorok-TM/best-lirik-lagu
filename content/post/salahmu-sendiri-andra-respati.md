@@ -2,7 +2,7 @@
 title: "Salahmu Sendiri - Andra Respati feat. Gisma Wandira"
 date: 2024-07-09
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 Puas sudah ku mencintaimu Luas sudah sabarku untukmu Walau kau acuh tak acuh Selama ini kepada diriku

@@ -2,7 +2,7 @@
 title: "Widi Widiana - Kupu Kupu Nakal"
 date: 2023-07-01
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 **Lirik Kupu Kupu Nakal - Widi Widiana**

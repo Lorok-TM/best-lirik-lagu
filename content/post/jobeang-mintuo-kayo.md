@@ -2,7 +2,7 @@
 title: "Jobeang - Mintuo Kayo"
 date: 2025-10-10
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Sabana sero rasonyo Den dapek mintuo kayo Dulu hiduik den sansaro Kini jadi kapa gulo

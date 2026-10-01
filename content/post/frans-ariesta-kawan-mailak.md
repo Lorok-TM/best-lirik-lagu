@@ -2,7 +2,7 @@
 title: "Frans Ariesta - Kawan Mailak"
 date: 2025-04-24
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Sampai hati bana urang ka awak Padiah kadado padiah manyasak Samaso sadang diawak Banyak nan maimbau dunsanak Katiko sadang indak Kawan galak pun mailak

@@ -2,7 +2,7 @@
 title: "Dalan Anyar - Diva Hani"
 date: 2026-06-01
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 

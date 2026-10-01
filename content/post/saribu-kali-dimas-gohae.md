@@ -2,7 +2,7 @@
 title: "Saribu Kali - Dimas Gohae"
 date: 2025-02-26
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Saribu Kali yang dibawakan oleh Dimas Gohae.

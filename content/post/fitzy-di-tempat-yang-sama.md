@@ -2,7 +2,7 @@
 title: "Fitzy - Di Tempat Yang Sama"
 date: 2026-09-03
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Di tempat yang sama Waktu kau bilang tunggu Katamu tak akan lama Kau pasti kembali lagi

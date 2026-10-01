@@ -2,7 +2,7 @@
 title: "Frans Ariesta - Ancak Badunsanak Ka Urang Nan Lain"
 date: 2023-05-19
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Lirik Lagu Minang dengan judul Ancak Badunsanak Ka Urang Nan Lain yang dinyanyikan oleh Frans Ariesta dan diciptakan oleh Riyan Arta dengan irama musik Pop.

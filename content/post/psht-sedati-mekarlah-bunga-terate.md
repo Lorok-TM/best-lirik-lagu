@@ -2,7 +2,7 @@
 title: "PSHT SEDATI - Mekarlah Bunga Terate"
 date: 2020-07-24
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Title : Mekarlah Bunga Terate Artist : Shadjo / PSHT SEDATI Composer : Ridwan Agung (Flow is Band) Exc Producer : Narto Satriani Music Arrangger : Derma (Planet rock studio) Mixed / Mastering / Recorded : Planet Rock Studio Sidoarjo Publisher : Musicblast.id

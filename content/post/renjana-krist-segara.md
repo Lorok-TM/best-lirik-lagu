@@ -2,7 +2,7 @@
 title: "Renjana - Krist Segara"
 date: 2025-03-14
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Renjana yang dibawakan oleh Krist Segara.

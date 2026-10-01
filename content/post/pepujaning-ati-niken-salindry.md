@@ -2,7 +2,7 @@
 title: "Pepujaning Ati - Niken Salindry"
 date: 2026-07-14
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 

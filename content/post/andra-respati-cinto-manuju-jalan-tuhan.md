@@ -2,7 +2,7 @@
 title: "Andra Respati - Cinto Manuju Jalan Tuhan"
 date: 2025-09-30
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Adiak usahlah cameh Kabba keh diri denai ko Walaupun banyak bungon nan mandayo Denai ndak kamanduo Walaupun banyak bungon nan mandayo Denai ndak kamanduo

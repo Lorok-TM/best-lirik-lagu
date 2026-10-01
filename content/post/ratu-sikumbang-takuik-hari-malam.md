@@ -2,7 +2,7 @@
 title: "Ratu Sikumbang - Takuik Hari Malam"
 date: 2025-08-06
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Kok dapek hari taruih lah siang Jan sampai matohari tabanam Jikok hari malam bayang adiak Datang mambayang

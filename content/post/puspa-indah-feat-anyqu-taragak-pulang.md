@@ -2,7 +2,7 @@
 title: "Puspa Indah feat Anyqu - Taragak Pulang"
 date: 2023-04-23
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 **Lirik Taragak Pulang - Puspa Indah Feat Anyqu**

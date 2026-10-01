@@ -2,7 +2,7 @@
 title: "Tabusan Rindu - Eno Viola Feat. Pinki Prananda"
 date: 2024-06-06
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 **Lirik Tabusan Rindu - Eno Viola Feat Pinki Prananda**

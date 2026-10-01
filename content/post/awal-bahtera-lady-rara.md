@@ -2,7 +2,7 @@
 title: "Awal Bahtera - Lady Rara"
 date: 2026-07-31
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Di bawah langit biru kita ikrarkan sebuah janji suci sepenuh jiwa Kau lengkapi hidupku dengan cinta Kuserahkan diriku tuk bahagia Ketulusan Kejujuran Kesungguhanmu memikat hatiku

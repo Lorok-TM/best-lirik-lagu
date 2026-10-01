@@ -2,7 +2,7 @@
 title: "Nampilken Bana - Gitarena Ginting"
 date: 2025-03-13
 categories: 
-  - "karo"
+  - "Karo"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Nampilken Bana yang dibawakan oleh Gitarena Ginting.

@@ -2,7 +2,7 @@
 title: "Yulius Sarumaha - Mandata Dödö"
 date: 2025-12-14
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 Mandrata dodo ba aruru ndrogu Me urongo duriau he ga'agu Ira satuamo lawao khou wangowalu Kho nono alawe moroi ba Zirombu

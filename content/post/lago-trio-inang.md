@@ -2,7 +2,7 @@
 title: "Lago Trio - Inang"
 date: 2025-07-28
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Dang marna loja ho inang Dina hu mokkop gelleng mon Nang udan las ni ari di taok ho doi Holan pasari sari anak mon

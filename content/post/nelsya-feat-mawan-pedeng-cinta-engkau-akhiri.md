@@ -2,7 +2,7 @@
 title: "Nelsya feat. Mawan Pedeng - Cinta Engkau Akhiri"
 date: 2023-05-13
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Lirik Lagu Melayu dengan judul Cinta Engkau Akhiri yang dinyanyikan oleh Nelsya Ft. Mawan Pedeng dan diciptakan oleh Thomas Arya dengan irama musik Pop.

@@ -2,7 +2,7 @@
 title: "Carlos - Cinta Dari Seberang feat. Melisa Putri"
 date: 2025-08-30
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Ku pandang pandang adik dari seberang Cantik juga rupamu sungguh menawan Bolehkah abang bertanya Apa adik ada yang punya Jika belum kuingin nyatakan cinta

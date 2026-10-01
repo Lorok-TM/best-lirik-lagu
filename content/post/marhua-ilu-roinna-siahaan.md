@@ -2,7 +2,7 @@
 title: "Marhua Ilu - Roinna Siahaan"
 date: 2025-03-12
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Marhua Ilu yang dibawakan oleh Roinna Siahaan.

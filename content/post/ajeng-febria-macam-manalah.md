@@ -2,7 +2,7 @@
 title: "Ajeng Febria - Macam Manalah"
 date: 2026-07-22
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Kau mau datang, datanglah.. Kau mau pergi, pergilah.. Kau mau marah, marahlah.. Kau suka aku, alhamdulillah..

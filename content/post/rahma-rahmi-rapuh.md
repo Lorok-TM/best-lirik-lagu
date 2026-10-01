@@ -2,7 +2,7 @@
 title: "Rahma Rahmi - Rapuh"
 date: 2026-07-31
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Karya musik berjudul "Rapuh" oleh duo musisi Rahma Rahmi membawa narasi filosofis mengenai fase penerimaan diri (self-acceptance) serta apresiasi terhadap ketahanan mental individu di tengah dinamika kehidupan yang tidak menentu. Latar belakang cerita dalam lagu ini menyoroti ruang kontemplasi seseorang yang berusaha menyapa kembali dirinya sendiri, melepaskan beban emosional masa lalu, serta mengikhlaskan segala kegagalan dan kepedihan yang pernah terjadi. Melalui artikulasi lirik yang berfokus pada transisi dari rasa sesak dan duka yang terpendam menuju kesadaran untuk bersyukur, lagu ini tidak sekadar menggambarkan kerapuhan manusia, melainkan menggarisbawahi pentingnya berdamai dengan realitas sebagai fondasi utama untuk memulihkan kekuatan internal.

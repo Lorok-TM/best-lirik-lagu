@@ -2,7 +2,7 @@
 title: "Cantika Davinca - Apa Salahku"
 date: 2025-07-22
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Kau pergi tanpa tanya Apakah aku bisa Menerima semua disini Tinggal aku sendiri

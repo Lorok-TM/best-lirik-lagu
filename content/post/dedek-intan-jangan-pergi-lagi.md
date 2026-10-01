@@ -2,7 +2,7 @@
 title: "Dedek Intan - Jangan Pergi Lagi"
 date: 2025-07-10
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Tetesan di daun ku kira embun Sungguh tak kukira hujan yang turun Mungkinkah bersemi cintaku kembali Setelah lama aku ditinggal pergi

@@ -2,7 +2,7 @@
 title: "Difarina Indra Adella - Rindunya Hatiku Feat. Fendik Adella"
 date: 2025-07-27
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Rindunya hatiku padamu kasih Rindunya hatiku sudah tak tahan Aku datang melamarmu Kan ku jadikan permaisuri Oh kasihku oh sayangku

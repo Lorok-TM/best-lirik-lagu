@@ -2,7 +2,7 @@
 title: "Ratu Verlyn - Nggayuh Tresna"
 date: 2026-09-15
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Nalikaning wengi sepi Sliramu tansah tak wanti wanti Tak angen rina lan wengi

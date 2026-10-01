@@ -2,7 +2,7 @@
 title: "Pitih Banyak Makan Tak Lamak - Silva Hayati"
 date: 2024-06-08
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 **Lirik Pitih Banyak Makan Tak Lamak - Silva Hayati**

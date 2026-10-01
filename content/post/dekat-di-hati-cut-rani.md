@@ -2,7 +2,7 @@
 title: "Dekat Di Hati - Cut Rani"
 date: 2026-07-23
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Ingin kutulis sejuta laguku Ingin rasanya ku ceritakan kepadamu Saat aku jauh dari sisimu Hatiku tak tenang Selalu memikirkanmu

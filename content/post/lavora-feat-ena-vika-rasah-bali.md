@@ -2,8 +2,7 @@
 title: "Lavora feat Ena Vika - Rasah Bali dan Artinya"
 date: 2022-10-31
 categories: 
-  - "dangdut"
-  - "java"
+  - "Jawa"
 ---
 
 Lavora & Ena Vika rilis single dengan lirik dalam bahasa Jawa berjudul "Rasah Bali" yang artinya "Tak Usah Kembali", menceritakan tentang seorang wanita yang ingin balikan lagi sama mantan pacarnya, tapi sang mantan sudah terlanjur sakit hati dan tidak mau balikan lagi. Untuk lebih jelasnya silahkan Anda baca terjemahan lirik lagunya berada dibawah.

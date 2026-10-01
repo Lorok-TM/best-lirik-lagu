@@ -2,7 +2,7 @@
 title: "Jang Ko Tipu Tipu - Ona Hetharua"
 date: 2024-07-20
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 Ko cemburu lihat sa deng dia Jang ko tipu tipu bilang sapa dia Sa baru kenal dia belum sempat bicara Ternyata dia sa pung sudara

@@ -2,7 +2,7 @@
 title: "Rocky B. Duha - Si Lö Utöna"
 date: 2021-10-13
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 Title : Si Lö Utöna Artist : Rocky B. Duha Songwriter : Yarman La'ia Category : Lagu Nias

@@ -2,7 +2,7 @@
 title: "Fany Zee feat Aprilian - Tak Sedalam Ini"
 date: 2022-08-11
 categories: 
-  - "melayu"
+  - "Melayu"
   - "slow-rock"
 ---
 

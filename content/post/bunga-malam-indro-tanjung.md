@@ -2,7 +2,7 @@
 title: "Bunga Malam - Indro Tanjung"
 date: 2026-07-25
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Terlalu sedih ter amat kejam…. Kisah hidup mu duhai bunga malam Dibawah cahaya sinaran lampu…. Remang remang malam…..

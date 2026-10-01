@@ -2,7 +2,7 @@
 title: "Mujizat Bagiku - Vionita Sihombing"
 date: 2025-03-16
 categories: 
-  - "rohani"
+  - "Rohani"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Mujizat Bagiku yang dibawakan oleh Vionita Sihombing.

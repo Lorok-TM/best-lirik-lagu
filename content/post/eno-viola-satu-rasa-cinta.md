@@ -2,7 +2,7 @@
 title: "Eno Viola - Satu Rasa Cinta"
 date: 2022-12-11
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Jangan tanya bagaimana esok Ku tak ingin menerka perasaan ini Yang kutahu hari ini ku mencintaimu Yang kutahu ku sangat menyayangimu

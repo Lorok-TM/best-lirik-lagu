@@ -2,7 +2,7 @@
 title: "Tersiksa Kerana Rindu - Aprilian"
 date: 2024-08-19
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Malam sunyi tak berbintang Sepi ku rasa hati ini oh sayang Kerana rindu yang terdalam Berharap di suatu saat kau kan pulang

@@ -2,7 +2,7 @@
 title: "Ainida Diaz - Ba Mamak Indak Ba Bako Tido"
 date: 2025-08-14
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Alah denai tau nan jo garak Kilek baliuang alah ka kaki Mangkonyo denai pai manjarak Dari pado denai manahan hati

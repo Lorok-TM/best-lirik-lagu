@@ -2,7 +2,7 @@
 title: "Dongan Sonang Di Bagas Dosa - Artha Sister"
 date: 2025-04-05
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Aut sura ma nian ito Dingding i boi makkatai Adong ma na gabe saksi nian Di hita nadua

@@ -2,7 +2,7 @@
 title: "Kayungyun - Niken Salindry"
 date: 2026-07-06
 categories: 
-  - "campursari"
+  - "Campursari"
 ---
 
 

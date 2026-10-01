@@ -2,7 +2,7 @@
 title: "Lisa Yanto - Balasan Nasib Kerja Sawit"
 date: 2026-09-15
 categories: 
-  - "dayak"
+  - "Dayak"
 ---
 
 Dinga bala menyadik Cerita hidup aku Aku orang yang sukses Kerja di pt sawit

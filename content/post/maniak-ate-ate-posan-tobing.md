@@ -2,7 +2,7 @@
 title: "Maniak Ate Ate - Posan Tobing"
 date: 2024-08-20
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Dung dibaehenho ito manegai pikkiranhi Gabe segama holonghi Tung maoldoi ito mangalupahon ho Nungnga tarpakku dibagasan rohangki

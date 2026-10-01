@@ -2,7 +2,7 @@
 title: "Carlos feat. Rara Salsabila - Manenggang Parasaan"
 date: 2026-07-15
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 

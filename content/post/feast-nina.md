@@ -2,7 +2,7 @@
 title: ".Feast - Nina"
 date: 2026-08-22
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 

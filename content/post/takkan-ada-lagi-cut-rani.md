@@ -2,7 +2,7 @@
 title: "Takkan Ada Lagi - Cut Rani Auliza"
 date: 2025-03-24
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Takkan ada lagi Cinta setulus ini engkau temui Walaupun kau cari cari Takkan pernah kau miliki

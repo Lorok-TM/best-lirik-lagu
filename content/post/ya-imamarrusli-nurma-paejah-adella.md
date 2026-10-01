@@ -2,7 +2,7 @@
 title: "Ya Imamarrusli - Nurma Paejah Adella"
 date: 2025-03-13
 categories: 
-  - "religi"
+  - "Religi"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Ya Imamarrusli yang dibawakan oleh Nurma Paejah Adella.

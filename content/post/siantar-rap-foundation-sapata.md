@@ -2,7 +2,7 @@
 title: "Siantar Rap Foundation - Sapata"
 date: 2024-05-14
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 **Lirik Sapata - Siantar Rap Foundation**

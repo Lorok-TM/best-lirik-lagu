@@ -2,7 +2,7 @@
 title: "Silva Hayati - Rasaki Sangkuik Basangkuik"
 date: 2023-09-16
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 **Lirik Rasaki Sangkuik Basangkuik - Silva Hayati**

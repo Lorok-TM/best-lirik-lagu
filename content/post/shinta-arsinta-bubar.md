@@ -2,7 +2,7 @@
 title: "Shinta Arsinta - Bubar"
 date: 2025-06-30
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Overthingking tengah wengi Nompo WhatsApp seko kancamu Jare koe curhat wes bosen karo ak

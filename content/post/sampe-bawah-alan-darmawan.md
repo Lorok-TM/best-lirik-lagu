@@ -2,7 +2,7 @@
 title: "Sampe Bawah - Alan Darmawan"
 date: 2024-12-27
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Sampe Bawah yang dibawakan oleh Alan Darmawan.

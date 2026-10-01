@@ -2,7 +2,7 @@
 title: "Uria Novita - Diseso Cinto"
 date: 2025-10-16
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Panek mairik si tali cinto Kama di lilik jo biduak baga Sajak nyo putuih cinto nan lamo Kamano kasihnyo ka di pauikkan

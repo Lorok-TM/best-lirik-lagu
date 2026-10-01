@@ -2,7 +2,7 @@
 title: "Ziell Ferdian - Butir Kerinduan feat. Anisa"
 date: 2025-08-07
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Ku pergi hanya untuk kembali Bersabarlah duhai kekasihku Lekaslah pulang sayang Tebuslah rinduku ini

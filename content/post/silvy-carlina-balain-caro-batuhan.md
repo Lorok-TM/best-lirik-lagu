@@ -2,7 +2,7 @@
 title: "Silvy Carlina - Balain Caro Batuhan"
 date: 2026-08-15
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 

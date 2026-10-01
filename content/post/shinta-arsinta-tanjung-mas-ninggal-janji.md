@@ -2,8 +2,7 @@
 title: "Shinta Arsinta - Tanjung Mas Ninggal Janji"
 date: 2026-07-18
 categories: 
-  - "dangdut"
-  - "java"
+  - "Jawa"
 ---
 
 Bebasan kaya ngenteni Udan ning mangsa ketiga Senajan mung sedela ora dadi ngapa Penting iso ngademke ati

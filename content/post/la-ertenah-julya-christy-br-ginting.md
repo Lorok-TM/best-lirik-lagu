@@ -2,7 +2,7 @@
 title: "La Ertenah - Julya Christy Br Ginting"
 date: 2024-07-10
 categories: 
-  - "karo"
+  - "Karo"
 ---
 
 **Berikut lirik La Ertenah yang dinyanyikan oleh Julya Christy Br Ginting.**

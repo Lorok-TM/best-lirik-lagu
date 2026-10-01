@@ -2,7 +2,7 @@
 title: "Nadhif Basalamah - Masih Ada Waktunya"
 date: 2025-04-26
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Katamu ku diperhatikan Setiap ku mengingatNya Kau ajari semua berharga Benar salah keputusanmu

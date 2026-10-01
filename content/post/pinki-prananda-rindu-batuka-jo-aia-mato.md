@@ -2,7 +2,7 @@
 title: "Pinki Prananda - Rindu Batuka Jo Aia Mato"
 date: 2026-09-26
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Tadanga… Tadanga kaba karantau Mandeh dikampuang kini sansaro Mandanga barito Raso ka putuih jantuang didado Ibo hati taragak jo mandeh Bilo masonyo denai ka basuo Malapeh rindu jo mandeh

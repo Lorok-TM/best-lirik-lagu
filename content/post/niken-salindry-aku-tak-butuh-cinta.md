@@ -2,7 +2,7 @@
 title: "Niken Salindry - Aku Tak Butuh Cinta"
 date: 2026-09-26
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Pantang bagi diriku cucurkan airmata Bila kau sakiti hati kau tujukan padaku Janganlah kau bawa anak kita sendiri Untuk kau besarkan makan uang haram Pantang bagi diriku

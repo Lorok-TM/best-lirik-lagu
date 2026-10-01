@@ -2,7 +2,7 @@
 title: "Sulis Lida - Pujaan Hatiku"
 date: 2026-01-21
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 

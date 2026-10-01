@@ -2,7 +2,7 @@
 title: "Eno Viola - Sesalku Mengenalmu"
 date: 2022-01-08
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 Diriku hanya bisa terdiam Mendengar kata kau ucapkan Cinta kita berakhir Sampai di sini

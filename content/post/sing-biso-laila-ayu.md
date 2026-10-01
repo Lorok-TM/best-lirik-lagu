@@ -2,7 +2,7 @@
 title: "Sing Biso - Laila Ayu"
 date: 2026-07-14
 categories: 
-  - "osing"
+  - "Osing"
 ---
 
 

@@ -2,7 +2,7 @@
 title: "Aku Bilang Jangan - Mikky Zia Feat F4dli"
 date: 2025-03-30
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Aku Bilang Jangan yang dibawakan oleh Mikky Zia Ft F4dli.

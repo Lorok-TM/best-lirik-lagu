@@ -2,7 +2,7 @@
 title: "Carlos - Cincin Takarang Tunangan Hilang feat. Melisa Putri"
 date: 2025-08-29
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Sabana sadiah ndeh kini untuang dibadan Cincin takarang tunangan diambiak urang Ondeh Cincin takarang tunangan diambiak urang

@@ -2,7 +2,7 @@
 title: "Ayang Ayang - Sasya Arkhisna"
 date: 2025-04-20
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Peteng rasaning ati kang nandang Sengiting liyan hanyawang Aku koe labuh katresnan

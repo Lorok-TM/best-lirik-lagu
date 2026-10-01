@@ -2,7 +2,7 @@
 title: "B-Three Star - Aha Ma Ito"
 date: 2025-08-01
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Aha ma ito dia hasian Hasudungan nauli lagu Sian nassogot sahat tu botari Sai makkohop ho tu au hasian Paboa ma tu au hasian Molo adong na solot di rohami

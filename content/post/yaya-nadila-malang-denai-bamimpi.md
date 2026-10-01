@@ -2,7 +2,7 @@
 title: "Yaya Nadila - Malang Denai Bamimpi"
 date: 2022-10-31
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Lirik Lagu Minang dengan judul Malang Denai Bamimpi yang dinyanyikan oleh Yaya Nadila dan diciptakan oleh Erwin Agam dengan irama musik Pop.

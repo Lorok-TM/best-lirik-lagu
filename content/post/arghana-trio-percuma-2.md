@@ -2,7 +2,7 @@
 title: "Arghana Trio - Percuma 2"
 date: 2026-09-03
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Nungnga terlanjur sayang au tu ho Nungnga terlanjur cinta au tu ho Hape digabusi ho au hasian Di hubunganta i naung tabahen i

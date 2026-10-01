@@ -2,7 +2,7 @@
 title: "Ary Kencana Feat Dek'z Gaara - Supir Truk"
 date: 2025-05-06
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 Andeang beli panak konglomerat Mirib sing kekene Adi ajak beli melarat Ulian beli sing tamatan Kanggoang nyopir di jalan Nyopir truk luas ke galian

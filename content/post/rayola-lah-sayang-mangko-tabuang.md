@@ -2,7 +2,7 @@
 title: "Rayola - Lah Sayang Mangko Tabuang"
 date: 2023-02-12
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Rayola dibawah naungan label Koko Record rilis single dengan lirik dalam bahasa Minangkabau berjudul "Lah Sayang Mangko Tabuang" yang artinya "Sudah Sayang Akhirnya Ku Terbuan", menceritakan tentang seseorang yang sudah terlanjur sayang namun kini terbuang, padahal hubungan cinta mereka sudah diketahui orang sekampung, dan kedua orangtuanya pun juga merasakan malu.

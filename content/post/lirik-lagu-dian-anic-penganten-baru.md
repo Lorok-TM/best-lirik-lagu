@@ -2,7 +2,7 @@
 title: "Dian Anic - Penganten Baru"
 date: 2022-01-11
 categories: 
-  - "tarling"
+  - "Tarling"
 ---
 
 ## Lirik Pengantin Baru - Dian Anic

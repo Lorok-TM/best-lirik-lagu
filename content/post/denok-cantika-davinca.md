@@ -2,7 +2,7 @@
 title: "Denok - Cantika Davinca"
 date: 2026-07-28
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 

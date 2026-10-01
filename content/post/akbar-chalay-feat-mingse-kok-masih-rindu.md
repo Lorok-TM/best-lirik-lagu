@@ -2,7 +2,7 @@
 title: "Akbar Chalay Feat Mingse - Kok Masih Rindu"
 date: 2026-09-19
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Kapan lagi kucari kamu Malam juga begitu Ku tak pernah tahu segila itu aku Masih juga merindu Tanpa ku malu malu Ternyata aku Aduh enggak mau jauh Jauh dari kamu Aduh enggak kuat Aku dibebani rindu Enggak mau kalau enggak ada kamu Cinta cintaanku nilai sepuluh

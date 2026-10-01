@@ -2,7 +2,7 @@
 title: "Dewi - Sasya Arkhisna"
 date: 2025-02-18
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Dewi yang dibawakan oleh Sasya Arkhisna.

@@ -2,7 +2,7 @@
 title: "Erdeng Ni Erdeng - Arghana Trio, Arghado Trio, Arghama Trio"
 date: 2025-03-29
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Erdeng ni erdeng Erdeng ni erdeng

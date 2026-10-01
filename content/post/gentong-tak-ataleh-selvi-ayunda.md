@@ -2,7 +2,7 @@
 title: "Gentong Tak Ataleh - Selvi Ayunda"
 date: 2024-07-12
 categories: 
-  - "madura"
+  - "Madura"
 ---
 
 **Berikut lirik Gentong Tak Ataleh yang dinyanyikan oleh Selvi Ayunda.**

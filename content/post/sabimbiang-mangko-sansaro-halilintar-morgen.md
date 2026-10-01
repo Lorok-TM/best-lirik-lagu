@@ -2,7 +2,7 @@
 title: "Sabimbiang Mangko Sansaro - Halilintar Morgen"
 date: 2025-02-20
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Sabimbiang Mangko Sansaro yang dibawakan oleh Halilintar Morgen.

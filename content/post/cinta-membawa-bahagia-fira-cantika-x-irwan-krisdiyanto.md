@@ -2,7 +2,7 @@
 title: "Cinta Membawa Bahagia - Fira Cantika X Irwan Krisdiyanto"
 date: 2026-06-25
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Aku bahagia mengenalimu Kau telah singgah dalam hatiku Rasa sempurna jiwa ragaku Engkau pelengkap dalam hidupku

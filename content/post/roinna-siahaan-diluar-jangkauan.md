@@ -2,7 +2,7 @@
 title: "Roinna Siahaan - Diluar Jangkauan"
 date: 2025-10-20
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Dung hutanda ho ito jatuh cinta au tu ho Hudok ma hata holong ias roham manjalo au Dung mardalan ma ito hubunganta mardua taon Gabe curiga au mamereng sifat mi

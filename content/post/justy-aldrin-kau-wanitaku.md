@@ -2,7 +2,7 @@
 title: "Justy Aldrin - Kau Wanitaku"
 date: 2025-05-25
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Langkah kakiku terhenti sejenak Memandang matamu buatku tersadar Jalan yang kita lewati takkan mudah Badaikan datang terpa rumah kisah Genggam erat tanganku

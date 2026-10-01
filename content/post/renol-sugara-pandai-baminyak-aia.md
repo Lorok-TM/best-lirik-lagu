@@ -2,7 +2,7 @@
 title: "Renol Sugara - Pandai Baminyak Aia"
 date: 2022-09-20
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 ## Lirik Lagu Pandai Baminyak Aia - Renol Sugara

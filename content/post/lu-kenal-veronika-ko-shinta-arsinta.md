@@ -2,7 +2,7 @@
 title: "Lu Kenal Veronika Ko - Shinta Arsinta"
 date: 2026-07-07
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 

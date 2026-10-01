@@ -2,7 +2,7 @@
 title: "Kelangan - Cantika Davinca"
 date: 2025-02-20
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Kelangan yang dibawakan oleh Cantika Davinca.

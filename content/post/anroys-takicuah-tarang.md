@@ -2,7 +2,7 @@
 title: "Anroys - Takicuah Tarang"
 date: 2026-08-19
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Bagarah asa mulo nyo Tak disangko manjadi cinto Basarah sudah sagalo nyo Adiak urang nan punyo

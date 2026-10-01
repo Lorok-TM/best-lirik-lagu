@@ -2,7 +2,7 @@
 title: "Permainanmu - Ardhito Pramono"
 date: 2026-07-31
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Lagu "Permainanmu" yang dibawakan oleh Ardhito Pramono secara filosofis memotret realitas dinamika hubungan asimetris, dengan fokus pada fenomena psikologis seperti backburner relationship, love-sided, dan ekspektasi sepihak yang memicu kecemasan berlebih (overthinking). Dari sudut pandang latar belakang cerita, karya kolaboratif yang ditulis oleh Caca Melinda dan Rian Ekky Pradipta ini menggambarkan posisi seseorang yang terjebak dalam ketidakpastian emosional, di mana dirinya hanya ditempatkan sebagai pilihan cadangan atau objek manipulasi perasaan oleh pihak lain. Melalui aransemen musik bernuansa dekade 1980-an, lagu ini tidak sekadar mengeksplorasi kesedihan akibat patah hati, melainkan menjadi sebuah refleksi kritis mengenai hilangnya kedaulatan diri dan rapuhnya posisi tawar seseorang ketika menyerahkan kendali kebahagiaannya sepenuhnya ke tangan orang lain.

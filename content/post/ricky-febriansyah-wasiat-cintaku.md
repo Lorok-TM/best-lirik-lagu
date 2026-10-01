@@ -2,7 +2,7 @@
 title: "Ricky Febriansyah - Wasiat Cintaku"
 date: 2026-05-26
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 

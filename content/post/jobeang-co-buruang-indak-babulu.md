@@ -2,7 +2,7 @@
 title: "Jobeang - Co Buruang Indak Babulu"
 date: 2025-06-25
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Untuang bana den ndak jadi jo pajatu Untuang dulu amak den indak katuju Kok nyampang den kawin jo pajatu dulu Mungkin nasib den lah co buruang ndak babulu

@@ -2,7 +2,7 @@
 title: "Yani Zendrato - Utema Niha Bo'o"
 date: 2026-05-24
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 

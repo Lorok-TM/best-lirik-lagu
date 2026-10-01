@@ -2,7 +2,7 @@
 title: "Lelah Dalam Sepi - Fany Zee"
 date: 2026-05-31
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 

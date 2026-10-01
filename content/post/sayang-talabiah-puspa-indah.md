@@ -2,7 +2,7 @@
 title: "Sayang Talabiah - Puspa Indah"
 date: 2025-02-09
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Sayang Talabiah yang dibawakan oleh Puspa Indah.

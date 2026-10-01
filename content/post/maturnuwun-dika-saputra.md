@@ -2,7 +2,7 @@
 title: "Maturnuwun - Dika Saputra"
 date: 2025-02-14
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Maturnuwun yang dibawakan oleh Dika Saputra.

@@ -2,7 +2,7 @@
 title: "Daster Merah - Cemos Wbo"
 date: 2025-03-06
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Daster Merah yang dibawakan oleh Cemos Wbo.

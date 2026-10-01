@@ -2,7 +2,7 @@
 title: "Nio Cinto Nan Nyato - Silva Hayati"
 date: 2026-06-13
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 

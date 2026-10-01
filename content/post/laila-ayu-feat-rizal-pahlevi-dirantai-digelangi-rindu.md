@@ -2,7 +2,7 @@
 title: "Laila Ayu Feat Rizal Pahlevi - Dirantai Digelangi Rindu"
 date: 2026-08-04
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Karya musik "Dirantai Digelangi Rindu" yang dibawakan kembali oleh Laila Ayu bersama Rizal Pahlevi merupakan gubahan melankolis ciptaan Man Toba, Rosli Khamis, dan Abd Hamid Adenan yang secara filosofis mengeksplorasi dualitas antara keterikatan emosional dan kerelaan hati. Berdasarkan narasi liriknya, lagu ini menggambarkan latar belakang psikologis seseorang yang terjebak dalam penantian cemas akan kehadiran kekasih, di mana metafora "dirantai" dan "digelangi" merepresentasikan rasa rindu yang mengikat kuat kebebasan batin sang tokoh. Di balik jerat emosi tersebut, tersimpan esensi filosofis mendalam mengenai pengorbanan dan pemaafan yang mutlak; sang subjek bersedia mengabaikan kesalahan masa lalu dan menanggung luka batin ("berparut seribu") demi memulihkan penderitaan serta memuluskan rekonsiliasi hubungan yang sempat retak. Secara objektif, komposisi ini bukan sekadar ratapan melow romantis, melainkan sebuah manifestasi komitmen emosional yang menempatkan ketulusan di atas ego pribadi.

@@ -2,7 +2,7 @@
 title: "Rocky B Duha - Oya Halöwö"
 date: 2025-11-10
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 Loawai zisambalo ba sozui dano boo Arakhago lo sa'ae folombase dodo woangeraigo Faoma falulu fohalowo danga kambera kambolo Oya halowo oya sibai halowo

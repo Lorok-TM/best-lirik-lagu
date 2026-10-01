@@ -2,7 +2,7 @@
 title: "Pakasiah Jando - Misramolai"
 date: 2025-02-07
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Pakasiah Jando yang dibawakan oleh Misramolai.

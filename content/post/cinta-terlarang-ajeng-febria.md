@@ -2,7 +2,7 @@
 title: "Cinta Terlarang - Ajeng Febria"
 date: 2026-07-20
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Cinta terlarang antara kita Tiada restu dari orang tua Karena kasta kita tak sama Budaya kita berbeda

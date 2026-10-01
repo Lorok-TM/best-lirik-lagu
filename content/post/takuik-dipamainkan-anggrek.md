@@ -2,7 +2,7 @@
 title: "Takuik Dipamainkan - Anggrek"
 date: 2026-06-30
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Di tangah malam sunyi , cinto manyeso diri Tanyo batanyo, , ,datang siliah baganti Kawan nan samo gadang, alah bajunjuangan Uda dinanti, tiado mambari pasti

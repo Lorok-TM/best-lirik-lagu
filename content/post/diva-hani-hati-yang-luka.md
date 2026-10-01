@@ -2,7 +2,7 @@
 title: "Diva Hani - Hati Yang Luka"
 date: 2026-02-09
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Berulang kali aku mencoba Selalu untuk mengalah Demi keutuhan kita berdua Walau kadang sakit

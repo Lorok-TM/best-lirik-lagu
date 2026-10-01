@@ -2,7 +2,7 @@
 title: "Ku Ikhlaskan - Laila Ayu feat. Gerry Mahesa"
 date: 2026-06-29
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 

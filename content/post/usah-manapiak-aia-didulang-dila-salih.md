@@ -2,7 +2,7 @@
 title: "Usah Manapiak Aia Didulang - Dila Salih"
 date: 2024-06-10
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 **Lirik Usah Manapiak Aia Di Dulang - Dila Salih**

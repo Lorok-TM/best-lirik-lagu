@@ -2,7 +2,7 @@
 title: "Sasa Palangka Raya - Marimbang"
 date: 2023-01-23
 categories: 
-  - "dayak"
+  - "Dayak"
   - "remix"
 ---
 

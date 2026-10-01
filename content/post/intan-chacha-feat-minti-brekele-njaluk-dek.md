@@ -2,7 +2,7 @@
 title: "Intan Chacha feat. Minti Brekele - Njaluk Dek"
 date: 2025-11-06
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Kriyip kriyip kok rodok ngantuk Isuk isuk kowe kok njaluk Sawangen kae ra duwe bubok Timbang mengko kowe tak kabruk

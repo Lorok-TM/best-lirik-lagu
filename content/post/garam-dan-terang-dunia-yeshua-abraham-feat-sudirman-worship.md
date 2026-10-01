@@ -2,7 +2,7 @@
 title: "Garam Dan Terang Dunia - Yeshua Abraham Feat Sudirman Worship"
 date: 2025-04-19
 categories: 
-  - "rohani"
+  - "Rohani"
 ---
 
 Kudipilih dan dikuduskanNya Diberi kuasa menjadi anakNya Dibenarkan disucikan Dia menjadikanku ciptaan baru

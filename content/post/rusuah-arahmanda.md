@@ -2,7 +2,7 @@
 title: "Rusuah - Arahmanda"
 date: 2025-03-07
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Rusuah yang dibawakan oleh Arahmanda.

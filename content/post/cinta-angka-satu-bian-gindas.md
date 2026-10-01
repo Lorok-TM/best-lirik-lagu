@@ -2,7 +2,7 @@
 title: "Cinta Angka Satu - Bian Gindas"
 date: 2025-02-06
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Cinta Angka Satu yang dibawakan oleh Bian Gindas.

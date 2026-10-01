@@ -2,7 +2,7 @@
 title: "Iche Br Ginting - Manis Madu"
 date: 2023-01-12
 categories: 
-  - "karo"
+  - "Karo"
 ---
 
 Iche Br Ginting bersama Prima Sora rilis single dengan lirik dalam bahasa Karo berjudul "Manis Madu", menceritakan tentang pujian terhadap sang kekasih yang begitu manis melebihi manisnya madu.

@@ -2,7 +2,7 @@
 title: "Peri Jonta Pinem - Ate Ngena La Nomor Sada"
 date: 2022-05-22
 categories: 
-  - "karo"
+  - "Karo"
 ---
 
 ## Lirik Lagu Karo ”Ate Ngena La Nomor Sada“ by Peri Jonta Pinem

@@ -2,7 +2,7 @@
 title: "Juan Reza - Ular Mau Tipu Komodo"
 date: 2026-09-19
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 Sampe sini sa su tau Sampe sini sa su tau ko tu suka tipu tipu Ular mau tipu komodo Salah Eh kau bodoh Iyalah Dasar bodoh Masa mau tipu ketua

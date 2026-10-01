@@ -2,7 +2,7 @@
 title: "Ganjang Ma Umurmi Among - Osen Hutasoit"
 date: 2024-07-07
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 **Lirik Ganjang Ma Umurmi Among yang dinyanyikan oleh Osen Hutasoit.**

@@ -2,7 +2,7 @@
 title: "Yona Irma - Lah Taraso"
 date: 2025-08-16
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Antah antah ka baa kini lah salah tingkah Iyo denai ka diri uda disapo manjo uda nan mampesona Mulo mulo biaso kini lain modenyo satiok kito batamu mato Coitu bana datak di dalam dado

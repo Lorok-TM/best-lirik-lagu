@@ -2,7 +2,7 @@
 title: "Putri Gunung - Jesica Cristy"
 date: 2026-07-23
 categories: 
-  - "campursari"
+  - "Campursari"
 ---
 
 Nadyan aku bocah gunung Doh banget dunungku Ora susah kanthi nganggo bingung Yen to pancen tresna aku

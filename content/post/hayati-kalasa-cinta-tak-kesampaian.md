@@ -2,7 +2,7 @@
 title: "Hayati Kalasa - Cinta Tak Kesampaian"
 date: 2023-05-15
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Lirik Lagu Melayu dengan judul Cinta Tak Kesampaian yang dinyanyikan oleh Hayati Kalasa dan diciptakan oleh Taufiq Sondang dengan irama musik Pop.

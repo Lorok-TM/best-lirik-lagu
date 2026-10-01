@@ -2,7 +2,7 @@
 title: "Vicky Koga - Tabuang Surang"
 date: 2025-08-29
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Antah kamano denai ka batenggang Disangko dunsanak lai ka sayang Badan diri kini tabuang Dek bansaik hiduik malakek dibadan

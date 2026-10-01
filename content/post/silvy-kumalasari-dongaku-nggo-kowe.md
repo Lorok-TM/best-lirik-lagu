@@ -2,7 +2,7 @@
 title: "Silvy Kumalasari - Dongaku Nggo Kowe"
 date: 2025-06-05
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Iki pilihanku ninggalke sliramu Senajan tresno iki tulus mung kanggo sliramu Mung cukup tak dongake mugo urip bahagia Bebrayan karo seng liyane

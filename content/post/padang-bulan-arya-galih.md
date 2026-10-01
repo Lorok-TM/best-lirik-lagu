@@ -2,7 +2,7 @@
 title: "Padang Bulan - Arya Galih"
 date: 2025-03-04
 categories: 
-  - "religi"
+  - "Religi"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Padang Bulan yang dibawakan oleh Arya Galih.

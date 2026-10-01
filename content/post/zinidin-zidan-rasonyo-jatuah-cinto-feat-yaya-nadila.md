@@ -2,7 +2,7 @@
 title: "Zinidin Zidan - Rasonyo Jatuah Cinto Feat. Yaya Nadila"
 date: 2025-06-23
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Bakato-kato tagalak surang Tasapo aruah disabuik urang Banyanyi-nyanyi di dalam hati Antah apo nan tajadi

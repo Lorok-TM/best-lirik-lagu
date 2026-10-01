@@ -2,7 +2,7 @@
 title: "Sifate Murid - Yeni Inka"
 date: 2025-03-11
 categories: 
-  - "religi"
+  - "Religi"
 ---
 
 Sifate murid ingkang bagus Iku limo di ngamal terus Kang dihin iku husnudzone Marang guru tingkah lakune

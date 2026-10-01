@@ -2,7 +2,7 @@
 title: "S'nada Trio feat. Azwin Harefa - Böi Aösö (Man Harefa)"
 date: 2025-12-19
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 So sambua noro gera era ni'erönuda Fefu ita he ono alawe ba ono matua Si'ulu salawa mbanua Satua börö zangebua

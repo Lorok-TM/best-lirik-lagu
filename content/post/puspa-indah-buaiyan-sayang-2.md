@@ -2,7 +2,7 @@
 title: "Puspa Indah - Buaiyan Sayang 2"
 date: 2025-05-19
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 

@@ -2,7 +2,7 @@
 title: "Mantan Bajingan - MyFriends"
 date: 2025-02-08
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 Digehang adi beli nyeritang Kisah masa lalu beli Apang tusing saget buin mani To anggon adi seselan

@@ -2,7 +2,7 @@
 title: "Dian Anic - Oh My Darling"
 date: 2025-11-10
 categories: 
-  - "tarling"
+  - "Tarling"
 ---
 
 Senajan urip adoh adohan Kula ning kene kakang ning perantauan Baka kangen pengen Takon kabar bari sayang sayangan

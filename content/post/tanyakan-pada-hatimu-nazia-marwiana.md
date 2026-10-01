@@ -2,7 +2,7 @@
 title: "Tanyakan Pada Hatimu - Nazia Marwiana"
 date: 2025-03-04
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Tanyakan Pada Hatimu yang dibawakan oleh Nazia Marwiana.

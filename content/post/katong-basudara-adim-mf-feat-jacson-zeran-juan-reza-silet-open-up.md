@@ -2,7 +2,7 @@
 title: "Katong Basudara - Adim MF Feat Jacson Zeran, Juan Reza & Silet Open Up"
 date: 2025-04-12
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 Soal jalan pace ko jang tanya Mo gunung ka tanjong su lewat samua Su talempar jaoh Denai ko talalu jaoh Di siko rasonyo ondeh ma sabana sero

@@ -2,7 +2,7 @@
 title: "Dini Kurnia feat. Mufly Key - Omonge Uwong"
 date: 2025-06-10
 categories: 
-  - "osing"
+  - "Osing"
 ---
 
 Dek kari meneng ono paran Sing baisane ngelamun kari temenanan Salah paran awak isun Sampek riko kari bingung, ngomongo dhik ngomongo

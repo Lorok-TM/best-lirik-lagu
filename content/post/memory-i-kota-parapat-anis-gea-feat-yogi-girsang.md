@@ -2,7 +2,7 @@
 title: "Memory I Kota Parapat - Anis Gea Feat Yogi Girsang"
 date: 2025-02-06
 categories: 
-  - "simalungun"
+  - "Simalungun"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Memory I Kota Parapat yang dibawakan oleh Anis Gea Ft Yogi Girsang.

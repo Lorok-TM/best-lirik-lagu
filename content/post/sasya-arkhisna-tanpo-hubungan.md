@@ -2,8 +2,7 @@
 title: "Sasya Arkhisna - Tanpo Hubungan"
 date: 2026-07-18
 categories: 
-  - "dangdut"
-  - "java"
+  - "Jawa"
 ---
 
 Ngopo koe ra ngolehi Kesempatan nggo nglekasi Padahal ati, wis pengen dadi siji Sikapmu sing ra nentu Sing marai aku Yakin ragu pengen bersatu

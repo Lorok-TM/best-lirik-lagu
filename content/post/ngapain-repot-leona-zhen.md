@@ -2,7 +2,7 @@
 title: "Ngapain Repot - Leona Zhen"
 date: 2026-07-27
 categories: 
-  - "dangdut"
+  - "Dangdut"
   - "timur"
 ---
 

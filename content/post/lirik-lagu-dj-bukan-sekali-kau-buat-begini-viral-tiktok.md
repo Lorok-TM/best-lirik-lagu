@@ -2,7 +2,7 @@
 title: "DJ Bukan Sekali Kau Buat Begini - Viral TikTok"
 date: 2021-12-28
 categories: 
-  - "tiktok"
+  - "Tiktok"
 ---
 
 ## Lirik DJ Bukan Sekali Kau Buat Begini

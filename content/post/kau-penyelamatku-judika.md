@@ -2,7 +2,7 @@
 title: "Kau Penyelamatku - Judika"
 date: 2025-04-18
 categories: 
-  - "rohani"
+  - "Rohani"
 ---
 
 Semua karena anugerahNya Bukan karena kebaikanku Kau telah memilih hidupku Sebelum dunia kau jadikan

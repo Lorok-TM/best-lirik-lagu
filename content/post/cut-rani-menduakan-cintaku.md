@@ -2,7 +2,7 @@
 title: "Cut Rani - Menduakan Cintaku"
 date: 2026-08-11
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 

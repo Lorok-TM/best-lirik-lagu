@@ -2,7 +2,7 @@
 title: "Davi Siumbing - Cerita Di Surakarta"
 date: 2025-07-23
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Semalam tertidur Ku bermimpi tentang dia Bermimpi tentang dia Masih tentang dia

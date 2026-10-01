@@ -2,7 +2,7 @@
 title: "Wita Sofi feat. Silet Open Up - Nona Minang Su PNS"
 date: 2025-05-07
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 Adu mama e nona su beda sekali Kaka liat su macam manis mo mati

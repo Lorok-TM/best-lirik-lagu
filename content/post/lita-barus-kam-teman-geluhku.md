@@ -2,7 +2,7 @@
 title: "Lita Barus - Kam Teman Geluhku"
 date: 2026-06-15
 categories: 
-  - "karo"
+  - "Karo"
 ---
 
 

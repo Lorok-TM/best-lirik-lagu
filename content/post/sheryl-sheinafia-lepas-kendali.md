@@ -2,7 +2,7 @@
 title: "Sheryl Sheinafia - Lepas Kendali"
 date: 2026-09-06
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Temui aku Di tengah kota saja Tentukan Hari Bertemu

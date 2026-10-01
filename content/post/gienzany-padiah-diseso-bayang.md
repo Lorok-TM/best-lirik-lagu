@@ -2,7 +2,7 @@
 title: "Gienzany - Padiah Diseso Bayang"
 date: 2025-10-09
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Oh rindu rindu denai rindu siang jo malam Takana kana maso dahulunyo Samaso kito mamadu cinto Bulan jo bintang jadi saksinyo

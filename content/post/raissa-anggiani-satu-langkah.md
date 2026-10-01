@@ -2,7 +2,7 @@
 title: "Raissa Anggiani - Satu Langkah"
 date: 2025-05-07
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Satu langkah ku ke depan Dua langkah kau jejaki Hariku hatiku

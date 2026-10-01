@@ -2,7 +2,7 @@
 title: "Silvia An - Sungguh Ku Tak Menduga"
 date: 2026-01-27
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Sungguh ku tak pernah menduga Dirimu tega khianati cinta Aku pun tiada mengerti Sampai hati kau lakukan ini

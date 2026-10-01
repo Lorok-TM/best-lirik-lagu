@@ -2,7 +2,7 @@
 title: "Dombat Malem - Sempaga Trio"
 date: 2024-10-24
 categories: 
-  - "karo"
+  - "Karo"
 ---
 
 Ate ndu keleng e nde tigan Lalap ku persilahang Ajar ndu mehuli e pe agingku Labo pernah ku begiken

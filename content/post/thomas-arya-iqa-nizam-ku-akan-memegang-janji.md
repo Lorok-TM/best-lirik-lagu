@@ -2,7 +2,7 @@
 title: "Thomas Arya & Iqa Nizam - Ku Akan Memegang Janji"
 date: 2025-08-10
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 Kau bagaikan rembulan malam Yang menemani hatiku Disaat aku sendiri Kau selalu menemani Dikala aku bersedih Kau pelipur lara hati

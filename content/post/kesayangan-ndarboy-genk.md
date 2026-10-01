@@ -2,8 +2,7 @@
 title: "Kesayangan - Ndarboy Genk"
 date: 2026-07-17
 categories: 
-  - "dangdut"
-  - "java"
+  - "Jawa"
 ---
 
 Nimas kesayangan Koyo ngopo rasane ati iki Suwe ra krungu pawartamu Bingung rasane nandang rindu

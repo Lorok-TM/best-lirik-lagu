@@ -2,7 +2,7 @@
 title: "Hatiku Rindu - Aiman Naagraj & Faqeehah"
 date: 2024-12-23
 categories: 
-  - "malaysia"
+  - "Malaysia"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Hatiku Rindu yang dibawakan oleh Aiman Naagraj Feat Faqeehah.

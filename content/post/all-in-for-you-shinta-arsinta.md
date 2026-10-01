@@ -2,7 +2,7 @@
 title: "All In For You - Shinta Arsinta"
 date: 2025-03-18
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik All In For You yang dibawakan oleh Shinta Arsinta.

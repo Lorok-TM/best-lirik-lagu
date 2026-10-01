@@ -2,7 +2,7 @@
 title: "Zicha Anesha - Rumit"
 date: 2025-06-03
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Mengapa aku tak bisa melupakan kamu Walaupun diriku telah menjauh demi masa depan mu Apakah dihati ini masih ada cinta Karena sayang tak mungkin jadi benci jika tiada sebabnya

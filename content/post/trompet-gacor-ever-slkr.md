@@ -2,7 +2,7 @@
 title: "Trompet Gacor - Ever Slkr"
 date: 2025-02-19
 categories: 
-  - "manado"
+  - "Manado"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Trompet Gacor yang dibawakan oleh Ever Slkr.

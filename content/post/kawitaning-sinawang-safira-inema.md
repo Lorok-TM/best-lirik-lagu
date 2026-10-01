@@ -2,7 +2,7 @@
 title: "Kawitaning Sinawang - Safira Inema"
 date: 2025-04-20
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Kawitan sinawange pasuryan Tansah ginambar ing semune awang Katon endah solah slagane Karereng wredhu bawane

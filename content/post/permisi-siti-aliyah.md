@@ -2,7 +2,7 @@
 title: "Permisi - Siti Aliyah"
 date: 2025-04-15
 categories: 
-  - "tarling"
+  - "Tarling"
 ---
 
 Wis sumpah lan janji Bli bakal nyakiti Tapi nangapa Kien tega gawe lara

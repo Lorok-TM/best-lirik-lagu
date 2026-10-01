@@ -2,7 +2,7 @@
 title: "Kosong Dua - Dj Qhelfin"
 date: 2025-02-17
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Kosong Dua yang dibawakan oleh Dj Qhelfin.

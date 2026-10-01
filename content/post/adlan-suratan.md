@@ -2,7 +2,7 @@
 title: "Adlan - Suratan"
 date: 2022-09-20
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 ## Lirik Lagu Suratan - Adlan

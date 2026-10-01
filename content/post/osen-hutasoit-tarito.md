@@ -2,7 +2,7 @@
 title: "Osen Hutasoit - Tarito"
 date: 2025-09-05
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Di sada tingki jumpang ma tu ibana Si boru na uli na hundul di san Uli ni parengkelna mamangan roha Obukna pe mangerbang mancai uli

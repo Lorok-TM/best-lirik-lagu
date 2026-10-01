@@ -2,7 +2,7 @@
 title: "Malapeh Hao - Rayola"
 date: 2025-02-03
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Malapeh Hao yang dibawakan oleh Rayola.

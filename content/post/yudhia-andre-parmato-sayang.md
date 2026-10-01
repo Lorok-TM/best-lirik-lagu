@@ -2,7 +2,7 @@
 title: "Yudhia & Andre - Parmato Sayang"
 date: 2022-11-16
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Raso cinto hanyo ka adiak surang Indak ado urang katigo Kasiah sayang nan ndak hilang dihati Dandam rindu kok bapisah

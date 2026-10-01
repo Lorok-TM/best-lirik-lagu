@@ -2,7 +2,7 @@
 title: "Ade Hanifer - Pengorbanan Sio Sio"
 date: 2025-09-19
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Partamo kali kito basuo batamu pandang Denai tadayo rancak ruponyo adiak co bidadari

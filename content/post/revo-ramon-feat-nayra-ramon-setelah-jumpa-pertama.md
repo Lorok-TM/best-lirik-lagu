@@ -2,7 +2,7 @@
 title: "Revo Ramon feat Nayra Ramon - Setelah Jumpa Pertama"
 date: 2023-05-18
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Lirik Lagu Melayu dengan judul Setelah Jumpa Pertama yang dinyanyikan oleh Revo Ramon Ft. Nayra Ramon dan diciptakan oleh Udiek Sugeng dengan irama musik Dangdut.

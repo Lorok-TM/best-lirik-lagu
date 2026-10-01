@@ -2,7 +2,7 @@
 title: "Haruskah Ku Menangis - Arbil Fahrizan"
 date: 2025-04-16
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Bagai mengukir di atas air Begitulah cintaku kepadamu Setulus hati kau kusayangi Namun semua tiada arti

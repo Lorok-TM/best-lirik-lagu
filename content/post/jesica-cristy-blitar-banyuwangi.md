@@ -2,7 +2,7 @@
 title: "Jesica Cristy - Blitar Banyuwangi"
 date: 2026-07-28
 categories: 
-  - "campursari"
+  - "Campursari"
 ---
 
 Sumirat kuning suminar Suryo wanci sore ing Terminal Blitar Koyo koyo nguntap’ake Budalku karo kowe menyang Banyuwangi

@@ -2,7 +2,7 @@
 title: "Bigheru - Takanai Dek Parangai"
 date: 2025-10-05
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Dulu arek bajanjikan cinto Sahinggo denai tapadayo Lah picayo sapanuahnyo hati den bari

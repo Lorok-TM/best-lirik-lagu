@@ -2,7 +2,7 @@
 title: "Shinta Arsinta - Mutiara"
 date: 2026-07-05
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 

@@ -2,7 +2,7 @@
 title: "Thomas Arya - Rela Ku Terluka"
 date: 2023-04-09
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 **Lirik Rela Ku Terluka - Thomas Arya**

@@ -2,7 +2,7 @@
 title: "Anis Gea - Ngenu Dödö"
 date: 2022-03-10
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 ## Lirik Lagu Nias “Ngenu Dodo” by Anis Gea

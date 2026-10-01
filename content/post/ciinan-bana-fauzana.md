@@ -2,7 +2,7 @@
 title: "Ciinan Bana - Fauzana"
 date: 2024-07-28
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Malu malu, malu denai tamalu Mato lincah mambuek salah tingkah Dek uda gagah bana mandayo sungguah mandayo Lah bakraso denai nan punyo

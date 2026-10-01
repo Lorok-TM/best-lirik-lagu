@@ -2,7 +2,7 @@
 title: "Cinta Dia Akan Bapaling - Agus Ariyanto (Lan Tejul)"
 date: 2026-09-19
 categories: 
-  - "dayak"
+  - "Dayak"
 ---
 
 Cintaku dengammuh dia luwe luwen Manyapih kagantung gunung badehes kilau sungei Aramuh ingatku sayang melay hong atey Amun tapisah dengammuh putus ku matei

@@ -2,7 +2,7 @@
 title: "Boru Ni Raja - Nova Siregar feat Dedy Gunawan"
 date: 2026-07-22
 categories: 
-  - "tapsel"
+  - "Tapsel"
 ---
 
 Baju batik anggi baju kebaya Giot pakeon kehe tu horja Hu tatap ko anggi amana tama Botul ma ho anggi boru ni raja Hu tatap ko anggi amana tama Botul ma ho anggi boru ni raja

@@ -2,7 +2,7 @@
 title: "Ona Hetharua ft Evert Titahena - Cinta Sejati"
 date: 2023-03-22
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 Lirik Lagu Timur dengan judul Cinta Sejati yang dinyanyikan oleh Ona Hetharua Feat. Evert Titahena dan diciptakan oleh Evert Titahena dengan irama musik Pop.

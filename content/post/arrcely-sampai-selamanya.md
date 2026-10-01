@@ -2,7 +2,7 @@
 title: "Arrcely - Sampai Selamanya"
 date: 2026-09-19
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Kau membuktikan janji bukanlah sekedar manis kata Berkaca kaca hati teringat upaya tanpa batas

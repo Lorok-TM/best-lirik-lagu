@@ -2,7 +2,7 @@
 title: "Cinta Sejati - Mubai"
 date: 2025-02-02
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Cinta Sejati yang dibawakan oleh Mubai.

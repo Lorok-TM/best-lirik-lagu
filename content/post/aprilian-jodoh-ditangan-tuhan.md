@@ -2,7 +2,7 @@
 title: "Aprilian - Jodoh Ditangan Tuhan"
 date: 2023-02-03
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Aprilian bersama RW Pro rilis single Melayu berjudul "Jodoh Ditangan Tuhan" yang diciptakan oleh Faisal Asahan, menceritakan tentang seseorang yang menjalin cinta dan ternyata kekasihnya kini telah mendua, namun dia meyakini bahwa jodoh ada ditangan Tuhan.

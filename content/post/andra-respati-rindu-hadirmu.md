@@ -2,7 +2,7 @@
 title: "Andra Respati - Rindu Hadirmu"
 date: 2025-11-10
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 Rindu sungguh aku rindu Kepada dirimu sayang Aku menunggu kabarmu Pengobat rasa hatiku

@@ -2,7 +2,7 @@
 title: "Thomas Arya - Ucapkanlah"
 date: 2025-08-04
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 Kebekuanmu kasih Yang membuat diriku selalu saja Bertanya tanya di hati Apa yang tlah terjadi Katakan sayang kepadaku

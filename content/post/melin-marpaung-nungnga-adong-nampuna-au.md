@@ -2,7 +2,7 @@
 title: "Melin Marpaung - Nungnga Adong Nampuna Au"
 date: 2025-07-17
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Sugari ma nian songon bunga diladang Uli mangerbang jala dang adong nampuna Rade do rohakki ito lao mangurupi Asa tung boi bunga i putikhononmu Alai nungnga tung di handang-handangi Bunga nauli na pinarsitta mi

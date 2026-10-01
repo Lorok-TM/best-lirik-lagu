@@ -2,7 +2,7 @@
 title: "Cut Rani Auliza - Lukaku Mencintai"
 date: 2023-02-13
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Cut Rani Auliza rilis single Melayu berjudul "Lukaku Mencintai" yang diciptakan oleh Ajhay Pasma, menceritakan tentang menemukan seseorang yang salah, ketika kita sudah berusaha mencintai setulus hati, namun ia pergi begitu saja memilih pergi untuk cinta yang lain dengan meninggalkan luka yang teramat sakit.

@@ -2,7 +2,7 @@
 title: "Eka Uget Uget - Imbangono Katresnanku dan Artinya"
 date: 2023-01-22
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 Eka Uget Uget rilis single dengan lirik dalam bahasa Jawa berjudul "Imbangono Katresnanku" yang artinya "Imbangilah Cintaku", menceritakan tentang hubungan cinta seseorang yang sudah pernah berjanji selalu setia namun kini mulai berubah, dan kekasihnya sangat berharap agar tetap bisa menjaga janji cinta yang pernah terucap dulu, untuk sama sama mengimbangi cinta diantara mereka jangan sampai berpisah. Untuk lebih jelasnya silahkan Anda baca terjemahan lirik lagunya berada dibawah.

@@ -2,7 +2,7 @@
 title: "Misramolai - Urang Katigo"
 date: 2025-10-31
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Carilah cari cari nan lain Usalah denaiko diharok juo Kok ka basatu kito ndak mungkin Antaro kito da jauh bedonyo

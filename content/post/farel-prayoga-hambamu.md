@@ -2,7 +2,7 @@
 title: "Farel Prayoga - HambaMu"
 date: 2026-07-23
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Diberi ujian Sampaikan ratusan cinta-Mu padanya Menemankan sakit yang ada Temui jalan yang dinanti Sampaikan kasih-Mu padanya Aku merayu sembahku pada-Mu

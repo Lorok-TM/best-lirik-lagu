@@ -2,7 +2,7 @@
 title: "Nur Mai Sella - Uddani Tenri Bali"
 date: 2022-01-20
 categories: 
-  - "bugis"
+  - "Bugis"
 ---
 
 ## Lirik Lagu Bugis ”Uddani Tenri Bali“ by Nur Mai Sella

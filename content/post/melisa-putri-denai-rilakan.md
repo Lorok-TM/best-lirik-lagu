@@ -2,7 +2,7 @@
 title: "Melisa Putri - Denai Rilakan"
 date: 2025-08-22
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Lah harok gantiang putiak ka gadang Rinai manyiram si bungo rayo Malang nyo batang kama batenggang Urek di rangguik urang nan punyo

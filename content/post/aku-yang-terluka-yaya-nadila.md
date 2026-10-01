@@ -2,7 +2,7 @@
 title: "Aku Yang Terluka - Yaya Nadila"
 date: 2025-02-05
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Aku Yang Terluka yang dibawakan oleh Yaya Nadila.

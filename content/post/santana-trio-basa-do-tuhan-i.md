@@ -2,7 +2,7 @@
 title: "Santana Trio - Basa Do Tuhan I"
 date: 2025-07-13
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Aut sura boi nian Boi mulak mangolu ho among inong Aut boi nian hehe ho sian udean mi Ra ida on mu ma parbue ni poda mi Uju di ngolum Tu au anak sasada mon si torop iboto i

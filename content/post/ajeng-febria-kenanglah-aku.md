@@ -2,7 +2,7 @@
 title: "Ajeng Febria - Kenanglah Aku"
 date: 2026-07-14
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Karamnya cinta ini Tenggelamkanku di duka yang terdalam Hampa hati terasa

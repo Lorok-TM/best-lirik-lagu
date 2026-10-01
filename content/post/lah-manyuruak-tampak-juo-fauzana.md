@@ -2,7 +2,7 @@
 title: "Lah Manyuruak Tampak Juo - Fauzana"
 date: 2025-06-14
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Batinggakan malu da sayang La diri denai ko Lah mahituang hari babilang jo jari Lda kini mamutuih cinto Lah mahituang hari babilang jo jari Uda kini mamutuih cinto

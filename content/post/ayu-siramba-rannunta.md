@@ -2,7 +2,7 @@
 title: "Ayu Siramba - Rannunta"
 date: 2026-04-10
 categories: 
-  - "toraja"
+  - "Toraja"
 ---
 
 

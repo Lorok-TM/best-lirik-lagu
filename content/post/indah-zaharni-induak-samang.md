@@ -2,7 +2,7 @@
 title: "Indah Zaharni - Induak Samang"
 date: 2025-04-27
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Malang untuang nyo nan kanduang padi salibu.. Buah lah tabik tapi urang biakan.. Malang di badan tasuo sarupo itu.. Jariah tapakai ndeh jaso urang hilang kan Malang di badan tasuo sarupo itu.. Jariah tapakai ndeh jaso urang hilang kan..

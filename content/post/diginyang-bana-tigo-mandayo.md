@@ -2,7 +2,7 @@
 title: "Diginyang Bana - Tigo Mandayo"
 date: 2025-05-19
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Yang diginyang diginyang bana diginyang Diginyang bana diginyang diginyang bana Yang diginyang diginyang bana diginyang Diginyang bana diginyang diginyang ginyang bana

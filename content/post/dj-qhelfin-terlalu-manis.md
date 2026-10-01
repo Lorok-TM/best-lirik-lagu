@@ -2,7 +2,7 @@
 title: "Dj Qhelfin - Terlalu Manis"
 date: 2025-09-02
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 Ko bikin sa hati susah Ko terlalu manis Waktu tatap ko pung mata Langsung terhipnotis Kalau nanti ko sudah jadi sa punya Ko akan jadi satu-satunya Mulai dari sa punya hati punya jantung Sa kasi ko semua Karna ko terlalu manis Terlalu menarik Sampe sa salting Jujur sa tidak akting Ko curi sa pung hati Trus ko bawa lari Tapi sa yakin pasti tong happy ending

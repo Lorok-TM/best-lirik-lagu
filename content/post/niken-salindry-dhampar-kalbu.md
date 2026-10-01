@@ -2,7 +2,7 @@
 title: "Niken Salindry - Dhampar Kalbu"
 date: 2025-05-06
 categories: 
-  - "campursari"
+  - "Campursari"
 ---
 
 Sumandhing marang siro kusumo ati Kawuri kang tak impi-impi Memangun katresnan sejati Sinanggit mring asmoro kang sinandhi

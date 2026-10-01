@@ -2,7 +2,7 @@
 title: "Beta Salah Apa - Fresly Nikijuluw"
 date: 2025-04-09
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 Su coba biking bae samua Yang se bilang beta so barobah Dan nona su jua su tau Kalau dia itu masa lalu

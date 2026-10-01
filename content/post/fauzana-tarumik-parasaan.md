@@ -2,7 +2,7 @@
 title: "Fauzana - Tarumik Parasaan"
 date: 2022-12-15
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 **Lirik Tarumik Parasaan - Fauzana**

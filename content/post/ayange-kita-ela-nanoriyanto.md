@@ -2,7 +2,7 @@
 title: "Ayange Kita - Ela Nanoriyanto"
 date: 2024-09-21
 categories: 
-  - "tarling"
+  - "Tarling"
 ---
 
 Wong lanang pirang pirang Sing ganteng ya ora kurang Tapi cuma sampean Sing gawe kula terlope lope

@@ -2,7 +2,7 @@
 title: "Najwa - Mengapa Masih Disini"
 date: 2023-06-28
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Lirik Lagu Melayu dengan judul Mengapa Masih Disini yang dinyanyikan oleh Najwa dan diciptakan oleh Ajhay Pasma dengan irama musik Pop.

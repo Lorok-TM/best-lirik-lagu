@@ -2,7 +2,7 @@
 title: "Lagu Kerinduan - Rahma Rahmi"
 date: 2026-01-22
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Kutitipkan rindu pada langit senja ini Untukmu duhai kekasih hati Di sini ku merasa hampa Sekian lama kita tak berjumpa

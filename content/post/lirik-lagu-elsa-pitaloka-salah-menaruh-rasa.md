@@ -2,7 +2,7 @@
 title: "Elsa Pitaloka - Salah Menaruh Rasa"
 date: 2022-02-12
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Title : Salah Menaruh Rasa Artist : Elsa Pitaloka Songwriter : Nav Ws Published : Teras Musik Category : Lagu Pop Melayu

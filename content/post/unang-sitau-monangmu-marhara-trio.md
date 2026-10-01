@@ -2,7 +2,7 @@
 title: "Unang Sitau Monangmu - Marhara Trio"
 date: 2025-06-17
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Aha be na so hubaen na denggan maradophon ho da hasian Hosa dohot nasa ngolukki nga hupelehon be tu ho Alani holongku do i Tu ho hasian

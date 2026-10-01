@@ -2,7 +2,7 @@
 title: "Difarina Indra Adella - Memilih Setia feat. Fendik Adella"
 date: 2025-11-05
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Sukamu sukaku juga Dukamu dukaku juga Bertahun kita bersama Mengarungi suka dukaasmara

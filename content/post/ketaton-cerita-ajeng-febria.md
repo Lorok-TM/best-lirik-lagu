@@ -2,7 +2,7 @@
 title: "Ketaton Cerita - Ajeng Febria"
 date: 2026-09-05
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Sumilir angin wengi Nggegawa rasa Lintang e wus sirna katutup mega

@@ -2,7 +2,7 @@
 title: "Wulan Putri - Putuih Manjalang Alek"
 date: 2025-08-28
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 

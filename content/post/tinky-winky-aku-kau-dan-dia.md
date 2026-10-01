@@ -2,7 +2,7 @@
 title: "Tinky Winky - Aku Kau Dan Dia"
 date: 2025-05-02
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Verse : Terbangun dari mimpi burukku dan mendapat.. Kabar berita tentangmu.. Berita itu tentang engkau dan dirinya.. Yang sedang mendua..

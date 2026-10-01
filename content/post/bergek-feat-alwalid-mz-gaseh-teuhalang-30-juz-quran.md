@@ -2,7 +2,7 @@
 title: "Bergek feat Alwalid Mz - Gaseh Teuhalang 30 Juz Qur'an"
 date: 2023-05-27
 categories: 
-  - "aceh"
+  - "Aceh"
 ---
 
 Lirik Lagu Aceh dengan judul Gaseh Teuhalang 30 Juz Qur'an yang dinyanyikan oleh Bergek Ft. Alwalid Mz dan diciptakan oleh Ody cempeudak, Kamal MZ dengan irama musik Pop.

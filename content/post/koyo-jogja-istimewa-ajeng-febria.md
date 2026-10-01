@@ -2,8 +2,7 @@
 title: "Koyo Jogja Istimewa - Ajeng Febria"
 date: 2026-07-23
 categories: 
-  - "dangdut"
-  - "java"
+  - "Jawa"
 ---
 
 

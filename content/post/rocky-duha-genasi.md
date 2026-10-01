@@ -2,7 +2,7 @@
 title: "Rocky Duha - Genasi"
 date: 2025-12-21
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 Lö utöna akhi wa'alio tafabali Meso badödögu limö sino özazi Memanörö ita khi ba genasi Meowaö khögu hayao öbaloi

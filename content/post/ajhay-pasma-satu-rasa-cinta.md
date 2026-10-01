@@ -2,7 +2,7 @@
 title: "Ajhay Pasma - Satu Rasa Cinta"
 date: 2022-11-24
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Lirik Lagu Melayu dengan judul Satu Rasa Cinta yang dinyanyikan dan diciptakan oleh Ajhay Pasma dengan irama musik Pop.

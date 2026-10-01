@@ -2,7 +2,7 @@
 title: "Renata Dua CS - Kampung Benua"
 date: 2026-09-16
 categories: 
-  - "dayak"
+  - "Dayak"
 ---
 
 Ohh jangak nya benua' Tampatku hidup badiam Ohh rindang nya hatiku Bujang dara tuha bigal benari'

@@ -2,7 +2,7 @@
 title: "Perbedaan - Cholesterol Band"
 date: 2025-03-08
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Perbedaan yang dibawakan oleh Cholesterol Band.

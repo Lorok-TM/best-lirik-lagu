@@ -2,7 +2,7 @@
 title: "Sela Ovi - Seperti Yang Dulu"
 date: 2026-09-06
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Tiada guna kau kembali Mengisi ruang hati ini Semuanya telah berlalu Bersama luka aku

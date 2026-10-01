@@ -2,7 +2,7 @@
 title: "Niken Salindry - Pelampiasan 2"
 date: 2025-11-12
 categories: 
-  - "campursari"
+  - "Campursari"
 ---
 
 Aku wes sadar aku nglarani Aku wes sadar dolanan ati

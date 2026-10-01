@@ -2,7 +2,7 @@
 title: "No No No - Avolia Feat Willy Anggawinata, Adam Zeins"
 date: 2025-04-11
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Dulu kau bilang aku dunia Sekarang aku cuma cerita Kau pilih dia tanpa ragu Padahal ku yang selalu ada untukmu

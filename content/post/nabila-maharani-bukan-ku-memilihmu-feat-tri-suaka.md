@@ -2,7 +2,7 @@
 title: "Nabila Maharani - Bukan Ku Memilihmu feat. Tri Suaka"
 date: 2025-08-13
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Ku memilih kamu bukan karena parasmu Tapi tuhan yang memilihmu untukku Kau bisa buatku jatuh cinta pada hatimu Jadilah kau hidup dan matiku

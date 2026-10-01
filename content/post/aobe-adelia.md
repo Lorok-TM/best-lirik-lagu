@@ -2,7 +2,7 @@
 title: "Aobe - Adelia"
 date: 2024-10-31
 categories: 
-  - "madura"
+  - "Madura"
 ---
 
 Dhikah aobe duh tade' marghe Pas tak ngarteh ka maksodhe Dhika nyingghe'eh minta putusseh Dhing pon rajeh tresna buleh

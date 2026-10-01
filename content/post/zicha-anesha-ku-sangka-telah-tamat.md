@@ -2,7 +2,7 @@
 title: "Zicha Anesha - Ku Sangka Telah Tamat"
 date: 2025-08-19
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Disaat hatiku sedang bersedih Di khianati kekasih hadirlah dirimu Ku sangka harapan ku telah tamat Dan tak mungkin ada lagi yang mencintaiku

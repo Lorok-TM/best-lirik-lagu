@@ -2,7 +2,7 @@
 title: "Dian Anic - Dadi Pelangi dan Artinya"
 date: 2022-08-05
 categories: 
-  - "tarling"
+  - "Tarling"
 ---
 
 ## Lirik Lagu Tarling ”Dadi Pelangi“ by Dian Anic

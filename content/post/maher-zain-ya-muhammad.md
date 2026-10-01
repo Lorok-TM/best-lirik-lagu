@@ -2,7 +2,7 @@
 title: "Maher Zain - Ya Muhammad"
 date: 2026-02-09
 categories: 
-  - "religi"
+  - "Religi"
 ---
 
 يَا حَبِیْبِي، يَا مُحَمَّدٌ Ya Habibi, Ya Muhammad You're the one who showed us the way

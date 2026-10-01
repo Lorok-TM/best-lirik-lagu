@@ -2,7 +2,7 @@
 title: "Valentina Sitohang Feat Daniel Sinurat - Tarhirim Au Dibaen Ho"
 date: 2025-05-15
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Na ujui di dokkon ho tu au Holan sasada au di ngolumi Na ujui di dokkon ho tu au Holan sasada au di rohami

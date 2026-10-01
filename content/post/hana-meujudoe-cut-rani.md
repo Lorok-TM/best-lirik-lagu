@@ -2,7 +2,7 @@
 title: "Hana Meujudoe - Cut Rani"
 date: 2025-04-09
 categories: 
-  - "aceh"
+  - "Aceh"
 ---
 
 Na awai pasti na akhe Hana yang keukai Dalam hudep nyoe

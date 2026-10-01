@@ -2,7 +2,7 @@
 title: "Tangisan Di Bawah Hujan - Ifan Seventeen"
 date: 2026-07-31
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Lagu berjudul "Tangisan Dibawah Hujan" karya Ifan Seventeen yang termuat dalam album Resonance (2026) membawa kedalaman filosofis mengenai mekanisme pertahanan emosional manusia saat menghadapi kedukaan dan kehilangan. Secara naratif, karya ciptaan Ifan Seventeen bersama Opik Kurdi, Reza Nurwiansyah, dan Relando Riyandi ini memosisikan hujan bukan sekadar sebagai fenomena alam atau latar pelengkap, melainkan sebagai medium kamuflase emosional yang sengaja dipilih untuk menyembunyikan kerapuhan dari pandangan orang lain, terutama dari sosok yang memilih untuk pergi. Melalui penggalan liriknya, lagu ini merefleksikan stoisisme personal di mana sang tokoh utama memilih untuk meredam ego dan menolak memperlihatkan kelemahan di hadapan publik, sekaligus menegaskan bahwa kesedihan yang mendalam sering kali membutuhkan ruang privat yang absolut agar proses pemulihan batin dapat berlangsung secara mandiri tanpa intervensi eksternal.

@@ -2,7 +2,7 @@
 title: "Kok Iyo Sabana Sayang - Alfina Braner"
 date: 2025-06-10
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Kok iyo uda sabana sayang Kok iyo uda sabana cinto Datang lah uda ka rumah maminang Usah balamo lamo

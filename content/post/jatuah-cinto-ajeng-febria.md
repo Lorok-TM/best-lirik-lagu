@@ -2,7 +2,7 @@
 title: "Jatuah Cinto - Ajeng Febria"
 date: 2026-07-01
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Dek uda nan baiak hati (Karena kamu baik) Denai jadi kanai hati (membuat hatiku luluh) Ka diri uda kini (sama kamu) Ka uda kini (hanya kamu )

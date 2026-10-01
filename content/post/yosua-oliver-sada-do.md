@@ -2,7 +2,7 @@
 title: "Yosua Oliver - Sada Do"
 date: 2025-05-16
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Sada do mataniari binsar Boi do i manondangi sasude Ai bulan i pe da ito Na boi do manondangi haholomon

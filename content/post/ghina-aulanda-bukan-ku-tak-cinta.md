@@ -2,7 +2,7 @@
 title: "Ghina Aulanda - Bukan Ku Tak Cinta"
 date: 2022-12-28
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Lirik Lagu Melayu dengan judul Bukan Ku Tak Cinta yang dinyanyikan oleh Ghina Aulanda dan diciptakan oleh Harry Parintang dengan irama musik Pop.

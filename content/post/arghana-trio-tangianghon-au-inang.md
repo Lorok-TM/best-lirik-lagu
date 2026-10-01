@@ -2,7 +2,7 @@
 title: "Arghana Trio - Tangianghon Au Inang"
 date: 2023-02-25
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Lirik Lagu Batak dengan judul Tangianghon Au Inang yang dinyanyikan oleh Arghana Trio dan diciptakan oleh Eduar Sihombing dengan irama musik Pop.

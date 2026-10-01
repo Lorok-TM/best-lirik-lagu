@@ -2,7 +2,7 @@
 title: "Tata Talita ft. Carlos - Kok Indak Jo Uda Bia Marando"
 date: 2022-12-19
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Lirik Lagu Minang dengan judul Kok Indak Jo Uda Bia Marando yang dinyanyikan oleh Tata Talita Feat. Carlos dan diciptakan oleh Ajhay Pasma dengan irama musik Pop.

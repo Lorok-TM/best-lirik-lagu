@@ -2,7 +2,7 @@
 title: "Anton Yoga - Ajahin Beli"
 date: 2025-11-09
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 Ape ane terjadi Beli tusing mengerti Sing ade hujan sing ade angin Adi menghilang

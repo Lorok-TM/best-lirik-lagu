@@ -2,7 +2,7 @@
 title: "Wan Parau - Pasan Mande Samaso Hiduik"
 date: 2022-11-22
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Lirik Lagu Minang dengan judul Pasan Mande Samaso Hiduik yang dinyanyikan oleh Wan Parau. Lagu ini diciptakan oleh Wan Parau dengan irama musik Pop.

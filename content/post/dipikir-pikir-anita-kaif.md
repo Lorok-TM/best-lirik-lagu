@@ -2,7 +2,7 @@
 title: "Dipikir Pikir - Anita Kaif"
 date: 2025-01-07
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Dipikir Pikir yang dibawakan oleh Anita Kaif.

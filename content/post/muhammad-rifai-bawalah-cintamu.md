@@ -2,7 +2,7 @@
 title: "Muhammad Rifai - Bawalah Cintamu"
 date: 2025-06-19
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Mengapa tak kau katakan Sejujurnya tentang hatimu Kau bohongi hatiku ini Hanya untuk membalut lukamu

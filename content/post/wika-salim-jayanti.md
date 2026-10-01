@@ -2,7 +2,7 @@
 title: "Wika Salim - Jayanti"
 date: 2026-07-19
 categories: 
-  - "sunda"
+  - "Sunda"
 ---
 
 Wanci burit surya rek pamit Hujan leutik ngaririncik Kingkilaban pating kolebat Sisi basisir jayanti

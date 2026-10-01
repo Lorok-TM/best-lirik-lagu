@@ -2,7 +2,7 @@
 title: "Rinvi Ananda - Lali Janjine"
 date: 2026-07-23
 categories: 
-  - "campursari"
+  - "Campursari"
 ---
 
 Dino minggu sing tak tunggu Kowe ngajak ning tawangmangu Nganti lingsir srengengene Ono kene aku nunggu kowe

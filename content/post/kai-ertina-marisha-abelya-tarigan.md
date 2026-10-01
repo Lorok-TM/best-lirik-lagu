@@ -2,7 +2,7 @@
 title: "Kai Ertina - Marisha Abelya Tarigan"
 date: 2024-09-24
 categories: 
-  - "karo"
+  - "Karo"
 ---
 
 Arih sielo penading ndu Nadingken ndu kam bas pusuhku Keleng akap tambah nge lengku mantm sinterem Aku aloken ndu

@@ -2,7 +2,7 @@
 title: "Aprilian - Tiada Cinta Seperti Cintaku"
 date: 2025-07-04
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 Tiada cinta seperti cintaku Tiada rindu seperti ku merindumu Tiada kasih sayang Seperti ku menyayangimu

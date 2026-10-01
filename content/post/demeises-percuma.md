@@ -2,8 +2,7 @@
 title: "Demeises - Percuma"
 date: 2023-03-24
 categories: 
-  - "band"
-  - "indonesia"
+  - "Band"
 ---
 
 Lirik Lagu Band Indo dengan judul Percuma yang dinyanyikan diciptakan oleh Demeises dengan irama musik Pop.

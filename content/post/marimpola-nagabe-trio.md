@@ -2,7 +2,7 @@
 title: "Marimpola - Nagabe Trio"
 date: 2025-06-17
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Ias do anggo holongki tu ho Tarsongon bunga hapasi Sai hira tio ni mual i Mansai lambok panghilalaanki Ibaen uli ni rupami

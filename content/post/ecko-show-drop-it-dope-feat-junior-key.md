@@ -2,7 +2,7 @@
 title: "Ecko Show - Drop It Dope feat. Junior Key"
 date: 2025-07-26
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Drop it "G-town main trus"

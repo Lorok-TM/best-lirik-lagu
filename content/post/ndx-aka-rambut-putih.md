@@ -2,7 +2,7 @@
 title: "NDX AKA - Rambut Putih dan Artinya"
 date: 2023-05-20
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 NDX AKA rilis single dengan lirik dalam bahasa Jawa berjudul "Rambut Putih" yang artinya ya "Rambut Putih", menceritakan tentang pembelajaran diri seseorang yang sebelumnya pernah mengalami sebuah kegagalan, kini ia lebih memilih yang pasti pasti aja. Untuk lebih jelasnya silahkan Anda baca terjemahan lirik lagunya berada dibawah.

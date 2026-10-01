@@ -2,7 +2,7 @@
 title: "Lebih Suina - Iche Ginting"
 date: 2025-01-16
 categories: 
-  - "karo"
+  - "Karo"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Lebih Suina yang dibawakan oleh Iche Br Ginting.

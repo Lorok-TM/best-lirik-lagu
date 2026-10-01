@@ -2,7 +2,7 @@
 title: "Sadis - Tika Pagraky"
 date: 2024-09-09
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 Dije perasaan beli Beli tusing ngelah hati Care tertusuk belati Tiang ikhlas jani tiang megedi

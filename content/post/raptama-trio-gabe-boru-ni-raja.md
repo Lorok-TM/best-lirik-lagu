@@ -2,7 +2,7 @@
 title: "Raptama Trio - Gabe Boru Ni Raja"
 date: 2025-08-01
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Sian si hadoan do au dohot ho Hita nadua hasian marsitandaan i Au di pekan baru ho di kota bogor Tung holip sian pamerengan

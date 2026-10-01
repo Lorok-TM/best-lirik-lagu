@@ -2,7 +2,7 @@
 title: "Andra Respati feat. Gisma Wandira - Andai Tak Berpisah"
 date: 2023-01-21
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 Andra Respati & Gisma Wandira rilis single Melayu berjudul "Andai Tak Berpisah" yang diciptakan oleh Erwin Agam, menceritakan tentang sepasang kekasih yang keduanya sama sama menuruti egonya dan mau menangnya sendiri yang akhirnya mereka berpisah.

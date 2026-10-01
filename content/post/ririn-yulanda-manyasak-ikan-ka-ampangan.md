@@ -2,7 +2,7 @@
 title: "Ririn Yulanda - Manyasak Ikan Ka Ampangan"
 date: 2025-08-16
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Alah manapi biduak katapi ondeh da Manyasak ikan ka ampangan Badampuang dampuang dado Cameh nan jo harok Bak raso di dalam mimpi Badampuang dampuang dado Cameh nan jo harok Bak raso di dalam mimpi

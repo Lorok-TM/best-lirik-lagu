@@ -2,7 +2,7 @@
 title: "Tuhan Engkau Baik - Gaby Bettay"
 date: 2025-02-08
 categories: 
-  - "rohani"
+  - "Rohani"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Tuhan Engkau Baik yang dibawakan oleh Gaby Bettay.

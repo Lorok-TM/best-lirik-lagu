@@ -2,7 +2,7 @@
 title: "Sewu Siji - Dini Kurnia Feat. Mufly Key"
 date: 2026-07-30
 categories: 
-  - "dangdut"
+  - "Dangdut"
   - "osing"
 ---
 

@@ -2,8 +2,7 @@
 title: "Niken Salindry Feat Arya Galih - Karmo Tresno dan Artinya"
 date: 2023-02-23
 categories: 
-  - "dangdut"
-  - "java"
+  - "Jawa"
 ---
 
 Niken Salindry & Arya Galih bersama Eny's Production rilis single dengan lirik dalam bahasa Jawa berjudul "Karmo Tresno" yang artinya "Karma Cinta", menceritakan tentang hubungan sebuah cinta yang tidak terjaga dengan baik. Untuk lebih jelasnya silahkan Anda baca terjemahan lirik lagunya berada dibawah.

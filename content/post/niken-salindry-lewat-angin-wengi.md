@@ -2,7 +2,7 @@
 title: "Niken Salindry - Lewat Angin Wengi"
 date: 2025-04-23
 categories: 
-  - "campursari"
+  - "Campursari"
 ---
 
 Rungokno sworo atiku Kang nandang kangen sliramu Kang tansah manah atiku Saben wengi ra biso nendro netraku

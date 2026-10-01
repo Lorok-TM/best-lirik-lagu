@@ -2,7 +2,7 @@
 title: "Manjapang Nupi - Bulan Triana / Anita Lentang"
 date: 2024-05-28
 categories: 
-  - "dayak"
+  - "Dayak"
 ---
 
 **Lirik Manjapang Nupi - Bulan Triana (Anita Lentang)**

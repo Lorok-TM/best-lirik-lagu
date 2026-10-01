@@ -2,7 +2,7 @@
 title: "April DA7 - Menyala"
 date: 2026-07-10
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Dari kecil belajar sabar Langkah kecilku berharap besar Meski gelap ku tetap berjalan Menyimpan terang di masa depan Menyala

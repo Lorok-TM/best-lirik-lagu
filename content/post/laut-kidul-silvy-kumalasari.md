@@ -2,7 +2,7 @@
 title: "Laut Kidul - Silvy Kumalasari"
 date: 2026-07-02
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 

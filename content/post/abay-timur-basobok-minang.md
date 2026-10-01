@@ -2,7 +2,7 @@
 title: "Abay - Timur Basobok Minang"
 date: 2025-09-01
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Nampak sakileh kami yo lugu-lugu Tapi sadonyo kami ko suhu-suhu Bintang film sampai ka pengarang lagu Ooo nyong timur dari dulu pasti tau

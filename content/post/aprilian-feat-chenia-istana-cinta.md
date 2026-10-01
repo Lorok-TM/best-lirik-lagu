@@ -2,7 +2,7 @@
 title: "Aprilian feat. Chenia - Istana Cinta"
 date: 2023-06-19
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Lirik Lagu Melayu dengan judul Istana Cinta yang dinyanyikan oleh Aprilian Ft. Chenia dan diciptakan oleh Andri Dharma dengan irama musik Pop.

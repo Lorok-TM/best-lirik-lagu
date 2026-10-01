@@ -2,7 +2,7 @@
 title: "Bagus Wirata - De Kual"
 date: 2022-03-08
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 Title : De Kual Artist : Bagus Wirata Songwriter : Dewa Mayura & Kara Sunset Category : Lagu Bali

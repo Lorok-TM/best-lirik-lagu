@@ -2,7 +2,7 @@
 title: "Rayola - Hilang Baru Taraso"
 date: 2026-09-03
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Jikok ka dikana-kana Nan alah denai barikan dulu Samaso kito baduo Manjalin sitali cinto

@@ -2,7 +2,7 @@
 title: "Aprilian - Bagian Masa Lalu"
 date: 2025-07-03
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 Kau ikutilah kata hatimu Bila semua itu maumu Aku takkan pernah hentikan langkahmu

@@ -2,7 +2,7 @@
 title: "Ray Peni - Bahasa Hati"
 date: 2021-09-08
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 Ray Peni rilis single dengan lirik dalam bahasa Bali berjudul "Bahasa Hati".

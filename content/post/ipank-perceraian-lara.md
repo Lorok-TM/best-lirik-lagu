@@ -2,7 +2,7 @@
 title: "Ipank - Perceraian Lara"
 date: 2023-01-29
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Ipank rilis singel Melayu berjudul "Perceraian Lara", menceritakan tentang sepasang suami istri yang lagi dilanda prahara dalam berumah tangganya, hingga akhirnya hubungan pernikahan mereka harus berakhir dengan perceraian.

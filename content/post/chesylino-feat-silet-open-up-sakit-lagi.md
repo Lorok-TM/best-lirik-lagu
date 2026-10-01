@@ -2,7 +2,7 @@
 title: "Chesylino Feat. Silet Open Up - Sakit Lagi"
 date: 2025-04-25
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 Verse : Malam ini.. sa masih sendiri.. Menunggu ko pu kabar yang hilang Lebe dar satu minggu ni

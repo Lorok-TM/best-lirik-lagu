@@ -2,7 +2,7 @@
 title: "Lala Waauri - Yusman Lase"
 date: 2025-02-14
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Lala Waauri yang dibawakan oleh Yusman Lase.

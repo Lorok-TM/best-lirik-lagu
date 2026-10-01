@@ -2,7 +2,7 @@
 title: "Pujiono feat Nyonk Kunci - Dengarkan"
 date: 2022-09-20
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 ## Lirik Lagu Dengarkan - Pujiono feat Nyonk Kunci

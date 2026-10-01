@@ -2,7 +2,7 @@
 title: "Taragak Tapi Ndak Buliah - Silva Hayati"
 date: 2026-06-19
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 

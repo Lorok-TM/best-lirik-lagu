@@ -2,7 +2,7 @@
 title: "Aku Tau Diri - Yollanda"
 date: 2025-02-06
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Aku Tau Diri yang dibawakan oleh Yollanda.

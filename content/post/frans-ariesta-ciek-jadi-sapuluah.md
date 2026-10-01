@@ -2,7 +2,7 @@
 title: "Frans Ariesta - Ciek Jadi Sapuluah"
 date: 2023-02-25
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Lirik Lagu Minang dengan judul Ciek Jadi Sapuluah yang dinyanyikan oleh Frans Ariesta dan diciptakan oleh Ajhay Pasma dengan irama musik Pop.

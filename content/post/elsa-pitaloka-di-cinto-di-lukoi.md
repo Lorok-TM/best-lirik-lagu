@@ -2,7 +2,7 @@
 title: "Elsa Pitaloka - Di Cinto Di Lukoi"
 date: 2025-04-25
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Manih manih janji jani uda Bak rupo kaji indak tatingga Tadayo hati tabujuak diri Manjadi pamenan Raso mandapek sabana nyo Sungguah tiado lain nyo

@@ -2,7 +2,7 @@
 title: "Ling Ling Puput - Talanjur Sayang dan Artinya"
 date: 2022-03-13
 categories: 
-  - "dayak"
+  - "Dayak"
   - "remix"
 ---
 

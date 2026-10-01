@@ -2,7 +2,7 @@
 title: "Farro Simamora - Mabuk Cinta feat. Nova Siregar"
 date: 2025-07-17
 categories: 
-  - "tapsel"
+  - "Tapsel"
 ---
 
 Na usangka anggi rohamu Lambok-lambok songon sipulut Tarbayang-bayang sajo rohakku Mabuk au harani cintamu

@@ -2,7 +2,7 @@
 title: "Bukan Pilihanmu - Harry Parintang"
 date: 2025-01-30
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Bukan Pilihanmu yang dibawakan oleh Harry Parintang.

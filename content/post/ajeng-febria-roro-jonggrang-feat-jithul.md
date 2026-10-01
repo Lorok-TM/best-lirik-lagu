@@ -2,7 +2,7 @@
 title: "Ajeng Febria - Roro Jonggrang feat Jithul"
 date: 2022-03-14
 categories: 
-  - "tayub"
+  - "Tayub"
 ---
 
 ## Lirik Lagu Tayub “Roro Jonggrang” by Ajeng Febria ft Jithul Sumarji

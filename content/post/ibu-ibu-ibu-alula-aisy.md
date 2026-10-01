@@ -2,7 +2,7 @@
 title: "Ibu Ibu Ibu - Alula Aisy"
 date: 2024-12-22
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Ibu Ibu Ibu yang dibawakan oleh Alula Aisy.

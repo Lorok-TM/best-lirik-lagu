@@ -2,7 +2,7 @@
 title: "Surga Menanti - Melly Goeslaw & Mostafa Atef"
 date: 2025-03-04
 categories: 
-  - "religi"
+  - "Religi"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Surga Menanti yang dibawakan oleh Melly Goeslaw Ft Mostafa Atef.

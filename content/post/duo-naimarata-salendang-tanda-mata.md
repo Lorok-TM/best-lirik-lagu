@@ -2,7 +2,7 @@
 title: "Duo Naimarata - Salendang Tanda Mata"
 date: 2023-04-07
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Lirik Lagu Batak dengan judul Salendang Tanda Mata yang dinyanyikan oleh Duo Naimarata dan diciptakan oleh Lans Hutabarat dengan irama musik Pop.

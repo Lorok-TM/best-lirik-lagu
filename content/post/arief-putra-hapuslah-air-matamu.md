@@ -2,7 +2,7 @@
 title: "Arief Putra - Hapuslah Air Matamu"
 date: 2026-01-12
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Langit gelap tiada bintang Angin dingin menusuk tulang Tapi hatiku tetap tenang Jangan pikir yang sudah hilang

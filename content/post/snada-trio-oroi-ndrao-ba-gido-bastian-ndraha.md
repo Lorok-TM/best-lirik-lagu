@@ -2,7 +2,7 @@
 title: "S'Nada Trio - Öröi Ndra'o Ba Gidö (Bastian Ndraha)"
 date: 2025-12-03
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 No'u'oigo dodogu nakhi wogamo gamo Noufonoro figa wakhe yawa ba hogo Uwai fa'omasimo nakhi si'ogoto'o Me owao khogu wehede saloso

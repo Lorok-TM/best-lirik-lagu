@@ -2,7 +2,7 @@
 title: "Menjaga Jodoh Orang - Mamnun"
 date: 2025-02-16
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Menjaga Jodoh Orang yang dibawakan oleh Mamnun.

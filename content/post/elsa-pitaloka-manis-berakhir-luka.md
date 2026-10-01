@@ -2,7 +2,7 @@
 title: "Elsa Pitaloka - Manis Berakhir Luka"
 date: 2025-04-26
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 Dahulu kau ucap janji Namun kau pula yang ingkari Disaat cinta bersemi Teganya kau membagi hati

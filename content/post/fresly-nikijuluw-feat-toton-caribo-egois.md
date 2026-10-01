@@ -2,7 +2,7 @@
 title: "Fresly Nikijuluw Feat Toton Caribo - Egois"
 date: 2025-04-29
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 Sudahkah nona su ada pengganti Bagaimana deng ale hari ini Su jarang paskali se kabar lai Semoga bahagia di hari ini

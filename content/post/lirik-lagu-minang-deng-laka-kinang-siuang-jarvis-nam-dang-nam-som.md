@@ -2,7 +2,7 @@
 title: "Minang Deng Laka Kinang Siuang (Jarvis - Nam Dang Nam Som)"
 date: 2022-01-19
 categories: 
-  - "minang"
+  - "Minang"
   - "remix"
 ---
 

@@ -2,7 +2,7 @@
 title: "Duo Naimarata - Siappinan Do Ho"
 date: 2023-07-31
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Duo Naimarata dibawah naungan label CMP Record rilis single dengan lirik dalam bahasa Batak berjudul "Siappinan Do Ho" yang diciptakan oleh Mangara T Manik.

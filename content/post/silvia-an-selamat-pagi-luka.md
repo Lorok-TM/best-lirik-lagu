@@ -2,7 +2,7 @@
 title: "Silvia An - Selamat Pagi Luka"
 date: 2025-06-23
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Saatnya tidur, oh mata Usah dikenang yang tiada Pejamkan pejamkan Hingga mata ini terlelap Usah diingat bayangnya Hanya menyiksa

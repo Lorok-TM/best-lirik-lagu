@@ -2,7 +2,7 @@
 title: "One Path - Yang Terbaik (Here's Your Perfect)"
 date: 2021-09-03
 categories: 
-  - "malaysia"
+  - "Malaysia"
 ---
 
 **Lirik Yang Terbaik (Here's Your Perfect) - One Path**

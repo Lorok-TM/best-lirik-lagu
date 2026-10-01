@@ -2,7 +2,7 @@
 title: "Ga Malu Tah - Omo Kucrut Feat Sandrina"
 date: 2025-02-07
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Ga Malu Tah yang dibawakan oleh Omo Kucrut Ft Sandrina.

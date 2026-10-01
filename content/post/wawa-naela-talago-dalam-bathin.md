@@ -2,7 +2,7 @@
 title: "Wawa Naela- Talago Dalam Bathin"
 date: 2026-09-10
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Indak Ka Karuah Talago Dalam Bathin Ndak Ka Baraliah Cinto Ko Ka Nan Lain Hanyolah Diri Uda Den Sayang Iyo Nan Denai Sayang

@@ -2,7 +2,7 @@
 title: "Pinki Prananda - Bakubua Mimpi"
 date: 2025-08-15
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Biakanlah hujan malamko Buliah ndak nyo tadanga bana Isak tangih nan manggumam Lah jaleh malukoi nan baturiahkan Manga masih taguah mampatahankan

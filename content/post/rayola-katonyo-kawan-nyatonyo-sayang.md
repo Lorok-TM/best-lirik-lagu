@@ -2,7 +2,7 @@
 title: "Rayola - Katonyo Kawan Nyatonyo Sayang"
 date: 2023-10-16
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Rayola dibawah naungan label Koko Record rilis single dengan lirik dalam bahasa Minangkabau berjudul "Katonyo Kawan Nyatonyo Sayang" yang diciptakan oleh Safril Saha.

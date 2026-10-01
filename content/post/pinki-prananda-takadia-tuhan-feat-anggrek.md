@@ -2,7 +2,7 @@
 title: "Pinki Prananda - Takadia Tuhan feat. Anggrek"
 date: 2025-10-04
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Bamulo bapandang pandangan mato Diraso raso ado nan babedo Jantuang badabuak kandang Hati raso taguncang Kironyo sadang jatuah cibnto

@@ -2,7 +2,7 @@
 title: "Sekedar Teman - Faith"
 date: 2025-02-01
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Sekedar Teman yang dibawakan oleh Faith Christabelle.

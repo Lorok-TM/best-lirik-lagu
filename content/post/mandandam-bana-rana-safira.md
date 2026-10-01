@@ -2,7 +2,7 @@
 title: "Mandandam Bana - Rana Safira"
 date: 2025-04-18
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Di ubek saribu panawa Sakik indak ka cegak Ramuak hancua bumi baputa Luko mambakeh maninggakan jajak Ramuak hancua bumi baputa Luko mambakeh maninggakan jajak

@@ -2,7 +2,7 @@
 title: "Cut Zuhra - Meugoe Blang"
 date: 2025-11-11
 categories: 
-  - "aceh"
+  - "Aceh"
 ---
 
 Leupah that seunang ureung lam nanggroe Troh musem meugoe dalam blang raya Inong ngoen agam aduen ngon adoe Meusahoe sahoe ta meuseuraya

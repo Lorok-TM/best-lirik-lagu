@@ -2,7 +2,7 @@
 title: "Bigheru - Basalimuik Luko Jo Cinto feat. Pinki Prananda"
 date: 2025-08-25
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Dipandang paliangkan muko Di imbau undak bakato Tadanga sabana padiah cinto Bahadang seso di badan Bagaluik gunjiangan urang Alah samakin adiak siokan

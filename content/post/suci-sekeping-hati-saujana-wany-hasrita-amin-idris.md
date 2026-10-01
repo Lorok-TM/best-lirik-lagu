@@ -2,7 +2,7 @@
 title: "Suci Sekeping Hati - Saujana, Wany Hasrita, Amin Idris"
 date: 2025-03-06
 categories: 
-  - "malaysia"
+  - "Malaysia"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Suci Sekeping Hati yang dibawakan oleh Wany Hasrita, Amin Idris dan Saujana.

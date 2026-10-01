@@ -2,7 +2,7 @@
 title: "Mantong Lon Rindu - Mohderzam"
 date: 2025-06-21
 categories: 
-  - "aceh"
+  - "Aceh"
 ---
 
 Kebit pedeh bak lon rasa gadeh gata Dalam angan sayang manteng jeut lon keunang Tip malam ngen uroe sabe teubayang Wajah adinda sabe lam ingatan

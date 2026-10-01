@@ -2,7 +2,7 @@
 title: "Aprilian - Usailah"
 date: 2025-05-30
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 Jangan pernah kau sembunyikan Rasa yang hilang dihatimu Ku menyadari semua Isi hatimu

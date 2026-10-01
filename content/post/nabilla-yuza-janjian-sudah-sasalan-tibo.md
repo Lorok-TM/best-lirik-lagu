@@ -2,7 +2,7 @@
 title: "Nabilla Yuza - Janjian Sudah Sasalan Tibo"
 date: 2025-08-28
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Usah di kana usah di ungkik juo Manambah luko makin sakik taraso Kok kandak hati nan maurak cinto Janjian sudah sasalan tibo

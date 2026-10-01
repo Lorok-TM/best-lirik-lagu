@@ -2,7 +2,7 @@
 title: "Malang Bakutiko - Daniel Maestro"
 date: 2025-01-09
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Malang Bakutiko yang dibawakan oleh Daniel Maestro.

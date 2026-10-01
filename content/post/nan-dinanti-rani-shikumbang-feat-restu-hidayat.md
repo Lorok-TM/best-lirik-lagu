@@ -2,7 +2,7 @@
 title: "Nan Dinanti - Rani Shikumbang Feat. Restu Hidayat"
 date: 2024-07-07
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 **Lirik Nan Dinanti yang dinyanyikan oleh Rani Shikumbang Feat Restu Hidayat.**

@@ -2,7 +2,7 @@
 title: "Kintani - Manahan Hati"
 date: 2025-08-03
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Babilang hari musim baganti Uda larek di rantau Den cubo juo tanangkan hati Uda tabayang juo

@@ -2,7 +2,7 @@
 title: "Marhara Trio - Holong Manang Haotoon"
 date: 2026-08-04
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Karya musik berjudul "Holong Manang Haotoon" yang dibawakan oleh Marhara Trio dan diciptakan oleh Ariee Sihotang secara filosofis menyoroti batas tipis antara ketulusan cinta (holong) dan kebodohan (haotoon) dalam suatu hubungan emosional. Melalui narasi liriknya, lagu ini menguraikan konflik internal seseorang yang bertahan dalam situasi pelik demi perasaan cintanya, meskipun logika personal dan realitas sosial di sekitarnya kerap menilai tindakan tersebut sebagai sebuah kepandiran. Latar belakang cerita dalam gubahan ini merefleksikan dilema universal manusia ketika dihadapkan pada pilihan untuk tetap setia pada komitmen perasaan atau menyerah demi menjaga rasionalitas serta harga diri, menjadikannya sebuah potret realitas sosial yang dikemas secara lugas lewat harmoni musik pop Batak kontemporer.

@@ -2,7 +2,7 @@
 title: "Balqist Putri Alexa - Baro Cinto"
 date: 2025-11-12
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Tadorong kasiah cinto mandayo Tasintak dalam rasian Tuan bamain mato Ka urang lain

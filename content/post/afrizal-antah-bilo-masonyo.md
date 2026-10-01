@@ -2,7 +2,7 @@
 title: "Afrizal - Antah Bilo Masonyo"
 date: 2025-08-02
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Salah apo diriko Sahinggo adiak barubah Tinggakan luko di hati nanko Sagalonyo alah denai barikan Masih kok kurang ndeh adiak sayang

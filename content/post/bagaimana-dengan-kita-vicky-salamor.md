@@ -2,7 +2,7 @@
 title: "Bagaimana Dengan Kita - Vicky Salamor"
 date: 2025-03-19
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Bagaimana Dengan Kita yang dibawakan oleh Vicky Salamor.

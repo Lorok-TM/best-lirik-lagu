@@ -2,7 +2,7 @@
 title: "Sheryl Sheinafia - Jaga Jarak"
 date: 2026-09-06
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Lukis lah aku semaumu Putar balikkan ceritaku Jangan ajak teman-teman kita berkubu Mereka juga sudah tau ceritaku

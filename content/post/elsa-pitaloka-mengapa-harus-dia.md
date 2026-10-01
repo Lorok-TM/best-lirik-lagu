@@ -2,7 +2,7 @@
 title: "Elsa Pitaloka - Mengapa Harus Dia"
 date: 2023-01-30
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Elsa Pitaloka dibawah naungan label SMDM Record rilis single Melayu berjudul "Mengapa Harus Dia", menceritakan tentang seseorang yang telah mengkhianati kekasihnya, dia selingkuh dengan sahabat akrab kekasihnya.

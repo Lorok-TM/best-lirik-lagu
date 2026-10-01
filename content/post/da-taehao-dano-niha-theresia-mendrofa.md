@@ -2,7 +2,7 @@
 title: "Da Ta'ehao Danö Niha - Theresia Mendrofa"
 date: 2025-04-13
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 Tenga Usuno ma ube yawa Ono alawe he ono matua Iraono khöda ba danö niha No oi siga-siga no muzawa-zawa

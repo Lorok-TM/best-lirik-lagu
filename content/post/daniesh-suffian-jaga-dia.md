@@ -2,7 +2,7 @@
 title: "Daniesh Suffian - Jaga Dia"
 date: 2023-06-30
 categories: 
-  - "malaysia"
+  - "Malaysia"
 ---
 
 Daniesh Suffian rilis single berjudul "Jaga Dia", menceritakan tentang percintaan pahit manis dengan seseorang akibat dari perpisahan. Walaupun dia tidak lagi dapat bersama dengan kekasihnya, masih terwujud kasih sayang yang mendalam, dan luahan hatinya membentuk satu doa agar Tuhan sentiasa menjaga buah hatinya untuk selama lamanya.

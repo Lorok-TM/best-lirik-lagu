@@ -2,7 +2,7 @@
 title: "Asbak Band - Tertunda Bukan Akhir"
 date: 2026-04-25
 categories: 
-  - "band"
+  - "Band"
 ---
 
 

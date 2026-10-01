@@ -2,7 +2,7 @@
 title: "Elsa Pitaloka - Salahnya Aku Dimana"
 date: 2022-11-22
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Lirik Lagu Melayu dengan judul Salahnya Aku Dimana yang dinyanyikan oleh Elsa Pitaloka. Lagu ini diciptakan oleh Saf Saha dengan irama musik Slow Rock.

@@ -2,7 +2,7 @@
 title: "Trisna Shinta Br Keliat - Keleng La Ersibar"
 date: 2024-05-24
 categories: 
-  - "karo"
+  - "Karo"
 ---
 
 **Lirik Trisna Shinta Br Keliat - Keleng La Ersibar**

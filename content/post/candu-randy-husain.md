@@ -2,7 +2,7 @@
 title: "Candu - Randy Husain"
 date: 2025-04-04
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 Siapa ni punya anak manis sekali Sekali lihat kok malah bikin nagih Oh ade manis cah ayu bolehlah kaka mo rayu Senyum manismu bikin kaka jadi candu

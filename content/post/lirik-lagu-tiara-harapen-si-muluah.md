@@ -2,7 +2,7 @@
 title: "Tiara - Harapen Si Muluah dan Artinya"
 date: 2021-10-25
 categories: 
-  - "gayo"
+  - "Gayo"
 ---
 
 ## Lirik Lagu Aceh Gayo ”Harapen Si Muluah“ by Tiara

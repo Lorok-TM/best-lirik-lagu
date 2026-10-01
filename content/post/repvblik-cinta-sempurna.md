@@ -2,7 +2,7 @@
 title: "Repvblik - Cinta Sempurna"
 date: 2023-01-07
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Lirik Lagu Indo dengan judul Cinta Sempurna yang dinyanyikan oleh Repvblik Band. Lagu ini diciptakan oleh Dose Hudaya dengan irama musik Pop.

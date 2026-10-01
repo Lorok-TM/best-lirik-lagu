@@ -2,7 +2,7 @@
 title: "Alfina Braner - Baok Lah Denai"
 date: 2023-03-18
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Lirik Lagu Minang dengan judul Baok Lah Denai yang dinyanyikan oleh Alfina Braner dan diciptakan oleh Alkawi.

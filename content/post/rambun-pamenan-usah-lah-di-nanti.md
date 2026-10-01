@@ -2,7 +2,7 @@
 title: "Rambun Pamenan - Usah Lah Di Nanti"
 date: 2026-07-14
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 

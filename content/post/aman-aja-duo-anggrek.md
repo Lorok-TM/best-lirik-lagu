@@ -2,7 +2,7 @@
 title: "Aman Aja - Duo Anggrek"
 date: 2026-07-19
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Malam jumat Ee serasa malam minggu Ku beli mangga dipasar induk Eh aduh abang kok aku rindu Siang malam hatiku di aduk aduk

@@ -2,7 +2,7 @@
 title: "Arief - Cinta Jangan Goyah"
 date: 2025-04-28
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Rintangan cintaku bersama mu Halangan untuk bahagiakan mu Walaupun orang membenci dirimu Yang penting ku tetap menjagamu

@@ -2,7 +2,7 @@
 title: "Jangji Kamari - Nazmi Nadia Feat. Krishna Sagara"
 date: 2024-08-20
 categories: 
-  - "sunda"
+  - "Sunda"
 ---
 
 Tuh bulan saksina mawa beja Asih urang geuning di tungtung carita Bentang teu nyarengan ningalkeun hate nu melang Ukur ka anjeun diri neundeun hareupan

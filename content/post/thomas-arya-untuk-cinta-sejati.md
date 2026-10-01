@@ -2,7 +2,7 @@
 title: "Thomas Arya - Untuk Cinta Sejati"
 date: 2023-01-15
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 Thomas Arya rilis single Melayu berjudul "Untuk Cinta Sejati" yang diciptakan oleh Anton Swena, menceritakan tentang keteguhan hati dalam menjaga cinta tuk terwujudnya cinta abadi bersatu selamanya hingga maut yang memisahkan.

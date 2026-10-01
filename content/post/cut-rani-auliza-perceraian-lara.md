@@ -2,7 +2,7 @@
 title: "Cut Rani Auliza - Perceraian Lara"
 date: 2023-11-22
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 **Lirik Perceraian Lara - Cut Rani Auliza**

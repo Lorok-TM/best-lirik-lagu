@@ -2,7 +2,7 @@
 title: "Sudah Tahu Tuhan Kita Berbeda - Enau feat. Momo"
 date: 2026-08-01
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Lagu "Sudah Tahu Tuhan Kita Berbeda" yang dibawakan oleh eńau bersama Momo merupakan sebuah refleksi realistis atas kompleksitas hubungan romantis yang terbentur oleh sekat keyakinan. Berdasarkan laporan Liputan6, karya yang diangkat dari kisah nyata ini tidak mengeksploitasi dualisme tersebut sebagai drama yang klise, melainkan menyoroti pergulatan batin manusiawi antara mempertahankan komitmen perasaan atau tunduk pada kenyataan teologis. Kehadiran Momo—yang memiliki latar belakang agama berbeda dengan eńau—memberikan dimensi dialogis yang autentik pada aransemen baru ini, sehingga mempertegas pesan filosofis tentang batasan toleransi, kepasrahan terhadap waktu, serta penerimaan atas ketidakpastian takdir. Melalui narasi yang lugas, kolaborasi yang dirilis di bawah naungan \[Musica Studios\] ini bertindak sebagai ruang kontemplasi bagi para pendengar yang menghadapi dilema serupa tanpa berniat mendikte sebuah solusi mutlak.

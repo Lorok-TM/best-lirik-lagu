@@ -2,7 +2,7 @@
 title: "Arghado Trio - Bolokkon Ginjang Ni Roha"
 date: 2023-05-20
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Lirik Lagu Batak dengan judul Bolokkon Ginjang Ni Roha yang dinyanyikan oleh Arghado Trio dan diciptakan oleh Jhon Kennedy Nadeak dengan irama musik Pop.

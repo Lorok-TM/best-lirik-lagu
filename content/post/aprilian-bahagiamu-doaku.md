@@ -2,7 +2,7 @@
 title: "Aprilian - Bahagiamu Do'aku"
 date: 2025-08-24
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 Sayang, usah dikenang lagi Relakanku di sini Sungguh aku pahami Apa yang kau rasakan

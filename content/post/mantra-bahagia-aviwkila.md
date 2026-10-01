@@ -2,7 +2,7 @@
 title: "Mantra Bahagia - Aviwkila"
 date: 2025-02-02
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Mantra Bahagia yang dibawakan oleh Aviwkila.

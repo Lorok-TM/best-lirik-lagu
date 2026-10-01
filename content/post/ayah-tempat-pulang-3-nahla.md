@@ -2,7 +2,7 @@
 title: "Ayah Tempat Pulang - 3 Nahla"
 date: 2024-11-21
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Ada satu sosok yang takkan terlupa Hanya ada satu cinta di dunia Memberi yang ku minta Dengan rasa bahagia Ku sebut namamu ayah

@@ -2,7 +2,7 @@
 title: "D'Real Voice - Sapala dan Artinya"
 date: 2021-05-24
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 **Lirik Sapala - D'Real Voice**

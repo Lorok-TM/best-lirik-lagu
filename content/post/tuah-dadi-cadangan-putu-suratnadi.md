@@ -2,7 +2,7 @@
 title: "Tuah Dadi Cadangan - Putu Suratnadi"
 date: 2025-04-01
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 Buke satwan bebotoh kala Keto ne raseyang tiang jani Dimenangne liyu anake nawang Dikalahne bengang bengong pedidian

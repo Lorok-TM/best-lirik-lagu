@@ -2,7 +2,7 @@
 title: "Lir Ilir - Niken Salindry"
 date: 2025-02-23
 categories: 
-  - "religi"
+  - "Religi"
 ---
 
 Lir ilir, lir ilir (Bangunlah, bangunlah) Tandure wis sumilir (Tanaman sudah bersemi) Tak ijo royo-royo, tak sengga temanten anyar (Telah menghijau seperti pengantin baru)

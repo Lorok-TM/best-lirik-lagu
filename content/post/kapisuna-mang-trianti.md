@@ -2,7 +2,7 @@
 title: "Kapisuna - Mang Trianti"
 date: 2025-01-24
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Kapisuna yang dibawakan oleh Mang Trianti.

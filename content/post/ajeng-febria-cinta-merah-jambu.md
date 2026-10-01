@@ -2,7 +2,7 @@
 title: "Ajeng Febria - Cinta Merah Jambu"
 date: 2025-07-17
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Cintaku hanya kamu Cinta merah, merah jambu Rinduku hanya kamu Rindu hangat, hangat kuku

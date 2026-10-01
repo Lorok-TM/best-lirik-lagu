@@ -2,7 +2,7 @@
 title: "Silva Hayati - Bia Denai Tabuang"
 date: 2025-06-27
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Dek bansaik makonyo tabuang yo sibadan malang Jauah ka rantau urang Dek tido makonyo co iko tarumuak badan jadinyo

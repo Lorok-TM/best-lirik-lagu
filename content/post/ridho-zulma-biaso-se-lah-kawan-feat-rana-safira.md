@@ -2,7 +2,7 @@
 title: "Ridho Zulma - Biaso Se Lah Kawan feat. Rana Safira"
 date: 2025-07-25
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Biaso biaso lah kawan Usah bakalabihan bana Caliak lah urang mamandang Ota ma ota

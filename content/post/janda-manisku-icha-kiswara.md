@@ -2,7 +2,7 @@
 title: "Janda Manisku - Icha Kiswara"
 date: 2025-01-07
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Janda Manisku / Janda 7 Kali yang dibawakan oleh Icha Kiswara.

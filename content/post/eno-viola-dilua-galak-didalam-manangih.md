@@ -2,7 +2,7 @@
 title: "Eno Viola - Dilua Galak Didalam Manangih"
 date: 2025-05-30
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Antahlah antah ka dipanga Kini badan lah hanguih raso tabaka Dima tumbuah sinan di siangi Dima malintang sinan di adoki Dima tasangkuik sinan ka bamalam

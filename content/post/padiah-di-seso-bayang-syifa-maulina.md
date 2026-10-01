@@ -2,7 +2,7 @@
 title: "Padiah Di Seso Bayang - Syifa Maulina"
 date: 2025-04-10
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Oh rinduu,, Rindu nan lah lamo denai tangguang kan Angan angan nan maso dahulunyo Samaso kito mamadu cinto Bulan jo bintang jadi saksinyo

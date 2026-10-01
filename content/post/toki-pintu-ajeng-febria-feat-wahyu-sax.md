@@ -2,7 +2,7 @@
 title: "Toki Pintu - Ajeng Febria Feat Wahyu Sax"
 date: 2025-06-24
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 Okaay.. Cah.. manise..

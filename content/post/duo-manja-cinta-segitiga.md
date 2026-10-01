@@ -2,7 +2,7 @@
 title: "Duo Manja - Cinta Segitiga"
 date: 2022-08-05
 categories: 
-  - "remix"
+  - "Remix"
 ---
 
 ## Lirik Lagu ”Cinta Segitiga“ by Duo Manja (Mala Agatha & Jihan Audy)

@@ -2,7 +2,7 @@
 title: "ASTUTI (Asli Tukang Tipu) - Alan Darmawan"
 date: 2025-02-10
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Astuti (Asli Tukang Tipu) yang dibawakan oleh Alan Darmawan.

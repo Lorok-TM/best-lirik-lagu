@@ -2,7 +2,7 @@
 title: "Mubai - Aku Tak Berarti Bagimu"
 date: 2025-09-25
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Seakan tak berguna kesetiaan cinta Selama ini aku yang slalu menyayangi Mengapa kau tak bisa menghargai diriku Selama ini aku slalu ada untuk mu

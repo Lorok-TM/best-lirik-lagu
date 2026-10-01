@@ -2,7 +2,7 @@
 title: "Jeritan Luka - Fany Zee"
 date: 2026-06-16
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 

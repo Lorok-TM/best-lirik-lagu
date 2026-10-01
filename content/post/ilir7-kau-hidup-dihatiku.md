@@ -2,8 +2,7 @@
 title: "ILIR7 - Kau Hidup Dihatiku"
 date: 2023-03-24
 categories: 
-  - "band"
-  - "indonesia"
+  - "Band"
 ---
 
 ILIR7 dibawah naungan Ascada Musik rilis single berjudul "Kau Hidup Dihatiku", menceritakan tentang seseorang yang begitu mencintai kekasihnya, tak ingin berpisah, ingin selalu bersama selamanya.

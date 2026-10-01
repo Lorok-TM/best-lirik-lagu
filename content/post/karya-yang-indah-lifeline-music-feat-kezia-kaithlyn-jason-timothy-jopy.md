@@ -2,7 +2,7 @@
 title: "Karya Yang Indah - Lifeline Music Feat Kezia Kaithlyn, Jason Timothy Jopy"
 date: 2025-03-27
 categories: 
-  - "rohani"
+  - "Rohani"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Karya Yang Indah yang dibawakan oleh Lifeline Music Ft Kezia Kaithlyn, Jason Timothy Jopy.

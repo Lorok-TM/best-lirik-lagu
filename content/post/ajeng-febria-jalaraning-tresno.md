@@ -2,7 +2,7 @@
 title: "Ajeng Febria - Jalaraning Tresno"
 date: 2026-06-02
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 Sunar mbulan wayah dalu Kalah endahe yen kalawan esemu Solah slagamu kang lugu Amimbuhi kapang jroning kalbuku

@@ -2,7 +2,7 @@
 title: "Alep Santosa - Berjuang Di Rantauan"
 date: 2023-03-13
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 Lirik Lagu Bali dengan judul Berjuang Di Rantauan yang dinyanyikan dan diciptakan oleh Alep Santosa dengan irama musik Pop.

@@ -2,7 +2,7 @@
 title: "Wkwkwk - Cantika Nuswantoro Adella"
 date: 2026-07-13
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 

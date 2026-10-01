@@ -2,7 +2,7 @@
 title: "Cinta Luar Biasa - Andra Respati Feat. Gisma Wandira"
 date: 2024-08-12
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 Jangan engkau ragukan Cinta yang aku punya Selama ini kusayang Tanpa ragu di dada Yang kuharap engkau pun demikian

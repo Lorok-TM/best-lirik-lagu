@@ -2,7 +2,7 @@
 title: "Vanny Vabiola - Tak Mau Tersakiti Lagi"
 date: 2023-01-25
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Vanny Vabiola rilis single Melayu berjudul "Tak Mau Tersakiti Lagi", menceritakan tentang perasaan seseorang yang begitu sakit hati karena cintanya telah dikhianati oleh kekasihnya.

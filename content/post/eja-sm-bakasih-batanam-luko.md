@@ -2,7 +2,7 @@
 title: "Eja SM - Bakasih Batanam Luko"
 date: 2025-10-11
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Kamano diri ka denai baok baiyo Samantaro hati ndak badayo Mangguncang tangih ramuak radam Tapuruak dalam bayangan kasiah nan hilang Indak di sangko rupo nan elok nyato baparangai juo

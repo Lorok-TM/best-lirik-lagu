@@ -2,7 +2,7 @@
 title: "Bezi Halawa - Lö Turiamö"
 date: 2025-05-15
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 Akhi no'ara ya'ita nofabali Lömanö turiamö urongo banangi Hezoso nahia siso ya'ugö nakhi U alu alui

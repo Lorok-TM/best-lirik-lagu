@@ -2,7 +2,7 @@
 title: "Ego - Justy Aldrin feat. Rina Sainyakit, Asap Rio"
 date: 2026-06-14
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 

@@ -2,7 +2,7 @@
 title: "Cica Rama - Bertemu Dan Berpisah"
 date: 2026-01-13
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Baru aku rasakan bahagianya hati Saat bertemu dirimu Dan langsung jatuh cinta kepadamu

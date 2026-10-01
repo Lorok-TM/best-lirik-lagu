@@ -2,7 +2,7 @@
 title: "Judul Judulan - Ajeng Febria & Adinda Rahma"
 date: 2026-07-22
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Bang ayo bang Ayo main pacar-pacaran Bang ayo bang Ayo main pacar-pacaran Daripada pacar beneran Pikiran pusing tidak karuan Kumpul kebo Ya cuma kebo-keboan

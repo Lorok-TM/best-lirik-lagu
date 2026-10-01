@@ -2,7 +2,7 @@
 title: "APT Thailand X Culik Aku Dong - Silvy Kumalasari"
 date: 2025-01-31
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik APT Thailand X Culik Aku Dong yang dibawakan oleh Silvy Kumalasari.

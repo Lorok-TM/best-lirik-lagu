@@ -2,7 +2,7 @@
 title: "David Iztambul - Takuik Manjadi Angan"
 date: 2026-01-15
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 

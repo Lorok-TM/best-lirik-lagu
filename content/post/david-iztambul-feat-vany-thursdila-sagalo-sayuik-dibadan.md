@@ -2,7 +2,7 @@
 title: "David Iztambul feat Vany Thursdila - Sagalo Sayuik Dibadan"
 date: 2023-03-23
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 David Iztambul & Vany Thursdila bersama Rael Pro rilis single dengan lirik dalam bahasa Minangkabau berjudul "Sagalo Sayuik Dibadan" yang artinya "Segala Sayup Dibadan", menceritakan tentang seseorang yang merasa kecewa karena kekasihnya dijodohkan dengan orang lain oleh orang tuanya.

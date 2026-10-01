@@ -2,7 +2,7 @@
 title: "Bujang Ati Keladi - Erni"
 date: 2024-11-26
 categories: 
-  - "dayak"
+  - "Dayak"
 ---
 
 Nuan enda ingat ke janji tua Dekak begulai berumah tangga Ketegal iya aku dilengkak Sempama baju ke udah luya

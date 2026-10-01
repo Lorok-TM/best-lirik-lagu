@@ -2,7 +2,7 @@
 title: "Veni Nur - Gak Mau Tau"
 date: 2026-09-25
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Bodo amat Kamu diputusin pacarmu Bodo amat Aku nggak mau dengar curhatmu Nggak peduli Kamu lagi sakit hati Nggak peduli Aku nggak mau kasih solusi

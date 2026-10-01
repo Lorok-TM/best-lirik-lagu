@@ -2,7 +2,7 @@
 title: "Gabe Boni Trio - Sihol Mariboto"
 date: 2026-01-14
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Jot jot do au ale inang sai tumatangis Marnida akka dongani namariboto Sumalim ma ale inang anakkonmon Naso adong ibotokki

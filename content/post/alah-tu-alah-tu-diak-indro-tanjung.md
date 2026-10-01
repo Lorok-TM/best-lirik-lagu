@@ -2,7 +2,7 @@
 title: "Alah Tu Alah Tu Diak - Indro Tanjung"
 date: 2025-01-25
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Alah Tu Alah Tu Diak yang dibawakan oleh Indro Tanjung.

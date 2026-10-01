@@ -2,7 +2,7 @@
 title: "Rahma Rahmi - Jadi Orang Ketiga"
 date: 2025-10-09
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Tak seharusnya aku mencintai Enkau yang tak mungkin aku miliki Jadi orang ketiga dihidupmu Merebut kasih

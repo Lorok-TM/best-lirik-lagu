@@ -2,7 +2,7 @@
 title: "Azizah Maumere feat. Mubai - Cinta Dari Seberang"
 date: 2026-02-04
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Ku pandang pandang adik dari seberang Cantik juga rupamu sungguh menawan Bolehkah abang bertanya apa adik ada yang punya? Jika belum kuingin nyatakan cinta

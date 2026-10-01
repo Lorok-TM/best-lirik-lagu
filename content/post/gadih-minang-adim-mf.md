@@ -2,7 +2,7 @@
 title: "Gadih Minang - Adim Mf"
 date: 2026-09-02
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Gadis manis datang dari tanah Minang Bikin hati kk rasa tenang Senyum manis gaya paling rapi Bikin beta susah pejam mata ini

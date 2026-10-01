@@ -2,7 +2,7 @@
 title: "Latiah Manjago Hati - Rayola"
 date: 2024-06-25
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Ratak galeh di tangan Pacah piriang di jamba Taserak nan ka dimakan Tak lamak parasaan Ameh raso ka baa Antah lah apo kajadian

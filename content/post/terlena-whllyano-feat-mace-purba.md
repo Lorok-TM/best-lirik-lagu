@@ -2,7 +2,7 @@
 title: "Terlena - Whllyano Feat Mace Purba"
 date: 2025-01-22
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Terlena yang dibawakan oleh Whllyano Ft Mace Purba.

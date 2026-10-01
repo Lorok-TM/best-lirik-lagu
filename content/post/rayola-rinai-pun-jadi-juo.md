@@ -2,7 +2,7 @@
 title: "Rayola - Rinai Pun Jadi Juo"
 date: 2023-01-08
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Rayola rilis single dengan lirik dalam bahasa Minangkabau berjudul "Rinai Pun Jadi Juo" yang diciptakan oleh Ajhay Pasma, menceritakan tentang hasrat hati yang begitu menggebu bercampur perasaan cemas bila sampai cintanya tak jadi nyata.

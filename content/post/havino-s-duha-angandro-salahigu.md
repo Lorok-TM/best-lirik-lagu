@@ -2,7 +2,7 @@
 title: "Havino S Duha - Angandrö Salahigu"
 date: 2025-11-28
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 U'ötö dalunasi silimba limba Wangalui tohu tohu lala gaurifa U'ifi ziyefo nasi tanö sitebai urugi Alai ndra'o nalö lala harazaki

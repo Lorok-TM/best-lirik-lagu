@@ -2,7 +2,7 @@
 title: "Risma Nirmala / Detty Kurnia - Rayungan dan Artinya"
 date: 2021-10-20
 categories: 
-  - "sunda"
+  - "Sunda"
 ---
 
 ## Lirik Lagu Sunda ”Rayungan“ by Rizma Nirmala / Detty Kurnia

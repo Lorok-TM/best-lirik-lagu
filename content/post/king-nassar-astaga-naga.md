@@ -2,7 +2,7 @@
 title: "King Nassar - Astaga Naga"
 date: 2026-09-14
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Kau udang di balik batu Kok seperti mati lampu Kau bolak balik hatiku Tak sadarkah kau siksa perasaanku

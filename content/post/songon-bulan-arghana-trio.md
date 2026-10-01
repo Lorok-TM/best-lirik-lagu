@@ -2,7 +2,7 @@
 title: "Songon Bulan - Arghana Trio"
 date: 2025-06-25
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Ho songon bulan maila tu mata ni ari Ho songoni ma rohakki manjalang tanganmi Tung las rohakki jala mancai lambok pakkilalaan Marbalos do hape holong na di roha

@@ -2,7 +2,7 @@
 title: "Susu Kau Balas Tuba - Janna"
 date: 2024-06-03
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 **Lirik Susu Kau Balas Tuba - Janna**

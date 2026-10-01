@@ -2,7 +2,7 @@
 title: "Vicky Koga - Harato Jadi Ukuran"
 date: 2024-04-05
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 **Lirik Harato Jadi Ukuran - Vicky Koga**

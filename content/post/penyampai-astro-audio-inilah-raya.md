@@ -2,7 +2,7 @@
 title: "Penyampai Astro Audio - Inilah Raya"
 date: 2026-03-14
 categories: 
-  - "religi"
+  - "Religi"
 ---
 
 (Selamat Hari Raya!) (Masuk, masuk, masuk!) (Siapa nak duit raya?) (Saya nak! Saya nak!) (Inilah Raya!)

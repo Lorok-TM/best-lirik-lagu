@@ -2,7 +2,7 @@
 title: "Lusi Purba - Majangin"
 date: 2021-09-15
 categories: 
-  - "simalungun"
+  - "Simalungun"
 ---
 
 ## Lirik Lagu Batak Simalungun ”Majangin“ by Lusi Purba Silangit

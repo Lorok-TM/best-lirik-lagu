@@ -2,7 +2,7 @@
 title: "Trio Lansek Manih - Tongga Babeleang"
 date: 2025-04-23
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Bak kato balam padi rabah Salamo ayah kami tinggakan Hiduik kami batambah susah Dun sanak lai… balanteh angan

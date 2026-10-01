@@ -2,7 +2,7 @@
 title: "Cintaku Tahalang Restu - Riski Bajuh"
 date: 2025-02-17
 categories: 
-  - "dayak"
+  - "Dayak"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Cintaku Tahalang Restu yang dibawakan oleh Risky Bajuh.

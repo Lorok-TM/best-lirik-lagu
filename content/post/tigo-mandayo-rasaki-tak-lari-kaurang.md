@@ -2,7 +2,7 @@
 title: "Tigo Mandayo - Rasaki Tak Lari Kaurang"
 date: 2025-09-14
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Di baliak baliak yo bak mamanggang Mangko nyo masak lua jo dalam Di ulang ulang bak manyapuah Kilek nyo perak kanampakan Di ulang ulang bak manyapuah Kilek nyo perak kanampakan

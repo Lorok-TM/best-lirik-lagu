@@ -2,7 +2,7 @@
 title: "Aprilian Feat. Fany Zee - Cinta Untukmu Sayang 2"
 date: 2025-04-28
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 (Aprilian) Bertanya Hatiku Bertanya Adakah Disana Engkau Masih Setia

@@ -2,7 +2,7 @@
 title: "Bukti KebaikanMu - Jovina & Jovian JTWINS"
 date: 2025-03-30
 categories: 
-  - "rohani"
+  - "Rohani"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Bukti KebaikanMu yang dibawakan oleh Jovina Ft Jovian JTWINS.

@@ -2,7 +2,7 @@
 title: "Hanya Persinggahan - Rheka Restu"
 date: 2025-02-13
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 Tiada yang bisa kau harapkan Dariku yang penuh kekurangan Ku hanya pelipur lara Saat engkau terluka Lalu engkau campakkan

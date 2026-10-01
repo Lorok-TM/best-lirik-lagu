@@ -2,7 +2,7 @@
 title: "Dede Risty - Jawal Jawil"
 date: 2025-11-09
 categories: 
-  - "tarling"
+  - "Tarling"
 ---
 
 Sun sumpah karo batin Bli bakal demen maning Bonggan gawe lantaran Lan gawe kawitan Sun bakale pisahan

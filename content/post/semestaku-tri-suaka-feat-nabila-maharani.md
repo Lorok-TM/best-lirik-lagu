@@ -2,7 +2,7 @@
 title: "Semestaku - Tri Suaka Feat. Nabila Maharani"
 date: 2026-09-12
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Duniaku kan baik-baik saja Asalkan ada kau di sampingku Kau tak lain semesta bagiku

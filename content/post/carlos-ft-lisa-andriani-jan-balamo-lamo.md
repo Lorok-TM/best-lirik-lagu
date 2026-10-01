@@ -2,7 +2,7 @@
 title: "Carlos Ft Lisa Andriani - Jan Balamo Lamo"
 date: 2023-05-15
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 **Lirik Jan Balamo Lamo - Carlos Feat Lisa Andriani**

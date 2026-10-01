@@ -2,7 +2,7 @@
 title: "Aprilian - Setia Bertahan feat. Rheka Restu"
 date: 2025-11-24
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 Sebisa dan semampuku Bertahan dengan egomu Ku kan selalu mengalah Cinta yang jadi alasan Ku masih setia bertahan denganmu

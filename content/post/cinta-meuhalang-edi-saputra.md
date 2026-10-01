@@ -2,7 +2,7 @@
 title: "Cinta Meuhalang - Edi Saputra"
 date: 2025-02-12
 categories: 
-  - "aceh"
+  - "Aceh"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Cinta Meuhalang yang dibawakan oleh Edi Saputra.

@@ -2,7 +2,7 @@
 title: "Febian - Semua Sia Sia"
 date: 2023-03-17
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Lirik Lagu Melayu dengan judul Semua Sia Sia yang dinyanyikan oleh Febian dan diciptakan oleh Emen, Iwan Ms dengan irama musik Slow Rock.

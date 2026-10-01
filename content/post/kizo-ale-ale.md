@@ -2,7 +2,7 @@
 title: "Kizo - Ale Ale"
 date: 2022-09-19
 categories: 
-  - "malaysia"
+  - "Malaysia"
 ---
 
 ## Lirik Lagu Ale-Ale - Kizo

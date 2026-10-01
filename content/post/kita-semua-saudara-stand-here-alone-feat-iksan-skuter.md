@@ -2,7 +2,7 @@
 title: "Kita Semua Saudara - Stand Here Alone Feat Iksan Skuter"
 date: 2025-04-02
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Terhentak raut wajah yang penuh derita Beralaskan impian angan angan dan cerita

@@ -2,7 +2,7 @@
 title: "Yura Yunita - Pertiwi"
 date: 2026-09-03
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Pertiwi ... Yang terluka hati Merintih ... Kelam dalam sepi

@@ -2,7 +2,7 @@
 title: "Gogoh Ni Tonggo - Duo Naimarata"
 date: 2025-04-11
 categories: 
-  - "simalungun"
+  - "Simalungun"
 ---
 
 Sanggah hundul sasada au Taringat bai na salpuin Tariluh tarsirom bani uhur Kenangan lang boi tarlupahon Masa tikki bai haposoon Ijai manis ni ijai homa sapot ni Sipata lang sukkup panorang Lau manguhuri sitaronan Bohal oluh parsadarian

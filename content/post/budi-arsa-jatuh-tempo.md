@@ -2,7 +2,7 @@
 title: "Budi Arsa - Jatuh Tempo"
 date: 2022-03-11
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 Title : Jatuh Tempo Artist : Budi Arsa Songwriter : Budi Arsa Category : Lagu Bali

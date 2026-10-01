@@ -2,7 +2,7 @@
 title: "Sri Fayola - Hati Amuah Darah Badampuang"
 date: 2023-03-21
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Lirik Lagu Minang dengan judul Hati Amuah Darah Badampuang yang dinyanyikan oleh Sri Fayola dan diciptakan oleh Erwin Agam dengan irama musik Pop.

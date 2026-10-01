@@ -2,7 +2,7 @@
 title: "Afoda Trio - Fa'omasi Lö Lua Lua"
 date: 2025-05-10
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 Heha sambuali memofanö Enaö sowa owua wua dödö Lö khöu fangona famakhölö Lö badödöu ndra'o no ötayaigö

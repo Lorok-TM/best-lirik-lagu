@@ -2,7 +2,7 @@
 title: "Azmy Z - Rindu Aku Rindu Kamu"
 date: 2025-06-30
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Kelap-kelip di tengah-tengah laut Lampu perahu nelayan Sembilan ribu bintang Sempurna bentuk bulan Perhiasan malam

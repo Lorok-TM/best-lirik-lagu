@@ -2,7 +2,7 @@
 title: "Pelarian - Agus Rudik"
 date: 2024-10-31
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 Enukeh adi inget Dugas adi maekin beli Adi ngorahang mare suud metunangan Polos muan adine ngeluluhin hati Ngae tumbuh rase tresna di hati

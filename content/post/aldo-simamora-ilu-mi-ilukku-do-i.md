@@ -2,7 +2,7 @@
 title: "Aldo Simamora - Ilu Mi Ilukku Do I"
 date: 2023-03-05
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Lirik Lagu Batak dengan judul Ilu Mi Ilukku Do I yang dinyanyikan dan diciptakan oleh Aldo Simamora dengan irama musik Pop.

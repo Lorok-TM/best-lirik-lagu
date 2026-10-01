@@ -2,7 +2,7 @@
 title: "Pas Buat Beli - Tison Feat Filla Talia"
 date: 2025-04-01
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 Beli beli bagus Ape beli sube mayus Nguda care sing ade nak ngrunguang Bengong bengong tepukin tiang Yen monto te alep beli Pantesne ade anak eluh ne nampingin beli

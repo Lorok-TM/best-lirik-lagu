@@ -2,7 +2,7 @@
 title: "Masdddho - Tenang Lan Sabar"
 date: 2025-06-29
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Aku ngerti cemburu kui tandane sayang Aku paham curiga mergo wedi kelangan Pamit kerjo nyuwun dongo pangestumu sayang Mugo mugo oleh rezeki halal kintalan

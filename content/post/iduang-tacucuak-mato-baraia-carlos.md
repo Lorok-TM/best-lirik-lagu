@@ -2,7 +2,7 @@
 title: "Iduang Tacucuak Mato Baraia - Carlos"
 date: 2024-06-23
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 

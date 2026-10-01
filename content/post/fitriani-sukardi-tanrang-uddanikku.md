@@ -2,7 +2,7 @@
 title: "Fitriani Sukardi - Tanrang Uddanikku"
 date: 2025-07-09
 categories: 
-  - "bugis"
+  - "Bugis"
 ---
 
 Engka aseng ri atikku Tuli usenge’ madeceng Lao mabela tiwi uddani

@@ -2,7 +2,7 @@
 title: "Kana Bulu Marindu - Dedy Marikit Feat. Iful KD"
 date: 2024-08-23
 categories: 
-  - "dayak"
+  - "Dayak"
 ---
 
 Hakarang indang hakarang apang Dohop aku tuh jaka sangiang Duduk halemei santar tabayang Taingat halajur baum matam

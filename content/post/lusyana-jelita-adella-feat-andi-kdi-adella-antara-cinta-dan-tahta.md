@@ -2,7 +2,7 @@
 title: "Lusyana Jelita Adella Feat. Andi KDI Adella - Antara Cinta Dan Tahta"
 date: 2026-08-22
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Bertahun kumencari dirimu pujaan hati Lembah dan ngarai bukit kudaki Demi cinta ku tak perduli

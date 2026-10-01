@@ -2,7 +2,7 @@
 title: "Diyah Agriana - Bacarai Kasiah"
 date: 2025-08-18
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Bacarai kasiah, bacarai sayang Siang jo malam tabayang-bayang Bacarai kasiah, bacarai sayang Siang jo malam tabayang-bayang

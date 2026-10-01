@@ -2,7 +2,7 @@
 title: "Fati Zebua - Mofanö'ö Akhi"
 date: 2025-10-19
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 Tiu tiu urongo li nangi Yawa ba zuzu hili Lö abölö bölö ba hulö okafu si'ai

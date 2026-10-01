@@ -2,7 +2,7 @@
 title: "Karadang - Yan Srikandi"
 date: 2025-03-06
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Karadang yang dibawakan oleh Yan Srikandi.

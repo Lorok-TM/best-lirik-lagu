@@ -2,7 +2,7 @@
 title: "Ani Ani - Upiak Isil"
 date: 2025-02-21
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Ani Ani yang dibawakan oleh Upiak Isil.

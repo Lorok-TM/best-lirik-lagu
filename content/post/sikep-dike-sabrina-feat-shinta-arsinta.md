@@ -2,7 +2,7 @@
 title: "Sikep - Dike Sabrina feat. Shinta Arsinta"
 date: 2026-02-22
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Piye kabarmu saiki Nomer wa mu wis ganti Tak tulis lagu nggo kowe, Mugo-mugo fyp Kowe iso melu ngrungokke

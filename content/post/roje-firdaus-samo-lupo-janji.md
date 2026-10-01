@@ -2,7 +2,7 @@
 title: "Roje Firdaus - Samo Lupo Janji"
 date: 2025-10-12
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Lupo jo janji Kitolah samo lupo janji Baputuih sayang cinto babuang Bapaturuikan kareh hati

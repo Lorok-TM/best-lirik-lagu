@@ -2,7 +2,7 @@
 title: "Dike Sabrina - Cidro 3"
 date: 2025-12-04
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Ora perpisahan sing dadi getuning atii... Nanging nyapo mbiyen, kowe tak senengi... Nyenengi sliramu gawe loro atiku Getune nyapo mbiyen ketemu ...

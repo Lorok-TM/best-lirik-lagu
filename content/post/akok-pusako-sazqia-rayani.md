@@ -2,7 +2,7 @@
 title: "Akok Pusako - Sazqia Rayani"
 date: 2025-02-09
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Akok Pusako yang dibawakan oleh Sazqia Rayani.

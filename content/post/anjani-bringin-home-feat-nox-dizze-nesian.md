@@ -2,7 +2,7 @@
 title: "Anjani - Bringin Home Feat Nox, Dizze Nesian"
 date: 2024-12-19
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Anjani yang dibawakan oleh Bringin Home Ft Nox, Dizze Nesian.

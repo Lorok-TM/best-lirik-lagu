@@ -2,7 +2,7 @@
 title: "Kiasan Yang Bermakna - Kevin Kinanti"
 date: 2024-12-07
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Kiasan Yang Bermakna yang dibawakan oleh Kevin Kinanti.

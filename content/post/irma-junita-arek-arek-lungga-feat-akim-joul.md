@@ -2,7 +2,7 @@
 title: "Irma Junita - Arek Arek Lungga feat. Akim Joul"
 date: 2025-09-02
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Eloklah manuangkan oi dipikia dulu Oi apo karajo a nan ka dipabuek Kalau dapek bini ndeh da pancimburu Ei paragai uda jan lah babuek buek

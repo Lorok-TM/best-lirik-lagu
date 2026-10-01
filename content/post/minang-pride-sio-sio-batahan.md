@@ -2,7 +2,7 @@
 title: "Minang Pride - Sio Sio Batahan"
 date: 2025-11-01
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Bajalan baduo di bawah bintang Banyak rintangan nan ka kito hadang Dek ulah cinto talarang Banyak urang nan berang Dek nasip denai nan malang

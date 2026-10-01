@@ -2,7 +2,7 @@
 title: "Sheryl Sheinafia - Titik Terang"
 date: 2026-09-04
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Berisiknya isi kepalamu terlihat di matamu begitu nyaman melamun Kerutan di dahimu membuatmu tampak angkuh Tapi ku tahu nyatanya tak seperti itu

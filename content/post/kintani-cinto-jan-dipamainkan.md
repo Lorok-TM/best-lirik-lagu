@@ -2,7 +2,7 @@
 title: "Kintani - Cinto Jan Dipamainkan"
 date: 2023-04-12
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Lirik Lagu Minang dengan judul Cinto Jan Dipamainkan yang dinyanyikan oleh Kintani dan diciptakan oleh Evandudyana dengan irama musik Pop.

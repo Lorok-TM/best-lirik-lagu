@@ -2,8 +2,7 @@
 title: "Damara De feat. Tadeus Lavora - Macak Kelaran dan Artinya"
 date: 2023-07-10
 categories: 
-  - "dangdut"
-  - "java"
+  - "Jawa"
 ---
 
 Lirik Lagu Jawa dengan judul Macak Kelaran yang dinyanyikan oleh Damara De Ft. Tadeus Lavora dan diciptakan oleh Berlian Dio dengan irama musik Pop Dangdut.

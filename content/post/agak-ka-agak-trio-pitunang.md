@@ -2,7 +2,7 @@
 title: "Agak Ka Agak - Trio Pitunang"
 date: 2025-01-16
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Agak Ka Agak yang dibawakan oleh Trio Pitunang.

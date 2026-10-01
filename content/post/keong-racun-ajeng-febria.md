@@ -2,7 +2,7 @@
 title: "Keong Racun - Ajeng Febria"
 date: 2026-07-19
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Dasar kau keong racun Baru kenal eh ngajak tidur Ngomong nggak sopan santun Kau anggap aku ayam kampung

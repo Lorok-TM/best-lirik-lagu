@@ -2,7 +2,7 @@
 title: "Prapatan Gondosuli - Selvi Ayunda"
 date: 2024-10-16
 categories: 
-  - "madura"
+  - "Madura"
 ---
 
 Tak anyangkah ben tak ngirah Buleh bhekal katemuh ben dikah Buleh mandheng dikah misem Pandangan pertama

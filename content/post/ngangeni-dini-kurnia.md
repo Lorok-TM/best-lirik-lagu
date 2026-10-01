@@ -2,7 +2,7 @@
 title: "Ngangeni - Dini Kurnia"
 date: 2025-03-01
 categories: 
-  - "osing"
+  - "Osing"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Ngangeni yang dibawakan oleh Dini Kurnia.

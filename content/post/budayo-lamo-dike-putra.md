@@ -2,7 +2,7 @@
 title: "Budayo Lamo - Dike Putra"
 date: 2025-03-28
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Budayo Lamo yang dibawakan oleh Dike Putra.

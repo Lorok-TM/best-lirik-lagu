@@ -2,7 +2,7 @@
 title: "Tresnan I Meme - Gek Cantik"
 date: 2025-02-28
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Tresnan I Meme yang dibawakan oleh Gek Cantik.

@@ -2,7 +2,7 @@
 title: "Ling Ling Puput - Sapadan Hurui dan Artinya"
 date: 2022-04-05
 categories: 
-  - "dayak"
+  - "Dayak"
 ---
 
 ## Lirik Lagu Dayak ”Sapadan Hurui“ by Ling Ling Puput

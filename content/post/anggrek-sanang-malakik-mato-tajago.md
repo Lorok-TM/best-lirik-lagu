@@ -2,7 +2,7 @@
 title: "Anggrek - Sanang Malakik Mato Tajago"
 date: 2025-09-29
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Cinto tumbuah tak dapek dikandak Bilo datang hati nan nyo sasak Cari sijantuang hati tamui malam kini Lapehkan rindu nan jo taragak

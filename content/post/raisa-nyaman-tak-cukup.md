@@ -2,7 +2,7 @@
 title: "Raisa - Nyaman Tak Cukup"
 date: 2023-03-22
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Raisa rilis single berjudul "Nyaman Tak Cukup" yang diciptakan oleh Dewi Lestari, menceritakan tentang hubungan sepasang suami istri yang berjalan harmonis akan tetapi terasa dingin karena nyaman saja tidaklah cukup, mereka masih butuh keceriaan dengan penuh candaan.

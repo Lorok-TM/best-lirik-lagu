@@ -2,7 +2,7 @@
 title: "Ado Samo Dimakan Kok Indak Samo Di Cari - Anyqu"
 date: 2025-02-11
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Ado Samo Dimakan Kok Indak Samo Dicari yang dibawakan oleh Anyqu.

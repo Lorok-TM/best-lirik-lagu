@@ -2,7 +2,7 @@
 title: "Silva Hayati - Cukuik Dalam Hati"
 date: 2026-01-15
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Denai masih tau diri Mangkonyo muluik den kunci Nak manyapo diri tuan Tuan nan dianjuang tinggi Urang nan sagalo lai

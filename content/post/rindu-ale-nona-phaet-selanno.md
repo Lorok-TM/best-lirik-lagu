@@ -2,7 +2,7 @@
 title: "Rindu Ale Nona - Phaet Selanno"
 date: 2025-03-30
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Rindu Ale Nona yang dibawakan oleh Phaet Selanno.

@@ -2,7 +2,7 @@
 title: "Tak Berdaya - Yeni Inka X Delva Irawan"
 date: 2025-04-17
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Sudah kehendak takdir Kita berdua Berjumpa dan bercinta Berpisah pula

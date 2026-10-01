@@ -2,7 +2,7 @@
 title: "Nashwa Zahira - Siapa Sangka"
 date: 2026-01-23
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Mana ku tau kamu yang bisa membuatku Merubah ragu perlahan menjadi malu malu Lalu rindu

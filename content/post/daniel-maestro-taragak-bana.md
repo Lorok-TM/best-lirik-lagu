@@ -2,7 +2,7 @@
 title: "Daniel Maestro - Taragak Bana"
 date: 2024-05-17
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Tasintak lalok dimalam buto Tabayang bayang urang den sayang Dalam mimpi marupo urang nan denai cinto Baitu bana kasiah di hati Dalam mimpi marupo urang nan denai cinto Baitu bana kasiah di hati

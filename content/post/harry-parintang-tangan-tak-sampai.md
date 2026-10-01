@@ -2,7 +2,7 @@
 title: "Harry Parintang - Tangan Tak Sampai"
 date: 2020-07-20
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 ## Lirik Lagu ”Tangan Tak Sampai“ by Harry Parintang

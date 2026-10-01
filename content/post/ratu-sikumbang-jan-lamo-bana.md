@@ -2,7 +2,7 @@
 title: "Ratu Sikumbang - Jan Lamo Bana"
 date: 2025-09-28
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Jikok lai sayangnyo uda Indak bagarah garah Capeklah datang ka rumah Denai pinangkan bana Capeklah datang ka rumah Denai pinangkan bana

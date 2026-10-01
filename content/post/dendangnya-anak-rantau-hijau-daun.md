@@ -2,7 +2,7 @@
 title: "Dendangnya Anak Rantau - Hijau Daun"
 date: 2025-01-30
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Dendangnya Anak Rantau yang dibawakan oleh Hijau Daun.

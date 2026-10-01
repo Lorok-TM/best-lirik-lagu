@@ -2,7 +2,7 @@
 title: "Nyandeng Tresnah - Selvi Ayunda"
 date: 2024-07-12
 categories: 
-  - "madura"
+  - "Madura"
 ---
 
 **Berikut lirik Nyandeng Tresnah yang dinyanyikan oleh Selvi Ayunda.**

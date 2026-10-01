@@ -2,7 +2,7 @@
 title: "Kini - Aman"
 date: 2025-02-11
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Kini yang dibawakan oleh Aman.

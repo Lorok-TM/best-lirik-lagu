@@ -2,7 +2,7 @@
 title: "D'Sayang Band - Kapal Laut Kapal Selam"
 date: 2026-06-12
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 

@@ -2,7 +2,7 @@
 title: "Harry Parintang - Kembali Merajut Cinta"
 date: 2025-08-13
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Wajahmu yang selalu datang Dalam mimpiku setiap malam Terlihat jelas senyum dibibirmu Tersingkap dari butiran rindu

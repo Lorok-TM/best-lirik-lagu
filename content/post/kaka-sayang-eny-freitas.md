@@ -2,7 +2,7 @@
 title: "Kaka Sayang - Eny Freitas"
 date: 2025-04-01
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Kaka Sayang yang dibawakan oleh Eny Freitas.

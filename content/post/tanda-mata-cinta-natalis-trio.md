@@ -2,7 +2,7 @@
 title: "Tanda Mata Cinta - Natalis Trio"
 date: 2025-02-12
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Tanda mata cinta Sinuanmu borngini Ro disadari on hasianku Sai tanom di rohakki

@@ -2,7 +2,7 @@
 title: "Niken Salindry - Wes Oleh Ganti"
 date: 2025-05-20
 categories: 
-  - "campursari"
+  - "Campursari"
 ---
 
 Biyen aku mbok sio sio Atiku mbok gawe loro Tresnoku mbok anggep sepele Tego kowe ninggal golek liyane

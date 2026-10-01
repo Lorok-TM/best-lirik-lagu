@@ -2,7 +2,7 @@
 title: "Nabila Moure - Jan Cinan Bana"
 date: 2025-06-05
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Mulo batamu pandang Denai malu malu Bajawek tangan manyabuik namo Kito bakanalan

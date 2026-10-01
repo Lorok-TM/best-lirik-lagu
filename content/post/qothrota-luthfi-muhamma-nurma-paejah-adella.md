@@ -2,7 +2,7 @@
 title: "Qothrota Luthfi Muhamma - Nurma Paejah Adella"
 date: 2025-03-30
 categories: 
-  - "religi"
+  - "Religi"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Qothrota Luthfi Muhamma yang dibawakan oleh Nurma Paejah Adella.

@@ -2,7 +2,7 @@
 title: "Cantika Davinca & Syahriyadi - Menahan Rindu"
 date: 2025-07-11
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Sebentar saja aku sudah rindu Apalagi pergi seminggu Tunggulah sayang Aku pasti akan pulang

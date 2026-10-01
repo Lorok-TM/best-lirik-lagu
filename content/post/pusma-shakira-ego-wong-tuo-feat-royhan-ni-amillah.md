@@ -2,7 +2,7 @@
 title: "Pusma Shakira - Ego Wong Tuo feat. Royhan Ni Amillah"
 date: 2025-09-01
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 Tak ceritani Crito sing paling nglarani Naliko bapak lungo ninggalke kluargo Nelongso nanging kudu tak terimo

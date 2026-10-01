@@ -2,7 +2,7 @@
 title: "Remeh Bana Pandangan Kawan - Ali Gama"
 date: 2026-07-29
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 

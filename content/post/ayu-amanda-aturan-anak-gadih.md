@@ -2,7 +2,7 @@
 title: "Ayu Amanda - Aturan Anak Gadih"
 date: 2025-07-28
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Katiko bungo sadang kambang Kumbang kumbang batabangan Nak hinggok dima katuju Hanyo maisok madu Nak hinggok dima katuju Hanyo maisok madu

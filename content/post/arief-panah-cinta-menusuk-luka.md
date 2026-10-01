@@ -2,7 +2,7 @@
 title: "Arief - Panah Cinta Menusuk Luka"
 date: 2023-02-02
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 **Lirik Panah Cinta Menusuk Luka - Arief**

@@ -2,7 +2,7 @@
 title: "Niken Salindry - Ego Wong Tuo"
 date: 2025-10-22
 categories: 
-  - "campursari"
+  - "Campursari"
 ---
 
 Tak ceritani Crito sing paling nglarani Naliko bapak lungo Ninggalke kluargo Nelongso nanging kudu tak terimo

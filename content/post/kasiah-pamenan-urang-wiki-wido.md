@@ -2,7 +2,7 @@
 title: "Kasiah Pamenan Urang - Wiki Wido"
 date: 2025-04-17
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Bialah den cubo marintang rintang hati Takuiknyo tadorong manaruah raso nan salah Jaleh indak ka mungkin jikok di paturuikan Sadang bak kini dalam ganggaman urang Ondeh

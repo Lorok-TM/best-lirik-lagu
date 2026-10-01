@@ -2,7 +2,7 @@
 title: "Jegeg Bulan - De Mekelid dan Artinya"
 date: 2023-04-22
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 Jegeg Bulan rilis single dengan lirik dalam bahasa Bali berjudul "De Mekelid" yang artinya "Jangan Menghindar", menceritakan tentang sang kekasih yang berkelid kelid mau menghindar, sudah berjanji mau melamar tapi belum juga terbukti. Untuk lebih jelasnya silahkan Anda baca terjemahan lirik lagunya berada dibawah.

@@ -2,7 +2,7 @@
 title: "Anyqu - Dandam Inai Tak Jadi"
 date: 2022-10-28
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Anyqu rilis single dengan lirik dalam bahasa Minangkabau berjudul "Dandam Inai Tak Jadi" yang diciptakan oleh Rozac Tanjung.

@@ -2,7 +2,7 @@
 title: "Fany Zee feat. Aprilian - Sebatas Teman Biasa"
 date: 2023-04-20
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Lirik Lagu Melayu dengan judul Sebatas Teman Biasa yang dinyanyikan oleh Fany Zee Ft. Aprilian dan diciptakan oleh Andri Dharma dengan irama musik Slow Rock.

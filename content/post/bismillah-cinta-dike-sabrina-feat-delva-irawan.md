@@ -2,7 +2,7 @@
 title: "Bismillah Cinta - Dike Sabrina Feat Delva Irawan"
 date: 2025-03-24
 categories: 
-  - "religi"
+  - "Religi"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Bismillah Cinta yang dibawakan oleh Dike Sabrina Ft Delva Irawan.

@@ -2,7 +2,7 @@
 title: "Erie Suzan - Cinto Babaleh Luko"
 date: 2022-08-01
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 ## Lirik Lagu Minang ”Cinto Babaleh Luko“ by Erie Suzan

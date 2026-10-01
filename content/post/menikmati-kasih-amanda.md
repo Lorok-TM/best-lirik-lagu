@@ -2,7 +2,7 @@
 title: "Menikmati Kasih - Amanda"
 date: 2025-02-05
 categories: 
-  - "rohani"
+  - "Rohani"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Menikmati Kasih yang dibawakan oleh Amanda.

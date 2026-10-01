@@ -2,7 +2,7 @@
 title: "Tri Suaka, Zinidin Zidan, Fenny Frans - Anak Surgaku"
 date: 2023-11-21
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Tri Suaka & Zinidin Zidan, Fenny Frans rilis single berjudul "Anak Surgaku" yang diciptakan oleh Tri Suaka.

@@ -2,7 +2,7 @@
 title: "Rino Cancers - Tatungkuik Tatilantang"
 date: 2025-05-04
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Nak nio iko nak nio itu denai turuikkan Apo kandak apo taragak denai balikan Coitu bana sayang ka adiak balabiahan Walau kadang manyeso badan

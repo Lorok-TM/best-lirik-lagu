@@ -2,7 +2,7 @@
 title: "Fanny Sabila - Buleud dan Artinya"
 date: 2021-05-15
 categories: 
-  - "sunda"
+  - "Sunda"
 ---
 
 ## Lirik Lagu Sunda ”Buleud“ by Fanny Sabila

@@ -2,7 +2,7 @@
 title: "Anggrek - Rantau Pambateh Rindu Feat. Pinki Prananda"
 date: 2025-06-16
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 (anggrek) Dingin-dinginnyo hari, Labiah dingin taraso didalam hati Sajak uda pai jauah karantau urang

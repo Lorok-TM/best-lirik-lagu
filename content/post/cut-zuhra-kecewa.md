@@ -2,7 +2,7 @@
 title: "Cut Zuhra - Kecewa"
 date: 2026-01-27
 categories: 
-  - "aceh"
+  - "Aceh"
 ---
 
 Emm emmm emmm

@@ -2,7 +2,7 @@
 title: "Undangan - Ona Hetharua"
 date: 2025-04-16
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 Verse : Bahagia beta rasakan Saat su lama se pi tinggalkan.. Hati.. sanang Kembali hidop saat se datang..

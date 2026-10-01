@@ -2,7 +2,7 @@
 title: "Suka Duka Bareng Bareng - Mang Trianti"
 date: 2024-09-07
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 Harta sing ja harus merupa pipis Nanging pasangan Ne ngidang ngaenang hatine tis Beli sing taen ngaenang tiang sedih Ento ba cukup tiang suba merasa sugih

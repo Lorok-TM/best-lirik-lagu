@@ -2,7 +2,7 @@
 title: "Mutiara - Difarina Indra Adella Feat. Fendik Adella"
 date: 2026-07-20
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Engkaukah mutiara itu? Rela kuselami di laut biru Tingkahmu bagai purnama Paras bertaburkan cahaya

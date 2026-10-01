@@ -2,7 +2,7 @@
 title: "Cantika Davinca - Ay"
 date: 2025-12-08
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Ay apa kabarmu Lama kita tidak bertemu Ay dengarkan aku Saat ini ku merindumu

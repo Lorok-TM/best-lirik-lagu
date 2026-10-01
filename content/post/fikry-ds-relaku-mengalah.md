@@ -2,7 +2,7 @@
 title: "Fikry DS - Relaku Mengalah"
 date: 2023-03-11
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Fikry DS bersama DS Pro rilis single Melayu berjudul "Relaku Mengalah" yang diciptakan oleh Wanda Mahardika, menceritakan tentang seseorang yang harus merelakan kekasihnya berpaling pada orang lain yang lebih berharta.

@@ -2,7 +2,7 @@
 title: "Nasib Cinta Ku - Benni M Talawang & Jordy Kanja"
 date: 2026-09-16
 categories: 
-  - "dayak"
+  - "Dayak"
 ---
 
 Nasib berengku puna pasi tutu Ikau inyayang malihi aku Kisah cintaku puna pasi tutu Hubunganku dengam salenga inggetu Hubunganku dengam salenga inggetu

@@ -2,7 +2,7 @@
 title: "Mahalini - Kemarilah Tenang"
 date: 2025-11-08
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Silih berganti hari hari Tak selalu dinikmati Mencari cari damai Yang tak kunjung bisa ditemui Memaksa diri hadapi riuh dunia ini Terlihat baik baik saja namun hati terluka

@@ -2,7 +2,7 @@
 title: "Tresno Sudro - Esa Risty"
 date: 2026-07-15
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 

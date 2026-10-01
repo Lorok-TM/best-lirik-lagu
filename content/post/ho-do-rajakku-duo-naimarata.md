@@ -2,7 +2,7 @@
 title: "Ho Do Rajakku - Duo Naimarata"
 date: 2025-02-12
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Ho Do Rajakku yang dibawakan oleh Duo Naimarata.

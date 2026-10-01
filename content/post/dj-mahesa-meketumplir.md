@@ -2,7 +2,7 @@
 title: "DJ Mahesa - Meketumplir"
 date: 2025-11-19
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 Amonto be orahin De nyemak gae boye boye De bes ngisinin demen Numplir kurenan pisage

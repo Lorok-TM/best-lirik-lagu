@@ -2,7 +2,7 @@
 title: "Galaks - Baku Kele"
 date: 2026-09-09
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 Seng sangka dunia ini ale Taputar capat paskali sio Dolo berdua baku kele Skarang anana barangke

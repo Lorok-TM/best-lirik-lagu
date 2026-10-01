@@ -2,7 +2,7 @@
 title: "Minang Timur Barayo - Trio Minang Timur Feat Juan Reza, Jacson Zeran, Silet Open Up"
 date: 2025-03-25
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Minang Timur Barayo yang dibawakan oleh Trio Minang Timur Ft Juan Reza, Jacson Zeran, Silet Open Up.

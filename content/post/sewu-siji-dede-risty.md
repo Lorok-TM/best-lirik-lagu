@@ -2,7 +2,7 @@
 title: "Sewu Siji - Dede Risty"
 date: 2025-04-13
 categories: 
-  - "tarling"
+  - "Tarling"
 ---
 
 Udan sekien wis rada terang Kenang anane sampean ning iringan

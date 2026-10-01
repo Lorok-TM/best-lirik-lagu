@@ -2,7 +2,7 @@
 title: "Bakasiak Mato Mamandang - Carlos Feat Melisa Putri"
 date: 2025-04-09
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Manukiak alang nan dari bukik Tapakiak ayam jinak dilaman Sampai hati urang maambiak Pamenan diri nan denai sayang Sampai hati urang maambiak Pamenan diri nan denai sayang

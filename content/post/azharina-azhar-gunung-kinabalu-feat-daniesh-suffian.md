@@ -2,7 +2,7 @@
 title: "Azharina Azhar - Gunung Kinabalu feat. Daniesh Suffian"
 date: 2025-09-05
 categories: 
-  - "malaysia"
+  - "Malaysia"
 ---
 
 (Verse 1) Gunung Kinabalu Harum namanya Gunung tertinggi di Malaysia Gagah perkasa

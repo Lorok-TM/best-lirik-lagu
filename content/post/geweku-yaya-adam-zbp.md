@@ -2,7 +2,7 @@
 title: "Geweku Yaya - Adam ZBP"
 date: 2024-07-30
 categories: 
-  - "malaysia"
+  - "Malaysia"
 ---
 
 Kenangan lamo maso belajar Mari menjelmo mengusik minda Terpisoh kito tanpo ado kabar Ku ingat sokmo namamu yaya

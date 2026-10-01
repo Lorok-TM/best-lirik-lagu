@@ -2,7 +2,7 @@
 title: "Andra Respati - Haruskah Aku Pergi"
 date: 2025-09-28
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 Lebih baik aku pergi Meninggalkan kisah cinta ini Sungguh tak sanggup lagi Bertahan ku disini tiada arti

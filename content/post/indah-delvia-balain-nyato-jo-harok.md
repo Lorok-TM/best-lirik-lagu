@@ -2,7 +2,7 @@
 title: "Indah Delvia - Balain Nyato Jo Harok"
 date: 2025-09-22
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 

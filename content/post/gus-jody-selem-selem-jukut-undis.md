@@ -2,7 +2,7 @@
 title: "Gus Jody - Selem Selem Jukut Undis"
 date: 2023-04-23
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 Lirik Lagu Bali dengan judul Selem Selem Jukut Undis yang dinyanyikan oleh Gus Jody dan diciptakan oleh Bayu Krisna.

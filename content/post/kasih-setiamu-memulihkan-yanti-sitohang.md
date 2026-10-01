@@ -2,7 +2,7 @@
 title: "Kasih SetiaMu Memulihkan - Yanti Sitohang"
 date: 2025-01-07
 categories: 
-  - "rohani"
+  - "Rohani"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Kasih SetiaMu Memulihkan yang dibawakan oleh Yanti Sitohang.

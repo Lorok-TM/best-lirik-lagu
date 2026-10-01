@@ -2,7 +2,7 @@
 title: "Nguai - Leo James"
 date: 2024-12-28
 categories: 
-  - "iban"
+  - "Iban"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Nguai yang dibawakan oleh Leo James.

@@ -2,7 +2,7 @@
 title: "B-Three Star - Tangis Ni Boru Siakkangan"
 date: 2025-05-31
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Loja ho among loja ho inong Marmudu-mudu hami gellengmon Na hansit na dangol Ditaon ho do i sude Humokkop hami gellengmon

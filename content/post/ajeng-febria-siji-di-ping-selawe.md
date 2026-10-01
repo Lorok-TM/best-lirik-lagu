@@ -2,7 +2,7 @@
 title: "Ajeng Febria - Siji Di Ping Selawe"
 date: 2026-07-06
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 Siji diping selawe Kowe mung siji Tekan selawase Siji diping sedaso Siji – sijine mung kowe sing tak tresno

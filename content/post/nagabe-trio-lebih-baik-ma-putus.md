@@ -2,7 +2,7 @@
 title: "Nagabe Trio - Lebih Baik Ma Putus"
 date: 2025-07-24
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Alani aha do alana Aha do hu baen na salah Dang hea lambok be alusmi Dang hea tikkos be au di rohami Manang na sidalianmu nama i Pasidingkon au sian rohami

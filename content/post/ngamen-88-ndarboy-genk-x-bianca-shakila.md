@@ -2,7 +2,7 @@
 title: "Ngamen 88 - Ndarboy Genk x Bianca Shakila"
 date: 2026-07-03
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 

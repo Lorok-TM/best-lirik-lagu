@@ -2,7 +2,7 @@
 title: "Rintak Bungong Gapeuh - Nazar Shah Alam & Cut Zuhra"
 date: 2025-06-09
 categories: 
-  - "aceh"
+  - "Aceh"
 ---
 
 Verse : Si bungong ceurih keumang meukeunong.. Lam kulam gunong bineh seung tuha.. Dum aneuk gadih bak bang jitanyong.. Peukeuh na mantong peuluweung rasa..

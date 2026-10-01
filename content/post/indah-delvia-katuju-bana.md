@@ -2,7 +2,7 @@
 title: "Indah Delvia - Katuju Bana"
 date: 2025-06-02
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Kanai hati bana takanai Ulah kijok mato mandayo Malam nan tak lalok Siang nan baangan Mamikiakan rupo uda

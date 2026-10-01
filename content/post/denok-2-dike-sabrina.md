@@ -2,7 +2,7 @@
 title: "Denok 2 - Dike Sabrina"
 date: 2026-07-08
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 

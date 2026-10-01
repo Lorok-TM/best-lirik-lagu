@@ -2,7 +2,7 @@
 title: "Ali Gama - Jan Balamo Lamo feat. Febhy Febyola"
 date: 2025-08-05
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Indak dicaliak gagah buruaknyo Indak dipandang kilek sipatunyo Nan den cari elok budinyo Untuak ka imam dirumah tanggo Nan den cari elok budinyo Untuak ka ima dirumah tanggo

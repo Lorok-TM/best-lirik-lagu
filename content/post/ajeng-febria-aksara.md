@@ -2,7 +2,7 @@
 title: "Ajeng Febria - Aksara"
 date: 2025-12-04
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 Sayang S e opo ? Selawase yo mung kowe Kowe K ne opo ? Kowe sing paling tak tresno

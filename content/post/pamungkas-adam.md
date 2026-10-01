@@ -2,7 +2,7 @@
 title: "Pamungkas - Adam"
 date: 2026-08-30
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 

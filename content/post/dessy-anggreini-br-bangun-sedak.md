@@ -2,7 +2,7 @@
 title: "Dessy Anggreini Br Bangun - Sedak"
 date: 2024-04-26
 categories: 
-  - "karo"
+  - "Karo"
 ---
 
 **Lirik Sedak - Dessy Anggreini Br Bangun**

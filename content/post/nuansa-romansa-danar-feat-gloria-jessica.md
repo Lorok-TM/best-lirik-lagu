@@ -2,7 +2,7 @@
 title: "Nuansa Romansa - Danar Feat Gloria Jessica"
 date: 2025-02-14
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Nuansa Romansa yang dibawakan oleh Danar Ft Gloria Jessica.

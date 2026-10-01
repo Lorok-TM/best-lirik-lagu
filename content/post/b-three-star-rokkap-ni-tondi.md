@@ -2,7 +2,7 @@
 title: "B-Three Star - Rokkap Ni Tondi"
 date: 2025-08-11
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Holong….holong na di bagas rohakki Tung maccai bagas do i Ubbagas sian tao toba i Asa takkas di boto ho

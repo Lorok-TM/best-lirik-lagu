@@ -2,7 +2,7 @@
 title: "Daniel Folala Zalukhu - Hiza Wo Khigu"
 date: 2026-09-04
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 Akhi so niwaögu khömö Hadia atö tola öbe ginötö Möi fökhö dödögu Nalö u'ila ndra'ugö

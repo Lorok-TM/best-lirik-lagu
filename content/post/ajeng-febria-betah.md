@@ -2,7 +2,7 @@
 title: "Ajeng Febria - Betah"
 date: 2026-07-15
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 Eh mas mriki lenggaho Lenggah mriki Opo nyongko hubungane bakal sedowo iki Kadang bungah kadang susah Akeh susahe naning syukur…. tetep betah

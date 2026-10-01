@@ -2,7 +2,7 @@
 title: "Aku Hanya Persinggahan - Ajeng Febria"
 date: 2026-07-07
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Salahkah aku menjahuimu Setelah ku tau Kau duakan cinta ini Kau ingkari semua janji

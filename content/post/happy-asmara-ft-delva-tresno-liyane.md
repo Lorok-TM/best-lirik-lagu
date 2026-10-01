@@ -2,8 +2,7 @@
 title: "Happy Asmara ft Delva - Tresno Liyane dan Artinya"
 date: 2023-01-07
 categories: 
-  - "dangdut"
-  - "java"
+  - "Jawa"
 ---
 
 **Lirik Tresno Liyane - Happy Asmara Feat Delva**

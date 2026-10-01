@@ -2,7 +2,7 @@
 title: "Dek Ulik - Tuhan Dimana Jodohku"
 date: 2023-04-12
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 Lirik Lagu Bali dengan judul Tuhan Dimana Jodohku yang dinyanyikan oleh Dek Ulik dan diciptakan oleh Dewa Mayura dengan irama musik Dangdut Ukulele.

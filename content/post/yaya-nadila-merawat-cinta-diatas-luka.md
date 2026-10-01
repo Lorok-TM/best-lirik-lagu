@@ -2,7 +2,7 @@
 title: "Yaya Nadila - Merawat Cinta Diatas Luka"
 date: 2026-02-04
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Dulu ku coba hati tuk setia Menanti diri mu yang tlah mendua Bertahun- tahun ku jaga cinta kita Dan akhirnya ku di tumbuhkan dia

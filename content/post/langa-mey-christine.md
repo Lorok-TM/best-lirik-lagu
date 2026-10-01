@@ -2,7 +2,7 @@
 title: "Langa - Mey Christine"
 date: 2025-03-01
 categories: 
-  - "toraja"
+  - "Toraja"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Langa' yang dibawakan oleh Mey Christine.

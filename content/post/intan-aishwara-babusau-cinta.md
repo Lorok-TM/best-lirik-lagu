@@ -2,7 +2,7 @@
 title: "Intan Aishwara - Babusau Cinta dan Artinya"
 date: 2022-05-20
 categories: 
-  - "dayak"
+  - "Dayak"
   - "remix"
 ---
 

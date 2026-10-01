@@ -2,7 +2,7 @@
 title: "Silva Hayati - Doa Untuak Ayah"
 date: 2023-05-19
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Lirik Lagu Minang dengan judul Doa Untuak Ayah yang dinyanyikan oleh Silva Hayati dan diciptakan oleh Erwin Agam dengan irama musik Pop.

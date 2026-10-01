@@ -2,7 +2,7 @@
 title: "Ndak Tapakai Elok Pulangkan - Anggrek"
 date: 2025-04-20
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Lah batahun cinto kito jalani Arek bak raso nan indak kaputuih Tapi kini apo nan tajadi Dibalakang uda main hati

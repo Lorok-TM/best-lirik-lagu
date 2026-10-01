@@ -2,7 +2,7 @@
 title: "Al Arifin - Luko Baukia Jo Sambilu"
 date: 2025-05-21
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 ## Lirik Lagu Luko Baukia Jo Sambilu - Al Arifin

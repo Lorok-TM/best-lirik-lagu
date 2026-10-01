@@ -2,7 +2,7 @@
 title: "Oni Aprak feat. Dhea Gemoii - Kanggo Salira"
 date: 2025-11-11
 categories: 
-  - "sunda"
+  - "Sunda"
 ---
 
 Sorot socana Kagambar rasa cintana Mun pareung paduduaan Hate bungah bagja pisan

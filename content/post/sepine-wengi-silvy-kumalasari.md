@@ -2,7 +2,7 @@
 title: "Sepine Wengi - Silvy Kumalasari"
 date: 2025-04-17
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Nanging saiki kowe ono ngendi Tekomu tanpo semayan Lungomu tanpo pamitan Neng kene aku ngenteni Sliramu karo dedungo Mugo awakmu neng kono biso bahagio

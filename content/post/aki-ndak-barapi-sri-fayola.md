@@ -2,7 +2,7 @@
 title: "Aki Ndak Barapi - Sri Fayola"
 date: 2024-07-11
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Cukuik sapatah kato sajo Nan kini sadang den nantikan Ka baranti sampai disiko Atau bisa kito taruihkan

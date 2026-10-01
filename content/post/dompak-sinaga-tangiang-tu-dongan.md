@@ -2,7 +2,7 @@
 title: "Dompak Sinaga - Tangiang Tu Dongan"
 date: 2025-12-12
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Ale Tuhan si tolu sada i Unduk do au di partikkian on Asi ma jo rohaM ale Tuhan tu donganki Haccit dihilala sap ilu ilu i Tarago parngoluon nai

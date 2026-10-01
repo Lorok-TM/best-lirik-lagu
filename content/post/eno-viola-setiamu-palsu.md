@@ -2,7 +2,7 @@
 title: "Eno Viola - Setiamu Palsu"
 date: 2023-05-28
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Lirik Lagu Melayu dengan judul Setiamu Palsu yang dinyanyikan oleh Eno Viola dan diciptakan oleh Thomas Arya dengan irama musik Pop.

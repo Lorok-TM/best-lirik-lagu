@@ -2,7 +2,7 @@
 title: "Aprilian Feat Fany Zee - Takdir Yang Memisahkan"
 date: 2025-05-13
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 Semusim telah berlalu Tanpa kehadiranmu Ku juga merasakan rindu Sejak tak bersama dirimu

@@ -2,7 +2,7 @@
 title: "Fany Zee feat. Aprilian - Janji Setahun Rindu"
 date: 2023-05-23
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 Lirik Lagu Melayu dengan judul Janji Setahun Rindu yang dinyanyikan oleh Fany Zee Ft. Aprilian dan diciptakan oleh Ajhay Pasma dengan irama musik Slow Rock.

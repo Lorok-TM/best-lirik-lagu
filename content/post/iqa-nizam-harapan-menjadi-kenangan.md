@@ -2,7 +2,7 @@
 title: "Iqa Nizam - Harapan Menjadi Kenangan"
 date: 2025-06-04
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 Kini kita telah tiba Diujung persimpangan jalan cinta Telah ku cuba tuk bertahan Didalam penantian panjang Denganmu pun aku inginkan Namun tiada ku temui jalan

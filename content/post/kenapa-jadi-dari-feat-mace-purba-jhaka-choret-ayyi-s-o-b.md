@@ -2,7 +2,7 @@
 title: "Kenapa Jadi - D'Ari Feat Mace Purba, Jhaka Choret & Ayyi S.O.B"
 date: 2024-12-28
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Kenapa Jadi yang dibawakan oleh D'Ari Ft Mace Purba, Jhaka Choret & Ayyi S.O.B.

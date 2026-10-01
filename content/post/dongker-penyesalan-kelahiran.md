@@ -2,7 +2,7 @@
 title: "Dongker - Penyesalan Kelahiran"
 date: 2026-09-04
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Kenapa kita terus-terusan bertanya Untuk apa meL4cvrkan dunia Sejenak kukira untuk mencari cinta Wewangian dan baju yang layak Namun Soe Hok Gie ada benarnya Beruntunglah mereka yang tak lahir

@@ -2,7 +2,7 @@
 title: "Bola Andora - Ficky Tanjung Feat Yetni Annika"
 date: 2026-08-09
 categories: 
-  - "tapsel"
+  - "Tapsel"
 ---
 
 

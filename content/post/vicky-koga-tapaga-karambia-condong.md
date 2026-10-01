@@ -2,7 +2,7 @@
 title: "Vicky Koga - Tapaga Karambia Condong"
 date: 2025-08-19
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Bapacah tangih sibuyuang Urang sakampuang lah sato sanang Harok gadang didalam kampuang Dalam baduangan urang nantikan

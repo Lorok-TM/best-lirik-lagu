@@ -2,7 +2,7 @@
 title: "Icha Annisa - Semenjak Engkau Hadir"
 date: 2023-03-20
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Lirik Lagu Melayu dengan judul Semenjak Engkau Hadir yang dinyanyikan oleh Icha Annisa dan diciptakan oleh Erwin Agam dengan irama musik Pop.

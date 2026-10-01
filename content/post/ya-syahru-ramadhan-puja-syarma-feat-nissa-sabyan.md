@@ -2,7 +2,7 @@
 title: "Ya Syahru Ramadhan - Puja Syarma Feat Nissa Sabyan"
 date: 2025-02-27
 categories: 
-  - "religi"
+  - "Religi"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Ya Syahru Ramadhan yang dibawakan oleh Puja Syarma Ft Nissa Sabyan.

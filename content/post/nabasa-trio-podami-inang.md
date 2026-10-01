@@ -2,7 +2,7 @@
 title: "Nabasa Trio - Podami Inang"
 date: 2025-05-03
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 On ma tingkina inang Na ingkon lao ma au Tu parjalanganki Borhat nama au maninggalhon sude Hinaholongan ni rohangki

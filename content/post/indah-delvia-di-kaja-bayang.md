@@ -2,7 +2,7 @@
 title: "Indah Delvia - Di Kaja Bayang"
 date: 2026-01-24
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Ditimbang diraso raso Dipatuik di inok manuangkan Hati takanai bana takanai rasonyo Denai manaruah raso denai lah jatuah cinto ka uda

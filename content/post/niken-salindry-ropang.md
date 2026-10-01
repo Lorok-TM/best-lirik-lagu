@@ -2,7 +2,7 @@
 title: "Niken Salindry - Ropang"
 date: 2025-11-12
 categories: 
-  - "campursari"
+  - "Campursari"
 ---
 
 Sampun mboten enten tenagane Damel ngimbangi liyane Sing ketok penak uripe Kadang kepidak kelaran Ngempet dadi tangisan Rodo panguripan Bakale muter nanging mbuh kapan

@@ -2,7 +2,7 @@
 title: "Rahma Rahmi - Terimalah Kenyataan"
 date: 2026-09-10
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Mengapa kau pilih keindahan palsu Tak menghadapi pahitnya kenyataan Pertemuan dan perpisahan kita bukan suatu rencana Mengapa kau mencari bahagia dengan jalan yang salah

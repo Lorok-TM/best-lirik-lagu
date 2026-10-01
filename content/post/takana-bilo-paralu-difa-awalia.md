@@ -2,7 +2,7 @@
 title: "Takana Bilo Paralu - Difa Awalia"
 date: 2026-06-28
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Jan lai ka amuah batamu Salamo ko indak tau Diri denai balupokan Takana bilo paralu

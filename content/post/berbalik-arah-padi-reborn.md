@@ -2,7 +2,7 @@
 title: "Berbalik Arah - Padi Reborn"
 date: 2026-07-27
 categories: 
-  - "band"
+  - "Band"
 ---
 
 Di sepertiga malam ini aku masih bertahan Namun kaki ini memaksa arah jalan pulang Meski penat mengganggu tubuh Mengusik bimbangku Ku adakan semua ini tuk menghadapimu

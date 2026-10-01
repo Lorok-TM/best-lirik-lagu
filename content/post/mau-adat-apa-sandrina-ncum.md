@@ -2,7 +2,7 @@
 title: "Mau Adat Apa - Sandrina & Ncum"
 date: 2026-07-10
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 

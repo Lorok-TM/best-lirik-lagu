@@ -2,7 +2,7 @@
 title: "Kidung Ratri 1 Sura (Malam 1 Suro) - Pancal 15"
 date: 2024-07-12
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 **Berikut lirik Kidung Ratri 1 Sura yang dinyanyikan oleh Pancal 15.**

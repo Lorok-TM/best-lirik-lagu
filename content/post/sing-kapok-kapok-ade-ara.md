@@ -2,7 +2,7 @@
 title: "Sing Kapok Kapok - Ade Ara"
 date: 2024-10-03
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 Beli dingehang je munyin tiang Tiang ngomong ulian sayang Boye je tiang mengekang

@@ -2,7 +2,7 @@
 title: "Diva Aurel - Singgalang Oyak Kapua"
 date: 2025-08-18
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Nan singgalang ditutuik awan Nan marapi tagak manjago Tampak nan dari bukiktinggi Tali den sangko ka buayan Gantuangan diri mah kironyo Jarek sarupo jo jawi

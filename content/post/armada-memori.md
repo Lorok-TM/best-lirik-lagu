@@ -2,8 +2,7 @@
 title: "Armada - Memori"
 date: 2023-02-15
 categories: 
-  - "band"
-  - "indonesia"
+  - "Band"
 ---
 
 Lirik Lagu Band Indo dengan judul Memori yang dinyanyikan oleh Armada Band dan diciptakan oleh Andika Mahendra Yuda dengan irama musik Pop.

@@ -2,7 +2,7 @@
 title: "Vivied Gulo - Tenga Sinangea"
 date: 2025-10-16
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 Tenga zilo faomasi Tenga zilo faedona Meofaema khogu liu sisambua Meyao zilo sekola lo nekhe nekhe Badanga toi nia mano meniha silumana

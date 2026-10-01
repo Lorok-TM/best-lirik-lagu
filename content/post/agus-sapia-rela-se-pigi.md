@@ -2,7 +2,7 @@
 title: "Agus Sapia - Rela Se Pigi"
 date: 2026-09-09
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 Hapus saja samua rasa Karna memang skarang su seng bisa Dolo memang akang paleng indah Mar sakarang su beda

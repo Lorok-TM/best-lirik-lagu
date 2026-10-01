@@ -2,7 +2,7 @@
 title: "Risky Bajuh - Ikhlas Manarima"
 date: 2024-05-15
 categories: 
-  - "dayak"
+  - "Dayak"
 ---
 
 **Lirik Risky Bajuh - Ikhlas Manarima**

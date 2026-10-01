@@ -2,7 +2,7 @@
 title: "Daniel Folala Zalukhu - Uwaò Waò Manò"
 date: 2025-12-09
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 Enaö na halöwögu Enaö na bewewògu Böi öbiniö waö fatunö khögu Heha ba zima'ifu ukharu kharu

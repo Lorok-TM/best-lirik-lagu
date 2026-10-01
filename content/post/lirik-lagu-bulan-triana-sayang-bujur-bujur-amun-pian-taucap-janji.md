@@ -2,7 +2,7 @@
 title: "Bulan Triana - Sayang Bujur Bujur Amun Pian Taucap Janji"
 date: 2021-10-06
 categories: 
-  - "banjar"
+  - "Banjar"
   - "remix"
 ---
 

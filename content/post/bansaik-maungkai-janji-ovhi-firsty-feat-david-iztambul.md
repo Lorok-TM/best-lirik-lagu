@@ -2,7 +2,7 @@
 title: "Bansaik Maungkai Janji - Ovhi Firsty Feat David Iztambul"
 date: 2025-04-18
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Binaso sumpah janji uda parungkai Dek bansaik badan diri kasiah tak sampai

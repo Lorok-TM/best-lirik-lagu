@@ -2,7 +2,7 @@
 title: "Dedek Intan - Berat Sebelah"
 date: 2026-01-01
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Biar aku lupakan satu satu kenangan Ku ingin bahagia tanpa adanya beban Andaikan takdir ini tidak dapat pengganti Kan ku tenangkan hati tanpa aku sesali

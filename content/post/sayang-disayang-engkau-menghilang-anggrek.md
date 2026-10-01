@@ -2,7 +2,7 @@
 title: "Sayang Disayang Engkau Menghilang - Anggrek"
 date: 2025-03-11
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Baru saja kita memulai cinta Baru saja kita menjalin asmara Kau dan aku saling berbagi cerita Sayang di sayang engkau menghilang Ditengah perjalanan

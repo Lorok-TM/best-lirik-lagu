@@ -2,7 +2,7 @@
 title: "Hey Dunia - Salman Al Jugjawy Feat Akhdiyat Duta Modjo"
 date: 2025-02-18
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Hey Dunia yang dibawakan oleh Salman Al Jugjawy Ft Akhdiyat Duta Modjo.

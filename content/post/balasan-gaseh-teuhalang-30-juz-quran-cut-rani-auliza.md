@@ -2,7 +2,7 @@
 title: "Balasan Gaseh Teuhalang 30 Juz Qur'an - Cut Rani Auliza"
 date: 2024-09-03
 categories: 
-  - "aceh"
+  - "Aceh"
 ---
 
 Dari awai phon kalheuh lon bithe Lon yu meu gure wahe kakanda Sebab kareuna abi neu lake 30 juz beu teunte na dalam dada

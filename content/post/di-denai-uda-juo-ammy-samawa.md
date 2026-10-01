@@ -2,7 +2,7 @@
 title: "Di Denai Uda Juo - Ammy Samawa"
 date: 2025-04-06
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Dek hanyolah uda yo nan denai sayang Dimalah ka mungkin denai tarimo Ameh babungkah pitih babilang Dari urang nan iyo nio pulo

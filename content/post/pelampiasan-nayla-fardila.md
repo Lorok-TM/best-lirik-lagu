@@ -2,7 +2,7 @@
 title: "Pelampiasan - Nayla Fardila"
 date: 2024-08-17
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 Isih kerep sok kelingan Pas pertama dewe kenalan Kowe curhat werno werno Haa saiki ming kari cerito

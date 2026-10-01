@@ -2,7 +2,7 @@
 title: "Menangis Sejadi Jadinya - Rahma Rahmi"
 date: 2025-02-17
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Menangis Sejadi Jadinya yang dibawakan oleh Rahma Rahmi.

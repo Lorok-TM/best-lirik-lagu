@@ -2,7 +2,7 @@
 title: "Gadis Melayu - Al Hafzh"
 date: 2024-12-10
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Gadis Melayu yang dibawakan oleh Al Hafzh.

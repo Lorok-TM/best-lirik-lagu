@@ -2,7 +2,7 @@
 title: "Hipnotis - Naff"
 date: 2025-02-16
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Hipnotis yang dibawakan oleh Naff.

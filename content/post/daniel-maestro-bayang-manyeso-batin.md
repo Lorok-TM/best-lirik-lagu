@@ -2,7 +2,7 @@
 title: "Daniel Maestro - Bayang Manyeso Batin"
 date: 2025-05-04
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 

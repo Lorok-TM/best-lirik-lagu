@@ -2,7 +2,7 @@
 title: "Arok Jalan Sairiang - Pepy Grace"
 date: 2025-02-06
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Arok Jalan Sairiang yang dibawakan oleh Pepy Grace.

@@ -2,7 +2,7 @@
 title: "Krisna Trias feat. Satine Zaneta - Harmoni"
 date: 2026-01-27
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Segala perbedaan yang ada Takkan jadi kendala Baik dan buruk aku dan kamu Malah jadi harmoni

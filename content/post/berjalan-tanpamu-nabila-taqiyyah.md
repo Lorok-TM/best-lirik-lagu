@@ -2,7 +2,7 @@
 title: "Berjalan Tanpamu - Nabila Taqiyyah"
 date: 2025-03-07
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Berjalan Tanpamu yang dibawakan oleh Nabila Taqiyyah.

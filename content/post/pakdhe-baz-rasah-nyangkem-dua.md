@@ -2,8 +2,7 @@
 title: "Pakdhe Baz - Rasah Nyangkem 2 dan Artinya"
 date: 2023-02-11
 categories: 
-  - "dangdut"
-  - "java"
+  - "Jawa"
 ---
 
 Pakdhe Baz rilis single dengan lirik dalam bahasa Jawa berjudul "Rasah Nyangkem 2" yang artinya "Gak Usah Banyak Bicara versi Kedua", menceritakan tentang jadi orang itu gak usah banyak omong, gak usah terlalu ikut campur urusan orang lain, gak usah melihat jika gak suka, dan untuk lebih jelasnya silahkan Anda baca terjemahan lirik lagunya berada dibawah.

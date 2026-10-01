@@ -2,7 +2,7 @@
 title: "Edelweis - Valen Hattu Feat. Stella Kaya"
 date: 2024-07-20
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Kanda Mengapa gelas retak Keping keping hancur Dalam tanganku

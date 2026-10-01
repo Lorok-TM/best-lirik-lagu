@@ -2,7 +2,7 @@
 title: "Jangan Jual Yesus - Jason Irwan"
 date: 2025-04-13
 categories: 
-  - "rohani"
+  - "Rohani"
 ---
 
 Yesus membuktikan di kayu salib Tergantung berdarah di Bukit Kalvari Disiksa dan dihina dimahkotai duri Mengalir darah menebus hidupku

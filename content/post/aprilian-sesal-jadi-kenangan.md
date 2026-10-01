@@ -2,7 +2,7 @@
 title: "Aprilian - Sesal Jadi Kenangan"
 date: 2025-08-13
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 Cinta yang kuberikan kepadamu sayang Setulus dan sepenuh hatiku Tapi kini mengapa kau sakiti hatiku

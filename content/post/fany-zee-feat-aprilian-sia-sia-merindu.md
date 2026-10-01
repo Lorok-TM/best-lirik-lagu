@@ -2,7 +2,7 @@
 title: "Fany Zee feat. Aprilian - Sia Sia Merindu"
 date: 2025-11-09
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 Apa kabarmu duhai kekasihku Sudah lama kita tak bertemu Entah di mana kini kau berada Ku merindumu oh cinta

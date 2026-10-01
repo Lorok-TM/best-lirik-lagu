@@ -2,7 +2,7 @@
 title: "Kesucian Idul Fitri - Puja Syarma Feat Nissa Sabyan"
 date: 2025-03-26
 categories: 
-  - "religi"
+  - "Religi"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Kesucian Idul Fitri yang dibawakan oleh Puja Syarma Ft Nissa Sabyan.

@@ -2,7 +2,7 @@
 title: "Safira Inema - Wulan Wulangun"
 date: 2026-07-17
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 Sengsem lamun sumandhing.. (Seuatu kebahagiaan jika bersanding) Sengseming jiwa rinajut mring tresna.. (Kebahagiaan jiwa yang terajut oleh cinta) Nalika nggegem tangan mu.. (Ketika menggenggan tanganmu) Mripat mu nyawang mripatku.. (Matamu menatap mataku) Rina wengi luwih ayu dina iki.. (Siang malam lebih cantik hari ini)

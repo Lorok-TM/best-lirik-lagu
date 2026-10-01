@@ -2,7 +2,7 @@
 title: "Keljo - Mungkinkah Kembali"
 date: 2025-11-07
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Ku akui banyak salahku Berulang kali mengulang kesalahan sama Maafkanku yang belum sempurna Tapi ku pun terus mencoba menaklukkan diriku

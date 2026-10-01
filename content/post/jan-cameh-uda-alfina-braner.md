@@ -2,7 +2,7 @@
 title: "Jan Cameh Uda - Alfina Braner"
 date: 2026-07-18
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Jan cameh Jan cameh Jan cameh oi uda Denai ko Denai ko dak banyak tingkah Picayo Picayo Picayo lah uda Denai ko lai lah saulah

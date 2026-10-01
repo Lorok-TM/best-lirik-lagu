@@ -2,7 +2,7 @@
 title: "Adista - Menunggu"
 date: 2026-09-12
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Terluka lagi untuk kesekian kali Padahal ku tau kau tidak mencintaiku Bodohnya aku masih mengharapkan kamu Padahal ku tau kau tidak menyanyangiku

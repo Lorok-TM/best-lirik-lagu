@@ -2,7 +2,7 @@
 title: "Via Timor - Tek Simpen Sayange dan Artinya"
 date: 2023-01-13
 categories: 
-  - "tarling"
+  - "Tarling"
 ---
 
 Via Timor rilis single Tarling dengan lirik dalam bahasa Jawa Barat berjudul "Tek Simpen Sayange" yang artinya "Ku Simpan Rasa Sayangku", menceritakan tentang rasa sayang yang disimpan, rasa cinta yang disembunyikan, karena orang yang disukai lebih memilih temannya sendiri. Untuk lebih jelasnya silahkan Anda baca terjemahan lirik lagunya berada dibawah.

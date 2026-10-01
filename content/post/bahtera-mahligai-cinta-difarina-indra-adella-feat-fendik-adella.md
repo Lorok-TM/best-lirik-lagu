@@ -2,7 +2,7 @@
 title: "Bahtera Mahligai Cinta - Difarina Indra Adella Feat. Fendik Adella"
 date: 2025-06-04
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Di waktu pertama kali aku Melihatmu biasa saja Kau mulai tebarkan pesonamu Dengan tingkah lucu dan manismu

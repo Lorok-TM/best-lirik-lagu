@@ -2,7 +2,7 @@
 title: "Katresnan - Shinta Arsinta"
 date: 2025-02-14
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Katresnan yang dibawakan oleh Shinta Arsinta.

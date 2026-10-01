@@ -2,7 +2,7 @@
 title: "Sabila Permata Adella - Maafkanlah feat. Dimskey"
 date: 2025-11-28
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Tiada kusangka dan kuduga Kau khianat cinta Penantianku yang t'lah lama Berbuah percuma Aku yang tercerai Rindu yang menyiksa Ternyata kau mendua Sungguh ku kecewa

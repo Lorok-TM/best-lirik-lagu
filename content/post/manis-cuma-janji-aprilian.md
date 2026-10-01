@@ -2,7 +2,7 @@
 title: "Manis Cuma Janji - Aprilian"
 date: 2026-06-23
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 

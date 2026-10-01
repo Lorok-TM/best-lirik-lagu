@@ -2,7 +2,7 @@
 title: "Niken Salindry - Sumandhing"
 date: 2026-07-22
 categories: 
-  - "campursari"
+  - "Campursari"
 ---
 
 Sineksen mbulan kekencar ing ratri Nggurit jagad bareng klawan si reki Sayang Natah bungah ngrengga tresna nyandhing sliramu Eman Kenya manis sesotyaku

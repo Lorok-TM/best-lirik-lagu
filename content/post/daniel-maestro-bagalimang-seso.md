@@ -2,7 +2,7 @@
 title: "Daniel Maestro - Bagalimang Seso"
 date: 2025-10-06
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Indak di sasa ranguik nyo badan Bialah nak dicubo si badan diri Rono lah hilang indak babayang Gantiang banang dek baban ka untuak tali

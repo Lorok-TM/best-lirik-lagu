@@ -2,7 +2,7 @@
 title: "Tunggu Sebentar - Willy Anggawinata"
 date: 2025-01-15
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Tunggu Sebentar yang dibawakan oleh Willy Anggawinata.

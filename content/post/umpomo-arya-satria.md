@@ -2,7 +2,7 @@
 title: "Umpomo - Arya Satria"
 date: 2024-11-17
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 Umpomo aku ra wedi duso Loro tak wales loro Koyo tatu sing tak tompo Nanging aku ra mentolo

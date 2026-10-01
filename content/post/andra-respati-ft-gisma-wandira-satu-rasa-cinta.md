@@ -2,7 +2,7 @@
 title: "Andra Respati ft. Gisma Wandira - Satu Rasa Cinta"
 date: 2022-12-08
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 Lirik Lagu Melayu dengan judul Satu Rasa Cinta yang dinyanyikan oleh Andra Respati Feat. Gisma Wandira dan diciptakan oleh Ajhay Pasma dengan irama musik Slow Rock.

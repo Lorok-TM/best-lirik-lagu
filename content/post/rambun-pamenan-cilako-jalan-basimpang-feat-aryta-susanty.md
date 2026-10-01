@@ -2,7 +2,7 @@
 title: "Rambun Pamenan - Cilako Jalan Basimpang feat. Aryta Susanty"
 date: 2025-08-09
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Ulah cilako jalan basimpangan Sadang sabimbiang nan bapisahkan Cangguang sabana cangguang Seso sabana seso badan

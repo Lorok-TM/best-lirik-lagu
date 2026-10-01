@@ -2,7 +2,7 @@
 title: "Arbil Fahrizan - Jodoh Pilihan Tuhan"
 date: 2025-08-23
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Berulang kali aku menjalin kasih Namun akhirnya gagal dan terlukai Telah ku coba untuk membina cinta Tapi tak pernah ku rasa bahagia

@@ -2,7 +2,7 @@
 title: "Kangen Band - Rodecia"
 date: 2026-07-08
 categories: 
-  - "band"
+  - "Band"
 ---
 
 

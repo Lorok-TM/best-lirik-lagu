@@ -2,7 +2,7 @@
 title: "Di Holong Trio - Dang Tois Ni Rohakku feat. Jen Manurung"
 date: 2025-09-14
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Lungun do rohakki ale inang Molo dukkon ro botari i Sai tumatangis ma sasada au Di tano parjalanganhi Marningot bohimi inang nauli lagu Na tading di hutai

@@ -2,7 +2,7 @@
 title: "Eva Valentine - Bintakng Bagara Amas"
 date: 2026-09-18
 categories: 
-  - "dayak"
+  - "Dayak"
 ---
 
 Uwe' apa' repo atiku Mimpiku bisa jadi nyata Uwe' apa' tarima kasih Doa kita' ngirikngi' langkahku

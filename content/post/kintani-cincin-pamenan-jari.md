@@ -2,7 +2,7 @@
 title: "Kintani - Cincin Pamenan Jari"
 date: 2023-02-28
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Lirik Lagu Minang dengan judul Cincin Pamenan Jari yang dinyanyikan oleh Kintani dan diciptakan oleh Novian Nobel dengan irama musik Pop.

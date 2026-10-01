@@ -2,7 +2,7 @@
 title: "Puket Jantung - Julian Isnaeni"
 date: 2025-02-10
 categories: 
-  - "aceh"
+  - "Aceh"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Puket Jantung yang dibawakan oleh Julian Isnaeni.

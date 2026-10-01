@@ -2,7 +2,7 @@
 title: "Andra Respati - Ijab Kabul Feat. Gisma Wandira"
 date: 2025-06-10
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 Dengan Bismillah aku niatkan Kata ijab kabul aku lafadzkan Hari ini engkau tlah kuhalalkan Engkaulah jodohku Tuhan takdirkan

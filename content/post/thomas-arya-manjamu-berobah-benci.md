@@ -2,7 +2,7 @@
 title: "Thomas Arya - Manjamu Berobah Benci"
 date: 2025-05-12
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 Cukup lama hatiku bersabar Hadapi semua tingkah mu kekasih Yang selalu sakiti perasaan ini

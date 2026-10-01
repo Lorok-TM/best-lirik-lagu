@@ -2,7 +2,7 @@
 title: "Silvia An Feat Yakup Loebies - Gamang Painteon"
 date: 2025-05-12
 categories: 
-  - "tapsel"
+  - "Tapsel"
 ---
 
 Malos ma bunga di taman Mahonok tu na ha hiangan Andingan ma musim marganti Anso sidung doma alogoan

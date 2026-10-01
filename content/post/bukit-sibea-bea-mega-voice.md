@@ -2,7 +2,7 @@
 title: "Bukit Sibea Bea - Mega Voice"
 date: 2025-03-04
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Bukit Sibea Bea yang dibawakan oleh Mega Voice.

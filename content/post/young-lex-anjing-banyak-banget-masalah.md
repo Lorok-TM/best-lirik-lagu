@@ -2,7 +2,7 @@
 title: "Young Lex - Anjing Banyak Banget Masalah"
 date: 2025-07-03
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Tuang gelas minum sambil curhat Gak ada yang ditutup kaya aurat Ga nimbang idup makin berat Si anjing bullsh\*t gua dipecat

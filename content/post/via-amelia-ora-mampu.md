@@ -2,8 +2,7 @@
 title: "Via Amelia - Ora Mampu dan Artinya"
 date: 2023-06-26
 categories: 
-  - "dangdut"
-  - "java"
+  - "Jawa"
 ---
 
 Via Amelia bersama Fortuna Enterprise rilis single dengan lirik dalam bahasa Jawa berjudul "Ora Mampu" yang artinya "Tidak Mampu", menceritakan tentang seseorang yang tak mampu melupakan kekasihnya yang sekarang jadi mantan. Untuk lebih jelasnya silahkan Anda baca terjemahan lirik lagunya berada dibawah.

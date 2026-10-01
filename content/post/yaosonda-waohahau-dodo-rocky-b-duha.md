@@ -2,7 +2,7 @@
 title: "Ya'ösönda Wa'ohahau Dödö - Rocky B Duha"
 date: 2026-09-04
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 Laua lo utahigo wefaoda bazilalo Yaugo tuhododo Utayaigo badodo uolifugo mano Hewaai afokho

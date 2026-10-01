@@ -2,8 +2,7 @@
 title: "Sasya Arkhisna - Sasi Wingi"
 date: 2025-05-12
 categories: 
-  - "dangdut"
-  - "java"
+  - "Jawa"
 ---
 
 Sasi wingi opo kowe lali Gusti nemokke awakdewe lewat takdire Iseh kelingan janjimu demi tuhan Tapi kowe lungo demi wong liyo

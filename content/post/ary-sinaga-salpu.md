@@ -2,7 +2,7 @@
 title: "Ary Sinaga - Salpu"
 date: 2025-05-25
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Dang taretongan be Ilu na manetek Sian simalolongki Dungkon digotap ho holongtai

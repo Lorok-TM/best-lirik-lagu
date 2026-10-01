@@ -2,7 +2,7 @@
 title: "Intan Br Ginting - Kam Ateku Jadi"
 date: 2023-01-30
 categories: 
-  - "karo"
+  - "Karo"
 ---
 
 Intan Br Ginting rilis single dengan lirik dalam bahasa Karo berjudul "Kam Ateku Jadi" yang artinya "Kamu Kekasihku", menceritakan tentang seseorang yang amat menyayangi kekasihnya.

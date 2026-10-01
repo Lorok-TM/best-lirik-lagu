@@ -2,7 +2,7 @@
 title: "Care City Worship Feat Putri Siagian - Kasih Seorang Sahabat"
 date: 2025-04-30
 categories: 
-  - "rohani"
+  - "Rohani"
 ---
 
 Di dalam kesukaranku KasihMu di setiap waktu Kau berjanji tak meninggalkanku

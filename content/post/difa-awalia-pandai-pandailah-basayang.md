@@ -2,7 +2,7 @@
 title: "Difa Awalia - Pandai Pandailah Basayang"
 date: 2025-04-14
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Mangisik padi jo ilalang Itu karajo sio sio Lah manjadi padi ko hilang Panek nan dapek salamo ko

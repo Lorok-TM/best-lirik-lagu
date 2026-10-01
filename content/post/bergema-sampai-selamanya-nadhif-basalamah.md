@@ -2,7 +2,7 @@
 title: "Bergema Sampai Selamanya - Nadhif Basalamah, Andi Rianto"
 date: 2025-02-01
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 

@@ -2,7 +2,7 @@
 title: "Della - Tak Bisa Tanpamu"
 date: 2026-09-20
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Tersentak aku di dalam lamunan Engkau hadir dalam setiap mimpi mimpiku Bergetar jika mendengar namamu Sepertinya aku tak bisa hidup tanpamu

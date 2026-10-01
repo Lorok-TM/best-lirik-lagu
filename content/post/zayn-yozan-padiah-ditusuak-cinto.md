@@ -2,7 +2,7 @@
 title: "Zayn Yozan - Padiah Ditusuak Cinto"
 date: 2025-05-02
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Sakik nyo hati denai kini adiak Yo sabana sakik… adiak kicuah denai yo dari Yo dari balakang

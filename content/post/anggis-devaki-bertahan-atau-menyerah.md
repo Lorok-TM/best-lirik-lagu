@@ -2,7 +2,7 @@
 title: "Anggis Devaki - Bertahan Atau Menyerah"
 date: 2025-10-02
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Sebenarnya kau anggap aku apa Masih adakah rasa sayang untukku Jangan acuh tak acuh padaku Ini hati yang butuh dirimu Sampai kapan ku harus menunggu Menunggu dirimu Yang tak pernah pasti

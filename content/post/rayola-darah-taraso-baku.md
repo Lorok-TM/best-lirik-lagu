@@ -2,7 +2,7 @@
 title: "Rayola - Darah Taraso Baku"
 date: 2025-11-15
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Di ujuang malam nan sunyi Tasintak lalok dek ulah mimpi Rasonyo uda Alah bainai ka ujuang jari

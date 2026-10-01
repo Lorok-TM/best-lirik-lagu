@@ -2,7 +2,7 @@
 title: "Fany Zee - Tak Bisa Tanpamu"
 date: 2026-09-04
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Jangan Pernah Kau Tinggalkan Diriku Aku Tak Bisa Bila Hidup Tanpamu Engkau Bahagia Yang Kini Ku Punya Tetap Denganku Untuk Selamanya

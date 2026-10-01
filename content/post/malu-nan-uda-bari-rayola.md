@@ -2,7 +2,7 @@
 title: "Malu Nan Uda Bari - Rayola"
 date: 2024-08-31
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Rami rami galanggang Kini indak tatampuah lai Ulah dek malu uda barikan Buruak lah denai sanagari Ulah dek malu uda barikan Buruak lah denai sanagari

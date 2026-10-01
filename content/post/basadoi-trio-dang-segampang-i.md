@@ -2,7 +2,7 @@
 title: "Basadoi Trio - Dang Segampang I"
 date: 2025-08-19
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Mungkin bahagia do ho Nangpe so rap dohot au Dang songon au tersiksa manaon Haccitni panadingkonmon ito

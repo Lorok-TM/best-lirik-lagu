@@ -2,7 +2,7 @@
 title: "Tri Suaka - Galaksi Dan Bumi Feat Arman Langit Sore"
 date: 2025-06-24
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Demi dirimu aku rela menjadi semesta Yang akan selalu menerangi Jika kau meminta akan ku lakui Asal kau bisa bahagia

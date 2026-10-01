@@ -2,7 +2,7 @@
 title: "Emi Purnamasari - Pintu Tak Berdaun"
 date: 2025-07-21
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Jika … Tak pernah engkau meminta Tak mungkin aku … Tak mungkin aku ada disini

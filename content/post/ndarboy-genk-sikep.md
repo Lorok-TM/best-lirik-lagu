@@ -2,7 +2,7 @@
 title: "Ndarboy Genk - Sikep"
 date: 2025-11-09
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Piye kabarmu saiki Nomer WA-mu wis ganti Tak tulis lagu nggo kowe Mugo mugo fyp Kowe iso melu ngrungokke Foto mu isih tak simpen Nggo ngobati rasa kangen Gusti tulung paringono Ketemu raketang sedelo Ning ngimpi yowes rapopo

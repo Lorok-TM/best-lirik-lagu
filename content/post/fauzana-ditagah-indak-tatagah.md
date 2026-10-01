@@ -2,7 +2,7 @@
 title: "Fauzana - Ditagah Indak Tatagah"
 date: 2022-11-26
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Talambek juo kato bapisah Uda tinggakan denai Tamanuang denai tamanuang Hilang aruah di badan Denai sangko gurawan sajo Ruponyo kini nyato

@@ -2,7 +2,7 @@
 title: "Andra Respati feat. Gisma Wandira - Satu Kisah Dalam Cinta"
 date: 2022-12-18
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 Lirik Lagu Melayu dengan judul Satu Kisah Dalam Cinta yang dinyanyikan oleh Andra Respati Ft. Gisma Wandira. Lagu ini diciptakan oleh Andra Respati dengan irama musik Slow Rock.

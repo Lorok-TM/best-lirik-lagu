@@ -2,7 +2,7 @@
 title: "Silva Hayati - Denai Taragak"
 date: 2026-01-23
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Den taragak jo tuan dek kito badunsanak Walau denai dibanci Tuan nan sasek jalan denai nan basalahkan Den bausia basuruah pai

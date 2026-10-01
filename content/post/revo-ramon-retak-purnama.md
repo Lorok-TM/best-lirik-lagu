@@ -2,7 +2,7 @@
 title: "Revo Ramon - Retak Purnama"
 date: 2025-04-23
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Harum indah mekar dan mewangi Tanpa sadarku menaruh hati Lembut tutur sapamu Ayu paras cantikmu

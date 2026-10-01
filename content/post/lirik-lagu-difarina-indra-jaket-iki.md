@@ -2,8 +2,7 @@
 title: "Difarina Indra - Jaket Iki"
 date: 2021-07-19
 categories: 
-  - "dangdut"
-  - "java"
+  - "Jawa"
 ---
 
 **Lirik Jaket Iki - Difarina Indra**

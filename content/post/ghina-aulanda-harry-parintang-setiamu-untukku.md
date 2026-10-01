@@ -2,7 +2,7 @@
 title: "Ghina Aulanda & Harry Parintang - Setiamu Untukku"
 date: 2022-11-30
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Lirik Lagu Melayu dengan judul Setiamu Untukku yang dinyanyikan oleh Ghina Aulanda Feat. Harry Parintang dan diciptakan oleh Harry Parintang dengan irama musik Pop.

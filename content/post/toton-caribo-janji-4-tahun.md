@@ -2,7 +2,7 @@
 title: "Toton Caribo - Janji 4 Tahun"
 date: 2023-03-13
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 Lirik Lagu Timur dengan judul Janji 4 Tahun yang dinyanyikan dan diciptakan oleh Toton Caribo dengan irama musik Pop.

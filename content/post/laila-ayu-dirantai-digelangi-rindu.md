@@ -2,7 +2,7 @@
 title: "Laila Ayu - Dirantai Digelangi Rindu"
 date: 2026-09-10
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Syahdu malam berlagu sepi Mengiring rawan dalam taman hati Gelisah menanti kau kembali Manja menagih bujukan di sisi

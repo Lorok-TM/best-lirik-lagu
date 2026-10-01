@@ -2,7 +2,7 @@
 title: "Ray Peni feat Elly Kirana - Tiang Rindu"
 date: 2024-05-05
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 **Lirik Tiang Rindu - Ray Peni Feat Elly Kirana**

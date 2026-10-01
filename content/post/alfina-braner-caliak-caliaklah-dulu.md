@@ -2,7 +2,7 @@
 title: "Alfina Braner - Caliak Caliaklah Dulu"
 date: 2025-05-05
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Caliak Caliaklah dulu Pikia Pikialah dulu Sabalun badan malngkah jauah

@@ -2,7 +2,7 @@
 title: "Aris Bima - Jodohku Bukan Dia"
 date: 2023-01-21
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Lirik Lagu Melayu dengan judul Jodohku Bukan Dia yang dinyanyikan oleh Aris Bima dan diciptakan oleh Wanda Mahardika dengan irama musik Pop.

@@ -2,7 +2,7 @@
 title: "Niken Salindry - Kari Cerito"
 date: 2026-07-11
 categories: 
-  - "campursari"
+  - "Campursari"
 ---
 
 

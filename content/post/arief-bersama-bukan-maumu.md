@@ -2,7 +2,7 @@
 title: "Arief - Bersama Bukan Maumu"
 date: 2023-05-10
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Lirik Lagu Melayu dengan judul Bersama Bukan Maumu yang dinyanyikan oleh Arief dan diciptakan oleh Ajhay Pasma dengan irama musik Pop.

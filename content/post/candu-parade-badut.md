@@ -2,7 +2,7 @@
 title: "Candu - Parade Badut"
 date: 2025-02-24
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Candu yang dibawakan oleh Parade Badut.

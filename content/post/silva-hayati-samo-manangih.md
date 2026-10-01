@@ -2,7 +2,7 @@
 title: "Silva Hayati - Samo Manangih"
 date: 2025-05-04
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Sia nan lai tau rasonyo Suliknyo manahan aia mato Datang datang kamari Kito samo manangih malapeh raso sakik

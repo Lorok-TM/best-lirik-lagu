@@ -2,7 +2,7 @@
 title: "Sampe Hati Lai - MWP Feat Marvey Kaya"
 date: 2025-04-04
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 Beta pung hati ancor lawange Waktu ale minta putus dar beta Beta seng tau mo biking apa lai Beta rasa hati saki lawange hoo

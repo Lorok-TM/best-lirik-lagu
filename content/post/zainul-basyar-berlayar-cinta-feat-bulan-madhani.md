@@ -2,7 +2,7 @@
 title: "Zainul Basyar - Berlayar Cinta Feat Bulan Madhani"
 date: 2025-07-02
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Berlayar-layar kita berlayar Berlayar kita di Samudra impian

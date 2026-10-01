@@ -2,7 +2,7 @@
 title: "Julia Anugerah Putri - Tutuik Talingo Piciangkan Mato"
 date: 2025-04-27
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Usah dibaok hati Gunjiangan urang ka bakeh diri Sanang jo payah kito nan marasokan Tutuik talingo piciang kan mato

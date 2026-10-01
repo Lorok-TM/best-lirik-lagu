@@ -2,7 +2,7 @@
 title: "Sasya Arkhisna - Karungrum"
 date: 2025-07-11
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Lana ngambara, tresna ing jiwangga Wuyung sinandhang jroning ati Kaduk langkung karungrum Mugi tinebehna ing sesandhung

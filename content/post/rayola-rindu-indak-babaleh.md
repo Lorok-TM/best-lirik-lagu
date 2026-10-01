@@ -2,7 +2,7 @@
 title: "Rayola - Rindu Indak Babaleh"
 date: 2024-05-20
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Di caliak alah di caliak Di patuik alah di patuik Hatiko tatuju ka uda Uda sajo

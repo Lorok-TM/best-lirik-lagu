@@ -2,7 +2,7 @@
 title: "Ziell Ferdian - Hapuslah Keraguanmu"
 date: 2026-06-25
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Sambut aku dengan cintamu Bersandarlah engkau di pundakku Pegang erat tanganku ini Kuajak kau melintasi bumi Cinta kita akan abadi Seperti bintang sinari bumi Kuajak kau melayang terbang tinggi Dan kupastikan kau bintang terakhirku

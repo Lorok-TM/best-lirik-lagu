@@ -2,7 +2,7 @@
 title: "Cantika Nuswantoro Adella - Ngertenono Ati"
 date: 2025-04-23
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Aku ra nuntut opo meneh nglarang keras Koe ameh cedak ro kancamu wadon Yen pancene tresnomu tenan nggo aku Mesti iso mikir batese pergaulanmu

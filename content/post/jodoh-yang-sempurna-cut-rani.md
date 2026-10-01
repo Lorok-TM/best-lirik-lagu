@@ -2,7 +2,7 @@
 title: "Jodoh Yang Sempurna - Cut Rani"
 date: 2026-07-27
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Sekarang ini kaulah yang pertama di dalam hati selalu kupuja Aku janji padamu akan setia selalu Jangan ditanya di mana buktinya Terkadang cinta tak pakai logika Cukup aku yang tau apa isi hatiku

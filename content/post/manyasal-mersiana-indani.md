@@ -2,7 +2,7 @@
 title: "Manyasal - Mersiana Indani"
 date: 2024-08-07
 categories: 
-  - "dayak"
+  - "Dayak"
 ---
 
 Tarewen sabaning bereng angat je marawa Kacewa je bingung aku tatipu huang hubungan Hancur ndai pangkeme manyasal aku harun katawa Manyasal mahamen katawan ikau tege pasangan

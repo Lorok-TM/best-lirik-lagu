@@ -2,7 +2,7 @@
 title: "Jacson Zeran - BUCE (Bunda Cemburu) feat Toton Caribo"
 date: 2025-07-12
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 Su satu minggu ko cari gara-gara terus Sampai sa pu foto ko hapus Cuma karena sa follback dia Ko blokir saya

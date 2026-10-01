@@ -2,7 +2,7 @@
 title: "Agah Aku Buli - Riana Bussu"
 date: 2025-04-13
 categories: 
-  - "dayak"
+  - "Dayak"
 ---
 
 Bawi kueh sanggup Belum hinje denga Amun cara manganu kapehen atei

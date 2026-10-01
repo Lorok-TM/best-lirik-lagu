@@ -2,7 +2,7 @@
 title: "Jangan Sakiti Dia - Aprilian"
 date: 2025-04-11
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 Jangan kau paksakan Diriku kembali padamu Antara kita tak kan mungkin bersatu Bukankah dulu Kau sengaja pergi dari diriku Kini kau datang ku tak mungkin menerimamu

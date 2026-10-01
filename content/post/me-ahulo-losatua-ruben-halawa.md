@@ -2,7 +2,7 @@
 title: "Me Ahulō Lōsatua - Ruben Halawa"
 date: 2024-09-05
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 Me ahulo losatua Oya riri famakao nitorogu Fohalowi ero maokho Nahia wemoro talu newali

@@ -2,7 +2,7 @@
 title: "Setia Ning Janji - Juned Kancil Feat. Ella Nano"
 date: 2024-08-15
 categories: 
-  - "tarling"
+  - "Tarling"
 ---
 
 Nok sing percaya Kakang kuh ning senok cinta Yen kakang sulaya Sirna raga kakang rela

@@ -2,7 +2,7 @@
 title: "Zahra Lida - Cinta Diambang Derita"
 date: 2022-10-26
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Lirik Lagu Pop Slow Rock Melayu dengan judul Cinta Diambang Derita yang dinyanyikan oleh Zahra Lida dan diciptakan oleh Faisal Asahan. Situs ini tidak menyediakan chord dasar / kunci gitar lagu ini. Halaman ini hanya menuliskan syair / liriknya saja. Berikut dibawah ini lyrics lengkapnya. Semoga lagu ini dapat menghibur anda.

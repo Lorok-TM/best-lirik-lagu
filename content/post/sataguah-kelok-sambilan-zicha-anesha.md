@@ -2,7 +2,7 @@
 title: "Sataguah Kelok Sambilan - Zicha Anesha"
 date: 2026-06-10
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 

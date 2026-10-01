@@ -2,7 +2,7 @@
 title: "Jang Datang Lai - Michael Pelupessy"
 date: 2025-04-12
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 Parcuma bale deng orang lama Ulang carita tapi seng barobah Batahang cuma par biking luka Biar sudah biar beta yang rasa

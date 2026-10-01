@@ -2,7 +2,7 @@
 title: "Rena Movies - Salahmu Ayu"
 date: 2026-06-29
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 

@@ -2,7 +2,7 @@
 title: "Threesixty - Menjadi Yang Kita Punya"
 date: 2025-04-21
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Verse : Manakala.. hujan melagukan doa.. Hikayatkan semua berkah.. Yang merundungi semesta..

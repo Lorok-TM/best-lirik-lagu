@@ -2,7 +2,7 @@
 title: "Kori Oktara - Manih Manih Cinto"
 date: 2025-08-17
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Samiang indak tangiang Bayangan dulu kini mahilang Gabak dihulu kinilah hujan Mahapuih jajak cinto nan lamo

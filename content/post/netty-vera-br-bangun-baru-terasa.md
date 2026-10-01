@@ -2,7 +2,7 @@
 title: "Netty Vera Br Bangun - Baru Terasa"
 date: 2023-01-22
 categories: 
-  - "karo"
+  - "Karo"
 ---
 
 Lirik Lagu Karo dengan judul Baru Terasa yang dinyanyikan dan diciptakan oleh Netty Vera Br Bangun dengan irama musik Pop.

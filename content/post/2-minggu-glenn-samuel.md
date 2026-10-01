@@ -2,7 +2,7 @@
 title: "2 Minggu - Glenn Samuel"
 date: 2025-03-16
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik 2 Minggu yang dibawakan oleh Glenn Samuel.

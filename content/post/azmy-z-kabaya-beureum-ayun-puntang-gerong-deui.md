@@ -2,7 +2,7 @@
 title: "Azmy Z - Kabaya Beureum, Ayun Puntang, Gerong Deui"
 date: 2025-11-19
 categories: 
-  - "sunda"
+  - "Sunda"
 ---
 
 \_\_(Kabaya Beureum)\_\_

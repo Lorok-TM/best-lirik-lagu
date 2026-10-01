@@ -2,7 +2,7 @@
 title: "Uria Novita - Jan Mandepo Juo"
 date: 2025-06-05
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Jan bajudi jo uda Jan main slot jo uda Jan mandepo juo uda

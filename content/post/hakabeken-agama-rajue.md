@@ -2,7 +2,7 @@
 title: "Hakabeken Agama - Rajue"
 date: 2024-10-06
 categories: 
-  - "dayak"
+  - "Dayak"
 ---
 
 Dia manyasal puji hasupa dengam Dia manyasal aku kasene ikau Bara ikau aku are balajar Mahaga perasaan marega pasangan

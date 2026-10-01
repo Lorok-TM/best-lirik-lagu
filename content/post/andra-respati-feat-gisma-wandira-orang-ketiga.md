@@ -2,7 +2,7 @@
 title: "Andra Respati feat Gisma Wandira - Orang Ketiga"
 date: 2022-09-17
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 Title : Orang Ketiga Artist : Andra Respati ft Gisma Wandira Songwriter : Thomas Arya Post Production : Andra Respati Management Category : Lagu Slow Rock Melayu

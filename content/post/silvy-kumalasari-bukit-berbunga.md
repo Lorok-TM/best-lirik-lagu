@@ -2,7 +2,7 @@
 title: "Silvy Kumalasari - Bukit Berbunga"
 date: 2025-06-05
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Di bukit indah berbunga Kau mengajak aku kesana Memandang alam sekitarnya Karena senja telah tiba Mentari tenggelam Di gunung yang biru Langit merah berwarna sendu

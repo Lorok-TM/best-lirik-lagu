@@ -2,7 +2,7 @@
 title: "Tryana - Jeritan Hati"
 date: 2025-10-04
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Andai saja hati Ku bisa bicara Tak akan sanggup Engkau mendengarnya Jeritan hati menahan kesakitan Luka yang telah kau beri

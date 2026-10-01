@@ -2,7 +2,7 @@
 title: "Cantika Nuswantoro Adella - Ilat Tanpo Balung"
 date: 2025-07-13
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Panas mongso ketigo, lemes sing tak kroso Tiwas aku teko, mbok tinggal lungo Tegane atimu, ninggalake aku Kebangeten, kebangeten awakmu

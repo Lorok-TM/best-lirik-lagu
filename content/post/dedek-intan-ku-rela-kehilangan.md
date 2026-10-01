@@ -2,7 +2,7 @@
 title: "Dedek Intan - Ku Rela Kehilangan"
 date: 2026-09-10
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Teganya dirimu membuat luka Orang yang menyayangimu Lalu kau Kembali kepada dia Yang dulu menyakitimu

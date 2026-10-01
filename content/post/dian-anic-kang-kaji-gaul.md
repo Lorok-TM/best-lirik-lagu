@@ -2,7 +2,7 @@
 title: "Dian Anic - Kang Kaji Gaul dan Artinya"
 date: 2022-08-11
 categories: 
-  - "tarling"
+  - "Tarling"
 ---
 
 ## Lirik Lagu Tarling ”Kang Kaji Gaul“ by Dian Anic

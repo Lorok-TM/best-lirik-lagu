@@ -2,7 +2,7 @@
 title: "Arghado Trio - So Pinaboa Ni Gorak"
 date: 2025-09-05
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 So pinaboa ni gorak So pinaboa ni nipi On ma hape ujung ni parale-alean Naung tinambor tamboran Naung ni rahut-rahutan Hape magopo doi sude

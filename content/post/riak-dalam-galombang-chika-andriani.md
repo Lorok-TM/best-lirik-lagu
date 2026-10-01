@@ -2,7 +2,7 @@
 title: "Riak Dalam Galombang - Chika Andriani"
 date: 2025-03-18
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Riak Dalam Galombang yang dibawakan oleh Chika Andriani.

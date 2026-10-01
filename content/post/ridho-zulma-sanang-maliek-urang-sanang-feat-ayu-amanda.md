@@ -2,7 +2,7 @@
 title: "Ridho Zulma - Sanang Maliek Urang Sanang feat. Ayu Amanda"
 date: 2025-08-28
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Sajangka sadapo jo saheto Banyak saketek ado bakehnyo Sabijo sabinjek baiak urang Ingek kanalah jan sampai hilang

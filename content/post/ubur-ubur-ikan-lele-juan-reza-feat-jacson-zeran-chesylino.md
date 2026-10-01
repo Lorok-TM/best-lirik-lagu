@@ -2,7 +2,7 @@
 title: "Ubur Ubur Ikan Lele - Juan Reza Feat Jacson Zeran, Chesylino"
 date: 2025-03-06
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Ubur Ubur Ikan Lele yang dibawakan oleh Juan Reza Ft Jacson Zeran, Chesylino.

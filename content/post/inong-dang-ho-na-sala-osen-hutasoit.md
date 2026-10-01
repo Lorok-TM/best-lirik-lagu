@@ -2,7 +2,7 @@
 title: "Inong Dang Ho Na Sala - Osen Hutasoit"
 date: 2025-05-07
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Inong dang ho na sala Alai au do na talu mangantusi rohami Nuaeng gotil do di roham ala salpu ni hatangki Tarilu ho dibaen balga ni suarangki

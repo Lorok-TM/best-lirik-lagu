@@ -2,7 +2,7 @@
 title: "Talambek Datang 2 - Anyqu feat Fiqrie"
 date: 2026-08-09
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Nan kok hilang alah den ganti Namun nan lamo takana juo Ulah dek denai maungkai janji Rago kok sanang bathin taseso Ulah dek denai maungkai janji Rago kok sanang bathin taseso

@@ -2,7 +2,7 @@
 title: "Eno Viola - Risaulai Feat. Dayu Koto"
 date: 2025-06-22
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Risaulai… oi risaulai Risaulai…oi risaulai Hari raba’a pukua satu Hari raba’a pukua satu

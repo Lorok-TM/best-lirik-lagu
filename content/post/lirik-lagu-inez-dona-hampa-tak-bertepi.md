@@ -2,7 +2,7 @@
 title: "Inez Dona - Hampa Tak Bertepi"
 date: 2021-09-21
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 **Lirik Hampa Tak Bertepi - Inez Dona**

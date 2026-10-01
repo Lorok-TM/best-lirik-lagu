@@ -2,7 +2,7 @@
 title: "Batas Senja - Dengan Bangga Ku Kenalkan Ini Dia"
 date: 2026-09-04
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Dengan bangga ku kenalkan ini dia Manusia yang ku rasa istimewa Jadi baik bahkan menggila dia bisa Tak hipokrit autentik sungguh dirinya

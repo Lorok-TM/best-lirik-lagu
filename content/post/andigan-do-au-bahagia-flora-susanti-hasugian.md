@@ -2,7 +2,7 @@
 title: "Andigan Do Au Bahagia - Flora Susanti Hasugian"
 date: 2025-02-03
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Andigan Do Au Bahagia yang dibawakan oleh Flora Susanti Hasugian.

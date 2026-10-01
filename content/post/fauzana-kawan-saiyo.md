@@ -2,7 +2,7 @@
 title: "Fauzana - Kawan Saiyo"
 date: 2025-04-27
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Panek bajalan anak gubalo Kabau taikek lihia nyo di elo juo

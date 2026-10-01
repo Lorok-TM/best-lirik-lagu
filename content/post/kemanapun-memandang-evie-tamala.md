@@ -2,7 +2,7 @@
 title: "Kemanapun Memandang - Evie Tamala"
 date: 2025-02-24
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Kemanapun Memandang yang dibawakan oleh Evie Tamala.

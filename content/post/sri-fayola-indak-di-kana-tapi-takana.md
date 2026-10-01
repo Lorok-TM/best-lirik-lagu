@@ -2,7 +2,7 @@
 title: "Sri Fayola - Indak Di Kana Tapi Takana"
 date: 2023-07-20
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 **Lirik Indak Di Kana Tapi Takana - Sri Fayola**

@@ -2,7 +2,7 @@
 title: "Anggrek - Bakubua Mimpi"
 date: 2026-01-31
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Biakanlah hujan malam ko Buliah ndak nyo tadanga bana Isak tangih nan manggumam Lah jaleh malukoi nan baturiahkan Manga masih taguah mampatahankan

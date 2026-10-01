@@ -2,7 +2,7 @@
 title: "Lomba Sihir - Vas Bunga"
 date: 2026-09-04
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Ingin kupaham tawa candamu yang kau unggah di layar ponselmu Bersama-sama dengan temanku di grup berisi aku dan kamu Ingin kupaham letih marahmu yang kau bicarakan malam Sabtu Keluh dan kesah perjalananmu, oh kita semakin jarang bertemu

@@ -2,7 +2,7 @@
 title: "Rahma Rahmi - Cerita Teman Lama"
 date: 2025-04-24
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Berdebar hatiku mendengar namamu Dalam sebuah cerita Teman lama disaat bersua Mengungkit kembali kisah kita

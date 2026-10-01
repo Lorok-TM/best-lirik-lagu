@@ -2,7 +2,7 @@
 title: "Yan Mus - Nyesel dan Artinya"
 date: 2022-08-05
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 ## Lirik Lagu Bali ”Nyesel“ by Yan Mus

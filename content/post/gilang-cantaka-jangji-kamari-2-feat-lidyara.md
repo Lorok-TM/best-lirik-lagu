@@ -2,7 +2,7 @@
 title: "Gilang Cantaka - Jangji Kamari 2 feat. Lidyara"
 date: 2025-09-04
 categories: 
-  - "sunda"
+  - "Sunda"
 ---
 
 Geulis ieu akang mulang Lami tebih ti anjeun nu di piheman Mawa sajuta harepan dedeuh cinta urang Nu kungsi pegat di jalan

@@ -2,8 +2,7 @@
 title: "Pemain Ahli - Sela Ovi"
 date: 2026-07-22
 categories: 
-  - "dangdut"
-  - "java"
+  - "Jawa"
 ---
 
 Ora butuh akeh wektu Dinggo ngluluhke atiku Gedene perhatianmu Tak kiro tulus go aku Jebule kui mung perangkapmu

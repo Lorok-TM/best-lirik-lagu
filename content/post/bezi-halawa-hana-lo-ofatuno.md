@@ -2,7 +2,7 @@
 title: "Bezi Halawa - Hana Lö Öfatunö"
 date: 2025-05-30
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 Memböröta mefalukha ita Tumbu wa'omasi bakha badödö Öwa'ö khögu waya'odo Ziso badödömö

@@ -2,7 +2,7 @@
 title: "Inang Ikori Lan Penangku - Hillary Tangyong"
 date: 2025-04-13
 categories: 
-  - "toraja"
+  - "Toraja"
 ---
 
 Kekukilalai tonta sisola O rendeng lendu' parannu penaangku La ussisolan ko Attu totemo inde' sa'de ku

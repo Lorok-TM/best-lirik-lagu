@@ -2,7 +2,7 @@
 title: "Bagus Wirata - Selem Badeng Mepipis"
 date: 2023-02-12
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 Lirik Lagu Bali dengan judul Selem Badeng Mepipis yang dinyanyikan oleh Bagus Wirata dan diciptakan oleh Bolot, Loyok.

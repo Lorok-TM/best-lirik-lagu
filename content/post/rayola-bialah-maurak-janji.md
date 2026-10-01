@@ -2,7 +2,7 @@
 title: "Rayola - Bialah Maurak Janji"
 date: 2025-09-17
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Leno kaki kini den bajalan Gontai langkah raso tak badayo Mandanga kaba barito diri uda Lah ka batuka cincin jo urang Tatumbuak pikiran

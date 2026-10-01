@@ -2,7 +2,7 @@
 title: "Elsa Mayora - Acok Talompek Kato"
 date: 2026-09-20
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Cando si bisu iyo nan parasian Muluik takunci hati nan bakato Taraso lai nan indak takatokan Marasai badan denai jadinyo

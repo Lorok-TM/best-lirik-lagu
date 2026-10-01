@@ -2,7 +2,7 @@
 title: "Bawer Sihombing - Aha Do Hangalanku"
 date: 2025-10-13
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Ari marganti minggu, minggu marganti bulan Bulan marganti taon sai marsalpuan Daging lam matua, hape dang jumpang au dope Si rokkap ni tondi

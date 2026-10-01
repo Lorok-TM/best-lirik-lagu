@@ -2,7 +2,7 @@
 title: "Sökhi Taolifugö - Snada Trio"
 date: 2026-07-16
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 Tenga lö ba dödö wa'omasi So sambua daha-taha i Si tebai tetalu'i

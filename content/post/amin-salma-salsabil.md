@@ -2,7 +2,7 @@
 title: "Amin - Salma Salsabil"
 date: 2025-01-24
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Amin yang dibawakan oleh Salma Salsabil.

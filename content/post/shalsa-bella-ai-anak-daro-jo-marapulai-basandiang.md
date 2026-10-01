@@ -2,7 +2,7 @@
 title: "Shalsa Bella Ai - Anak Daro Jo Marapulai Basandiang"
 date: 2025-08-26
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Hari nan indah manjadi saksi Anak daro jo marapulai Babaju suntiang rupo nan elok Di palaminan di alek gadang

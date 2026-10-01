@@ -2,7 +2,7 @@
 title: "Imam Fahreza - Disana Bahagia Disini Luka"
 date: 2023-03-13
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Lirik Lagu Melayu dengan judul Disana Bahagia Disini Luka yang dinyanyikan oleh Imam Fahreza dan diciptakan oleh Minang Kocak dengan irama musik Pop.

@@ -2,7 +2,7 @@
 title: "Anak Kampung - Jimmy Palikat"
 date: 2025-01-21
 categories: 
-  - "remix"
+  - "Remix"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Anak Kampung yang dibawakan oleh Jimmy Palikat.

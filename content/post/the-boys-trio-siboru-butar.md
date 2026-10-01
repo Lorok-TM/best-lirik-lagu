@@ -2,7 +2,7 @@
 title: "The Boy's Trio - Siboru Butar"
 date: 2024-04-07
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 **Lirik Siboru Butar - The Boy's Trio**

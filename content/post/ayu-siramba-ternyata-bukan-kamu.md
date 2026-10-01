@@ -2,7 +2,7 @@
 title: "Ayu Siramba - Ternyata Bukan Kamu"
 date: 2026-07-08
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 

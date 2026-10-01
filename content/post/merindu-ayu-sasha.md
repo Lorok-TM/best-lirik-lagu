@@ -2,7 +2,7 @@
 title: "Merindu - Ayu Sasha"
 date: 2025-02-21
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Merindu yang dibawakan oleh Ayu Sasha.

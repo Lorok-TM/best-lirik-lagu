@@ -2,7 +2,7 @@
 title: "Janji Malakik Barasaki - Rana Safira, Randa Putra"
 date: 2026-09-05
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Usah ragu diak cinto nan di hati Hanyo adiak ka kawan sampai mati Indak ka lakang cinto nan suci Denai bajanji

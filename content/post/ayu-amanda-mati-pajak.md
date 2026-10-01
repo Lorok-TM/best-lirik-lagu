@@ -2,7 +2,7 @@
 title: "Ayu Amanda - Mati Pajak"
 date: 2026-09-25
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Amuah inyo galak oi Hati ambo sanang Lamo mati pajak Kalapuak oto dikandang Bia nak nyo berang Ambo jujai juo Takuik kanai tilang Tapaso manyuruak sajo

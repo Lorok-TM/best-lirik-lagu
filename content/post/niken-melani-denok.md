@@ -2,8 +2,7 @@
 title: "Niken Melani - Denok"
 date: 2026-07-22
 categories: 
-  - "dangdut"
-  - "java"
+  - "Jawa"
 ---
 
 Sayangku sing ayu dewe Puron nopo bakal tak usahakke Ibarate sak isi bumi nggo koe

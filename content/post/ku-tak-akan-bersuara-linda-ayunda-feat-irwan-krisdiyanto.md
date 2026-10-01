@@ -2,7 +2,7 @@
 title: "Ku Tak Akan Bersuara - Linda Ayunda Feat Irwan Krisdiyanto"
 date: 2025-01-20
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Ku Tak Akan Bersuara yang dibawakan oleh Linda Ayunda Ft Irwan Krisdiyanto.

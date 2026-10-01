@@ -2,7 +2,7 @@
 title: "Innani Sarifa - Rambang Mato"
 date: 2025-09-28
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Jan di kijok juo ndeh uda jan lah di gaduah juo Indak mungkin denai ka nio jo uda nan rambang mato

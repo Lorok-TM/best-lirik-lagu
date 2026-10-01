@@ -2,7 +2,7 @@
 title: "Ayu Amanda - Sayang Suami Orang"
 date: 2025-09-28
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Sayang rindu teuka jula malam Sang sang bayang kanda di keu mata Padahai baro si uroe tanyoe keunalan Indah teubawa lam lumpo peunoh bintang

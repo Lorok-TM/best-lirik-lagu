@@ -2,7 +2,7 @@
 title: "Tagali Gali - Nabila Moure Feat Vicky Marchel"
 date: 2025-04-07
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Tagali Gali yang dibawakan oleh Nabila Moure Ft Vicky Marchel.

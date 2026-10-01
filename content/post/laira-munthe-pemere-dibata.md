@@ -2,7 +2,7 @@
 title: "Laira Munthe - Pemere Dibata"
 date: 2025-11-06
 categories: 
-  - "karo"
+  - "Karo"
 ---
 
 

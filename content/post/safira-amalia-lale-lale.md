@@ -2,7 +2,7 @@
 title: "Safira Amalia - Lale Lale"
 date: 2023-04-18
 categories: 
-  - "aceh"
+  - "Aceh"
 ---
 
 Lirik Lagu Aceh dengan judul Lale Lale yang dinyanyikan oleh Safira Amalia dan diciptakan oleh Medya Hus.

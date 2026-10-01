@@ -2,7 +2,7 @@
 title: "Upik Malay - Rila Rang Lalu"
 date: 2025-12-24
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Anak kanduang dunia akiraik ondeh deh nak Buah hati jarek samato Buah hati jarek samato

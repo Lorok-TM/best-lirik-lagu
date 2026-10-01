@@ -2,7 +2,7 @@
 title: "Rasa Cinta - Rayu Kamek"
 date: 2025-01-25
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Rasa Cinta yang dibawakan oleh Rayu Kamek.

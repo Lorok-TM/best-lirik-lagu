@@ -2,7 +2,7 @@
 title: "Barulah Raya - Chombi, H.Hafiz, Beyla Inara, Yan Ridhwan"
 date: 2026-03-14
 categories: 
-  - "religi"
+  - "Religi"
 ---
 
 Di hening pagi raya Takbir mula bergema Ramadhan pun berlalu, Rindu tiada hujungnya..

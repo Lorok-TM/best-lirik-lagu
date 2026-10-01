@@ -2,7 +2,7 @@
 title: "Rayola - Kaco Indak Kajadi Mutiara"
 date: 2025-11-03
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Taraso luko nan sabananyo Katiko uda maungkai raso Eloklah denai indak mandanga Kato-kato nan malarai jiwa

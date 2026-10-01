@@ -2,7 +2,7 @@
 title: "Penipu 81 - Ira Sebayang"
 date: 2024-10-09
 categories: 
-  - "karo"
+  - "Karo"
 ---
 
 Bagi buluh perindu melenget kel sorandu Tapi ukurndu telapen asa sembilu Tami tamindu aku nehken sura surandu Mbeneken aku kepe ngenca atendu

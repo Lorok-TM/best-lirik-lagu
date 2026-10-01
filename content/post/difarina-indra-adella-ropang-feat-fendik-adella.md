@@ -2,7 +2,7 @@
 title: "Difarina Indra Adella - Ropang feat. Fendik Adella"
 date: 2025-11-12
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Aku pancen ora sempurna, gampang terluka Tapi yen wes bab setia, aku juara

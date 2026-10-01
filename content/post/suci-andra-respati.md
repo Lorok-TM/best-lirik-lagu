@@ -2,7 +2,7 @@
 title: "Suci - Andra Respati"
 date: 2025-01-25
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Suci yang dibawakan oleh Andra Respati.

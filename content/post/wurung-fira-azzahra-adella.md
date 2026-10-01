@@ -2,7 +2,7 @@
 title: "Wurung - Fira Azzahra Adella"
 date: 2026-08-05
 categories: 
-  - "dangdut"
+  - "Dangdut"
   - "osing"
 ---
 

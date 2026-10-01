@@ -2,7 +2,7 @@
 title: "Ayah Pasti Pulang - Evan Loss Ft. Daniel Louis"
 date: 2026-09-05
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Ayah pasti pulang Janji bawa uang Yang ada sekarang dicukup cukupkan dulu

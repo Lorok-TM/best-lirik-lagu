@@ -2,7 +2,7 @@
 title: "Ary Kencana - Baper dan Artinya"
 date: 2022-06-15
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 ## Lirik Lagu Bali ”Baper“ by Ary Kencana

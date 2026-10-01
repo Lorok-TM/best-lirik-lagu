@@ -2,7 +2,7 @@
 title: "Reza Tambunan - Boasa Hasian"
 date: 2025-11-03
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Denggan do da ito na ujui padanta i Didokkon ho sasada au dibagas rohami Tarpangan roha au di tikki i da hasian Gabe hulehon ma sude holongki tu ho

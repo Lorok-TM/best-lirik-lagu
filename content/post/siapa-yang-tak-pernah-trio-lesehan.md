@@ -2,7 +2,7 @@
 title: "Siapa Yang Tak Pernah - Trio Lesehan"
 date: 2025-02-17
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Siapa Yang Tak Pernah yang dibawakan oleh Trio Lesehan.

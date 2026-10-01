@@ -2,7 +2,7 @@
 title: "Zicha Anesha - Aku Tau Diri"
 date: 2025-07-11
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Tak perlu kau suruh pergi Akupun tau diri Telah ku ukur bayang-bayang Sebelum ku jatuh cinta

@@ -2,7 +2,7 @@
 title: "Charli Chan - Korban Perceraian"
 date: 2023-02-19
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Charli Chan bersama Wan Pro rilis single berjudul "Korban Perceraian" yang diciptakan oleh Annisa Fadila, menceritakan tentang nasib seorang anak yang menjadi korban perceraian orang tuanya.

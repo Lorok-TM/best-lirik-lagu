@@ -2,7 +2,7 @@
 title: "Roje Firdaus - Raso Ka Lasuah"
 date: 2025-06-08
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 

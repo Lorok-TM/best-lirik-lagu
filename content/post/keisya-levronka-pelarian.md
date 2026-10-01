@@ -2,7 +2,7 @@
 title: "Keisya Levronka - Pelarian"
 date: 2026-06-23
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Kau datang saat luka Kau pergi saat tawa Aku tempatmu pulang saat dunia tak ramah

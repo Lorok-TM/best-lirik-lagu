@@ -2,7 +2,7 @@
 title: "Maulana Ardiansyah - Rembulan Malam"
 date: 2022-09-16
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 ## Lirik Lagu ”Rembulan Malam“ by Maulana Ardiansyah

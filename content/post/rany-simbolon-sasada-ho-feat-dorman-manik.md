@@ -2,7 +2,7 @@
 title: "Rany Simbolon - Sasada Ho feat. Dorman Manik"
 date: 2025-08-12
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Sasada ho dirohakki mangingani pikkiranki Marbunga bunga rohakki alani denggan ni basam Sasada ho di ngolukki manggohi nang lakkaki

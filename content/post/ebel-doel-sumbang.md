@@ -2,7 +2,7 @@
 title: "Ebel - Doel Sumbang"
 date: 2024-09-02
 categories: 
-  - "sunda"
+  - "Sunda"
 ---
 
 Lalaki ebel lalaki ebel Lalaki ebel lalaki ebel Lalaki ebel lalaki ebel Lalaki ebel Ceuk awewe nu hatena di nyenyeri

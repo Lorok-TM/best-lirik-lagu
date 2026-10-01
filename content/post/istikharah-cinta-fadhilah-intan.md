@@ -2,7 +2,7 @@
 title: "Istikharah Cinta - Fadhilah Intan"
 date: 2025-03-31
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Malamku detik tanpa jam Rindu dan sendu saling hantar Rintik hujan saat malam Mencekam

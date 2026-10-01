@@ -2,7 +2,7 @@
 title: "Meyda Rahma - Asmara Kerinduan"
 date: 2025-07-21
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Entah Sampai kapan kau dan aku Jalani asmara Menunggu pertemuan tiba

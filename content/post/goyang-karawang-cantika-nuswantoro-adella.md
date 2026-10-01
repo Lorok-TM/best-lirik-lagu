@@ -2,7 +2,7 @@
 title: "Goyang Karawang - Cantika Nuswantoro Adella"
 date: 2025-02-14
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Goyang Karawang yang dibawakan oleh Cantika Nuswantoro Adella.

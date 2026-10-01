@@ -2,7 +2,7 @@
 title: "Ancor Ancor - Selvi Ayunda"
 date: 2024-08-30
 categories: 
-  - "madura"
+  - "Madura"
 ---
 
 Sakek rassana buleh edelem ateh Manggena bule asarea pate Kaseksa abe' bule resa'are Nyandeng nespa ate

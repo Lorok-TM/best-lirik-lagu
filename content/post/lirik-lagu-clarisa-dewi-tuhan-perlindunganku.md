@@ -2,7 +2,7 @@
 title: "Clarisa Dewi - Tuhan Perlindunganku"
 date: 2022-01-26
 categories: 
-  - "rohani"
+  - "Rohani"
 ---
 
 ## Lirik Lagu Rohani ”Tuhan Perlindunganku“ by Clarisa Dewi

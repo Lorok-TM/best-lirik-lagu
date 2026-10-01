@@ -2,7 +2,7 @@
 title: "Eno Viola - Mengapa Masih Disini"
 date: 2023-07-19
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Andai cinta yang kau cari Tak kau temukan pada diriku Jangan paksa hatimu bertahan Luka pasti kau dapatkan

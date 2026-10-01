@@ -2,7 +2,7 @@
 title: "Raim Laode - Iqro'"
 date: 2026-02-08
 categories: 
-  - "religi"
+  - "Religi"
 ---
 
 Bintang bintang dan pepohonan Kedua bersujud pada-nya Masih kukagum tentang langit Kokoh nan tinggi tak bertiang Siapakah aku sebenarnya Hanya atom yang kecil besar sombongnya Sampai di masa ini

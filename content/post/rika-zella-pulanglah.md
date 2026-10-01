@@ -2,7 +2,7 @@
 title: "Rika Zella - Pulanglah"
 date: 2023-02-25
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Lirik Lagu Melayu dengan judul Pulanglah yang dinyanyikan oleh Rika Zella dan diciptakan oleh Momon dengan irama musik Slow Rock.

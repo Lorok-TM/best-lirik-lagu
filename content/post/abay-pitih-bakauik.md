@@ -2,7 +2,7 @@
 title: "Abay - Pitih Bakauik"
 date: 2025-10-01
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Disangko urang den dapek pitih bakauik Iko nan manyalang iko hutang ka di tutuik Iko nan manyalang iko hutang ka di tutuik

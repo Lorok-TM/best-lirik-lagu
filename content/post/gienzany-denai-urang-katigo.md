@@ -2,7 +2,7 @@
 title: "Gienzany - Denai Urang Katigo"
 date: 2025-05-04
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Garah manjadi cinto, kini baujuang aia mato Ulah pandang partamo, lupo hati manimbang raso Ramuak, radam Tuhan lah nan tau Cinto bakasiah pamenan urang

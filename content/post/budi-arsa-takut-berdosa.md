@@ -2,7 +2,7 @@
 title: "Budi Arsa - Takut Berdosa"
 date: 2022-09-02
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 ## Lirik Lagu Takut Berdosa - Budi Arsa

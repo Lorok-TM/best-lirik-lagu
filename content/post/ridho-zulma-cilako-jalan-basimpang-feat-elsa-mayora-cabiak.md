@@ -2,7 +2,7 @@
 title: "Ridho Zulma - Cilako Jalan Basimpang feat. Elsa Mayora, Cabiak"
 date: 2025-07-16
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Ulah cilako jalan basimpangan Sadang sabimbiang nan bapisahkan Cangguang sabana cangguang Seso sabana seso badan

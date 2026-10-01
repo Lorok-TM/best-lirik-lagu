@@ -2,7 +2,7 @@
 title: "Carlos feat. Melisa Putri - Carito Mambuek Luko"
 date: 2025-10-21
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Buanglah jauah jauah denai diak sayang Buliah nak hilang bana dari pandangan Jan di ungkik ungkik juo Carito mambuek luko Jan di ungkik ungkik juo Carito mambuek luko

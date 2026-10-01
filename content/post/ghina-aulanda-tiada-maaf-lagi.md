@@ -2,7 +2,7 @@
 title: "Ghina Aulanda - Tiada Maaf Lagi"
 date: 2023-02-11
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Ghina Aulanda bersama InsictechMusicland rilis single Melayu berjudul "Tiada Maaf Lagi" yang diciptakan oleh Harry Parintang, menceritakan tentang seseorang yang begitu sakit hati karena berulang kali dikhianati oleh kekasihnya hingga dia tak mau memaafkannya lagi.

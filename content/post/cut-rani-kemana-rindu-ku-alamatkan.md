@@ -2,7 +2,7 @@
 title: "Cut Rani - Kemana Rindu Ku Alamatkan"
 date: 2026-01-04
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Dingin malam ini Teringat padamu Saat bersama dahulu

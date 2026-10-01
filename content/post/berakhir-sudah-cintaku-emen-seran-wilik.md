@@ -2,7 +2,7 @@
 title: "Berakhir Sudah Cintaku - Emen Seran Wilik"
 date: 2025-04-18
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Verse : Jatuh air mataku Bila ku ingat dirimu.. Ku teringat masa indah denganmu.. Rasa tulus cintamu padaku Masih terasa di hatiku..

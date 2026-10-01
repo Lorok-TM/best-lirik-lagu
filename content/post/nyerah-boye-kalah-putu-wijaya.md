@@ -2,7 +2,7 @@
 title: "Nyerah Boye Kalah - Putu Wijaya"
 date: 2025-04-08
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 Liu kekuangan beli Angon mesaing ngalih adi Beli dini tuah memodal hati Tusing patuh arepang adi Ape tagih mekejang misi Sayang beli tulus uling dasar hati Boya je nganggon materi

@@ -2,7 +2,7 @@
 title: "Niken Salindry - Titip Kangen"
 date: 2025-06-17
 categories: 
-  - "campursari"
+  - "Campursari"
 ---
 
 Padang rembulan ning pelataran Soyo nggugah ati kang kasmaran Wanci wis wengi seng soyo sepi Soyo nggegowo suwunge ati

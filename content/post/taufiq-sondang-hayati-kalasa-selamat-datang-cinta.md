@@ -2,7 +2,7 @@
 title: "Taufiq Sondang & Hayati Kalasa - Selamat Datang Cinta"
 date: 2023-04-07
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Lirik Lagu Melayu dengan judul Selamat Datang Cinta yang dinyanyikan oleh Taufiq Sondang Feat. Hayati Kalasa dan diciptakan oleh Taufiq Sondang dengan irama musik Pop.

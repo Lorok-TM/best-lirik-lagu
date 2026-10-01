@@ -2,7 +2,7 @@
 title: "Arief Putra feat. Silvia An - Tak Lebih Tak Kurang"
 date: 2025-12-18
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Bukannya tak mampu kehilanganmu Bukannya tak mampu melupakanmu Tanpa kau pinta diriku kan pergi Bila ku kini tiada berarti

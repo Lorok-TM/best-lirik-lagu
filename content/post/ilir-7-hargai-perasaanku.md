@@ -2,8 +2,7 @@
 title: "Ilir 7 - Hargai Perasaanku"
 date: 2023-05-05
 categories: 
-  - "band"
-  - "indonesia"
+  - "Band"
 ---
 
 Lirik Lagu Band Indo dengan judul Hargai Perasaanku yang dinyanyikan oleh ILIR7 dan diciptakan oleh Vic Ilir 7 dengan irama musik Pop.

@@ -2,7 +2,7 @@
 title: "Rangga Nada - Ku Menangis Kau Tersenyum"
 date: 2023-07-03
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Rangga Nada bersama Musik Generasi rilis single Melayu berjudul "Ku Menangis Kau Tersenyum" yang diciptakan oleh Erwin Agam.

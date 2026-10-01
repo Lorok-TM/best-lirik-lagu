@@ -2,7 +2,7 @@
 title: "Sabana Ragu - Wita Sofi"
 date: 2025-02-22
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Sabana Ragu yang dibawakan oleh Wita Sofi.

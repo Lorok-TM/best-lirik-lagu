@@ -2,7 +2,7 @@
 title: "Suman Ka Aku - Phoebe Chloe"
 date: 2025-04-18
 categories: 
-  - "iban"
+  - "Iban"
 ---
 
 Huuh uuuh Huuhuuh

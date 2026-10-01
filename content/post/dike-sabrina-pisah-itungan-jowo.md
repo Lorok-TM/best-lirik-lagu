@@ -2,7 +2,7 @@
 title: "Dike Sabrina - Pisah Itungan Jowo"
 date: 2026-06-24
 categories: 
-  - "osing"
+  - "Osing"
 ---
 
 Apuwo welas isun iki Sing biso koyo hang isun karepi Itungan jowo seng dadi alesan Myakne riko lan isun pisahan

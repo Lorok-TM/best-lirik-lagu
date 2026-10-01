@@ -2,7 +2,7 @@
 title: "Silvy Kumalasari - Kawitaning Sinawang"
 date: 2025-05-06
 categories: 
-  - "campursari"
+  - "Campursari"
 ---
 
 Kawitan sinawange pasuryan Tansah ginambar ing semune awang Katon endah solah slagane Karereng wredhu bawane

@@ -2,7 +2,7 @@
 title: "Vany Thursdila - Buka Pintu Hatimu"
 date: 2022-04-05
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Title : Buka Pintu Hatimu Artist : Vany Thursdila Composer : Faisal Asahan Label : Teras Musik Category : Lagu Pop Melayu

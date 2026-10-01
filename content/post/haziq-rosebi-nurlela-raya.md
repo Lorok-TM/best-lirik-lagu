@@ -2,7 +2,7 @@
 title: "Haziq Rosebi - NurLela Raya"
 date: 2026-03-14
 categories: 
-  - "religi"
+  - "Religi"
 ---
 
 Dicuba-cuba, raya dengan Nurlela Verse 1 Oh lela sayang, hai cantiknya di pagi raya Oh lela sayang, manis-manis kanda terbayang Andai dapat ku beraya dengan lela (amboi)

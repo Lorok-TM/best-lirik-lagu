@@ -2,7 +2,7 @@
 title: "Simanjuntak Stars - Dang Tarbahen Au"
 date: 2023-02-22
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Lirik Lagu Batak dengan judul Dang Tarbahen Au yang dinyanyikan oleh Simanjuntak Stars dan diciptakan oleh Much Simanjuntak dengan irama musik Pop.

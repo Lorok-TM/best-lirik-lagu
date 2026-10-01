@@ -2,7 +2,7 @@
 title: "Daniel Palano - Tasisiah Dalam Etongan"
 date: 2025-09-02
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Salamo nyao tau nan jo badan Baragam seso sakik jo sanang Buruak ta pandang di tangah galanggang Tasisiah badan di dalam etongan

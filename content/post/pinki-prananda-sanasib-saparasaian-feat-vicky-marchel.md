@@ -2,7 +2,7 @@
 title: "Pinki Prananda - Sanasib Saparasaian feat. Vicky Marchel"
 date: 2025-10-03
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Apo nan adiak tangihkan Jalehkan bakeh uda Dek kito hanyo tingga baduo Tiado urang tuo

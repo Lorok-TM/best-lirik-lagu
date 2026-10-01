@@ -2,7 +2,7 @@
 title: "CCTV Tetangga Lebih Kejam Dari Mama Tiri - Ocha Shaptriasa Feat Abu Lado Purab"
 date: 2025-02-21
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik CCTV Tetangga Lebih Kejam Dari Mama Tiri yang dibawakan oleh Ocha Shaptriasa Ft Abu Lado Purab.

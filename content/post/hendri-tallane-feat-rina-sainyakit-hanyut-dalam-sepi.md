@@ -2,7 +2,7 @@
 title: "Hendri Tallane Feat Rina Sainyakit - Hanyut Dalam Sepi"
 date: 2025-04-26
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 Sayang tra ingin ko jauh Lelah sa menahan rindu Hangat pelukanmu yang selalu sa tunggu Resah menunggu dirimu

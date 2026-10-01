@@ -2,7 +2,7 @@
 title: "Fauzana - Selamat Tinggal"
 date: 2022-12-28
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Selamat tinggal pria yang ku kagumi Biarlah kini ku mengalah pergi Berlayar di atas aliran air mata Semoga kau dan dia bahagia Kenangan indah kita lupakan saja Meskipun kau menyesal nantinya

@@ -2,8 +2,7 @@
 title: "Niken Salindry - Kelingan Sing Tak Sayang dan Artinya"
 date: 2022-05-09
 categories: 
-  - "dangdut"
-  - "java"
+  - "Jawa"
 ---
 
 Title : Kelingan Sing Tak Sayang Artist : Niken Salindry Songwriter : Arya Satria Label : SR Pro Category : Lagu Dangdut Jawa

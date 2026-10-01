@@ -2,7 +2,7 @@
 title: "Angok Dimato Uda - Rayola"
 date: 2025-03-23
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Apo nan sabananyo Baa den di caraco Cando ba sayang tapi denai uda lengahkan Lah tarang ruponyo lah tangah hari Denai maraso masih kalam juo Lah abih sanjo batambah padiah

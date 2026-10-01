@@ -2,8 +2,8 @@
 title: "Iso Ora Iso Kudu Iso - Rachel Mutiara Feat Jason Irwan"
 date: 2025-02-08
 categories: 
-  - "java"
-  - "rohani"
+  - "Jawa"
+  - "Rohani"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Iso Ora Iso Kudu Iso yang dibawakan oleh Rachel Mutiara Ft Jason Irwan.

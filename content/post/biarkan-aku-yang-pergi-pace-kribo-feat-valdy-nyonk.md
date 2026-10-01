@@ -2,7 +2,7 @@
 title: "Biarkan Aku Yang Pergi - Pace Kribo Feat Valdy Nyonk"
 date: 2025-04-09
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Wajar bila aku kecewa Terhadap dirinya Tak pernah sekalipun Dirinya menghargai aku Sebagai kekasihnya

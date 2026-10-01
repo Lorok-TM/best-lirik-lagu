@@ -2,7 +2,7 @@
 title: "Jegeg Bulan - Tuak Jakedanill"
 date: 2023-03-10
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 Lirik Lagu Bali dengan judul Tuak Jakedanill yang dinyanyikan oleh Jegeg Bulan dan diciptakan oleh Nathaswara dengan irama musik Dangdut.

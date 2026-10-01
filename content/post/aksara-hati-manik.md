@@ -2,7 +2,7 @@
 title: "Aksara Hati - Manik"
 date: 2025-02-04
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Aksara Hati yang dibawakan oleh Manik Tenaya.

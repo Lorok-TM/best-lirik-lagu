@@ -2,7 +2,7 @@
 title: "Zicha Anesha - Basayang Tapi Babagi"
 date: 2026-07-13
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 

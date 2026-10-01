@@ -2,7 +2,7 @@
 title: "Gamang Di Seso Mimpi - Dewi Bunga"
 date: 2025-04-10
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Kok raso ondeh da Tali kasiah uda rantang Barando bamego-mego Dijalin jo banang suto Budi cinto den tandai jo kasiah sayang

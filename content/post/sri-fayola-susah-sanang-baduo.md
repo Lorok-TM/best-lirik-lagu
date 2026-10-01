@@ -2,7 +2,7 @@
 title: "Sri Fayola - Susah Sanang Baduo"
 date: 2023-01-16
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Sri Fayola rilis single dengan lirik dalam bahasa Minangkabau berjudul "Susah Sanang Baduo" yang artinya "Susah Senang Berdua", menceritakan tentang jalinan cinta berumah tangga dimana mereka berdua harus siap menjalaninya baik dalam keadaan susah maupun senang.

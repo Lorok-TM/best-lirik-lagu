@@ -2,7 +2,7 @@
 title: "Bocah Cilik Cilik - Adella Girls"
 date: 2025-03-09
 categories: 
-  - "religi"
+  - "Religi"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Bocah Cilik Cilik yang dibawakan oleh Adella Girls.

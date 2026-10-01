@@ -2,7 +2,7 @@
 title: "Silvy Kumalasari - Kangen Setengah Mati"
 date: 2026-07-13
 categories: 
-  - "osing"
+  - "Osing"
 ---
 
 

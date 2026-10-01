@@ -2,7 +2,7 @@
 title: "Indah Waktune - Dewi Diva"
 date: 2024-10-13
 categories: 
-  - "tarling"
+  - "Tarling"
 ---
 
 Kula selawase slalu ning iringan Urip seuyunan Bareng karo kakang

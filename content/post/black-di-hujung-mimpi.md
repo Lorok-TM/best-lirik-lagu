@@ -2,7 +2,7 @@
 title: "Black - Di Hujung Mimpi (OST Obsesi Dia)"
 date: 2023-07-06
 categories: 
-  - "malaysia"
+  - "Malaysia"
 ---
 
 Black bersama Alternate Record rilis single Malaysia berjudul "Di Hujung Mimpi" yang diciptakan oleh Hanis Rafi, Firdaus Rahmat, Omar K.

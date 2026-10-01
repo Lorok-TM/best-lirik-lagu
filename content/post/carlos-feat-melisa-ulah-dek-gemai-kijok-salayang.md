@@ -2,7 +2,7 @@
 title: "Carlos feat. Melisa - Ulah Dek Gemai Kijok Salayang"
 date: 2025-07-06
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Dareh alun riak galombang Kaja bakaja mahampeh karang Ulah dek gemai kijok salayang Disiko badan mangko mandamam Ulah dek gemai kijok salayang Disiko badan mangko mandamam

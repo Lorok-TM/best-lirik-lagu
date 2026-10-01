@@ -2,7 +2,7 @@
 title: "Wita Sofi - Ratok Pasaman"
 date: 2025-08-16
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Simpang lah ampek suko mananti Padang tujuah da mangko pinaga Di sinan dulu uda bajanji Bajanji arek bakato bana

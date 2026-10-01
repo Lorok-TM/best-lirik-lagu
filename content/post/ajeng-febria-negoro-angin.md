@@ -2,8 +2,7 @@
 title: "Ajeng Febria - Negoro Angin"
 date: 2026-07-15
 categories: 
-  - "dangdut"
-  - "java"
+  - "Jawa"
 ---
 
 Tak tempuh sewelasewu kilometer Nyusul awakmu Sing nate janji mulih ning aku Sak wise rampungke urusanmu

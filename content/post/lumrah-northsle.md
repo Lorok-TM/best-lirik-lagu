@@ -2,7 +2,7 @@
 title: "Lumrah - NorthSle"
 date: 2026-07-30
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 Cerito wingi durung iso lali Senajan aku sing gawe loro atimu Padahal kowe sing paling gemati Ngerteni ra tau nglarani Tak akoni pancen kabeh salahku We ninggalke kowe mikirke egoku dewe Ngaboti wong liyo endinge ditinggal lungo Jebul ko ngene rasane disio sio

@@ -2,7 +2,7 @@
 title: "Iche Br Ginting - Melias Metami"
 date: 2022-07-18
 categories: 
-  - "karo"
+  - "Karo"
 ---
 
 Title : Melias Metami Artist : Iche Br Ginting Songwriter : Ersada Sembiring Production : Kingreinhard Project / JP Studio Category : Lagu Pop Karo

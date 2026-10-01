@@ -2,7 +2,7 @@
 title: "Selamanya Kubersyukur - Calysta Feat Syallomitha Fanggidae"
 date: 2025-04-19
 categories: 
-  - "rohani"
+  - "Rohani"
 ---
 
 Bukan karena keberuntungan Yang membawaku sejauh ini Namun semua karenaMu Tuhan Yang menjagaku selama ini

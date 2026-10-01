@@ -2,7 +2,7 @@
 title: "Rafif Maula - Samo Manangih"
 date: 2025-07-05
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Sia nan lai tau rasonyo Suliknyo manahan aia mato Datang datang kamari Kito samo manangih malapeh raso sakik

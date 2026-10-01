@@ -2,7 +2,7 @@
 title: "Tacinto Sandaran Urang - Indah Delvia"
 date: 2025-07-02
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Taimbau imbau nan dirasian Bak raso uda nan manjagokan Tasintak ditangah malam Kironyo mimpi nan datang Manggaduah laloknyo badan Tasintak ditangah malam Kironyo mimpi nan datang Manggaduah laloknyo badan

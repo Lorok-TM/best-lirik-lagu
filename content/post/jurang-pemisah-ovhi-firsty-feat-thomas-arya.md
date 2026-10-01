@@ -2,7 +2,7 @@
 title: "Jurang Pemisah - Ovhi Firsty Feat Thomas Arya"
 date: 2026-08-16
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 Karya musik berjudul "Jurang Pemisah" yang dibawakan oleh Ovhi Firsty bersama Thomas Arya serta diciptakan oleh Palkhan, secara filosofis memotret realitas konflik sosial dan batas-batas nonfisik yang sering kali mengorbankan hubungan personal manusia. Ditinjau dari latar belakang narasinya, lagu bergenre slow rock ini mengisahkan sepasang kekasih yang terpaksa menghadapi kenyataan pahit berupa ketidakmampuan untuk bersatu akibat perbedaan latar belakang, baik status sosial, restu keluarga, maupun takdir yang berseberangan. Komposisi ini merefleksikan kepasrahan emosional atas ketidakberdayaan manusia ketika berhadapan dengan tembok pemisah yang di luar kendali mereka, sehingga penekanan cerita lebih berfokus pada kedewasaan dalam menerima perpisahan daripada memaksakan ego yang dapat berujung saling menyakiti.

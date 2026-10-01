@@ -2,7 +2,7 @@
 title: "Kristin - Santar Tabayang"
 date: 2026-09-18
 categories: 
-  - "dayak"
+  - "Dayak"
 ---
 
 Metuh kuwe hasupa Atei kuh jatuh cinta Andim tuh puna dia badaya

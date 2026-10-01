@@ -2,7 +2,7 @@
 title: "Alfina Braner - Mudiak Arau"
 date: 2026-07-06
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Anak urang sabua andaleh, yo tuan oi Singgah ka rumah Si sutan mudo, si sutan mudo Singgah ka rumah Si sutan mudo, si sutan mudo

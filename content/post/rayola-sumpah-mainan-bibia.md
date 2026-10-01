@@ -2,7 +2,7 @@
 title: "Rayola - Sumpah Mainan Bibia"
 date: 2025-08-26
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Kato urang sabana sanang Bacinto bakasiah sayang Tapi nan denai raso kan Manguji siparasaan Lai di cubo batenggang Hati jantuang sakik surang

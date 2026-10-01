@@ -2,7 +2,7 @@
 title: "Persembahan Group - HARIMBALE (Bastian Ndraha)"
 date: 2025-12-07
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 Ba mböröta mefalukha ita Faoma tatuno waomasi Tödöu todögu hasambua Ya'o ya'ugo tebai fabali

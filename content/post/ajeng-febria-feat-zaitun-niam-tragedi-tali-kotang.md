@@ -2,7 +2,7 @@
 title: "Ajeng Febria feat. Zaitun Niam - Tragedi Tali Kotang"
 date: 2026-07-12
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 Ndek biyen wis tak tukokke Wujud tali sak kutange Saikine, lha kok ilang sak slirane Lungo menyang endi Tanpo pamit, ra ngabari Opo lali kowe karo aku iki

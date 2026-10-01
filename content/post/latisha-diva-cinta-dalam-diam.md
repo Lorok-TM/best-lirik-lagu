@@ -2,7 +2,7 @@
 title: "Latisha Diva - Cinta Dalam Diam"
 date: 2026-09-20
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Ku pilih cinta dalam diam karena ada sebuah ketulusan di dalamnya yang tak bisa kujelaskan

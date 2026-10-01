@@ -2,7 +2,7 @@
 title: "Wanofu Laia - Aroro Ba Foya Foya"
 date: 2026-06-14
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 

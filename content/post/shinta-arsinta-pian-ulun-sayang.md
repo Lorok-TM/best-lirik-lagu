@@ -2,7 +2,7 @@
 title: "Shinta Arsinta - Pian Ulun Sayang"
 date: 2026-08-24
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 

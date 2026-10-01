@@ -2,7 +2,7 @@
 title: "Surat Cinta - Rachel Patricia"
 date: 2025-02-14
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Surat Cinta yang dibawakan oleh Rachel Patricia.

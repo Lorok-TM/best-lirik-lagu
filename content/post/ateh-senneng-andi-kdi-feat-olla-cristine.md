@@ -2,7 +2,7 @@
 title: "Ateh Senneng - Andi KDI Feat. Olla Cristine"
 date: 2024-07-16
 categories: 
-  - "madura"
+  - "Madura"
 ---
 
 **Berikut lirik Ateh Senneng yang dinyanyikan oleh Andi KDI Feat Olla Cristine.**

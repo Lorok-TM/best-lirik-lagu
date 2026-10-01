@@ -2,7 +2,7 @@
 title: "Mustafa Gowasa - LDRan"
 date: 2021-10-19
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 ## Lirik Lagu Nias ”LDRan“ by Mustafa Gowasa

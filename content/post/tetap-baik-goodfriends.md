@@ -2,7 +2,7 @@
 title: "Tetap Baik - GoodFriends"
 date: 2025-04-12
 categories: 
-  - "rohani"
+  - "Rohani"
 ---
 
 Seringku bertanya haruskah ku taat Mengampuni mereka yang sakiti diriku Tapiku teringat kasihMu oh Yesus Yang tak pernah berubah Sekalipun ku berulah

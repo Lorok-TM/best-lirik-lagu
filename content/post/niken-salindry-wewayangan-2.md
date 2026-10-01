@@ -2,7 +2,7 @@
 title: "Niken Salindry - Wewayangan 2"
 date: 2026-07-17
 categories: 
-  - "campursari"
+  - "Campursari"
 ---
 
 Ing tengah wengi aku kelingan Marang memanik e atiku Kang tansah kumantil ono telenging netro Dadi tombo roso kangen iki

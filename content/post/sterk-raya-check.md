@@ -2,7 +2,7 @@
 title: "Sterk - Raya Check"
 date: 2026-02-23
 categories: 
-  - "religi"
+  - "Religi"
 ---
 
 Dimula dengan bismillah Terfikir ketika mengunyah Ai masih bulan puasa Tapi otak angan tak sudah

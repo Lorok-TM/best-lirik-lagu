@@ -2,7 +2,7 @@
 title: "Setelah Sejauh Ini - MCPR Feat Eka Rock"
 date: 2024-12-09
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Setelah Sejauh Ini yang dibawakan oleh MCPR Ft Eka Rock.

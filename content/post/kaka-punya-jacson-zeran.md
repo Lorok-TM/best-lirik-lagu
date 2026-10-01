@@ -2,7 +2,7 @@
 title: "Kaka Punya - Jacson Zeran"
 date: 2026-07-19
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 Oli oli oli oo… Papa deng mama Papa deng mama Anaknya nama siapa Oli oli oli oo… Beta bisa ka seng Su bisa ka balom Bawa harta ka rumah

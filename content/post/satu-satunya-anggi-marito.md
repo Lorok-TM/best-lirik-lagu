@@ -2,7 +2,7 @@
 title: "Satu Satunya - Anggi Marito"
 date: 2025-01-23
 categories: 
-  - "rohani"
+  - "Rohani"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Satu Satunya yang dibawakan oleh Anggi Marito.

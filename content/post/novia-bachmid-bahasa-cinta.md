@@ -2,7 +2,7 @@
 title: "Novia Bachmid - Bahasa Cinta"
 date: 2023-05-05
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Lirik Lagu Indo dengan judul Bahasa Cinta yang dinyanyikan oleh Novia Bachmid dan diciptakan oleh Pay Burman, Dewiq, Novia Bachmid dengan irama musik Pop.

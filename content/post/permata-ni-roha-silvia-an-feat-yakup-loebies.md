@@ -2,7 +2,7 @@
 title: "Permata Ni Roha - Silvia An feat Yakup Loebies"
 date: 2026-07-23
 categories: 
-  - "tapsel"
+  - "Tapsel"
 ---
 
 Taraso honok do hulala Malewati ari sadari Muda indadong ro sapa-sapamu Agoan boti malungun ma au tu ho

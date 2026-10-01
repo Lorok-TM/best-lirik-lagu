@@ -2,7 +2,7 @@
 title: "Arief - Bertaruh Dalam Cinta"
 date: 2022-04-08
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 **Lirik Bertaruh Dalam Cinta - Arief**

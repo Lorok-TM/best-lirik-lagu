@@ -2,7 +2,7 @@
 title: "Rujak Uleg - Rena Movies"
 date: 2026-07-06
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 

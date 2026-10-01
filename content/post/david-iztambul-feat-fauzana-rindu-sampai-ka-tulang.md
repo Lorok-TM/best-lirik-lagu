@@ -2,7 +2,7 @@
 title: "David Iztambul feat Fauzana - Rindu Sampai Ka Tulang"
 date: 2023-08-11
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Di tangah malam mato indak talalokkan Adiak tabayang bayang di palupuak mato Sabana bedo cinto denai kini ko Rindu rindu rindu hati nak batamu Sabana bedo cinto denai kini ko Rindu rindu rindu hati nak batamu

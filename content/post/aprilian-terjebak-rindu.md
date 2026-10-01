@@ -2,7 +2,7 @@
 title: "Aprilian - Terjebak Rindu"
 date: 2026-09-15
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Rasa cinta yang telah kuberikan Rasa rindu yang ku pertahankan Demi dirimu tiada kata lelah Menggapai mimpi masa depan kita

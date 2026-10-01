@@ -2,7 +2,7 @@
 title: "Faisal Asahan - Mendayung Dalam Mimpi"
 date: 2023-03-22
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Lirik Lagu Melayu dengan judul Mendayung Dalam Mimpi yang dinyanyikan dan diciptakan oleh Faisal Asahan dengan irama musik Pop.

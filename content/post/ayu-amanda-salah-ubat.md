@@ -2,7 +2,7 @@
 title: "Ayu Amanda - Salah Ubat"
 date: 2025-06-12
 categories: 
-  - "aceh"
+  - "Aceh"
 ---
 
 Watee uroe saket utak Watee malam saket igoe Rumoh tangga hantom lagak Salah ubat tip tip uroe

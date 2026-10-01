@@ -2,7 +2,7 @@
 title: "Fauzana - Janji Cincin Suaso"
 date: 2023-01-16
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Alah lamo denai bamimpi Bainai ujuang ujuang jari Lah limo tahun denai mananti Uda manapati janji Lah limo tahun denai mananti Uda manapati janji

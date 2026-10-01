@@ -2,7 +2,7 @@
 title: "Bakubua Mimpi - Eja SM"
 date: 2025-03-18
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Bakubua Mimpi yang dibawakan oleh Eja SM.

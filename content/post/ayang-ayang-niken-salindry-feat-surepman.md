@@ -2,7 +2,7 @@
 title: "Ayang Ayang - Niken Salindry Feat Surepman"
 date: 2025-03-25
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Ayang Ayang yang dibawakan oleh Niken Salindry Ft Surepman.

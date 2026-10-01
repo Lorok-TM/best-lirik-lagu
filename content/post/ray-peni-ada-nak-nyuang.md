@@ -2,7 +2,7 @@
 title: "Ray Peni - Ada Nak Nyuang dan Artinya"
 date: 2023-05-21
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 Ray Peni rilis single dengan lirik dalam bahasa Bali berjudul "Ada Nak Nyuang" yang artinya "Ada Orang Mengambil (Diambil Orang)", menceritakan tentang seseorang atlit tinju amatir yang ditinggal pergi pacarnya selingkuh akhirnya dia prustasi dan banting HP satu satunya tapi tidak bisa beli lagi. Untuk lebih jelasnya silahkan Anda baca terjemahan lirik lagunya berada dibawah.

@@ -2,7 +2,7 @@
 title: "Cut Rani - Peurangui"
 date: 2025-07-31
 categories: 
-  - "aceh"
+  - "Aceh"
 ---
 
 Dalam laot samudra Mantong jeut ta peukira Tapi asoe lam hate Hana soe yang ek duga

@@ -2,7 +2,7 @@
 title: "Muspra - Lintang Kairo"
 date: 2024-09-05
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 Kowe pancen ayu nduk Koyo ratu kencono wungu Eman eman tenan Ayumu mung ketutupan Ketutupan kain nduk Sing ora aku ngerti Sing tak ngerteni Kain kuwi dinggo klambi

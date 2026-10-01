@@ -2,7 +2,7 @@
 title: "Tika Pagraky - Berbahagialah dan Artinya"
 date: 2020-09-07
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 Title : Berbahagialah Artist : Tika Pagraky Songwriter : Tika Pagraky Category : Lagu Bali

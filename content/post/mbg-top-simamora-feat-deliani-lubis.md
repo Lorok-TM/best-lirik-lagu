@@ -2,7 +2,7 @@
 title: "MBG - Top Simamora feat Deliani Lubis"
 date: 2026-07-20
 categories: 
-  - "tapsel"
+  - "Tapsel"
 ---
 
 MBG MBG negarata murpade MBG MBG ra muse nagot sande MBG MBG adong halak nagot gabe MBG MBG bahat muse nagot use

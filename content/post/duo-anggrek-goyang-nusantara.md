@@ -2,7 +2,7 @@
 title: "Duo Anggrek - Goyang Nusantara"
 date: 2025-08-15
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Kudus sungguh enak sotonya Kediri terkenal tahunya Pati manis buah manggisnya Madura sate kambingnya

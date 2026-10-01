@@ -2,7 +2,7 @@
 title: "David Iztambul - Cando Tak Badoso"
 date: 2025-08-25
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Sagalo lah denai barikan Kabakeh adiak nan den sayang Tacurah habih kasiah jo sayang Sadang sabimbiang denai batinggakan Kasiah jo sayang Sadang sabimbiang denai batinggakan

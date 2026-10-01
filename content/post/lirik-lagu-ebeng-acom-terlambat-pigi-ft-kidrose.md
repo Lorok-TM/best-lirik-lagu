@@ -2,7 +2,7 @@
 title: "Ebeng Acom Ft. KidRose - Terlambat Pigi"
 date: 2022-01-31
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 ## Lirik Lagu “Terlambat Pigi” by Ebeng Acom feat KidRose

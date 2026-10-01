@@ -2,7 +2,7 @@
 title: "Kita Usahakan Lagi - Batas Senja"
 date: 2025-04-19
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Ada bahagia Yang belum kita rasa Setelah bersama Usahakan semua Kira kira kapan waktunya tiba?

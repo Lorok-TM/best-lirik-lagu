@@ -2,7 +2,7 @@
 title: "M' Trio - Omasido Mangowalu"
 date: 2021-10-19
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 ## Lirik Lagu Nias ”Omasido Mangowalu (Aku Ingin Menikah)“ by M' Trio

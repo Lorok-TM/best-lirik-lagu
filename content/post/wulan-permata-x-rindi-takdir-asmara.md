@@ -2,7 +2,7 @@
 title: "Wulan Permata X Rindi - Takdir Asmara"
 date: 2023-01-23
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Lirik Lagu Indo dengan judul Takdir Asmara yang dinyanyikan oleh Wulan Permata Feat. Rindi dan diciptakan oleh Agus Ghozali, Bobby Sitara dengan irama musik Dangdut.

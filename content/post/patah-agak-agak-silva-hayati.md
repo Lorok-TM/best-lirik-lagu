@@ -2,7 +2,7 @@
 title: "Patah Agak Agak - Silva Hayati"
 date: 2025-02-05
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Patah Agak Agak yang dibawakan oleh Silva Hayati.

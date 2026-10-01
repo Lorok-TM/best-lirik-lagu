@@ -2,7 +2,7 @@
 title: "Ayu Amanda - Ciluah"
 date: 2025-07-03
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Uda sabana ciluah Iyo ciuluah bana Acok denai takicuah Tiok hari kanai ota

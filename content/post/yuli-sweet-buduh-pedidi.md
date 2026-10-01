@@ -2,7 +2,7 @@
 title: "Yuli Sweet - Buduh Pedidi"
 date: 2023-04-29
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 Lirik Lagu Bali dengan judul Buduh Pedidi yang dinyanyikan oleh Yuli Sweet dan diciptakan oleh Uncle Joe.

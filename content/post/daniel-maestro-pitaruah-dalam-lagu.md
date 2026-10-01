@@ -2,7 +2,7 @@
 title: "Daniel Maestro - Pitaruah Dalam Lagu"
 date: 2023-05-18
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Lirik Lagu Minang dengan judul Pitaruah Dalam Lagu yang dinyanyikan oleh Daniel Maestro dan diciptakan oleh Rizzal Maestro dengan irama musik Pop.

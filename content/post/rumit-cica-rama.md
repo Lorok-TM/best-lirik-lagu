@@ -2,7 +2,7 @@
 title: "Rumit - Cica Rama"
 date: 2026-07-30
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Mengapa aku tak bisa melupakan kamu Walaupun diriku telah menjauh demi masa depan mu Apakah dihati ini masih ada cinta Karena sayang tak mungkin jadi benci jika tiada sebabnya

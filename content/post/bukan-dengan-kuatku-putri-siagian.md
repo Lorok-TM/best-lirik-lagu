@@ -2,7 +2,7 @@
 title: "Bukan Dengan Kuatku - Putri Siagian"
 date: 2025-02-03
 categories: 
-  - "rohani"
+  - "Rohani"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Bukan Dengan Kuatku yang dibawakan oleh Putri Siagian.

@@ -2,7 +2,7 @@
 title: "Pejalan Hidup - Dex Ari"
 date: 2024-08-23
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 Nah kal taan taanang Kal kuat kuatang tyang medingehang Kone tyang pules ngewai Pantesan sing ade rejeki

@@ -2,7 +2,7 @@
 title: "Relakan Aku - Rara Lida"
 date: 2025-02-19
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Relakan Aku yang dibawakan oleh Rara Lida.

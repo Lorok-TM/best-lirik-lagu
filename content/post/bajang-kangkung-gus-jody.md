@@ -2,7 +2,7 @@
 title: "Bajang Kangkung - Gus Jody"
 date: 2025-05-30
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 Intro : Bajang kangkung.. mare ejang mecelempung..

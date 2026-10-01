@@ -2,7 +2,7 @@
 title: "Elsa Pitaloka - Pembunuh Cinta"
 date: 2025-10-01
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 Sepinya malam dirimu ku rindukan Tapi kini kau bicara tanpa alasan Sayang teganya engkau Goreskan hati

@@ -2,7 +2,7 @@
 title: "Cabiak - Sagalo Gadang"
 date: 2026-01-09
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Marilah baranang baranang kito kapulau Marilah bagoyang banyanyi sambia bagurau Marilah baranang baranang kito kapulau Marilah bagoyang banyanyi sambia lah bagurau

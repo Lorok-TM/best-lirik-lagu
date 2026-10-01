@@ -2,7 +2,7 @@
 title: "Bobby Purba - Unang Be Jua Cintaki"
 date: 2026-06-16
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 

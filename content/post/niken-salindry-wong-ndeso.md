@@ -2,7 +2,7 @@
 title: "Niken Salindry - Wong Ndeso"
 date: 2025-05-06
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Ireng kulitku putih kulitmu Rombeng klambiku ko toko klambimu Pikiren disik yen seneng aku Sing luwih apik ojo kesusu

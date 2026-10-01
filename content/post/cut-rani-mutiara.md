@@ -2,7 +2,7 @@
 title: "Cut Rani - Mutiara"
 date: 2026-07-12
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 

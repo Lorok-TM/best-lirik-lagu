@@ -2,7 +2,7 @@
 title: "Anggrek - Lupo Manimbang Kato"
 date: 2025-08-15
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Mungkin dek manuruikkan gadang di hati Hinggo lupo manimbang kato Apopun nan uda sampaikan Tiado bajawek jo indak

@@ -2,7 +2,7 @@
 title: "Ungu - Pulang PadaMu"
 date: 2026-02-14
 categories: 
-  - "religi"
+  - "Religi"
 ---
 
 Pernah ku tenggelam Mengejar dunia melupakan surga Kini ku pulang kembali ya Allah Membawa sesal untuk semuanya Hingga lidah tak sanggup lagi mengungkapnya Kini ku pulang pada-Mu Inilah hamba-Mu yang lemah Bersihkanlah jiwa yang ternoda Peluklah aku Bawa aku kembali pada-Mu

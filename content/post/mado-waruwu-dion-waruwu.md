@@ -2,7 +2,7 @@
 title: "Mado Waruwu - Dion Waruwu"
 date: 2025-01-27
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Mado Waruwu yang dibawakan oleh Dion Waruwu.

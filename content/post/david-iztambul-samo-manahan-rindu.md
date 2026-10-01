@@ -2,7 +2,7 @@
 title: "David Iztambul - Samo Manahan Rindu"
 date: 2023-01-14
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 David Iztambul rilis single dengan lirik dalam bahasa Minangkabau berjudul "Samo Manahan Rindu" yang artinya "Sama Sama Menahan Rindu", menceritakan tentang hubungan cinta diantara mereka berdua sama sama merasakan rindu yang tertahan dikarenakan jarak yang memisahkan.

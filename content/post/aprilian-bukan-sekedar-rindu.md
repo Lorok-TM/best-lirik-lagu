@@ -2,7 +2,7 @@
 title: "Aprilian - Bukan Sekedar Rindu"
 date: 2025-10-06
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 Lama ku meredam gelora di hati Cinta yang membara kepada kasih Sekian lama diriku menanti Bermusim resah ini ku lalui

@@ -2,7 +2,7 @@
 title: "Reh Si Lakutenahken - Iche Br Ginting"
 date: 2024-07-10
 categories: 
-  - "karo"
+  - "Karo"
 ---
 
 **Berikut lirik Reh Sila Kutenahken yang dinyanyikan oleh Iche Br Ginting.**

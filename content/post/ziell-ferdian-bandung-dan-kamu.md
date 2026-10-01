@@ -2,7 +2,7 @@
 title: "Ziell Ferdian - Bandung & Kamu"
 date: 2026-01-24
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Kota bandung tempat rindu tersimpan Sisi sisinya penuh kenangan Syahdu pagi segarkan mata hati Bandung dan kamu bersama rinduku

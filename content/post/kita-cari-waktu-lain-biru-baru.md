@@ -2,7 +2,7 @@
 title: "Kita Cari Waktu Lain - Biru Baru"
 date: 2025-04-15
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Baru saja hari ini Kudapat kabar buruk Begitu burukku Tak bisa menahan lagi

@@ -2,7 +2,7 @@
 title: "Elsa Pitaloka - Antah Sia Nan Salah"
 date: 2025-12-05
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Bak kato cinto nan basampaikan Luluah hati jo parasaan Uda den sayang raso lah di ganggaman Arek nyo cinto satu tujuan Ndak ka mungkin ka tagantikan Nyatonyo denai bagaluik jo angan angan

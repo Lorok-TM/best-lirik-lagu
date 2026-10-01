@@ -2,7 +2,7 @@
 title: "Yan Mus feat Ardi Mandira - Pilah Pilah Mesuang Munyi"
 date: 2023-03-19
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 Lirik Lagu Bali dengan judul Pilah Pilah Mesuang Munyi yang dinyanyikan oleh Yan Mus Ft. Ardi Mandira dan diciptakan oleh Yan Mus dengan irama musik Pop.

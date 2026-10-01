@@ -2,7 +2,7 @@
 title: "Lepah Jodoh - Rizna L Agan"
 date: 2024-10-11
 categories: 
-  - "dayak"
+  - "Dayak"
 ---
 
 Hajamban kutak je bahing ijang Nabe ku uras paharinduang Bara aku punei sanaman Mundahan tahibur je itung huang

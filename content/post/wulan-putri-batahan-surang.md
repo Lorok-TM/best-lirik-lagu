@@ -2,7 +2,7 @@
 title: "Wulan Putri - Batahan Surang"
 date: 2025-09-04
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Karam di lauik dalam dayuang patah tangkainyo Tingga badan surang nan manangguang seso Rundiang tak kunjuang sudah Etongan ba panagah Saraik ka pambaok nan tak punyo

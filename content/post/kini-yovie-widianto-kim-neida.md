@@ -2,7 +2,7 @@
 title: "Kini - Yovie Widianto, KIM, Neida"
 date: 2026-03-15
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Ku sadari semua jalanku tak berarah kepadamu Mungkin salah diri ini memikirkanmu Aku kini telah berdua

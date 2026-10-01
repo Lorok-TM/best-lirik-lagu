@@ -2,7 +2,7 @@
 title: "Tudos Tu Horbo Namagulang - The Boy's Trio"
 date: 2025-01-24
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Tudos Tu Horbo Namagulang yang dibawakan oleh The Boys Trio.

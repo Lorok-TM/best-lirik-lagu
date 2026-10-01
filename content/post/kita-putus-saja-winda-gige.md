@@ -2,7 +2,7 @@
 title: "Kita Putus Saja - Winda Gige"
 date: 2026-07-28
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 

@@ -2,7 +2,7 @@
 title: "Revo Ramon - Putus Di Jalan"
 date: 2023-03-13
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Lirik Lagu Melayu dengan judul Putus Di Jalan yang dinyanyikan oleh Revo Ramon dan diciptakan oleh Ramon Asben dengan irama musik Pop.

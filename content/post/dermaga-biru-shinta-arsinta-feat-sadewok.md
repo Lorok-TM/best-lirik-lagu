@@ -2,7 +2,7 @@
 title: "Dermaga Biru - Shinta Arsinta Feat Sadewok"
 date: 2026-08-07
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Lagu Dermaga Biru yang dibawakan secara kolaboratif oleh Shinta Arsinta bersama Sadewok merupakan karya gubahan komposer Emen yang secara tematik mengeksplorasi manifestasi melankolia dan keteguhan komitmen di tengah perpisahan jarak jauh. Secara filosofis, narasi dalam lagu ini merepresentasikan dermaga bukan sekadar sebagai infrastruktur fisik atau titik geografis keberangkatan, melainkan sebagai ruang transisi emosional yang menguji batas kesetiaan dan ketahanan mental manusia saat menghadapi kehilangan sementara. Latar belakang cerita berfokus pada dilema sepasang kekasih yang terpaksa berpisah demi tujuan tertentu, di mana salah satu pihak menuntut keteguhan hati pasangan yang ditinggalkan agar tidak goyah oleh ketidakpastian waktu. Dinamika vokal dalam aransemen ini mempertegas kontras antara kesedihan mendalam atas perpisahan yang terjadi dan optimisme rasional terhadap janji pertemuan kembali di masa depan.

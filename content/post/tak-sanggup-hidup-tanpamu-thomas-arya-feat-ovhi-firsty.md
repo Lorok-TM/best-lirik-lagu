@@ -2,7 +2,7 @@
 title: "Tak Sanggup Hidup Tanpamu - Thomas Arya Feat Ovhi Firsty"
 date: 2025-02-16
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Tak Sanggup Hidup Tanpamu yang dibawakan oleh Thomas Arya Ft Ovhi Firsty.

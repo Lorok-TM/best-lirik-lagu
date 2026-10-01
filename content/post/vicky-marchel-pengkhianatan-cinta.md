@@ -2,7 +2,7 @@
 title: "Vicky Marchel - Pengkhianatan Cinta"
 date: 2022-04-01
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 **Lirik Pengkhianatan Cinta - Vicky Marchel**

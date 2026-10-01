@@ -2,7 +2,7 @@
 title: "Janda 7 Kali - Niken Salindry"
 date: 2025-03-05
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Janda 7 Kali yang dibawakan oleh Niken Salindry.

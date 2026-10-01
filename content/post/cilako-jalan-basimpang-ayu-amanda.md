@@ -2,7 +2,7 @@
 title: "Cilako Jalan Basimpang - Ayu Amanda"
 date: 2026-06-29
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 

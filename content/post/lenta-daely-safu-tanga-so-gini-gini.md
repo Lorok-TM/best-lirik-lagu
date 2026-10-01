@@ -2,7 +2,7 @@
 title: "Lenta Daely - Safu Tanga So Gini Gini"
 date: 2025-07-19
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 Ukaoni döimö he ga'agu U'ohe ba wangandrö He no aröu ba hörö Lö satebulö wa'omasigu khöu

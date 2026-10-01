@@ -2,7 +2,7 @@
 title: "Martapura (Mau Rindu Tapi Punya Orang) - Kaka Andii"
 date: 2025-06-03
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 Verse : Nona pung manis tu paling idaman.. Bikin kaka ni mau nekat lamaran.. Tiap hari kaka selalu pikir-pikir ade nona Yang bikin kaka hampir jadi gila..

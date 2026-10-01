@@ -2,7 +2,7 @@
 title: "Bobby Purba - Beda Di Arta"
 date: 2024-05-02
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 **Lirik Beda Di Arta - Bobby Purba**

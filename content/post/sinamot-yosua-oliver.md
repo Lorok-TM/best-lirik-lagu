@@ -2,7 +2,7 @@
 title: "Sinamot - Yosua Oliver"
 date: 2025-02-25
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Sinamot yang dibawakan oleh Yosua Oliver.

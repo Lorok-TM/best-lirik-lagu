@@ -2,7 +2,7 @@
 title: "Iling Lorone - Dini Kurnia Feat Mufly Key"
 date: 2024-12-25
 categories: 
-  - "osing"
+  - "Osing"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Iling Lorone yang dibawakan oleh Dini Kurnia Ft Mufly Key.

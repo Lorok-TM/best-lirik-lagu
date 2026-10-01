@@ -2,7 +2,7 @@
 title: "Mahalini - Percuma"
 date: 2026-08-30
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 

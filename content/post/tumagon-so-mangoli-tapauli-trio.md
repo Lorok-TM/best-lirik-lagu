@@ -2,7 +2,7 @@
 title: "Tumagon So Mangoli - Ta'pauli Trio"
 date: 2024-07-20
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Aha be gunana ito hasian Sai solsolanmu tu au naung salpu i Ai ho do ito namose dipadanta i

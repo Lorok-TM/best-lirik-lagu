@@ -2,7 +2,7 @@
 title: "Bagarap - Sa Sayang Ko"
 date: 2020-12-23
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 **Lirik Sa Sayang Ko - Bagarap**

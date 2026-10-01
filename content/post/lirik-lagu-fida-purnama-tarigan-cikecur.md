@@ -2,7 +2,7 @@
 title: "Fida Purnama Tarigan - Cikecur"
 date: 2021-08-03
 categories: 
-  - "karo"
+  - "Karo"
 ---
 
 ## Lirik Cikecur - Fida Purnama Tarigan

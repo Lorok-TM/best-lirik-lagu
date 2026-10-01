@@ -2,7 +2,7 @@
 title: "Whisnu Santika, Ifan Seventeen - Hilang Warasnya"
 date: 2026-09-03
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Tengkarku denganmu di waktu sore itu Kerasnya egomu bekukan ruangku Kau sering menuduh tanpa bicara dulu Langit mulai runtuh, luka makin penuh

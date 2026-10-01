@@ -2,7 +2,7 @@
 title: "Heris Hydrawan feat. Safira - Mantep"
 date: 2025-11-09
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 Mboten kroso suwe yen sampeyan ning kene Bar ketemu wae kok iseh kangen rasane Opo iki sing jenenge saling senenge Sing podo wedi kelangan salah sijine

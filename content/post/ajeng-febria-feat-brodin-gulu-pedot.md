@@ -2,7 +2,7 @@
 title: "Ajeng Febria Feat Brodin - Gulu Pedot"
 date: 2026-08-20
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Dudu watu hang d arani pasir Watu kambang keli ono ring pinggir Buru ketemu awak langsung naksir Gelibegan koyo kelangan pikir

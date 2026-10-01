@@ -2,7 +2,7 @@
 title: "Mohderzam - 123 Kali"
 date: 2023-03-02
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Lirik Lagu Melayu dengan judul 123 Kali yang dinyanyikan oleh Mohderzam dan diciptakan oleh Adi Bugak dengan irama musik Pop.

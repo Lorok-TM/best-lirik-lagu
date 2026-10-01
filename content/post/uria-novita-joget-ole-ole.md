@@ -2,7 +2,7 @@
 title: "Uria Novita - Joget Ole Ole"
 date: 2025-09-24
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Lah mulai acok sakik kapalo Ulah dek banyak urang batanyo Tahun ko urang ka urang juo Tibo di awak antah pabilo

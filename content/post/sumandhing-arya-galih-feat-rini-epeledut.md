@@ -2,7 +2,7 @@
 title: "Sumandhing - Arya Galih feat. Rini Epeledut"
 date: 2026-07-14
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 

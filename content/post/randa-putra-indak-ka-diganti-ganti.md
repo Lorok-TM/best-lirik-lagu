@@ -2,7 +2,7 @@
 title: "Randa Putra - Indak Ka Diganti Ganti"
 date: 2025-09-04
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Ditanyo jan ditanyo diak Sadalam apo cinto denaiko Jikok ditimbang timbang diraso raso Beko tamalu adiak jadinyo 2x

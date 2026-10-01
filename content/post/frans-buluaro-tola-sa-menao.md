@@ -2,7 +2,7 @@
 title: "Frans Buluaro - Tola Sa Menaö"
 date: 2025-11-14
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 Tola Sa Menao Tolasa menaö ölau fabalö Awai'i hadia mbörö omasi'ö Tolasa menaö ölau mofanö Awai'i enaö faoma saehagölö

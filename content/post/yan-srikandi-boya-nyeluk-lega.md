@@ -2,7 +2,7 @@
 title: "Yan Srikandi - Boya Nyeluk Lega dan Artinya"
 date: 2022-05-15
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 Title : Boya Nyeluk Lega Artist : Yan Srikandi Songwriter : Yan Srikandi Category : Lagu Bali

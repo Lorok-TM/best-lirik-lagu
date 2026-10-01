@@ -2,7 +2,7 @@
 title: "Neysia Cantika - Padiah Garah Kawan"
 date: 2025-08-16
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Padiah nyo kato kato tibo di badan Kawan sangko bagarah juo Usah bagarah kawan talabiah bana Lah tasakik denai tarimo

@@ -2,7 +2,7 @@
 title: "Yeni Inka - Cinta Tak Bersyarat"
 date: 2025-10-23
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Tak ada sedikit pun sesalku T′lah bertahan dengan setiaku Walau di akhir jalan Ku harus melepaskan dirimu, oh

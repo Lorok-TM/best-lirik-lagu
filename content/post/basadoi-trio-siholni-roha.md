@@ -2,7 +2,7 @@
 title: "Basadoi Trio - Siholni Roha"
 date: 2026-07-31
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 

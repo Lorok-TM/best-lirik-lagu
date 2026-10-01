@@ -2,7 +2,7 @@
 title: "Yeni Inka X Icing - Ayang Ayang"
 date: 2025-05-14
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Peteng rasaning ati kang nandang Sengiting liyan hanyawang Aku koe labuh katresnan

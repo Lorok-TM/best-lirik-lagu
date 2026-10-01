@@ -2,7 +2,7 @@
 title: "Nadin Amizah - Laika, Kamu Mudah Dicinta"
 date: 2026-09-03
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Bisa saja ia bunuh seluruh dunia Ataupun dirinya dan kau masih meminta Kau bisa bertanya siapa yang paling ia cinta Menurutmu saja siapa? Dan kau masih meminta

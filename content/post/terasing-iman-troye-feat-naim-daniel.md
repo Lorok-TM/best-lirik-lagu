@@ -2,7 +2,7 @@
 title: "Terasing - Iman Troye feat. Naim Daniel"
 date: 2026-05-09
 categories: 
-  - "malaysia"
+  - "Malaysia"
 ---
 
 

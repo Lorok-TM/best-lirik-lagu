@@ -2,7 +2,7 @@
 title: "Masdddho - Iwak Louhan"
 date: 2025-09-01
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 Nganggo jaket kulit Sepatune jinjit Lipennya merangsang Kaya iwak louhan

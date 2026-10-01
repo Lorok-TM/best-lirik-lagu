@@ -2,7 +2,7 @@
 title: "Jodoh Sing Jodoh - Ary"
 date: 2025-02-10
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Jodoh Sing Jodoh yang dibawakan oleh Ary.

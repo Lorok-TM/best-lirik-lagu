@@ -2,7 +2,7 @@
 title: "Bromo Ninggal Janji - Ilfi Bulqis"
 date: 2026-07-31
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Entahe kemerlip lintang Seng ning duwur awang awang Ning sayange aku mung biso nyawang Duh endahe wengi iki Rembulan setyo ngancani Eleng marang janji naliko kui Sumilire angin wengi Seng biyen ngelus rambutuku Ning sayange kowe ora ono ning sandingku gawe gelo atiku

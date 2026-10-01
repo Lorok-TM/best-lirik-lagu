@@ -2,7 +2,7 @@
 title: "Silva Hayati - Gempar Seluruh Dunia"
 date: 2023-02-09
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Lirik Lagu Melayu dengan judul Gempar Seluruh Dunia yang dinyanyikan oleh Silva Hayati dan diciptakan oleh Erwin Agam dengan irama musik Pop. Video musiknya telah tersedia di channel Youtube Indoswara Music Digital.

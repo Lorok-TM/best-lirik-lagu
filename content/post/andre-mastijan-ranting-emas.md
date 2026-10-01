@@ -2,7 +2,7 @@
 title: "Andre Mastijan - Ranting Emas"
 date: 2023-09-16
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Salam sejahtera untuk sobat semuanya dimanapun berada, pada kesempatan kali ini Best Lyrics™ akan menyajikan Lirik Lagu Andre Mastijan - Ranting Emas. Sebagai wujud dukungan bagi para penyanyi dan musisi yang telah merilis lagu "Ranting Emas" ini, jangan lupa untuk mendapatkan lagu tersebut melalui platform musik digital resmi seperti Joox, iTunes, Spotify, dan penyedia lainnya, agar mereka bisa terus berkarya dan merilis single terbaru mereka. Anda bisa menikmati video lagu tersebut melalui channel youtube resminya.

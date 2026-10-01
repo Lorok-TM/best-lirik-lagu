@@ -2,8 +2,7 @@
 title: "Silvy Kumalasari - Denok"
 date: 2025-12-08
 categories: 
-  - "dangdut"
-  - "java"
+  - "Jawa"
 ---
 
 Sayangku sing ayu dewe Puron nopo bakal tak usahakke Ibarate sak isi bumi nggo koe

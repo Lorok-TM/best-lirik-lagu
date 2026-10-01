@@ -2,7 +2,7 @@
 title: "Perang Dunia - Derry Sulaiman Feat Eet Sjahranie, Cakra Barani"
 date: 2025-02-01
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Perang Dunia yang dibawakan oleh Derry Sulaiman Ft Eet Sjahranie, Cakra Barani.

@@ -2,7 +2,7 @@
 title: "Aufahanie - Si Dara Raya"
 date: 2026-03-19
 categories: 
-  - "religi"
+  - "Religi"
 ---
 
 \[Verse 1\] Di pagi raya kali ini, Oh berseri-seri, Oh memikat hati, Si dara.

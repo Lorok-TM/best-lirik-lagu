@@ -2,7 +2,7 @@
 title: "Silva Hayati - Hanyo Harok Bakawan"
 date: 2023-05-26
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Denai hanyo harok bakawan Jatuah cinto raso ndak mungkin Kok lai dapek sapamainan Tanang raso lahia batin

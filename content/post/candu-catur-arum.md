@@ -2,7 +2,7 @@
 title: "Candu - Catur Arum"
 date: 2025-05-30
 categories: 
-  - "osing"
+  - "Osing"
 ---
 
 Chorus : Koyo nyandu rasane awak isun nyang riko Sing keneng maning kadung isun di adohno.. Koyo nyandu rasane jangget pengiling iki Kepingine kumpul bareng riko yoro selawase.. yoro selawase..

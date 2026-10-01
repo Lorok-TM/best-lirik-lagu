@@ -2,7 +2,7 @@
 title: "Tiara Andini feat. Whisnu Santika - Sumpah Percuma"
 date: 2026-09-11
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Berlari kan kukejar mimpi Tak sudi ku mendengar hati Hingga dunia dalam genggam jari Setiaku menemani sepi Seakan ku tak takut sendiri Tapi

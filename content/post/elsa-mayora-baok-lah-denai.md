@@ -2,7 +2,7 @@
 title: "Elsa Mayora - Baok Lah Denai"
 date: 2025-08-18
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Ikok pai capek babaliak Jan lamo di rantau urang Dipandang dicaliak caliak Ka uda tadorong sayang Yo banyak kumbang nan tabang Saikua sajo mandayo Angan ko malayang layang Bak raso kito bajodoh Uda timbang timbang lah Denai baharok juo Uda japuik denai da Gungguang baok badan ko Kok lai bapadi ladang nan sawah Rang bajak juo Kok iyo lah samo sayang Usah lah balamo lamo

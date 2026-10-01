@@ -2,7 +2,7 @@
 title: "Thomas Arya - Cintamu Kan Terus Ada"
 date: 2023-02-26
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 Thomas Arya rilis single Melayu berjudul "Cintamu Kan Terus Ada", menceritakan tentang seseorang yang tak bisa melupakan cintanya pada sang mantan, masih selalu mengingat kenangan indah bersama mantan.

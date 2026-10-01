@@ -2,7 +2,7 @@
 title: "Jangan Ungkit Ungkit - Afan"
 date: 2026-08-06
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 

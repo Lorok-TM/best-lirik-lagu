@@ -2,7 +2,7 @@
 title: "Aprilian - Janji Untuk Kembali ft Fany Zee"
 date: 2026-09-08
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 Semusim telah berlalu Tanpa kau di sisiku Entah sampai pabila diriku harus menunggu Rinduku tak terbendungkan Entah bila kita berjumpa Rinduku tak terbendungkan Entah bila kita berjumpa

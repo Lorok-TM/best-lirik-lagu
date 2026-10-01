@@ -2,7 +2,7 @@
 title: "Arghana Trio - Tangis Ni Holong"
 date: 2025-04-26
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Hu lului do dalan na dumenggan Unang adong be di hita hata sirang Alai sai dituntun ho do hasian Patamba arsak ni rohakki

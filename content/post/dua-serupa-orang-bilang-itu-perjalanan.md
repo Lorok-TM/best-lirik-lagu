@@ -2,7 +2,7 @@
 title: "Dua Serupa - Orang Bilang Itu Perjalanan"
 date: 2026-09-15
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Apakah masa depan saat ini Tengah tertawa melihat engkau tumbuh bersama mimpimu Meski banyak hal yang ingin kau hapus

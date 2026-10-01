@@ -2,7 +2,7 @@
 title: "Arghana Trio - Sihol Mi"
 date: 2025-10-03
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Sonang hian do pargaulanta dihaposoon ujui Dame nang ngolutta soadong nihahurangan tikki i Holongmi manomu nomu holongki Siholmi manomu nomu sihol na dirohakki

@@ -2,7 +2,7 @@
 title: "Cut Rani - Walid"
 date: 2025-06-21
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Bukan cerita tapi kisah nyata Banyak terjadi di atas dunia Demi mementingkan kepribadiannya Wali walid berkedok agama

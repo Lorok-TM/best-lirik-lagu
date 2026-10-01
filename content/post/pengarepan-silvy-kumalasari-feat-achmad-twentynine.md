@@ -2,7 +2,7 @@
 title: "Pengarepan - Silvy Kumalasari Feat Achmad Twentynine"
 date: 2025-03-31
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Pengarepan yang dibawakan oleh Silvy Kumalasari Ft Achmad Twentynine.

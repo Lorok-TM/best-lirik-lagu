@@ -2,7 +2,7 @@
 title: "Lineker Situmorang - O Ito Hasian"
 date: 2025-08-05
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Ias ni rohangki do hasian Mangkaholongi ho di ngolukki Burju ni rohangki do na hu baen Mardongan au dohot ho ito

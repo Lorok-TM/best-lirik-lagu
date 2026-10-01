@@ -2,7 +2,7 @@
 title: "Najwa Hasana - Padi Ampo"
 date: 2024-04-25
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 **Lirik Padi Ampo - Najwa Hasana**

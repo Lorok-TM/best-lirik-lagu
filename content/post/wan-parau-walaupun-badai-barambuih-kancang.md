@@ -2,7 +2,7 @@
 title: "Wan Parau - Walaupun Badai Barambuih Kancang"
 date: 2022-12-13
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Lirik Lagu Minang dengan judul Walaupun Badai Barambuih Kancang yang dinyanyikan dan diciptakan oleh Wan Parau dengan irama musik Pop.

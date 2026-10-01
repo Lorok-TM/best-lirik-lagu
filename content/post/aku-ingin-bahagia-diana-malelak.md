@@ -2,7 +2,7 @@
 title: "Aku Ingin Bahagia - Diana Malelak"
 date: 2025-03-13
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Aku Ingin Bahagia yang dibawakan oleh Diana Malelak.

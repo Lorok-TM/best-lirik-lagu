@@ -2,7 +2,7 @@
 title: "David Iztambul - Dendang Mandeh"
 date: 2023-05-02
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Lirik Lagu Minang dengan judul Dendang Mandeh yang dinyanyikan oleh David Iztambul dan diciptakan oleh Eddy Palangki dengan irama musik Pop.

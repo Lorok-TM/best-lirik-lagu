@@ -2,7 +2,7 @@
 title: "Cica Rama - Lara Dan Air Mata"
 date: 2023-04-03
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Lirik Lagu Melayu dengan judul Lara Dan Air Mata yang dinyanyikan oleh Cica Rama dan diciptakan oleh Erwin Agam dengan irama musik Pop.

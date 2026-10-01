@@ -2,7 +2,7 @@
 title: "Puspa Indah - Anguih Nasi Dipariuak"
 date: 2026-01-04
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Abih sandiang dek bageso Abih miang dek bagisiah Abih cakak silek takana Abih cilako ingek jo bana Abih cakak silek takana Abih cilako ingek jo bana

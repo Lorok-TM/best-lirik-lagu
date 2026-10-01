@@ -2,7 +2,7 @@
 title: "Indak Manyasa - Syifa Maulina"
 date: 2025-02-14
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Indak Manyasa yang dibawakan oleh Syifa Maulina.

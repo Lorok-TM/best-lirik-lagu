@@ -2,7 +2,7 @@
 title: "Des Harefa - No'i Ohe Angi"
 date: 2025-10-30
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 Nomondröfi wahuwusada akhi Omasido na ta'aro ö li Haya'ugö khögu zino ufili No sitebai fabali

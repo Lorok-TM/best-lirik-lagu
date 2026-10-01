@@ -2,7 +2,7 @@
 title: "Jayadi - Lagu Jatuh Cinta"
 date: 2025-12-05
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Tak perlu kau tanya langit Berapa banyak bintang di sana Cukup senyummu cerminkan semua Ku tak tau ingin tulis apa di sini Indahmu tak dapat kuukir lewat kata

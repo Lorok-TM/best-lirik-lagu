@@ -2,7 +2,7 @@
 title: "Korban - Ona Hetharua"
 date: 2025-02-08
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Korban yang dibawakan oleh Ona Hetharua.

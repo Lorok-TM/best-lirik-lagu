@@ -2,7 +2,7 @@
 title: "Sang Guru Sejati - Niken Salindry"
 date: 2025-01-28
 categories: 
-  - "campursari"
+  - "Campursari"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Sang Guru Sejati yang dibawakan oleh Niken Salindry.

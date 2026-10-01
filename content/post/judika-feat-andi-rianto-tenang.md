@@ -2,7 +2,7 @@
 title: "Judika feat. Andi Rianto - Tenang"
 date: 2025-12-07
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Tak pernah habis rasanya Memujamu sepanjang hari Ingin kurayu masa depan Berlabuh di atas cinta kita oo oh

@@ -2,7 +2,7 @@
 title: "Rilakan Denai - Rayola Feat Iqbal Syach"
 date: 2025-05-30
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Indak disangko uda masih manyimpan Raso nan lah lamo den kubua dalam Nan samulo raso manyanangkan Di ujuang jalan bagati luko Indak ka tatahan

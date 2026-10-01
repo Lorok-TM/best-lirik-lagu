@@ -2,7 +2,7 @@
 title: "Sahujan Indak Sarinai - Randa Putra"
 date: 2026-09-09
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Manih nan dibibia Paik nan dihati Janji adiak mungkia Alah nan malukoi Sakik hati denai Ditulak jo parangai Adiak .. Sahujan indak sarinai

@@ -2,7 +2,7 @@
 title: "Cut Rani - Jagalah Dia Yang Kusayang"
 date: 2026-01-23
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Malam ini aku sendiri Sunyi sepi tiada yang menemani Kurindukan engkau kekasih Berharap kau hadir di dalam mimpi Betapa rindunya hatiku ini Ingin bertemu denganmu kekasih

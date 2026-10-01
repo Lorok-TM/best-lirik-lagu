@@ -2,7 +2,7 @@
 title: "Ndemok Manuk - Intan Chacha Feat Cak Minti Brekele"
 date: 2026-09-19
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Enek manuk manuke emprit Manuk emprit nutuli pari Sing semangat yen golek duit Bojo mbendino cod shopee

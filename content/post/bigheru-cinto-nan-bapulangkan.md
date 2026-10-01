@@ -2,7 +2,7 @@
 title: "Bigheru - Cinto Nan Bapulangkan"
 date: 2026-02-01
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Marinai hujan turun Manambah dingin raso nyo hati Janji nan bakarang duto Nyato nyo masih samantaro

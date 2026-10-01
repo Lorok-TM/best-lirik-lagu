@@ -2,7 +2,7 @@
 title: "Seti Zalukhu - Manunó Nunô Ndra,o (Ir Frans F Bate,e)"
 date: 2025-11-30
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 Manunö nunö ndra'o Ulau fala'ilö fondrara dödö Itörö tödögu zino numalö Afökhö wanörö ulidanö

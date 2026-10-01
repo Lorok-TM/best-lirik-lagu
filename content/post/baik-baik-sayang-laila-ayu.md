@@ -2,7 +2,7 @@
 title: "Baik Baik Sayang - Laila Ayu"
 date: 2026-06-29
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 

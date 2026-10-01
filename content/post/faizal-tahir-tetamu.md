@@ -2,7 +2,7 @@
 title: "Faizal Tahir - Tetamu"
 date: 2026-02-15
 categories: 
-  - "religi"
+  - "Religi"
 ---
 
 Terasa sepinya malam Bertemankan terang bulan Tetamu segala tetamu Sekian lama ku menunggu

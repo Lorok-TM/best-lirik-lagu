@@ -2,7 +2,7 @@
 title: "Cinto Tinggalah Harok - Eno Viola Feat Pinki Prananda"
 date: 2025-02-14
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Cinto Tinggalah Harok yang dibawakan oleh Eno Viola Feat Pinki Prananda.

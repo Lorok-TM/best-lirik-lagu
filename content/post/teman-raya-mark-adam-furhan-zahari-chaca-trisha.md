@@ -2,7 +2,7 @@
 title: "Teman Raya - Mark Adam, Furhan Zahari, Chaca Trisha"
 date: 2026-02-23
 categories: 
-  - "religi"
+  - "Religi"
 ---
 
 (Verse 1) – Mark Adam Eh siapa tu? Wajah ayu berkebaya biru Sungguh sopan dan cantik begitu Siapa yang tahu?

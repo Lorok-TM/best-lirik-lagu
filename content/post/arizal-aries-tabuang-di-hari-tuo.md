@@ -2,7 +2,7 @@
 title: "Arizal Aries - Tabuang Di Hari Tuo"
 date: 2025-07-28
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Babini kian kamari Anak indak tajagoi ondeh mandeh Awak ko lah tuo juo Kini badan alah kuruih Gaek tibo jalan mainsuik Awak ko lah tuo juo Kini badan alah kuruih Gaek tibo jalan mainsuik

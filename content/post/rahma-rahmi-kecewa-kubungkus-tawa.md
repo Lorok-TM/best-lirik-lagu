@@ -2,7 +2,7 @@
 title: "Rahma Rahmi - Kecewa Kubungkus Tawa"
 date: 2025-10-24
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Biarlah aku tutupi Semua kesedihan ku ini Padahal hatiku terluka seolah bahagia Padahal sedang terluka

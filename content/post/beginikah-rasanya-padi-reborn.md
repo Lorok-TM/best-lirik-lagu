@@ -2,7 +2,7 @@
 title: "Beginikah Rasanya - Padi Reborn"
 date: 2026-07-25
 categories: 
-  - "band"
+  - "Band"
 ---
 
 Ada kalanya aku merasa bosan Dengan kehidupan rutin menjemukan Sampai-sampai ku tak ingin lagi mendengar Orang berbagi cerita tentang cinta

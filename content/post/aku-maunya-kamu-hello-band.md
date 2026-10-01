@@ -2,8 +2,7 @@
 title: "Aku Maunya Kamu - Hello Band"
 date: 2025-01-04
 categories: 
-  - "band"
-  - "indonesia"
+  - "Band"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Aku Maunya Kamu yang dibawakan oleh Hello Band.

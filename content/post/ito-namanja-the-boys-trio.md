@@ -2,7 +2,7 @@
 title: "Ito Namanja - The Boys Trio"
 date: 2025-01-20
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Ito Namanja yang dibawakan oleh The Boys Trio.

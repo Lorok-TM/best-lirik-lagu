@@ -2,7 +2,7 @@
 title: "Sakiknyo Hati - Anyqu"
 date: 2025-02-01
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Sakiknyo Hati yang dibawakan oleh Anyqu.

@@ -2,7 +2,7 @@
 title: "Karnamereka - Aku Jalanmu Pulang"
 date: 2025-07-27
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Ho oo ho oo hoooooo Ke mana akan kucari Jejak langkahmu kini Tak ku temui Aku di sini menunggu Terlarut dalam bayangan dirimu

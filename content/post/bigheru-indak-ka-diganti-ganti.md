@@ -2,7 +2,7 @@
 title: "Bigheru - Indak Ka Diganti Ganti"
 date: 2025-09-14
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Ditanyo jan ditanyo diak Sadalam apo cinto denaiko Jikok di timbang timbang di raso raso Beko tamalu adiak jadinyo Jikok di timbang timbang di raso raso Beko tamalu adiak jadinyo

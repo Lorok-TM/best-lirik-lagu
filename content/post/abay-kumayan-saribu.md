@@ -2,7 +2,7 @@
 title: "Abay - Kumayan Saribu"
 date: 2026-01-12
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Jan lah talonsong bana muluik adiak ka ambo Jikok kareh ka indak tulak lah elok Denai ndak ka mamaso diriko dicintoi Denai ndak ka managah adiak jo urang lain

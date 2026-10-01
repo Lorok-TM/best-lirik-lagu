@@ -2,7 +2,7 @@
 title: "Nayl Author - Vajria"
 date: 2022-09-19
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 ## Lirik Lagu Vajria - Nayl Author

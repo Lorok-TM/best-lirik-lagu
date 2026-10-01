@@ -2,7 +2,7 @@
 title: "Valdy Nyonk - Cinta Tak Salah"
 date: 2026-07-23
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Andaikan saja waktu dulu Kita tak pernah bertemu Mungkin tak akan ada rasa Yang membuat ku terluka

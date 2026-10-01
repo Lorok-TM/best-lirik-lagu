@@ -2,7 +2,7 @@
 title: "Esa Risty - Sinau Nrimo"
 date: 2026-08-15
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 

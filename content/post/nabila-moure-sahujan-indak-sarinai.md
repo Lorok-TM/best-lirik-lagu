@@ -2,7 +2,7 @@
 title: "Nabila Moure - Sahujan Indak Sarinai"
 date: 2026-08-14
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 

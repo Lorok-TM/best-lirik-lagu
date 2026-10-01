@@ -2,7 +2,7 @@
 title: "Soro Ni Ariki - Nagabe Trio"
 date: 2025-06-25
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Soro ni arikki Da bagianku lapungi Sugari boi ma nian au habang Songon lali habangan Satokkinon do au ro Mandulo ho inang

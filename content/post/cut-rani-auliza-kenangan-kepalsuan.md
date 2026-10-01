@@ -2,7 +2,7 @@
 title: "Cut Rani Auliza - Kenangan Kepalsuan"
 date: 2025-07-20
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Bertahun lamanya ku menunggu Kebahagiaan bersama mu Hilang semua harapan cinta Yang telah kita bina

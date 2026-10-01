@@ -2,7 +2,7 @@
 title: "Iche Br Ginting - Samapal dan Artinya (Sada Matawari Pe Ateku Lanai)"
 date: 2023-07-31
 categories: 
-  - "karo"
+  - "Karo"
 ---
 
 Iche Br Ginting bersama Prima Sora rilis single dengan lirik dalam bahasa daerah Karo berjudul "Samapal" kependekan / singkatan dari "Sada Matawari Pe Ateku Lanai" yang artinya "Sehari Pun Aku Tidak Cinta Lagi", menceritakan tentang seseorang yang sudah tak mau lagi menjalin cinta dengan kekasihnya. Untuk lebih jelasnya silahkan Anda baca terjemahan lirik lagunya berada dibawah.

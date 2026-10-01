@@ -2,7 +2,7 @@
 title: "Roje Firdaus - Jan Ditanyo Tapi Diraso feat. Silva Hayati"
 date: 2025-09-18
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Ditanyo janlah ditanyo Dalamnyo kasiah jo sayang Diraso kanlah diraso A juo lai diak nan kurang

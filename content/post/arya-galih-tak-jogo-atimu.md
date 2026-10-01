@@ -2,7 +2,7 @@
 title: "Arya Galih - Tak Jogo Atimu"
 date: 2026-05-27
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 

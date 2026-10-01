@@ -2,7 +2,7 @@
 title: "Atemmuh Sakalean - Winda Nefira - Fajar Syahid"
 date: 2024-09-10
 categories: 
-  - "madura"
+  - "Madura"
 ---
 
 Napa duh se epasang Dhika de ka bule Atemmoh sakalean Bule duh taghudeh Asmara ecapo asmara Ben dhika duh etuwe napah

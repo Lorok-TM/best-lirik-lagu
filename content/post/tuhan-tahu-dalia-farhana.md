@@ -2,7 +2,7 @@
 title: "Tuhan Tahu - Dalia Farhana"
 date: 2025-02-09
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Tuhan Tahu yang dibawakan oleh Dalia Farhana.

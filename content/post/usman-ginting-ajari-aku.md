@@ -2,7 +2,7 @@
 title: "Usman Ginting - Ajari Aku"
 date: 2024-04-23
 categories: 
-  - "karo"
+  - "Karo"
 ---
 
 **Lirik Ajari Aku - Usman Ginting**

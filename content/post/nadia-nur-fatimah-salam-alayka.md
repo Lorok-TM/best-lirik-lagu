@@ -2,8 +2,8 @@
 title: "Nadia Nur Fatimah - Salam Alayka (سَلاَمْ عَلَيْكَ) Arab, English"
 date: 2020-05-21
 categories: 
-  - "arab"
-  - "religi"
+  - "Arab"
+  - "Religi"
 ---
 
 ## Lirik Lagu ”Salam Alayka / Ya Nabi Salam Alaika“ cover by Nadia Nur Fatimah

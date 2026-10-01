@@ -2,7 +2,7 @@
 title: "Roje Firdaus - Denai Gagang Tabuang"
 date: 2026-09-11
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Usah Dibayangkan Sanang Hiduik Jo Denai Denai Ko Hanyo Umpamo Gagang Tabuang Rintang Bausaho Tumbuang Antaro Hujan Rinai Jo Paneh Garang

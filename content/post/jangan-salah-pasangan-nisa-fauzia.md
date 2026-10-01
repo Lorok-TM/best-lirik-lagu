@@ -2,7 +2,7 @@
 title: "Jangan Salah Pasangan - Nisa Fauzia"
 date: 2025-02-06
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Jangan Salah Pasangan yang dibawakan oleh Nisa Fauzia.

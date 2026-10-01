@@ -2,8 +2,7 @@
 title: "Sawer - Dike Sabrina"
 date: 2026-07-24
 categories: 
-  - "dangdut"
-  - "java"
+  - "Jawa"
 ---
 
 Sa..wer.. Sa..wer.. Wer.. Wer.. Wer.. Wer.. Wer. Sa..wer… Sa..wer… Wer.. Wer.. Wer.. Wer.. Wer. Sa.. Sa.. Sa.. Sa.. Sa.. Wer.. Wer.. Wer.. Wer.. Wer.. Sawer, sawer, sawer Sawer, sawer, sawer

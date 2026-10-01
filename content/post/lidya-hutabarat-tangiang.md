@@ -2,7 +2,7 @@
 title: "Lidya Hutabarat - Tangiang"
 date: 2025-06-23
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Mauliate Tuhan Denggan ni basa mi dingoluku Dilehon ho do di au Natoras na burju Jala parholong Dang hahurangan au

@@ -2,7 +2,7 @@
 title: "Siantar Rap Foundation - Marsada Marbisuk Marroha Feat Wahyu Sibuea"
 date: 2025-07-05
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Marsada marbisuk marroha na gok Marsiogu-toguan martutur malo Marsianju-anjuan marsaor na denggan Martua ma di ngolui

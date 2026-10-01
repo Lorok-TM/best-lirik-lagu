@@ -2,7 +2,7 @@
 title: "Anggi Rayns feat. Yaya Nadila - Bukan Ameh Jo Ringgik"
 date: 2022-10-25
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Lirik Lagu Pop Minang dengan judul Bukan Ameh Jo Ringgik yang dinyanyikan oleh Anggi Rayns Ft. Yaya Nadila dan diciptakan oleh Erwin Agam. Situs ini tidak menyediakan chord dasar / kunci gitar lagu ini. Halaman ini hanya menuliskan syair / liriknya saja. Berikut dibawah ini lyrics lengkapnya. Semoga lagu ini dapat menghibur anda.

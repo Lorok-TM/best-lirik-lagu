@@ -2,7 +2,7 @@
 title: "Appu Lahagu - Tambo I'a Bele"
 date: 2025-11-23
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 Tambo nia i'a bele Fafali fali tou gahe Lõtatu legania bale Sara danga yawa le

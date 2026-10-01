@@ -2,7 +2,7 @@
 title: "Abay - Gadang Di Rantau"
 date: 2025-08-24
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Nan marunduak padi Nan malaua batuang Dianjuang bana Tak mintak tinggih

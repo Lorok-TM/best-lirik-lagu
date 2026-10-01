@@ -2,7 +2,7 @@
 title: "Ku Memohon Belas KasihMu - Ellen Mamo"
 date: 2025-04-06
 categories: 
-  - "rohani"
+  - "Rohani"
 ---
 
 Hanya Engkau Tuhan Hanya Engkau tempat ku mengadu Dan memohon belas kasihMu Ya Bapa

@@ -2,7 +2,7 @@
 title: "Qolbi Shoghir - Anisa Rahman"
 date: 2026-07-29
 categories: 
-  - "religi"
+  - "Religi"
 ---
 
 HIINAW LITTU A’THOITANII (Ketika aku lahir engkau berikan kepadaku)

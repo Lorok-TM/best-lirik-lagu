@@ -2,7 +2,7 @@
 title: "Prasetya Yoga - Abu Di Ateh Tungku"
 date: 2024-05-23
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 **Lirik Abu Di Ateh Tungku - Prasetya Yoga**

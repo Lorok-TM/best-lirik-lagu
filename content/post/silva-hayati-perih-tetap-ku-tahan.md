@@ -2,7 +2,7 @@
 title: "Silva Hayati - Perih Tetap Ku Tahan"
 date: 2026-09-05
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Aku kan slalu berdoa untukmu Walau hatiku tak mungkin sembuh Yang terluka karenamu

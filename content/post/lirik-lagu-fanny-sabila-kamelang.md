@@ -2,7 +2,7 @@
 title: "Fanny Sabila - Kamelang dan Artinya"
 date: 2021-06-02
 categories: 
-  - "sunda"
+  - "Sunda"
 ---
 
 ## Lirik Lagu Sunda ”Kamelang“ by Fanny Sabila

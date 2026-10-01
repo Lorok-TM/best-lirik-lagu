@@ -2,7 +2,7 @@
 title: "Te Ibönö Zi Sakali - Jenita Gulo"
 date: 2025-01-03
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Te Ibönö Zi Sakali - Jenita Gulo yang dibawakan oleh Jenita Gulo.

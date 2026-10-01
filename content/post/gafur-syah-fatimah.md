@@ -2,7 +2,7 @@
 title: "Gafur Syah - Fatimah"
 date: 2016-11-13
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Title : Fatimah Artist : Gafur Syah Songwriter : Ujang Virgo Category : Lagu Minang

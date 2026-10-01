@@ -2,7 +2,7 @@
 title: "Salam Lewat Mimpi - Asbak Band"
 date: 2026-07-27
 categories: 
-  - "band"
+  - "Band"
 ---
 
 Saat ku termenung sendiri Mengingat semua yang terjaid Saat saat indah bersamamu dulu Kuingin kau hadir di sini Menikmati waktu berganti Sampai esok pagi datang lagi

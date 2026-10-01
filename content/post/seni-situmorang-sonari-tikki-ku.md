@@ -2,7 +2,7 @@
 title: "Seni Situmorang - Sonari Tikki Ku"
 date: 2025-09-09
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Hu haholongi do ho Disarihon ho do au Dibahen ho songon dirim Ias roham

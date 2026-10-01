@@ -2,7 +2,7 @@
 title: "Tunjukkan JalanMu - Putri Siagian"
 date: 2024-12-08
 categories: 
-  - "rohani"
+  - "Rohani"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Tunjukkan JalanMu yang dibawakan oleh Putri Siagian.

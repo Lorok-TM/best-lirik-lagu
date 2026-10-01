@@ -2,7 +2,7 @@
 title: "Ziell Ferdian - Yakinkanlah Sayang"
 date: 2026-05-26
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 

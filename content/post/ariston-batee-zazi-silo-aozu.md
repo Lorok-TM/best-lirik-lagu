@@ -2,7 +2,7 @@
 title: "Ariston Bate'e - Zazi Silo Aozu"
 date: 2025-07-17
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 Ba mböröta falukha khömö So khögu wa edöna dödö Ba waigi sikhalau he amuata mö

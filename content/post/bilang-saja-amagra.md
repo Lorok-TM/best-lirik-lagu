@@ -2,7 +2,7 @@
 title: "Bilang Saja - Amagra"
 date: 2026-07-31
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Lagu bertajuk Bilang Saja yang dibawakan oleh penyanyi pendatang baru Amagra mengusung latar belakang cerita tentang dinamika romansa dan fase emosional remaja masa kini yang penuh dengan ekspresi kejujuran. Secara filosofis, karya pop ringan bermelodi dinamis yang ditulis bersama Tintin Layardo dan Clara Riva ini merekam transisi psikologis generasi muda dalam mengomunikasikan perasaan secara lugas, percaya diri, serta bebas dari kerumitan hubungan orang dewasa. Melalui aransemen yang ceria dan penuh energi positif, tembang ini tidak sekadar menjadi medium hiburan, melainkan sebuah representasi kejujuran afeksi yang menekankan pentingnya keterbukaan sikap dalam menyikapi ketertarikan antarindividu tanpa harus menyembunyikan identitas diri.

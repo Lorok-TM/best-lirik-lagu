@@ -2,7 +2,7 @@
 title: "Egois - DJ Mahesa Feat. Tika Pagraky"
 date: 2024-07-14
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 **Berikut lirik Egois yang dinyanyikan oleh DJ Mahesa Feat Tika Pagraky.**

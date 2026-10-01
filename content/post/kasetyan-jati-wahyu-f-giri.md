@@ -2,7 +2,7 @@
 title: "Kasetyan Jati - Wahyu F Giri"
 date: 2025-03-22
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 Hywang candra wus ilang citrane Mendhung peteng nglimputi cahyane Riwis ngantheni kapangku Amung sira pepujan atiku

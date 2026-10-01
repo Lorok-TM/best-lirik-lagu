@@ -2,7 +2,7 @@
 title: "Usailah - Muhammad Rifai"
 date: 2024-12-30
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Usailah yang dibawakan oleh Muhammad Rifai.

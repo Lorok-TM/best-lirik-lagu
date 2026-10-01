@@ -2,7 +2,7 @@
 title: "Setelah Tak Bersama - Rahma Rahmi"
 date: 2026-06-05
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 

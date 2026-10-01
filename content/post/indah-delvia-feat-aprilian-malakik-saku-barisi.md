@@ -2,7 +2,7 @@
 title: "Indah Delvia feat. Aprilian - Malakik Saku Barisi"
 date: 2026-01-01
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Saumpamo biduak lah balahia Indak ka mungkin da basuruik ka tapi

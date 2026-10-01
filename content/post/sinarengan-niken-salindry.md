@@ -2,7 +2,7 @@
 title: "Sinarengan - Niken Salindry"
 date: 2025-04-17
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Kedaden tenan nduwe omah sing ra berisik Kebak katresnan Kebak kasih lan sayang

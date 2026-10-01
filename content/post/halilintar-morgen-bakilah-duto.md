@@ -2,7 +2,7 @@
 title: "Halilintar Morgen - Bakilah Duto"
 date: 2025-08-24
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Kama kadenai surukkan tangih Tampak badarai si aia mato Nan jatuah mambasihi muko Ulah cinto denai taluko

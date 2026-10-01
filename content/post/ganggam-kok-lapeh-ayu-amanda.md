@@ -2,7 +2,7 @@
 title: "Ganggam Kok Lapeh - Ayu Amanda"
 date: 2025-01-07
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Ganggam Kok Lapeh yang dibawakan oleh Ayu Amanda.

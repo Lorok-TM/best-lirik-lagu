@@ -2,7 +2,7 @@
 title: "Wuyung - Ajeng Febria"
 date: 2026-07-03
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 

@@ -2,7 +2,7 @@
 title: "Sihol Tu Dainang - Arghana Trio"
 date: 2025-04-01
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Sihol Tu Dainang yang dibawakan oleh Arghana Trio.

@@ -2,7 +2,7 @@
 title: "Sing Maan Ngitungang - Yudi Kresna"
 date: 2024-06-28
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 **Lirik Sing Maan Ngitungang - Yudi Kresna**

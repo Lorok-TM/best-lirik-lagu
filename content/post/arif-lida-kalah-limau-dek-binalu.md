@@ -2,7 +2,7 @@
 title: "Arif Lida - Kalah Limau Dek Binalu"
 date: 2025-11-02
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Mangko nyo rencak kilek suaso Dek lai pandai denai baminyak aia Dilua galak hati taluko Bansaik badan yo alah takadia 2x

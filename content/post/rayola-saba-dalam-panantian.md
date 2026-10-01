@@ -2,7 +2,7 @@
 title: "Rayola - Saba Dalam Panantian"
 date: 2025-08-03
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Di malam nan dingin ko di bawah cahayo bulan Tabayang uda pautan hati Jauah jarak nan tabantang Rindu taraso mandalam kama batenggang Patamuan nan di nanti antah bilo ka tajadi Sansai dek mananti

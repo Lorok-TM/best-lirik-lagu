@@ -2,8 +2,7 @@
 title: "Jithul Sumarji - Ronce Ronce"
 date: 2020-12-24
 categories: 
-  - "campursari"
-  - "java"
+  - "Campursari"
 ---
 
 Title : Ronce Ronce Artist : Jithul Songwriter : Sumarji Label : Teta Record Category : Langgam Campursari Jawa

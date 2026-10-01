@@ -2,7 +2,7 @@
 title: "Rheka Restu - Kuingin Dia Untukku"
 date: 2025-05-03
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Verse : Andaikan takdir dapat ku ukir.. Dengan kedua tangan ini.. Kupastikan hanya dia.. Yang aku cinta..

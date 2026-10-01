@@ -2,7 +2,7 @@
 title: "Arghado Trio - Jolma Biasa"
 date: 2025-08-09
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Husadari do dirikku na humurang Sian na hea na gabe mantanmi Di rupa nang di arta jolma biasa do au Holonghi do na hupangasahon lao pasonanghon ho

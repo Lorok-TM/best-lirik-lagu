@@ -2,7 +2,7 @@
 title: "Afeto Afoe Aiso - Koleb Trio"
 date: 2025-05-13
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 Fao lawuo we’e awogu Dofi zolosi tawa horogu Metalu mbongi ulau mowengu Moido mukoli badano sarou

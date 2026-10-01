@@ -2,7 +2,7 @@
 title: "Cubalah Kau Mengerti - Thomas Arya feat. Iqa Nizam"
 date: 2025-02-23
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 Rindu lama kian mendalam Padamu insan Yang aku puja selama ini engkau dimana Dengarkan keluhan hati ini oh kekasih

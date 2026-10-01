@@ -2,7 +2,7 @@
 title: "Eno Viola - Raso Kasampai"
 date: 2023-06-07
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Uda nan surang di rumah gadang Mandayo hati siang jo malam Dek manuruikkan katonyo hati Sampai den lupo bacamin diri Dek manuruikkan katonyo hati Sampai den lupo bacamin diri

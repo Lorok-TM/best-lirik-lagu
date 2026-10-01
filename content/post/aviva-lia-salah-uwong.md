@@ -2,7 +2,7 @@
 title: "Aviva Lia - Salah Uwong"
 date: 2025-11-09
 categories: 
-  - "tarling"
+  - "Tarling"
 ---
 
 Tekane ngupai harapan Ngucap janji ngomonge sayang Ternyata kula wis ketipu Rayuan cinta palsu

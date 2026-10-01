@@ -2,7 +2,7 @@
 title: "Lala Atila - Kawitaning Sinawang"
 date: 2025-06-08
 categories: 
-  - "campursari"
+  - "Campursari"
 ---
 
 Koyo ngene yen nandhang loro asmoro Jroning nolo mangambar arum puspito Dahat rasaku sesandhing marang sliramu Dyah ayu memanike jantungku

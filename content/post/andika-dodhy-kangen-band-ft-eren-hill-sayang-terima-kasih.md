@@ -2,7 +2,7 @@
 title: "Andika & Dodhy Kangen Band ft. Eren Hill - Sayang Terima Kasih"
 date: 2025-04-26
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Verse : Kasih dengarkanlah aku.. Janganlah kamu begitu.. Slalu menyakiti aku.. Di mana perasaanmu..?

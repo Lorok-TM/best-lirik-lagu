@@ -2,7 +2,7 @@
 title: "Kitir Sumilir - Lala Atila"
 date: 2025-03-11
 categories: 
-  - "campursari"
+  - "Campursari"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Kitir Sumilir yang dibawakan oleh Lala Atila.

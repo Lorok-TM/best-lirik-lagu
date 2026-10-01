@@ -2,7 +2,7 @@
 title: "Nani Masnur - Soroq Takkendeq"
 date: 2025-11-09
 categories: 
-  - "mandar"
+  - "Mandar"
 ---
 
 Polemooq maqanna pau Mettuleq tangalalang

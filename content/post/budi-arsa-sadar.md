@@ -2,7 +2,7 @@
 title: "Budi Arsa - Sadar"
 date: 2022-03-31
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 ## Lirik Lagu Bali “Sadar” by Budi Arsa

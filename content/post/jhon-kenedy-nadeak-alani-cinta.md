@@ -2,7 +2,7 @@
 title: "Jhon Kenedy Nadeak - Alani Cinta"
 date: 2025-07-08
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Didia do inganan ni holong na uli i Holong na noi sipasonang roha i Sahat tu andigan do au paimahon ho Nunga lao ho mungkin dang ra be mulak

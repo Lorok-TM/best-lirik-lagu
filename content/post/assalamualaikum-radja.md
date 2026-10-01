@@ -2,7 +2,7 @@
 title: "Assalamualaikum - Radja"
 date: 2025-04-09
 categories: 
-  - "religi"
+  - "Religi"
 ---
 
 Verse : Bila kita mendengar.. Ada ucapan salam.. Mari kita bahagia.. Untuk kedamaian..

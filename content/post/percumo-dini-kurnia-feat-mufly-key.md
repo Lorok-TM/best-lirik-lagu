@@ -2,7 +2,7 @@
 title: "Percumo - Dini Kurnia feat. Mufly Key"
 date: 2026-07-22
 categories: 
-  - "dangdut"
+  - "Dangdut"
   - "osing"
 ---
 

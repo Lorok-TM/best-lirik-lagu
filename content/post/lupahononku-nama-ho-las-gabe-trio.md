@@ -2,7 +2,7 @@
 title: "Lupahononku Nama Ho - Las Gabe Trio"
 date: 2026-07-20
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Salelengon hu bahen nasa tolaphu Hu lehon do sude pangidoanmu Asal ma sonang ho hasian Salelengna di lambunghi

@@ -2,7 +2,7 @@
 title: "Masih Terjebak - Omcon SB"
 date: 2026-08-06
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 Lagu bertajuk "Masih Terjebak" yang dibawakan oleh grup musik Omcon SB dan diciptakan oleh Barithon Jimmy Levison Waramori mengeksplorasi kondisi psikologis individu yang mengalami stagnasi emosional pasca-berakhirnya suatu hubungan. Secara filosofis, narasi dalam karya ini menyoroti konflik internal antara rasionalitas yang menuntut kedewasaan untuk melepaskan masa lalu, dan realitas afektif yang melanggengkan keterikatan ingatan. Latar belakang cerita berfokus pada ketidakberdayaan seseorang dalam menghadapi sisa-sisa memori kolektif yang masih membekas, sehingga memicu distorsi emosional yang menjebak subjek dalam siklus penyesalan serta harapan yang tidak lagi realistis. Melalui pendekatan lirik yang lugas, komposisi ini merefleksikan bahwa keterjebakan emosional bukan sekadar bentuk kegagalan melupakan, melainkan sebuah proses transisi psikologis yang belum usai dalam menerima kenyataan baru.

@@ -2,7 +2,7 @@
 title: "Bulan Triana - Jatun Pangulih dan Artinya"
 date: 2021-04-15
 categories: 
-  - "dayak"
+  - "Dayak"
   - "remix"
 ---
 

@@ -2,7 +2,7 @@
 title: "Jek Gulo - Sanului Arö Nawö"
 date: 2026-04-10
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 

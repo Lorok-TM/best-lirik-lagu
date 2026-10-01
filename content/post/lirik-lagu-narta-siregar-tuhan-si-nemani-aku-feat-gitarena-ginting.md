@@ -2,8 +2,8 @@
 title: "Narta Siregar feat Gitarena Ginting - Tuhan Si Nemani Aku dan Artinya"
 date: 2021-12-27
 categories: 
-  - "karo"
-  - "rohani"
+  - "Karo"
+  - "Rohani"
 ---
 
 Title : Tuhan Si Nemani Aku Artist : Narta Siregar ft Gitarena Br Ginting Songwriter : Soni Purba Production : Mayang Manggi Pro Category : Lagu Pop Karo

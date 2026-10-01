@@ -2,7 +2,7 @@
 title: "Bobby Purba - Ibana Do"
 date: 2025-10-01
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Ibana do na ro tu au dihasusaan hi Ibana do manggohi na humurang i di au Ai tung holan ibana na mangantusi au Manganju anju au

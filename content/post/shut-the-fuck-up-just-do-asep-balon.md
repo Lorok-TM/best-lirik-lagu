@@ -2,7 +2,7 @@
 title: "Shut The Fuck Up Just Do - Asep Balon"
 date: 2025-04-24
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Ini aku mode kyubi Tidak terkendali aku bagai tari sufi Aku terus evolusi persetan industri Karena seni tak bisa dibatasi jeruji

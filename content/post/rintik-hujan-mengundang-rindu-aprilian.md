@@ -2,7 +2,7 @@
 title: "Rintik Hujan Mengundang Rindu - Aprilian"
 date: 2025-04-05
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 Rintik hujan yang turun Membasahi jendela kamarku Teringat akan sumpah setiamu Yang kau sebut dahulu

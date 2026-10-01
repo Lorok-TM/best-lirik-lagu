@@ -2,7 +2,7 @@
 title: "The Boy's Trio - Ulinai Boru Ni Raja"
 date: 2025-11-29
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Mancai godang do huida anak boru Uli bagak songon artis Korea Boru Jawa boru Sunda Bagak bagak akka pangeol na

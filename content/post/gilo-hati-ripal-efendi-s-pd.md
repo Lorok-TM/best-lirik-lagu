@@ -2,7 +2,7 @@
 title: "Gilo Hati - Ripal Efendi S.Pd"
 date: 2024-09-02
 categories: 
-  - "kerinci"
+  - "Kerinci"
 ---
 
 Simpang tigo jalan lah simumu Jalan teruh diku koto payang Simpang tigo jalan lah simumu Jalan teruh diku koto payang

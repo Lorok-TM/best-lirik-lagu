@@ -2,7 +2,7 @@
 title: "Aan Aniza - Rangda Kali Menir dan Artinya"
 date: 2021-12-03
 categories: 
-  - "tarling"
+  - "Tarling"
 ---
 
 Title : Rangda Kali Menir Artist : Aan Aniza Songwriter : Amin Hermawan Category : Lagu Tarling

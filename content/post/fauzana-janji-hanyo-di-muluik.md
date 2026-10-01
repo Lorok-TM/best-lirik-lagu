@@ -2,7 +2,7 @@
 title: "Fauzana - Janji Hanyo Di Muluik"
 date: 2022-08-24
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Daulu uda bakato sayang nan sabana cinto Hanyolah diri denai ko Tapi kini nan tajadi lain rupo nan tasuo Sampai hati uda mambari luko

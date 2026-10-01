@@ -2,7 +2,7 @@
 title: "Aidilla - Kabau Lapeh Pangimpau"
 date: 2026-09-04
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Dek ulah pandai cadiak talampau Tampek batenggang di paratue juo Candolah kabau lapeh pangimpau Cayia pamatang di lalunyo Candolah kabau lapeh pangimpau Cayia pamatang di lalunyo

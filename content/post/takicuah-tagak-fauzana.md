@@ -2,7 +2,7 @@
 title: "Takicuah Tagak - Fauzana"
 date: 2025-06-12
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Batutuik mato nan jo hati Indak ka manduokan cinto Ba janji jo uda Bak raso nan indak ka baungkai

@@ -2,7 +2,7 @@
 title: "Ketan Endok Susu - Dini Kurnia"
 date: 2025-07-03
 categories: 
-  - "osing"
+  - "Osing"
 ---
 
 Malem minggu paling enak nong lesehan Ambi gesah lungguh bareng sak koncoan Pelayane jarene magih anyaran Warung pojok remeng-remeng pinggir dalan

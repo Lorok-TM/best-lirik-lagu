@@ -2,7 +2,7 @@
 title: "Cut Rani Auliza - Lagu Rindu"
 date: 2025-08-18
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Bila malam selalu terbayang Wajah manis senyummu sayang Memanggil indah namaku Sungguh diriku sangat rindu

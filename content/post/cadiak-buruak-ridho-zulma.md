@@ -2,7 +2,7 @@
 title: "Cadiak Buruak - Ridho Zulma"
 date: 2025-01-22
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Cadiak Buruak yang dibawakan oleh Ridho Zulma.

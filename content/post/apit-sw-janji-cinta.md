@@ -2,7 +2,7 @@
 title: "Apit SW - Janji Cinta"
 date: 2023-05-16
 categories: 
-  - "malaysia"
+  - "Malaysia"
 ---
 
 Lirik Lagu Malaysia dengan judul Janji Cinta yang dinyanyikan oleh Apit SW dan diciptakan oleh Akhmal Daniel dengan irama musik Slow Rock.

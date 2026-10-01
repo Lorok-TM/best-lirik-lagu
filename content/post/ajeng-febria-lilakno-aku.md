@@ -2,7 +2,7 @@
 title: "Ajeng Febria - Lilakno Aku"
 date: 2026-06-29
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 Lilakno aku ikhlasno aku Yen pancen iki wis ora perlu Menjadikanku orang kedua Hatiku sungguh tak rela

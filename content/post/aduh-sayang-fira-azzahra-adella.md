@@ -2,7 +2,7 @@
 title: "Aduh Sayang - Fira Azzahra Adella"
 date: 2025-02-27
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Aduh Sayang yang dibawakan oleh Fira Azzahra Adella.

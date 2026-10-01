@@ -2,7 +2,7 @@
 title: "Dabee feat. Indah KF - Bacakak Buliah Bacarai Jangan"
 date: 2025-06-24
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Lah sanang mangko kabaraliah Karam juo biduak alun balaia Dulu nan satujuan kini balain angan Denai dayuang ka tangah, adiak nan katapian

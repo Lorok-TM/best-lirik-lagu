@@ -2,7 +2,7 @@
 title: "Rayola - Bagimu Aku Siapa"
 date: 2023-01-17
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Rayola bersama Teras Musik rilis single Melayu berjudul "Bagimu Aku Siapa" yang diciptakan oleh Izhal Khatanza, menceritakan tentang sikap seorang kekasih yang tidak menghargai pasangannya dan justru menyakiti hatinya.

@@ -2,7 +2,7 @@
 title: "Putra Duha - Lala Wa'auri"
 date: 2025-05-22
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 Duhu wa oriri khögu lala wa'auri Lö famakhili wa'afökhö sino urasoi Sandrohu fa'auri i lilido fa'audi Lö irai faröI wa'obou harazaki

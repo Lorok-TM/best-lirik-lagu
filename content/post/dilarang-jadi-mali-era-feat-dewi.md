@@ -2,7 +2,7 @@
 title: "Dilarang Jadi Mali - Era Feat Dewi"
 date: 2024-12-03
 categories: 
-  - "dayak"
+  - "Dayak"
 ---
 
 Ku kenang kenang agik ku ngenang Ngenang semaya tua bujang Dekak begulai belaki bini Apai engau indai sama nadai nyagi

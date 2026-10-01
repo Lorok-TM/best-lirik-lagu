@@ -2,7 +2,7 @@
 title: "Luruih Salah Bakelok Apo Lai - David Iztambul"
 date: 2026-05-31
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 

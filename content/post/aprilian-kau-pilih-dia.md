@@ -2,7 +2,7 @@
 title: "Aprilian - Kau Pilih Dia"
 date: 2023-03-19
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Lirik Lagu Melayu dengan judul Kau Pilih Dia yang dinyanyikan oleh Aprilian dan diciptakan oleh Amri Damanin dengan irama musik Pop.

@@ -2,7 +2,7 @@
 title: "Ono Zibayada Talu - Daniel Folala Zalukhu"
 date: 2025-04-24
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 He na aröu ba hörö Ahatò ba dödö Bòi angiwa dödöu khi Lala döröwagu

@@ -2,7 +2,7 @@
 title: "Nurul Munira feat. Fahmi - Sabe Sajan"
 date: 2025-08-18
 categories: 
-  - "aceh"
+  - "Aceh"
 ---
 
 Indah buleun di langet manyang Saban deungen wajah gata Sama-sama mangat ta pandang Ban cahya bintang senyuman dinda

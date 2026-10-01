@@ -2,7 +2,7 @@
 title: "Lintu - Ajeng Febria"
 date: 2025-02-23
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 Tumetes iluh ning ngisore rembulan iki Ngilingi kowe sing tak tresnani Gambaran crito sing wes ono ning lamunanku Rabakal nyongko nggerus atiku

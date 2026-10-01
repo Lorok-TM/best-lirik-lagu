@@ -2,7 +2,7 @@
 title: "Utema'o Sifao Fangandro - Firman S Bate'e"
 date: 2025-05-14
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 Fatuno khogu hadia ziso badodo Ena’o u’ila nafatehe nalo’o No utandraigo wangifigu tuho dodo Hasambalo aetu khogu ndraugo

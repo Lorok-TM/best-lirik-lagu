@@ -2,7 +2,7 @@
 title: "Siji Di Ping Selawe - Trio Macan"
 date: 2026-05-02
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 

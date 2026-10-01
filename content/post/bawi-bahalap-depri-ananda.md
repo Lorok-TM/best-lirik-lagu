@@ -2,7 +2,7 @@
 title: "Bawi Bahalap - Depri Ananda"
 date: 2026-09-14
 categories: 
-  - "dayak"
+  - "Dayak"
 ---
 
 Oy ading bawi bahalap Kambang malati bapupus bilang baputi Handau hamalem taganang bitim Ikau andi je paling inyayang

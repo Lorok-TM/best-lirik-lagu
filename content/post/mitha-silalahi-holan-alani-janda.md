@@ -2,7 +2,7 @@
 title: "Mitha Silalahi - Holan Alani Janda"
 date: 2025-10-01
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Aha do abang namanegai pikkiranmi Begu aha do abang nasorop dirohami Tega ho abang manegai rumah tanggata Dukkon ditanda ho sijanda namorai

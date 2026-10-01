@@ -2,7 +2,7 @@
 title: "Bernadya - Sebelum Jadi Panjang"
 date: 2026-06-24
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Acara keluarga di tempat biasanya Ramai tukar cerita Tinggal tunggu giliran, aku akan dikupas tuntas Sampai mereka puas dengar

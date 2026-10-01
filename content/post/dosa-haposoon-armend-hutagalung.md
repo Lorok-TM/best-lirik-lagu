@@ -2,7 +2,7 @@
 title: "Dosa Haposoon - Armend Hutagalung"
 date: 2025-04-15
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Ganjang ni sidalanan naung hu bolus i So marna jumpang au na hu parsitta i Atik na so dijalo be tangiangki Hinorhon ni balga ni dosakki tahe Di hapoosonki

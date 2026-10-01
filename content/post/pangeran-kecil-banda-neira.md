@@ -2,7 +2,7 @@
 title: "Pangeran Kecil - Banda Neira"
 date: 2026-07-16
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Tidur tidurlah sayang Esok kan segera datang Tutup buku kesayanganmu itu Esok atau lusa kita buka kembali

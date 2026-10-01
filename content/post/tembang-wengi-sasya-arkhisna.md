@@ -2,7 +2,7 @@
 title: "Tembang Wengi - Sasya Arkhisna"
 date: 2025-03-25
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Tak eling eling Esemmu ngangeni Wes pirang wengi Nandang kasmaran iki Wes tak cubo Ngilangke ning ati Nanging soyo Kangen setengah mati

@@ -2,7 +2,7 @@
 title: "Jembet - Iis Wibowo"
 date: 2024-07-26
 categories: 
-  - "tarling"
+  - "Tarling"
 ---
 
 Wis sejen dalan ceritane Sampean wis sejen sipate Kaya wis mari demen kulane Apa kien wis duwe sejene

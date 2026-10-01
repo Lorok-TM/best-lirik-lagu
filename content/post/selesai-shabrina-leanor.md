@@ -2,7 +2,7 @@
 title: "Selesai - Shabrina Leanor"
 date: 2026-07-17
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Niatnya ringankanmu dengarkan cerita Tentang dia malah cemburu jadinya Malam kirim berita ciumanmu pertama Turut senang kucoba di dalam luka Bertahan tak bisa Jadi teman dengarmu yang setia

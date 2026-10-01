@@ -2,7 +2,7 @@
 title: "Elsa Pitaloka - Lebih Dari Teman Biasa"
 date: 2026-08-21
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 

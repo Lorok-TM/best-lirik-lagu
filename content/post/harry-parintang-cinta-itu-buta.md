@@ -2,7 +2,7 @@
 title: "Harry Parintang - Cinta Itu Buta"
 date: 2023-02-18
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Lirik Lagu Melayu dengan judul Cinta Itu Buta yang dinyanyikan oleh Harry Parintang dan diciptakan oleh Saari Amri, Habsah Hasan, Remy S dengan irama musik Pop.

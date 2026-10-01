@@ -2,7 +2,7 @@
 title: "Memori Kampus Unimed - Basados Trio"
 date: 2025-01-28
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Memori Kampus Unimed yang dibawakan oleh Basados Trio.

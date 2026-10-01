@@ -2,8 +2,7 @@
 title: "Dinda Teratu - Tanpo Hubungan"
 date: 2026-07-21
 categories: 
-  - "dangdut"
-  - "java"
+  - "Jawa"
 ---
 
 Haa Cobo bayangno Yen bebarengan Ngukir katresnan Bungah ra karuan Hoo roso sayang Sayangg Wes ketok,tenanan Nyatane, dadi asing, tanpo hubungan

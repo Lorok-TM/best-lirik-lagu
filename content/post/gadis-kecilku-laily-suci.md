@@ -2,7 +2,7 @@
 title: "Gadis Kecilku - Laily Suci"
 date: 2026-07-15
 categories: 
-  - "remix"
+  - "Remix"
 ---
 
 Jika suatu hari nanti kau bimbang Menjalani rintangan kehidupan Jangan takut Jangan khawatir Ada mama papa Yang selalu menjadi pelindung mu

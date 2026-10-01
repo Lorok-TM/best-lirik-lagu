@@ -2,7 +2,7 @@
 title: "Najwa Ft Carlos - Talak Jan Sampai Tigo Kali"
 date: 2023-04-30
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Lirik Lagu Minang dengan judul Talak Jan Sampai Tigo Kali yang dinyanyikan oleh Najwa Feat. Carlos dan diciptakan oleh Syahrel Putra dengan irama musik Pop.

@@ -2,7 +2,7 @@
 title: "Rajiq Perdana - Timang Sayang"
 date: 2025-09-11
 categories: 
-  - "aceh"
+  - "Aceh"
 ---
 
 Hate rindu sabe rindu Keu gata Bungong meulu yang lon cinta

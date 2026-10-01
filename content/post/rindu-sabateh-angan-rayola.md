@@ -2,7 +2,7 @@
 title: "Rindu Sabateh Angan - Rayola"
 date: 2025-06-24
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Manga uda datang jikok nan ka mahilang Manyintuah lintuah kan hati nangko Marindu rindu dek ulah cinto

@@ -2,7 +2,7 @@
 title: "Slenco - Lala Atila Feat Fallden"
 date: 2025-02-17
 categories: 
-  - "campursari"
+  - "Campursari"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Slenco yang dibawakan oleh Lala Atila Feat Fallden.

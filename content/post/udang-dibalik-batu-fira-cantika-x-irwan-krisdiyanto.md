@@ -2,7 +2,7 @@
 title: "Udang Dibalik Batu - Fira Cantika X Irwan Krisdiyanto"
 date: 2026-06-24
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Kamu penipu Di belakangku Cintamu palsu Kau bilang hujan, namun tak basah, tubuhku

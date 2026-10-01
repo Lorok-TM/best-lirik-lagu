@@ -2,7 +2,7 @@
 title: "Ternak Naga - Sulis Eva Feat Gembos"
 date: 2026-07-29
 categories: 
-  - "campursari"
+  - "Campursari"
 ---
 
 Mbokne thole iki ngono wis wayahe Wetengku luwe ora ono segane Awak ndredek lemes ora ono dayane Mripat blawur ora ketok jagate

@@ -2,7 +2,7 @@
 title: "Batamu Darah Tasirok - Dike Putra"
 date: 2025-04-04
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Oi sajak mulo kito batamu Hati di dalam lah babungo-bungo Angin lalu sampaikan rindu Ka adiak surang nan den cinto Angin lalu sampaikan rindu Ka adiak surang nan den cinto

@@ -2,7 +2,7 @@
 title: "Ilang Kesabaran - Evan Daryata"
 date: 2025-02-04
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Ilang Kesabaran yang dibawakan oleh Evan Daryata.

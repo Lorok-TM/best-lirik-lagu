@@ -2,7 +2,7 @@
 title: "Sabar - Dek Panjul"
 date: 2024-07-16
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 **Berikut lirik Sabar yang dinyanyikan oleh Dek Panjul.**

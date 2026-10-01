@@ -2,7 +2,7 @@
 title: "Harry Parintang feat. Rayola - Sio Sio Manaruah Sayang"
 date: 2026-01-23
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 

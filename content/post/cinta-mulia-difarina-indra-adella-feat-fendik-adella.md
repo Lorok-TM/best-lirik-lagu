@@ -2,7 +2,7 @@
 title: "Cinta Mulia - Difarina Indra Adella Feat. Fendik Adella"
 date: 2026-07-17
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Sepasang remaja jatuh cinta Di bawah asuhan dewi asmara Disinari cahya purnama Disaksikan bintang-bintang sejuta

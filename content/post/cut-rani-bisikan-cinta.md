@@ -2,7 +2,7 @@
 title: "Cut Rani - Bisikan Cinta"
 date: 2025-12-19
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Kunang kunang Dimanakah dirimu berada Temani aku yang rindu Pada pujaan hatiku

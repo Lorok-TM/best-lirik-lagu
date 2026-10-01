@@ -2,7 +2,7 @@
 title: "Adrian Khalif - 2001x"
 date: 2026-06-23
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Mengapa sepi tanpa kau di sini Tapi tiap bertemu naik darahku lagi Se menit menyenangkan se menit menyebalkan Katanya ini yang namanya cinta

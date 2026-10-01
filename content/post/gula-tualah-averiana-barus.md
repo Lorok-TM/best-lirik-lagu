@@ -2,7 +2,7 @@
 title: "Gula Tualah - Averiana Barus"
 date: 2025-03-26
 categories: 
-  - "karo"
+  - "Karo"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Gula Tualah yang dibawakan oleh Averiana Barus.

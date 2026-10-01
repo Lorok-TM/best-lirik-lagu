@@ -2,7 +2,7 @@
 title: "Kawan Saiyo - Carlos"
 date: 2024-07-14
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 **Berikut lirik Kawan Saiyo yang dinyanyikan oleh Carlos.**

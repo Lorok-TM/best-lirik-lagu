@@ -2,7 +2,7 @@
 title: "Nirwana Trio - Gogo Di Ngolukku"
 date: 2025-11-29
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Ho do bulan ho do bintang Ho do boru arta na tarida di au Leleng do au tarpaima dohot dainangmi paimahon ho Alai tung basa do Tuhan i dilehon do ho

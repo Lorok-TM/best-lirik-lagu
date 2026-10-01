@@ -2,7 +2,7 @@
 title: "Kameloh - Puduk Puring"
 date: 2026-09-14
 categories: 
-  - "dayak"
+  - "Dayak"
 ---
 
 Aku tulus mamilih ikau Akan pandamping ku Aluh ikau dia kaya Belum dia baharga

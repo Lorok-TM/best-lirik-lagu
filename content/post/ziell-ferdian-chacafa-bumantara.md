@@ -2,7 +2,7 @@
 title: "Ziell Ferdian & Chacafa - Bumantara"
 date: 2025-05-08
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Terbentang di bumantara Luasnya cintaku Hanyalah untukmu kasih

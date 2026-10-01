@@ -2,7 +2,7 @@
 title: "Aprilian Feat Putri Livana - Berlayar Tak Bertujuan"
 date: 2023-01-19
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Aprilian & Putri Livana bersama Teras Musik rilis single Melayu berjudul "Berlayar Tak Bertujuan" yang diciptakan oleh Amri Damanin, menceritakan tentang hubungan cinta yang hanya berakhir sia sia, karena si lelaki tidak memberikan harapan tujuan yang pasti, sedangkan si wanita mengharapkan itu semua.

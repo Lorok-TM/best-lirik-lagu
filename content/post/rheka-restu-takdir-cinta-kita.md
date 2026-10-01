@@ -2,7 +2,7 @@
 title: "Rheka Restu - Takdir Cinta Kita"
 date: 2022-12-13
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Lirik Lagu Melayu dengan judul Takdir Cinta Kita yang dinyanyikan oleh Rheka Restu dan diciptakan oleh Koko dengan irama musik Pop.

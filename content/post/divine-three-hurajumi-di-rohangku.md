@@ -2,7 +2,7 @@
 title: "Divine Three - Hurajumi Di Rohangku"
 date: 2025-07-08
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Sai hulangkahon simanjojakhi Lao mandalani parngoluonon Songon na lilu so margogo au Soadong na lao gabe tudosanhi

@@ -2,7 +2,7 @@
 title: "Ajari Aku Membencimu - Elsa Pitaloka"
 date: 2025-03-12
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 Telah kucoba untuk mengerti Tapi kau terus sakiti Hatiku lagi

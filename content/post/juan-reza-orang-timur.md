@@ -2,7 +2,7 @@
 title: "Juan Reza - Orang Timur"
 date: 2025-09-02
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 Itam-itam manis itu dar mana? Yang senyum-senyum manis itu dar mana? Su pasti itu orang timur timur Senyum manis itu dari timur timur Keriting itam maniseBikin hati love male

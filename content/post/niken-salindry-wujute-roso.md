@@ -2,7 +2,7 @@
 title: "Niken Salindry - Wujute Roso"
 date: 2025-07-06
 categories: 
-  - "campursari"
+  - "Campursari"
 ---
 
 Batin sun roso perih perihe seneng Semendale atinisun dung nyawang riko Roso ngeman-ngeman noring dodo Kepingine sun rumati nong njero ati

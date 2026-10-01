@@ -2,7 +2,7 @@
 title: "Silvy Kumalasari - Lafaz Cinta"
 date: 2025-06-03
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Kamu seperti rembulan yang membawa cahaya Ke dalam malamku yang dingin gelap tak bernyawa

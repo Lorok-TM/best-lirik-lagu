@@ -2,7 +2,7 @@
 title: "Putri Kristya - Sayangmu Wes Sudo"
 date: 2025-11-02
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 Bingung rasane atiku Merga sikapmu sing suwe suwe Ora nganggep aku

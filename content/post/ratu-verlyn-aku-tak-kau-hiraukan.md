@@ -2,7 +2,7 @@
 title: "Ratu Verlyn - Aku Tak Kau Hiraukan"
 date: 2026-09-15
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 aku tak kau hiraukan.. hadirku tak kau hargai.. salahmu selalu kau ulangi..

@@ -2,7 +2,7 @@
 title: "Anggrek - Sampai Indak Basuaro"
 date: 2025-10-23
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Cinto ka uda tumbuah dari hati Lah baikek jo janji suci Hanyo uda ka tampek babagi raso Paik manihnyo kito nan punyo

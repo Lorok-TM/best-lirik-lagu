@@ -2,7 +2,7 @@
 title: "Tut Sana feat Dek Chik,ing - Ngecogin Tembok dan Artinya"
 date: 2023-06-02
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 Tut Sana & Dek Chik,ing rilis single dengan lirik dalam bahasa Bali berjudul "Ngecogin Tembok" yang artinya "Melompati Tembok", menceritakan tentang kisah seru dimasa pacaran, mau ngapelin pacar di malam hari melompati tembok sampai dikira maling. Untuk lebih jelasnya silahkan Anda baca terjemahan lirik lagunya berada dibawah.

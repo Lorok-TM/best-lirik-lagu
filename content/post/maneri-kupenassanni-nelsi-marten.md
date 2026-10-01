@@ -2,7 +2,7 @@
 title: "Maneri Kupenassanni - Nelsi Marten"
 date: 2025-06-01
 categories: 
-  - "toraja"
+  - "Toraja"
 ---
 
 Apa karebammu totemo Masannang siako raka lan kautanmu Kuingaran tonda sisola pa Mu kaboro'i tongan tu kaleku

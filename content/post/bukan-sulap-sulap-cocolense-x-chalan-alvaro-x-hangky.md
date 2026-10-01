@@ -2,7 +2,7 @@
 title: "Bukan Sulap Sulap - Cocolense X Chalan Alvaro X Hangky"
 date: 2024-12-13
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Bukan Sulap Sulap yang dibawakan oleh Cocolense Feat Chalan Alvaro X Hangky.

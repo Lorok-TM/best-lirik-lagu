@@ -2,7 +2,7 @@
 title: "Mutiara - Niken Salindry"
 date: 2026-07-31
 categories: 
-  - "campursari"
+  - "Campursari"
 ---
 
 Lagu "Mutiara" yang dibawakan oleh Niken Salindry mengusung tema filosofis tentang pencarian dan pemujaan terhadap esensi cinta sejati yang ideal namun sulit digapai. Melalui metafora "mutiara", karya musik ini menggambarkan sosok yang dinilai sangat berharga, suci, dan membawa ketenangan jiwa bagi seseorang yang merindukannya. Latar belakang naratifnya menyoroti kontras antara realitas hidup yang getir dengan angan-angan romantis, di mana kehadiran sang kekasih sering kali hanya mewujud sebagai bunga mimpi atau ilusi penyejuk hati. Secara mendalam, komposisi ini merefleksikan kerentanan emosional manusia dalam menghadapi rasa sepi, sekaligus menegaskan bagaimana harapan akan cinta yang tulus tetap menjadi kekuatan spiritual yang mempertahankan ketahanan mental seseorang di tengah ketidakpastian hidup.

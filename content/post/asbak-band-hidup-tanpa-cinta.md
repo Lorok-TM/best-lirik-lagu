@@ -2,7 +2,7 @@
 title: "Asbak Band - Hidup Tanpa Cinta"
 date: 2026-06-21
 categories: 
-  - "band"
+  - "Band"
 ---
 
 

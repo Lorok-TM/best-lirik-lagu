@@ -2,7 +2,7 @@
 title: "Rheka Restu - Hilang Tiada Kata"
 date: 2025-09-03
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 Tanpa ku tutup bibir ini terbungkam Tatap mata yang sungguh teramat dalam Tubuhku seteketika terdiam

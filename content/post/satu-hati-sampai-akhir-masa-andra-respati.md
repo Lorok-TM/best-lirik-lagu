@@ -2,7 +2,7 @@
 title: "Satu Hati Sampai Akhir Masa - Andra Respati"
 date: 2025-04-10
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 Indahnya cinta bisa pudar Ketika datangnya cobaan Bersabarlah duhai sayangku Agar cinta tetap disini Menemani.. slamanya Menemani.. slamanya

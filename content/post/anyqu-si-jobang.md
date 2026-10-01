@@ -2,7 +2,7 @@
 title: "Anyqu - Si Jobang"
 date: 2025-04-27
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Oi.. sabuah lai lah dek tolan.. Ibaraik pantun simalam ko Pulau pandan jo pulau soriak Disokahlah daun ka langatan Ka tungkek rajo nan ka tanjuang lai..

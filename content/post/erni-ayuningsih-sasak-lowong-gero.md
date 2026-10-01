@@ -2,7 +2,7 @@
 title: "Erni Ayuningsih - Sasak Lowong Gero"
 date: 2025-09-01
 categories: 
-  - "sasak"
+  - "Sasak"
 ---
 
 Lowong lah gero kakak siq kenango Lowong gero siq kenango Buaq bile araq telu Lowong gero siq kenango Buaq bile araq telu

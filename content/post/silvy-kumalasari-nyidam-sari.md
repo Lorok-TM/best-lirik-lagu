@@ -2,7 +2,7 @@
 title: "Silvy Kumalasari - Nyidam Sari"
 date: 2025-08-13
 categories: 
-  - "campursari"
+  - "Campursari"
 ---
 
 Umpama sliramu sekar melati Aku kumbang nyidam sari Umpama sliramu margi wong bagus Pun kakang bakal ngliwati

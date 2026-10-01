@@ -2,7 +2,7 @@
 title: "Salah Tapi Baik - Safira Zaza"
 date: 2026-07-26
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Kalau sedih itu ada Kalau tangis itu ada Mengapa tidak ada air mata?

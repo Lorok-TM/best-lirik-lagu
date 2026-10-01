@@ -2,7 +2,7 @@
 title: "Jengah Berjuang - Mang Trianti"
 date: 2024-05-29
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 **Lirik Jengah Berjuang - Mang Trianti**

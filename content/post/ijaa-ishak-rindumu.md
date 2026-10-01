@@ -2,7 +2,7 @@
 title: "Ijaa Ishak - Rindumu"
 date: 2026-02-14
 categories: 
-  - "malaysia"
+  - "Malaysia"
 ---
 
 Chorus : Rindumu tak masuk akal Sampai aku dah boleh hafal Kata-katamu yang mengada Baru pulang dah sibuk tanya

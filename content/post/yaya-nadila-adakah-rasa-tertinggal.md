@@ -2,7 +2,7 @@
 title: "Yaya Nadila - Adakah Rasa Tertinggal"
 date: 2026-01-17
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Aku salah sudah ku akui Dan mintak maaaf tiada kau beri Rasa tak sebanding kilaf yang kuperbuat Mengapa cinta yang kau akhiri

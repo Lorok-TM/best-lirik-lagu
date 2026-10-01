@@ -2,7 +2,7 @@
 title: "Atikah Edelweis - Janji Tapian Danau Ateh"
 date: 2025-10-23
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Di tapian danau ateh bamulo Uda kabek denai jo kato cinto Bukan cincin ameh bukan suaso Ilalang nan uda ikek kan di jari manih nan ko

@@ -2,7 +2,7 @@
 title: "Ula Nadenggan - The Boy's Trio"
 date: 2024-07-28
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Diparngoluan siganup ari Godang doi akka namasa Ikkon benget do Hita mandalani sude

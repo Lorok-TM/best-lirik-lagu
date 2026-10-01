@@ -2,7 +2,7 @@
 title: "Azmy Z - Mojang Karawang feat. Putu Giriharja & Sinden Gen Z"
 date: 2025-10-28
 categories: 
-  - "sunda"
+  - "Sunda"
 ---
 
 Istri geulis campernik lir kembang nu mangkak ligar Mojang terah ti pasundan di sawang matak ka gémbang Nganggo sinjang ngagandeuang rigig teu aya karingrang Taya karingrang

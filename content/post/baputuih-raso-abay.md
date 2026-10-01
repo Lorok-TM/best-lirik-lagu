@@ -2,7 +2,7 @@
 title: "Baputuih Raso - Abay"
 date: 2025-04-15
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Putuih sadonyo si tali rabab Talampau kareh bana manggesek Indak guno di cari sabab Raso dunsanak kok ka di karek Indak guno di cari sabab Raso dunsanak kok ka di karek

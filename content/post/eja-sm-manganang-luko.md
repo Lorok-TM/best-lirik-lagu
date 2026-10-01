@@ -2,7 +2,7 @@
 title: "Eja SM - Manganang Luko"
 date: 2025-08-21
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Samantang saba di hati manahan seso Bapaturuikan bana manuriah luko Den tau kasiah nan jo sayang bak raso ka sanang Nyatonyo padiah nan taraso di badan

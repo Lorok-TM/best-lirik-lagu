@@ -2,7 +2,7 @@
 title: "Esa Risty Feat. Sasya Arkhisna - Pacar Lima Langkah"
 date: 2026-07-26
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Pacarku memang dekat Lima langkah dari rumah Tak perlu kirim surat SMS juga nggak usah

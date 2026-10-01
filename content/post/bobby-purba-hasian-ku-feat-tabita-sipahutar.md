@@ -2,7 +2,7 @@
 title: "Bobby Purba - Hasian Ku feat. Tabita Sipahutar"
 date: 2025-10-13
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Tung sonang do au rap dohot ho Gok dame rohakki da hasian Unang ma nian muba holong mi tu au

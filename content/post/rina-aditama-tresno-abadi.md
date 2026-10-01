@@ -2,7 +2,7 @@
 title: "Rina Aditama - Tresno Abadi"
 date: 2026-09-04
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Mbuh sepiroo adohe Koe ning konoo Aku ning kene Saling nguatke

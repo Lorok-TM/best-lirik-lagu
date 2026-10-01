@@ -2,7 +2,7 @@
 title: "Rafika Mohi - Tersayat Sembilu"
 date: 2023-02-15
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Lirik Lagu Melayu dengan judul Tersayat Sembilu yang dinyanyikan oleh Rafika Mohi dan diciptakan oleh M Taufik Oli'i dengan irama musik Pop.

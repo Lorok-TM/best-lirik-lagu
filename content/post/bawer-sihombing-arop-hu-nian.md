@@ -2,7 +2,7 @@
 title: "Bawer Sihombing - Arop Hu Nian"
 date: 2025-05-10
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Arop hu nian ho do ito Na pajagarhon ari-ariki Hudok do nian tu Tuhan i Asa gabe saut hita nadua

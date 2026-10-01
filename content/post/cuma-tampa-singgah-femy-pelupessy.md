@@ -2,7 +2,7 @@
 title: "Cuma Tampa Singgah - Femy Pelupessy"
 date: 2025-02-02
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Cuma Tampa Singgah yang dibawakan oleh Femy Pelupessy.

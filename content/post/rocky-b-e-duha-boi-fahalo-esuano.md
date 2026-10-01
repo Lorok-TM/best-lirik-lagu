@@ -2,7 +2,7 @@
 title: "Rocky B. E. Duha - Böi Fahalö Esuanö"
 date: 2025-10-31
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 Nata’angeraigö tödö Feaso ba gulidanö So harato he silo’ö Oi sambö fa’abölö

@@ -2,7 +2,7 @@
 title: "Bg Arull - Meubeda Kasta"
 date: 2025-07-08
 categories: 
-  - "aceh"
+  - "Aceh"
 ---
 
 Loen pandang langet Meusalop deungon awan Buleun ngon bintang Pih sep trang meu cahaya Angen peubapot Meusangkot kerinduan Sinan loen karang Lagu nyo oeh malam jula

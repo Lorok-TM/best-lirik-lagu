@@ -2,7 +2,7 @@
 title: "Made Cenik - Gus Jody"
 date: 2025-02-03
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Made Cenik yang dibawakan oleh Gus Jody.

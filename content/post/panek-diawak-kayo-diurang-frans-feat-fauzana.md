@@ -2,7 +2,7 @@
 title: "Panek Diawak Kayo Diurang - Frans Feat. Fauzana"
 date: 2025-06-14
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Singkek alah di uleh Sayuik alah disambuang Tiok di juluak tak sampai juo Usah balamo adiak pandangi Kalimpanan mato jadinyo

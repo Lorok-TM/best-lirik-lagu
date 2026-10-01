@@ -2,7 +2,7 @@
 title: "Silva Hayati - Sulik Malupokan"
 date: 2025-06-20
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Tando Sulik Malupokan uda, masih den cari juo Buliah nak lapeh juo taragak, lah kamari den tanyo..

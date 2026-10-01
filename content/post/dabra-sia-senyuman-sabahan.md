@@ -2,7 +2,7 @@
 title: "Dabra Sia - Senyuman Sabahan"
 date: 2023-03-29
 categories: 
-  - "malaysia"
+  - "Malaysia"
 ---
 
 Dabra Sia rilis single Malaysia berjudul "Senyuman Sabahan", menceritakan cerita tentang macam mana Dabra Sia jatuh cinta Sabah kerana senyuman senyuman sabahan yang cantik cantik dan senantiasa murah diberi di mana saja.

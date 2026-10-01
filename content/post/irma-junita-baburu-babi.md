@@ -2,7 +2,7 @@
 title: "Irma Junita - Baburu Babi"
 date: 2025-12-20
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Oi lalai oi oi oi Oi dek nan kanduang cubolah danga Pai baburu di hari minggu Pai saondoh barami rami Lamak makan basamo samo Indak takana di hari patang Ka payah uda dek bakaja Uda ibaraik urang paburu Tabao lupak tak bagigi Sakali unyuik tak tabao Kulekkuleki baliak pulang kanduang oi Oi lalai oi

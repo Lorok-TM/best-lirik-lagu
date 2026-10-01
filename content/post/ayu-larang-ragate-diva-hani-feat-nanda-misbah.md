@@ -2,7 +2,7 @@
 title: "Ayu Larang Ragate - Diva Hani Feat. Nanda Misbah"
 date: 2024-09-20
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 Bener kandane wong tuaku biyen kae Abot sanggane duwe bojo ayu rupane Tak rewangi saben dino nyambut gawe Nanging asile isih kurang nggo bendinane

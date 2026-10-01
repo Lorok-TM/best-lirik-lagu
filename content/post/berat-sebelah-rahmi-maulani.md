@@ -2,7 +2,7 @@
 title: "Berat Sebelah - Rahmi Maulani"
 date: 2024-06-01
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 **Lirik Berat Sebelah - Rahmi Maulani**

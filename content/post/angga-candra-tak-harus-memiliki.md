@@ -2,7 +2,7 @@
 title: "Angga Candra - Tak Harus Memiliki"
 date: 2026-02-14
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Mengapa tak kau bilang dari dulu Bahwa bukannya diriku Yang ada di dalam hatimu Lalu bagaimana dengan hatiku yang sudah terlanjur jatuh Jatuh cinta kepadamu

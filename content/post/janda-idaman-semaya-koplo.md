@@ -2,7 +2,7 @@
 title: "Janda Idaman - Semaya Koplo"
 date: 2024-07-15
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 **Berikut lirik Janda Idaman yang dinyanyikan oleh Semaya Koplo.**

@@ -2,7 +2,7 @@
 title: "Angie Carvalho - Remuk"
 date: 2026-04-10
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Verse 1: Manisnya kenangan kita berdua Tersimpan indah setiap langkah Setiap cerita Senyum dan tawamu masih terasa Seakan waktu berhenti di sana Sepertinya namamu masih jadi tempatku pulang

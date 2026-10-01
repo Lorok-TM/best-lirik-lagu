@@ -2,7 +2,7 @@
 title: "Bukan Cinta Dan Sayang - Cut Rani Auliza Feat. Khalis"
 date: 2024-07-15
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 **Berikut lirik Bukan Cinta Dan Sayang yang dinyanyikan oleh Cut Rani Auliza Feat Khalis.**

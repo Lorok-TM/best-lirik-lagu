@@ -2,7 +2,7 @@
 title: "Genah Po Ora - Ady Pay Feat Achmad Twentynine"
 date: 2025-05-28
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 Ngalor ngidul uwes tak golek’i Ngetan ngulon yowes tak ubengi Opo wes lilo opo wes ono sing liyo Nganti kowe lungo ninggal tresno

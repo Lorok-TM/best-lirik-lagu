@@ -2,7 +2,7 @@
 title: "Fauzana - Bapindah Ka Nan Lain"
 date: 2025-09-07
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Samulo denai indak picayo Uda bapindah ka lain hati Denai cubo sadarkan diri Denai cubo ikhlaskan hati Mungkin iko jalan ilahi

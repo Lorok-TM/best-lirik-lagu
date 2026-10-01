@@ -2,7 +2,7 @@
 title: "Kumuliakan - Mahanaim Worship"
 date: 2025-01-11
 categories: 
-  - "rohani"
+  - "Rohani"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Kumuliakan yang dibawakan oleh Mahanaim Worship.

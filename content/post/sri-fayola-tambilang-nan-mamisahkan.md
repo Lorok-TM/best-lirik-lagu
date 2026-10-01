@@ -2,7 +2,7 @@
 title: "Sri Fayola - Tambilang Nan Mamisahkan"
 date: 2026-07-03
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 

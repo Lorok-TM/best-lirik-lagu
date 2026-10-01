@@ -2,7 +2,7 @@
 title: "Steve Sheegan - Bebara Api Dendam"
 date: 2025-09-28
 categories: 
-  - "iban"
+  - "Iban"
 ---
 
 Bisi ku ka mensiang diri Tegal kenyap ku demalam tadi Maya tinduk ku bemimpi jai Dibai kumang betundi

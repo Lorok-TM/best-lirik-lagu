@@ -2,7 +2,7 @@
 title: "Enggai Bejaku Suah - Linda"
 date: 2024-07-07
 categories: 
-  - "iban"
+  - "Iban"
 ---
 
 **Lirik Enggai Bejaku Suah yang dinyanyikan oleh Linda.**

@@ -2,7 +2,7 @@
 title: "Shinta Arsinta - Orang Baru Lebe Gacor"
 date: 2025-12-04
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Lupa nama tapi masih ingat rasa Rasa yang dulu pernah ada Waktu tong sama sama Lupa wajah tapi masih ingat rasa Sayang cinta lama so anyor Tamba so ancor Yang baru lebe gacor

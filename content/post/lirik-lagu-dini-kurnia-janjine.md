@@ -2,7 +2,7 @@
 title: "Dini Kurnia - Janjine dan Artinya"
 date: 2021-12-22
 categories: 
-  - "osing"
+  - "Osing"
 ---
 
 ## Lirik Lagu ”Janjine“ by Dini Kurnia

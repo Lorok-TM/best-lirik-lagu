@@ -2,8 +2,7 @@
 title: "Yeni Inka - Angel 2 dan Artinya (Tombo Teko Loro Lungo)"
 date: 2022-01-19
 categories: 
-  - "dangdut"
-  - "java"
+  - "Jawa"
 ---
 
 Title : Angel 2 Artist : Yeni Inka Songwriter : Iskandar Hanafi Label : Aneka Safari Records Category : Lagu Dangdut Koplo Jawa

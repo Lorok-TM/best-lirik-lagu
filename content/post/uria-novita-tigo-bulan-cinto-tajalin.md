@@ -2,7 +2,7 @@
 title: "Uria Novita - Tigo Bulan Cinto Tajalin"
 date: 2026-08-14
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 

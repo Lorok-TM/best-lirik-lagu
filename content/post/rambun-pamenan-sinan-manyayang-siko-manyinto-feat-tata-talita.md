@@ -2,7 +2,7 @@
 title: "Rambun Pamenan - Sinan Manyayang Siko Manyinto feat. Tata Talita"
 date: 2025-09-09
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Sungguah didenai indak ka manyangko Manganyo cinto ko dulu batarimo Didenai salamo ko lah tamakan duto Padiah nan taraso salah manaruah cinto

@@ -2,7 +2,7 @@
 title: "Style Voice - Somartona"
 date: 2025-09-26
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Tung mansai uli tung mansai sonang Tingki rap au dohot ho naujui Dang marnalupa ho manise kabar hi

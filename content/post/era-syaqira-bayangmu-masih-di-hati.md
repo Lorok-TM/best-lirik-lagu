@@ -2,7 +2,7 @@
 title: "Era Syaqira - Bayangmu Masih Di Hati"
 date: 2022-09-15
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 ## Lirik Lagu ”Bayangmu Masih Di Hati“ by Era Syaqira

@@ -2,7 +2,7 @@
 title: "Putri Chantika - Sabatang Lilin"
 date: 2025-10-02
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Apolah kadayo ondeh sabatang lilin Ka untuak panganti palito nan padam ko Barulah ka nyalo lah diambuih angin Sakuliliang kalam galok gulito

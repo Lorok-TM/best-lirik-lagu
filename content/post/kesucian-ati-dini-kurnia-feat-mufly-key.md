@@ -2,7 +2,7 @@
 title: "Kesucian Ati - Dini Kurnia feat. Mufly Key"
 date: 2026-07-14
 categories: 
-  - "osing"
+  - "Osing"
 ---
 
 

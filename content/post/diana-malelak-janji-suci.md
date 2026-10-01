@@ -2,7 +2,7 @@
 title: "Diana Malelak - Janji Suci"
 date: 2025-04-27
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Verse : Jangan kau biarkan rindu ini hilang Jangan kau biarkan cinta ini pergi Setiap langkahmu aku tahu pasti Janganlah kau berbagi cinta..

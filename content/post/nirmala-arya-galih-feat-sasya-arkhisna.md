@@ -2,8 +2,7 @@
 title: "Nirmala - Arya Galih Feat Sasya Arkhisna"
 date: 2026-07-24
 categories: 
-  - "dangdut"
-  - "java"
+  - "Jawa"
 ---
 
 Nalika netra ketemu rasa Ademing nala ora krasa Kasengguh asih minangka sulih Tembung lirih ngusada perih

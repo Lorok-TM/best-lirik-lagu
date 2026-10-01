@@ -2,7 +2,7 @@
 title: "Kasifa Rahmi - Mencintai Tapi Tak Di Cintai"
 date: 2023-05-14
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Lirik Lagu Melayu dengan judul Mencintai Tapi Tak Di Cintai yang dinyanyikan oleh Kasifa Rahmi dan diciptakan oleh Ronny Rimage dengan irama musik Pop.

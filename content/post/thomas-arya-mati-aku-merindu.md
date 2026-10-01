@@ -2,7 +2,7 @@
 title: "Thomas Arya - Mati Aku Merindu"
 date: 2025-04-28
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 Ku akui aku tak sempurna Untuk kau miliki Kau terima segalany Apa yang menjadi kekurangan ku Kerana engkau mencintaiku

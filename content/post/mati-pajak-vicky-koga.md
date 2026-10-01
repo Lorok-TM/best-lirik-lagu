@@ -2,7 +2,7 @@
 title: "Mati Pajak - Vicky Koga"
 date: 2025-04-08
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Amuah inyo galak oi hati ambo sanang Lamo mati pajak kalapuak oto di kandang Bia nak nyo berang ambo jujai juo Takuik kanai tilang tapaso manyuruak sajo

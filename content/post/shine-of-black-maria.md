@@ -2,7 +2,7 @@
 title: "Shine Of Black - Maria"
 date: 2023-03-16
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 Lirik Lagu Timur dengan judul Maria yang dinyanyikan oleh Shine Of Black.

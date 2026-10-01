@@ -2,7 +2,7 @@
 title: "Jasun Marju feat. Laila Ayu - Sakit Rindu"
 date: 2026-09-22
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Luwih becik loro untu Daripada sirahe ngelu Sakit cinta sakit rindu Yen wengi ora biso turu Yen awan ra doyan mangan Amergo tansah kelingan

@@ -2,7 +2,7 @@
 title: "Shinta Arsinta - Syahara"
 date: 2026-07-08
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 

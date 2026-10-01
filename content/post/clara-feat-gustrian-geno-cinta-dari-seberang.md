@@ -2,7 +2,7 @@
 title: "Clara feat. Gustrian Geno - Cinta Dari Seberang"
 date: 2025-10-01
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Kupandang-pandang adik dari seberang Cantik juga rupamu sungguh menawan Bolehkah abang bertanya Apa adik ada yang punya? Jika belum kuingin nyatakan cinta

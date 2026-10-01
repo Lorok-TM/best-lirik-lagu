@@ -2,7 +2,7 @@
 title: "Untuang Badan - Yelman Feat Zizi"
 date: 2025-02-11
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Untuang Badan yang dibawakan oleh Yelman Ft Zizi.

@@ -2,7 +2,7 @@
 title: "Gihon Marel feat. Jacson Zeran - Masih Disini"
 date: 2023-07-13
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 Pada pertemuan kali ini Best Lyrics™ akan menyajikan Lirik Lagu Gihon Marel feat. Jacson Zeran - Masih Disini. Sebagai wujud dukungan bagi para penyanyi dan musisi yang telah merilis lagu "Masih Disini" ini, jangan lupa untuk mendapatkan lagu tersebut melalui platform musik digital resmi seperti Joox, iTunes, Spotify, dan penyedia lainnya, agar mereka bisa terus berkarya dan merilis single terbaru mereka. Anda bisa menikmati video lagu tersebut melalui channel youtube resminya.

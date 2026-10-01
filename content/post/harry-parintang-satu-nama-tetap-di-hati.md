@@ -2,7 +2,7 @@
 title: "Harry Parintang - Satu Nama Tetap Di Hati"
 date: 2022-12-28
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Lirik Lagu Melayu dengan judul Satu Nama Tetap Di Hati yang dinyanyikan oleh Harry Parintang. Lagu ini diciptakan oleh Kamal Halim dengan irama musik Pop. Video musiknya telah tersedia di channel Youtube InsictechMusicland yang dirilis pada tanggal 5 Januari 2023.

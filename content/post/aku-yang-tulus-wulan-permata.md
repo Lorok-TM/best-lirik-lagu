@@ -2,7 +2,7 @@
 title: "Aku Yang Tulus - Wulan Permata"
 date: 2025-02-25
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Aku Yang Tulus yang dibawakan oleh Wulan Permata.

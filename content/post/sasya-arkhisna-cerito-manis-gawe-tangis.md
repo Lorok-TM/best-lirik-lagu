@@ -2,7 +2,7 @@
 title: "Sasya Arkhisna - Cerito Manis Gawe Tangis"
 date: 2025-07-13
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Cerito Manis (Cerita Manis) Wis Isun Lukis (Sudah Aku Lukis) Ngarepaken Welas (Mengharapkan Cinta) Isun Lan Riko (Aku Dan Kamu) Biso Dadi Siji (Bisa Jadi Satu)

@@ -2,7 +2,7 @@
 title: "Cantika Nuswantoro Adella - Lanang Tenan"
 date: 2025-11-12
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Anak lanang kudu iso nyonggo abote donyo Kabeh ora ngandalke wong tuo Tabungan ora sepiro Sangu mung restu lan dongo Ngadepi pacoban sing teko

@@ -2,7 +2,7 @@
 title: "Haruskah Aku Mati - Adel Salsabela"
 date: 2026-07-16
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Andai kau merasakan Sakit yang kau berikan kepadaku Ku yakin kau tak akan sanggup untuk bertahan

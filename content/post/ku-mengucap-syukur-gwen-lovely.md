@@ -2,7 +2,7 @@
 title: "Ku Mengucap Syukur - Gwen Lovely"
 date: 2025-03-23
 categories: 
-  - "rohani"
+  - "Rohani"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Ku Mengucap Syukur yang dibawakan oleh Gwen Lovely.

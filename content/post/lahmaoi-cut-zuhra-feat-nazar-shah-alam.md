@@ -2,7 +2,7 @@
 title: "Lahmaoi - Cut Zuhra Feat Nazar Shah Alam"
 date: 2025-02-08
 categories: 
-  - "aceh"
+  - "Aceh"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Lahmaoi yang dibawakan oleh Cut Zuhra Ft Nazar Shah Alam.

@@ -2,7 +2,7 @@
 title: "Segala Perkara - Putri Siagian"
 date: 2025-02-16
 categories: 
-  - "rohani"
+  - "Rohani"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Segala Perkara yang dibawakan oleh Putri Siagian.

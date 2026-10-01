@@ -2,7 +2,7 @@
 title: "Ary Sinaga - Unang Gabusi Au"
 date: 2026-01-24
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Unang gabusi ahu Unang gabusi ahu Molo na tutu holong roham Hatahon tu au ito

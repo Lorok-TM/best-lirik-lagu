@@ -2,7 +2,7 @@
 title: "Maulana Wijaya - Berlinang"
 date: 2023-05-11
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Lirik Lagu Melayu dengan judul Berlinang yang dinyanyikan oleh Maulana Wijaya dan diciptakan oleh Ayu Rizki Yani dengan irama musik Pop.

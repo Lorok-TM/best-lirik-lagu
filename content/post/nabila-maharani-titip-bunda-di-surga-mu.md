@@ -2,7 +2,7 @@
 title: "Nabila Maharani - Titip Bunda Di Surga-Mu"
 date: 2026-01-15
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Maafkan hanya itu yang terucap Semua kesempatan habis terbuang percuma

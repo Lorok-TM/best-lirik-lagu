@@ -2,7 +2,7 @@
 title: "Muhammad Rifai - Kenangan"
 date: 2026-01-01
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Teringat saat bersamamu Kau kecup keningku disampingmu Kini hanyalah tinggal kenangan Saat bersamamu

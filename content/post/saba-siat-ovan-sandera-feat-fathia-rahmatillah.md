@@ -2,7 +2,7 @@
 title: "Saba Siat - Ovan Sandera Feat Fathia Rahmatillah"
 date: 2025-02-17
 categories: 
-  - "aceh"
+  - "Aceh"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Saba Siat yang dibawakan oleh Ovan Sandera Ft Fathia Rahmatillah.

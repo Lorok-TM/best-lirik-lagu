@@ -2,7 +2,7 @@
 title: "Ratu Sikumbang - Taganggam Bayang Bayang"
 date: 2025-04-22
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Yo malang ba ayam putiah Dek tali di tangan urang Kukuaknyo tadanga dari subarang Di sangko kasiah ka buliah Den taganggam bayang-bayang Kironyo ba iriang kawan jo urang

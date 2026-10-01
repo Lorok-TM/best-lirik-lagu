@@ -2,7 +2,7 @@
 title: "Budi Arsa - Ayu Kumala"
 date: 2023-03-16
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 Lirik Lagu Bali dengan judul Ayu Kumala yang dinyanyikan oleh Budi Arsa dan diciptakan oleh Gung Alit Semara dengan irama musik Pop.

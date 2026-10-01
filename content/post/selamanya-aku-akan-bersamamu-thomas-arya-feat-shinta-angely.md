@@ -2,7 +2,7 @@
 title: "Selamanya Aku Akan Bersamamu - Thomas Arya feat. Shinta Angely"
 date: 2026-07-20
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 

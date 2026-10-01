@@ -2,7 +2,7 @@
 title: "Style Voice - Boru Ujung Di Kalang Simbara"
 date: 2025-06-15
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Dang huriphu gabe songoni Tanda mata na di lehon mi tu ahu Dungkhon mulak au sian hutami Holan tuho do lao pikkiran ki

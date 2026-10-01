@@ -2,7 +2,7 @@
 title: "Trauma Cinta - Rheka Restu & Aprilian"
 date: 2025-04-18
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 Kau lafazkan cintamu Di derasnya hujan di malam itu Aku yang teringat tangisan berdarah Ku di masa laluku Terdiam ku menatapmu

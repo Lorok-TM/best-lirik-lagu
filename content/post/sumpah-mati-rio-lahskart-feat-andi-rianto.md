@@ -2,7 +2,7 @@
 title: "Sumpah Mati - Rio Lahskart feat. Andi Rianto"
 date: 2026-06-05
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 

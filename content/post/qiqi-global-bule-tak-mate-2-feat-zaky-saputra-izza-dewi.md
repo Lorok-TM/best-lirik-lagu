@@ -2,7 +2,7 @@
 title: "Qiqi Global - Bule Tak Mate 2 feat. Zaky Saputra, Izza Dewi"
 date: 2025-08-21
 categories: 
-  - "madura"
+  - "Madura"
 ---
 
 E sangghup mateh jek toro' perak kalenger Buru la jeghe ghun coma pas kalenger pole Se sabhen areh kerrong marghena buleh niser Coma dhika coma dhika se tadek poleh

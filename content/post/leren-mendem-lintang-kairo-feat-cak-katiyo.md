@@ -2,7 +2,7 @@
 title: "Leren Mendem - Lintang Kairo Feat Cak Katiyo"
 date: 2025-04-07
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 Kembang kembang kecubung Atiku kok gawe bingung Kembang aren arane dangu Jo kesuwen gek ndang lamar aku

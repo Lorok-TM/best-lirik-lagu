@@ -2,7 +2,7 @@
 title: "Rayola Ft Daniel Maestro - Indak Mungkin Kasiah Baulang"
 date: 2023-05-18
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Lirik Lagu Minang dengan judul Indak Mungkin Kasiah Baulang yang dinyanyikan oleh Rayola Feat. Daniel Maestro dan diciptakan oleh Rino Cancers dengan irama musik Pop.

@@ -2,7 +2,7 @@
 title: "Paboa Tu Au Inang - Golden Star"
 date: 2025-03-28
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Paboa Tu Au Inang yang dibawakan oleh Golden Star Trio.

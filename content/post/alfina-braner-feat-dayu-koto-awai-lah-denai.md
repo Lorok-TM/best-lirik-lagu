@@ -2,7 +2,7 @@
 title: "Alfina Braner Feat Dayu Koto - Awai Lah Denai"
 date: 2025-05-04
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Hey floating on the dendang Marapek kasiko sayang Are you ready to bagoyang Are you ready to badendang Come on Hoyak hoyak hoyak

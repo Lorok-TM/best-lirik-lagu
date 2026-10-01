@@ -2,7 +2,7 @@
 title: "Trio Menyala - Siap Melamar"
 date: 2025-08-15
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Aku orangnya ramah Aku bukan pemarah Insya allah nyaman bila kau dekat -dekat aku

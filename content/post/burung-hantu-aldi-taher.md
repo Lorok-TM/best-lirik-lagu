@@ -2,7 +2,7 @@
 title: "Burung Hantu - Aldi Taher"
 date: 2026-05-10
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 

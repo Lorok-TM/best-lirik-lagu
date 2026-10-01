@@ -2,7 +2,7 @@
 title: "Pujaan Hati - Elva Saraswati"
 date: 2024-08-01
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 Rem rem jalan tiang Ne jani ngangsan nerangang Sekat ade beline nimpalin Sing buin mrasa sepi di hatine jani Beli satmaka sundih Tatkala tiang kepetengan

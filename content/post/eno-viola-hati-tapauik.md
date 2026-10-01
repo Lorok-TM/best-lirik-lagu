@@ -2,7 +2,7 @@
 title: "Eno Viola - Hati Tapauik"
 date: 2025-08-05
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Indak denai sangko Garah manjadi cinto Dek muluik lah takatokan Elok kito bakawan sajo

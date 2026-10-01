@@ -2,7 +2,7 @@
 title: "Kasih SayangMu - Edward Chen"
 date: 2025-04-19
 categories: 
-  - "rohani"
+  - "Rohani"
 ---
 
 Setinggi langit dari bumi Begitu besar KasihMu Tuhan Ku bersyukur PengorbananMu sempurna

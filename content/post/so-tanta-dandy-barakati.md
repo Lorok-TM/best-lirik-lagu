@@ -2,7 +2,7 @@
 title: "So Tanta - Dandy Barakati"
 date: 2025-02-14
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik So Tanta yang dibawakan oleh Dandy Barakati.

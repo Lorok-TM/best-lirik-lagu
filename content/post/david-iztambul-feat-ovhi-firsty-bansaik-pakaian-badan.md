@@ -2,7 +2,7 @@
 title: "David Iztambul feat. Ovhi Firsty - Bansaik Pakaian Badan"
 date: 2022-10-21
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Lirik Lagu Minang dengan judul Bansaik Pakaian Badan yang dinyanyikan oleh David Iztambul feat Ovhi Firsty dan diciptakan oleh David Iztambul. Situs ini tidak menyediakan chord dasar / kunci gitar lagu ini. Halaman ini hanya menuliskan syair / liriknya saja. Berikut dibawah ini lyrics lengkapnya. Semoga lagu ini dapat menghibur anda.

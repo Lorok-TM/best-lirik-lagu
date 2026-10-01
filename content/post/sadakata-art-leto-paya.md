@@ -2,7 +2,7 @@
 title: "SADAKATA Art - Leto Paya"
 date: 2025-07-01
 categories: 
-  - "karo"
+  - "Karo"
 ---
 
 Enda nde Berastagi, O ari turang Inilah Kota Bertastagi o Kekasih Berastagi ku lau gedang, O turang mesayang Kota Berastagi bisa ke desa lau gedang O kekasih tersayang Ula kel sambar ukurndu, O ari turang Jangan sampai berubah hatimu o kekasih Amin gia kita nggo ndauh, nggo ndauh sirang Meskipun sekarang kita sudah jauh, sudah jauh berpisah

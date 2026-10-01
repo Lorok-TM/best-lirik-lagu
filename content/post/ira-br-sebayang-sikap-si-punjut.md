@@ -2,7 +2,7 @@
 title: "Ira Br Sebayang - Sikap Si Punjut"
 date: 2024-04-14
 categories: 
-  - "karo"
+  - "Karo"
 ---
 
 **Lirik Sikap Sipunjut - Ira Sebayang**

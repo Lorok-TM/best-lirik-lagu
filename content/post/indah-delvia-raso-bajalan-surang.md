@@ -2,7 +2,7 @@
 title: "Indah Delvia - Raso Bajalan Surang"
 date: 2025-09-27
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Lain dipindak lain nan tasuo Lain diraso lain nan tibo Batulak balakang kini indak sajalan lai Patikaian acok tajadi Batulak balakang kini indak sajalan lai Patikaian acok tajadi

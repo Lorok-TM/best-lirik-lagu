@@ -2,7 +2,7 @@
 title: "Fira Azzahra Adella - Nonong"
 date: 2025-07-02
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 Nonong sing nonong sopo sing nduwe Nonong sing nonong sing ayu dewe Nononge nambahi ayu ayu ayu dewe Nononge nambahi manis manis manis dewe

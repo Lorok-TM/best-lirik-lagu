@@ -2,7 +2,7 @@
 title: "Nanda Sari - Sesideman 2 (Ijabe Neng Kafe)"
 date: 2026-07-29
 categories: 
-  - "campursari"
+  - "Campursari"
 ---
 
 Katimbang trus sesideman Becike prasajan men ra pasulayan Kulo kuwatir kadenangan Yento kadenangan nggegerke pradesan

@@ -2,7 +2,7 @@
 title: "Antara Kau Dia Dan Aku - Dinda Teratu"
 date: 2025-03-05
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Antara Kau Dia Dan Aku yang dibawakan oleh Dinda Teratu.

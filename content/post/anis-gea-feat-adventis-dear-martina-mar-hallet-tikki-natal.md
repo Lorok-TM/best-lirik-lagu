@@ -2,7 +2,7 @@
 title: "Anis Gea feat Adventis Dear - MARTINA (Mar Hallet Tikki Natal)"
 date: 2023-01-10
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Lirik Lagu Batak dengan judul MARTINA (Mar Hallet Tikki Natal) yang dinyanyikan oleh Anis Gea Ft. Adventis Dear dan diciptakan oleh Wira Purba.

@@ -2,7 +2,7 @@
 title: "Sangsara Dihaja - Jelita Jely Feat. Krishna Sagara"
 date: 2024-08-01
 categories: 
-  - "sunda"
+  - "Sunda"
 ---
 
 Duh heran kacida Naon anu di bela Jauh ge di seja Ku teu sangka

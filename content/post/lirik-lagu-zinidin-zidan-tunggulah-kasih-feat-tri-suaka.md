@@ -2,7 +2,7 @@
 title: "Zinidin Zidan feat Tri Suaka - Tunggulah Kasih"
 date: 2021-12-23
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 **Lirik Tunggulah Kasih - Zinidin Zidan Ft. Tri Suaka**

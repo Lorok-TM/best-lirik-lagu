@@ -2,7 +2,7 @@
 title: "Syifa Maulina - Mandeh"
 date: 2023-01-25
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 **Lirik Mandeh - Syifa Maulina**

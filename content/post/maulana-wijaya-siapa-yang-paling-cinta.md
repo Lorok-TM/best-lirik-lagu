@@ -2,7 +2,7 @@
 title: "Maulana Wijaya - Siapa Yang Paling Cinta"
 date: 2025-09-28
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Tak wajar bila kau bertanya padaku Seberapa besar cintaku kepadamu Bumipun merasakan kasih sayangku Bermekeran bunga di hatimu

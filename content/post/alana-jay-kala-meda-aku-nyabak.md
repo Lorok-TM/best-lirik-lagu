@@ -2,7 +2,7 @@
 title: "Alana Jay - Kala Meda Aku Nyabak"
 date: 2022-09-19
 categories: 
-  - "iban"
+  - "Iban"
 ---
 
 ## Lirik Lagu Kala Meda Aku Nyabak - Alana Jay

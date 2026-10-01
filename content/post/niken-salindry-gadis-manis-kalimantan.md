@@ -2,7 +2,7 @@
 title: "Niken Salindry - Gadis Manis Kalimantan"
 date: 2026-07-17
 categories: 
-  - "campursari"
+  - "Campursari"
 ---
 
 Senyum tipis nan menawan Gadis manis kalimantan Ma ulah ulun tabayang-bayang Muha pian

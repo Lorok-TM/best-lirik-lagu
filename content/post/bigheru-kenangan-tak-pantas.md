@@ -2,7 +2,7 @@
 title: "Bigheru - Kenangan Tak Pantas"
 date: 2026-01-09
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Bodohnya dulu ku mencinta Hilang diri tak lagi kurasa Menjadi budak tawanan cintamu Hinanya diriku

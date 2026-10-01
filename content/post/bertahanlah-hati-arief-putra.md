@@ -2,7 +2,7 @@
 title: "Bertahanlah Hati - Arief Putra"
 date: 2026-07-23
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Seringkali senja memberi isyarat Jangan tunggu dia yang telah pergi Dia tak pantas untuk diingat Hanya akan menyakitkan hati Luka dihati akan sembuh sendiri Walau tiada dia di sisi

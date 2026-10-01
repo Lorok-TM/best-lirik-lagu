@@ -2,7 +2,7 @@
 title: "Aprilian - Tak Guna Mengulang Cinta"
 date: 2025-08-04
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 Tiada guna lagi kasih kau mengulang cinta Bersama diri ku Sebab ku tak ingin menginggat luka yang dulu Teramat sakit hati ini

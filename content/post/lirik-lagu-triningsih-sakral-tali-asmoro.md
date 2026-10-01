@@ -2,7 +2,7 @@
 title: "Triningsih - Sakral Tali Asmoro dan Artinya"
 date: 2021-05-18
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 Lagu Sakral Tali Asmoro ini menceritakan tentang seorang anak perempuan yang mencintai sang idaman yang jaraknya sangat jauh, namun lama tidak bertemu, tidak ada hubungan secara telemunikasi juga. Karena saking cintanya tidak menemukan jalan keluar agar bisa menggapai cinta sang pujaan hati, sang wanita itu tergoda bisikan setan yang menyesatkan dan bersekutu sama setan. Wanita itu khilaf dan mendatangi seorang dukun, agar bisa di bantu bisa mendapatkan cintanya. Dan wanita itu melakukan ritual khusus dan membaca mantra pemikat hati.

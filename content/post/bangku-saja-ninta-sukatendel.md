@@ -2,7 +2,7 @@
 title: "Bangku Saja - Ninta Sukatendel"
 date: 2025-01-15
 categories: 
-  - "karo"
+  - "Karo"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Bangku Saja yang dibawakan oleh Ninta Sukatendel.

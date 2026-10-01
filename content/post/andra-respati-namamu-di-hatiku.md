@@ -2,7 +2,7 @@
 title: "Andra Respati - Namamu Di Hatiku"
 date: 2025-07-14
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 Sayang dengarkan aku Tentang isi hatiku Adakah setia dirimu Padaku yang mencintaimu

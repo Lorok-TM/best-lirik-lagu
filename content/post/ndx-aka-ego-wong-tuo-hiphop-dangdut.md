@@ -2,7 +2,7 @@
 title: "NDX AKA - Ego Wong Tuo (HipHop Dangdut)"
 date: 2025-11-09
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 Ora ono sing njaluk dilahirke Neng keluarga sing koyo ngene Tak tompo opo anane kabeh kahanane Yen pancen ngene iki takdire

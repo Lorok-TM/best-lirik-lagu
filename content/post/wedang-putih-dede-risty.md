@@ -2,7 +2,7 @@
 title: "Wedang Putih - Dede Risty"
 date: 2025-04-01
 categories: 
-  - "tarling"
+  - "Tarling"
 ---
 
 Wis kepalang demen sampean Yen bli kelakon bisa edan Awak gering bli kurang mangan Pikiran pusing yen wis kelingan

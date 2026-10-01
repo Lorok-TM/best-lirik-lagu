@@ -2,7 +2,7 @@
 title: "Andra Respati - Pelakor Pemburu Cinta"
 date: 2025-04-24
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Kelapa muda dibelah dua Air diminum di tepi jurang Ada pelakor berwujud janda Eh kerjanya gangguin suami orang

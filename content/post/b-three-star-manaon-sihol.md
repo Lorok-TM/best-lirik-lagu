@@ -2,7 +2,7 @@
 title: "B-Three Star - Manaon Sihol"
 date: 2025-09-11
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Lam hu sadari ma di rohakki Arti ni holong mi salelengon Dukkon dao ho manadikon au Ito nauli lagu

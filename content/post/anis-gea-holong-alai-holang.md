@@ -2,7 +2,7 @@
 title: "Anis Gea - Holong Alai Holang"
 date: 2026-02-10
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Massai labbok do ekkelmi Tonggi diho nang ekkel hi Rap domu do sihol tai Nang sakkap ni rohat tai Nang balga pe holong ki Balga do tong biar hi Marningot pardalanan i Ai dang na satokkin au raphon ho Ise na talu Ise ma na monang Ai sadado tuhani

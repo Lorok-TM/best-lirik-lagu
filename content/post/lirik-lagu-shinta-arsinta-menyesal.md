@@ -2,7 +2,7 @@
 title: "Shinta Arsinta - Menyesal"
 date: 2021-08-25
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 **Lirik Menyesal - Shinta Arsinta**

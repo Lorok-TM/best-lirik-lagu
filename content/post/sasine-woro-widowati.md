@@ -2,7 +2,7 @@
 title: "Sasine - Woro Widowati"
 date: 2025-04-01
 categories: 
-  - "religi"
+  - "Religi"
 ---
 
 Ra keroso wis sasi poso Ayo podo mulai nyedak sing kuoso Tumindak becik lan nglebur doso Nahan howo lan nestopo

@@ -2,7 +2,7 @@
 title: "Iche Br Bangun - Sayang Kel Aku"
 date: 2021-09-19
 categories: 
-  - "karo"
+  - "Karo"
 ---
 
 **Lirik Sayang Kel Aku - Iche Br Bangun**

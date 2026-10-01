@@ -2,7 +2,7 @@
 title: "Kalo Suka Bilang Suka - Juan Reza feat. Niken Soge"
 date: 2026-06-13
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 

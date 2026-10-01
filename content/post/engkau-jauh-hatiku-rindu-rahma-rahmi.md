@@ -2,7 +2,7 @@
 title: "Engkau Jauh Hatiku Rindu - Rahma Rahmi"
 date: 2025-02-14
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Engkau Jauh Hatiku Rindu yang dibawakan oleh Rahma Rahmi.

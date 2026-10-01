@@ -2,7 +2,7 @@
 title: "Cut Rani - Mengapa Harus Bertemu"
 date: 2026-08-14
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Mengapa kita harus bertemu Kalau akhirnya tak bisa bersatu Hanya karena keadaanku Kita tak bisa mendapatkan restu

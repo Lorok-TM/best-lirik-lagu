@@ -2,7 +2,7 @@
 title: "Floor 88 - SHRMZDB"
 date: 2026-03-18
 categories: 
-  - "religi"
+  - "Religi"
 ---
 
 (Verse 1) (Ayie) Hari yang dinanti Tak sabar nak balik raya Sebulan berpuasa Menahan lapar dan dahaga…

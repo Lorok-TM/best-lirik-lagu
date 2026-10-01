@@ -2,7 +2,7 @@
 title: "Sederhana Saja - Dodhy Kangen Feat Ucha"
 date: 2025-04-09
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Verse : Indah.. memilikimu.. Santun.. tutur katamu.. Kau obat lelah.. dari semua beban.. Kau satu-satunya permata..

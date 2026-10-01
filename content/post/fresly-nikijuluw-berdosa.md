@@ -2,7 +2,7 @@
 title: "Fresly Nikijuluw - Berdosa"
 date: 2022-01-26
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 Lirik Lagu Indonesia Bagian Timur dengan judul Berdosa yang dinyanyikan dan diciptakan oleh Fresly Nikijuluw.

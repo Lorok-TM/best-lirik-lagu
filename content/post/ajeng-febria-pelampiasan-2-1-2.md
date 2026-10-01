@@ -2,7 +2,7 @@
 title: "Ajeng Febria - Pelampiasan 2 1/2"
 date: 2026-07-02
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 Sakjane aku wes kroso Ket pertama koe ngungkapke roso Ngobati pas atimu keloro Basan mari aku sing nanggung loro

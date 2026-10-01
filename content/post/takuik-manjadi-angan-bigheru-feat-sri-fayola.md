@@ -2,7 +2,7 @@
 title: "Takuik Manjadi Angan - Bigheru Feat Sri Fayola"
 date: 2026-08-19
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Alah samak jalan nan dulu tarang .. Rimbun bana tumbuah rumpuik ilalang .. Kini ndak tampak rancak nyo .. Dek adiak basio – sio .. Sangko lai babaleh raso ko ..

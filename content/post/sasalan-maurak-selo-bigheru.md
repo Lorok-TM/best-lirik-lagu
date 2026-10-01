@@ -2,7 +2,7 @@
 title: "Sasalan Maurak Selo - Bigheru"
 date: 2025-04-12
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Tolong di inok ranuangkan dahulu diak Jikok kini uda ka maurak selo Kok tumbuah sasa kudian indak paguno Elok di pikia pikia kan bana

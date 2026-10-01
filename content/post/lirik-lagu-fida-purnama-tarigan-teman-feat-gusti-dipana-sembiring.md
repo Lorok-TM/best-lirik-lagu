@@ -2,7 +2,7 @@
 title: "Fida Purnama Tarigan - Teman feat Gusti Dipana Sembiring"
 date: 2021-08-10
 categories: 
-  - "karo"
+  - "Karo"
 ---
 
 Title : Teman Artist : Fida Purnama Tarigan ft Gusti Dipana Sembiring Songwriter : James Munthe Label : Lorong Sempit Studio Category : Lagu Karo

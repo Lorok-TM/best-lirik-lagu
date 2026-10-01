@@ -2,7 +2,7 @@
 title: "Memadu - MyFriends"
 date: 2025-02-08
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Memadu yang dibawakan oleh MyFriends.

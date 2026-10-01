@@ -2,7 +2,7 @@
 title: "Ipank - Jalan Sampik"
 date: 2025-04-25
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Apo guno bungo den siram Kumbang bakilek datang mandayo Lai den paga dalam jambangan Lapeh juo

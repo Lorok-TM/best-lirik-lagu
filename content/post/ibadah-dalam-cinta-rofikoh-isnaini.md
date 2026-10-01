@@ -2,7 +2,7 @@
 title: "Ibadah Dalam Cinta - Rofikoh Isnaini"
 date: 2026-07-27
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Desir pasir men jadi saksi Lautan luas menjadi bukti Sapda cinta terucap indahhh Di dalam janji cinta kita Berdua berjanji bersama

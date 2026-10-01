@@ -2,7 +2,7 @@
 title: "Ramosta Trio - Siboru Parsikkola"
 date: 2026-01-28
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Di minik ni umur mi di bajar ni pamatang mu Ingkon borhat ho boru tu luat sileban i Marsingkola manuhor parbinotoan i Na gabe bohal di ngolu mi

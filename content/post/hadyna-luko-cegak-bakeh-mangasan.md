@@ -2,7 +2,7 @@
 title: "Hadyna - Luko Cegak Bakeh Mangasan"
 date: 2025-10-23
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Bajalalan lai di nan data Tapi nan tatangkeh juo Malangkah lai di nan bana Doso lamo urang carito Malangkah lai di nan bana Doso lamo urang carito

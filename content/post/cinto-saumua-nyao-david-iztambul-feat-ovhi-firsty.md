@@ -2,7 +2,7 @@
 title: "Cinto Saumua Nyao - David Iztambul Feat Ovhi Firsty"
 date: 2025-03-13
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Cinto Saumua Nyao yang dibawakan oleh David Iztambul Ft Ovhi Firsty.

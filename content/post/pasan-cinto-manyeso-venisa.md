@@ -2,7 +2,7 @@
 title: "Pasan Cinto Manyeso - Venisa"
 date: 2026-06-25
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 

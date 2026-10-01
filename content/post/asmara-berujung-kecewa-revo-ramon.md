@@ -2,7 +2,7 @@
 title: "Asmara Berujung Kecewa - Revo Ramon"
 date: 2024-12-23
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Asmara Berujung Kecewa yang dibawakan oleh Revo Ramon.

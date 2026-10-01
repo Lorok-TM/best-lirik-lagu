@@ -2,7 +2,7 @@
 title: "Rafif Maula - Panuah Ka Aleh"
 date: 2025-08-01
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Jikok den inok denai ranuangkan Jikok den ukua bayangan badan Jan kareh bana hati nak nio Urang barado nan ka dilawan

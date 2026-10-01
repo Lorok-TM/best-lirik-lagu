@@ -2,7 +2,7 @@
 title: "Rayola - Lupo Paneh Dek Hujan Sadarok feat. Pinki Prananda"
 date: 2025-09-26
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Panek mandayuang sampai ka subarang Bia nak sapadan tampak di urang Kini habih tandeh pancarian Ganggaman lapeh adiak sabimbiang urang

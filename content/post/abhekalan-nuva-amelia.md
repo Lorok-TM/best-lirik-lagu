@@ -2,7 +2,7 @@
 title: "Abhekalan - Nuva Amelia"
 date: 2024-08-02
 categories: 
-  - "madura"
+  - "Madura"
 ---
 
 Ateh cek sennengah Lambek ghik pacarrah Mangken buleh dheddhih bhekallah

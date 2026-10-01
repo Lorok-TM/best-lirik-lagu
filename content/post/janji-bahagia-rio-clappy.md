@@ -2,7 +2,7 @@
 title: "Janji Bahagia - Rio Clappy"
 date: 2026-08-31
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Berjalan pulang Dalam padamnya Sinar sang mentari Seribu kata Yang tak terucap Menambah luka di hati

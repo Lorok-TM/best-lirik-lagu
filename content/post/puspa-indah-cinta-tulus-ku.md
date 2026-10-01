@@ -2,7 +2,7 @@
 title: "Puspa Indah - Cinta Tulus Ku"
 date: 2023-05-29
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Lirik Lagu Melayu dengan judul Cinta Tulusku yang dinyanyikan oleh Puspa Indah dan diciptakan oleh Rozac Tanjung dengan irama musik Pop.

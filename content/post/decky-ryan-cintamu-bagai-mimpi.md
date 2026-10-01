@@ -2,7 +2,7 @@
 title: "Decky Ryan - Cintamu Bagai Mimpi"
 date: 2023-05-09
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Lirik Lagu Melayu dengan judul Cintamu Bagai Mimpi yang dinyanyikan dan diciptakan oleh Decky Ryan dengan irama musik Pop.

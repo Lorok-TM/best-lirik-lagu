@@ -2,7 +2,7 @@
 title: "Yan Srikandi - Nyaputin Api"
 date: 2023-01-12
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 Lirik Lagu Bali dengan judul Nyaputin Api yang dinyanyikan oleh Yan Srikandi dan diciptakan oleh Yan Srikandi, Mahardika dengan irama musik Pop.

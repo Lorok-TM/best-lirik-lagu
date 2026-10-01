@@ -2,7 +2,7 @@
 title: "Raffa Affar - Diriku Trauma"
 date: 2026-09-25
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Aku jatuh cinta lagi untuk ke sekian kali Tapi ku dikhianati Sakit sekali

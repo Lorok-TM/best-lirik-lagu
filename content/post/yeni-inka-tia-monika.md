@@ -2,7 +2,7 @@
 title: "Yeni Inka - Tia Monika"
 date: 2025-06-30
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Ee poma neu bantu uloen Ka jatuh cinta keu sidroe dara Ureung jih tari sang putri raja Pakiban cara neu ucap cinta

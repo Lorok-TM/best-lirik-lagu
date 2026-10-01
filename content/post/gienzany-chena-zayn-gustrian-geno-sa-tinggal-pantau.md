@@ -2,7 +2,7 @@
 title: "Gienzany, Chena Zayn, Gustrian Geno - Sa Tinggal Pantau"
 date: 2026-01-18
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Sia nan dulu itu mandapek Nan pandai pastilah manang Usahlah uda kini maupek Jikok jo urang denai basayang

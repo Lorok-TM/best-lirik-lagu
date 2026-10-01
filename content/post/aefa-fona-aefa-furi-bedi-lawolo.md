@@ -2,7 +2,7 @@
 title: "Aefa Föna Aefa Furi - Bedi Lawolo"
 date: 2025-03-29
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Aefa Föna Aefa Furi yang dibawakan oleh Bedi Lawolo.

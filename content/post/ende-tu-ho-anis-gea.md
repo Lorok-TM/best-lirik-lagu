@@ -2,7 +2,7 @@
 title: "Ende Tu Ho - Anis Gea"
 date: 2025-01-27
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Ende Tu Ho yang dibawakan oleh Anis Gea.

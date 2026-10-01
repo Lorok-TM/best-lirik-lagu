@@ -2,7 +2,7 @@
 title: "Harry Parintang - Dalam Diam Ku Mencintaimu"
 date: 2025-08-25
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Sedari dulu akulah Tempat curahan hatimu Disaat kau dan dia Tak baik-baik saja

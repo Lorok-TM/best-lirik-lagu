@@ -2,7 +2,7 @@
 title: "Dike Sabrina feat. Happy Asmara - Tamu Undangan"
 date: 2025-12-04
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Minggu esok adus mruput, Gas tipis ning resepsimu Nyekseni ijab kobul koe ro bojomu

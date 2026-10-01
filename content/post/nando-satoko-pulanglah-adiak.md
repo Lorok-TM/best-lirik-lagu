@@ -2,7 +2,7 @@
 title: "Nando Satoko - Pulanglah Adiak"
 date: 2023-01-17
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Nando Satoko rilis single dengan lirik dalam bahasa Minangkabau berjudul "Pulanglah Adiak" yang artinya "Pulanglah Adik", menceritakan tentang seorang lelaki yang merindukan seorang wanita karena sudah lama merantau tidak kunjung pulang.

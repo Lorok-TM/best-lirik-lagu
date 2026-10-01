@@ -2,7 +2,7 @@
 title: "David Iztambul - Tinggakan Sahilang Hilang"
 date: 2025-05-09
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Usah di ingek denai ko Usahlah di kana juo Tantu babeda kilau mutiaro Balain kilek nyo kaco

@@ -2,7 +2,7 @@
 title: "Adelio DS - Dek Tido Babuang Sayang"
 date: 2025-09-30
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Ibo hati bia den tangguangkan Ramuak bathin bia den tahankan Luko padiah saraso dirajam Bak rantiang patah nan batikamkan Luko padiah saraso dirajam Bak rantiang patah nan batikamkan

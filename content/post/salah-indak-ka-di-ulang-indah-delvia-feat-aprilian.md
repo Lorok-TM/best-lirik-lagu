@@ -2,7 +2,7 @@
 title: "Salah Indak Ka Di Ulang - Indah Delvia Feat. Aprilian"
 date: 2026-09-26
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Indah Delvia : Cukuik Nan Sakali Ko Uda Mandutoi Diri Ko Usahlah Diulang Juo Tak Rila Denai Manarimo

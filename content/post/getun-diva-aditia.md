@@ -2,7 +2,7 @@
 title: "Getun - Diva Aditia"
 date: 2024-07-04
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 **Lirik Getun - Diva Aditia**

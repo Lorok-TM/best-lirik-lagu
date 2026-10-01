@@ -2,7 +2,7 @@
 title: "Saling Ubadin - Cyntia Pita"
 date: 2024-08-20
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 Rage jani dini ade beli Nungkulin tiyang dini ngengedeng sakit hati Tiyang mare putus ajak tunangan Aget pade beli nungkulang sebete mekuang

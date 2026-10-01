@@ -2,7 +2,7 @@
 title: "Meidra - Seratus Hidup Lagi"
 date: 2026-08-22
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 

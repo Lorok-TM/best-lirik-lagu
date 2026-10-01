@@ -2,7 +2,7 @@
 title: "Viqrie Ramadhan - Angin Malam"
 date: 2025-09-18
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Angin malam sampaikan Salam den bakehnyo Angin lalu bisiakkan Hati den nan rindu

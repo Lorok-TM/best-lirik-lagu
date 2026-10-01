@@ -2,7 +2,7 @@
 title: "Halilintar Morgen - Usah Bajanji"
 date: 2025-10-01
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Manga manga manga baingkari Janji janji nan arek tajalin Batahun kito jalani Baputiah mato mananti Kini lah basudahi

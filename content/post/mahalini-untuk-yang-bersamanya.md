@@ -2,7 +2,7 @@
 title: "Mahalini - Untuk Yang BersamaNya"
 date: 2025-11-08
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Aku berjalan dalam waktu Tegar berdiri meski membiru Mencoba kuat tanpa dirimu Tanpa bahumu tanpa pelukmu

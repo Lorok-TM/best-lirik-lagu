@@ -2,7 +2,7 @@
 title: "Taragak Pulang - Ridho Zulma Feat Pepy Grace"
 date: 2025-03-25
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Alah batahun rantau manjadi labuahan hiduik Tabayang kampuang tampek bamain maso dulunyo Rindu manahun manyeso diri, siang jo malam samakin laruik

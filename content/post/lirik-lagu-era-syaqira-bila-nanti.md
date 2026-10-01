@@ -2,7 +2,7 @@
 title: "Era Syaqira - Bila Nanti"
 date: 2022-01-28
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Title : Bila Nanti Artist : Era Syaqira Songwriter : Tri Suaka Published : Indodangdut Digital Category : Lagu Indo Dangdut

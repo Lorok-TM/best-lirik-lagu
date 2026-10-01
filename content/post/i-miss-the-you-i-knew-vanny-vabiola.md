@@ -2,7 +2,7 @@
 title: "I Miss The You I Knew - Vanny Vabiola"
 date: 2025-04-17
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 I still remember the way we laughed The simple moments we used to have But somewhere along the way, we drifted apart And now it's hard to find where you are

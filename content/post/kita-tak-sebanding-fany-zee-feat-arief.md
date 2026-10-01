@@ -2,7 +2,7 @@
 title: "Kita Tak Sebanding - Fany Zee Feat Arief"
 date: 2025-04-11
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Aku dan engkau tak sebanding sayang Engkau putra raja maha raya Mana mungkin kan bersanding denganku Bukan maksud menolakmu

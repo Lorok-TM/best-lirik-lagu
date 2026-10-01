@@ -2,7 +2,7 @@
 title: "Menyalalah Selamanya - Superiots"
 date: 2025-02-08
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Menyalalah Selamanya yang dibawakan oleh Superiots.

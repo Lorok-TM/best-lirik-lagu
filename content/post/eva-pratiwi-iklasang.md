@@ -2,7 +2,7 @@
 title: "Eva Pratiwi - Iklasang"
 date: 2024-04-27
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 **Lirik Iklasang - Eva Pratiwi**

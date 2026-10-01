@@ -2,7 +2,7 @@
 title: "Busuak Hati - Rino Cancers"
 date: 2024-09-02
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Nan urang bialah urang Nan awak bakato awak Awai sajo karajo surang Nan di urang usah lah di kacak 2x

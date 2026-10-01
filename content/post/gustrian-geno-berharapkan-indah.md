@@ -2,7 +2,7 @@
 title: "Gustrian Geno - Berharapkan Indah"
 date: 2023-06-07
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Lirik Lagu Melayu dengan judul Berharap Kan Indah yang dinyanyikan oleh Gustrian Geno dan diciptakan oleh Koko dengan irama musik Pop.

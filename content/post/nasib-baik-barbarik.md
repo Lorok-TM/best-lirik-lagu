@@ -2,7 +2,7 @@
 title: "Nasib Baik - Barbarik"
 date: 2024-12-13
 categories: 
-  - "malaysia"
+  - "Malaysia"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Nasib Baik yang dibawakan oleh Barbarik.

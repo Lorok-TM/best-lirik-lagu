@@ -2,7 +2,7 @@
 title: "Ulfa Khaliqa - Asai Bak Punca"
 date: 2020-12-27
 categories: 
-  - "aceh"
+  - "Aceh"
 ---
 
 ## Lirik Lagu Aceh ”Asai Bak Punca“ by Ulfa Khaliqa

@@ -2,7 +2,7 @@
 title: "Govind Marbun feat. Delima Okta - Adiak Hasian"
 date: 2025-12-15
 categories: 
-  - "batak"
+  - "Batak"
   - "minang"
 ---
 

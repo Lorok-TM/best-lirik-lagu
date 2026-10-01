@@ -2,7 +2,7 @@
 title: "Ecko Show - Dapa Bla"
 date: 2026-09-13
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Malam ni su mabuk ancor Pesta di tenda paling gacor Anana dorang yang sponsor Sampe muntah Sampe muntah Baju stelan kotor

@@ -2,7 +2,7 @@
 title: "Gus Jody - Muani Pilihan"
 date: 2023-03-13
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 Lirik Lagu Bali dengan judul Muani Pilihan yang dinyanyikan oleh Gus Jody dan diciptakan oleh Eka Jaya.

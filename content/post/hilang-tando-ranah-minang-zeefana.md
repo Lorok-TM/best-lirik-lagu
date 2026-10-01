@@ -2,7 +2,7 @@
 title: "Hilang Tando Ranah Minang - Zeefana"
 date: 2026-08-10
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 

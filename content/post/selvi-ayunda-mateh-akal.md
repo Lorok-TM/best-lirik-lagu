@@ -2,7 +2,7 @@
 title: "Selvi Ayunda - Mateh Akal"
 date: 2025-05-31
 categories: 
-  - "madura"
+  - "Madura"
 ---
 
 Verse : Takerjhet ateh.. tak nyangkah sakale.. Dhika teghe.. de’ ka buleh.. Maske bule dhika.. ampon tapesa.. Tore dhika.. jhek nambei lokah..

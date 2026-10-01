@@ -2,7 +2,7 @@
 title: "Aku Dah Lupa - Cantika Adella Feat. Chelosa Adella Putri"
 date: 2025-06-24
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Aku dah lupa tentangmu Bayangmu hilang dalam waktu Janji dulu dah berlalu Kini aku bebas aku mampu

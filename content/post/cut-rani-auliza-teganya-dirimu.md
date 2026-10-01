@@ -2,7 +2,7 @@
 title: "Cut Rani Auliza - Teganya Dirimu"
 date: 2023-03-13
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 **Lirik Teganya Dirimu - Cut Rani Auliza**

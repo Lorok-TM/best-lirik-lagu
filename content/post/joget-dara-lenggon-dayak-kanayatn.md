@@ -2,7 +2,7 @@
 title: "Joget Dara Lenggon - Dayak Kanayatn"
 date: 2024-11-03
 categories: 
-  - "dayak"
+  - "Dayak"
 ---
 
 Joget kami menghibur diri' Ka mule agi ngibur parasa Injeh bajoget rami rami

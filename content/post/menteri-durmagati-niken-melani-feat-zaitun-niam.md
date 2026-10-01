@@ -2,8 +2,7 @@
 title: "Menteri Durmagati - Niken Melani Feat Zaitun Niam"
 date: 2026-07-18
 categories: 
-  - "dangdut"
-  - "java"
+  - "Jawa"
 ---
 
 Durmagati apel isuk Disambut abdi mantuk-mantuk Sirah nggliyeng setengah mabuk Pidatone rodok umuk Kita ini pejabat, maka harus amanat Berjuang demi rakyat, ayo semangat! (ayo semangat) Tunjukkan kita kuat Punya hati ada niat Ada tekad tahu bulat. Ayo berbuat (kabeh gawe ragat)

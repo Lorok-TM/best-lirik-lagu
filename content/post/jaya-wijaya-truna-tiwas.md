@@ -2,7 +2,7 @@
 title: "Jaya Wijaya - Truna Tiwas dan Artinya"
 date: 2020-07-02
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 ## Lirik Lagu Bali ”Truna Tiwas“ by Jaya Wijaya

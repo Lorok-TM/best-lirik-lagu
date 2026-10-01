@@ -2,7 +2,7 @@
 title: "Janda 7 Kali - Difarina Indra Adella"
 date: 2025-02-11
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Janda 7 Kali yang dibawakan oleh Difarina Indra Adella.

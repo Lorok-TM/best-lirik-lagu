@@ -2,7 +2,7 @@
 title: "Arief - Terlalu Kejam Untukku"
 date: 2025-07-15
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Puasku telah mencuba Pertahankan cinta ini Betapa ku menyangimu Sepenuh hatiku cintamu

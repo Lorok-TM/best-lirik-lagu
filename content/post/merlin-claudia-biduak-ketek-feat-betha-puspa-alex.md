@@ -2,7 +2,7 @@
 title: "Merlin Claudia - Biduak Ketek feat. Betha Puspa, Alex"
 date: 2025-08-08
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Tasa maimbau imbau Diujuang pulau angso duo Jo biduak ketek denai cubo Sampaikan kasiah sayang

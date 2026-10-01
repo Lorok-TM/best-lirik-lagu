@@ -2,7 +2,7 @@
 title: "Lilakne Lungamu - Silvy Kumalasari Feat Sadewok"
 date: 2026-09-26
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Wes tak lilakne lungamu Ora butuh wong sing seneng dolanan ati Pokoke loss, aku ra peduli Loss aku ora wedi Kelangan wong sing senenge ngapusi

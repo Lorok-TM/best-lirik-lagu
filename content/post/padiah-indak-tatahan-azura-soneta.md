@@ -2,7 +2,7 @@
 title: "Padiah Indak Tatahan - Azura Soneta"
 date: 2025-05-29
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Alah den jago cinto di hati antaro kito Bataguah janji arek takunci babuhua mati Tapi nan tajadi janji uda ingkari Sakik di hati

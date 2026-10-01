@@ -2,7 +2,7 @@
 title: "Anggi Rayns - Tarimolah Cinto Denai"
 date: 2023-03-17
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Lirik Lagu Minang dengan judul Tarimolah Cinto Denai yang dinyanyikan oleh Anggi Rayns dan diciptakan oleh Vandy Satria dengan irama musik Pop.

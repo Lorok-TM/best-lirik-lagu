@@ -2,7 +2,7 @@
 title: "Daniel Maestro - Binaso"
 date: 2025-05-05
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Bamulo baniah tumbuah di taman hati Bakao ka kambang angan-angan cinto Kasiah jo sayang kito sirami Lah samo sanang kito baduo

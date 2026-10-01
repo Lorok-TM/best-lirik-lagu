@@ -2,7 +2,7 @@
 title: "Dike Sabrina - Asmara"
 date: 2025-10-23
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Bila tak ada lagi cintamu Yang indah untukku Harusnya kau tahu betapa hidupku Sepi tak sempurna

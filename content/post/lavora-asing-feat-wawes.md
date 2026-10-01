@@ -2,7 +2,7 @@
 title: "Lavora - Asing Feat Wawes"
 date: 2025-07-27
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 Aku kangen kangen marang sliramu Esem lan guyumu sing gawe seneng atiku Kenangane abadi saklawase Rabakal tak laleke senajan kowe uwes ro liane

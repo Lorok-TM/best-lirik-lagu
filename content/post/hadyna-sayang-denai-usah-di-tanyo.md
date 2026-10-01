@@ -2,7 +2,7 @@
 title: "Hadyna - Sayang Denai Usah Di Tanyo"
 date: 2025-05-02
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Nan ko cinto yo nan ko sayang Uda ka denai ko Tolonglah yo nan banjanji Indak ka mungkia salamonyo

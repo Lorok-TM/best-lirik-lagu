@@ -2,7 +2,7 @@
 title: "Silvy Kumalasari - Kita Usahakan Lagi"
 date: 2025-06-02
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Ada bahagia, yang belum kita rasa Setelah bersama, usahakan semuaa Kira kira, kapan waktunya tiba ?

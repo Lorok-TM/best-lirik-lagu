@@ -2,7 +2,7 @@
 title: "Aprilian - Penawar Luka"
 date: 2022-11-25
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Aprilian rilis single Melayu berjudul "Penawar Luka" yang diciptakan oleh Ajhay Pasma.

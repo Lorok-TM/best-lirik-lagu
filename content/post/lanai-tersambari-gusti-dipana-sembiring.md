@@ -2,7 +2,7 @@
 title: "Lanai Tersambari - Gusti Dipana Sembiring"
 date: 2024-08-05
 categories: 
-  - "karo"
+  - "Karo"
 ---
 
 Bagi tangtangna arihta ndube ersada Bage denga kelengna ateku nandangi kena Arah perbahanenku Ku ban kerina nuriken sa Kaikin kam pernah ku tongan

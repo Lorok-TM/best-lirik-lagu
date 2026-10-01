@@ -2,7 +2,7 @@
 title: "Jakarta - Sandro Simamora"
 date: 2025-06-17
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Di na sahali na lao au tu jakarta Mardalani lao mangida aha na masa Huida si pariban lam ganda ulian

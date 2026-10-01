@@ -2,7 +2,7 @@
 title: "Dengar Permohonan Tobatku - Putri Siagian"
 date: 2025-03-01
 categories: 
-  - "rohani"
+  - "Rohani"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Dengar Permohonan Tobatku yang dibawakan oleh Putri Siagian.

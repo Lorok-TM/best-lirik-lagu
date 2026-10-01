@@ -2,8 +2,7 @@
 title: "Sumandhing - Ndarboy Genk x Shepin Misa"
 date: 2026-08-10
 categories: 
-  - "dangdut"
-  - "java"
+  - "Jawa"
 ---
 
 

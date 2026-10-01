@@ -2,7 +2,7 @@
 title: "Karungut Budi P - Andi Putir Busu"
 date: 2018-09-24
 categories: 
-  - "dayak"
+  - "Dayak"
 ---
 
 Title : Andi Putir Busu Artist : Budi P Songwriter : Budi P Production : May Sheilla Category : Karungut Dayak Ngaju Kalteng

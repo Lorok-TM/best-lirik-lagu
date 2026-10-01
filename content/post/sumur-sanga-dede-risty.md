@@ -2,7 +2,7 @@
 title: "Sumur Sanga - Dede Risty"
 date: 2024-10-17
 categories: 
-  - "tarling"
+  - "Tarling"
 ---
 
 Tulung kakang kula tulung Turun pitu njaluk ampun Kula wis ngaku Ngrasa pernah selingkuh Ndemeni wong wis due anak telu

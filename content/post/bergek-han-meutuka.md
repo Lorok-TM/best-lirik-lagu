@@ -2,7 +2,7 @@
 title: "Bergek - Han Meutuka"
 date: 2023-03-28
 categories: 
-  - "aceh"
+  - "Aceh"
 ---
 
 Lirik Lagu Aceh dengan judul Han Meutuka yang dinyanyikan oleh Bergek dan diciptakan oleh Azranda dengan irama musik Pop.

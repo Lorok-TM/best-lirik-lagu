@@ -2,8 +2,7 @@
 title: "Five Minutes - Sang Dewi"
 date: 2023-05-20
 categories: 
-  - "band"
-  - "indonesia"
+  - "Band"
 ---
 
 Lirik Lagu Band Indo dengan judul Sang Dewi yang dinyanyikan oleh Five Minutes dan diciptakan oleh Irul FM dengan irama musik Pop Rock.

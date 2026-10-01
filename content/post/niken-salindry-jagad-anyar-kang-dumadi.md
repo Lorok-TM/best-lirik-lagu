@@ -2,7 +2,7 @@
 title: "Niken Salindry - Jagad Anyar Kang Dumadi"
 date: 2026-07-17
 categories: 
-  - "campursari"
+  - "Campursari"
 ---
 
 Jeriting panandhang oh Gustiku Suwara tangis kang kelayon Trenyuh sak jroning ati Angadhepi pacoban iki Manungsa tan bisa anyelaki Pepati kang nggegirisi Titah tanpa daya Angadepi pacoban iki

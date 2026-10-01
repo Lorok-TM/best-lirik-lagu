@@ -2,7 +2,7 @@
 title: "Bakasiak Mato Mamandang - Tigo Mandayo"
 date: 2025-05-11
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Kumerindu semakin tajam Bagai anak panah menghujam Mengapa cinta semakin dalam Dalam

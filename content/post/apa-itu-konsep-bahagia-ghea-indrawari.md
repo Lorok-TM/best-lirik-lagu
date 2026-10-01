@@ -2,7 +2,7 @@
 title: "Apa Itu Konsep Bahagia - Ghea Indrawari"
 date: 2025-02-22
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Tak bisakah ku dapat ketenangan Di dunia yang berisik ini Menjadi apa yang aku mau Tanpa dicaci

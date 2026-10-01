@@ -2,7 +2,7 @@
 title: "The Boy's Trio - Udan"
 date: 2025-05-20
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Di borngin i do Mulana hita pajumpang Di pardoras ni udan di kota Medan Maraek ma abitmi

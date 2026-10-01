@@ -2,7 +2,7 @@
 title: "Kunto Aji - Berani"
 date: 2026-06-25
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Jangan lagi Kau tanya ke mana kubawa hidupmu Simpan buku yang kuberi Di sana tertuliskan mimpi-mimpi besarku

@@ -2,7 +2,7 @@
 title: "Lomba Sihir - Cerita Cinta"
 date: 2026-09-04
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Di dalam hidupku hanya ada satu cerita cinta Pertikaian ingkar janji dan perselingkuhan Siapa paling benar Siapa paling merasa besar Sejak kecil aku hafal nadanya

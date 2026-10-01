@@ -2,7 +2,7 @@
 title: "Arghado Trio - Mauas Di Toru Ni Sampuran"
 date: 2023-01-16
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Lirik Lagu Batak dengan judul Mauas Di Toru Ni Sampuran yang dinyanyikan oleh Arghado Trio. Lagu ini diciptakan oleh A. Benny Sinaga dengan irama musik Pop.

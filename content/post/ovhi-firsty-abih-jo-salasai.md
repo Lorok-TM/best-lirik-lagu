@@ -2,7 +2,7 @@
 title: "Ovhi Firsty - Abih Jo Salasai"
 date: 2026-01-22
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Baa diri denai ka batahan da Jikok hati nangko dipalukoi Sakali maaf mungkin dapek dibari Barulang tajadi mambana hati

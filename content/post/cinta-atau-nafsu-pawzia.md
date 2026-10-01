@@ -2,7 +2,7 @@
 title: "Cinta Atau Nafsu - Pawzia"
 date: 2026-07-27
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 

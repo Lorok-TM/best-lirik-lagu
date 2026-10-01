@@ -2,7 +2,7 @@
 title: "Nella feat Syentia - Dayakng Parenyah"
 date: 2024-04-25
 categories: 
-  - "dayak"
+  - "Dayak"
 ---
 
 **Lirik Dayakng Parenyah - Nella Feat Syentia**

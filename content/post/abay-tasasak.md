@@ -2,7 +2,7 @@
 title: "Abay - Tasasak"
 date: 2025-07-22
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Oi etek sabalah dulu Denai ko baru kagadang Kok amuah etek manunggu Den karek sayok jan tabang...

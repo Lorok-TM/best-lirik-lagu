@@ -2,7 +2,7 @@
 title: "Keranda Cinta - Irwan Krisdiyanto"
 date: 2025-01-05
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Keranda Cinta yang dibawakan oleh Irwan Krisdiyanto.

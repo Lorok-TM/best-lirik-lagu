@@ -2,7 +2,7 @@
 title: "Capeklah Pinang - Nada Zahrani"
 date: 2025-01-29
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Capeklah Pinang yang dibawakan oleh Nada Zahrani.

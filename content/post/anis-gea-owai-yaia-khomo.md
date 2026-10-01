@@ -2,7 +2,7 @@
 title: "Anis Gea - Owai Yaia Khomo"
 date: 2025-07-01
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 He ga'a no tema odolo Lo ofaigi kambera kambolo Owai khou tou gulidano

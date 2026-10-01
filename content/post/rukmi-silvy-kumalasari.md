@@ -2,7 +2,7 @@
 title: "Rukmi - Silvy Kumalasari"
 date: 2025-03-18
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Rukmi yang dibawakan oleh Silvy Kumalasari.

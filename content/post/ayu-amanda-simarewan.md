@@ -2,7 +2,7 @@
 title: "Ayu Amanda - Simarewan"
 date: 2026-09-03
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Alun di jujai inyo lah galak Balun di imbau inyo lah datang Yo nan bak balam talampau jinak Indak di pikek mandakek surang…

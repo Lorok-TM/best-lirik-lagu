@@ -2,7 +2,7 @@
 title: "Thomas Arya - Menyimpan Satu Hati"
 date: 2024-05-13
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 Terimakasih duhai sayangku Engkau telah mendampingiku Walau terkadang ku menyakitimu Dengan tingkah yang tak kau mau

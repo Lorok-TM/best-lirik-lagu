@@ -2,7 +2,7 @@
 title: "Nan Ko Paham - Ndarboy Genk x Adlani Rambe, Oki Ananta"
 date: 2026-07-25
 categories: 
-  - "dangdut"
+  - "Dangdut"
   - "timur"
 ---
 

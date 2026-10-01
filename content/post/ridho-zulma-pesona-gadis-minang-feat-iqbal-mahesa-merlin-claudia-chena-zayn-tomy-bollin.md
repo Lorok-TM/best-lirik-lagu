@@ -2,7 +2,7 @@
 title: "Ridho Zulma - Pesona Gadis Minang feat. Iqbal Mahesa, Merlin Claudia, Chena Zayn, Tomy Bollin"
 date: 2025-08-23
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Manis sungguhlah manih Gadis si ranah minang Indah parasmu di pandang Dibaluik jo salendang

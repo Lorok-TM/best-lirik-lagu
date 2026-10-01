@@ -2,7 +2,7 @@
 title: "Sewu Siji - Deby Cantika"
 date: 2024-09-22
 categories: 
-  - "tarling"
+  - "Tarling"
 ---
 
 Udan sekien wis rada terang Terang anane sampean ning iringan

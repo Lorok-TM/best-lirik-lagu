@@ -2,7 +2,7 @@
 title: "Bergek - Boh Lam Oen"
 date: 2025-11-10
 categories: 
-  - "aceh"
+  - "Aceh"
 ---
 
 Nan teuh sabe meusalop Gaseh meubalot tanda loen cinta Rupa nibak buleun trang Ngen cahya bintang ceudah lagoi na

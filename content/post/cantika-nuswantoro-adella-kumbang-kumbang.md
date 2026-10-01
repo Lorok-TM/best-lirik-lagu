@@ -2,7 +2,7 @@
 title: "Cantika Nuswantoro Adella - Kumbang Kumbang"
 date: 2025-10-23
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Kumbang-kumbang di taman Jangan kau merayu Kumbang-kumbang di taman Jangan kau menggoda

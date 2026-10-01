@@ -2,7 +2,7 @@
 title: "Yaya Nadila - Sayang Berganti Benci"
 date: 2023-07-14
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Lirik Lagu Melayu dengan judul Sayang Berganti Benci yang dinyanyikan oleh Yaya Nadila dan diciptakan oleh Erwin Agam dengan irama musik Pop.

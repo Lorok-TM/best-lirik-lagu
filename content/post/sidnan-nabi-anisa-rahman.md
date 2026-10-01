@@ -2,7 +2,7 @@
 title: "Sidnan Nabi - Anisa Rahman"
 date: 2026-07-26
 categories: 
-  - "religi"
+  - "Religi"
 ---
 
 Sidnan Nabi Sidnan Nabi Sidnan Nabi (Kami muliakan Engkau wahai Nabi)

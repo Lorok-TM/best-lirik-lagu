@@ -2,7 +2,7 @@
 title: "Jose Simorangkir - Sia Sia Do"
 date: 2025-10-12
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Sia sia do sude naung ta dalani (sia sia semua yang telah kita lalui bersama)

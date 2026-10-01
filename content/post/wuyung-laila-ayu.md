@@ -2,7 +2,7 @@
 title: "Wuyung - Laila Ayu"
 date: 2026-07-08
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 

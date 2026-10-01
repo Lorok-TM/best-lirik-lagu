@@ -2,7 +2,7 @@
 title: "Elegant Trio - Cemburu Jala Kecewa"
 date: 2025-05-25
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Malam minggu do on Na hu paima dohot ho ito Tung massai las do rohakki tahe Naeng pajumpang dohot ho

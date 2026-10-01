@@ -2,7 +2,7 @@
 title: "Dian Anic - Ngobor Kodok dan Artinya"
 date: 2021-12-21
 categories: 
-  - "tarling"
+  - "Tarling"
 ---
 
 Title : Ngobor Kodok Artist : Dian Anic Songwriter : Amin Hermawan Production : Anica Nada Category : Lagu Tarling

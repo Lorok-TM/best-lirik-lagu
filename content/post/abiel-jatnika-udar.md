@@ -2,7 +2,7 @@
 title: "Abiel Jatnika - Udar"
 date: 2025-11-10
 categories: 
-  - "sunda"
+  - "Sunda"
 ---
 
 Jangji pasini anu bihari Pasang subaya anu tiheula Naha ayeuna asihna bet udar Kunaon jep aya naon

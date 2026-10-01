@@ -2,7 +2,7 @@
 title: "Talalu Manis - Nona Manis Gula Merah"
 date: 2026-09-19
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 Siapa tu dia Nona manis yang beta lia Kuli hitam manggustang Rambut panjang tapatah mayang Tanya par tanya tu sapa Nona Ambon lahir di Belanda Hoo oo Jantung beta rasa balumpa

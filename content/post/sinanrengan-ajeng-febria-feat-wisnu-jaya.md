@@ -2,7 +2,7 @@
 title: "Sinanrengan - Ajeng Febria Feat Wisnu Jaya"
 date: 2025-04-17
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 Kedaden tenan nduwe omah sing ra berisik Kebak katresnan Kebak kasih lan sayang

@@ -2,7 +2,7 @@
 title: "Anggrek - Tutuik Talingo Piciangkan Mato"
 date: 2025-04-20
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Usah dibaok hati Gunjiangan urang ka bakeh diri Sanang jopayah kito nan marasokan Tutuik talingo piciang kan mato

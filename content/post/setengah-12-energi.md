@@ -2,7 +2,7 @@
 title: "Setengah 12 - Energi"
 date: 2026-07-18
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Saat langkah mu gemetar Ku menjaga harapan mu Ku layarakan semua keragu raguan dalam Lubuk hati mu

@@ -2,7 +2,7 @@
 title: "Loja - Arul Gurning"
 date: 2025-06-25
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Loja loja do au manganju ho Loja loja do au manganju ho Lalap holan na muruk do ho Lalap holan mardandi do ho

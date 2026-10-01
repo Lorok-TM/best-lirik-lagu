@@ -2,7 +2,7 @@
 title: "Eja S.M - Sampai Hati"
 date: 2026-09-12
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Den sangko hanyolah mimpi Nan alah tajadi kini mambuek rusuah didlam hati Uda nan denai sayangi mambuek luko dihati Mandalam ka badan diri

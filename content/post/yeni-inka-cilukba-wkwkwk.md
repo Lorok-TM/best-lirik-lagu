@@ -2,7 +2,7 @@
 title: "Yeni Inka - Cilukba Wkwkwk"
 date: 2022-09-21
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 ## Lirik Lagu Cilukba Wkwkwk - Yeni Inka

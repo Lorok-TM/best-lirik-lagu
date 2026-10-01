@@ -2,7 +2,7 @@
 title: "Basijundai - Anyqu"
 date: 2026-06-26
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 

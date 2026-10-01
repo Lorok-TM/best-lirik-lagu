@@ -2,7 +2,7 @@
 title: "Pipik Jadi Alang - Rafif Maula"
 date: 2025-01-25
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Pipik Jadi Alang yang dibawakan oleh Rafif Maula.

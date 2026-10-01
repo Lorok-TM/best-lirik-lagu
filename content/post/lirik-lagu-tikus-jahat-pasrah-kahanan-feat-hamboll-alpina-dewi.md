@@ -2,8 +2,7 @@
 title: "Tikus Jahat - Pasrah Kahanan dan Artinya feat Hamboll, Alpina Dewi"
 date: 2021-10-29
 categories: 
-  - "dangdut"
-  - "java"
+  - "Jawa"
 ---
 
 Title : Pasrah Kahanan Artist : TikusJahat ft Hamboll, Alpina Dewi Songwriter : TikusJahat Category : Lagu Dangdut Jawa

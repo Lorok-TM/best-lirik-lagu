@@ -2,7 +2,7 @@
 title: "Ary Kencana feat Marco Wisesa - Suarga Kone"
 date: 2023-04-14
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 Lirik Lagu Bali dengan judul Suarga Kone yang dinyanyikan oleh Ary Kencana Ft. Marco Wisesa dan diciptakan oleh Ary Kencana dengan irama musik Pop.

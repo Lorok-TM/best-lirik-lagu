@@ -2,7 +2,7 @@
 title: "Cinto Larangan Adaik - Fira Addinia Feat Rambun Pamenan"
 date: 2025-04-10
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Oi adiak sayang usah di pasokan Jikok adiak cinto ka diri denai Indak ka mungkin manjalin hubungan Cinto sapasukuan itu di larang

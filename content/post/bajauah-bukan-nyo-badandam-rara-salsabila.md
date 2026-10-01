@@ -2,7 +2,7 @@
 title: "Bajauah Bukan Nyo Badandam - Rara Salsabila"
 date: 2026-06-13
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 

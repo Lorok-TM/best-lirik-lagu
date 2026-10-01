@@ -2,7 +2,7 @@
 title: "Theun Rindu - Cut Rani Auliza"
 date: 2025-02-21
 categories: 
-  - "aceh"
+  - "Aceh"
 ---
 
 Ka trep tanle lon eu rupa Peulom muwayang tan le na Rihoen troh lam lumpo teu rasa Rindu hate oh kanda

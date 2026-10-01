@@ -2,7 +2,7 @@
 title: "Syaer Sua - Karungut Panatau Pandung"
 date: 2020-11-10
 categories: 
-  - "dayak"
+  - "Dayak"
 ---
 
 Hakarang indang hakarang apang Aku handak basarita panjang Kilau ngalingu je pantun sambang Teras tampang nambuleng luyang

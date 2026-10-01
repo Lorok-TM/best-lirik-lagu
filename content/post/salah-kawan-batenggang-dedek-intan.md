@@ -2,7 +2,7 @@
 title: "Salah Kawan Batenggang - Dedek Intan"
 date: 2026-06-28
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Salah gadang ka denai kawan batenggang Apo bana di denai ko nan tak ado Mamintak sisiak ka limbek dimalah mungkin ka dapek Sadangkan hiduik denai padiah co iko

@@ -2,7 +2,7 @@
 title: "Ajeng Febria - Bojo Galak"
 date: 2026-09-11
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Wis nasibe kudu koyo ngene Nduwe bojo kok ra tahu ngapenake Seneng muring omongane sengak Kudu tak trimo bojoku pancen galak

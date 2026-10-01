@@ -2,7 +2,7 @@
 title: "Sinarengan - Denny Caknan feat. Bella Bonita"
 date: 2025-03-12
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Kedaden tenan Nduwe omah sing ra berisik Kebak katresnan Kebak kasih lan sayang

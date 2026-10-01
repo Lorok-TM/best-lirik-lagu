@@ -2,7 +2,7 @@
 title: "Sajak Usang Kelas Pekerja - The Cloves And The Tobacco"
 date: 2024-12-16
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Sajak Usang Kelas Pekerja yang dibawakan oleh The Cloves And The Tobacco.

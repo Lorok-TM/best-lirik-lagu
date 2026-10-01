@@ -2,7 +2,7 @@
 title: "Tat Calatet - Selvi Ayunda Feat. Andi KDI"
 date: 2024-08-24
 categories: 
-  - "madura"
+  - "Madura"
 ---
 
 LIRIKNYA BIAR DITULIS OLEH BUDI MAHENDRA

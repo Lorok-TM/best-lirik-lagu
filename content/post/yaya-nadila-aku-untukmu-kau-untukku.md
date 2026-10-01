@@ -2,7 +2,7 @@
 title: "Yaya Nadila - Aku Untukmu Kau Untukku"
 date: 2025-11-29
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Ku tunaikan tugasku Untuk setia bersamamu Janji yang terucap Sumpah yang ku genggam Sampai mati kan ku perjuangkan

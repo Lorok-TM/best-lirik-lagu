@@ -2,7 +2,7 @@
 title: "Fauzana - Sakik Ditangguang Paik Ditalan"
 date: 2023-04-21
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Katonyo uda bataguah janji Indak maungkai Nyatonyo denai bapatangisi jo parangai Harok di pintak elok laku Dapek kandak lain katuju Denai di cinto tapi urang uda rindu Denai di cinto tapi urang uda rindu

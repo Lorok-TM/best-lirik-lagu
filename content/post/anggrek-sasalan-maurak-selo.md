@@ -2,7 +2,7 @@
 title: "Anggrek - Sasalan Maurak Selo"
 date: 2025-06-04
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Tolong di inok ranuangkan dahulu da Jikok kini uda ka maurak selo Kok tumbuah sasa kudian indak paguno Elok di pikia pikia kan bana

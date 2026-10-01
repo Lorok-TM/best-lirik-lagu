@@ -2,7 +2,7 @@
 title: "Taufik Hidayat - Cinta Tahalang Harta dan Artinya"
 date: 2020-10-03
 categories: 
-  - "dayak"
+  - "Dayak"
 ---
 
 Title : Cinta Tahalang Harta Artist : Taufik Hidayat Songwriter : Apriyanto & Erlangga Category : Lagu Dayak Ngaju Kalteng

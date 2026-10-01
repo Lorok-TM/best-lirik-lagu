@@ -2,7 +2,7 @@
 title: "Ayu Amanda - Malu Malu Jatuah Cinto"
 date: 2024-03-04
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 **Lirik Malu Malu Jatuah Cinto - Ayu Amanda**

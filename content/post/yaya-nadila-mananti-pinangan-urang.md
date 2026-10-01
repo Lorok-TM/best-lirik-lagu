@@ -2,7 +2,7 @@
 title: "Yaya Nadila - Mananti Pinangan Urang"
 date: 2025-08-01
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Sairiang sabimbiang tangan Sabiduak kito sapandayuangan Tarapuang juo dilautan cinto Antah dima tapiannyo

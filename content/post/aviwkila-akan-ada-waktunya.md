@@ -2,7 +2,7 @@
 title: "Aviwkila - Akan Ada Waktunya"
 date: 2025-07-27
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Hidup harus dijalani Tanpa perlu tahu Apa saja yang akan terjadi Tak akan tertukar Yang ditakdirkan untukmu Pasti datang untukmu

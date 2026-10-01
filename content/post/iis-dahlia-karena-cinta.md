@@ -2,7 +2,7 @@
 title: "Iis Dahlia - Karena Cinta"
 date: 2023-06-24
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Lirik Lagu Indo dengan judul Karena Cinta yang dinyanyikan oleh Iis Dahlia dan diciptakan oleh Nanang Suwito dengan irama musik Dangdut.

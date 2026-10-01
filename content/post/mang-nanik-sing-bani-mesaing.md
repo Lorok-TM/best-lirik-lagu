@@ -2,7 +2,7 @@
 title: "Mang Nanik - Sing Bani Mesaing"
 date: 2025-11-06
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 Mule saje tiang tusing jegeg bli Penampilan tiang mase sing seksi Sube pasti sing masuk kategori Anak eluh idaman beli

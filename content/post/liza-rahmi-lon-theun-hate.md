@@ -2,7 +2,7 @@
 title: "Liza Rahmi - Lon Theun Hate"
 date: 2025-09-01
 categories: 
-  - "aceh"
+  - "Aceh"
 ---
 
 Lon duk Pih ulon dong U nireng u sampeng Sang perle pendampeng

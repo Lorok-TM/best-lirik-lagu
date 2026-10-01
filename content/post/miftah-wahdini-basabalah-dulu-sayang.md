@@ -2,7 +2,7 @@
 title: "Miftah Wahdini - Basabalah Dulu Sayang"
 date: 2021-07-13
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 **Lirik Basabalah Dulu Sayang - Miftah Wahdini**

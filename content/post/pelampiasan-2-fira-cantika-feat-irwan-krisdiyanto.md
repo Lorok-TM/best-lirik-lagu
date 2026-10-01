@@ -2,7 +2,7 @@
 title: "Pelampiasan 2 - Fira Cantika feat. Irwan Krisdiyanto"
 date: 2026-06-29
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 

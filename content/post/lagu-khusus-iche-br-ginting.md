@@ -2,7 +2,7 @@
 title: "Lagu Khusus - Iche Br Ginting"
 date: 2024-07-01
 categories: 
-  - "karo"
+  - "Karo"
 ---
 
 **Lirik Lagu Khusus - Iche Br Ginting**

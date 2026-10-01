@@ -2,7 +2,7 @@
 title: "Anyqu feat. Adim MF - Samo Saraso"
 date: 2025-10-03
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Samo samo saraso samo samo samalu Ulah dek cinto buto jan taburu napasu

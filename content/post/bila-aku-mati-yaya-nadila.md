@@ -2,7 +2,7 @@
 title: "Bila Aku Mati - Yaya Nadila"
 date: 2024-08-16
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Percuma jadi rembulan Bila malamku gelap Kau tutup mata tutup telinga Kasih sayangku tak kau rasakan

@@ -2,7 +2,7 @@
 title: "Thomas Arya ft Ovhi Firsty - Memori Cinta"
 date: 2023-02-05
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 Thomas Arya & Ovhi Firsty bersama Rael Pro rilis single Melayu berjudul "Memori Cinta" yang diciptakan oleh Emen, menceritakan tentang sebuah kenangan indah telah tercipta pada waktu dulu dan kini ingin kembali merasakan seperti pada masa itu.

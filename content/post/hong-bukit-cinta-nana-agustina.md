@@ -2,7 +2,7 @@
 title: "Hong Bukit Cinta - Nana Agustina"
 date: 2026-09-19
 categories: 
-  - "dayak"
+  - "Dayak"
 ---
 
 Kiu kius riwut sanja Mangius bereng itah due Katika tuh metuh asyik munduk hadarau Itah munduk santai habarau batekang

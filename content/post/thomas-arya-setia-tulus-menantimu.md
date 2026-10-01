@@ -2,7 +2,7 @@
 title: "Thomas Arya - Setia Tulus Menantimu"
 date: 2023-06-02
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 Lirik Lagu Melayu dengan judul Setia Tulus Menantimu yang dinyanyikan oleh Thomas Arya dan diciptakan oleh In Kundel dengan irama musik Slow Rock.

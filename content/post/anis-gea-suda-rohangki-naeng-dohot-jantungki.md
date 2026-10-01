@@ -2,7 +2,7 @@
 title: "Anis Gea - Suda Rohangki Naeng Dohot Jantungki"
 date: 2023-06-17
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Anis Gea dibawah naungan label Pelita Danau Toba rilis single dengan lirik dalam bahasa Batak berjudul "Suda Rohangki Naeng Dohot Jantungki" yang diciptakan oleh Buche Kulaleen.

@@ -2,7 +2,7 @@
 title: "Tacinto Sandaran Urang - Vany Thursdila"
 date: 2026-08-09
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 

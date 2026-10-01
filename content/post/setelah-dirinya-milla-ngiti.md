@@ -2,7 +2,7 @@
 title: "Setelah Dirinya - Milla Ngiti"
 date: 2025-01-10
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Setelah Dirinya yang dibawakan oleh Milla Ngiti.

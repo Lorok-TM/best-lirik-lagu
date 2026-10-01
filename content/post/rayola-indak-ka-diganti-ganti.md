@@ -2,7 +2,7 @@
 title: "Rayola - Indak Ka Diganti Ganti"
 date: 2025-09-23
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Ditanyo jan ditanyo da Sadalam apo cinto denaiko Jikok di timbang timbang di raso raso Beko tamalu uda jadinyo Jikok di timbang timbang di raso raso Beko tamalu uda jadinyo

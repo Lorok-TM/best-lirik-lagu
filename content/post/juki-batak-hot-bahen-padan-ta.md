@@ -2,7 +2,7 @@
 title: "Juki Batak - Hot Bahen Padan Ta"
 date: 2024-05-05
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 **Lirik Hot Bahen Padan Ta - Juki Batak**

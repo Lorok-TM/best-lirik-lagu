@@ -2,7 +2,7 @@
 title: "Ifandra feat. Adistia - Acok Talompek Kato"
 date: 2025-12-08
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Cando si bisu iyo nan parasian Muluik takunci hati nan bakato Taraso lai nan indak takatokan Marasai badan denai jadinyo Alun takileh lah tampak dimato Hatinyo adiak lain kandaknyo Lah barancano acok talompek kato Mambuek denai taluko

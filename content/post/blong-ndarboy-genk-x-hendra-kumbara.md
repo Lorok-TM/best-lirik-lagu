@@ -2,7 +2,7 @@
 title: "Blong - Ndarboy Genk X Hendra Kumbara"
 date: 2025-02-14
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Blong yang dibawakan oleh Ndarboy Genk Feat Hendra Kumbara.

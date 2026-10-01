@@ -2,7 +2,7 @@
 title: "Loro Telu Papat - Yeni Inka"
 date: 2025-03-25
 categories: 
-  - "religi"
+  - "Religi"
 ---
 
 Loro telu papat Loro telu papat Loro telu papat Kanggo pengiling sholat (2x)

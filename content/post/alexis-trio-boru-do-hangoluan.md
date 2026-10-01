@@ -2,7 +2,7 @@
 title: "Alexis Trio - Boru Do Hangoluan"
 date: 2026-09-04
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Mauliate ma di ho boru hasianku Na pature-turehon hami Ala so tuk be gogo nami di hatuaon nami on Mandalani parngoluonon

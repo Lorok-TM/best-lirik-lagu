@@ -2,7 +2,7 @@
 title: "Desman Laoli - Fili Manö"
 date: 2026-06-20
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 

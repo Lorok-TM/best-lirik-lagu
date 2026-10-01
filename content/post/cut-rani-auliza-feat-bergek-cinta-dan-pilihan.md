@@ -2,7 +2,7 @@
 title: "Cut Rani Auliza feat. Bergek - Cinta Dan Pilihan"
 date: 2025-11-01
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Walau sedunia orang menghinamu Tak kan pudar cintaku padamu Walau dirimu orang tak punya Namun kutau kau kaya cinta

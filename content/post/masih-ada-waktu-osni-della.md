@@ -2,7 +2,7 @@
 title: "Masih Ada Waktu - Osni Della"
 date: 2025-03-04
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Masih Ada Waktu yang dibawakan oleh Osni Della.

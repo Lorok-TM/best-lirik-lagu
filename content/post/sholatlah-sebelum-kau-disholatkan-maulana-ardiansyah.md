@@ -2,7 +2,7 @@
 title: "Sholatlah Sebelum Kau Disholatkan - Maulana Ardiansyah"
 date: 2025-04-02
 categories: 
-  - "religi"
+  - "Religi"
 ---
 
 Berapa banyak dosa yang kau buat Berapa kali engkau bermaksiat Sampai kapankah engkau kan bertaubat Siapkah engkau pulang ke akhirat

@@ -2,7 +2,7 @@
 title: "Thomas Arya - Satu Dalam Cinta feat. Elsa Pitaloka"
 date: 2025-11-23
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 \[Thomas\] Jarak tak kan pernah mampu Pisah cinta kau dan aku Kerna cintamu slalu ada di dalam hatiku Tumbuh indah bersemi di dalam sanubariku

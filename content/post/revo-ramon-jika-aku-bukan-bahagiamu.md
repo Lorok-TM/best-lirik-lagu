@@ -2,7 +2,7 @@
 title: "Revo Ramon - Jika Aku Bukan Bahagiamu"
 date: 2025-08-15
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Inikah yang kau sebut cinta Bertahan sakit pergi terluka Aku merasa tertipu karenamu Terkurung dipenjara cintamu

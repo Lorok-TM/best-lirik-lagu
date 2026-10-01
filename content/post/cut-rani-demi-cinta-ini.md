@@ -2,7 +2,7 @@
 title: "Cut Rani - Demi Cinta Ini"
 date: 2024-03-20
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 **Lirik Demi Cinta Ini - Cut Rani**

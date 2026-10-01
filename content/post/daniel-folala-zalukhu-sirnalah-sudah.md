@@ -2,7 +2,7 @@
 title: "Daniel Folala Zalukhu - Sirnalah Sudah"
 date: 2023-04-19
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 Lirik Lagu Nias dengan judul Sirnalah Sudah yang dinyanyikan dan diciptakan oleh Daniel Folala Zalukhu dengan irama musik Dangdut.

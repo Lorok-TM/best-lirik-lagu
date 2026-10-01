@@ -6,7 +6,7 @@ slug: lavora-opo-opo-dewe
 featured: false
 draft: false
 categories: 
-  - "Java"
+  - "Jawa"
 ---
 
 Aku bingung kudu pie  

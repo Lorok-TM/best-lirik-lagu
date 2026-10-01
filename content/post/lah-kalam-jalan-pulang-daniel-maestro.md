@@ -2,7 +2,7 @@
 title: "Lah Kalam Jalan Pulang - Daniel Maestro"
 date: 2025-02-28
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Lah Kalam Jalan Pulang yang dibawakan oleh Daniel Maestro.

@@ -2,7 +2,7 @@
 title: "Di Sangko Panuah Kironyo Satangah - Pinki Prananda"
 date: 2026-06-26
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 

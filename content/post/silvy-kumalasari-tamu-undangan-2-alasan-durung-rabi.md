@@ -2,7 +2,7 @@
 title: "Silvy Kumalasari - Tamu Undangan 2 (Alasan Durung Rabi)"
 date: 2026-07-09
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 

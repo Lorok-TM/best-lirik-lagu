@@ -2,7 +2,7 @@
 title: "Puja Saiba - Tapacik Di Nan Sansai"
 date: 2025-04-22
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Urang manjaik nan jo sikoci Awak manjaik jo banang salai Urang tatompang yo di nan lai Awak tapacik yo di nan sansai

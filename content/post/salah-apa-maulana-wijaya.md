@@ -2,7 +2,7 @@
 title: "Salah Apa - Maulana Wijaya"
 date: 2026-07-27
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Berakhir jua akhirnya Usai sudah tertuang semua Adakah engkau sisakan sedikit rasa bahagia Sungguh tega

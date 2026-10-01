@@ -2,7 +2,7 @@
 title: "Difarina Indra Adella - Papi Papi Pu"
 date: 2025-08-08
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Cah cobo kae sawangen Netijen podo ora seneng Cangkeme mengo ora iso mingkem Matane menteleng menteleng

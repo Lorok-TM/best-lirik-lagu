@@ -2,7 +2,7 @@
 title: "Gustrian Geno - Tak Pantas Kurindukan"
 date: 2022-09-30
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Title : Tak Pantas Kurindukan Artist : Gustrian Geno Songwriter : Faisal Asahan Label : Koko Record Category : Lagu Pop Melayu

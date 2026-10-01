@@ -2,7 +2,7 @@
 title: "Arghado Trio - Makkaholongi Pargabus"
 date: 2025-10-16
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Aha be dia be…nalao sidohononku Dang naso holong rohakku tuho Hodo nalao manadikkon au Haccit dope huhilala pambaenanmi na salelengon

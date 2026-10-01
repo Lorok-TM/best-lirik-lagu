@@ -2,7 +2,7 @@
 title: "Fauzana - Alun Rasaki"
 date: 2025-04-26
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Jan barabuik rabuik ndeh tuan Beko taganggam duri dek tangan Rasaki ka tibo lah jaleh nan punyo Nan di awak Indak ka di urang

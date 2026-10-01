@@ -2,7 +2,7 @@
 title: "Hadirmu Kasih - Biyah Arsela"
 date: 2025-04-16
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Verse : Sejak kau hadir kasih.. Bisikan manja menemu dirimu.. Rekut dalam medahku.. Kedamaian hati.. kau miliki..

@@ -2,7 +2,7 @@
 title: "Yeni Sinaga - Tu Langit I"
 date: 2026-01-10
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Ho songon dia Ma dalanku pasahathon lungunki tu ho Nunga sursur magopu rohangki Mangangguhi nga mahiang ilu ilungki

@@ -2,7 +2,7 @@
 title: "Seng Mungkin Jadi Nyata - Felisya Tanrobak"
 date: 2025-01-23
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Seng Mungkin Jadi Nyata yang dibawakan oleh Felisya Tanrobak.

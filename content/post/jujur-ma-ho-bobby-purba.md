@@ -2,7 +2,7 @@
 title: "Jujur Ma Ho - Bobby Purba"
 date: 2025-02-21
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Jujur Ma Ho yang dibawakan oleh Bobby Purba.

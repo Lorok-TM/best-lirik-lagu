@@ -2,7 +2,7 @@
 title: "Patining Liau - Kristin Feat Sriweni"
 date: 2026-09-15
 categories: 
-  - "dayak"
+  - "Dayak"
 ---
 
 Kue hasupa marak benye benyem Dia paduli hakaput pijem Kueh angat je dare darem Awi takana riwut hamalem

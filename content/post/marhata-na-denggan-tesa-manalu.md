@@ -2,7 +2,7 @@
 title: "Marhata Na Denggan - Tesa Manalu"
 date: 2025-04-19
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Lam torop do jolma di partikkian on Na so mangargahon hatana sandiri Marhata na so suman maradaphon donganna i Na jotjot mambaen haccit ni roha

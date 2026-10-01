@@ -2,7 +2,7 @@
 title: "Niken Salindry - Kesayangan"
 date: 2026-09-04
 categories: 
-  - "campursari"
+  - "Campursari"
 ---
 
 Aku ra ngemis, ning atiku miris Curiga rasane opo wis ono gantine Kamongko aku isih sayang Tresnaku ora bakal ilang

@@ -2,7 +2,7 @@
 title: "Pinki Prananda, Eno Viola - Garah Bagarah"
 date: 2025-06-15
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Garah bagarah asa mulo nyo Garitiak hati tumbuah lah raso Batamu pandang hati bakato Denai malu diak katokan cinto Batamu pandang hati bakato Denai malu diak katokan cinto

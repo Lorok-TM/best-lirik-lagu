@@ -2,7 +2,7 @@
 title: "Valdy Nyonk - Drama Dusta"
 date: 2025-08-13
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Aku sudah percaya Kau menghiyanatinya Aku sudah setia Kau malah mendua

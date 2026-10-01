@@ -2,7 +2,7 @@
 title: "Asmara Kerinduan - Dike Sabrina"
 date: 2026-07-22
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Entah.. Sampai kapan kau dan aku Jalani asmara Menunggu pertemuan tiba

@@ -2,7 +2,7 @@
 title: "Indah Delvia - Seso Sakujua Badan"
 date: 2025-08-06
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Elok siparatian bacurahkan ka uda Bak raso nan kurang juo Dima latak salahnyo sibadan diri nan ko Dimato uda

@@ -2,7 +2,7 @@
 title: "Hati Yang Inginkanmu - Dudy Oris"
 date: 2025-02-06
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Hati Yang Inginkanmu yang dibawakan oleh Dudy Oris.

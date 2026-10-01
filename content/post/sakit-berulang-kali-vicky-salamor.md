@@ -2,7 +2,7 @@
 title: "Sakit Berulang Kali - Vicky Salamor"
 date: 2025-04-09
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 Beta su paleng sabar Sampe sakarang ini Mar se seng sadar Se tetap menyakiti

@@ -2,7 +2,7 @@
 title: "Ainida Diaz - Sangketo Harato Pusako"
 date: 2025-08-28
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Tinggi manjulang batang batuang Akanyo manjelo dalam talago Basabab denai tinggakan kampuang Karano sangketo harato pusako

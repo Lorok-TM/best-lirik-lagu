@@ -2,7 +2,7 @@
 title: "Ngertenono Ati - Silvy Kumalasari"
 date: 2025-03-11
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Aku ra nuntut opo meneh nglarang keras Kowe ameh cedak ro kancamu lanang Yen pancene tresnamu tenan nggo aku Mesti iso mikir batese pergaulanmu

@@ -2,7 +2,7 @@
 title: "Azizah Maumere - Menunggu Janji Setia feat. Mubai"
 date: 2025-09-03
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Sampai mati ku tak akan pernah Menduakan cintamu sayang Ku akan selalu setia Walaupun kau yang disana

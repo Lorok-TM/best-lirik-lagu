@@ -2,7 +2,7 @@
 title: "Indah Delvia - Sajalan Indak Satujuan"
 date: 2025-08-30
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Luruih jalan basimpang Bakelok indak satujuan Putuih lapeh bimbiangan Dipikia untuang surang surang

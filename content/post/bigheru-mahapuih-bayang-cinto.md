@@ -2,7 +2,7 @@
 title: "Bigheru - Mahapuih Bayang Cinto"
 date: 2025-07-05
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Usah bacari bana salah Lah pueh rasonyo di denai mangalah Dibatin lah mulai tak namuah manarimo Bialah paik dari pado manangguang luko

@@ -2,7 +2,7 @@
 title: "Bigheru - Cimburu Bakalabiahan feat. Sri Fayola"
 date: 2025-07-09
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Dimano lah tak tampak Salah dibadan diri Mangkonyo uda kasampai hati Kini lah baungkai janji Sadangnyo arek kasiah tajalin Cinto uda sudahi

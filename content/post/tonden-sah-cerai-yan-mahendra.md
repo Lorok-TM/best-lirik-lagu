@@ -2,7 +2,7 @@
 title: "Tonden Sah Cerai - Yan Mahendra"
 date: 2024-11-07
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 Rikale sebet hatine Ulian kebogbogin anak eluh Ne be mekurenan Pengakune nu bajang Ne sanget bakat sebetang Nepukin reramane mecanda Kadi ngarepang adi Padik dadi kurenan beli

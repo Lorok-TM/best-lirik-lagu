@@ -2,7 +2,7 @@
 title: "Dedy Marikit - Tatap Ije Atei feat. Silviana"
 date: 2021-06-21
 categories: 
-  - "dayak"
+  - "Dayak"
   - "remix"
 ---
 

@@ -2,7 +2,7 @@
 title: "Kesya Peni - Janji Suci dan Artinya"
 date: 2023-05-29
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 Kesya Peni rilis single dengan lirik dalam bahasa Bali berjudul "Janji Suci" yang artinya ya "Janji Suci", menceritakan tentang sepasang kekasih yang sama sama berusaha menjaga janji cinta suci mereka berdua. Untuk lebih jelasnya silahkan Anda baca terjemahan lirik lagunya berada dibawah.

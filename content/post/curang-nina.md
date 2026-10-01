@@ -2,7 +2,7 @@
 title: "Curang - Nina"
 date: 2024-07-03
 categories: 
-  - "sunda"
+  - "Sunda"
 ---
 
 **Lirik Curang - Nina**

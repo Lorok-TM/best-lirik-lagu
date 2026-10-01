@@ -2,7 +2,7 @@
 title: "David Iztambul - Kamari Pentang"
 date: 2025-08-15
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Lahia jo batin denai rilakan Indak kamungkin jo denai bajalin Cando tamakan buah simalakamo Kamari pentang badan jadinyo

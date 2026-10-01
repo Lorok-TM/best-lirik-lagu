@@ -2,7 +2,7 @@
 title: "Ratok Kincia Tuo - Eno Viola Feat Ridho Zulma"
 date: 2025-04-21
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Banda lah kariang samak lah tumbuah Badan nan tingga indak paguno Sumbu lungga pasak lah rapuah Co iko nasib si kincia tuo Sumbu lungga pasak lah rapuah Co iko nasib si kincia tuo

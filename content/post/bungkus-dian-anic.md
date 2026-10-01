@@ -2,7 +2,7 @@
 title: "Bungkus - Dian Anic"
 date: 2024-09-30
 categories: 
-  - "tarling"
+  - "Tarling"
 ---
 
 Sampean pengen putus bungkus Pengen lanjut hubungan bungkus Asal masih setia bungkus Yen ora setia bli tek bungkus

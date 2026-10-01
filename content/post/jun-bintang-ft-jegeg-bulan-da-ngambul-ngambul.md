@@ -2,7 +2,7 @@
 title: "Jun Bintang ft. Jegeg Bulan - Da Ngambul Ngambul"
 date: 2023-03-10
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 Lirik Lagu Bali dengan judul Da Ngambul Ngambul yang dinyanyikan oleh Jun Bintang Feat. Jegeg Bulan dan diciptakan oleh Gana Arya dengan irama musik Reggae.

@@ -2,7 +2,7 @@
 title: "Peucuma Loen Gaseh - Cut Rani Auliza"
 date: 2025-04-02
 categories: 
-  - "aceh"
+  - "Aceh"
 ---
 
 Lon sayang kanda uroe ngen malam Sabe loen bayang wajah oh kanda Senang hate loen wate masa nyan Sabe teukenang di dalam hate

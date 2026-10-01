@@ -2,7 +2,7 @@
 title: "Jan Banyak Kandak - Ridho Zulma Feat Sisna Cinaka"
 date: 2025-04-06
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Usah di ikuik bana Usah di turuik bana Caro urang nan di jaman kini Caliak urang ba oto Inyo nak iyo pulo Tapi ndak bapiti

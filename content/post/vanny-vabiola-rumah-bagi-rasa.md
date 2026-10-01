@@ -2,7 +2,7 @@
 title: "Vanny Vabiola - Rumah Bagi Rasa"
 date: 2026-01-29
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Aku temukan kenangan bersamamu Hari hari terasa lebih berarti Dalam sunyi pun kau selalu ada Menjaga hatiku tetap berdiri

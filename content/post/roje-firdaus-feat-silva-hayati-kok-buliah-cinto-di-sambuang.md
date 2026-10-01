@@ -2,7 +2,7 @@
 title: "Roje Firdaus feat. Silva Hayati - Kok Buliah Cinto Di Sambuang"
 date: 2025-10-29
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Di mato tangih lah denai hapuih Di batin luko alun lai cegak Baru babari kato putuih Gantinyo lah tampak

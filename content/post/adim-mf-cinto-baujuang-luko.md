@@ -2,7 +2,7 @@
 title: "Adim MF - Cinto Baujuang Luko"
 date: 2023-03-27
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Lirik Lagu Minang dengan judul Cinto Baujuang Luko yang dinyanyikan dan diciptakan oleh Adim MF dengan irama musik Pop.

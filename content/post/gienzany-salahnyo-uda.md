@@ -2,7 +2,7 @@
 title: "Gienzany - Salahnyo Uda"
 date: 2025-04-25
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Jikok takuik tabaka Manga bamain api Jikok anggan taluko Manga dulu malukoi

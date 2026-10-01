@@ -2,7 +2,7 @@
 title: "Fany Zee - Tak Mampu Berpisah"
 date: 2026-09-04
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Sakitnya sungguh tiada terkira Luka yang kau goreskan untukku Tenggelamku di lautan cinta Kerna terbuai rayuanmu.

@@ -2,7 +2,7 @@
 title: "Menyesal Tlah Memilihmu - Rheka Restu"
 date: 2025-02-12
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Menyesal Telah Memilihmu yang dibawakan oleh Rheka Restu.

@@ -2,7 +2,7 @@
 title: "Mutiara Zalifa - Sayang Ba Ujuang Luko"
 date: 2026-08-18
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 

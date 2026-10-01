@@ -2,7 +2,7 @@
 title: "Zaky Edra - Lasuang Tuo"
 date: 2025-09-02
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Kini lapuak talatak sajo Tampek bataduah nan alah tiri Co iko nasib lasuang tuo Lupo carito jaso pun abih

@@ -2,7 +2,7 @@
 title: "Harry Parintang - Elo Si Saruang"
 date: 2023-03-31
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Lirik Lagu Minang dengan judul Elo Si Saruang yang dinyanyikan oleh Harry Parintang dan diciptakan oleh Ajhay Pasma dengan irama musik Pop.

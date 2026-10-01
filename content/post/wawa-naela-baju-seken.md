@@ -2,7 +2,7 @@
 title: "Wawa Naela - Baju Seken"
 date: 2025-08-06
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Denai nak ka manggaleh Manggaleh dirumah sajo Asa lai ka balabo Baju seken jadi juo

@@ -2,7 +2,7 @@
 title: "Valdy Nyonk - Menjaga Jodoh Orang"
 date: 2025-09-05
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Sia-sia aku berjuang Kenyataannya aku yang kau tinggalkan Bertapa sakit ku rasakan Selama ini ku menjaga jodoh orang

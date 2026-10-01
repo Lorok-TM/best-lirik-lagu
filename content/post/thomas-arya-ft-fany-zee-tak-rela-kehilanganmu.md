@@ -2,7 +2,7 @@
 title: "Thomas Arya ft Fany Zee - Tak Rela Kehilanganmu"
 date: 2023-06-03
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 Lirik Lagu Melayu dengan judul Tak Rela Kehilanganmu yang dinyanyikan oleh Thomas Arya Feat. Fany Zee dan diciptakan oleh Amri Damanin dengan irama musik Slow Rock.

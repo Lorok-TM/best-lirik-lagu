@@ -2,7 +2,7 @@
 title: "Ancy Larisqie & Pinantie - Pusa Dia Bele Pundang"
 date: 2024-05-23
 categories: 
-  - "dayak"
+  - "Dayak"
 ---
 
 **Lirik Ancy Larisqie Feat Pinantie - Pusa Dia Bele Pundang**

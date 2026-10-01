@@ -2,7 +2,7 @@
 title: "Mitha Talahatu - Cukup Sampe Disini"
 date: 2023-03-20
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 Lirik Lagu Timur dengan judul Cukup Sampe Disini yang dinyanyikan oleh Mitha Talahatu dan diciptakan oleh Teddy Balubun dengan irama musik Pop.

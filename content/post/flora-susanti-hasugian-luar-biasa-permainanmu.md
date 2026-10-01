@@ -2,7 +2,7 @@
 title: "Flora Susanti Hasugian - Luar Biasa Permainanmu"
 date: 2024-05-23
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 **Lirik Luar Biasa Permainanmu - Flora Susanti Hasugian**

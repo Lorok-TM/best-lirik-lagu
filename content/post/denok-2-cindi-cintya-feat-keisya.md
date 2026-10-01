@@ -2,7 +2,7 @@
 title: "Denok 2 - Cindi Cintya feat Keisya"
 date: 2026-07-21
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 Tak anti anti Saben rino lan wengi Mung tansah kebayang bayang Esem guyumu sayang

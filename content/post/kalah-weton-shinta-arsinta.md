@@ -2,7 +2,7 @@
 title: "Kalah Weton - Shinta Arsinta"
 date: 2025-01-24
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Kalah Weton yang dibawakan oleh Shinta Arsinta.

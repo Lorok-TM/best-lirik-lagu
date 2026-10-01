@@ -2,7 +2,7 @@
 title: "Tiop Ma Gomos - Tabita Sipahutar"
 date: 2025-04-15
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Toppu mangullus tu sipareon ki Hatami lao mangalusi au Dijalo ho ito da holongki Mekkel suping ho mandok na olo do ho

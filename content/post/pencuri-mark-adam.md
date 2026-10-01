@@ -2,7 +2,7 @@
 title: "Pencuri - Mark Adam"
 date: 2025-01-09
 categories: 
-  - "malaysia"
+  - "Malaysia"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Pencuri yang dibawakan oleh Mark Adam.

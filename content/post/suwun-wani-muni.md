@@ -2,7 +2,7 @@
 title: "Suwun - Wani Muni"
 date: 2025-05-27
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 Verse : Wis kadung njogo ati.. Ngguwak wektu nggo ngancani Awan wengi.. Nggo wong sing tak tresnani..

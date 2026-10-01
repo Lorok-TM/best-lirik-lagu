@@ -2,7 +2,7 @@
 title: "Rindu Mengusik Kenangan - Thomas Arya"
 date: 2025-03-02
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Rindu Mengusik Kenangan yang dibawakan oleh Thomas Arya.

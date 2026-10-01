@@ -2,7 +2,7 @@
 title: "Cantika Nuswantoro Adella - Tamu Undangan"
 date: 2025-11-15
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Minggu esok adus mruput, gas tipis ning resepsimu Nyekseni ijab kobul koe ro bojomu Statusku mbiyen pacar saiki tamu undangan Kelangan koe aku oleh ijol prasmanan

@@ -2,7 +2,7 @@
 title: "Minta Tolong - Gitarena Br Ginting"
 date: 2024-07-01
 categories: 
-  - "karo"
+  - "Karo"
 ---
 
 **Lirik Minta Tolong - Gitarena Br Ginting**

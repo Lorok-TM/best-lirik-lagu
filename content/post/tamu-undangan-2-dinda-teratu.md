@@ -2,7 +2,7 @@
 title: "Tamu Undangan 2 - Dinda Teratu"
 date: 2026-07-09
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 

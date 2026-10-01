@@ -2,7 +2,7 @@
 title: "Pai Indak Ka Babaliak - Rayola"
 date: 2025-04-08
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Antaro kito da tingga maso lalu Buliah dikana da tak buliah dirindu Denai kini sudah bimbiangan urang Dapek pangganti badan batompang Denai kini sudah bimbiangan urang Dapek pangganti badan batompang

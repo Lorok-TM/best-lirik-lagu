@@ -2,7 +2,7 @@
 title: "Yona Irma - Pandai Pandai Hiduik feat. Ajo Buset"
 date: 2025-09-21
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Yo nan bajariah ndeh kanduang Pantang ndak buliah Yo nan rang panggaleh makanan labo Jikok karajo yo kanduang usah pamiliah Untuang kok isuak oi kito mancubo kayo

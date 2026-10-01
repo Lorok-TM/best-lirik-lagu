@@ -2,7 +2,7 @@
 title: "Roje Firdaus - Sabanyak Sayang Sabanyak Banci"
 date: 2025-11-16
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Kok talulua sajo kuliknyo Asuangan pitanah urang Mungkin kito bapisah Sadangkan salomo ko Kito panek manjago Kasiah sayang jo cinto

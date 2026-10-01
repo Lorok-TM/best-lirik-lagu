@@ -2,7 +2,7 @@
 title: "Elsa Pitaloka - Jangan Salahkan Keadaan"
 date: 2023-01-04
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Lirik Lagu Melayu dengan judul Jangan Salahkan Keadaan yang dinyanyikan oleh Elsa Pitaloka dan diciptakan oleh Saf Saha dengan irama musik Slow Rock.

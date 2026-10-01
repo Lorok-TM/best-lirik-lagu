@@ -2,7 +2,7 @@
 title: "Tresno Selawase - Arya Galih"
 date: 2025-02-12
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Tresno Selawase yang dibawakan oleh Arya Galih.

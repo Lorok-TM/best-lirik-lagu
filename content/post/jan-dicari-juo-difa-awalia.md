@@ -2,7 +2,7 @@
 title: "Jan Dicari Juo - Difa Awalia"
 date: 2026-09-05
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Harok Cahayo Bulan Nan Tarang Suluah Di Tangan Adiak Padamkan Kiro Nyo Bulan Tahalang Awan Adiak Tagamang

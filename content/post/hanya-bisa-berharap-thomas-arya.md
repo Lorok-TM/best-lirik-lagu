@@ -2,7 +2,7 @@
 title: "Hanya Bisa Berharap - Thomas Arya"
 date: 2025-02-09
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Hanya Bisa Berharap yang dibawakan oleh Thomas Arya.

@@ -2,7 +2,7 @@
 title: "Pantun Ketapang"
 date: 2024-09-27
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Pagi pagi pergi ke kebun Untuk memetik buah pepaya Mari bersatu kita membangun Ketapang maju dan sejahtera

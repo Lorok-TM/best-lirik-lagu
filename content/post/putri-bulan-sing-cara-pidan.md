@@ -2,7 +2,7 @@
 title: "Putri Bulan - Sing Cara Pidan dan Artinya"
 date: 2023-07-08
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 Beli sing cara pidan Beli slalu sibuk sing taen ade waktu Beli sing cara pidan Ne jani iraga suba kapah ketemu

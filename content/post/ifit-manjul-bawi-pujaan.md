@@ -2,7 +2,7 @@
 title: "Ifit Manjul - Bawi Pujaan dan Artinya"
 date: 2022-08-31
 categories: 
-  - "dayak"
+  - "Dayak"
   - "remix"
 ---
 

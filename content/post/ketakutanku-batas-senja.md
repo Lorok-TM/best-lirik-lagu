@@ -2,7 +2,7 @@
 title: "Ketakutanku - Batas Senja"
 date: 2026-07-27
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Mekar bunga di pagi buta Seolah dia ingin menyapa Selamat pagi, yang ku cinta Sini peluk dulu ya

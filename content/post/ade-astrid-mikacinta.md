@@ -2,7 +2,7 @@
 title: "Ade Astrid - Mikacinta"
 date: 2025-08-21
 categories: 
-  - "sunda"
+  - "Sunda"
 ---
 
 Sok lieur ngemutanana Mikacinta kasalira Kitu salah kieu lain Na kumaha lieur ngabandunganana

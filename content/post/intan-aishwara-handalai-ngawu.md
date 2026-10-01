@@ -2,7 +2,7 @@
 title: "Intan Aishwara - Handalai Ngawu"
 date: 2024-04-20
 categories: 
-  - "dayak"
+  - "Dayak"
   - "remix"
 ---
 

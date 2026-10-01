@@ -2,7 +2,7 @@
 title: "Selsus Waruwu - Tenga Boro Ndraodo"
 date: 2022-01-04
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 ## Lirik Lagu Nias ”Tenga Boro Ndraodo“ by Selsus Waruwu

@@ -2,7 +2,7 @@
 title: "Rayola - Biakan Denai Surang"
 date: 2025-06-23
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Pai pai lah uda Biakanlah denai surang Cinto antaro kito usah dikana juo Kato alah talompek Janjian kito sudah Sungguah indak ka dapekka denai rubah Sakik sakik hati nangkoditikam tajam nyo kato

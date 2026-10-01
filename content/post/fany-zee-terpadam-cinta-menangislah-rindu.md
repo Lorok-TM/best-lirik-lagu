@@ -2,7 +2,7 @@
 title: "Fany Zee - Terpadam Cinta Menangislah Rindu"
 date: 2026-02-19
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 Telah terpadam cinta Yang selama ini menerangi hari ku Lenyap lah sudah rindu Yang selama ini menjadi teman hati

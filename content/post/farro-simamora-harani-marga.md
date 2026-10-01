@@ -2,7 +2,7 @@
 title: "Farro Simamora - Harani Marga"
 date: 2025-05-31
 categories: 
-  - "tapsel"
+  - "Tapsel"
 ---
 
 Ulang ho manyangka Au nakehe mandao sian ho Orang tuamu do Naso setuju di hubunganta

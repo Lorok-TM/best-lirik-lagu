@@ -2,7 +2,7 @@
 title: "Asbak Band - Jujur"
 date: 2026-09-20
 categories: 
-  - "band"
+  - "Band"
 ---
 
 Jujur aku memang suka kepada dirimu Kamu luar biasa

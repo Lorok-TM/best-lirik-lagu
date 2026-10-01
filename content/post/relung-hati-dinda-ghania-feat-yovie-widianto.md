@@ -2,7 +2,7 @@
 title: "Relung Hati - Dinda Ghania feat. Yovie Widianto"
 date: 2026-08-02
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Kemarin ku melihat tak seperti biasanya Ada yang berbeda dari tatapan mata Kau katakan akan pergi tak ada kisah kita lagi Tak sadarkah dirimu kau lukai aku?

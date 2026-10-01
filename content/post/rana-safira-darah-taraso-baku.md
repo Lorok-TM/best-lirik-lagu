@@ -2,7 +2,7 @@
 title: "Rana Safira - Darah Taraso Baku"
 date: 2026-08-11
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 

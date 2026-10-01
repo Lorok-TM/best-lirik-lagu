@@ -2,7 +2,7 @@
 title: "Silva Hayati - Bialah Badan Tasisiah"
 date: 2025-04-25
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Lah tanang denai manjauah Nan kanduang ndak ka tagaduah Manga juo ndak baranti mancari karuah Kok taragak jo kampuang ndak ka den tampuah

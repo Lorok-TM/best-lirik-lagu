@@ -2,7 +2,7 @@
 title: "Tempat Singgah - Glenn Sebastian"
 date: 2025-05-10
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 Cinta kadang seng adil par beta Semua palsu mar kelihatan nyata Di muka nona kasih senyum Di belakang tkam sampe luka Nona kas nyala api Bakar semua lalu pigi

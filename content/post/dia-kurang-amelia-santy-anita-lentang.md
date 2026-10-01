@@ -2,7 +2,7 @@
 title: "Dia Kurang - Amelia Santy / Anita Lentang"
 date: 2024-06-26
 categories: 
-  - "dayak"
+  - "Dayak"
 ---
 
 **Lirik Dia Kurang - Amelia Santy / Anita Lentang**

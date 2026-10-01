@@ -2,7 +2,7 @@
 title: "Anggrek - Obati Rindu"
 date: 2025-04-21
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 ## Lirik Lagu Obati Rindu - Anggrek

@@ -2,7 +2,7 @@
 title: "Trio Lamtama - Siboan Dalan Na Be"
 date: 2025-09-24
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Tangkas di boto ho do Tulus ni cintaku Holan tuho sasada ho nadirohaku Hape tung andul do alusmi tu au Di gantung hodo cintaki ale netty

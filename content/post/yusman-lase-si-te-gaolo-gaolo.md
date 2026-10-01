@@ -2,7 +2,7 @@
 title: "Yusman Lase - Si Te Gaolo Gaolo"
 date: 2026-06-09
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 

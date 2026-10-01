@@ -2,7 +2,7 @@
 title: "Thomas Arya - Dimana Letak Setiamu"
 date: 2022-12-25
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 Lirik Lagu Melayu dengan judul Dimana Letak Setiamu yang dinyanyikan dan diciptakan oleh Thomas Arya dengan irama musik Slow Rock.

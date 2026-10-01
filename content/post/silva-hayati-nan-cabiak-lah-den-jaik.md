@@ -2,7 +2,7 @@
 title: "Silva Hayati - Nan Cabiak Lah Den Jaik"
 date: 2025-09-26
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Picayolah denai ndak baa baa Walau padiah den masih bisa saba Nan hatiko indaklah ka barubah Jadi barek sabalah manimbang jo manaka

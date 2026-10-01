@@ -2,7 +2,7 @@
 title: "Rizwan Fadilah - Tanda Tanya"
 date: 2025-07-26
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Apa salah jika ku banyak diam Tak bicara bukan berarti tak membaca Sikap yang terburu-buru padaku Yang tak terbiasa Minta perhatian Pelan-pelan saja Membujuk rayuan

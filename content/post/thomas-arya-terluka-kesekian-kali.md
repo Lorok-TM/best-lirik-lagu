@@ -2,7 +2,7 @@
 title: "Thomas Arya - Terluka Kesekian Kali"
 date: 2023-06-18
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 Thomas Arya rilis single Melayu berjudul "Terluka Kesekian Kali", menceritakan tentang seseorang yang berulang kali tersakiti hatinya.

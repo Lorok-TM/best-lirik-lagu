@@ -2,7 +2,7 @@
 title: "Pantun Gawai - Vitri Feat. Irawati"
 date: 2024-07-13
 categories: 
-  - "dayak"
+  - "Dayak"
 ---
 
 **Berikut lirik Pantun Gawai yang dinyanyikan oleh Vitri Feat Irawati.**

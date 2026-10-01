@@ -2,7 +2,7 @@
 title: "B-Three Star - Asal Ma Olo Di Au"
 date: 2025-08-23
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Diida ho do bintang an Humirdop irdop tung uli Huputik pe sada hubuat na umbalga i Asal ma olo ho di au

@@ -2,7 +2,7 @@
 title: "Aku Suka Padamu - Cut Rani Auliza"
 date: 2026-07-19
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Berapa kali kubilang Aku suka kepadamu Selalu yg kukatakan Aku ingin bersama mu

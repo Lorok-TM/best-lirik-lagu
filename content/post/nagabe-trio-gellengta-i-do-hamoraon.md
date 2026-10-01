@@ -2,7 +2,7 @@
 title: "Nagabe Trio - Gellengta I Do Hamoraon"
 date: 2026-09-04
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Inang ni gellengku Boru ni rajaku na burju Unang sai holsoan di hapogoson Unang sai manarita Marnida dongan na lobi pansarian

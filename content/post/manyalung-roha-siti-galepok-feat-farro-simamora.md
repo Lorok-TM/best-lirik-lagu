@@ -2,7 +2,7 @@
 title: "Manyalung Roha - Siti Galepok Feat Farro Simamora"
 date: 2025-01-27
 categories: 
-  - "tapsel"
+  - "Tapsel"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Manyalung Roha yang dibawakan oleh Siti Galepok Ft Farro Simamora.

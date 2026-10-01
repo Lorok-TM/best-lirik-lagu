@@ -2,7 +2,7 @@
 title: "Ngapain Repot - Toton Caribo Feat Wizz Baker, Fresly Nikijuluw"
 date: 2025-04-14
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 Jang lanjut chat nanti laba Shareloc saja kau di mana bakudapa Ade ko bagus inikah Sumpah sa mau nikah Jang beking pusing Sa pusing karna umur su tua

@@ -2,7 +2,7 @@
 title: "Sulam Pacah Ragi - Wulan Putri"
 date: 2025-02-06
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Sulam Pacah Ragi yang dibawakan oleh Wulan Putri.

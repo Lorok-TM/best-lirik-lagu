@@ -2,7 +2,7 @@
 title: "Rezana Kalit - Poda"
 date: 2025-07-14
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Tu hamu anakkonhu, anak nang boruku Tangi ma hamu di hata podaki uju dingolukkon Si sada tampuk do hamu jala si sada mudar i Asa sada ma rohamu na marhaha anggi ibotoi

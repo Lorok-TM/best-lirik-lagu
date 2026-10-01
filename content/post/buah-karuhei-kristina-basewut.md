@@ -2,7 +2,7 @@
 title: "Buah Karuhei - Kristina Basewut"
 date: 2026-09-18
 categories: 
-  - "dayak"
+  - "Dayak"
 ---
 
 > Ikau hatue tanduhan atei Santar ingganang huang tanjung tetei Katahin cinta jadi namuei Je ihuang kuh tikas kaka bewei

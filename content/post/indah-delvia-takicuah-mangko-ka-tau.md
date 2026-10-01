@@ -2,7 +2,7 @@
 title: "Indah Delvia - Takicuah Mangko Ka Tau"
 date: 2025-08-16
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Hanyo tambilang nan ka mamasihkan cinto Baitu dulu uda bakato Lah sapanuah nyo picayo Raso tak ka baurak kato Kini tampak nyato Lah batulak balakang kironyo

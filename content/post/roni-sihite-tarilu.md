@@ -2,7 +2,7 @@
 title: "Roni Sihite - Tarilu"
 date: 2025-12-08
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Rohaki nian unang be sai di anggap ho Na marmeam-mean au manghaholongi ho Unang be sai alus na gait Molo hudok holong ni rohaki tu ho Nasa na adong di au hulehon do tu ho Dohot hahurangan hi patar doi diho Di jolo nang di pudi mi Dang hea marbuni-buni au

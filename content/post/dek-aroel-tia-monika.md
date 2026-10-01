@@ -2,7 +2,7 @@
 title: "Dek Aroel - Tia Monika"
 date: 2025-05-03
 categories: 
-  - "aceh"
+  - "Aceh"
 ---
 
 Ee poma neu bantu uloen Ka jatuh cinta keu sidroe dara Ureung jih tari sang putri raja Pakiban cara neu ucap cinta

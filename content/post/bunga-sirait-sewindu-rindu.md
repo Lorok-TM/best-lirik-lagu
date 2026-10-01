@@ -2,7 +2,7 @@
 title: "Bunga Sirait - Sewindu Rindu"
 date: 2025-10-04
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Sudah sewindu ku di dekatmu Ada di setiap pagi, di sepanjang harimu Tak mungkin bila engkau tak tahu Bila ku menyimpan rasa yang ku pendam sejak lama

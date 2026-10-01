@@ -2,7 +2,7 @@
 title: "Iqbal Mahesa - Rantau Basarang Tangih"
 date: 2025-08-19
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Tatagun langkah kaki den ayun Pinjaik patah jo apo ka den tanun Ayah jo mandeh hanyo nan tingga pusaro Kampuang den jauah dunsanak tiado

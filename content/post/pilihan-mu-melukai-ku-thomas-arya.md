@@ -2,7 +2,7 @@
 title: "Pilihan Mu Melukai Ku - Thomas Arya"
 date: 2024-08-11
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 Patutlah kau menghindar diri Rupanya kau sudah dapat pengganti Wajarlah kau acuhkan aku Kerana kau ada kekasih yang baru

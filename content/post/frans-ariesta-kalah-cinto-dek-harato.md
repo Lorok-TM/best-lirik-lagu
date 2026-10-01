@@ -2,7 +2,7 @@
 title: "Frans Ariesta - Kalah Cinto Dek Harato"
 date: 2025-08-26
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Raso bak raso lai ka sampai Disambuang juo ujuang pinggalan Sayuik sajangka jo a di uleh Kayu lapuak indak dapek batenggang Sayuik sajangka jo a di uleh Kayu lapuak indak dapek batenggang

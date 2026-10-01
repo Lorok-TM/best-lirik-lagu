@@ -2,7 +2,7 @@
 title: "Bapak - Gilga Sahid"
 date: 2025-03-26
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 Tembang jowo sing tok lantunke Abadi tansah ngancani nganti seprene Merdu suaramu katon koyo srengenge Ngangeni isuk sore aku ning kene

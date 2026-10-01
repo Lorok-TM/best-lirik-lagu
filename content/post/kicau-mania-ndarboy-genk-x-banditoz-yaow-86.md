@@ -2,8 +2,7 @@
 title: "Kicau Mania - Ndarboy Genk x Banditoz Yaow 86"
 date: 2026-07-21
 categories: 
-  - "dangdut"
-  - "java"
+  - "Jawa"
 ---
 
 \[Ndarboy Genk – Intro\] Tak Rumat Seko Piyek Tak Loloh Nganggo Jangkrik Aku Pamit Ngantang Yo Dik Mugo Rezekeni Apik

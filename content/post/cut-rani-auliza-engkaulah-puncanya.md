@@ -2,7 +2,7 @@
 title: "Cut Rani Auliza - Engkaulah Puncanya"
 date: 2023-07-01
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Lirik Lagu Melayu dengan judul Engkaulah Puncanya yang dinyanyikan oleh Cut Rani Auliza dan diciptakan oleh Wandi Bireuen dengan irama musik Pop.

@@ -2,7 +2,7 @@
 title: "Yeni Inka - Berbeza Kasta"
 date: 2026-02-07
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Haruskah Berakhir sampai di sini Cinta yang dulu kita bina Kini telah layu di dalam hati

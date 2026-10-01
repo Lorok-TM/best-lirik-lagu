@@ -2,7 +2,7 @@
 title: "Arfa Arnold - Terima Kasih Ayah"
 date: 2023-05-22
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Lirik Lagu Melayu dengan judul Terima Kasih Ayah yang dinyanyikan oleh Arfa Arnold dan diciptakan oleh Anisa Fadila dengan irama musik Pop.

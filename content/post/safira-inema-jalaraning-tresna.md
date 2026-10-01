@@ -2,7 +2,7 @@
 title: "Safira Inema - Jalaraning Tresna"
 date: 2026-07-20
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 Sunar mbulan wayah dalu Kalah endahe yen kalawan esemu Solah slagamu kang lugu Amimbuhi kapang jroning kalbuku

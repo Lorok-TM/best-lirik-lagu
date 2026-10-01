@@ -2,7 +2,7 @@
 title: "Nyong Dari Timur - Wita Sofi Feat Juan Reza"
 date: 2025-02-23
 categories: 
-  - "minang"
+  - "Minang"
   - "timur"
 ---
 

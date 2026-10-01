@@ -2,7 +2,7 @@
 title: "Arief - Pasrah Ditinggal Cinta"
 date: 2024-03-04
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 **Lirik Pasrah Ditinggal Cinta - Arief**

@@ -2,7 +2,7 @@
 title: "Rintihan Hati Yang Luka - Aprilian"
 date: 2025-01-16
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Rintihan Hati Yang Luka yang dibawakan oleh Aprilian.

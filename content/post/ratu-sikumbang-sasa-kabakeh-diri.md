@@ -2,7 +2,7 @@
 title: "Ratu Sikumbang - Sasa Kabakeh Diri"
 date: 2025-08-28
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Dulu masonyo kito baduo Manjalin cinto da salangkah jo sabimbingan Salahnyo denai mamutuih tali cinto

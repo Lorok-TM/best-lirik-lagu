@@ -2,7 +2,7 @@
 title: "Harry Parintang - Tak Sanggup Lagi"
 date: 2022-01-21
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 ## Lirik Lagu ”Tak Sanggup Lagi“ by Harry Parintang

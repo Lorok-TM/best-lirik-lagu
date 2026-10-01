@@ -2,7 +2,7 @@
 title: "Tania Brahmana - Nimai Keputusen"
 date: 2021-08-03
 categories: 
-  - "karo"
+  - "Karo"
 ---
 
 Title : Nimai Keputusen Artist : Tania Brahmana Songwriter : Junedi Sinuhaji Category : Lagu Karo

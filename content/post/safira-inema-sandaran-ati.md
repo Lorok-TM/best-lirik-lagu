@@ -2,7 +2,7 @@
 title: "Safira Inema - Sandaran Ati"
 date: 2025-07-27
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Sumilir angin kang nresep ning ati Gegowo roso eling esemu Pepujaningati sing tak tunggu Saiki ning endi paranmu

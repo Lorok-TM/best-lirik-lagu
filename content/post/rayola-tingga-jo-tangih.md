@@ -2,7 +2,7 @@
 title: "Rayola - Tingga Jo Tangih"
 date: 2025-05-12
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Sakik bana hati denai rasonyo Manggaga sampai ka runggo jantuang Mandanyuik ka banak nangko Dek indak nan tatangguang Bajatuahan aia mato Mahujani tampek balinduang

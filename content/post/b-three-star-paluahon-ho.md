@@ -2,7 +2,7 @@
 title: "B-Three Star - Paluahon Ho"
 date: 2026-01-25
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Aha do mambaen ito gotap roham Dia do mambaen ito mardua ho Sude na pinangidomi tu au hu oloi do sude Dang olo au ito gabe cinta cadangan Dang olo au ito holan persinggahan mu

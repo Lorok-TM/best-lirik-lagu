@@ -2,7 +2,7 @@
 title: "Sazqia Rayani - Lapiak Buruak Pondok Tuo"
 date: 2025-10-17
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Lah den buai den dendangkan Den umbuak jo galak manih Hati nan ko

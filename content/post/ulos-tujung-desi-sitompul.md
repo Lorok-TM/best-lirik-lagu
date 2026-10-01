@@ -2,7 +2,7 @@
 title: "Ulos Tujung - Desi Sitompul"
 date: 2025-03-14
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Ulos Tujung yang dibawakan oleh Desi Sitompul.

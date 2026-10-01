@@ -2,7 +2,7 @@
 title: "Thomas Arya Feat. Shinta Angely - Berat Rindu Terpisah"
 date: 2025-05-05
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 Sepi terasa saat kau tak di sisi Meraung rindu akan hadir dirimu Datanglah sayang aku menantikanmu Jangan biarkan aku hidup sendiri

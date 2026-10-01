@@ -2,7 +2,7 @@
 title: "Jun Munthe - Rohaku"
 date: 2024-04-07
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 **Lirik Rohaku - Jun Munthe**

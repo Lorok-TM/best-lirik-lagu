@@ -2,7 +2,7 @@
 title: "Baliak Awah Panabangan - Melisa Putri feat. Carlos"
 date: 2025-02-11
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Bak raso raso ado kurang di badan Alah acok kini denai bamanuang surang Nan tabayang adiak hanyo adiak surang Di seso bayang den di sese bayang

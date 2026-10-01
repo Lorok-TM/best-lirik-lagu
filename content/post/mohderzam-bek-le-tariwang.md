@@ -2,7 +2,7 @@
 title: "Mohderzam - Bek Le Tariwang"
 date: 2025-08-17
 categories: 
-  - "aceh"
+  - "Aceh"
 ---
 
 Kasep keu jinoe tabri harapan Kasep hai sayang lon ta peuluka Bek le keuh jinoe ta lake riwang Teulanjoe dek intan ulon keucewa

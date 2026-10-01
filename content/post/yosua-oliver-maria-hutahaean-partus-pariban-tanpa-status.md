@@ -2,7 +2,7 @@
 title: "Yosua Oliver & Maria Hutahaean - Partus (Pariban Tanpa Status)"
 date: 2025-05-10
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Nunga leleng hita marsitandaan Sai dirippu ma hita na mariboto Manjou pariban so adong kepastian Alusmu ikkon mapan asa tu pelaminan

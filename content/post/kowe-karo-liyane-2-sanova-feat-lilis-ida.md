@@ -2,7 +2,7 @@
 title: "Kowe Karo Liyane 2 - Sanova Feat Lilis Ida"
 date: 2025-04-11
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 Wis tak tompo pilihane Yen pancen iki wis dadi dalane Wis tak tompo putusane Mugo dadi dalan bahagiamu Urip karo liyane

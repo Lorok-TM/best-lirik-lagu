@@ -2,8 +2,8 @@
 title: "Khanifah Khani - Ahebbak (أَحِبَّكْ) Arab, Latin, Terjemahan"
 date: 2020-11-03
 categories: 
-  - "arab"
-  - "religi"
+  - "Arab"
+  - "Religi"
 ---
 
 ## Lirik Lagu ”Ahebbak (أَحِبَّكْ)“ by Khanifah Khani

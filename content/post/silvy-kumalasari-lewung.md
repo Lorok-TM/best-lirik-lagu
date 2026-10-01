@@ -2,7 +2,7 @@
 title: "Silvy Kumalasari - Lewung"
 date: 2025-06-27
 categories: 
-  - "campursari"
+  - "Campursari"
 ---
 
 Dadi liwung atiku Nalikane sepisan ketemu Wong bagus dadi laku Nggodho ati rinten siang dalu

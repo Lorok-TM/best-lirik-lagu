@@ -2,7 +2,7 @@
 title: "Terminal Ubung - Mang Senior"
 date: 2024-05-28
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 **Lirik Terminal Ubung - Mang Senior**

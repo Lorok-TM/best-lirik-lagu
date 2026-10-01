@@ -2,7 +2,7 @@
 title: "Jauh Panggang Dari Api - Frans Ariesta"
 date: 2025-04-14
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Untuak apo dulu bakato manih Untuak apo dulu katokan cinto Kalua lain dimuluik lain pulo dihati Bak cando jauah panggang dari api

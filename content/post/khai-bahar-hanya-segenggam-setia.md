@@ -2,7 +2,7 @@
 title: "Khai Bahar - Hanya Segenggam Setia"
 date: 2022-09-20
 categories: 
-  - "malaysia"
+  - "Malaysia"
 ---
 
 ## Lirik Lagu Hanya Segenggam Setia - Khai Bahar

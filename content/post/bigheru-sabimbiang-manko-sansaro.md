@@ -2,7 +2,7 @@
 title: "Bigheru - Sabimbiang Manko Sansaro"
 date: 2025-04-21
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Cubo lah denai cubo cari Jalan untuak manyalasaikannyo Takuruang badan Rasonyo tarumuak Didalam Sabimbiang mangko ka sansaro 2x

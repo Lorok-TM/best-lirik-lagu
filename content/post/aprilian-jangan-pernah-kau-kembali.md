@@ -2,7 +2,7 @@
 title: "Aprilian - Jangan Pernah Kau Kembali"
 date: 2023-03-11
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Aprilian bersama RW Pro rilis single Melayu berjudul "Jangan Pernah Kau Kembali" yang diciptakan oleh Amri Damanin, menceritakan tentang seseorang yang merasa kecewa dan sakit hati karena sang kekasih telah mendustai cintanya.

@@ -2,7 +2,7 @@
 title: "Nurat Gondrong - Rap Salelengna Feat Mitha Pasaribu"
 date: 2025-07-01
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Ho do na tarpillit ito Ho do na hu todo hasian Mandongani au di ngolukku Dongan diganup lakkaki

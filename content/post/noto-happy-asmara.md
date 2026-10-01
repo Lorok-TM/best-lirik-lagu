@@ -2,8 +2,7 @@
 title: "Noto - Happy Asmara"
 date: 2026-07-14
 categories: 
-  - "dangdut"
-  - "java"
+  - "Jawa"
 ---
 
 

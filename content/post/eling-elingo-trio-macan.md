@@ -2,7 +2,7 @@
 title: "Eling Elingo - Trio Macan"
 date: 2025-02-12
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Eling Elingo yang dibawakan oleh Trio Macan.

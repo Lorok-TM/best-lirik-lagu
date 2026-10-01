@@ -2,7 +2,7 @@
 title: "Frans Bulu'aro - Turiamö Faohe'ö"
 date: 2025-12-10
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 Tenga salamö me öröi ndra'o ölau mofanö Ösawa danö saröu siefo nasi Wogamö ohitö

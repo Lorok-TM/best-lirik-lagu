@@ -2,7 +2,7 @@
 title: "Se Dimana - Justy Aldrin feat. Toton Caribo"
 date: 2026-06-17
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 

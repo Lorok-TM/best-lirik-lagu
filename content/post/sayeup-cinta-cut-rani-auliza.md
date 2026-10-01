@@ -2,7 +2,7 @@
 title: "Sayeup Cinta - Cut Rani Auliza"
 date: 2025-02-06
 categories: 
-  - "aceh"
+  - "Aceh"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Sayeup Cinta yang dibawakan oleh Cut Rani Auliza.

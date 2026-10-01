@@ -2,7 +2,7 @@
 title: "Anabul Ku - Bergek"
 date: 2025-02-06
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Anabulku yang dibawakan oleh Bergek.

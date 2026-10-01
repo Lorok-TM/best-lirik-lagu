@@ -2,7 +2,7 @@
 title: "Lupakan Aku Sayang - Yaya Nadila"
 date: 2025-04-13
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Ku hadapi kenyataan ini Saat mencintai dirimu Kasih sayang dan waktuku Semua untukmu

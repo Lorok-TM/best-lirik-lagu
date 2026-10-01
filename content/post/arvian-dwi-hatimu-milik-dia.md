@@ -2,7 +2,7 @@
 title: "Arvian Dwi - Hatimu Milik Dia"
 date: 2026-01-26
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Sampai hilang baru kau mengerti Artinya menghargai Seseorang yang selalu di sampingmu

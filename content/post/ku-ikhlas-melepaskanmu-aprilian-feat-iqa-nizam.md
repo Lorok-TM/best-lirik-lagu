@@ -2,7 +2,7 @@
 title: "Ku Ikhlas Melepaskanmu - Aprilian Feat Iqa Nizam"
 date: 2025-05-08
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 Yang satu pesan untukmu Bila dirimu tak ingin ku lagi Janganlah engkau membenci Kerna diriku pernah di hatimu

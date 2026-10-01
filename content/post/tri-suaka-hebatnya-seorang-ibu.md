@@ -2,7 +2,7 @@
 title: "Tri Suaka - Hebatnya Seorang Ibu"
 date: 2025-10-06
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Dibawah langit sederhana Seorang ibu berjuang tanpa suara 10 tangan kecil bisa ia besarkan Sepenuh hati dengan unuh harapan

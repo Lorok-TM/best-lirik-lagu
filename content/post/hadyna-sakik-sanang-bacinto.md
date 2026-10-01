@@ -2,7 +2,7 @@
 title: "Hadyna - Sakik Sanang Bacinto"
 date: 2025-06-03
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Riak alah diranang Kironyo badai nan datang Cameh camehlah raso badan ka karam Cameh camehlah raso badan ka karam

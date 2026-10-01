@@ -2,7 +2,7 @@
 title: "Anggrek - Selamat Pagi Luka"
 date: 2023-05-24
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Lirik Lagu Melayu dengan judul Selamat Pagi Luka yang dinyanyikan oleh Anggrek dan diciptakan oleh Ajhay Pasma dengan irama musik Pop.

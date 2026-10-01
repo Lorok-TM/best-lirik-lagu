@@ -2,7 +2,7 @@
 title: "Wawa Naela - Bajaleh Jaleh"
 date: 2025-04-24
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Elok lah uda yo uda bajaleh jaleh Kok iyo juo yo juo ganggam nak lapeh Indak baguno baduto manyuruak maandok andok Lamo lambek da coki ka tabukak juo

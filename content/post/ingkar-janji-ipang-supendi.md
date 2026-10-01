@@ -2,7 +2,7 @@
 title: "Ingkar Janji - Ipang Supendi"
 date: 2024-10-14
 categories: 
-  - "tarling"
+  - "Tarling"
 ---
 
 Blenak temen wong di putus demenan Larane kerasa sampe sekujur badan Oh kekasih sekien wis kelalen Apalagi demen wong lanang sejen

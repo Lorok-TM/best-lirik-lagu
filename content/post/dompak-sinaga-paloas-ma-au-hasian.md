@@ -2,7 +2,7 @@
 title: "Dompak Sinaga - Paloas Ma Au Hasian"
 date: 2025-07-03
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Paloas ma au hasian Mamereng lambok ni bohim Paloas ma au hasian Mamereng simalolongmi Nang pe holan satokkin Nunga sonang rohangki Nang pe holan sangombas Nunga sombu siholhi

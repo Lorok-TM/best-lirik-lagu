@@ -2,7 +2,7 @@
 title: "Rahma Delinofira - Pandayuang Patah Ditangah"
 date: 2025-09-08
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Di dalam hati tasaik manikam ka hulunyo Balabiahan bana sayang kasiah nan lah bacurahkan Sadalam dalamnyo hati Ganggaman arek nan di tangan nanko lapeh Tinggalah manangguang seso

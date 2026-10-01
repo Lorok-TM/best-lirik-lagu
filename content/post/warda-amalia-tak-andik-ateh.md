@@ -2,7 +2,7 @@
 title: "Warda Amalia - Tak Andik Ateh"
 date: 2025-10-28
 categories: 
-  - "madura"
+  - "Madura"
 ---
 
 Jhe nyareh kasalaennah oreng Ker pekker kasalaennah tibik Bule eka kandeh ka reng oreng Jhe ateh bule dek dhika beci

@@ -2,7 +2,7 @@
 title: "Anis Gea - The Marga's"
 date: 2025-05-02
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Ini hanya lagu Ku bukan belagu Maaf jika terlalu lancang Janganlah langsung diserang

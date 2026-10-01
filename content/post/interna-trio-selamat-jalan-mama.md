@@ -2,7 +2,7 @@
 title: "Interna Trio - Selamat Jalan Mama"
 date: 2023-01-29
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Lirik Lagu Indo dengan judul Selamat Jalan Mama yang dinyanyikan oleh Interna Trio dan diciptakan oleh Ganefo Marpaung dengan irama musik Pop.

@@ -2,7 +2,7 @@
 title: "Rafael Hasian Siregar - Damang Dainang Na Loja I"
 date: 2025-09-13
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Aha do amang aha do inang Bahenonku mangurupi ho Tanganku na metmet tung so margogo dope Tung aha ma na boi ulahononku

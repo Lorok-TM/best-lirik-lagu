@@ -2,7 +2,7 @@
 title: "Daniel Maestro - Lapiak Usang"
 date: 2024-05-04
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 **Lirik Lapiak Usang - Daniel Maestro**

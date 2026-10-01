@@ -2,7 +2,7 @@
 title: "Yochen Amos - Semakin Cinta Feat Manja Mooy"
 date: 2025-07-03
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 Akhirnya waktu jua Memisahkan katong Untuk berjumpa lagi Nona walau hanya untuk Sementara

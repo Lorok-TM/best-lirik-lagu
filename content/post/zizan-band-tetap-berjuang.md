@@ -2,8 +2,7 @@
 title: "Zizan Band - Tetap Berjuang"
 date: 2023-06-07
 categories: 
-  - "band"
-  - "indonesia"
+  - "Band"
 ---
 
 Lirik Lagu Band Indo dengan judul Tetap Berjuang yang dinyanyikan oleh Zizan Band dan diciptakan oleh Dodhy Hardiyanto dengan irama musik Pop.

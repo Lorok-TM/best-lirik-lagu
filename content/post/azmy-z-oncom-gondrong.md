@@ -2,7 +2,7 @@
 title: "Azmy Z - Oncom Gondrong"
 date: 2026-07-23
 categories: 
-  - "sunda"
+  - "Sunda"
 ---
 
 Oncom onine Oncom oncom bala-bala Ampyang ampyang goreng dage Tuh tingali si tukang dagang Rupina mah.Nyandak karanjang Teu tebih tina sangkaan Moal lepat eta teh si tukang ampyang

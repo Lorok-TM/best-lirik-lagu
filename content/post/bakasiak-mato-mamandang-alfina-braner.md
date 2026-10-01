@@ -2,7 +2,7 @@
 title: "Bakasiak Mato Mamandang - Alfina Braner"
 date: 2025-05-13
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Manukiak alang nan dari bukik Tapakiak ayam jinak dilaman Sampai hati urang maambiak Pamenan diri nan denai sayang Sampai hati urang maambiak Pamenan diri nan denai sayang

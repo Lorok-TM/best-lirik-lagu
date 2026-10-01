@@ -2,7 +2,7 @@
 title: "Indah BLL - Tenga Sakali Dua Kali"
 date: 2025-11-27
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 Ni wa'ömö zi lalö Öfuli zui öwa'ö Afölido wa'a buayou Afölido taluwayau

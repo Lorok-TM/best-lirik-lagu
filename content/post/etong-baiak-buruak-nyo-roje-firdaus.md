@@ -2,7 +2,7 @@
 title: "Etong Baiak Buruak Nyo - Roje Firdaus"
 date: 2025-03-25
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Etong Baiak Buruak Nyo yang dibawakan oleh Roje Firdaus.

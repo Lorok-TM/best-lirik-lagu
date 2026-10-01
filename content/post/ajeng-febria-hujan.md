@@ -2,7 +2,7 @@
 title: "Ajeng Febria - Hujan"
 date: 2026-07-22
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Hujan hujan datang lagi Hujan hujan malam ini Bintang bintang tiada lagi Bulan pun merundung sedih

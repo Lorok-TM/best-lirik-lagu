@@ -2,7 +2,7 @@
 title: "Faris Adam Feat Xeindy - Tania"
 date: 2025-04-27
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 Intro : Adudu Tania.. Pulang dari Jawa rambut su merah-merah.. Adudu Tania.. Masih ingat kakak ataukah sudah lupa..?

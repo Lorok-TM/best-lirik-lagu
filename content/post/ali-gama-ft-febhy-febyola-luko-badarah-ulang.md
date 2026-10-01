@@ -2,7 +2,7 @@
 title: "Ali Gama ft Febhy Febyola - Luko Badarah Ulang"
 date: 2026-08-03
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Lagu Minang "Luko Badarah Ulang" karya cipta Ajhay Pasma yang dibawakan oleh Ali Gama bersama Febhy Febyola mengangkat dinamika konflik asmara pascaperjodohan sepihak yang menyisakan trauma emosional mendalam. Secara naratif, lagu Minang ini mengisahkan penyesalan seorang wanita setelah memilih patuh pada kehendak orang tua, lalu mencoba kembali kepada kekasih lamanya demi mencari kebahagiaan yang hilang. Namun, esensi filosofis dari karya ini justru berpusat pada respons sang pria yang tegas menolak kehadiran kembali sang mantan demi menjaga ketenangan batin yang baru saja pulih, menegaskan bahwa membuka kembali ruang komunikasi hanya akan memicu luka lama yang analog dengan analogi judulnya—"luka yang kembali berdarah". Melalui struktur lirik yang lugas, lagu ini menyajikan realitas pahit mengenai batasan maaf, konsekuensi dari sebuah pilihan hidup, serta pentingnya menghargai proses pemulihan diri dari patah hati ketimbang terjebak dalam nostalgia yang destruktif.

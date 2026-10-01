@@ -2,7 +2,7 @@
 title: "Landep Ketut - Nguber Sekaya"
 date: 2022-02-01
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 Title : Nguber Sekaya Artist : Landep Ketut Songwriter : Rah Tresna Category : Lagu Bali

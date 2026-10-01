@@ -2,7 +2,7 @@
 title: "Kalah Materi - Satya Darma"
 date: 2024-07-14
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 **Berikut lirik Kalah Materi yang dinyanyikan oleh Satya Darma.**

@@ -2,7 +2,7 @@
 title: "Memory Hong Jembatan Kahayan - Ockta Ria"
 date: 2025-04-08
 categories: 
-  - "dayak"
+  - "Dayak"
 ---
 
 Katika ku taingat Ikau je melai kanih Je puji manyinggah Melai hong atei kuh Dengan lambaran cinta Sampai wayah tuh masih tege batisa

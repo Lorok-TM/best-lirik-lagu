@@ -2,7 +2,7 @@
 title: "Queen Voice - Bandit Lapa Lapa"
 date: 2023-05-17
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Lirik Lagu Batak dengan judul Bandit Lapa Lapa yang dinyanyikan oleh Queen Voice dan diciptakan oleh Dakka Hutagalung dengan irama musik Remix.

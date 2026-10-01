@@ -2,7 +2,7 @@
 title: "Jek Gulo - Fotu Ba Ndaonogu"
 date: 2026-06-04
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 

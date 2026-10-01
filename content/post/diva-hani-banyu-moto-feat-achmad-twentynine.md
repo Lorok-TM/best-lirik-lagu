@@ -2,7 +2,7 @@
 title: "Diva Hani - Banyu Moto feat. Achmad Twentynine"
 date: 2025-07-21
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Tembang iki tak gawe Mung kanggo kowe Sing paling tak tenani Nganti saiki Tumetese banyu moto iki Sing dadi saksi

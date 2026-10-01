@@ -2,7 +2,7 @@
 title: "Ngatmombilung - Silul"
 date: 2026-02-11
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 Ning kabeh mongso sepimu Aku mesti ono Ning wayah roso loromu Aku sing ono ning kono Tak gemati tenanan Ben kowe ora kelaran Nangin kowe ora ono perasaan

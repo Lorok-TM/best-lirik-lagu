@@ -2,7 +2,7 @@
 title: "Sing Biso Nggenggem - Andrea"
 date: 2025-02-08
 categories: 
-  - "osing"
+  - "Osing"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Sing Biso Nggenggem yang dibawakan oleh Andrea.

@@ -2,7 +2,7 @@
 title: "Ziell Ferdian - Patutlah"
 date: 2025-11-24
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Jauh ku melangkah menyusuri jalan Menepis semua bayang kenangan Teringat dirimu Di malam yang dingin penuh luka

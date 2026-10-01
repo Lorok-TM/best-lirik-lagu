@@ -2,7 +2,7 @@
 title: "Ini Beta Pung Doa - B'A Basudara Feat Willy Sopacua"
 date: 2024-12-28
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Ini Beta Pung Doa yang dibawakan oleh B'A Basudara Ft Willy Sopacua.

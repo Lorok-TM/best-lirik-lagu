@@ -2,7 +2,7 @@
 title: "Nyoman Paul - Mundur Perlahan"
 date: 2024-05-10
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 **Lirik Mundur Perlahan - Nyoman Paul**

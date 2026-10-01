@@ -2,7 +2,7 @@
 title: "Nano Utöna - Fariswan Lase"
 date: 2025-04-13
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 Öbe afatö dödö Wolaumö tuho dödö Hana lö famakhölö Ndra'o moroi furimö

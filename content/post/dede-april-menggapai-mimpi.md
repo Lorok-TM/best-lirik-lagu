@@ -2,7 +2,7 @@
 title: "Dede April - Menggapai Mimpi"
 date: 2026-01-09
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Tuhan ku berdoa padamu Berikan jalan yang terbaik untukku Tuhan wujudkan cita citaku Agar kubisa membahagiakan orang tuaku

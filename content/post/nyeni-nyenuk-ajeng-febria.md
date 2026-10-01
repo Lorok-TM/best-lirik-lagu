@@ -2,8 +2,7 @@
 title: "Nyeni Nyenuk - Ajeng Febria"
 date: 2026-07-23
 categories: 
-  - "dangdut"
-  - "java"
+  - "Jawa"
 ---
 
 Nyeni nyenuk nyeni nyenuk ya sayang Atiku wes kadung remuk Nyeni nyenuk nyeni nyenuk ya cinta Jebule malah ra gatuk

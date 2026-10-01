@@ -2,7 +2,7 @@
 title: "Tika Pagraky - Salting"
 date: 2025-09-21
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 Pertama ketemu beli Ade rase ne sing biase Uling dije beli dadi keh kenalan Pas gati mare putus jak tunangan

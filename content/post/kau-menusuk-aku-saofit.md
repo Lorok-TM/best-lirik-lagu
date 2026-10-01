@@ -2,7 +2,7 @@
 title: "Kau Menusuk Aku - Saofit"
 date: 2025-04-05
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Semua kini telah berubah Indah menjadi nestapa Kau sakiti aku Kau curangi cinta ini

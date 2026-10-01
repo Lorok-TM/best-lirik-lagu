@@ -2,7 +2,7 @@
 title: "Zinidin Zidan - Cinta Luar Biasa feat. Yaya Nadila"
 date: 2025-09-14
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Jangan engkau ragukan Cinta yang aku punya Selam ini ku sayang tanpa ragu di dada Yang ku harap engkaupun demikian

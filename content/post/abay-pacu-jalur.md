@@ -2,7 +2,7 @@
 title: "Abay - Pacu Jalur"
 date: 2025-08-10
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Pacu jalur sakali setahun datang Lomba dayuang parahu panjang Di sungai batang kuantan Nan di adokan.....

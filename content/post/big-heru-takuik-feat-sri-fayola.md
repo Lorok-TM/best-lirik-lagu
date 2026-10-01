@@ -2,7 +2,7 @@
 title: "Big Heru - Takuik feat. Sri Fayola"
 date: 2025-08-05
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Takuik den uda Apo nan adiak takuikkan sayang

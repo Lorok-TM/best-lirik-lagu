@@ -2,7 +2,7 @@
 title: "Nisha Sumarau - Kursi Pelaminan"
 date: 2021-06-08
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 ## Lirik Kursi Pelaminan - Nisha Sumarau

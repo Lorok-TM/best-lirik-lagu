@@ -2,7 +2,7 @@
 title: "Cut Rani Auliza - Hilang Ikatan Cinta"
 date: 2025-05-22
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Andaikan dulu kita tak bertemu Tak mungkin ku rasakan sakit ini Hilang semua janji cinta suci kau beri Yang tak pernah engkau tepati

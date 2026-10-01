@@ -2,7 +2,7 @@
 title: "Rofikoh Isnaini - Kandak Di Hati"
 date: 2025-08-19
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Tapadayo denai tadayo Manga ka uda den jatuah cinto Galak nan manih tingkah nan manjo Mambuek denai tagilo gilo Galak nan manih tingkah nan manjo Mambuek denai tagilo gilo

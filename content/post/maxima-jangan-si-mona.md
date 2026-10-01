@@ -2,7 +2,7 @@
 title: "Maxima - Jangan Si Mona"
 date: 2026-05-24
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 

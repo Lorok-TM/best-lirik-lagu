@@ -2,7 +2,7 @@
 title: "Terpaksa Berakhir - Aurelia Syaharani"
 date: 2026-07-25
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Ku benci waktu dan pertemuan itu Kau yang memulai Kau juga yang akhiri Haruskah pisah jadi jalan terbaik Aku terluka Mengapa Menghilang Ke mana Kembalilah Ingin diam tapi tak bisa Terpaksa berakhir berpisah

@@ -2,7 +2,7 @@
 title: "Pinki Prananda - Rumah Tampak Jalan Tak Tantu"
 date: 2023-01-20
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Pinki Prananda dibawah naungan label Elta Record rilis single dengan lirik dalam bahasa Minangkabau berjudul "Rumah Tampak Jalan Tak Tantu" yang artinya "Rumah Terlihat Jalan Tak Tentu", menceritakan tentang seseorang yang sudah terlukai perasaannya tidak mungkin bisa balikan lagi, ibarat air yang sudah keruh di hulu tidak mungkin akan jernih di muara.

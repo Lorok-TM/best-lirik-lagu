@@ -2,7 +2,7 @@
 title: "Bandara Kediri - Nur Bayan"
 date: 2024-10-15
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Bandara Kediri yang dibawakan oleh Nur Bayan.

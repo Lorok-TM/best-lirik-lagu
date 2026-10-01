@@ -2,7 +2,7 @@
 title: "Kawan Arek - Bigheru"
 date: 2025-05-26
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Tinggi bukik samo di daki Jurang balambah subarangi Bamain sapaneh sahujan Baitulah kito bakawan Baitulah kito bakawan

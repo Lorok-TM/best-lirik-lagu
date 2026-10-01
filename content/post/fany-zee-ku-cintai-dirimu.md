@@ -2,7 +2,7 @@
 title: "Fany Zee - Ku Cintai Dirimu"
 date: 2025-05-09
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 Dengarkan kasih ungkapan rasa hati Yang ku sampaikan didalam lagu ini Padamu kasih kuserah jiwa raga Kaulah sandaran hidupku

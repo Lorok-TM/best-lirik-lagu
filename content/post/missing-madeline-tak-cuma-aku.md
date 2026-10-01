@@ -2,7 +2,7 @@
 title: "Missing Madeline - Tak Cuma Aku"
 date: 2025-04-27
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Chorus : Pacarmu tak cuma aku Di hadapanku kau bawa yang baru Beraninya kau perlihatkan aku Semua sifat.. burukmu..

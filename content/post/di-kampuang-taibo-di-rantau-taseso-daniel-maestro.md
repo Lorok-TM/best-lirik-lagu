@@ -2,7 +2,7 @@
 title: "Di Kampuang Taibo Di Rantau Taseso - Daniel Maestro"
 date: 2024-06-21
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 **Lirik Dikampuang Taibo Dirantau Taseso - Daniel Maestro**

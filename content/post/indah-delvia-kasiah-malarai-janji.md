@@ -2,7 +2,7 @@
 title: "Indah Delvia - Kasiah Malarai Janji"
 date: 2025-05-15
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Den hadang banda den ambek Ka lubuak tapian mandi Lah jariah badan ko panek Namun kok janiah urang karuahi Lah jariah badan ko panek Namun kok janiah urang karuahi

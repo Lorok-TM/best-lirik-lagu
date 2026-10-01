@@ -2,7 +2,7 @@
 title: "Remonatha - Lacur Beli Luh dan Artinya"
 date: 2021-07-29
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 ## Lirik Lagu Bali ”Lacur Beli Luh“ by Remonatha

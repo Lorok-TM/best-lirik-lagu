@@ -2,7 +2,7 @@
 title: "Niang (Rumah) - Lipooz"
 date: 2025-02-12
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Niang (Rumah) yang dibawakan oleh Lipooz.

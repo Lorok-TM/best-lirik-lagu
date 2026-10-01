@@ -2,7 +2,7 @@
 title: "Ajhay Pasma - Secangkir Kopi"
 date: 2026-01-14
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Demi kamu ku rela begini sayang Hujan panas tak pernah aku hiraukan Secangkir kopi disore hari Cukup sebagai tanda sayang

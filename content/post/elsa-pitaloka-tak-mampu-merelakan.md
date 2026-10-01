@@ -2,7 +2,7 @@
 title: "Elsa Pitaloka - Tak Mampu Merelakan"
 date: 2024-05-07
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 **Lirik Tak Mampu Merelakan - Elsa Pitaloka**

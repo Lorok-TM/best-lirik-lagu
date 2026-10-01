@@ -2,7 +2,7 @@
 title: "Thomas Arya - Satu Arah Saling Merindu"
 date: 2025-08-09
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 Di ruang hati ku Kau yang bersemayam Kau lah pelerai rasa rindu Tak pernah sikit pun Dirimu mengeluh Penuh sabar kau mendampingi ku

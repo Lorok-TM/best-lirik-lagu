@@ -2,7 +2,7 @@
 title: "Fajar Halawa - Lö'eluaha"
 date: 2025-07-05
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 Manofu dödö he ama Mangera dödö he ina Ha wa simanö sa zalua Fa'aurigu mozawa-zawa Lö eluaha Lömanö lua-lua

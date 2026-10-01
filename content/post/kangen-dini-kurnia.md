@@ -2,7 +2,7 @@
 title: "Kangen - Dini Kurnia"
 date: 2025-04-10
 categories: 
-  - "osing"
+  - "Osing"
 ---
 
 Seng biasa riko tinggal kari abot Seng biasa riko tinggal kari suwi Gawe isun seru kangene seru kangene Seru kangene

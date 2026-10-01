@@ -2,7 +2,7 @@
 title: "Indah Delvia - Bakujuik Mariah"
 date: 2025-09-12
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Alah batahun cinto Nan kito jalani Manga kini balapehkan sajo Indak den manyangko Uda nan ka coiko Mangguruaihkan luko di hati

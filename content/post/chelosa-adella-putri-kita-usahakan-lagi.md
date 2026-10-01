@@ -2,7 +2,7 @@
 title: "Chelosa Adella Putri - Kita Usahakan Lagi"
 date: 2025-07-11
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Ada bahagia, yang belum kita rasa Setelah bersama, usahakan semuaa Kira kira, kapan waktunya tiba ?

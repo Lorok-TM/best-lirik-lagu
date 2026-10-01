@@ -2,8 +2,7 @@
 title: "Silvy Kumalasari - Wuyung"
 date: 2026-07-20
 categories: 
-  - "dangdut"
-  - "java"
+  - "Jawa"
 ---
 
 Neng sekolah iki, pisanan weruh sliramu Manise esem-mu ngganti jagadku Opo iki sing diarani weruh widodari Marai semangat uripku iki

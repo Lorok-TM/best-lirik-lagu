@@ -2,7 +2,7 @@
 title: "Saridewi Zalukhu - Sawai Khönia"
 date: 2025-07-03
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 Sawai khönia Wahuwusada silalö Lö mofozu Sambua lö irai mo'ölö Zaya zaya gölö Waomasi sino mobörö

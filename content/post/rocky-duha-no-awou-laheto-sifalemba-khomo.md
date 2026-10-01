@@ -2,7 +2,7 @@
 title: "Rocky Duha - No Awöu Laheto Sifalemba Khömö"
 date: 2026-09-03
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 Tenga falö ba dödögu khömö Ero falukha öboho ba lö uleke'ö Duhu so zinali wahuwusada silalö Lö fangokhögö me tenga löfö

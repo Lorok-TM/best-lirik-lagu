@@ -2,7 +2,7 @@
 title: "Dang Na Laho Mulak Be Rohakki - Lestari Hutasoit"
 date: 2025-06-17
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Piga hali nai bahenonmu haccit ni rohakki Piga hali nai sai ro ho mandapothon au Unang sai ro be ho Lupahon ma au ito

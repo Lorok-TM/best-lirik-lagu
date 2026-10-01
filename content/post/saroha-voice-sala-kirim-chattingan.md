@@ -2,7 +2,7 @@
 title: "Saroha Voice - Sala Kirim Chattingan"
 date: 2026-06-11
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 

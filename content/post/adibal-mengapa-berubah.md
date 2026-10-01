@@ -2,7 +2,7 @@
 title: "Adibal - Mengapa Berubah"
 date: 2026-07-22
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Entah mengapa engkau berubah Sikapmu kini jauh berbeda Apakah ada kata yang salah Atau sikapku yang tak berkenan Pabila ada katakan dan maafkanlah Jangan kau diam Membuatku salah paham Aku pedulu apa yang engkau rasakan Karena ku sayang

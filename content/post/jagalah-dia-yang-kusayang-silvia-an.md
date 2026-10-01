@@ -2,7 +2,7 @@
 title: "Jagalah Dia Yang Kusayang - Silvia An"
 date: 2025-02-15
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Jagalah Dia Yang Ku Sayang yang dibawakan oleh Silvia An.

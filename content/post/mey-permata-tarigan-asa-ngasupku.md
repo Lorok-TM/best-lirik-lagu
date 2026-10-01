@@ -2,7 +2,7 @@
 title: "Mey Permata Tarigan - Asa Ngasupku"
 date: 2024-04-11
 categories: 
-  - "karo"
+  - "Karo"
 ---
 
 **Lirik Asa Ngasupku - Mey Permata Tarigan**

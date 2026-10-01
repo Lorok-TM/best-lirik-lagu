@@ -2,7 +2,7 @@
 title: "Lö Uohe Fönu - Ardin Waruwu"
 date: 2025-02-11
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Louohe Fonu yang dibawakan oleh Ardin Waruwu.

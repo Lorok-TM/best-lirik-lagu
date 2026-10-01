@@ -2,7 +2,7 @@
 title: "Bunga Narara - Bobby Purba"
 date: 2025-01-25
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Bunga Narara yang dibawakan oleh Bobby Purba.

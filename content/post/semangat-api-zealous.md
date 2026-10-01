@@ -2,7 +2,7 @@
 title: "Semangat Api - Zealous"
 date: 2025-01-02
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Semangat Api yang dibawakan oleh Zealous.

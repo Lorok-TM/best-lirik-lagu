@@ -2,7 +2,7 @@
 title: "Silvy Kumalasari - Kere Munggah Bale"
 date: 2025-06-12
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Mas Parno, sayang Saiki aku wis penak tenan Sandhang pangan ra kekurangan Mergo saiki wis dadi biduan

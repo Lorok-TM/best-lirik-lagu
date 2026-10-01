@@ -2,7 +2,7 @@
 title: "Asing - Budi Arsa"
 date: 2025-01-25
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Asing yang dibawakan oleh Budi Arsa.

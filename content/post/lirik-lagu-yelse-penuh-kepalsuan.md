@@ -2,7 +2,7 @@
 title: "Yelse - Penuh Kepalsuan"
 date: 2021-05-15
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 **Lirik Penuh Kepalsuan - Yelse**

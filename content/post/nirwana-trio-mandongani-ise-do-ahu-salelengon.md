@@ -2,7 +2,7 @@
 title: "Nirwana Trio - Mandongani Ise Do Ahu Salelengon"
 date: 2025-09-06
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Naujui Godang do sidoli namanjonoki ho Alai holan tu au do nimmu roham Hupapos ma rohakki hulehon ma tikki ku Mandalani hubunganta naung ta pukka

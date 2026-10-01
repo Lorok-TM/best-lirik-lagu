@@ -2,7 +2,7 @@
 title: "Barek Manahan Rindu - Melisa Putri"
 date: 2025-02-09
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Barek Manahan Rindu yang dibawakan oleh Melisa Putri.

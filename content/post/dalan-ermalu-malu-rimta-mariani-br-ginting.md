@@ -2,7 +2,7 @@
 title: "Dalan Ermalu Malu - Rimta Mariani Br Ginting"
 date: 2024-09-11
 categories: 
-  - "karo"
+  - "Karo"
 ---
 
 Enggo ku angka mama tigan kai dalan ku tading Geluh mesera warisen kin pe bage sikurang La kel kam yakin berjuang Dalan dalanna impal kam mindo sirang

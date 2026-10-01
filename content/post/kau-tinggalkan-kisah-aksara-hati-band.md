@@ -2,7 +2,7 @@
 title: "Kau Tinggalkan Kisah - Aksara Hati Band"
 date: 2026-07-12
 categories: 
-  - "band"
+  - "Band"
 ---
 
 

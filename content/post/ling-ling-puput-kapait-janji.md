@@ -2,7 +2,7 @@
 title: "Ling Ling Puput - Kapait Janji"
 date: 2021-09-29
 categories: 
-  - "dayak"
+  - "Dayak"
   - "remix"
 ---
 

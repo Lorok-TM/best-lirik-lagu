@@ -2,7 +2,7 @@
 title: "Aldhy Tiranda feat Hillary Tangyong - Mali'na Penaangki"
 date: 2024-04-21
 categories: 
-  - "toraja"
+  - "Toraja"
 ---
 
 **Lirik Mali'na Penaangki - Aldhy Tiranda Feat Hillary Tangyong**

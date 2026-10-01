@@ -2,7 +2,7 @@
 title: "Bintang Panjaitan - Hajujuron"
 date: 2025-07-04
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Unang-unang sai ingot be Na hea hita marpadan ito Unang-unang harapon be. Na cinta dope au tu ho

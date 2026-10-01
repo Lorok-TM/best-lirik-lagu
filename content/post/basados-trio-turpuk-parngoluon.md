@@ -2,7 +2,7 @@
 title: "Basados Trio - Turpuk Parngoluon"
 date: 2025-08-01
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Lima do inang ni gellenghu jari ni tangan Sude do i marsiganjang-ganjangi Songoni do anggo parngoluon on inang Adong do na mamora nang na pogos Dang pola sai sungkunsungkun roham da hasian Ai i do anggo turpuk parngoluon

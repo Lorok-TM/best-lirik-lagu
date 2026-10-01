@@ -2,7 +2,7 @@
 title: "Anggrek - Jarak Nan Mamisah feat. Pinki Prananda"
 date: 2025-09-22
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Adiak dangakan kini Raso di dalam hati Di dalam hati

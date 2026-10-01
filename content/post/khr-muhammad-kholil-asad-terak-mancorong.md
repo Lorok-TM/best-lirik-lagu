@@ -2,7 +2,7 @@
 title: "KHR. Muhammad Kholil As'ad - Terak Mancorong"
 date: 2022-09-20
 categories: 
-  - "religi"
+  - "Religi"
 ---
 
 ## Lirik Terak Mancorong - KHR. Muhammad Kholil As'ad

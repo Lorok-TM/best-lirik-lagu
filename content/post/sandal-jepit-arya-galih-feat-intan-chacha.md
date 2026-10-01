@@ -2,7 +2,7 @@
 title: "Sandal Jepit - Arya Galih Feat Intan Chacha"
 date: 2025-01-08
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Sandal Jepit yang dibawakan oleh Arya Galih Ft Intan Chacha.

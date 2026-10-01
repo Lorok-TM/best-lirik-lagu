@@ -2,7 +2,7 @@
 title: "Gerbang KudusMu - Army Of God Worship"
 date: 2025-02-11
 categories: 
-  - "rohani"
+  - "Rohani"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Gerbang KudusMu yang dibawakan oleh Army Of God Worship.

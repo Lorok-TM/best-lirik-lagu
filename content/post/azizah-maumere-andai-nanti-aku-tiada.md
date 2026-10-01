@@ -2,7 +2,7 @@
 title: "Azizah Maumere - Andai Nanti Aku Tiada"
 date: 2023-03-20
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Lirik Lagu Melayu dengan judul Andai Nanti Aku Tiada yang dinyanyikan oleh Azizah Maumere dan diciptakan oleh Emen, Iwan MS dengan irama musik Pop.

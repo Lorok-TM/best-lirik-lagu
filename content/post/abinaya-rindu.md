@@ -2,7 +2,7 @@
 title: "Abinaya - Rindu"
 date: 2025-11-19
 categories: 
-  - "sunda"
+  - "Sunda"
 ---
 
 Kedah ka mana Kedah ka saha Nitipkeun ieu kacinta Kasalira nu jauh di mana Anjeun ngadu ka dimana

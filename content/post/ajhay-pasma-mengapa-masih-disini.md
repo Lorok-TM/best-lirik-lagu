@@ -2,7 +2,7 @@
 title: "Ajhay Pasma - Mengapa Masih Disini"
 date: 2023-05-15
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Lirik Lagu Melayu dengan judul Mengapa Masih Disini yang dinyanyikan dan diciptakan oleh Ajhay Pasma dengan irama musik Pop.

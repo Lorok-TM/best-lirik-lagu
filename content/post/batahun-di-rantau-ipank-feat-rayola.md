@@ -2,7 +2,7 @@
 title: "Batahun Di Rantau - Ipank Feat Rayola"
 date: 2025-04-26
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Den baok hati batin kok mati Den baok raso cinto jan binaso Sagalo nyao di kanduang badan Elok bajalan ka rantau urang Hino nan tibo dalam gunjiangan

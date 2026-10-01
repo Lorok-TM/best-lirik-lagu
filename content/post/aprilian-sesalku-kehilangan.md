@@ -2,7 +2,7 @@
 title: "Aprilian - Sesalku Kehilangan"
 date: 2023-04-03
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Aprilian rilis single Melayu berjudul "Sesalku Kehilangan" yang diciptakan oleh Reski Diananda, menceritakan tentang penyesalan akan keegoan diri dalam menjalin hubungan dan berakhir dengan perpisahan.

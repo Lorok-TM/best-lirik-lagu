@@ -2,7 +2,7 @@
 title: "Macepurba - Bukan Sa Lagi"
 date: 2026-05-28
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 

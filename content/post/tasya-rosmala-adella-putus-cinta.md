@@ -2,7 +2,7 @@
 title: "Tasya Rosmala Adella - Putus Cinta"
 date: 2025-06-10
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Sudah terkenal di mana-mana Memasak nasi menjadi bubur Kalau tak jadi apa rasanya Tulang menangis di dalam kubur

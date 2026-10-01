@@ -2,7 +2,7 @@
 title: "Sembari - Yono Bakrie X Restha Wirananda"
 date: 2025-03-07
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Sembari yang dibawakan oleh Yono Bakrie Ft Restha Wirananda.

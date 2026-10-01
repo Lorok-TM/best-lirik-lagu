@@ -2,7 +2,7 @@
 title: "Jen Manurung - Jolma Na Mali Ali"
 date: 2026-09-05
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Boha nama inong ujung ni parngoluankon Binahen ni parsahitonki Nungga tung leleng hu taon na haccit on Hape dang marna malum dope

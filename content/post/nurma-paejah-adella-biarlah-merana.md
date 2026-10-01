@@ -2,7 +2,7 @@
 title: "Nurma Paejah Adella - Biarlah Merana"
 date: 2025-11-21
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Kubiarkan diri ini merana dilanda sepi Walau pun rindu aku tak kan mencarimu Biarlah kecewa biarlah merana

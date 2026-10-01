@@ -2,7 +2,7 @@
 title: "Hijab Rindu - Black Hanifah"
 date: 2025-01-07
 categories: 
-  - "malaysia"
+  - "Malaysia"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Hijab Rindu yang dibawakan oleh Black Hanifah.

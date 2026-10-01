@@ -2,7 +2,7 @@
 title: "Bigheru - Sayang Talabiah"
 date: 2025-09-22
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Batali jalin jantuang jo hati Rago denai ko bataruah nyao Barupo darah di urek nadi Baitulah adiak den cinto

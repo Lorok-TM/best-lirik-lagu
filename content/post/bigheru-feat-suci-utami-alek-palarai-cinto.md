@@ -2,7 +2,7 @@
 title: "Bigheru Feat Suci Utami - Alek Palarai Cinto"
 date: 2025-04-27
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Alah badarai.. Aia mato jatuah.. lah badarai.. Ndak tatahankan.. Padiah hati indak tatahankan.. Maafkan denai oi uda sayang.. Kandak rang tuo ndak dapek denai tahan..

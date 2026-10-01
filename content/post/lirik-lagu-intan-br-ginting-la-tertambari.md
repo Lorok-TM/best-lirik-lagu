@@ -2,7 +2,7 @@
 title: "Intan Br Ginting - La Tertambari"
 date: 2021-10-16
 categories: 
-  - "karo"
+  - "Karo"
 ---
 
 Title : La Tertambari Artist : Intan Br Ginting Songwriter : Intan Ginting Category : Lagu Karo

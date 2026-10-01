@@ -2,7 +2,7 @@
 title: "Fausta & Dhea - Borneo Menari"
 date: 2025-11-19
 categories: 
-  - "dayak"
+  - "Dayak"
 ---
 
 Mari kunjungi tanah borneo Kau puaskan rasamu Alam indah manusia ramah Cantik manis lentera alamku

@@ -2,7 +2,7 @@
 title: "Zikra - Gamang Bamimpi"
 date: 2025-07-04
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Adiak sayang tambatan hati Manga gamang manggapai mimpi Nan den harok tali bajalin Barendo kasiah basulam sayang

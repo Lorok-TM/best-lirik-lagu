@@ -2,7 +2,7 @@
 title: "Gustrian Geno - Kasih Mu Oh Ibu"
 date: 2022-12-21
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Lirik Lagu Melayu dengan judul Kasih Mu Oh Ibu yang dinyanyikan oleh Gustrian Geno dan diciptakan oleh Koko dengan irama musik Pop.

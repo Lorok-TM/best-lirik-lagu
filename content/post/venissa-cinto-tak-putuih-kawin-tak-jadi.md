@@ -2,7 +2,7 @@
 title: "Venissa - Cinto Tak Putuih Kawin Tak Jadi"
 date: 2022-12-12
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Lirik Lagu Minang dengan judul Cinto Tak Putuih Kawin Tak Jadi yang dinyanyikan oleh Venissa dan diciptakan oleh Eddy Palangki dengan irama musik Pop.

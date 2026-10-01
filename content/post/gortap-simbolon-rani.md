@@ -2,7 +2,7 @@
 title: "Gortap Simbolon - Rani"
 date: 2026-06-09
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 

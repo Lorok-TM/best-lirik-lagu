@@ -2,7 +2,7 @@
 title: "Tak Bosan - Fira Cantika X Irwan Krisdiyanto"
 date: 2026-07-18
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Pesonamu… Wahai… Sang Bunga Menyilaukan… Mata Hatiku.. Harum Mewangi Baumu … Bangkitkan Gairahku…

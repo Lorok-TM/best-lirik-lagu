@@ -2,7 +2,7 @@
 title: "Duo Naimarata - Otik Alai Tonggi dan Artinya"
 date: 2023-06-18
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Duo Naimarata dibawah naungan label Pelita Danau Toba rilis single dengan lirik dalam bahasa Batak berjudul "Otik Alai Tonggi" yang artinya "Sedikit Tetapi Manis", menceritakan tentang kisah cinta habis manis sepah dibuang. Untuk lebih jelasnya silahkan Anda baca terjemahan lirik lagunya berada dibawah.

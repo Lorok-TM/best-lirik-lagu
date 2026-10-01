@@ -2,7 +2,7 @@
 title: "Ressa - Retak"
 date: 2025-07-16
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Bila suatu hari kau dan aku Terpisah jua kerana emosi jiwa Tak bisa kuingkari perihnya luka hati Bertaut dan kecewa

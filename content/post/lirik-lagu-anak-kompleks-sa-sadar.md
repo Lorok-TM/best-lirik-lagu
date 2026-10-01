@@ -2,7 +2,7 @@
 title: "Anak Kompleks - Sa Sadar"
 date: 2021-05-17
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 Title : Sa Sadar Artist : Anak Kompleks Vocal : Mario Yamlean, Libhe Watratan, Lipoz Category : Lagu Indonesia Bagian Timur

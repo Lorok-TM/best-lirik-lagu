@@ -2,7 +2,7 @@
 title: "Depra - Baya Janji Manis"
 date: 2026-09-16
 categories: 
-  - "dayak"
+  - "Dayak"
 ---
 
 Dia percaya cinta Haranan atei kacewa Ku kana rayuan cinta Baya janji manis samata Haranan kapehen cinta Manampa ku tasiksa

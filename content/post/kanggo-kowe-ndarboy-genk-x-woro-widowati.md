@@ -2,7 +2,7 @@
 title: "Kanggo Kowe - Ndarboy Genk x Woro Widowati"
 date: 2026-02-24
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Opo wes sak mestine aku kudu koyo ngene Bebarengan karo kowe urip sak bendinone Saben kepethuk kowe kondo yen kowe tresno Aku percoyo ra ono wong wadon liyo

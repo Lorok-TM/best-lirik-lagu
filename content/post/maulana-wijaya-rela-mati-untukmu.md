@@ -2,7 +2,7 @@
 title: "Maulana Wijaya - Rela Mati Untukmu"
 date: 2025-08-19
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Dimana engkau yang dulu dimana Yang ku cinta yang selalu ku puja puja

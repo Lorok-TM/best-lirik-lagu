@@ -2,7 +2,7 @@
 title: "Adinah Cretah - Selvi Ayunda"
 date: 2024-07-13
 categories: 
-  - "madura"
+  - "Madura"
 ---
 
 **Berikut lirik Adinah Cretah yang dinyanyikan oleh Selvi Ayunda.**

@@ -2,7 +2,7 @@
 title: "Hana Seutia - Mursal"
 date: 2025-01-20
 categories: 
-  - "aceh"
+  - "Aceh"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Hana Seutia yang dibawakan oleh Mursal.

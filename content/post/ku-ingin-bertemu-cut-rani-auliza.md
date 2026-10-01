@@ -2,7 +2,7 @@
 title: "Ku Ingin Bertemu - Cut Rani Auliza"
 date: 2025-02-17
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Ku Ingin Bertemu yang dibawakan oleh Cut Rani Auliza.

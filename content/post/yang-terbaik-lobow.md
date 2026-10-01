@@ -2,7 +2,7 @@
 title: "Yang Terbaik - Lobow"
 date: 2026-07-17
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Dunia ini adalah tempatku bermain Tuk mengukir hariku Dan memahat kisahku Masih banyak hal yang ingin aku selami Di dalam pikiranku Yang masih belum terjawab

@@ -2,7 +2,7 @@
 title: "Usah Di Ratoi - Elsa Mayora"
 date: 2024-06-27
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Anak urang si kubang putiah Pai ka balai hari sanjo Mamakai baju guntiang cino Guntiang cino

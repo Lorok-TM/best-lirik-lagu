@@ -2,7 +2,7 @@
 title: "Cinta Gorontalo Makassar - Rahmat Tahalu Feat Aswin Gani"
 date: 2025-02-23
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Cinta Gorontalo Makassar yang dibawakan oleh Rahmat Tahalu Ft Aswin Gani.

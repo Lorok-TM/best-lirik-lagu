@@ -2,7 +2,7 @@
 title: "Sasya Arkhisna - Sewates Angen"
 date: 2025-05-30
 categories: 
-  - "osing"
+  - "Osing"
 ---
 
 Mung sewates angen, mung sewates angen Welas hang sun kudang-kudang, saikine yo wis ilang Hang sun karepaken, hang sun karepaken Mung ketemu ambi riko, masio mung bisikan beloko

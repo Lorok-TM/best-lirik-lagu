@@ -2,7 +2,7 @@
 title: "Laut Kidul - La Tasya feat. Nayla Fardila"
 date: 2026-07-04
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 

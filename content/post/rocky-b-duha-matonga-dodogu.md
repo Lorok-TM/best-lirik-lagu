@@ -2,7 +2,7 @@
 title: "Rocky B Duha - Matonga Dödögu"
 date: 2025-10-05
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 Sagoto fa’ila Bazi darua ita Matonga dodogu Nolo aefa

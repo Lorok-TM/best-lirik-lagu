@@ -2,7 +2,7 @@
 title: "So Nyanda Butul - Bapomed Stail, Ever Slkr"
 date: 2024-06-17
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 **Lirik So Nyanda Butul - Bapomed Stail, Ever Slkr**

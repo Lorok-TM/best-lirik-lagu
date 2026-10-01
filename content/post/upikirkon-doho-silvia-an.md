@@ -2,7 +2,7 @@
 title: "Upikirkon Doho - Silvia An"
 date: 2026-07-28
 categories: 
-  - "tapsel"
+  - "Tapsel"
 ---
 
 

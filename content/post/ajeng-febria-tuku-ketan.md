@@ -2,8 +2,7 @@
 title: "Ajeng Febria - Tuku Ketan"
 date: 2026-07-22
 categories: 
-  - "dangdut"
-  - "java"
+  - "Jawa"
 ---
 
 Tuku ketan neng prapatan Tak liwatne da;an etan Cintaku hanya untukmu sayang Selawase ra bakal ilang

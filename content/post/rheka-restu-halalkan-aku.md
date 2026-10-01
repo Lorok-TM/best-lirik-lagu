@@ -2,7 +2,7 @@
 title: "Rheka Restu - Halalkan Aku"
 date: 2023-05-24
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Lirik Lagu Melayu dengan judul Halalkan Aku yang dinyanyikan oleh Rheka Restu dan diciptakan oleh Ibra Ktb dengan irama musik Pop.

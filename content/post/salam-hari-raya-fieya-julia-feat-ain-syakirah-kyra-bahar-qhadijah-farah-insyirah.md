@@ -2,7 +2,7 @@
 title: "Salam Hari Raya - Fieya Julia feat. Ain Syakirah, Kyra Bahar, Qhadijah, Farah Insyirah"
 date: 2026-02-14
 categories: 
-  - "religi"
+  - "Religi"
 ---
 
 Salam hari raya Salam satu dunia

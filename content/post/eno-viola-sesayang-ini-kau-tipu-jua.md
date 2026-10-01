@@ -2,7 +2,7 @@
 title: "Eno Viola - Sesayang Ini Kau Tipu Jua"
 date: 2025-07-06
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Sering kau buat ku merasa bersalah aku mengalah Di dalam hati kusimpan luka ini agar tak berpisah Tak sedikit pun ku membenci dirimu karena aku cinta Berulang kali ku maafkan salahmu aku terima

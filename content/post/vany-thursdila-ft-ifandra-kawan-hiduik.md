@@ -2,7 +2,7 @@
 title: "Vany Thursdila ft Ifandra - Kawan Hiduik"
 date: 2022-08-29
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Title : Kawan Hiduik Artist : Vany Thursdila ft Ifandra Songwriter : Roza'c Tanjung Label : Elta Record Category : Lagu Pop Minang

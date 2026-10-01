@@ -2,7 +2,7 @@
 title: "Langit Bumi Saksine - Cantika Adella Feat. Fendik Adella"
 date: 2025-06-11
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Sing biso sun pahami Riko tego medot taline asmoro Sing sanggup sun ngerteni Riko tego ninggalno ambi wong liyo

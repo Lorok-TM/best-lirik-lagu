@@ -2,7 +2,7 @@
 title: "Faustyn Laia - Ina"
 date: 2021-06-30
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 Title : Ina Artist : Faustyn Laia Songwriter : Havino S Duha Category : Lagu Nias

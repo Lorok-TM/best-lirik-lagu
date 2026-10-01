@@ -2,8 +2,7 @@
 title: "Ego Wong Tuo - Dini Kurnia Feat. Mufly Key"
 date: 2026-07-24
 categories: 
-  - "dangdut"
-  - "java"
+  - "Jawa"
 ---
 
 Tak ceritani Crito sing paling nglarani Naliko bapak lungo Ninggalke kluargo Nelongso nanging kudu tak terimo

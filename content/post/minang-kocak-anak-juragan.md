@@ -2,7 +2,7 @@
 title: "Minang Kocak - Anak Juragan"
 date: 2023-02-24
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Minang Kocak bersama Indoswara Music rilis single berjudul "Anak Juragan" yang diciptakan oleh Erwin Agam, menceritakan tentang seseorang yang jatuh cinta pada anaknya juragan, cerita cintanya diwarnai penuh kekocakan.

@@ -2,7 +2,7 @@
 title: "Gitriff - Kau Buat Aku Kecewa"
 date: 2023-05-15
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Lirik Lagu Melayu dengan judul Kau Buat Aku Kecewa yang dinyanyikan oleh Gitriff dan diciptakan oleh Armansyah, Jonedi Dj dengan irama musik Pop.

@@ -2,7 +2,7 @@
 title: "Wika Harefa - Fangonagu (Dermawan Zebua)"
 date: 2025-11-18
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 Mofanödo he ama toröi'ö furi Usawa mbanua ni honogöi Me no mitehe zimöi mame'e li Khö nonou ya'o si tebai faröi

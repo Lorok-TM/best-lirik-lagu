@@ -2,7 +2,7 @@
 title: "Bahagiamu Loroku - Twentynine"
 date: 2024-07-08
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 **Lirik Bahagiamu Loroku yang dinyanyikan oleh Twentynine.**

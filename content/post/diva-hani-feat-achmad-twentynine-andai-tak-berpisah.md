@@ -2,7 +2,7 @@
 title: "Diva Hani Feat Achmad Twentynine - Andai Tak Berpisah"
 date: 2025-07-11
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Aku yang sendiri tanpa cinta Semenjak kau dan aku berpisah Melupakanmu teramat sulit bagi diriku

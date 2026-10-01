@@ -2,7 +2,7 @@
 title: "Merlin Claudia - Dendang Parantauan"
 date: 2025-08-21
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Gajai Lapeh nan dari muaro kalaban Ka solok alun lai sampai Jalan balimpik nan basuo Handak manjalang guguak sarai Antah dima jalan nan ka luruih Tabedo bana malah badan da ei Tiok kakok tabangkalai Lah dipacik lapeh juo Dima bagayuik tagurajai Tagak dinan kareh da ei Tagarubuak

@@ -2,7 +2,7 @@
 title: "Nova Kristiana - Due Kali Balu dan Artinya"
 date: 2023-09-30
 categories: 
-  - "dayak"
+  - "Dayak"
 ---
 
 Title : Due Kali Balu Artist : Nova Kristiana Songwriter : Adul S / Venus Production : May Sheilla Studio Palangkaraya

@@ -2,7 +2,7 @@
 title: "Wulandari - Mantepah Ateh"
 date: 2025-11-10
 categories: 
-  - "madura"
+  - "Madura"
 ---
 
 Kadung bule tresna dek dika Kerong ben areh sekatemoah Odi' bule rassah taseksah Bile dikah jeuh deri mata

@@ -2,7 +2,7 @@
 title: "Ananta Sembiring - Rondong Simpanen"
 date: 2025-11-10
 categories: 
-  - "karo"
+  - "Karo"
 ---
 
 Lama tersungkun nggit aku man bandu Kerna rondongndu Aku nggo putus bang lanai ras ia Nindu man bangku

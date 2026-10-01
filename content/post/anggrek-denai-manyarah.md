@@ -2,7 +2,7 @@
 title: "Anggrek - Denai Manyarah"
 date: 2025-04-20
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Lah lamo denai pandang Taraso indak takatokan Dek cinto juo mangko denai batahan Kini tak talok elok denai lapehkan

@@ -2,7 +2,7 @@
 title: "Sesandingan - Lintang Kairo"
 date: 2025-04-15
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 Cahyane lintang ing wengi Lan sumilir adem angin ratri Tansah ngancani kasmaran iki Ngamboro lelamun angenku ing sepi Mutioro kalbu sliramu merak ati

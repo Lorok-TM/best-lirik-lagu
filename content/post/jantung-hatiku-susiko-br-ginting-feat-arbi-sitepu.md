@@ -2,7 +2,7 @@
 title: "Jantung Hatiku - Susiko Br Ginting Feat Arbi Sitepu"
 date: 2025-02-10
 categories: 
-  - "karo"
+  - "Karo"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Jantung Hatiku yang dibawakan oleh Susiko Br Ginting Ft Arbi Sitepu.

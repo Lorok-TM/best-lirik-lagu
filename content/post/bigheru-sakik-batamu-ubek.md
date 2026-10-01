@@ -2,7 +2,7 @@
 title: "Bigheru - Sakik Batamu Ubek"
 date: 2025-04-22
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Alah tadorong kasiah Alah tadorong sayang Kabakek adiak surang Tacandu oi sabana tacandu Pabilo jauah hati taraso rindu

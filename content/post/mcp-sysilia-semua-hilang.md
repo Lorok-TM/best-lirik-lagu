@@ -2,7 +2,7 @@
 title: "MCP Sysilia - Semua Hilang"
 date: 2023-07-04
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Lirik Lagu Indo dengan judul Semua Hilang yang dinyanyikan oleh MCP Sysilia dan diciptakan oleh Kelvin Fordatkossu, Alfons Dawile.

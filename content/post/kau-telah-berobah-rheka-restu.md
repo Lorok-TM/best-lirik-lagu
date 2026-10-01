@@ -2,7 +2,7 @@
 title: "Kau Telah Berobah - Rheka Restu"
 date: 2026-07-25
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Menjelang pagi aku berbisik Didalam doa-doa Dengan harapan kita selamanya

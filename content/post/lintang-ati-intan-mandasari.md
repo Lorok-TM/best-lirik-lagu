@@ -2,8 +2,7 @@
 title: "Lintang Ati - Intan Mandasari"
 date: 2026-07-30
 categories: 
-  - "dangdut"
-  - "java"
+  - "Jawa"
 ---
 
 Lintang seng ono neng wengi gawe kangen ati Ati seng tansah nandang kasmaran iki Endahe esemmu gawe bungahe atiku Mung sliramu pepuja neng atiku

@@ -2,7 +2,7 @@
 title: "Rana Safira - Mananti Pinangan Urang feat. Randa Putra"
 date: 2025-09-08
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Sairiang sabimbiang tangan Sabiduak kito sapandayuangan Tarapuang juo di lautan cinto Antah dima tapiannyo

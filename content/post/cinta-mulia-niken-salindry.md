@@ -2,7 +2,7 @@
 title: "Cinta Mulia - Niken Salindry"
 date: 2026-07-17
 categories: 
-  - "campursari"
+  - "Campursari"
 ---
 
 Sepasang remaja jatuh cinta Di bawah asuhan dewi asmara Disinari cahya purnama Disaksikan bintang-bintang sejuta

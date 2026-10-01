@@ -2,7 +2,7 @@
 title: "Ona Hetharua - Cinta Bakar Manyala"
 date: 2026-09-05
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 Se bilang dari nol Katong mulai start Mar seng pernah calling calling Pigi seng kabar Se yang kasih bubar Mar cinta seng pudar Ale yang senggol gesek kasih tabakar Cinta masih manyala Memang masih manyala Cinta bakar manyala

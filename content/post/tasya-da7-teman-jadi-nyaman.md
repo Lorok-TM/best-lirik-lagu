@@ -2,7 +2,7 @@
 title: "Tasya DA7 - Teman Jadi Nyaman"
 date: 2026-01-07
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Kita sudah lama berteman Susah senang kita barengan Kamu tahu kejelekanku Aku tahu rahasiamu Tak ada yang disembunyikan

@@ -2,7 +2,7 @@
 title: "Barsena Bestandhi - Seperti Laut Kepada Langit"
 date: 2026-09-15
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Ke mana kau tinggalkan bentala Dan beribu renjana Merenungkan nasibnya tanpa dirimu Ke mana sorak yang dulu gempita Kini telah temaram Tenggelam bersama malam Namun hati kita bertaut Takkan terlepas

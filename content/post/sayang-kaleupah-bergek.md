@@ -2,7 +2,7 @@
 title: "Sayang Kaleupah - Bergek"
 date: 2025-02-07
 categories: 
-  - "aceh"
+  - "Aceh"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Sayang Kaleupah yang dibawakan oleh Bergek.

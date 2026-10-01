@@ -2,7 +2,7 @@
 title: "Yosua Oliver - Mode Pesawat"
 date: 2025-06-07
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Sengaja hu baen mode mode pesawat Na mabiar do au annon hape gabe terlacak Didia lokasikki annon hansit rohami Mangida au di ktv

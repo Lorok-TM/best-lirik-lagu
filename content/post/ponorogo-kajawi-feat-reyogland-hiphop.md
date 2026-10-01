@@ -2,7 +2,7 @@
 title: "Ponorogo - Kajawi feat. Reyogland Hiphop"
 date: 2026-07-19
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 Ponorogo, kutha seni lan agama Kuthane kang endah lan prasaja Kutha budaya Ponorogo Kutha seni lan agama Resik, endah, omber, girang gemirang Mugi mulya kabeh sandang pangan

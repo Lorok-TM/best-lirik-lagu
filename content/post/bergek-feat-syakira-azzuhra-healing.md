@@ -2,7 +2,7 @@
 title: "Bergek feat. Syakira Azzuhra - Healing"
 date: 2026-02-03
 categories: 
-  - "aceh"
+  - "Aceh"
 ---
 
 Bang yok dong jalan jalan Bek gadouh di rumoh adek bosan Out going sekali kali bloe jajan Kita healing sambil kulineran

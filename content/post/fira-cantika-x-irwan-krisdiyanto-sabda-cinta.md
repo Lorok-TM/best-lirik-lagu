@@ -2,7 +2,7 @@
 title: "Fira Cantika x Irwan Krisdiyanto - Sabda Cinta"
 date: 2026-07-20
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Bila cinta menyapa Keindahan surga terlukis di jiwa Sehari tak bersua Resah dan gelisah tiada terkira

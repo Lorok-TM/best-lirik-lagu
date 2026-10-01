@@ -2,7 +2,7 @@
 title: "Abay - Baru Ka Tau"
 date: 2025-09-09
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Iyo dalam bana ondeh deh dalam bana Denai pun baru ka tau pulo Den sangko kanduang yo hanyolah bagarah Lah malakek hati dibueknyo

@@ -2,7 +2,7 @@
 title: "Salelengna - Bobby Purba Feat Tabita Sipahutar"
 date: 2026-08-04
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Karya musik Salelengna yang dibawakan oleh Bobby Purba bersama Tabita Sipahutar serta diciptakan oleh Hendro Sinambela, membawa narasi filosofis tentang komitmen dan keteguhan rasa dalam hubungan manusia. Secara semantik, kata salelengna dalam bahasa Batak merujuk pada dimensi waktu yang berarti "selamanya" atau "sepanjang masa". Lagu ini mengeksplorasi latar belakang psikologis individu yang memilih bertahan pada janji kesetiaan di tengah dinamika pasang surut kehidupan, yang kemudian direpresentasikan melalui harmonisasi vokal duet yang saling mengisi guna menegaskan esensi keselarasan. Dengan pendekatan melodis khas musik populer tapanuli, karya ini tidak sekadar berfungsi sebagai media hiburan, melainkan sebagai refleksi sosiologis mengenai pentingnya menjaga integritas ikatan emosional dari sudut pandang kultural yang mendalam.

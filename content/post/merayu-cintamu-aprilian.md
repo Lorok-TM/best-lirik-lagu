@@ -2,7 +2,7 @@
 title: "Merayu Cintamu - Aprilian"
 date: 2026-07-02
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 Begitu dalam rasa susah yang ku derita Setelah ku meninggalkan diri mu Sulit aku hadapi kesendirian ini Menjalani hari tanpa dirimu

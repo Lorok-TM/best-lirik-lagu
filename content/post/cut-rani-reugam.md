@@ -2,7 +2,7 @@
 title: "Cut Rani - Reugam"
 date: 2025-06-21
 categories: 
-  - "aceh"
+  - "Aceh"
 ---
 
 Neu sayang sayang Keu loen neu sayang wahe e kanda Neu hiroe gaseh neu hiroe cinta Geu tanyoe dua

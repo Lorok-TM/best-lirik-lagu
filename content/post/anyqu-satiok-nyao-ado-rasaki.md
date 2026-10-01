@@ -2,7 +2,7 @@
 title: "Anyqu - Satiok Nyao Ado Rasaki"
 date: 2025-05-03
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Cinto denai hanyo uda surang Rindu denai uda sayang Usah balatiah latiah bana badan Tak ka abih pancarian Usah balatiah latiah bana badan Tak ka abih pancarian

@@ -2,7 +2,7 @@
 title: "Flora Susanti Hasugian - Haccit Do Pambaenanmon"
 date: 2025-08-11
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Hasian…boasa muba roham Boasa mose roham Dung diboto ho balga ni holongki

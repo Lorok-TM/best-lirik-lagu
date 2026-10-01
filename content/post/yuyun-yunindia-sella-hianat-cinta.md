@@ -2,7 +2,7 @@
 title: "Yuyun Yunindia Sella - Hianat Cinta"
 date: 2024-05-12
 categories: 
-  - "tarling"
+  - "Tarling"
 ---
 
 **Lirik Hiyanat Cinta - Yuyun Yunindia Sella**

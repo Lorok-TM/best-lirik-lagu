@@ -2,7 +2,7 @@
 title: "Cinto Tumbuah Uda Mahilang - Fauzana"
 date: 2025-01-08
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Lah padam suluah panarang Makonyo tagamang badan Antah dimano Urang nan denai cinto

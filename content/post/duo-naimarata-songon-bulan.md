@@ -2,7 +2,7 @@
 title: "Duo Naimarata - Songon Bulan"
 date: 2023-08-01
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Salam sejahtera untuk sobat semuanya dimanapun berada, pada kesempatan kali ini Best Lyrics™ akan menyajikan Lirik Lagu Duo Naimarata - Songon Bulan. Sebagai wujud dukungan bagi para penyanyi dan musisi yang telah merilis lagu "Songon Bulan" ini, jangan lupa untuk mendapatkan lagu tersebut melalui platform musik digital resmi seperti Joox, iTunes, Spotify, dan penyedia lainnya, agar mereka bisa terus berkarya dan merilis single terbaru mereka. Anda bisa menikmati video lagu tersebut melalui channel youtube resminya.

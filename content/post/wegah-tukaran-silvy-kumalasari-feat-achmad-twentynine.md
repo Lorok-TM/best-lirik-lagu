@@ -2,7 +2,7 @@
 title: "Wegah Tukaran - Silvy Kumalasari Feat Achmad Twentynine"
 date: 2025-06-20
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 Bulan gede sandingan karo lintange Koyo ndene tresnane awake dewe Kadang mendung teko ngalingi gedhene tresno Tulung percoyo atiku tak jogo

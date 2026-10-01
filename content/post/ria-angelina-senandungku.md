@@ -2,7 +2,7 @@
 title: "Ria Angelina - Senandungku"
 date: 2022-04-06
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Title : Senandungku Artist : Ria Angelina Label : JK Records Category : Lagu Melayu

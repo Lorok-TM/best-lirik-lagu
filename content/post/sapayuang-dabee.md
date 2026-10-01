@@ -2,7 +2,7 @@
 title: "Sapayuang - Dabee"
 date: 2026-07-18
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Sapayuang kito baduo Kok kuyuik samo sadingin Langkah sa iriang sarantak ayun Sadendang jo kato cinto

@@ -2,7 +2,7 @@
 title: "Rantau Panabuih Janji - Randa Putra feat. Rana Lida"
 date: 2026-06-02
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 

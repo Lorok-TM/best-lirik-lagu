@@ -2,7 +2,7 @@
 title: "Diyah Agriana - Koto Rang Agam"
 date: 2025-10-09
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Basimpang jalan ka kapau Bukittinggi koto rang agam Lah lamo denai pai marantau ndeh kanduang oi Adiak nan tingga manangguan ragam

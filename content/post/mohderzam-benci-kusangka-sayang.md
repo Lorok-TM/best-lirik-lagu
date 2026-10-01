@@ -2,7 +2,7 @@
 title: "Mohderzam - Benci Kusangka Sayang"
 date: 2022-12-13
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Lirik Lagu Melayu dengan judul Benci Kusangka Sayang yang dinyanyikan oleh Mohderzam dan diciptakan oleh Faisal Asahan dengan irama musik Pop.

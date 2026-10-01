@@ -2,7 +2,7 @@
 title: "Ajeng Febria - Idol Idol"
 date: 2026-09-17
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Lila lali lali lala..

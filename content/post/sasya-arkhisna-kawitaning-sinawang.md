@@ -2,8 +2,7 @@
 title: "Sasya Arkhisna - Kawitaning Sinawang"
 date: 2025-06-10
 categories: 
-  - "dangdut"
-  - "java"
+  - "Jawa"
 ---
 
 Koyo ngene yen nandhang loro asmoro Jroning nolo mangambar arum puspito Dahat rasaku sesandhing marang sliramu Dyah ayu memanike jantungku

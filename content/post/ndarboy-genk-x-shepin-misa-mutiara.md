@@ -2,7 +2,7 @@
 title: "Ndarboy Genk x Shepin Misa - Mutiara"
 date: 2026-08-02
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Karya musik berjudul "Mutiara" yang dibawakan oleh Ndarboy Genk bersama Shepin Misa menyajikan eksplorasi musikal baru melalui adaptasi corak musik Melayu yang dipadukan dengan cengkok khas pop Jawa. Secara filosofis, narasi lagu ini merefleksikan analogi mutiara sebagai representasi dari sesuatu yang berharga, murni, dan penuh perjuangan dalam sebuah hubungan asmara, namun harus berhadapan dengan realitas konflik emosional yang mendalam. Kolaborasi ini tidak sekadar menjadi ajang eksperimen genre bagi Ndarboy Genk yang biasa dikenal dengan kelantangan lagu bertema patah hati, tetapi juga menjadi medium pembuktian estetika vokal kedua penyanyi dalam menyampaikan pesan tentang keteguhan hati, batas pengorbanan, dan penerimaan atas dinamika komitmen yang kompleks.

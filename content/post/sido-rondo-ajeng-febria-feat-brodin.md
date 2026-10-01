@@ -2,7 +2,7 @@
 title: "Sido Rondo - Ajeng Febria feat. Brodin"
 date: 2026-07-02
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 Biyen mulo sliramu wis tak tuturi Golek bojo sing tresno welas sejati Pungkasane sliramu digawe loro Ora wurung saiki dadi rondo

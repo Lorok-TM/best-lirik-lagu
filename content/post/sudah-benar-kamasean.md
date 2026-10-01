@@ -2,7 +2,7 @@
 title: "Sudah Benar - Kamasean"
 date: 2025-04-06
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Kini tiba saat Kita putuskan Jalan kita Selanjutnya

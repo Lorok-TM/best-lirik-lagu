@@ -2,7 +2,7 @@
 title: "Tuhan Tak Tinggalkan - Putri Siagian"
 date: 2025-04-12
 categories: 
-  - "rohani"
+  - "Rohani"
 ---
 
 KemurahanMu KesetiaanMu Lebih tinggi dari semua masalahku KebaikanMu KekuatanMu Menjadikanku ada sampai hari ini

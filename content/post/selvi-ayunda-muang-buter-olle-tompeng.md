@@ -2,7 +2,7 @@
 title: "Selvi Ayunda - Muang Buter Olle Tompeng"
 date: 2026-07-21
 categories: 
-  - "dangdut"
+  - "Dangdut"
   - "madura"
 ---
 

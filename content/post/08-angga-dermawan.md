@@ -2,7 +2,7 @@
 title: "08 - Angga Dermawan"
 date: 2025-03-07
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Kosong 8 yang dibawakan oleh Angga Dermawan.

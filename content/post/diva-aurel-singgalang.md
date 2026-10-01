@@ -2,7 +2,7 @@
 title: "Diva Aurel - Singgalang"
 date: 2025-07-29
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Nan singgalang ditutuik awan Nan marapi tagak manjago Tampak nan dari bukiktinggi

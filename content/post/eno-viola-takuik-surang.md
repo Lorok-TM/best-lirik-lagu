@@ -2,7 +2,7 @@
 title: "Eno Viola - Takuik Surang"
 date: 2025-07-19
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Rumik bana batenggang Jikok hati lah batangggang Siang ba angan malam bamimpi Sansailah badan mabuak surang Siang ba angan malam bamimpi Sansailah badan mabuak surang

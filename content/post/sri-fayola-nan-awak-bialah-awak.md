@@ -2,7 +2,7 @@
 title: "Sri Fayola - Nan Awak Bialah Awak"
 date: 2023-08-08
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 **Lirik Nan Awak Bialah Awak - Sri Fayola**

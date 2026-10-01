@@ -2,7 +2,7 @@
 title: "Satu Pilihan - Ammy Samawa"
 date: 2026-09-05
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Melangkah Pergi Bukan Yang Aku Inginkan Tetap Disini Rasanya Aku Tak Tahan Namun Ku Harus Memilih Demi Masa Depan Hati Ini Merintih Untuk Menentukan

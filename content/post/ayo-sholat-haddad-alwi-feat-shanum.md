@@ -2,7 +2,7 @@
 title: "Ayo Sholat - Haddad Alwi Feat Shanum"
 date: 2025-04-11
 categories: 
-  - "religi"
+  - "Religi"
 ---
 
 Verse : Mengapa kita wajib lakukan sholat? Karena itu perintah Allah.. Lakukan sholat janganlah kau tinggalkan Agar Allah menyayangimu..

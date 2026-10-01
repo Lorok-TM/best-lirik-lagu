@@ -2,7 +2,7 @@
 title: "Elsa Mayora - Janji Hanyo Dimuluik"
 date: 2022-12-27
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Lirik Lagu Minang dengan judul Janji Hanyo Di Muluik yang dinyanyikan oleh Elsa Mayora dan diciptakan oleh Rozac Tanjung dengan irama musik Pop Acoustic.

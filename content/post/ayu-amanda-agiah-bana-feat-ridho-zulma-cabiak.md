@@ -2,7 +2,7 @@
 title: "Ayu Amanda - Agiah Bana feat. Ridho Zulma, Cabiak"
 date: 2025-09-09
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Oi iyo sungai pagu Pagu aie tatumbuak Nan baputa aie oi baputa di jambatan Nan baputa aie oi baputa di jambatan

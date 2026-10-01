@@ -2,7 +2,7 @@
 title: "Masya Allah - Cantika Davinca"
 date: 2025-02-14
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Masya Allah yang dibawakan oleh Cantika Davinca.

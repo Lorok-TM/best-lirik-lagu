@@ -2,7 +2,7 @@
 title: "Duo Naimarata - Upani Halojaon"
 date: 2025-08-01
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Pinaborhatni ilu do au tu parjalanganki Mardongan tangiang ni damang da inang i Alani hapogoson na tarlobi Nang hagaleon di tikki i

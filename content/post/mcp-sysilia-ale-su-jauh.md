@@ -2,7 +2,7 @@
 title: "MCP Sysilia - Ale Su Jauh"
 date: 2025-05-07
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 Verse : Waktu ale mau pi kas tinggal beta.. Beta berharap ale jang pigi lai.. Aer mata malele basah beta pung pipi.. Jang manangis kalu beta pigi.. Itu se pung janji.. oouh..

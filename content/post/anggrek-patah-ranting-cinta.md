@@ -2,7 +2,7 @@
 title: "Anggrek - Patah Ranting Cinta"
 date: 2026-09-26
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Kemarau sudah berganti hujan Alam bahagia tertawa riang Bibit cinta bertumbuhan Berputik daun mengembang Namun aku tak bahagia

@@ -2,7 +2,7 @@
 title: "Gustrian Geno - Angin Malam Sampaikan Salamku"
 date: 2023-05-13
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Lirik Lagu Melayu dengan judul Angin Malam Sampaikan Salamku yang dinyanyikan oleh Gustrian Geno dan diciptakan oleh Koko dengan irama musik Pop.

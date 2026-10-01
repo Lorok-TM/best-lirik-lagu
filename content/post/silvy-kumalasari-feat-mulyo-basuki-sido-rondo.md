@@ -2,7 +2,7 @@
 title: "Silvy Kumalasari feat. Mulyo Basuki - Sido Rondo"
 date: 2025-12-08
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Biyen mulo sliramu wis tak aturi Golek bojo sing tresno welas sejati Pungkasane sliramu digawe loro Ora wurung saikine dadi rondo

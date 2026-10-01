@@ -2,7 +2,7 @@
 title: "Arga Arnold - Tulang Rusuk Menjadi Tulang Punggung"
 date: 2026-08-03
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Lagu berjudul "Tulang Rusuk Menjadi Tulang Punggung" yang dinyanyikan oleh Arga Arnold dan diciptakan oleh Anisa Fadila membawa narasi filosofis mengenai dekonstruksi serta pergeseran peran gender tradisional dalam institusi domestik akibat tuntutan realitas ekonomi. Secara semantik, metafora "tulang rusuk" yang merepresentasikan pasangan hidup berevolusi secara paksa menjadi "tulang punggung," sebuah simbol beban pertanggungjawaban finansial utama dalam keluarga. Latar belakang cerita dalam karya musik ini menyoroti potret realisme sosial, di mana seorang istri harus mengambil alih kendali nafkah demi menjaga stabilitas dan kelangsungan hidup rumah tangga di tengah kondisi krisis atau ketidakpastian. Melalui pendekatan aransemen dan lirik yang lugas, karya ini tidak sekadar menggambarkan kepasrahan terhadap keadaan, melainkan menggarisbawahi nilai resiliensi, adaptabilitas, serta pengorbanan pragmatis dalam mengarungi dinamika kehidupan modern.

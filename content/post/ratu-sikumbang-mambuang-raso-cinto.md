@@ -2,7 +2,7 @@
 title: "Ratu Sikumbang - Mambuang Raso Cinto"
 date: 2022-11-18
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Lirik Lagu Minang dengan judul Mambuang Raso Cinto yang dinyanyikan oleh Ratu Sikumbang. Lagu ini diciptakan oleh Windra dengan irama musik Pop.

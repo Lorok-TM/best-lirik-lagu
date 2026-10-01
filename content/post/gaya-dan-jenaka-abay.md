@@ -2,7 +2,7 @@
 title: "Gaya Dan Jenaka - Abay"
 date: 2025-02-05
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Gaya Dan Jenaka yang dibawakan oleh Abay.

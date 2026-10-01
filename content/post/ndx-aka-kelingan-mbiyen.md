@@ -2,8 +2,7 @@
 title: "NDX AKA - Kelingan Mbiyen dan Artinya"
 date: 2023-03-26
 categories: 
-  - "dangdut"
-  - "java"
+  - "Jawa"
 ---
 
 NDX AKA rilis single dengan lirik dalam bahasa Jawa berjudul "Kelingan Mbiyen" yang artinya "Teringat Waktu Dahulu", menceritakan tentang seseorang yang teringat akan kenangan masalalu bersama sang mantan. Untuk lebih jelasnya silahkan Anda baca terjemahan lirik lagunya berada dibawah.

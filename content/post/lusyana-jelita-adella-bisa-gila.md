@@ -2,7 +2,7 @@
 title: "Lusyana Jelita Adella - Bisa Gila"
 date: 2025-07-06
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Jangan tinggalkan aku, sayang Cintamu masih ku butuhkan Walaupun kenal semalam tapi cukup berkesan Oohooo membuatku penasaran

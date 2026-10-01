@@ -2,7 +2,7 @@
 title: "Korban Setia - The Boy's Trio"
 date: 2024-07-14
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 **Berikut lirik Korban Setia yang dibawakan oleh The Boy's Trio.**

@@ -2,7 +2,7 @@
 title: "Ra Mung Siji - Shinta Arsinta"
 date: 2025-05-31
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 Lilo pancen aku kudu lilo Ikhlas pancen aku kudu ikhlas Lelakon iki tak simpen ning njero ati Pasrah marang gusti

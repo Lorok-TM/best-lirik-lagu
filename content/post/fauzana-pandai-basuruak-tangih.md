@@ -2,7 +2,7 @@
 title: "Fauzana - Pandai Basuruak Tangih"
 date: 2025-11-06
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Batanam padi nan tumbuah ilalang Baniah jo galak tangih di tuan Di lua nan lai tampak nyo sanang 2x Bak sabab tangih basuruak pandang 2x

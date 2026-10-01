@@ -2,7 +2,7 @@
 title: "Silva Hayati - Jan Sampai Manaruah Dandam"
 date: 2026-01-23
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 

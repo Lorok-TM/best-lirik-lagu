@@ -2,7 +2,7 @@
 title: "XONE - Aidilfitri, Jangan Pergi"
 date: 2026-03-19
 categories: 
-  - "religi"
+  - "Religi"
 ---
 
 Pagi syahdu di Aidil Fitri Wangi ketupat harum mewangi Senyum manis wajah berseri Oh indahnya suasana ini Baju baru berseri-seri Terasa seperti kanak-kanak lagi

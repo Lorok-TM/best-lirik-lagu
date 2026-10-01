@@ -2,7 +2,7 @@
 title: "Elsa Pitaloka - Palaminan Mamerah"
 date: 2025-08-25
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Jo denai uda basandiang Jo nan lain manga babimbiang Lah jaleh kini tasuo Usah bakilah juo

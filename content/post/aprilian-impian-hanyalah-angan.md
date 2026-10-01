@@ -2,7 +2,7 @@
 title: "Aprilian - Impian Hanyalah Angan"
 date: 2022-08-30
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 ## Lirik Lagu ”Impian Hanyalah Angan“ by Aprilian

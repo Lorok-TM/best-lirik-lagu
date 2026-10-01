@@ -2,7 +2,7 @@
 title: "Top Simamora - Sar Sar Ni Dalihan Na Tolu"
 date: 2025-05-22
 categories: 
-  - "tapsel"
+  - "Tapsel"
 ---
 
 Dalihan na tolu Malo markahanggi elek maranak boru Hormat marmora On ma lambang ni paradataon ta

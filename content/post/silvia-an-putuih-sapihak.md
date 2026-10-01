@@ -2,7 +2,7 @@
 title: "Silvia An - Putuih Sapihak"
 date: 2025-05-20
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Bakulik kulik si alang tabang Cando mambari garak ka datang Datak jantuang ko badabok kancang Bakraso raso ado ka hilang Cameh cameh denai surang

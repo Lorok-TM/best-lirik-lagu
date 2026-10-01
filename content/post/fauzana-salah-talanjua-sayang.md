@@ -2,7 +2,7 @@
 title: "Fauzana - Salah Talanjua Sayang"
 date: 2023-04-24
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Denai tarimo sagalo tuduah Asakan uda lai ka sanang Di lua galak di batin rusuah Mungkin alah suratan badan

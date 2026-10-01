@@ -2,7 +2,7 @@
 title: "Tulalideng - Semaya Koplo"
 date: 2024-12-30
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Tulalideng yang dibawakan oleh Semaya Koplo.

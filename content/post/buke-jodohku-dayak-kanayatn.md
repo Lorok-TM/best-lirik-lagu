@@ -2,7 +2,7 @@
 title: "Buke Jodohku - Dayak Kanayatn"
 date: 2024-09-25
 categories: 
-  - "dayak"
+  - "Dayak"
 ---
 
 Ai matanyu nyantui aku Curita madi duduk ka pante Bulatn man bintakng manjadi saksi Neleatn ka kau curita madi

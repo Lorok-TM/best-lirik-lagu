@@ -2,7 +2,7 @@
 title: "Langkah Yang Hilang - Bowo Band"
 date: 2024-12-07
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Langkah Yang Hilang yang dibawakan oleh Bowo Band.

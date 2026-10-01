@@ -2,7 +2,7 @@
 title: "Tresna Sing Kawales - Bagus Wirata"
 date: 2024-07-16
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 **Berikut lirik Tresna Sing Kawales yang dinyanyikan oleh Bagus Wirata.**

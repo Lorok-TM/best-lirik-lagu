@@ -2,7 +2,7 @@
 title: "D'Sweet - Holong Na Marpahompu"
 date: 2025-05-20
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 On do hape nidokna tua ni na mangolu Sahat pinarorot gelleng ro di marhasohotan Jala basa do Tuhan i di pangidoanhi Sorang pahompukki na gabe lam pahothon hautaonhi

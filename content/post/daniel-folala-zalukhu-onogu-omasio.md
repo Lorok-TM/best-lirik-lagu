@@ -2,7 +2,7 @@
 title: "Daniel Folala Zalukhu - Onogu Omasi'õ"
 date: 2025-12-10
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 Lö uila uwa'ö Notebai udunö dunö Hawa'ebua wa'omasigu khömö Onogu tuho dödögu

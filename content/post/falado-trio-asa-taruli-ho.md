@@ -2,7 +2,7 @@
 title: "Falado Trio - Asa Taruli Ho dan Artinya"
 date: 2022-11-26
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Lirik Lagu Batak dengan judul Asa Taruli Ho yang dinyanyikan oleh Falado Trio dan diciptakan oleh Henry Limbong dengan irama musik Pop.

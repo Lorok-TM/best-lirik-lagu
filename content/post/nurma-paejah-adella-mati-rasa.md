@@ -2,7 +2,7 @@
 title: "Nurma Paejah Adella - Mati Rasa"
 date: 2026-09-04
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Terlalu Sakit Yang Ku Rasakan Hingga Tak Bisa Aku Ungkapkan Air Mata Ku Pun Tlah Habis Kini Hilang Bersama Rasa Cintaku Yang Mati

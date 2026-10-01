@@ -2,7 +2,7 @@
 title: "Nanti Pulangnya Ke Aku Ya - Dalia Farhana"
 date: 2025-02-09
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Nanti Pulangnya Ke Aku Ya yang dibawakan oleh Dalia Farhana.

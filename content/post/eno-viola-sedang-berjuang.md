@@ -2,7 +2,7 @@
 title: "Eno Viola - Sedang Berjuang"
 date: 2023-11-28
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Sedang berjuang untuk tak menyerah Sedang berjuang untuk tetap bersama Walau hatiku penuh luka Walau hatiku penuh luka

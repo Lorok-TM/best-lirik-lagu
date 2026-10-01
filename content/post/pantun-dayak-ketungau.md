@@ -2,7 +2,7 @@
 title: "Pantun Dayak Ketungau"
 date: 2024-10-17
 categories: 
-  - "dayak"
+  - "Dayak"
 ---
 
 Pantun dayak ketungau Pantun dayak ketungau Pantun dayak ketungau Pantun dayak ketungau

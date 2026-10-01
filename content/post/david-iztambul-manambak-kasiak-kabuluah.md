@@ -2,7 +2,7 @@
 title: "David Iztambul - Manambak Kasiak Kabuluah"
 date: 2025-04-24
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Alah tu diak Cukuik kito sampai disiko Ndak talok denai dihino di caraco Co a bana denai ka bajuang Indak di pandang dek rang tuo adiak Cando manambak kasiak ka buluah

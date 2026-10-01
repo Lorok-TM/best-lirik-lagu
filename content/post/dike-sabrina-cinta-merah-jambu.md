@@ -2,7 +2,7 @@
 title: "Dike Sabrina - Cinta Merah Jambu"
 date: 2025-06-29
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Cintaku hanya kamu Cinta merah, merah jambu Rinduku hanya kamu Rindu hangat-hangat kuku

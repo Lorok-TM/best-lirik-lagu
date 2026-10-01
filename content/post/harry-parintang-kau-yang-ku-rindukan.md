@@ -2,7 +2,7 @@
 title: "Harry Parintang - Kau Yang Ku Rindukan"
 date: 2023-04-15
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Lirik Lagu Melayu dengan judul Kau Yang Ku Rindukan yang dinyanyikan dan diciptakan oleh Harry Parintang dengan irama musik Pop.

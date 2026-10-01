@@ -2,7 +2,7 @@
 title: "Unang Robe Ho - Jhon Kenedy Nadeak"
 date: 2025-04-14
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Sude nai ito Nungnga takkas dibotoho dang cinta dang sayang be au tuho Nga sai bei ito Olatnion majo Unang sai robe ho tu au

@@ -2,7 +2,7 @@
 title: "Angel Voice X Maxima - Di Takko Ho Ma Rohakki"
 date: 2025-10-20
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Si malolongku do marnida ho Alai rohakku sai holsoan Dibahen ekkel suping mi ito Manusuk tu pusu pusukki Tikki na parjolo pajumpang dohot ho Sai maila ila ho tu au

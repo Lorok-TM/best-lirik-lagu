@@ -2,7 +2,7 @@
 title: "Ziell Ferdian - Semoga Engkau Bahagia"
 date: 2021-09-09
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Aku yang terluka Untuk yang kesekian kalinya Sudah cukup sudah Sakit yang kurasa Kau putuskan pergi Tinggalkan aku Demi dirinya

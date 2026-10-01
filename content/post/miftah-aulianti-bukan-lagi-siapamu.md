@@ -2,7 +2,7 @@
 title: "Miftah Aulianti - Bukan Lagi Siapamu"
 date: 2023-03-23
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Lirik Lagu Melayu dengan judul Bukan Lagi Siapamu yang dinyanyikan oleh Mifthah Aulianti dan diciptakan oleh Wanda Mahardika dengan irama musik Slow Rock.

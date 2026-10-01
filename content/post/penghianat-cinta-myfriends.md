@@ -2,7 +2,7 @@
 title: "Penghianat Cinta - MyFriends"
 date: 2025-02-08
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 Beli bajingan boya je sing nawang Arti korban perasaan Beli muani pasti memahami Derita sakit hati

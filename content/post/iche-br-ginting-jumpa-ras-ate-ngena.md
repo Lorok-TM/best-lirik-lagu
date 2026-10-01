@@ -2,7 +2,7 @@
 title: "Iche Br Ginting - Jumpa Ras Ate Ngena"
 date: 2024-05-06
 categories: 
-  - "karo"
+  - "Karo"
 ---
 
 **Lirik Jumpa Ras Ate Ngena - Iche Br Ginting**

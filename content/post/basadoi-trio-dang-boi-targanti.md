@@ -2,7 +2,7 @@
 title: "Basadoi Trio - Dang Boi Targanti"
 date: 2026-07-09
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 

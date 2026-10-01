@@ -2,7 +2,7 @@
 title: "Na Martingki Do Sude - Rezana Kalit"
 date: 2025-01-24
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Na Martingki Do Sude yang dibawakan oleh Rezana Kalit.

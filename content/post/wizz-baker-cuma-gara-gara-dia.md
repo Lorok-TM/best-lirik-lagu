@@ -2,7 +2,7 @@
 title: "Wizz Baker - Cuma Gara Gara Dia"
 date: 2025-07-03
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 Lama seng dengar nona pung suara Par dengar kabar saja su susah lai kanapa Orang bilang se su kaweng la Su dapa bagus la Batul ka seng?

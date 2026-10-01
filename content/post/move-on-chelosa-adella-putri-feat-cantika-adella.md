@@ -2,7 +2,7 @@
 title: "Move On - Chelosa Adella Putri Feat Cantika Adella"
 date: 2025-02-21
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Move On yang dibawakan oleh Chelosa Adella Putri Ft Cantika Adella.

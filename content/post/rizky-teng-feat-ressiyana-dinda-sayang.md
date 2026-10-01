@@ -2,7 +2,7 @@
 title: "Rizky Teng feat. Ressiyana - Dinda Sayang"
 date: 2025-05-07
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Oh oh sayang tolonglah percaya abang Abang ini sudah betul betul cinta Abang harap dinda janganlah curiga sayang Kalau cuma bahagia abang mati tanam

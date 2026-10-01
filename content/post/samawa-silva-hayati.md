@@ -2,7 +2,7 @@
 title: "Samawa - Silva Hayati"
 date: 2024-06-20
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 **Lirik Samawa - Silva Hayati**

@@ -2,7 +2,7 @@
 title: "Karejo Kantor - Arghado Trio"
 date: 2025-02-14
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Karejo Kantor yang dibawakan oleh Arghado Trio.

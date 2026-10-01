@@ -2,7 +2,7 @@
 title: "MadameToean - Jungkat Jungkit"
 date: 2026-09-23
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Un deux trois quatre

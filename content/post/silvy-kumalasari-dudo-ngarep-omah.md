@@ -2,7 +2,7 @@
 title: "Silvy Kumalasari - Dudo Ngarep Omah"
 date: 2026-08-19
 categories: 
-  - "campursari"
+  - "Campursari"
 ---
 
 Ono Dudo, manggon ngarep omahku Yen, ruh aku, deweke ngguya-ngguyu Soyo yen ngerti, aku namatke Carane mlaku soyo digawe-gawe

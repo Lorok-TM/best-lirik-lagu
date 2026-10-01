@@ -2,7 +2,7 @@
 title: "Alfina Braner - Condong Mato"
 date: 2025-12-31
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Tambang ameh lalai di munggani ndeh da Di sungai dodok lalai la tu dakek nyo ondeh ma Di sungai dodok lalai la tu dakek nyo Tampak sakileh lalai uda nan manih sayang Hati di dalam lalai lah diguncangnyo ondeh ma Hati di dalam lalai lah diguncangnyo

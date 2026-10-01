@@ -2,7 +2,7 @@
 title: "Gilang Setyawan / Ki Tantut Sutanto - Kusuma Layu dan Artinya"
 date: 2020-05-02
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 Title : Kusuma Layu Artist : Gilang Setyawan & Ki Tantut Sutanto Songwriter : Adhik Afwan & Dru Wendra Wedhatama Category : Lagu Jawa

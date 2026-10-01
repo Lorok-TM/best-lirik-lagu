@@ -2,7 +2,7 @@
 title: "Elsa Pitaloka - Tiada Maaf Bagimu"
 date: 2023-06-07
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Lirik Lagu Melayu dengan judul Tiada Maaf Bagimu yang dinyanyikan oleh Elsa Pitaloka dan diciptakan oleh Faisal Asahan dengan irama musik Pop.

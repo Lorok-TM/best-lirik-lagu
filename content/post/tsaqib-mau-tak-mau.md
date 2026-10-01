@@ -2,7 +2,7 @@
 title: "Tsaqib - Mau Tak Mau"
 date: 2025-04-25
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Verse : Nanti kan ada masanya.. Ku kan dirayakan sebegitu hebatnya.. Tapi bukan di kisah ini.. Ku juga tak mau terus begini

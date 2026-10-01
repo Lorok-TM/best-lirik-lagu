@@ -2,7 +2,7 @@
 title: "Alun Putuih Alah Baganti - Rafif Maula Feat. Wawa Naela"
 date: 2024-07-30
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Lupokan sajo diri denai ko Mungkin ndak jodoh kito baduo Usah managih duduak di janjang Mancaliak denai manyuntiang urang

@@ -2,7 +2,7 @@
 title: "Daniel Folala Zalukhu - Faomasi Sino Tafobörö"
 date: 2025-11-05
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 Usura utanö badödögu Silö aetu itörötödögu Fefu niwa'öu khögu Ngawua wa'omasigu Ohitö dödö tola orudu

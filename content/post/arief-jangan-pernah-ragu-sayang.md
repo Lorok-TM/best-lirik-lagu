@@ -2,7 +2,7 @@
 title: "Arief - Jangan Pernah Ragu Sayang"
 date: 2023-09-23
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 **Lirik Jangan Pernah Ragu Sayang - Arief**

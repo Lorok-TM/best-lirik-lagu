@@ -2,8 +2,7 @@
 title: "Esa Risty - Ngamen 88"
 date: 2026-07-23
 categories: 
-  - "dangdut"
-  - "java"
+  - "Jawa"
 ---
 
 

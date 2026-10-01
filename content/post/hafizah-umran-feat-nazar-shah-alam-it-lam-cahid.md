@@ -2,7 +2,7 @@
 title: "Hafizah Umran feat Nazar Shah Alam - It Lam Cahid"
 date: 2023-05-25
 categories: 
-  - "aceh"
+  - "Aceh"
 ---
 
 Lirik Lagu Aceh dengan judul It Lam Cahid yang dinyanyikan oleh Hafizah Umran Ft. Nazar Shah Alam dan diciptakan oleh Nazar Shah Alam.

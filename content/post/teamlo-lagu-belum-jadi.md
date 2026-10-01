@@ -2,7 +2,7 @@
 title: "Teamlo - Lagu Belum Jadi"
 date: 2025-04-25
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Verse : Lagunya belum jadi Musiknya udah jadi Terus harus nyanyi apa..? Ya sudah seadanya

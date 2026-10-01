@@ -2,7 +2,7 @@
 title: "Salwa Pasya - Tungkek Mambaok Rabah"
 date: 2023-05-25
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Lirik Lagu Minang dengan judul Tungkek Mambaok Rabah yang dinyanyikan oleh Salwa Pasya dan diciptakan oleh Jaisky dengan irama musik Pop.

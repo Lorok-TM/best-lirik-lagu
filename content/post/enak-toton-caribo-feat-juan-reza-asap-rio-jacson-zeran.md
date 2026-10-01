@@ -2,7 +2,7 @@
 title: "Enak - Toton Caribo Feat Juan Reza, Asap Rio, Jacson Zeran"
 date: 2026-09-04
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Ula loko Ula loko Ula loko Ula loko

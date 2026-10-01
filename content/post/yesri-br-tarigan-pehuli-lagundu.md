@@ -2,7 +2,7 @@
 title: "Yesri Br Tarigan - Pehuli Lagundu"
 date: 2024-04-18
 categories: 
-  - "karo"
+  - "Karo"
 ---
 
 **Lirik Pehuli Lagundu - Yesri Tarigan**

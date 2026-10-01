@@ -2,7 +2,7 @@
 title: "Wanita Pujaanku - Mubai"
 date: 2024-07-24
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Verse : Sejak pertama ku jumpa denganmu Hatiku ini slalu menggebu-gebu Apakah ini namanya cinta? Cinta pandang pertama..

@@ -2,7 +2,7 @@
 title: "Negoro Angin - Laila Ayu"
 date: 2026-07-11
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 

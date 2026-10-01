@@ -2,7 +2,7 @@
 title: "Sammy Simorangkir - Luka Yang Luas"
 date: 2025-04-26
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Pengorbananku sia-sia Kau yang dulu berjanji di depan Tuhan Kini kau lupa akan itu Kau bodohi aku Padahal ku sudah setengah gila Cinta hanya denganmu

@@ -2,7 +2,7 @@
 title: "Gabe Trio - Uluni Gulamo"
 date: 2022-08-28
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 ## Lirik Lagu Batak ”Uluni Gulamo“ by Gabe Trio

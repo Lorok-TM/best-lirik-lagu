@@ -2,7 +2,7 @@
 title: "Niken Salindry - Cinta Dan Air Mata"
 date: 2025-06-11
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Di dalam gelapnya malam Ku menatap butiran bintang

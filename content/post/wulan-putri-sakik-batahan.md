@@ -2,7 +2,7 @@
 title: "Wulan Putri - Sakik Batahan"
 date: 2025-10-07
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Tiado niaik malupokan Kasiah arek bajalin baduo Namun di batin tak tahan Ramuak manyeso di dalam dado

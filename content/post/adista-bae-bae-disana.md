@@ -2,7 +2,7 @@
 title: "Adista - Bae Bae Disana"
 date: 2023-01-17
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Adista bersama Musik Proaktif rilis single berjudul "Bae Bae Disana" yang diciptakan oleh Resar, menceritakan tentang hubungan cinta serta keluarga mereka yang berjauhan jarak karena merantau untuk memenuhi kebutuhan hidup dan masa depan.

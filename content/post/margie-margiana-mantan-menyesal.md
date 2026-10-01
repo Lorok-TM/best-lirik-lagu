@@ -2,7 +2,7 @@
 title: "Margie Margiana - Mantan Menyesal"
 date: 2023-01-22
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 Margie Margiana rilis single dengan lirik dalam bahasa Bali berjudul "Mantan Menyesal" yang diciptakan oleh Dek Artha, menceritakan tentang semangat jiwa seseorang agar bisa sukses dimasa depan, karena kalau sudah sukses punya uang banyak sang mantan yang dulu pernah meninggalkan dia akan merasa menyesal.

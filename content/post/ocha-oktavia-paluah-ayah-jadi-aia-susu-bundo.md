@@ -2,7 +2,7 @@
 title: "Ocha Oktavia - Paluah Ayah Jadi Aia Susu Bundo"
 date: 2025-09-30
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Bacuran paluah di badan Basangai jo angek matohari Bialah tanduak nak nyo bakubang Asa kan di dalam muncuang lai barisi Namun muncuang mangunyah juo

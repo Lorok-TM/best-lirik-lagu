@@ -2,7 +2,7 @@
 title: "Dek Ulah Kubik Mato - Ridho Zulma"
 date: 2025-02-20
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Dek Ulah Kubik Mato yang dibawakan oleh Ridho Zulma.

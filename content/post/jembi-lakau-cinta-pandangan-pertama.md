@@ -2,7 +2,7 @@
 title: "Jembi Lakau - Cinta Pandangan Pertama"
 date: 2026-09-18
 categories: 
-  - "dayak"
+  - "Dayak"
 ---
 
 Angatku bahagia Tau hakasene dengam mu Dengam mu uluh bawi Andi pujaanku

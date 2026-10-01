@@ -2,7 +2,7 @@
 title: "Fathur Rahman - Dendang Mande"
 date: 2023-01-29
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Lirik Lagu Minang dengan judul Dendang Mande yang dinyanyikan oleh Fathur Rahman dan diciptakan oleh Eddy Palangki dengan irama musik Pop.

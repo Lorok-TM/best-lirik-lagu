@@ -2,7 +2,7 @@
 title: "Kurang - Edwin Markus Feat Chesylino"
 date: 2025-02-05
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Kurang yang dibawakan oleh Edwin Markus Ft Chesylino.

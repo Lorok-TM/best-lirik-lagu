@@ -2,7 +2,7 @@
 title: "Kawitaning Sinawang - Niken Salindry"
 date: 2025-02-11
 categories: 
-  - "campursari"
+  - "Campursari"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Kawitaning Sinawang yang dibawakan oleh Niken Salindry.

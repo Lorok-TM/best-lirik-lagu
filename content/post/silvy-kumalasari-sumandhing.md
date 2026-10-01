@@ -2,7 +2,7 @@
 title: "Silvy Kumalasari - Sumandhing"
 date: 2026-07-05
 categories: 
-  - "campursari"
+  - "Campursari"
 ---
 
 Sineksen mbulan kekencar ing ratri Nggurit jagad bareng klawan si reki Natah bungah ngrengga tresna nyandhing sliramu Kenya manis sesotyaku

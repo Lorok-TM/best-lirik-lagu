@@ -2,8 +2,7 @@
 title: "Ngamen 88 - Dini Kurnia"
 date: 2026-07-19
 categories: 
-  - "dangdut"
-  - "java"
+  - "Jawa"
 ---
 
 Emak emak wetengku luwe Enek sego ndang tukokno Emak emak aku wes gede Enek joko ndang rabikno

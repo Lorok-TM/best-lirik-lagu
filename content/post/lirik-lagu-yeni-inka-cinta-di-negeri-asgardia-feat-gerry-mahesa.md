@@ -2,7 +2,7 @@
 title: "Yeni Inka feat Gerry Mahesa - Cinta Di Negeri Asgardia"
 date: 2021-05-31
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Lirik Lagu Indo dengan judul Cinta Di Negeri Asgardia yang dinyanyikan oleh Yeni Inka Ft. Gerry Mahesa dan diciptakan oleh Papa Rio dengan irama musik Dangdut. Video musiknya telah tersedia di channel Youtube Ameswara Record yang dirilis pada tanggal 30 Mei 2021.

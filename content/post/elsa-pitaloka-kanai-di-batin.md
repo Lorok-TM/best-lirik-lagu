@@ -2,7 +2,7 @@
 title: "Elsa Pitaloka - Kanai Di Batin"
 date: 2025-06-26
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Dari hari kahari denai rasoi Harago diri lah di ampu kaki Dulu bajunjuang tinggi Kini den di sakiti Bantuak ka indak paguno lai

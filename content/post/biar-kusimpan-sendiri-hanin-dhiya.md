@@ -2,7 +2,7 @@
 title: "Biar Kusimpan Sendiri - Hanin Dhiya"
 date: 2025-02-24
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Biar Kusimpan Sendiri yang dibawakan oleh Hanin Dhiya.

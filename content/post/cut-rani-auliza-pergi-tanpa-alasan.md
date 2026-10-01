@@ -2,7 +2,7 @@
 title: "Cut Rani Auliza - Pergi Tanpa Alasan"
 date: 2023-02-02
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Cut Rani Auliza bersama Senja Musik rilis single Melayu berjudul "Pergi Tanpa Alasan" yang diciptakan oleh Wandi Bireuen dengan irama musik Pop.

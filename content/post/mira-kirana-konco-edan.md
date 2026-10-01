@@ -2,7 +2,7 @@
 title: "Mira Kirana - Konco Edan"
 date: 2022-09-21
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 ## Lirik Lagu Konco Edan - Mira Kirana

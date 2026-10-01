@@ -2,7 +2,7 @@
 title: "Melisa Putri Feat. Carlos - Cilako Jalan Basimpang"
 date: 2025-05-06
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 

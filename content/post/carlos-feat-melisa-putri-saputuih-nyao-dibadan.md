@@ -2,7 +2,7 @@
 title: "Carlos feat. Melisa Putri - Saputuih Nyao Dibadan"
 date: 2025-11-01
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Bialah putuih nyao ko dibadan Padonyo den lapeh adiak ka urang Den amuah bakalang tanah Nak jaleh bana titiak tarangnyo

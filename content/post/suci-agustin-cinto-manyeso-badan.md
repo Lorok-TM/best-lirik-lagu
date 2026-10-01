@@ -2,7 +2,7 @@
 title: "Suci Agustin - Cinto Manyeso Badan"
 date: 2025-05-05
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Antah ka bilo hati maraso cinto Hiduik den indak ado gunonyo Surang diri maratok nasib nangko Sadari dulu denai marindu

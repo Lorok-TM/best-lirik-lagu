@@ -2,7 +2,7 @@
 title: "Pinki Prananda - Luko Baukia Jo Sambilu feat. Bigheru"
 date: 2025-09-06
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Samuik nan jauah adiak tapandang Gajah nan dimuko mato balupokan Baitulah denai ko padiah manangguang seso Antah dianggap apo nan salamoko

@@ -2,7 +2,7 @@
 title: "Ziell Ferdian - Kuhentikan Tangisku"
 date: 2025-06-13
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Mengapa rumit kisah cinta kita Mengapa tak sepenuh hati Mencintaiku menyayangi diriku Mengapa aku yang selalu mengalah Mengapa ku yang berjuang sendiri Di hubungan ini di dalam kisah ini

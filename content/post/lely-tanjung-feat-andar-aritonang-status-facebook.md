@@ -2,7 +2,7 @@
 title: "Lely Tanjung feat Andar Aritonang - Status Facebook"
 date: 2023-05-30
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Lirik Lagu Batak dengan judul Status Facebook yang dinyanyikan oleh Lely Tanjung Ft. Andar Aritonang dan diciptakan oleh Dapot Simarmata dengan irama musik Pop.

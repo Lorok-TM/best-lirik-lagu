@@ -2,7 +2,7 @@
 title: "Leeyonk Sinatra - Data Cinta"
 date: 2023-05-30
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 Lirik Lagu Bali dengan judul Data Cinta yang dinyanyikan oleh Leeyonk Sinatra dan diciptakan oleh Bolo LS.

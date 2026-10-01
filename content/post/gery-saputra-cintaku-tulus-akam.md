@@ -2,7 +2,7 @@
 title: "Gery Saputra - Cintaku Tulus Akam"
 date: 2024-04-30
 categories: 
-  - "dayak"
+  - "Dayak"
 ---
 
 **Lirik Cintaku Tulus Akam - Gery Saputra**

@@ -2,7 +2,7 @@
 title: "Ayu Saraswati - Ada Sing Ada dan Artinya"
 date: 2023-05-27
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 Ayu Saraswati rilis single dengan lirik dalam bahasa Bali berjudul "Ada Sing Ada" yang artinya "Ada Gak Ada", menceritakan tentang kesetiaan cinta seseorang pada kekasihnya dalam keadaan susah maupun senang. Untuk lebih jelasnya silahkan Anda baca terjemahan lirik lagunya berada dibawah.

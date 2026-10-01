@@ -2,7 +2,7 @@
 title: "Farid Rashid - Cahaya"
 date: 2025-09-05
 categories: 
-  - "malaysia"
+  - "Malaysia"
 ---
 
 Verse: Kau.. kau segalanya Kau memberi cahaya Hidup yang samar dan kelam

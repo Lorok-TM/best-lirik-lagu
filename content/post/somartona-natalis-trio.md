@@ -2,7 +2,7 @@
 title: "Somartona - Natalis Trio"
 date: 2025-04-16
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Verse : Tung maccai uli.. tung maccai sonang.. Tikki rap au dohot ho na uju i.. Dang marnalupa ho.. manise kabar hi.. Unang lupa mangan ho Sai nimmu do.. tu au.. hasian..

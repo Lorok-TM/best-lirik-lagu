@@ -2,7 +2,7 @@
 title: "Idiens Eseng - Sampe Ati"
 date: 2026-09-17
 categories: 
-  - "dayak"
+  - "Dayak"
 ---
 
 Batol sakit atiku Kao ngareho aku Ahe salahku kao ningalatn aku Samua nian ku sarahatn hanya diri' nyu Sampe ati nyu kao dayakng nga

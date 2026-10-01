@@ -2,7 +2,7 @@
 title: "Sampe Hati Lai - Mona Latumahina"
 date: 2026-07-16
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 Dari awal beta su tanya Mangapa mau marah Kalu orang seng carita Beta seng tau dia tu sapa Sayang Se sampe hati lai

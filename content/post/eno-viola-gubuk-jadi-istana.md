@@ -2,7 +2,7 @@
 title: "Eno Viola - Gubuk Jadi Istana"
 date: 2025-06-24
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Kujalani hubungan rumit Berpisah meskipun sakit Sinaran Silau kan aku dari pandangan

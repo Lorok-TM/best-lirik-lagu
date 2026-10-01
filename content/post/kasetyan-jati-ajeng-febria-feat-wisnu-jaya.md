@@ -2,7 +2,7 @@
 title: "Kasetyan Jati - Ajeng Febria feat. Wisnu Jaya"
 date: 2026-07-07
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 

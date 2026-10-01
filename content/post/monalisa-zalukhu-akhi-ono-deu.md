@@ -2,7 +2,7 @@
 title: "Monalisa Zalukhu - Akhi Ono De'u"
 date: 2025-05-15
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 He akhi akhi ono de'u Angela-ngelama maifu Hiza nono mao furi nawu Ifa mio-mio doyo nikhu

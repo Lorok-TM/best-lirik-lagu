@@ -2,7 +2,7 @@
 title: "Rapuh - Dj Mahesa"
 date: 2025-02-22
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Rapuh yang dibawakan oleh Dj Mahesa.

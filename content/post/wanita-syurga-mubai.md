@@ -2,7 +2,7 @@
 title: "Wanita Syurga - Mubai"
 date: 2025-01-14
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Wanita Syurga yang dibawakan oleh Mubai.

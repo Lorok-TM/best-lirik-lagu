@@ -2,7 +2,7 @@
 title: "Parmana Trio - Au Do Memang Salah"
 date: 2026-05-24
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 

@@ -2,7 +2,7 @@
 title: "Tasya Rosmala Adella - Suara Hati"
 date: 2025-10-23
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Dengarkanlah laguku Suara isi hatiku Ungkapan rasa rindu Ku nyanyikan untukmu

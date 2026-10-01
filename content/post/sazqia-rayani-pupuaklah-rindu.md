@@ -2,7 +2,7 @@
 title: "Sazqia Rayani - Pupuaklah Rindu"
 date: 2023-06-03
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Lirik Lagu Minang dengan judul Pupuaklah Rindu yang dinyanyikan oleh Sazqia Rayani dan diciptakan oleh Erwin Agam dengan irama musik Pop.

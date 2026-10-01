@@ -2,7 +2,7 @@
 title: "Rayola - Manikam Dari Balakang"
 date: 2025-11-14
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Usah manapuak aia di dulang Nan basah badan surang Usah di paturuikkan Nan malang bialah malang Alah ka jadi suratan Ganggaman indak salamonyo arek

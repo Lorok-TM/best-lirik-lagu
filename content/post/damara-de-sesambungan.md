@@ -2,8 +2,7 @@
 title: "Damara De - Sesambungan"
 date: 2022-10-04
 categories: 
-  - "dangdut"
-  - "java"
+  - "Jawa"
 ---
 
 ## Lirik Lagu Sesambungan - Damara De

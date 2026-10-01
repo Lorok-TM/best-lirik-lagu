@@ -2,7 +2,7 @@
 title: "Dian Anic - Batur Kesepian dan Artinya"
 date: 2023-01-01
 categories: 
-  - "tarling"
+  - "Tarling"
 ---
 
 **Lirik Batur Kesepian - Dian Anic**

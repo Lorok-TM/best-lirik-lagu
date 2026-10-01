@@ -2,7 +2,7 @@
 title: "Migren feat. Rindra Putra - Panggah Mencintai"
 date: 2021-11-11
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 **Lirik Panggah Mencintai - Migren Ft. Rindra Putra**

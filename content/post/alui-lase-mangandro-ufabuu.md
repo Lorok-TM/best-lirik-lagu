@@ -2,7 +2,7 @@
 title: "Alui Lase - Mangandrö Ufabu'u"
 date: 2025-07-03
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 Bazi sambua inötö Ulau mukoli ba zaröu Wogamö ohitö dödö Me fa'aurigu lö fa'atatu

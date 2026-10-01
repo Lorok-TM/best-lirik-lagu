@@ -2,7 +2,7 @@
 title: "Siapa Yang Punya - Fira Cantika X Irwan Krisdiyanto"
 date: 2026-07-14
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 

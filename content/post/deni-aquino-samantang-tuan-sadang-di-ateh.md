@@ -2,7 +2,7 @@
 title: "Deni Aquino - Samantang Tuan Sadang Di Ateh"
 date: 2025-09-21
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Samantang tuan sadang diateh Denai nan bansaik tuan cimeeh Talampau padiah denai tangguangkan

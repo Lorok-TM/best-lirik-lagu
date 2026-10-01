@@ -2,7 +2,7 @@
 title: "Tak Berubah - Amadea Wike"
 date: 2025-02-23
 categories: 
-  - "rohani"
+  - "Rohani"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Tak Berubah yang dibawakan oleh Amadea Wike.

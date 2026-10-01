@@ -2,7 +2,7 @@
 title: "Kudo Palajang Bukik - Wita Sofi"
 date: 2025-02-06
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Kudo Palajang Bukik yang dibawakan oleh Wita Sofi.

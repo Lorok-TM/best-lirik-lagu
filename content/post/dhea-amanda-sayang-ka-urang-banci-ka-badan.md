@@ -2,7 +2,7 @@
 title: "Dhea Amanda - Sayang Ka Urang Banci Ka Badan"
 date: 2025-04-22
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Dek talampau cinto Denai ka uda surang Dek talampau sayang Nyawopun denai barikan

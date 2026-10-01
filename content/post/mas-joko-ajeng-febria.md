@@ -2,7 +2,7 @@
 title: "Mas Joko - Ajeng Febria"
 date: 2025-03-15
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Mas Joko yang dibawakan oleh Ajeng Febria.

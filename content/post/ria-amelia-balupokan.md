@@ -2,7 +2,7 @@
 title: "Ria Amelia - Balupokan"
 date: 2022-12-30
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 **Lirik Balupokan - Ria Amelia**

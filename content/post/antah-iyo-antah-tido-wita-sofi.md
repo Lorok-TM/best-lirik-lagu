@@ -2,7 +2,7 @@
 title: "Antah Iyo Antah Tido - Wita Sofi"
 date: 2025-04-12
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Antah iyo antah tido antah tido Kadang kadang iyo baitu uda bakato Disiko denai mangko bimbang Dima denai ka picayo

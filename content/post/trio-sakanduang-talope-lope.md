@@ -2,7 +2,7 @@
 title: "Trio Sakanduang - Talope Lope"
 date: 2025-06-26
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Coioko bana jikok hati nan alah takanai Siang malam ba angan bak raso tak kasamapai Adiak di pandaang dicaliak samakin mandayo Coitu bana kok sadang dimabuak cinto

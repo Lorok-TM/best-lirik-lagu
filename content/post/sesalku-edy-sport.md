@@ -2,7 +2,7 @@
 title: "Sesalku - Edy Sport"
 date: 2025-01-21
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Sesalku yang dibawakan oleh Edy Sport.

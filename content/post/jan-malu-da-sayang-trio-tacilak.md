@@ -2,7 +2,7 @@
 title: "Jan Malu Da Sayang - Trio Tacilak"
 date: 2024-06-02
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 **Lirik Jan Malu Da Sayang - Trio Tacilak**

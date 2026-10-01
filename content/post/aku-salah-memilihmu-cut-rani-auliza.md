@@ -2,7 +2,7 @@
 title: "Aku Salah Memilihmu - Cut Rani Auliza"
 date: 2025-04-09
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Berakhir sampai di sini Kisah cinta kau dan aku Jangan kau tanyakan lagi Antara engkau dan aku

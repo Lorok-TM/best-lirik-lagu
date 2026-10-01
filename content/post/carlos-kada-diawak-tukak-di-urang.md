@@ -2,7 +2,7 @@
 title: "Carlos - Kada Diawak Tukak Di Urang"
 date: 2025-09-02
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Sabana buruak denai di mato urang Indak babuek badan salah juo Sikua bakubang kanai luluak sadonyo Surang basalah sanagari talendo

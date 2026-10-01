@@ -2,7 +2,7 @@
 title: "Arghana Trio - Mabalu So Martujung"
 date: 2022-01-30
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 ## Lirik Lagu Batak ”Mabalu So Martujung“ by Arghana Trio

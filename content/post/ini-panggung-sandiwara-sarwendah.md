@@ -2,7 +2,7 @@
 title: "Ini Panggung Sandiwara - Sarwendah"
 date: 2025-03-14
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Ini Panggung Sandiwara yang dibawakan oleh Sarwendah.

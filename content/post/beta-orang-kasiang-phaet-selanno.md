@@ -2,7 +2,7 @@
 title: "Beta Orang Kasiang - Phaet Selanno"
 date: 2025-04-14
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 Beta ini orang kasiang Punya hati cuma punya rasa Mangapa harus ada dia di se pung hati Sedangkan beta masih setia

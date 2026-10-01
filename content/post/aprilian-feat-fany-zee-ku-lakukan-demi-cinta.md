@@ -2,7 +2,7 @@
 title: "Aprilian feat. Fany Zee - Ku Lakukan Demi Cinta"
 date: 2023-05-14
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 Lirik Lagu Melayu dengan judul Ku Lakukan Demi Cinta yang dinyanyikan oleh Aprilian Ft. Fany Zee dan diciptakan oleh Anton Swena dengan irama musik Slow Rock.

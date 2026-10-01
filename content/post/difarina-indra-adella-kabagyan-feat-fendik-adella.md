@@ -2,7 +2,7 @@
 title: "Difarina Indra Adella - Kabagyan feat. Fendik Adella"
 date: 2025-10-22
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Ora kroso sampun tibo wancine Iso nyanding koe saben dinone Senajan akeh rubedo lan gudo Tresnoku karo koe ora ngeliyo

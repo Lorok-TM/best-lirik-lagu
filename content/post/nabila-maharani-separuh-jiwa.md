@@ -2,7 +2,7 @@
 title: "Nabila Maharani - Separuh Jiwa"
 date: 2026-07-10
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 

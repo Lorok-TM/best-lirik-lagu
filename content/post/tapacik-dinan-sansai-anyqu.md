@@ -2,7 +2,7 @@
 title: "Tapacik Dinan Sansai - Anyqu"
 date: 2025-02-20
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Nan talitak talalai lalai Nan bak kacang manjalang junjuang Nan bak kacang manjalang junjuang

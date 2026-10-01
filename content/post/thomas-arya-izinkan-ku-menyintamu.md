@@ -2,7 +2,7 @@
 title: "Thomas Arya - Izinkan Ku Menyintamu"
 date: 2025-09-03
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 Ku berjanji untuk akan slalu setia Kepadamu peri penawar hati ku Andai nya kau mahu menerima Cinta suci ini sayang

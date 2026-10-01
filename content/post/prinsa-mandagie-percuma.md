@@ -2,7 +2,7 @@
 title: "Prinsa Mandagie - Percuma"
 date: 2023-05-20
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Prinsa Mandagie berjudul "Percaya", menceritakan tentang perasan seseorang yang sudah lelah dengan keadaan hubungan cintanya.

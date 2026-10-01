@@ -2,7 +2,7 @@
 title: "Alani Holongki - Bobby Purba"
 date: 2025-03-29
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Alani Holongki yang dibawakan oleh Bobby Purba.

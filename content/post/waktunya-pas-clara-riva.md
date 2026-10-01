@@ -2,7 +2,7 @@
 title: "Waktunya Pas - Clara Riva"
 date: 2025-04-18
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Ku melihat pesona Di pantulan kaca Siapakah dia Ternyata ku melihat diriku Yang penuh percaya Siap bertemu denganmu

@@ -2,7 +2,7 @@
 title: "Andra Respati - Rindunya Hatiku Feat. Gisma Wandira"
 date: 2025-06-30
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 Rindunya hatiku padamu kasih Rindunya hatiku sudah tak tahan Aku datang melamarmu Kan ku jadikan permaisuri Oh kasihku oh sayangku

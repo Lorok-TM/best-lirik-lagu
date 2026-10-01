@@ -2,7 +2,7 @@
 title: "Kaulah Segalanya - True Worshippers"
 date: 2025-01-14
 categories: 
-  - "rohani"
+  - "Rohani"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Kaulah Segalanya yang dibawakan oleh True Worshippers.

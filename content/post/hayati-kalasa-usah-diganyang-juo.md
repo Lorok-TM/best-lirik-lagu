@@ -2,7 +2,7 @@
 title: "Hayati Kalasa - Usah Diganyang Juo"
 date: 2022-12-31
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Lirik Lagu Minang dengan judul Usah Diganyang Juo yang dinyanyikan oleh Hayati Kalasa dan diciptakan oleh Ibel Santano dengan irama musik Pop.

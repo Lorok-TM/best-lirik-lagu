@@ -2,7 +2,7 @@
 title: "Bebek Ngabe Suling - Bayu Krisna"
 date: 2024-09-24
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 Ipidan iluh tusing kekene Sekonden iluh nawang pergaulan Ne jani ragan iluh sube ngancan melenan Tepukin beli iluh sing care pidan

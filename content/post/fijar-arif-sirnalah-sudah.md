@@ -2,7 +2,7 @@
 title: "Fijar Arif - Sirnalah Sudah"
 date: 2025-08-24
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Dikala sepi Aku sendiri Terbayang kenangan indah Saat bersama

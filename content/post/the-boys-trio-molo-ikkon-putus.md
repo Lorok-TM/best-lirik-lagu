@@ -2,7 +2,7 @@
 title: "The Boy's Trio - Molo Ikkon Putus"
 date: 2025-10-29
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Holan di tikki na parjolo do tabo hape Dung saonari gabe amuba rohami tu au Tung so hu boto aha salakki tu ho Paboa ma molo adong do

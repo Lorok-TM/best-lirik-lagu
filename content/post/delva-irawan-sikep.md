@@ -2,7 +2,7 @@
 title: "Delva Irawan - Sikep"
 date: 2026-02-08
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 

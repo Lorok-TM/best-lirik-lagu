@@ -2,8 +2,7 @@
 title: "Kevin Ihza - Lakon dan Artinya feat. Anekakustik"
 date: 2023-08-18
 categories: 
-  - "dangdut"
-  - "java"
+  - "Jawa"
 ---
 
 Salam sejahtera untuk sobat semuanya dimanapun berada, pada kesempatan kali ini Best Lyrics™ akan menyajikan Lirik Lagu Kevin Ihza - Lakon. Sebagai wujud dukungan bagi para penyanyi dan musisi yang telah merilis lagu "Lakon" ini, jangan lupa untuk mendapatkan lagu tersebut melalui platform musik digital resmi seperti Joox, iTunes, Spotify, dan penyedia lainnya, agar mereka bisa terus berkarya dan merilis single terbaru mereka. Anda bisa menikmati video lagu tersebut melalui channel youtube resminya.

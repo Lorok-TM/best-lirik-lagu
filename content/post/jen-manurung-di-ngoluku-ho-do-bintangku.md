@@ -2,7 +2,7 @@
 title: "Jen Manurung - Di Ngoluku Ho Do Bintangku"
 date: 2025-07-17
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Molo ngolukki hasian Tudos mai tarsongon bunga Napaimahon haroro ni udan Molo daong malos doi

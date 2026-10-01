@@ -2,7 +2,7 @@
 title: "Kangen Setengah Mati - Sela Ovi"
 date: 2026-07-20
 categories: 
-  - "dangdut"
+  - "Dangdut"
   - "osing"
 ---
 

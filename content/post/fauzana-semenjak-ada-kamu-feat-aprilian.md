@@ -2,7 +2,7 @@
 title: "Fauzana - Semenjak Ada Kamu feat. Aprilian"
 date: 2025-09-25
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Berdua kita berdua Merangkai cinta nan indah Saling melengkapi Saling menyayangi

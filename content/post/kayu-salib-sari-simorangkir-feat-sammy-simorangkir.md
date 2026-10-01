@@ -2,7 +2,7 @@
 title: "Kayu Salib - Sari Simorangkir Feat Sammy Simorangkir"
 date: 2025-04-13
 categories: 
-  - "rohani"
+  - "Rohani"
 ---
 
 Sebagai manusia Ia telah merendahkan diriNya Taat sampai mati di Kayu Salib Hapuskan dosa pelanggaranku

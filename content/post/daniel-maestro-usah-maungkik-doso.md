@@ -2,7 +2,7 @@
 title: "Daniel Maestro - Usah Maungkik Doso"
 date: 2025-08-14
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Nan alah sudah bialah sudah Usah karuah di kacau juo Agak juo kato nan balayangkan

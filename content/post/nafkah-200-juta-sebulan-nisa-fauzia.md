@@ -2,7 +2,7 @@
 title: "Nafkah 200 Juta Sebulan - Nisa Fauzia"
 date: 2026-06-15
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 

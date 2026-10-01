@@ -2,7 +2,7 @@
 title: "Issey - Alololo Sayang (Viral Tiktok)"
 date: 2023-04-20
 categories: 
-  - "malaysia"
+  - "Malaysia"
 ---
 
 Lirik Lagu Malaysia dengan judul Alololo Sayang yang dinyanyikan oleh Issey dan diciptakan oleh Mr Yin, Issey.

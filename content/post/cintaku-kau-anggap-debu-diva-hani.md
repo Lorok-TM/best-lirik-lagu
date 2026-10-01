@@ -2,7 +2,7 @@
 title: "Cintaku Kau Anggap Debu - Diva Hani"
 date: 2025-02-21
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Cintaku Kau Anggap Debu yang dibawakan oleh Diva Hani.

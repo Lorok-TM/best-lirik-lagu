@@ -2,7 +2,7 @@
 title: "Pentas Sandiwara - Fugo"
 date: 2024-12-07
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Pentas Sandiwara yang dibawakan oleh Fugo.

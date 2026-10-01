@@ -2,7 +2,7 @@
 title: "Sirna - Iis Dahlia"
 date: 2026-07-25
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Lama sudah aku menunggu Lama sudah ku setia padamu Tapi ternyata diriku kecewa Setelah kau hadir Kau bersama yang lain Sirnalah seluruh harapan cintaku

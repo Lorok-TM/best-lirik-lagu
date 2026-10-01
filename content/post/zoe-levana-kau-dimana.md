@@ -2,7 +2,7 @@
 title: "Zoe Levana - Kau Dimana"
 date: 2025-04-29
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Saat masalah datang menghampiri Kuterjebak dalam lingkaran ini Kau begitu tega meninggalkan aku Di saat kubutuh perlindunganmu

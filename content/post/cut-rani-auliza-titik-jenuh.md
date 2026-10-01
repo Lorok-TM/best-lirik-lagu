@@ -2,7 +2,7 @@
 title: "Cut Rani Auliza - Titik Jenuh"
 date: 2025-11-11
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Titik jenuh yang ku rasakan Kini tak tertahankan sudah Berulang kali ku memaafkanmu Namun kau masih saja menyakitiku

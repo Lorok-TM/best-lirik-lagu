@@ -2,7 +2,7 @@
 title: "Dedek Intan - Hanya Buang Waktu"
 date: 2025-08-20
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Boleh di kenang kenang lagi Cerita kita masa lalu Asal tak berharap kembali Cintaku ini untukmu

@@ -2,7 +2,7 @@
 title: "Nazia Marwiana - Kisah Ku Jadi Kenangan"
 date: 2023-12-24
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Title : Kisah Ku Jadi Kenangan Artist : Nazia Marwiana Songwriter : Riyan Arta Production : CMD Studio Category : Lagu Indo

@@ -2,7 +2,7 @@
 title: "Putar Putar - Jacson Zeran Feat Juan Reza"
 date: 2025-02-28
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Putar Putar yang dibawakan oleh Jacson Zeran Ft Juan Reza.

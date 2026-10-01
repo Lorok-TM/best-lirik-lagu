@@ -2,7 +2,7 @@
 title: "Mutiara - Laila Ayu"
 date: 2026-07-03
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 

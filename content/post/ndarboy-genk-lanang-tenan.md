@@ -2,7 +2,7 @@
 title: "Ndarboy Genk - Lanang Tenan"
 date: 2025-04-29
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 Anak lanang kudu iso Nnyonggo abote donyo Kabeh ora ngandalke wong tuo Tabungan ora sepiro Sangu mung restu lan dongo Ngadepi pacoban sing teko

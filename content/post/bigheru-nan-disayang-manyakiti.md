@@ -2,7 +2,7 @@
 title: "Bigheru - Nan Disayang Manyakiti"
 date: 2025-05-30
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Lai sasuai pintak nan di hati Harok sabimbiang jo adiak Ka palaminan Kironyo denai alah malapeh hao Lah bajadi sajo adiak jo urang

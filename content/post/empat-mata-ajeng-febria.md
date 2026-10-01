@@ -2,7 +2,7 @@
 title: "Empat Mata - Ajeng Febria"
 date: 2026-07-11
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 

@@ -2,7 +2,7 @@
 title: "Thomas Arya feat. Fany Zee - Yakinkan Hati Kita"
 date: 2026-01-11
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 Hanyalah dirimu kasih yang kurindu Cinta dan teman dalam hidupku Bawa ku selalu bersama bayangmu Jangan terniat untuk menjauh

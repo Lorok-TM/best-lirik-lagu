@@ -2,7 +2,7 @@
 title: "Niken Salindry - Ngobong Ati"
 date: 2025-12-06
 categories: 
-  - "campursari"
+  - "Campursari"
 ---
 
 Kuatno isun kuatno Ngelakoni urip koyo gedigi Sabendino diloro ati Koyo dudu laki lan rabi

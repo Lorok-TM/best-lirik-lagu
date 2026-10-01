@@ -2,7 +2,7 @@
 title: "Laila Ayu - Sumandhing"
 date: 2026-07-02
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 

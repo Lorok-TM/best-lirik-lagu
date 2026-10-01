@@ -2,7 +2,7 @@
 title: "Hati Dimintak Jantuang Dibari - Yaya Nadila"
 date: 2026-07-20
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Alun bajariah nak mintak labo Baru mantapo lah kanai hati sajo Samudah ko itu uda jatuah cinto ka denai ko Mano mungkin denai kapi ayo

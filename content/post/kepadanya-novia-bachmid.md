@@ -2,7 +2,7 @@
 title: "KepadaNya - Novia Bachmid"
 date: 2025-03-07
 categories: 
-  - "religi"
+  - "Religi"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik KepadaNya yang dibawakan oleh Novia Bachmid.

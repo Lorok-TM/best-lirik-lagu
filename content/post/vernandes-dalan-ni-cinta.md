@@ -2,7 +2,7 @@
 title: "Vernandes - Dalan Ni Cinta"
 date: 2025-05-25
 categories: 
-  - "tapsel"
+  - "Tapsel"
 ---
 
 Hu tinggalkon adong na kecewa Hu patorus tarsiksa batinku Dalan dia oh Tuhan sibolusonku Manghadopi sudena hubunganku

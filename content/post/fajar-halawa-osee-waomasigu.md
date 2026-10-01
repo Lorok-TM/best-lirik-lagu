@@ -2,7 +2,7 @@
 title: "Fajar Halawa - Ose'e Waomasigu"
 date: 2025-08-23
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 Notaetuo akhigu Notafabuu fefu Nofaoma tahese Lositobini metafoboro fahuwu

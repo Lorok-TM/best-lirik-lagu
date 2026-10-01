@@ -2,7 +2,7 @@
 title: "Yaya Nadila - Mutiara"
 date: 2026-09-05
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Engkaukah mutiara itu Rela kuselami di laut biru Tingkahmu bagai purnama Paras bertaburkan cahaya

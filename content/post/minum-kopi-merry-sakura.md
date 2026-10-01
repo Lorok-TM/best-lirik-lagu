@@ -2,7 +2,7 @@
 title: "Minum Kopi - Merry Sakura"
 date: 2024-09-09
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 Dini tiang minum kopi Nguda dadi ditu ane nyedot Dini tiang merase happy Nguda dadi ditu ane sewot

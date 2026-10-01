@@ -2,8 +2,7 @@
 title: "Raiso Ngapusi 2 - Happy Asmara Feat Zio Sandi"
 date: 2026-08-10
 categories: 
-  - "dangdut"
-  - "java"
+  - "Jawa"
 ---
 
 

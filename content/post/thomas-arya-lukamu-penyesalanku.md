@@ -2,7 +2,7 @@
 title: "Thomas Arya - Lukamu Penyesalanku"
 date: 2025-09-28
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 Setiap kali ku coba membuang Untuk melupakan kenangan denganmu Namun semakin dalam rasa rindu Membuat hati ini tersedih pilu

@@ -2,7 +2,7 @@
 title: "Rocket Rockers - Yang"
 date: 2026-03-24
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Verse 1 Saat sulit mulai melanda Duniaku dan hidup tak baik-baik saja Cukuplah Kau yang melindungi Penolongku dalam duka dan derita

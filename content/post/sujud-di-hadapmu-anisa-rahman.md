@@ -2,7 +2,7 @@
 title: "Sujud Di HadapMu - Anisa Rahman"
 date: 2025-02-14
 categories: 
-  - "religi"
+  - "Religi"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Sujud Di HadapMu yang dibawakan oleh Anisa Rahman.

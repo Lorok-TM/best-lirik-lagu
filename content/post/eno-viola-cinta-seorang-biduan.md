@@ -2,7 +2,7 @@
 title: "Eno Viola - Cinta Seorang Biduan"
 date: 2023-08-21
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Kisah lama itu Harusnya aku terlupa Seandainya kau tidak mengulanginya

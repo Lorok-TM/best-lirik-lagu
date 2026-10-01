@@ -2,7 +2,7 @@
 title: "Upiak Isil feat. Vendry Mofu - Minang Papua"
 date: 2026-01-12
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Nona ko siapa punya Nona sa su punya rasa

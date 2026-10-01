@@ -2,7 +2,7 @@
 title: "Umpomo - Diva Hani"
 date: 2025-01-14
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Umpomo yang dibawakan oleh Diva Hani.

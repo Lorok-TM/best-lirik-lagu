@@ -2,7 +2,7 @@
 title: "Nabila Maharani - Titip Salam Untuknya"
 date: 2025-07-04
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Waktu tak terasa cepat berlalu Sama seperti kisah kita yang lalu Yang kuharap akan berakhir bahagia Ya namun ternyata aku salah

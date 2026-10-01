@@ -2,7 +2,7 @@
 title: "Vita Alvia - Kacang Buncis"
 date: 2025-07-17
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Zaman ini zamannya dunia maya Bukan lagi cerita Siti Nurbaya Tak ada kawin paksa tak ada Rama Sinta Asal suka sih boleh-boleh aja

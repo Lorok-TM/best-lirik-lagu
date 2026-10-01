@@ -2,7 +2,7 @@
 title: "Samuel Cipta - Ku Tunggu Kau Di Jalan Pulang"
 date: 2023-03-23
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Lirik Lagu Melayu dengan judul Ku Tunggu Kau Di Jalan Pulang yang dinyanyikan oleh Samuel Cipta dan diciptakan oleh Audree Dewangga, David Elsandro, Samuel Cipta dengan irama musik Pop.

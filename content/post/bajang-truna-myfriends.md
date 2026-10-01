@@ -2,7 +2,7 @@
 title: "Bajang Truna - MyFriends"
 date: 2025-02-08
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Bajang Truna yang dibawakan oleh MyFriends.

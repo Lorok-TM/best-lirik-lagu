@@ -2,7 +2,7 @@
 title: "Dai Na Tonggi - R.A.P Trio"
 date: 2025-04-15
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Saleleng ngoluku On dope hea dapothu Sada holong na uli macai tonggi Ias tung lambok

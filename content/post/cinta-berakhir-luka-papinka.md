@@ -2,7 +2,7 @@
 title: "Cinta Berakhir Luka - Papinka"
 date: 2026-07-25
 categories: 
-  - "band"
+  - "Band"
 ---
 
 Letih hatiku tak menentu Telah lama ku bertahan denganmu Ku beri semua Segala yang aku punya

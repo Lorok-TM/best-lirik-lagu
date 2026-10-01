@@ -2,7 +2,7 @@
 title: "Sakit Tak Bertepi - Judika"
 date: 2026-07-19
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Hmmm …

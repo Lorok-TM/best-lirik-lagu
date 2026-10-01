@@ -2,7 +2,7 @@
 title: "Diva Hani - Kawitaning Sinawang"
 date: 2025-05-12
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 Kawitan sinawange pasuryan Tansah ginambar ing semune awang Katon endah solah slagane Karereng wredhu bawane

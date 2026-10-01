@@ -2,7 +2,7 @@
 title: "Ody Malik - Mandeh Sakik Ayah Bajalan"
 date: 2025-09-08
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Sansai yo lah sansai Mande sakik ayah bajalan Sampai hati nyo ayah maninggalan kami Ketek ketek adiak ayah tinggakan 2×

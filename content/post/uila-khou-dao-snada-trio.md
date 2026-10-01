@@ -2,7 +2,7 @@
 title: "U'ila Khou Da'o - S'Nada Trio"
 date: 2024-07-31
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 Hadia sibai ganutua ba dôdö Wa öfanaba talu lewuö Afo nibeu löna'i salölö Öfaolagö khögu li tandregegö

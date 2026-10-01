@@ -2,7 +2,7 @@
 title: "Pinki Prananda - Di Ujuang Rantiang Nan Ratak feat. Tata Talita"
 date: 2025-07-16
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Sakareh-karehnyo denai lah bajuang Sapayah hati Manahan tangih Hinggo taibo Hinggo taibo Masih juo indak bararti Jo indak mambuek uda baraliah kaputusan

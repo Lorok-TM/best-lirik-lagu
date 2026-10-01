@@ -2,7 +2,7 @@
 title: "Kapahin Nyebeng - Made Ada"
 date: 2025-02-10
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Kapahin Nyebeng yang dibawakan oleh Made Ada.

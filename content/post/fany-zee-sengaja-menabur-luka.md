@@ -2,7 +2,7 @@
 title: "Fany Zee - Sengaja Menabur Luka"
 date: 2025-08-10
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 Aku yang selalu ada untukmu Temani langkah perjuanganmu Kini di saat engkau memiliki Sampai hati kau cari pengganti diriku

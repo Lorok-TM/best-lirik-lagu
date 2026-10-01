@@ -2,7 +2,7 @@
 title: "Alfina Braner - Apo Salah Denai"
 date: 2026-09-11
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Oi uda apo salahnyo denai Manga dek uda bak cando iko Bak raso angan lai kasampai Putuih di tangah malah kironyo

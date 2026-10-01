@@ -2,7 +2,7 @@
 title: "Love Ko - Banaqambo"
 date: 2025-04-10
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 Ko pu begini yang sa tambah love ko Su tara bisa tanpa love ko Intinya ko yang kendali hati ini selalu mau ada ko My Romboq main-main boqoda Ah ko sudah Rade punya love tarada noda Main main boqoda Tetap begini trus sayang ah

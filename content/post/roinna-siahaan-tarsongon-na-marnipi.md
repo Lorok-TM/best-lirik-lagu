@@ -2,7 +2,7 @@
 title: "Roinna Siahaan - Tarsongon Na Marnipi"
 date: 2025-10-04
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Tarsongon na marnipi Au ditonga ni ari on Songgot nai Inong Songgot nai parlaomon

@@ -2,7 +2,7 @@
 title: "Akka Parbada - Ratu Attuk"
 date: 2025-03-29
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Akka Parbada yang dibawakan oleh Ratu Attuk.

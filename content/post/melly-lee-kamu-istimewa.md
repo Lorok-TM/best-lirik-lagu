@@ -2,7 +2,7 @@
 title: "Melly Lee - Kamu Istimewa"
 date: 2025-11-08
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Kamu baik ahay sungguh baik Kamu manis buatku tertarik Kau membuat diri ini tergila gila Kau membuat hatiku dilanda asmara

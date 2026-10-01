@@ -2,7 +2,7 @@
 title: "July Manurung - Alai Adogemma feat. Suryanto Siregar"
 date: 2025-09-13
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Alai adogemma inang Dogemma inang doge Alaia dogemma inang Dogemma dainang doge

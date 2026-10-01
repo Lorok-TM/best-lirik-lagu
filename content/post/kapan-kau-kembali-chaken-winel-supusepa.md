@@ -2,7 +2,7 @@
 title: "Kapan Kau Kembali - Chaken Winel Supusepa"
 date: 2025-02-28
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Kapan Kau Kembali yang dibawakan oleh Chaken Winel Supusepa.

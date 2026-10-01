@@ -2,7 +2,7 @@
 title: "Tampang Lugu Suhu Kironyo - Indah Delvia"
 date: 2025-03-20
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Tampang Lugu Suhu Kironyo yang dibawakan oleh Indah Delvia.

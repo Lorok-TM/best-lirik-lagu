@@ -2,7 +2,7 @@
 title: "Cantika Davinca - Sayang"
 date: 2025-10-23
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Sayang ada sesuatu yang ingin ku sampaikan Mungkin malam ini aku tak bisa datang Temani dirimu sayang

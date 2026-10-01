@@ -2,7 +2,7 @@
 title: "Dua Hati Satu Impian - Fany Zee feat. Aprilian"
 date: 2026-06-21
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 

@@ -2,7 +2,7 @@
 title: "Silvia An - Terjebak Dalam Tipuanmu"
 date: 2025-07-21
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Suatu saat engkau kan menyadari Akulah yang bisa pahami sifapmu Dengan penuh kesabaranku Kuhadapi semua

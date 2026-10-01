@@ -2,7 +2,7 @@
 title: "Rayola feat. Pinki Prananda - Buruak Parangai"
 date: 2025-05-18
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Jangkau kian lah jangkau kamari Bak itulah mancari sasuok nasi Bakureh pagi pulangnyo patang hari Dapek sakiro nan ka dimakan

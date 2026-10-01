@@ -2,7 +2,7 @@
 title: "Arbil Fahrizan - Mengharap Bintang Jatuh"
 date: 2025-08-29
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Andaikan takdirmu bukan denganku Mungkin ini yang terbaik bagimu Aku rela melepas cintamu Semua demi kebahagiaanmu

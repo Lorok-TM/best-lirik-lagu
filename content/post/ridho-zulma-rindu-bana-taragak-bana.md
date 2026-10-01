@@ -2,7 +2,7 @@
 title: "Ridho Zulma - Rindu Bana Taragak Bana"
 date: 2025-04-23
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Bintang ajaklah sibulan tarang Turun kabumi di malam ko kawan kawankan denai Iriang iriangkan denai Manamui urang nan denai cinto

@@ -2,7 +2,7 @@
 title: "Silvy Kumalasari - Klenteng"
 date: 2025-11-10
 categories: 
-  - "campursari"
+  - "Campursari"
 ---
 
 Isi kapuk kuwi jenenge klenteng Bunder bunder tur wernane ireng Penake sak klenteng masalah sak rendeng Iki pitutur dek jaman ageng

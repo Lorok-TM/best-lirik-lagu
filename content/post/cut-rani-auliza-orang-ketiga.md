@@ -2,7 +2,7 @@
 title: "Cut Rani Auliza - Orang Ketiga"
 date: 2023-05-11
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Lirik Lagu Melayu dengan judul Orang Ketiga yang dinyanyikan oleh Cut Rani Auliza dan diciptakan oleh Mansyah Saragih dengan irama musik Pop.

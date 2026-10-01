@@ -2,7 +2,7 @@
 title: "Kagoda - Azmy Z"
 date: 2025-04-11
 categories: 
-  - "sunda"
+  - "Sunda"
 ---
 
 Asa kakara haté ngarasa Alim lami tebih ti anjeuna Béngras rarayna gagah salirana Sesah dihilapkeuna

@@ -2,7 +2,7 @@
 title: "Gerhana Dalam Cinta - Cut Rani feat. Frans Ariesta"
 date: 2026-06-23
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Manalah ku tahu engkau suka Di mata tak ada jejak cinta Bagai di terik mentari Hujan datang tiba-tiba

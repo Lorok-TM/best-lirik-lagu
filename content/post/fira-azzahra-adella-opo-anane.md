@@ -2,7 +2,7 @@
 title: "Fira Azzahra Adella - Opo Anane"
 date: 2025-05-07
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Loroku wis ilang Semenjak kau datang Saiki ngadeg jejeg wis ra pincang Kowe sing nambani Kowe sing ngeroki Seko masuk angin lan tatu ning ati

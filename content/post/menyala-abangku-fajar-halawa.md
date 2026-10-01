@@ -2,7 +2,7 @@
 title: "Menyala Abangku - Fajar Halawa"
 date: 2024-07-15
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 Tenga bude budegu Tenga wea wea mbewegu Wahasayaugö nibaloi baloigu Ösi ösi dödögu

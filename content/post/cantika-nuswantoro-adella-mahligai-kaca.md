@@ -2,7 +2,7 @@
 title: "Cantika Nuswantoro Adella - Mahligai Kaca"
 date: 2026-09-04
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Verse 1 Bukan tak ingin ku genggam tanganmu Menuju janji suci

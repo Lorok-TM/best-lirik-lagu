@@ -2,7 +2,7 @@
 title: "B-Three Star - Boasa Ma"
 date: 2025-10-26
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Unang ma Holan di surat didok ho Holong roham tu au

@@ -2,7 +2,7 @@
 title: "Kesehaten Simergana - Ira Br Sebayang"
 date: 2025-01-03
 categories: 
-  - "karo"
+  - "Karo"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Kesehaten Simergana yang dibawakan oleh Ira Br Sebayang.

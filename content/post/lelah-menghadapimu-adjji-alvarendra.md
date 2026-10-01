@@ -2,7 +2,7 @@
 title: "Lelah Menghadapimu - Adjji Alvarendra"
 date: 2025-06-10
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Tak tahu lagi.. Bagaimana tuk coba mengerti.. Aku yang slalu salah.. Dan harus slalu mengalah.. Demi kepuasan egomu..

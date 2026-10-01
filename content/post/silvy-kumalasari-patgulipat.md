@@ -2,7 +2,7 @@
 title: "Silvy Kumalasari - Patgulipat"
 date: 2025-11-12
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Saiki iseh ono tresno sing tak jogo Nanging kabeh rosone wes bedo Sakwise kowe teko ngobati loro Jebul tresno jalaran saka kulino

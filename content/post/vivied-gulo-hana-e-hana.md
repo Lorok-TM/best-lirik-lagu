@@ -2,7 +2,7 @@
 title: "Vivied Gulo - Hana E Hana"
 date: 2025-05-27
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 Hana e hana hana ehana Dödögu khöu ga'a Hulö niböbö faoma sinali Tebai fabali

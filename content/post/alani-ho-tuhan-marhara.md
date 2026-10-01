@@ -2,7 +2,7 @@
 title: "Alani Ho Tuhan - Marhara"
 date: 2025-04-14
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Alani Ho Tuhan marende-ende au Alani Ho Tuhan mamuji-muji au Alani Ho Tuhan marolop-olop au Ai holan Ho Tuhan pasonang rohaki

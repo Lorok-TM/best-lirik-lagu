@@ -2,7 +2,7 @@
 title: "Rayola - Hinggo Rambuik Mamutiah"
 date: 2025-09-05
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Bulan manari Angin bahambuih dari balakang Uda den kini ba ibo hati Usah dirasokan

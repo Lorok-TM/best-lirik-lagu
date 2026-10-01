@@ -2,7 +2,7 @@
 title: "Baban Barek Singguluang Batu - Aprilian Feat Gienzany"
 date: 2026-09-15
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 P : raso raso di tarajang jantuang jo hati ko tagamang sahabih manihnyo sapah di buang uda kini mahilang L : baban barek singguluang batu mako tagarajai langkah ko pintak adiak den indak takao tinggi ruok pado boto

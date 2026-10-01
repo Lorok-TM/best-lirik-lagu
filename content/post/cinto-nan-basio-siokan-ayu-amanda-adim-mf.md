@@ -2,7 +2,7 @@
 title: "Cinto Nan Basio Siokan - Ayu Amanda, Adim Mf"
 date: 2026-07-19
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Alah den bujuak-bujuak hati Alah den rintang-rintang diri Tapi indak talupokan Salah di denai rambang mato Mangko kito jadi co iko Maafkanlah oi adiak sayang

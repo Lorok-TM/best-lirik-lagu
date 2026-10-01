@@ -2,7 +2,7 @@
 title: "Jom Solat - Unic Feat Aniq Muhai & Naufal Isa"
 date: 2025-03-10
 categories: 
-  - "malaysia"
+  - "Malaysia"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Jom Solat yang dibawakan oleh Unic Ft Aniq Muhai & Naufal Isa.

@@ -2,7 +2,7 @@
 title: "Sabyan - Zaadul Muslim"
 date: 2022-09-21
 categories: 
-  - "religi"
+  - "Religi"
 ---
 
 Sabyan rilis single Religi berjudul "Zaadul Muslim" yang diciptakan oleh Ayus dengan irama musik Pop.

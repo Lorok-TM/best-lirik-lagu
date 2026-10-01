@@ -2,7 +2,7 @@
 title: "Soni Egi - Pilihan Orang Tua"
 date: 2022-12-08
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Lirik Lagu Indo dengan judul Pilihan Orang Tua yang dinyanyikan oleh Soni Egi dan diciptakan oleh Fikri Ramadhan dengan irama musik Pop.

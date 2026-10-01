@@ -2,7 +2,7 @@
 title: "Rayola Feat Adim MF - Bajodohan Tapi Tak Cinto"
 date: 2025-05-19
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 

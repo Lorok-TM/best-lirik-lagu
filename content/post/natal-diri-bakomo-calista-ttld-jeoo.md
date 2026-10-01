@@ -2,7 +2,7 @@
 title: "Natal Diri' Bakomo' - Calista, TTLD, Jeoo"
 date: 2026-09-16
 categories: 
-  - "dayak"
+  - "Dayak"
 ---
 
 Dah lahir ka' dunia Tuhan Yesus ka' kota bethlehem la nang nabus dosa diri' talino Injeh basyukur muji namanya

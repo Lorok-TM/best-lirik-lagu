@@ -2,7 +2,7 @@
 title: "Curiga - Siti Aliyah"
 date: 2024-08-05
 categories: 
-  - "tarling"
+  - "Tarling"
 ---
 
 Sedina langka kabare Sampean kuh mendi bae Tek telfon sampe ping papat Ora pernah diangkat angkat

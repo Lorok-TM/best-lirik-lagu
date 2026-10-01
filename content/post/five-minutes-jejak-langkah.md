@@ -2,8 +2,7 @@
 title: "Five Minutes - Jejak Langkah"
 date: 2023-06-11
 categories: 
-  - "band"
-  - "indonesia"
+  - "Band"
 ---
 
 Lirik Lagu Band Indo dengan judul Jejak Langkah yang dinyanyikan oleh Five Minutes dan diciptakan oleh Aria FM dengan irama musik Pop Rock.

@@ -2,7 +2,7 @@
 title: "Vicky Salamor - Kalau Bukan Par Se"
 date: 2023-04-10
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 Lirik Lagu Timur dengan judul Kalau Bukan Par Se yang dinyanyikan dan diciptakan oleh Vicky Salamor.

@@ -2,7 +2,7 @@
 title: "Sabado Kalan - Mario G Klau"
 date: 2025-04-08
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 Intro : Na fatin iha hau nia sorin.. Haa aaaa.. Hau zura doben o hau nian..

@@ -2,7 +2,7 @@
 title: "Adan Putra - Sukar Kulupakan"
 date: 2023-05-31
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Lirik Lagu Melayu dengan judul Sukar Ku Lupakan yang dinyanyikan oleh Adan Putra dan diciptakan oleh Ag Astillah dengan irama musik Slow Rock.

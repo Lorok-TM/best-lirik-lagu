@@ -2,7 +2,7 @@
 title: "Stop Jangan Baganggu - Isty Julistry"
 date: 2025-02-07
 categories: 
-  - "manado"
+  - "Manado"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Stop Jangan Baganggu yang dibawakan oleh Isty Julistry.

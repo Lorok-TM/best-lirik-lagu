@@ -2,7 +2,7 @@
 title: "Najwa - Sapiriang Kanyang Baduo"
 date: 2023-02-22
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Lirik Lagu Minang dengan judul Sapiriang Kanyang Baduo yang dinyanyikan oleh Najwa dan diciptakan oleh Ajhay Pasma dengan irama musik Pop.

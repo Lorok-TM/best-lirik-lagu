@@ -2,7 +2,7 @@
 title: "Andre Mastijan - Nahkoda Cinta"
 date: 2026-09-26
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Di teluk hatimu aku berlabuh Kutanamkan jangkar kasihku Kugulung layarku untuk bertemu bersamamu suratan hatiku

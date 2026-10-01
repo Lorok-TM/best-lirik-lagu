@@ -2,7 +2,7 @@
 title: "Kristin - Hatue Idola dan Artinya"
 date: 2022-01-24
 categories: 
-  - "dayak"
+  - "Dayak"
   - "remix"
 ---
 

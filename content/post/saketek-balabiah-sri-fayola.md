@@ -2,7 +2,7 @@
 title: "Saketek Balabiah - Sri Fayola"
 date: 2025-04-18
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Hiduik nan dikampuang ado pulo cando iko Saketek balabiah gunjiangan lah tibo pulo Baiak gusuak dado tutuiklah talingo Bamacam urang yo ka bakato

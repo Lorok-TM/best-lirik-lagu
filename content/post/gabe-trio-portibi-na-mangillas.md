@@ -2,7 +2,7 @@
 title: "Gabe Trio - Portibi Na Mangillas"
 date: 2022-08-29
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 ## Lirik Lagu Batak ”Portibi Na Mangillas“ by Gabe Trio

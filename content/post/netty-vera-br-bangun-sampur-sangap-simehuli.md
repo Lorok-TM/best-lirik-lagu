@@ -2,7 +2,7 @@
 title: "Netty Vera Br Bangun - Sampur Sangap Simehuli"
 date: 2024-05-21
 categories: 
-  - "karo"
+  - "Karo"
 ---
 
 **Lirik Netty Vera Br Bangun - Sampur Sangap Simehuli**

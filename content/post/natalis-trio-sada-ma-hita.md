@@ -2,7 +2,7 @@
 title: "Natalis Trio - Sada Ma Hita"
 date: 2025-07-13
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 \* Ho do hasian ho do tulang rusukki Na nilehonni Tuhan i do ho tu au Na gabe dongan hu gabe rongkap hu Dongan matua ho dongan hu gabe

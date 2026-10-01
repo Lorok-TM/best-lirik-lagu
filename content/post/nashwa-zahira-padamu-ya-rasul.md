@@ -2,7 +2,7 @@
 title: "Nashwa Zahira - Padamu Ya Rasul"
 date: 2023-03-25
 categories: 
-  - "religi"
+  - "Religi"
 ---
 
 Lirik Lagu Religi dengan judul Padamu Ya Rasul yang dinyanyikan oleh Nashwa Zahira dan diciptakan oleh Sudrajat dengan irama musik Pop.

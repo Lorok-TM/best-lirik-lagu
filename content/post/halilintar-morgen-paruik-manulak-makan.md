@@ -2,7 +2,7 @@
 title: "Halilintar Morgen - Paruik Manulak Makan"
 date: 2026-08-03
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 

@@ -2,7 +2,7 @@
 title: "Yona Irma - Mamintak Ka Nan Elok"
 date: 2025-08-03
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Ditampih bareh ditampih Si atah bia ndak tabuang Rasaki indak ka abih Asa kan badan lai ka sanang

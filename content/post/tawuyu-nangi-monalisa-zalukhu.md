@@ -2,7 +2,7 @@
 title: "Tawuyu Nangi - Monalisa Zalukhu"
 date: 2025-04-24
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 Hena oya geu tugela mburu'u Ba he siraya gamondia wune hawu He ato zamauwu-mauwu tödögu Ba ha yaugö sa ziso badödögu

@@ -2,7 +2,7 @@
 title: "Rheina - Sesalmu Tiada Gunanya"
 date: 2025-04-23
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 Tak kan pernah bisa tuk kulupa Kenangan pahit yang pernah kurasa Kau hina diriku Didepan kedua orang tua,mu

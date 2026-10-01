@@ -2,7 +2,7 @@
 title: "Anis Gea feat Wira Purba - Ho Do Na Di Rohakki"
 date: 2023-01-06
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 ## Lirik Ho Do Na Di Rohakki - Anis Gea Ft. Wira Purba

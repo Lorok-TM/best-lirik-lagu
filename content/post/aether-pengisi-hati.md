@@ -2,7 +2,7 @@
 title: "Aether - Pengisi Hati"
 date: 2023-06-20
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Lirik Lagu Indo dengan judul Pengisi Hati yang dinyanyikan oleh Aether dan diciptakan oleh Ipoet, Bobby dengan irama musik Pop.

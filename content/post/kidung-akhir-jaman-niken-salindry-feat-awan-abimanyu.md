@@ -2,7 +2,7 @@
 title: "Kidung Akhir Jaman - Niken Salindry Feat Awan Abimanyu"
 date: 2025-03-05
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Kidung Akhir Jaman yang dibawakan oleh Niken Salindry Ft Awan Abimanyu.

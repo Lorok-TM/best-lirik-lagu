@@ -2,7 +2,7 @@
 title: "Anak Ayah Malang Nasibnyo - Silva Hayati"
 date: 2025-01-18
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Anak Ayah Malang Nasibnyo yang dibawakan oleh Silva Hayati.

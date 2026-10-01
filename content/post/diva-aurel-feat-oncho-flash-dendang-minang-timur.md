@@ -2,7 +2,7 @@
 title: "Diva Aurel feat. Oncho Flash - Dendang Minang Timur"
 date: 2026-01-08
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Goyang ka kiri Goyang ka kanan mari kito bagoyang kawan

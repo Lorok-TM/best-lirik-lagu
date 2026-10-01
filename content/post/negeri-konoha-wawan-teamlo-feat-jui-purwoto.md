@@ -2,7 +2,7 @@
 title: "Negeri Konoha - Wawan Teamlo Feat Jui Purwoto"
 date: 2025-04-15
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Negeri Konoha Negeri kebolak-balik Katanya membela rakyat Tapi nggak perduli rakyat

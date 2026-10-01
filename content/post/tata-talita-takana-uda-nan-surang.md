@@ -2,7 +2,7 @@
 title: "Tata Talita - Takana Uda Nan Surang"
 date: 2025-08-06
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Indak riak jadi galombang Jikok angin lauik nan tak basaru Indak kasiah babuah sayang Jikok tak saliang marindu

@@ -2,7 +2,7 @@
 title: "Osen Hutasoit - Adong Do Au"
 date: 2025-05-26
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Dang hudok tung na so jadi ho hurangan Tung na so jadi ho tarilu Molo ihuthononmu au Molo udurhononmu au Boi do ho hurangan di ngolumi

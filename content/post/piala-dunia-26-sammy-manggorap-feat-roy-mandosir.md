@@ -2,7 +2,7 @@
 title: "Piala Dunia 26 - Sammy Manggorap feat. Roy Mandosir"
 date: 2026-06-12
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 

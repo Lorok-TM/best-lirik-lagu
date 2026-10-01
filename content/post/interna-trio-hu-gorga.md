@@ -2,7 +2,7 @@
 title: "Interna Trio - Hu Gorga"
 date: 2023-06-10
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Lirik Lagu Batak dengan judul Hu Gorga yang dinyanyikan oleh Interna Trio dan diciptakan oleh Tigor Gipsy Marpaung dengan irama musik Pop.

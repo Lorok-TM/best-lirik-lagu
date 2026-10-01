@@ -2,7 +2,7 @@
 title: "Bigheru - Cinta Sapanuah Hati"
 date: 2026-09-14
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Indak mudah adiak ka manarimo Cinto nyo denai ka bakeh adiak sapanuah nyo Dek alah tasuo luko nan lah lamo Ragu ragu di dalam hati taraso

@@ -2,7 +2,7 @@
 title: "Boru Tading Tadingan - Asem Sinaga"
 date: 2026-07-23
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Dua do hamu ho boruku Dilehon Tuhan i tu damang dainangmon Alai dukkon marumur ma mardua taon hamu boru Dang daionmu be holong na marina i Ai nunga jumolo be dainang pangintubumi Mandopothon Tuhan na di surgo i

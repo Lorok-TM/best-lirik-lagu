@@ -2,7 +2,7 @@
 title: "Jom Raya - Daiyan Trisha Feat Alfie Zumi"
 date: 2025-03-10
 categories: 
-  - "malaysia"
+  - "Malaysia"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Jom Raya yang dibawakan oleh Daiyan Trisha Ft Alfie Zumi.

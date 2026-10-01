@@ -2,7 +2,7 @@
 title: "Ayu Atari - Malang Denai Bamimpi"
 date: 2025-08-01
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Malang bana denai bamimpi Yo nan bak raso indak ka tajangkau Dek pangalan di tangan sayuik jo a ka den uleh Buah nan tinggi di rantiang awan Dek pangalan di tangan sayuik jo a ka den uleh Buah nan tinggi di rantiang awan

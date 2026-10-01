@@ -2,7 +2,7 @@
 title: "Fadhilah Intan - Kepada Hati"
 date: 2025-11-29
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Ku berhenti di batas ini Antara cinta dan mimpi bersamamu Aku sadari kini bahwa memang hatimu Bukan untukku

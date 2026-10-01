@@ -2,8 +2,7 @@
 title: "Ilir 7 - Cinta Dan Pengkhianatan"
 date: 2023-04-15
 categories: 
-  - "band"
-  - "indonesia"
+  - "Band"
 ---
 
 Lirik Lagu Band Indo dengan judul Cinta Dan Pengkhianatan yang dinyanyikan oleh ILIR7 dan diciptakan oleh Vic Ilir 7 dengan irama musik Pop.

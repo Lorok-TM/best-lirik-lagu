@@ -2,7 +2,7 @@
 title: "Kekuatanku Ada PadaMu - Putri Siagian"
 date: 2025-01-18
 categories: 
-  - "rohani"
+  - "Rohani"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Kekuatanku Ada PadaMu yang dibawakan oleh Putri Siagian.

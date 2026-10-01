@@ -2,7 +2,7 @@
 title: "Jika Tak Kenal Maka Tak Jadian - Qhutbus Sakha"
 date: 2026-07-26
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 \[Verse 1\] Kita bertemu di persimpangan waktu Senyummu singgah raguku bertamu Sapaan singkat jadi awal cerita Dari asing yang perlahan bermakna

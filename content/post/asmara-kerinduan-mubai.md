@@ -2,7 +2,7 @@
 title: "Asmara Kerinduan - Mubai"
 date: 2026-07-29
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Entah Sampai kapan kau dan aku Jalani asmara Menunggu pertemuan tiba

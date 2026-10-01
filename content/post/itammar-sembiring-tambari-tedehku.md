@@ -2,7 +2,7 @@
 title: "Itammar Sembiring - Tambari Tedehku"
 date: 2025-11-10
 categories: 
-  - "karo"
+  - "Karo"
 ---
 
 Sayang tedeh kel ateku Lanai tanggung kuakap tedehna Uga kuban nambari pusuhku Si lenga ngasup itadingkenndu

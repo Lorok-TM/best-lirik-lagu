@@ -2,7 +2,7 @@
 title: "Ngetohin Ipian - Ngurah Adi"
 date: 2024-10-29
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 Kanggoang jani malu luh Beli sing ngidang mulih Semengne beli ngilang Mulihne sing karuan Semangat beli ngalih kiloan Elek beli ken matuane Pang sing kadene beli pengangguran

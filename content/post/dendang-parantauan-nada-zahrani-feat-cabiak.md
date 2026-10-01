@@ -2,7 +2,7 @@
 title: "Dendang Parantauan - Nada Zahrani feat. Cabiak"
 date: 2026-09-10
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Gajai Lapeh nan dari Muaro Kalaban ka Solok alun lai sampai Jalan balimpik nan basuo

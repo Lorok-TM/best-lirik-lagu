@@ -2,7 +2,7 @@
 title: "Bungo Cinto Di Hati Putiah - Pinki Prananda"
 date: 2025-02-06
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Bungo Cinto Di Hati Putiah yang dibawakan oleh Pinki Prananda.

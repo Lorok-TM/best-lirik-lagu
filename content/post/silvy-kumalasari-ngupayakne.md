@@ -2,7 +2,7 @@
 title: "Silvy Kumalasari - Ngupayakne"
 date: 2025-11-12
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Awale dudu sopo sopo Suwe suwe due roso Roso tresno sing tak rasakno Matur nuhun mpun purun nompo

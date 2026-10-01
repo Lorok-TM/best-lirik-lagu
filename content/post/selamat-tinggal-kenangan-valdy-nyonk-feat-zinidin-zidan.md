@@ -2,7 +2,7 @@
 title: "Selamat Tinggal Kenangan - Valdy Nyonk Feat Zinidin Zidan"
 date: 2024-12-27
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Hampa hatiku hampa Setelah kau kini tak ada Hilanglah sudah tempat bercerita Yang tersisa hanya kenangannya

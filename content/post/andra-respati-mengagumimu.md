@@ -2,7 +2,7 @@
 title: "Andra Respati - Mengagumimu"
 date: 2022-11-26
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 Lirik Lagu Melayu dengan judul Mengagumi Mu yang dinyanyikan dan diciptakan oleh Andra Respati dengan irama musik Slow Rock.

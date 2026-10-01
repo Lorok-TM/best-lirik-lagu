@@ -2,7 +2,7 @@
 title: "Ulian Jengah - Evan Daryata"
 date: 2024-06-18
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 **Lirik Ulian Jengah - Evan Daryata**

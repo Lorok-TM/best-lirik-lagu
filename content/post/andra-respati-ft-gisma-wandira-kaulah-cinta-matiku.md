@@ -2,7 +2,7 @@
 title: "Andra Respati ft. Gisma Wandira - Kaulah Cinta Matiku"
 date: 2023-02-03
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 Andra Respati & Gisma Wandira rilis single Melayu berjudul "Kaulah Cinta Matiku", menceritakan tentang perasaan cinta seseorang yang begitu mendalam kepada sang kekasih pujaan hati.

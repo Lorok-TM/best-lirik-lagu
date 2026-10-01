@@ -2,7 +2,7 @@
 title: "Aprilian - Setia Yang Terluka"
 date: 2025-11-11
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 Sudah bertahun lama diriku bersamamu Ku yang slalu hapus air matamu Mengapa kini dirinya yang engkau sayang Tak kau lihat diriku berjuang demi dirimu

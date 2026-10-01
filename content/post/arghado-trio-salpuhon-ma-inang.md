@@ -2,7 +2,7 @@
 title: "Arghado Trio - Salpuhon Ma Inang"
 date: 2025-05-25
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Hu pagalak api di tataring Ala tung mancai ngali di borngin i Ganup ari au sai marpikkiri Andigan do ulaning Pajumpang dohot ho ale inang

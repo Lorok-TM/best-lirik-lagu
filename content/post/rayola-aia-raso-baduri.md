@@ -2,7 +2,7 @@
 title: "Rayola - Aia Raso Baduri"
 date: 2025-06-19
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Aia di minum raso kaduri Nasi di makan nasi di makan bak raso sakam Apo ko kini uda lah bapindah hati Balupo sagalo sayang Dulu lah satangah mati cinto denai pajuangkan

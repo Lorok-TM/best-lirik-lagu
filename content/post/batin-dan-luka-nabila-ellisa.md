@@ -2,7 +2,7 @@
 title: "Batin Dan Luka - Nabila Ellisa"
 date: 2026-07-29
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 

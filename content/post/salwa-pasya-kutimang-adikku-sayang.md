@@ -2,7 +2,7 @@
 title: "Salwa Pasya - Kutimang Adikku Sayang"
 date: 2025-05-22
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Kutimang timang sambil berdendang Mengantar tidur lelap malammu Tak ada satu pun yang akan mampu Hadir dalam mimpi burukmu

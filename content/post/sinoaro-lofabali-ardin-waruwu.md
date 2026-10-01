@@ -2,7 +2,7 @@
 title: "Sino'aro Lofabali - Ardin Waruwu"
 date: 2025-01-02
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Sino'aro Lofabali yang dibawakan oleh Ardin Waruwu.

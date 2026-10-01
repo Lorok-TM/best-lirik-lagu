@@ -2,7 +2,7 @@
 title: "Nerubat - Alah Tegal Raja Pemisi"
 date: 2025-11-08
 categories: 
-  - "iban"
+  - "Iban"
 ---
 
 Tutup cherita antara tua Lemas dimulut karam ba dada Nuan ti nempaya nukar tusun ensera Salah singkang kaki belanda

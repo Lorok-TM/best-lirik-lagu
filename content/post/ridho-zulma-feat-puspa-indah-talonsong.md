@@ -2,7 +2,7 @@
 title: "Ridho Zulma feat. Puspa Indah - Talonsong"
 date: 2025-10-02
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Oi talonsong adiak baragiah Kini manjadi panyasalan Saketek kaji basalisiah Manga dek surau batinggakan diak ee Yo la lai

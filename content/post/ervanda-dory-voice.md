@@ -2,7 +2,7 @@
 title: "Ervanda - D'ory Voice"
 date: 2025-02-15
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Ervanda yang dibawakan oleh D'ory Voice.

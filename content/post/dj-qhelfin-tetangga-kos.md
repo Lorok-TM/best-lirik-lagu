@@ -2,7 +2,7 @@
 title: "Dj Qhelfin - Tetangga Kos"
 date: 2023-05-03
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 Lirik Lagu Timur dengan judul Tetangga Kos yang dinyanyikan dan diciptakan oleh Dj Qhelfin.

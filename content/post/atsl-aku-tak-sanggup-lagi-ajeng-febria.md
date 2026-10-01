@@ -2,7 +2,7 @@
 title: "ATSL (Aku Tak Sanggup Lagi) - Ajeng Febria"
 date: 2026-07-02
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 

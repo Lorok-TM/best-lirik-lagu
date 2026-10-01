@@ -2,7 +2,7 @@
 title: "Lutfia Khaira - Tuan Alah Ado Nan Punyo"
 date: 2025-06-17
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Di tuan pitih balabiah Hiduik bagalimang jo harato Dek pinta harok ka buliah Tuan balaku sakahandaknyo

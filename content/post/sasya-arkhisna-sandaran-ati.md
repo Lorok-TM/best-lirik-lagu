@@ -2,7 +2,7 @@
 title: "Sasya Arkhisna - Sandaran Ati"
 date: 2025-05-12
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Sumilir angin kang nresep ning ati Gegowo roso eling esemu Pepujaningati sing tak tunggu saiki ning endi paranmu

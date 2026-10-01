@@ -2,7 +2,7 @@
 title: "Yaya Nadila - Gubuk Persinggahan"
 date: 2025-07-05
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Luka berdarah biarkanlah berdarah Jangan dihapus sakitnya takkan hilang Semakin kau ku sayang Semakin parah melukai Hatiku yang terdalam

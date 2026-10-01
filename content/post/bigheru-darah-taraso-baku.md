@@ -2,7 +2,7 @@
 title: "Bigheru - Darah Taraso Baku"
 date: 2025-10-22
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Di ujuang malam nan sunyi Tasintak lalok dek ulah mimpi Rasonyo adiak alah bainai Di ujuang jari

@@ -2,8 +2,7 @@
 title: "Rujak Uleg - Ajeng Febria"
 date: 2026-07-22
 categories: 
-  - "dangdut"
-  - "java"
+  - "Jawa"
 ---
 
 Rujak uleg kroso sepet kakean cengkir Atine judeg dhadhane sesek kakean mikir Ngalam ndonyo warno warno kahanane, jarene Mbiyen kondho nalikane perang gedhe Bondho nyowo dilabohke negarane, jarene Mugo mugo gek enggalo bubar wae

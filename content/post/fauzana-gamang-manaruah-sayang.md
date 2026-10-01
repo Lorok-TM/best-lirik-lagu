@@ -2,7 +2,7 @@
 title: "Fauzana - Gamang Manaruah Sayang"
 date: 2023-05-18
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Antah dima uda bakaji Bakeh sia pandai badendang Galak bak cando bapamanih Sapo bak raso bapitunang Galak bak cando bapamanih Sapo bak raso bapitunang

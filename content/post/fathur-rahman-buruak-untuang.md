@@ -2,7 +2,7 @@
 title: "Fathur Rahman - Buruak Untuang"
 date: 2023-03-01
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Lirik Lagu Minang dengan judul Buruak Untuang yang dinyanyikan oleh Fathur Rahman dan diciptakan oleh Eddy Palangki dengan irama musik Pop.

@@ -2,7 +2,7 @@
 title: "Yeni Inka - Gerigis"
 date: 2025-05-12
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Gerigis aduh udan gerigis Soyo suwi anter gluduke Apuwo riko nangis Opo tah hang dirasakno

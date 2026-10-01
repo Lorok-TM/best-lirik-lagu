@@ -2,7 +2,7 @@
 title: "Berdayung Cinta - Laila Ayu Feat Irwan Krisdiyanto"
 date: 2026-07-18
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 La-la-la, la-la-la-la, la-la La-la-la, la-la-la-la La-la-la, la-la-la-la, la-la La-la-la, la-la-la-la

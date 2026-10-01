@@ -2,7 +2,7 @@
 title: "Ayu Amanda - Sia Bana Pajatu"
 date: 2025-08-10
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Antah malulua indak kanyang kanyang Ganggaman urang raso punyo surang Sakandak hati pancari kayo Tukang marasai kanai upek nyo

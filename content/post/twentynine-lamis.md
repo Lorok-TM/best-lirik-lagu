@@ -2,7 +2,7 @@
 title: "Twentynine - Lamis"
 date: 2025-10-28
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 Kabeh wis tak lakoni Ora ngiro mblenjani Gemati ning ati Sing tak pupuk wingi Kudune kowe ngerti

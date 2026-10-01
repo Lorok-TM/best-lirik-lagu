@@ -2,7 +2,7 @@
 title: "Kau Tetap Harapan - Tryana"
 date: 2025-02-10
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Kau Tetap Harapan yang dibawakan oleh Tryana.

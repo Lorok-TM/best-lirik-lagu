@@ -2,7 +2,7 @@
 title: "Difa Aprilia - Sangko Sarupo Nan Kanduang"
 date: 2026-01-19
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Galak nan banampak kan Tangih nan basimpan Bia nak rancak juo tampak dek urang Elok bana nan di buek Salah ba cari cari Buruak juo nan kanduang tibo di badan

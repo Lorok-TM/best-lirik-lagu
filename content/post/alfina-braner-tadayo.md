@@ -2,7 +2,7 @@
 title: "Alfina Braner - Tadayo"
 date: 2025-09-01
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Tinggalah sanak nan jo sudaro Untuang elok nasib nyo ambo

@@ -2,7 +2,7 @@
 title: "Tenggelam - Sheryl Sheinafia"
 date: 2026-07-19
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Diam bukan karena aku kalah Hanya lelah memilih kata-kata Setiap kalimat kau bilang salah Lebih baik ku tidak bicara

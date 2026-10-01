@@ -2,7 +2,7 @@
 title: "Novi Novita - Serat Penjajah"
 date: 2025-05-09
 categories: 
-  - "religi"
+  - "Religi"
 ---
 
 Kalamun qodimun laa yumalu sama'uhu Tanazah an qoulin wa fi\`lin wa niyatin Bihi astafi min kulli da’ain wa nuuruhu Dalilun liqolbi inda jahli wa haiyrotiy

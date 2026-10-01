@@ -2,7 +2,7 @@
 title: "Didong Doah Kusayang - Dessy Anggreini Br Bangun"
 date: 2024-08-24
 categories: 
-  - "karo"
+  - "Karo"
 ---
 
 Natap tawa ras perciremndu Nantang kerina ngalah dagingku Salang kerina ukur sigulut Kuidah kenca senyum manisndu Bene kerina si man tangkelen Kubegi kenca kena erlebuh

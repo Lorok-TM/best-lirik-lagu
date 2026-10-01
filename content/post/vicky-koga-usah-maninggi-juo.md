@@ -2,7 +2,7 @@
 title: "Vicky Koga - Usah Maninggi Juo"
 date: 2026-07-05
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 

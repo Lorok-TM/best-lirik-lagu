@@ -2,7 +2,7 @@
 title: "Cut Rani Auliza - Putus Baik Baik Saja"
 date: 2025-10-23
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Tersiksa batin ini Sungguh tersiksa Gelisah hati gelisah Menanti kabar darimu

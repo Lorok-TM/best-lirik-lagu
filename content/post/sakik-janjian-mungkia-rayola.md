@@ -2,7 +2,7 @@
 title: "Sakik Janjian Mungkia - Rayola"
 date: 2024-06-14
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 **Lirik Sakik Janjian Mungkia - Rayola**

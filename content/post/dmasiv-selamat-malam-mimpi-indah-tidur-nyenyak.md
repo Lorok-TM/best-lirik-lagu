@@ -2,8 +2,7 @@
 title: "D'Masiv - Selamat Malam, Mimpi Indah, Tidur Nyenyak"
 date: 2024-05-26
 categories: 
-  - "band"
-  - "indonesia"
+  - "Band"
 ---
 
 **Lirik Selamat Malam, Mimpi Indah, Tidur Nyenyak - D'Masiv**

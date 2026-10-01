@@ -2,7 +2,7 @@
 title: "Eka Ritonga - Panyakit Roha"
 date: 2025-10-18
 categories: 
-  - "tapsel"
+  - "Tapsel"
 ---
 
 Tor nikobun marbire bire Ruranai bahatma dap dap Halak baya carito sere ngolu niba dung mogap ogap

@@ -2,7 +2,7 @@
 title: "Vanny Vabiola - Untuk Apa Lagi"
 date: 2022-12-19
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Lirik Lagu Melayu dengan judul Untuk Apa Lagi yang dinyanyikan oleh Vanny Vabiola dan diciptakan oleh Decky Ryan, Vanny Vabiola dengan irama musik Pop.

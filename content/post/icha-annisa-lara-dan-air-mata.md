@@ -2,7 +2,7 @@
 title: "Icha Annisa - Lara Dan Air Mata"
 date: 2023-05-04
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Lirik Lagu Melayu dengan judul Lara Dan Air Mata yang dinyanyikan oleh Icha Annisa dan diciptakan oleh Erwin Agam dengan irama musik Pop.

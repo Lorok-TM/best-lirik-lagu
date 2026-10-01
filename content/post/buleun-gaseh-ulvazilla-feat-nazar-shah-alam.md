@@ -2,7 +2,7 @@
 title: "Buleun Gaseh - Ulvazilla Feat Nazar Shah Alam"
 date: 2025-01-29
 categories: 
-  - "aceh"
+  - "Aceh"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Buleun Gaseh yang dibawakan oleh Ulvazilla Ft Nazar Shah Alam.

@@ -2,7 +2,7 @@
 title: "Nita Anjani - Kitir Sumilir"
 date: 2026-07-18
 categories: 
-  - "campursari"
+  - "Campursari"
 ---
 
 Angenku ngambara anembus mega Ngetung lintang sesuluh padhang rembulan Tak goleki ana ngendi si panjerina Tak titipi kidung keketeging jantung

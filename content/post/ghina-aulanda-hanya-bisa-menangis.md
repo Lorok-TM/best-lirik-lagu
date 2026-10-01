@@ -2,7 +2,7 @@
 title: "Ghina Aulanda - Hanya Bisa Menangis"
 date: 2023-01-18
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Ghina Aulanda bersama InsictechMusicland rilis single Melayu berjudul "Hanya Bisa Menangis" yang diciptakan oleh Harry Parintang, menceritakan tentang insan yang tersakiti hatinya karena cintanya telah dikhianati oleh kekasihnya dan kini hanya bisa menangis meratapinya.

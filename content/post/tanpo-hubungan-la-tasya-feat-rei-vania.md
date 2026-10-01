@@ -2,8 +2,7 @@
 title: "Tanpo Hubungan - La Tasya Feat. Rei Vania"
 date: 2026-07-23
 categories: 
-  - "dangdut"
-  - "java"
+  - "Jawa"
 ---
 
 Kadang aku kelingan Yen kerungu Tembang lagu senenganmu Sing kerep mbok weruhne neng aku Saben ketemu Gawe aku kangen Kebayang teko ngimpiku

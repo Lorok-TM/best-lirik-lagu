@@ -2,7 +2,7 @@
 title: "Pengagum Adi - Anton Yoga"
 date: 2024-08-08
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 Dihatin beli tuah pidan dadi pengagum adi Sing sanggup lakar ngelahang Sing mungkin akan bersatu Seperti langit dan bumi

@@ -2,7 +2,7 @@
 title: "Ainida Diaz - Ratak Indak Batapi"
 date: 2025-10-22
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Kok kapacah pacah banalah Bia denai indak bacamin lai Kok bapisah pisah banalah Bia denai cari ganti nan lain

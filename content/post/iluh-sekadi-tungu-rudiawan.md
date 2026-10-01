@@ -2,7 +2,7 @@
 title: "Iluh Sekadi Tungu - Rudiawan"
 date: 2025-01-03
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Iluh Sekadi Tungu yang dibawakan oleh Rudiawan.

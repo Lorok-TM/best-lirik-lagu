@@ -2,7 +2,7 @@
 title: "Tombo Kangen - Yeni Inka X Delva Irawan"
 date: 2025-03-31
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Tombo Kangen yang dibawakan oleh Yeni Inka Ft Delva Irawan.

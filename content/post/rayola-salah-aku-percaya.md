@@ -2,7 +2,7 @@
 title: "Rayola - Salah Aku Percaya"
 date: 2023-05-26
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Lirik Lagu Melayu dengan judul Salah Aku Percaya yang dinyanyikan oleh Rayola dan diciptakan oleh Adi Bugak dengan irama musik Pop.

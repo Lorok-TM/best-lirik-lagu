@@ -2,7 +2,7 @@
 title: "Bezi Halawa - Böi Falua Baniha Bö'ö"
 date: 2025-05-20
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 Tawa hörö Daö nawö ba wemörö Afatö dödö Owökhi hulö nifahö fahö Öröido balö mangona'ö No ödölö manö fofanö

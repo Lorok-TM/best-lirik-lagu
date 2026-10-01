@@ -2,7 +2,7 @@
 title: "Andra Respati - Kami Saiyo"
 date: 2025-09-28
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Silang silangkan kayu ditungku Jarang lah jarang tanak lah nasi Jikok lah masak makan dahulu Sasuok surang asa paruik barisi

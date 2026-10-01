@@ -2,8 +2,7 @@
 title: "Yeni Inka feat Fendik Adella - Sido Rondo"
 date: 2021-05-19
 categories: 
-  - "dangdut"
-  - "java"
+  - "Jawa"
 ---
 
 **Lirik Sido Rondo - Yeni Inka Ft. Fendik Adella**

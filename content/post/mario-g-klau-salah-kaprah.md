@@ -2,7 +2,7 @@
 title: "Mario G Klau - Salah Kaprah"
 date: 2026-07-25
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Salah aku salah Hanya menilaimu dari kejauhan Ternyata kau tak begitu Yang ada di kepalaku Kau sungguh pemilih Apalagi.. ini tentang hati Ternyata kamu selucu itu Ku tak menyangka…. Teetawa kagum aku…

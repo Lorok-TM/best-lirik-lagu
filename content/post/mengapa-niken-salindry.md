@@ -2,7 +2,7 @@
 title: "Mengapa - Niken Salindry"
 date: 2026-07-22
 categories: 
-  - "campursari"
+  - "Campursari"
 ---
 
 Mengapa mengapa Hatiku merasa merana Mengapa mengapa Hatiku terasa disiksa

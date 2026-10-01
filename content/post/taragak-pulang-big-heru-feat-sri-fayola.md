@@ -2,7 +2,7 @@
 title: "Taragak Pulang - Big Heru Feat Sri Fayola"
 date: 2025-03-20
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Taragak Pulang yang dibawakan oleh Big Heru Feat Sri Fayola.

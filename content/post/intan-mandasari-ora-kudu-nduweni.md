@@ -2,7 +2,7 @@
 title: "Intan Mandasari - Ora Kudu Nduweni"
 date: 2025-11-10
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 Yen pancen tresno Ora kudu nduweni Wis tak iklasno Senadjan loro ati

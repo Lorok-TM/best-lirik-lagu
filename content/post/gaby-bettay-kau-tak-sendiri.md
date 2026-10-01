@@ -2,7 +2,7 @@
 title: "Gaby Bettay - Kau Tak Sendiri"
 date: 2023-05-14
 categories: 
-  - "rohani"
+  - "Rohani"
 ---
 
 Lirik Lagu Rohani dengan judul Kau Tak Sendiri yang dinyanyikan oleh Gaby Bettay dan diciptakan oleh Bambang Irwanto.

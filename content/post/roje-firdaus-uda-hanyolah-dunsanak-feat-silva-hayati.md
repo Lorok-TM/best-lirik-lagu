@@ -2,7 +2,7 @@
 title: "Roje Firdaus - Uda Hanyolah Dunsanak feat. Silva Hayati"
 date: 2025-08-03
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Baputiah mato mancaliak cincin tapasang Malingka dijari manih adiak Baibo hati diri denai ko nan jadi Baa baitu kito kan bakawan arek Samustinyo hati uda sanang Di hati denai uda hanyolah dunsanak

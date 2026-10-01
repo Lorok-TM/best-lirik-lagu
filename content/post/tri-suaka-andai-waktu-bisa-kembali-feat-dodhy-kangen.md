@@ -2,7 +2,7 @@
 title: "Tri Suaka - Andai Waktu Bisa Kembali Feat Dodhy Kangen"
 date: 2025-07-27
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Bayu malam menyapa sunyi Saat langkah tinggalkan janji Hati menyimpan sisa kenangan Tak akan hilang

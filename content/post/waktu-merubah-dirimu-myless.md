@@ -2,7 +2,7 @@
 title: "Waktu Merubah Dirimu - Myless"
 date: 2025-02-04
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Waktu Merubah Dirimu yang dibawakan oleh Myless.

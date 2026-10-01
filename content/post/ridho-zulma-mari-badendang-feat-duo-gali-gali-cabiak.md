@@ -2,7 +2,7 @@
 title: "Ridho Zulma - Mari Badendang feat. Duo Gali Gali & Cabiak"
 date: 2025-08-16
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Sapantun kini denai dendangkan Palarai rusuah hati sarato bimbang Usah biakan diri bamanuang surang Pangana barek samo kito tangguangkan

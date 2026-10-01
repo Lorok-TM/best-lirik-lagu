@@ -2,7 +2,7 @@
 title: "Allo Balor - Sarri Basule Feat Wardiman"
 date: 2026-09-19
 categories: 
-  - "dayak"
+  - "Dayak"
 ---
 
 Nana' ku nangar agi' ka' kompokng kami Bunyi burung allo nang barenyah Panyajuk ati nian panawar rindu Ngunak aku nian dari mimpiku

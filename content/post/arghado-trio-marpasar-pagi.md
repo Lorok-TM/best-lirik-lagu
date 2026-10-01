@@ -2,7 +2,7 @@
 title: "Arghado Trio - Marpasar Pagi"
 date: 2026-01-30
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Sampilpil di topi parit dainang Sai sanduduk inang di toru ni dolok Sai sadia leleng nai inang Taonon nami na hansiton

@@ -2,7 +2,7 @@
 title: "Ayu Amanda - Kandak Di Hati"
 date: 2026-01-07
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Galak nan manih tingkah nan manjo Mambuek denai tagilo gilo Galak nan manih tingkah nan manjo Mambuek denai tagilo gilo

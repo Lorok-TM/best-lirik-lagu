@@ -2,7 +2,7 @@
 title: "Nanda Sari - Imbangono Katresnanku"
 date: 2026-07-30
 categories: 
-  - "campursari"
+  - "Campursari"
 ---
 
 Saben dino mung ngalamun Jroning sepi, sepi samun Amung tansah kadulu Wewayanganmu duh kangmas wong bagus

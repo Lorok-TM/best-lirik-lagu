@@ -2,7 +2,7 @@
 title: "Nadhif Basalamah - Jika Kau Lelah Denganku"
 date: 2025-06-22
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Lama tak berkaca Aku dan kamu Sama-sama tak kuasa tahan ragu Caraku hidupku buatmu tanya pada ku

@@ -2,7 +2,7 @@
 title: "Restin feat Pinki Prananda - Menahan Rindu"
 date: 2022-09-28
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Title : Menahan Rindu Artist : Restin ft Pinki Prananda Songwriter : Mansyah Saragih Published : Teras Musik Category : Lagu Pop Melayu

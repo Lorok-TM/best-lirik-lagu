@@ -2,7 +2,7 @@
 title: "Mutiara - Happy Asmara"
 date: 2026-08-05
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Karya musik berjudul Mutiara ciptaan Guspa Diana, yang turut dibawakan oleh Happy Asmara, secara filosofis mengeksplorasi dualitas antara harapan cinta dan realitas ilusi psikologis manusia. Melalui metafora "mutiara" yang berharga namun terkubur di kedalaman samudra, narasi lagu ini menyoroti ambisi seseorang yang rela menempuh pengorbanan besar demi mengejar sosok ideal yang ia kagumi. Namun, alih-alih berujung pada komitmen nyata, latar belakang cerita bergeser pada konflik internal tentang kepasrahan atas cinta sepihak, di mana sang tokoh utama terjebak dalam pusaran angan, fatamorgana, dan ketidakpastian. Konstruksi liriknya secara lugas menyampaikan pesan bahwa kekaguman yang berlebihan sering kali melahirkan obsesi semu, sehingga pada akhirnya, sosok yang dikejar tersebut hanyalah sekadar "bunga mimpi" penghibur diri yang eksis dalam ruang imajinasi.

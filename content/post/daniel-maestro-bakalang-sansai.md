@@ -2,7 +2,7 @@
 title: "Daniel Maestro - Bakalang Sansai"
 date: 2025-12-22
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Indak mamparusuah hati marusak si parasaan Nan padiah tantu lah tunangan nyo badan Ado maso susah baitu pulo nan jo sanang Bakulambek suluah ka jadi panarang

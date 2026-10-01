@@ -2,7 +2,7 @@
 title: "Happy Asmara - Komang"
 date: 2023-03-30
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Lirik Lagu Indo dengan judul Komang yang dinyanyikan oleh Happy Asmara dan diciptakan oleh Raim Laode dengan irama musik Pop Dangdut.

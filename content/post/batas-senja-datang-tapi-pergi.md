@@ -2,7 +2,7 @@
 title: "Batas Senja - Datang Tapi Pergi"
 date: 2026-09-03
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Datang tak diundang Tiba tiba datang Beri luka dan hilang Kau tak bilang pamit

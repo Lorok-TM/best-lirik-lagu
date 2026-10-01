@@ -2,7 +2,7 @@
 title: "Tamu Undangan - Intan Afifah"
 date: 2026-07-05
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 

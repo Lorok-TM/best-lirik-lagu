@@ -2,7 +2,7 @@
 title: "Anyqu - Nan Disayang Manyakiti"
 date: 2025-06-12
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Lai sasuai Pintak nan di hati Harok sabimbiang jo uda ka palaminan Kironyo denai alah malapeh hao Lah bajadi sajo uda jo urang

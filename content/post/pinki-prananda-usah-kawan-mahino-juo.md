@@ -2,7 +2,7 @@
 title: "Pinki Prananda - Usah Kawan Mahino Juo"
 date: 2025-08-17
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Urang makan jo randang Denai jo samba lado Urang bahiduik sanang Sadangkan denai bagaluik seso

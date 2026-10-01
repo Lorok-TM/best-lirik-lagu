@@ -2,7 +2,7 @@
 title: "Tika Pagraky - Kasmaran dan Terjemahan"
 date: 2023-01-11
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 Tika Pagraky rilis single dengan lirik dalam bahasa Bali berjudul "Kasmaran" yang artinya ya "Kasmaran", menceritakan tentang perasaan cinta yang begitu melekat sampai enggan tuk berpindah ke lain hati. Untuk lebih jelasnya silahkan Anda baca terjemahan lirik lagunya berada dibawah.

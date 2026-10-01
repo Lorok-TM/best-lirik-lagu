@@ -2,7 +2,7 @@
 title: "Akhir Februari Tanpamu - Senandung"
 date: 2025-04-08
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Verse : Langit kelabu.. hujan perlahan.. Mengingatkanku.. pada kenangan.. Di ujung Februari yang dingin.. Kau pergi tanpa alasan..

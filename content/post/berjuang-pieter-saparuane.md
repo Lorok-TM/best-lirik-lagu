@@ -2,7 +2,7 @@
 title: "Berjuang - Pieter Saparuane"
 date: 2025-04-21
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 Haruskah beta di sini Yang slalu jaga hati Tapi mangapa nona Su ada parganti

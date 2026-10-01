@@ -2,7 +2,7 @@
 title: "Dang Boi Sada - Jen Manurung"
 date: 2026-07-15
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Au dohot ho dang boi sada Dang boi rap sauduran tu dolok tu toruan Dang boi hape sai hupaksahon Tudos songon lomo ni roha Au dohot ho sai lalap do maralo

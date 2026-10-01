@@ -2,7 +2,7 @@
 title: "Rocky Duha - Talu Gatua"
 date: 2021-09-25
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 **Lirik Talu Gatua - Rocky Duha**

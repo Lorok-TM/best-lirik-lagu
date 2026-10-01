@@ -2,7 +2,7 @@
 title: "Pingin Sayang - Happy Asmara"
 date: 2026-07-07
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 

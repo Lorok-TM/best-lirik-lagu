@@ -2,7 +2,7 @@
 title: "Yeni Sinaga - Margogo Ma Ho"
 date: 2025-09-30
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Aha pe amang na mambaen lungun roham Paboa ma tu au donganan hu do ho Di borngin manogot sadihari pe ro Dison do au tontong unang ganggu ho

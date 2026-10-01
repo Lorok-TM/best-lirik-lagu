@@ -2,7 +2,7 @@
 title: "Ovhi Firsty - Digamang Cinto"
 date: 2025-10-19
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Raso barek di lapehkan Sulik bana di elakan Cinto nan tumbuah di hati Indak tabujuak lai Cinto nan tumbuah di hati Indak tatagah lai

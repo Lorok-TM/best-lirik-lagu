@@ -2,7 +2,7 @@
 title: "Satpam Ati - Sasya Arkhisna"
 date: 2025-03-01
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Wes tak bayangke, aku ro kowe iso saklawase Ra ngiro ending e, malah loro rasane Sing tak gadang gadang ndwe tresno liyane

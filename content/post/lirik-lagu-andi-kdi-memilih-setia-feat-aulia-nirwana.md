@@ -2,7 +2,7 @@
 title: "Andi KDI - Memilih Setia feat Aulia Nirwana"
 date: 2022-01-07
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 ## Lirik Lagu Memilih Setia - Andi KDI Ft. Aulia Nirwana

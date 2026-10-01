@@ -2,7 +2,7 @@
 title: "Fauzana - Tungkek Mambaok Rabah"
 date: 2023-02-15
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 **Lirik Tungkek Mambaok Rabah - Fauzana**

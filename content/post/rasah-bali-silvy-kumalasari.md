@@ -2,7 +2,7 @@
 title: "Rasah Bali - Silvy Kumalasari"
 date: 2025-02-11
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Rasah Bali yang dibawakan oleh Silvy Kumalasari.

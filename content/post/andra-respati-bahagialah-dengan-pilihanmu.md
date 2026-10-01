@@ -2,7 +2,7 @@
 title: "Andra Respati - Bahagialah Dengan Pilihanmu"
 date: 2025-10-03
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 Dalam pekatnya hati yang terluka Akulah canda Menggenggam tanganmu saat ku terjatuh Menyeka air matamu

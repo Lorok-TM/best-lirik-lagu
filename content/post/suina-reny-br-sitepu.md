@@ -2,7 +2,7 @@
 title: "Suina - Reny Br Sitepu"
 date: 2024-10-03
 categories: 
-  - "karo"
+  - "Karo"
 ---
 
 Kena si ngobah padan Aku nge si terbuang Kena si erban ulah Aku ma nangin si robah Aku ma nangin si robah

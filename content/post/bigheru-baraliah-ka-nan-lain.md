@@ -2,7 +2,7 @@
 title: "Bigheru - Baraliah Ka Nan Lain"
 date: 2026-01-15
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Sabalun cinto bamulo denai nan lah bakato Usah di jalin jikok ka samantaro Rila adiak tarimo sagalo kurangnyo Di badan diri denai ko

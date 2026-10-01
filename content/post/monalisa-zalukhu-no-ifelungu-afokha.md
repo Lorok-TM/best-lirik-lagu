@@ -2,7 +2,7 @@
 title: "Monalisa Zalukhu - No Ifelungu Afökha"
 date: 2025-05-15
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 No ölöwösi ba garate safusi No öhaogö ö azökhi No ifasui mani mani Sökhi wamaigi Öhaogö öfurui Ba lö oroma nösi Fefu oi tobini

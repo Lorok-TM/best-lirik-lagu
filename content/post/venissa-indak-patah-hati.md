@@ -2,7 +2,7 @@
 title: "Venissa - Indak Patah Hati"
 date: 2025-05-07
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Lupokan sajo tantang carito cinto Indak di mungkin ditaruihkan juoo Hubungan kitoo

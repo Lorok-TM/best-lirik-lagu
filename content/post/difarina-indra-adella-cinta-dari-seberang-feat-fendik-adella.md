@@ -2,7 +2,7 @@
 title: "Difarina Indra Adella - Cinta Dari Seberang feat. Fendik Adella"
 date: 2025-12-06
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Kupandang pandang adik dari seberang Cantik juga rupamu sungguh menawan Bolehkah abang bertanya Apa adik ada yang punya Jika belum kuingin nyatakan cinta

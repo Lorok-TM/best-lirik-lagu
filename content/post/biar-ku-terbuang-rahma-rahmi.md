@@ -2,7 +2,7 @@
 title: "Biar Ku Terbuang - Rahma Rahmi"
 date: 2026-07-19
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Pergilah kasih pergilah sayang Buatlah dirimu bahagia Tiada guna cinta dipaksa Hanya kan membuat kecewa

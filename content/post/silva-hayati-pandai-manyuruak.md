@@ -2,7 +2,7 @@
 title: "Silva Hayati - Pandai Manyuruak"
 date: 2023-01-06
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Lirik Lagu Minang dengan judul Pandai Manyuruak yang dinyanyikan oleh Silva Hayati dan diciptakan oleh Erwin Agam dengan irama musik Pop.

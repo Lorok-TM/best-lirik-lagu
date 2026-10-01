@@ -2,7 +2,7 @@
 title: "Harry Parintang - Jangan Lagi"
 date: 2025-08-18
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Jangan-jangan sayang Kau ucapkan lagi Kata-kata cinta Tak percaya lagi Sungguh tak percaya Aku padamu

@@ -2,7 +2,7 @@
 title: "Dimabuk Cinta - Ficky Tanjung Feat Ria Amelia"
 date: 2025-03-12
 categories: 
-  - "tapsel"
+  - "Tapsel"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Dimabuk Cinta yang dibawakan oleh Ficky Tanjung Ft Ria Amelia.

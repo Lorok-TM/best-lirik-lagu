@@ -2,7 +2,7 @@
 title: "Ali Gama feat. Febhy Febyola - Carito Mambuek Luko"
 date: 2025-11-04
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Buang lah jauah jauah denai diak sayang Buliah nak hilang bana dari pandangan Jan diungkik ungkik juo Carito mambuek luko

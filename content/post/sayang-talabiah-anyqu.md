@@ -2,7 +2,7 @@
 title: "Sayang Talabiah - Anyqu"
 date: 2025-02-09
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Sayang Talabiah yang dibawakan oleh Anyqu.

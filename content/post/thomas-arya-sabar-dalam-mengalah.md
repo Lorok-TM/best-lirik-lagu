@@ -2,7 +2,7 @@
 title: "Thomas Arya - Sabar Dalam Mengalah"
 date: 2025-10-05
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 Pandainya kau membuai hatiku Hingga terlelap perasaanku Kau sirami penuh dengan syair cinta Aku terpedaya

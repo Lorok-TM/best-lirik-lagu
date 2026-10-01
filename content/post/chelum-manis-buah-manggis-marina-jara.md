@@ -2,7 +2,7 @@
 title: "Chelum Manis Buah Manggis - Marina Jara"
 date: 2024-07-11
 categories: 
-  - "iban"
+  - "Iban"
 ---
 
 **Berikut lirik Chelum Manis Buah Manggis yang dinyanyikan oleh Marina Jara.**

@@ -2,7 +2,7 @@
 title: "Rheka Restu - Dirimu Satu Selamanya feat. Heriston"
 date: 2025-09-23
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Senangnya hatiku dalam mimpi Kini dah nyata di hari hariku Seandainya ku tak bersamamu Merananya jiwaku

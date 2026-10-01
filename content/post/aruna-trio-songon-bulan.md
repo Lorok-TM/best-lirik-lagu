@@ -2,7 +2,7 @@
 title: "Aruna Trio - Songon Bulan"
 date: 2025-09-28
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Hoo songon bulan maila tu mataniari Hoo songoni ma rohangki manjalang tangan mi Tung las rohangki jala tung mansai lambok panghilalaan Marbalos do hape holong na diroha

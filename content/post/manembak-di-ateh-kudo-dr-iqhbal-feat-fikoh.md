@@ -2,7 +2,7 @@
 title: "Manembak Di Ateh Kudo - Dr Iqhbal feat. Fikoh"
 date: 2024-07-04
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Bapandai pandai iduik di rantau Pasan rang tuo didangakan Jauah jalan banyak diliek Lamo hiduik banyak diraso Jan takuik tuhan manuntun jalan Jauah jalan banyak diliek Lamo hiduik banyak diraso Jan takuik tuhan manuntun jalan

@@ -2,7 +2,7 @@
 title: "Ibe Br Tarigan - Siap Saji"
 date: 2025-05-02
 categories: 
-  - "karo"
+  - "Karo"
 ---
 
 Kutami tami kam si ateku jadi Si gegehi kel nge encari Lagu langkahku si la kel mehuli Ku sasapken kel me gundari

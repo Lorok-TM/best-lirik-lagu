@@ -2,7 +2,7 @@
 title: "Yeni Inka - Kasmaran"
 date: 2025-04-23
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Yen arep crito karo sopo Yen ora crito kok tambah nelongso Oh soyo suwe kok ngene rasane Sedino dino kok ngatoni wae

@@ -2,7 +2,7 @@
 title: "Kasiah Habih Sayang Tak Hilang - Rayola feat. Anyqu, Cabiak"
 date: 2026-01-01
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Biduaklah tirih pandayuang patah Sansailah badan di amuak badai Biduaklah tirih pandayuang patah Sansailah badan di amuak badai

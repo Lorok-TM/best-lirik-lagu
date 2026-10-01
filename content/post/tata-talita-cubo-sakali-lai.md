@@ -2,7 +2,7 @@
 title: "Tata Talita - Cubo Sakali Lai"
 date: 2025-11-18
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 

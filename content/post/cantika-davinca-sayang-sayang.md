@@ -2,7 +2,7 @@
 title: "Cantika Davinca - Sayang Sayang"
 date: 2025-06-05
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Yen awan tansah kelingan Yen wengi kegowo ngimpi Sliramu ang ngeridu ati

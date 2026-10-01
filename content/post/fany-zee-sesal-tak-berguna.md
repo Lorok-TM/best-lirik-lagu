@@ -2,7 +2,7 @@
 title: "Fany Zee - Sesal Tak Berguna"
 date: 2023-02-22
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 Fany Zee bersama Padang Musik rilis single Melayu berjudul "Sesal Tak Berguna" yang diciptakan oleh Decky Ryan, menceritakan tentang seseorang yang menyesal karena telah menyia-nyiakan dan menyakiti hati kekasihnya, karena dia tak bisa menemukan kekasih baru yang sebaik sang mantan tersebut, kini ia ingin kembali namun sesalnya tak ada gunanya lagi karena kekasihnya sudah terlanjur sakit hati.

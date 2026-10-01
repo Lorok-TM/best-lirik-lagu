@@ -2,7 +2,7 @@
 title: "Silih Elingan - Adi Bewok"
 date: 2024-07-12
 categories: 
-  - "sunda"
+  - "Sunda"
 ---
 
 **Berikut lirik Silih Elingan yang dinyanyikan oleh Adi Bewok.**

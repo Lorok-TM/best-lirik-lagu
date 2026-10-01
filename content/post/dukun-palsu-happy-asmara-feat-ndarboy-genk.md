@@ -2,7 +2,7 @@
 title: "Dukun Palsu - Happy Asmara Feat Ndarboy Genk"
 date: 2026-09-26
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Lagi susah sitik playune ng mbah dukun golek penglaris dongo kleru seng disusun jarene nggo syarat jarene nggo tumbal padahal imanmu seng dadi ambruk lan gagal

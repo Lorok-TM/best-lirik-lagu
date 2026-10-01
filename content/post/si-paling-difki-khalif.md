@@ -2,7 +2,7 @@
 title: "Si Paling - Difki Khalif"
 date: 2025-04-19
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Si paling segalanya Malas berkaca tukang cerita Lomba putus asa Siapa orangnya Ya dia

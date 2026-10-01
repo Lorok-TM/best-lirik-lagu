@@ -2,7 +2,7 @@
 title: "Ngantos Waleran - Krishna Sagara"
 date: 2025-06-20
 categories: 
-  - "sunda"
+  - "Sunda"
 ---
 
 Cinta.. Kuring estu keur salira Moal rek udar sulaya Anu mawi geulis ulah rek cangcaya Cinta akang moal rek udar sulaya

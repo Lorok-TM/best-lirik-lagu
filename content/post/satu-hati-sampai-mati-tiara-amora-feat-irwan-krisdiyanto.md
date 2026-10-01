@@ -2,7 +2,7 @@
 title: "Satu Hati Sampai Mati - Tiara Amora Feat Irwan Krisdiyanto"
 date: 2026-07-17
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Walau menangis pilu hati ini Sayangku akan tetap abadi Sampai akhir masa kau kunanti Hanya kau yang aku sayangi

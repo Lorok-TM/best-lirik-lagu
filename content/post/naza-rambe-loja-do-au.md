@@ -2,7 +2,7 @@
 title: "Naza Rambe - Loja Do Au"
 date: 2026-09-05
 categories: 
-  - "tapsel"
+  - "Tapsel"
 ---
 
 Loja do au Loja do au mangomo tiop ari Aso adong balanjo ni Pasikolahon anakki

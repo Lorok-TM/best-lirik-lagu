@@ -2,7 +2,7 @@
 title: "Gambang Kiwo - Dike Sabrina"
 date: 2026-06-02
 categories: 
-  - "osing"
+  - "Osing"
 ---
 
 

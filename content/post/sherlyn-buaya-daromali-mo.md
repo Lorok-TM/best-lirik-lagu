@@ -2,7 +2,7 @@
 title: "Sherlyn Buaya - Daromali-Mő"
 date: 2025-12-17
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 Lö fa'abölö baero daromaliMö Zanuturu lalagu Enaö u'ila fefu mbua-mbuagu Faudu ba zomasi'ö

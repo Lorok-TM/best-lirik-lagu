@@ -2,7 +2,7 @@
 title: "Suniwati Halawa - Safutanga"
 date: 2025-05-25
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 Simane fofanomo lofaehu ira we'asomo Mo obe mowoi dawa horo Ba mbeweu no atulo Todou nofabo'o ga'a

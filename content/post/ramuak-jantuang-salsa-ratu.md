@@ -2,7 +2,7 @@
 title: "Ramuak Jantuang - Salsa Ratu"
 date: 2025-04-10
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Dilua lai den baok galak juo Padiah di batin sia lah nan tau Batahun manjalin cinto Lah sampai di ujuang janji Mangkonyo ungkai

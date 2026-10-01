@@ -2,7 +2,7 @@
 title: "Syahriyadi - Izin Bahagia"
 date: 2026-08-15
 categories: 
-  - "banjar"
+  - "Banjar"
 ---
 
 

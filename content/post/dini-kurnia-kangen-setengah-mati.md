@@ -2,7 +2,7 @@
 title: "Dini Kurnia - Kangen Setengah Mati"
 date: 2025-06-17
 categories: 
-  - "osing"
+  - "Osing"
 ---
 
 Kerlap kerlip lintang ono ring awang-awang Ngengetaken isun rikolo ambi riko Semilire angin ono ring wayah wengi Nambahi sepine ati hang magih dewekan

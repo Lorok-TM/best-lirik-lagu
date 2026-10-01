@@ -2,7 +2,7 @@
 title: "Juicy Luicy - Baik Hati"
 date: 2026-09-11
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Salah siapa kau dan aku Kini tak jadi satu Yang pasti bukan salahmu Satu dunia pun tahu

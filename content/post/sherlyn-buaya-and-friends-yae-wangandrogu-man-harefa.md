@@ -2,7 +2,7 @@
 title: "Sherlyn Buaya and Friends - Yae Wangandrögu (Man Harefa)"
 date: 2025-12-18
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 Yae wangandrőgu khőmő he yesu Tenga sinangea mőido khőu yesu Tebai na dali gamuatagu He yesu he yesu

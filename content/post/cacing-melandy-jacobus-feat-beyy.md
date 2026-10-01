@@ -2,7 +2,7 @@
 title: "Cacing - Melandy Jacobus Feat Beyy"
 date: 2025-03-30
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Cacing yang dibawakan oleh Melandy Jacobus Ft Beyy.

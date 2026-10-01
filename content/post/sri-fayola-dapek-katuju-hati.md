@@ -2,7 +2,7 @@
 title: "Sri Fayola - Dapek Katuju Hati"
 date: 2025-07-22
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Nan di cari alah basuo nan di nanti kini lah tibo.. Kakawan hiduik sasakik sanang Junjuangan diri salamonyo

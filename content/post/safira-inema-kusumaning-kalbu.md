@@ -2,7 +2,7 @@
 title: "Safira Inema - Kusumaning Kalbu"
 date: 2026-07-23
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 

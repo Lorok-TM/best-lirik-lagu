@@ -2,7 +2,7 @@
 title: "Denny Ano Rivers - Cinta Apa'"
 date: 2026-09-18
 categories: 
-  - "dayak"
+  - "Dayak"
 ---
 
 Nak ngahe apa' jarakng ka' rumah Ngahe apa' jarakng pulakng Buke' apa' na' sayang ka' kita Tapi apa' gi' bagago' rajaki

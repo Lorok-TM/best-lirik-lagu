@@ -2,7 +2,7 @@
 title: "Nona Melanesia - Juan Reza"
 date: 2025-06-03
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 Verse : Jujur sa paling suka suka Suka ade nona Yang dari Timur saja Kawan-kawan dong tanya tanya Memang ada apa Sampe sa suka dorang

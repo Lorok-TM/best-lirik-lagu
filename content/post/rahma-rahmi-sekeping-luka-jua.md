@@ -2,7 +2,7 @@
 title: "Rahma Rahmi - Sekeping Luka Jua"
 date: 2025-09-01
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Walau hanya sekeping luka jua Yang akhirnya aku dapatkan Setelah engkau jadi penggantinya Aku coba untuk bertahan

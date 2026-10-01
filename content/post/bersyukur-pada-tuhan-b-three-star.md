@@ -2,7 +2,7 @@
 title: "Bersyukur Pada Tuhan - B Three Star"
 date: 2025-02-11
 categories: 
-  - "rohani"
+  - "Rohani"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Bersyukur Pada Tuhan yang dibawakan oleh B Three Star.

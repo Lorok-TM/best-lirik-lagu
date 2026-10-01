@@ -2,7 +2,7 @@
 title: "Katana - Dinda Dania"
 date: 2025-04-18
 categories: 
-  - "malaysia"
+  - "Malaysia"
 ---
 
 Verse : Puas.. hati ku dah puas.. Dirimu tertumpas.. Dan aku terlepas..

@@ -2,8 +2,7 @@
 title: "Ilir 7 - Mengapa Tega"
 date: 2023-05-26
 categories: 
-  - "band"
-  - "indonesia"
+  - "Band"
 ---
 
 Lirik Lagu Band Indo dengan judul Mengapa Tega yang dinyanyikan oleh ILIR7 dan diciptakan oleh Vic Ilir7 dengan irama musik Pop.

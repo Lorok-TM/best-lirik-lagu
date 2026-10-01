@@ -2,7 +2,7 @@
 title: "Hanyalah Dirimu - Syahriyadi"
 date: 2025-04-13
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Malam yang sunyi ini Aku sendiri memikirkan kamu

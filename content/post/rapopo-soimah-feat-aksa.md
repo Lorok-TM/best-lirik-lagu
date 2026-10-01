@@ -2,7 +2,7 @@
 title: "Rapopo - Soimah Feat Aksa"
 date: 2025-02-16
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Rapopo yang dibawakan oleh Soimah Pancawati Feat Aksa Uyun Dananjaya.

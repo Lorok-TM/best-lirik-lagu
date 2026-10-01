@@ -2,7 +2,7 @@
 title: "Nia Daniaty - Hanya Aku Yang Bisa"
 date: 2025-08-26
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Tak mungkin ada yang menyayangimu Melebihi aku Walau pernah jelajahi lima benua Hanya aku yang bisa memahami mu

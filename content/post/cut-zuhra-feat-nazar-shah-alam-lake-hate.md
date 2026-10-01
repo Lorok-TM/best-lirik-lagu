@@ -2,7 +2,7 @@
 title: "Cut Zuhra feat Nazar Shah Alam - Lake Hate"
 date: 2023-06-10
 categories: 
-  - "aceh"
+  - "Aceh"
 ---
 
 Lirik Lagu Aceh dengan judul Lake Hate yang dinyanyikan oleh Cut Zuhra Ft. Nazar Shah Alam dan diciptakan oleh Nazar Shah Alam.

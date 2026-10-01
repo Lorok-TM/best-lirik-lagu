@@ -2,7 +2,7 @@
 title: "Linda Ayunda - Luka Disini"
 date: 2025-07-11
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Dulu pernah ada cinta Dulu pernah ada sayang Namun kini tiada lagi perasaan seperti dulu

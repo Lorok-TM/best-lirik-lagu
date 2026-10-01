@@ -2,7 +2,7 @@
 title: "Vita Katuy - Batisa Himang dan Artinya"
 date: 2021-08-24
 categories: 
-  - "dayak"
+  - "Dayak"
 ---
 
 **Lirik Batisa Himang - Vita Katuy**

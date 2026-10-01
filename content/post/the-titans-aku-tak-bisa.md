@@ -2,8 +2,7 @@
 title: "The Titans - Aku Tak Bisa"
 date: 2023-01-20
 categories: 
-  - "band"
-  - "indonesia"
+  - "Band"
 ---
 
 The Titans dibawah naungan label Wahana Production rilis single berjudul "Aku Tak Bisa", menceritakan tentang problematika pasangan yang toxic dalam menjalani hubungan satu sama lain.

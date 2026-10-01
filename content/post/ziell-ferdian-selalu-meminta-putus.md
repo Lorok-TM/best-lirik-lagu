@@ -2,7 +2,7 @@
 title: "Ziell Ferdian - Selalu Meminta Putus"
 date: 2023-05-25
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Lelah hati sungguh lelah Menghadapi semua keegoanmu Katakan sayang Jika kau tak lagi mencintaiku

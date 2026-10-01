@@ -2,7 +2,7 @@
 title: "Dabee - Nasib Urang Katigo"
 date: 2026-07-03
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 

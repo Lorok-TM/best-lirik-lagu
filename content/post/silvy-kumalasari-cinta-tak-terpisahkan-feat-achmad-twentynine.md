@@ -2,7 +2,7 @@
 title: "Silvy Kumalasari - Cinta Tak Terpisahkan Feat Achmad Twentynine"
 date: 2025-07-22
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Duh, Denok, gandholane ati Tegane nyulayani Janjimu sehidup-semati Amung ono ing lathi

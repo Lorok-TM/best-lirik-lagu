@@ -2,7 +2,7 @@
 title: "Ubur Ubur Ikan Lele - Rindy BOH"
 date: 2025-02-13
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Ubur Ubur Ikan Lele yang dibawakan oleh Rindy BOH.

@@ -2,7 +2,7 @@
 title: "Nahanson Trio - Pahompuku"
 date: 2026-09-05
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Tangis nauli nunga tarbege au Di bagas jabu taon Tanda holong ni Debata Pahompu na uli na jogi

@@ -2,7 +2,7 @@
 title: "Rayola Feat. Pinki Prananda - Takuik Taluko"
 date: 2025-05-09
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Jikoknyo uda sabana cinto Sabana sayang ka kadiri nanko Jan bajanji bajanji mungkia Denai takuik ka taluko

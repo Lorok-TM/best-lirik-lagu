@@ -2,7 +2,7 @@
 title: "Shinta Arsinta feat. Arya Galih - Wewayangan"
 date: 2025-11-02
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Wewayangan kang ngreridu Ra ilang soko pikiranku Wes tak lali lali Nyatane ora biso lali

@@ -2,7 +2,7 @@
 title: "Andra Respati - Wanita Paling Cantik feat. Gisma Wandira"
 date: 2025-08-25
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 Sebanyak ini wanita cantik Hanya dirimu yang paling cantik di dunia Tak akan ada yang menandingi dirimu Duhai sayangku

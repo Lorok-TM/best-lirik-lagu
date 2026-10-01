@@ -2,7 +2,7 @@
 title: "Natasya Sabella - Bosan Tanpa Alasan"
 date: 2025-12-12
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Dan pesan pesan perhatianmu Tak sesering dulu Kadang tiba kadang diam tak menentu Ajakan yang selalu ingin bertemu Tak lagi terdengar Tak ada lagi waktu Sungguh tak ku mengerti Apa yang telah terjadi Kau tak memberi pertanda tuk pergi

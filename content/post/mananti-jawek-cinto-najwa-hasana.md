@@ -2,7 +2,7 @@
 title: "Mananti Jawek Cinto - Najwa Hasana"
 date: 2025-04-05
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Indak nan disangajo kito nan batamu Indak disangko-sangko di hati lah tumbuah rindu Siang uda tabayang malam takana-kana Jikok nan dikatokan raso antah ka baa

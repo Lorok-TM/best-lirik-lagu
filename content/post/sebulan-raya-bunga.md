@@ -2,7 +2,7 @@
 title: "Sebulan Raya - Bunga"
 date: 2025-03-09
 categories: 
-  - "malaysia"
+  - "Malaysia"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Sebulan Raya yang dibawakan oleh Bunga.

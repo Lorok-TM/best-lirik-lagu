@@ -2,7 +2,7 @@
 title: "Trisna Shinta - Melias Metami"
 date: 2023-03-29
 categories: 
-  - "karo"
+  - "Karo"
 ---
 
 Lirik Lagu Karo dengan judul Melias Metami yang dinyanyikan oleh Trisna Shinta Br Keliat dan diciptakan oleh Ersada Sembiring dengan irama musik Remix.

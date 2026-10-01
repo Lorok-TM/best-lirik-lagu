@@ -2,8 +2,7 @@
 title: "Nella Kharisma - Roso Atiku"
 date: 2026-07-22
 categories: 
-  - "dangdut"
-  - "java"
+  - "Jawa"
 ---
 
 Elingo gek semono Aku ngucapake tresno Ora nyongko, ora ngiro Kowe nompo roso kulo

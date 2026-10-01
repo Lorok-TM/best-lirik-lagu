@@ -2,7 +2,7 @@
 title: "Berbunga Bunga Sendiri - Aruma"
 date: 2025-04-18
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Baru saja kita bertemu empat lima kali ku sudah ingin lebih dari ini masuk ke lingkaran terdekatmu sekian kali ku yakin kamu yang aku cari

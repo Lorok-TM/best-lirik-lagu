@@ -2,7 +2,7 @@
 title: "Ubad Tatu - Anton Yoga"
 date: 2024-10-03
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 Adi sayang sampunang adi sedih Yen adi inget tekening masa lalu Beli kal setata nyarengin ragan adi Lakar ngubadin tatu di hatin adi

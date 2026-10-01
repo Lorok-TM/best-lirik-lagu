@@ -2,7 +2,7 @@
 title: "Silvy Kumalasari - Tangis Tanpa Air Mata"
 date: 2025-06-08
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Kekasih dimanakah engkau berada Disini ku menunggu kehadiranmu Rindu menyayat hati tak terobati Hasrat ingin bertemu dengan dirimu

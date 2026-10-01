@@ -2,7 +2,7 @@
 title: "Ecko Show - Kase Gol"
 date: 2026-06-14
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 

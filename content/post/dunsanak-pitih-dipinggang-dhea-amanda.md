@@ -2,7 +2,7 @@
 title: "Dunsanak Pitih Dipinggang - Dhea Amanda"
 date: 2025-02-10
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Bansaik badan tangguang tangguang lah surang Indak ado kini urang nan sayang

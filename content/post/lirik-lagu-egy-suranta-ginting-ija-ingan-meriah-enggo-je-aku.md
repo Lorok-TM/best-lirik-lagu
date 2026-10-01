@@ -2,7 +2,7 @@
 title: "Egy Suranta Ginting - Ija Ingan Meriah Enggo Je Aku"
 date: 2021-09-12
 categories: 
-  - "karo"
+  - "Karo"
 ---
 
 **Lirik Ija Ingan Meriah Enggo Je Aku - Egy Suranta Ginting**

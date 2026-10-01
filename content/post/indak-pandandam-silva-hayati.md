@@ -2,7 +2,7 @@
 title: "Indak Pandandam - Silva Hayati"
 date: 2024-05-31
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 **Lirik Indak Pandandam - Silva Hayati**

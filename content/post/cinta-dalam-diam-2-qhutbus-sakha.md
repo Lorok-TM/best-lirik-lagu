@@ -2,7 +2,7 @@
 title: "Cinta Dalam Diam 2 - Qhutbus Sakha"
 date: 2026-07-10
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 

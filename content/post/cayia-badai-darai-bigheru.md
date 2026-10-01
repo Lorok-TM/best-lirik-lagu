@@ -2,7 +2,7 @@
 title: "Cayia Badai Darai - Bigheru"
 date: 2025-02-14
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Cayia Badai Darai yang dibawakan oleh Bigheru.

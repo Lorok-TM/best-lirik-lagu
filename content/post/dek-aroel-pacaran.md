@@ -2,7 +2,7 @@
 title: "Dek Aroel - Pacaran"
 date: 2025-08-31
 categories: 
-  - "aceh"
+  - "Aceh"
 ---
 
 Pacaran meuleungkop leungkop O’h putoeh ka di cok le gop Peugah cinta meusalop salop O’h kawen ka ngoen gop

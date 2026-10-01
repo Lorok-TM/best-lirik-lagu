@@ -2,7 +2,7 @@
 title: "Nissa Sabyan - Kekasih Impian feat Natta Reza"
 date: 2021-12-04
 categories: 
-  - "religi"
+  - "Religi"
 ---
 
 **Lirik Kekasih Impian - Nissa Sabyan X Natta Reza**

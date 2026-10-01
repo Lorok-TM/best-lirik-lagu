@@ -2,7 +2,7 @@
 title: "Natasya - Sarugo Di Bawah Talapak Kaki Mandeh"
 date: 2025-04-29
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Verse : Kasiah mandeh.. sapanjang jalan Nan tiado bateh nyo.. Untuak ka anak kanduang.. Harok nyo mandeh manjadi anak babudi.. Sanangkan mandeh baiak dunia akhiraik..

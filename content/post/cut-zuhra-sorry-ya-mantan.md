@@ -2,7 +2,7 @@
 title: "Cut Zuhra - Sorry Ya Mantan"
 date: 2023-05-18
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Lirik Lagu Indo dengan judul Sorry Ya Mantan yang dinyanyikan oleh Cut Zuhra dan diciptakan oleh Nurhayati dengan irama musik Remix.

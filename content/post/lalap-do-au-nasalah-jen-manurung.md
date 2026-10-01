@@ -2,7 +2,7 @@
 title: "Lalap Do Au Nasalah - Jen Manurung"
 date: 2025-04-11
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Dang na so hea diriku makhaholongi ho Songon napinangidomi sian au Dang na so hea dirikon hasian Targila gila tu ho

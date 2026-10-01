@@ -2,7 +2,7 @@
 title: "Ayu Dewi Elmighwar - Welcome Romadhon"
 date: 2023-03-21
 categories: 
-  - "religi"
+  - "Religi"
 ---
 
 Lirik Lagu Religi dengan judul Welcome Romadhon yang dinyanyikan oleh Ayu Dewi Elmighwar dengan irama musik Pop.

@@ -2,7 +2,7 @@
 title: "Cut Rani Auliza - Cinta Luar Biasa feat. Frans Ariesta"
 date: 2025-10-10
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Jangan engkau ragukan Cinta yang aku punya Selam ini ku sayang tanpa ragu di dada Yang ku harap engkaupun demikian

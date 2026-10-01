@@ -2,7 +2,7 @@
 title: "Pettu Cappa’na (Tabbage Atimmu 2) - Ayu Lestari"
 date: 2025-04-18
 categories: 
-  - "bugis"
+  - "Bugis"
 ---
 
 Verse : Purani.. mubage.. Atimmu.. rialena.. Agapi.. muwala.. Taggiling.. rialeku..

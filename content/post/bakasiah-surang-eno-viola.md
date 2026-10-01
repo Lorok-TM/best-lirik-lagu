@@ -2,7 +2,7 @@
 title: "Bakasiah Surang - Eno Viola"
 date: 2026-07-02
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 

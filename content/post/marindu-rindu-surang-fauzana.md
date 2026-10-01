@@ -2,7 +2,7 @@
 title: "Marindu Rindu Surang - Fauzana"
 date: 2025-06-13
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Alah dentutuik Mato Jo talingo Dalam mimpi uda datang marupo Sakik Bana marindu Sakik Bana ba angan Ulah cinto indak tasampaikan… 2x

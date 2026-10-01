@@ -2,7 +2,7 @@
 title: "Mutia Mila (Cimuik) - Hari Hari Cinto"
 date: 2025-09-30
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Hari hari cinto nan denai lalui Ka manambah luko manusuak dihati Bak cando sambil malukoi kulik Ndak kama mangadu dek manahan sakik

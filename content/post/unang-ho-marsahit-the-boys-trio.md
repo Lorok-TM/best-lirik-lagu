@@ -2,7 +2,7 @@
 title: "Unang Ho Marsahit - The Boys Trio"
 date: 2024-08-08
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Unang sai holan na muruk Sai cemburu ho tu au Molo sai muruk tibu ma ho matua Ido mambaen gabe moru haulionmi

@@ -2,7 +2,7 @@
 title: "Jando Kayo - Misramolai"
 date: 2025-04-18
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Banyak tajadi di zaman kini Nan bujang babini jando Itu namonyo nan kandak hati Bia jando asa kayo

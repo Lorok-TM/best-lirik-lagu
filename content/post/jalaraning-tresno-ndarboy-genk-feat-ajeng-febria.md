@@ -2,7 +2,7 @@
 title: "Jalaraning Tresno - Ndarboy Genk feat. Ajeng Febria"
 date: 2026-07-14
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 

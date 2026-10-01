@@ -2,7 +2,7 @@
 title: "Tri Suaka - Jan Sampai Manaruah Dandam feat. Gisella & Nuniq"
 date: 2025-07-31
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Mangko denai pai majauah Untuang taubek ibo hati Lidah tuan tajam mambunuah Kok siko juo amuah den mati Lidah tuan tajam mambunuah Kok siko juo amuah den mati

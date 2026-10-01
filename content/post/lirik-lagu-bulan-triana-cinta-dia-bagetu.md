@@ -2,7 +2,7 @@
 title: "Bulan Triana - Cinta Dia Bagetu dan Artinya"
 date: 2021-12-28
 categories: 
-  - "dayak"
+  - "Dayak"
 ---
 
 Title : Cinta Dia Bagetu Artist : Bulan Triana Songwriter : Andrey MS Category : Lagu Dayak Ngaju Kalteng

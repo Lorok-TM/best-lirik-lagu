@@ -2,7 +2,7 @@
 title: "Bajanji Arek - Eja SM Feat Dayu Koto"
 date: 2025-04-08
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Chorus : Bajalan baduo babimbiang Duo hati kini lah sairiang.. Bajanji indak ka bapisah Satukan cinto kito basumpah..

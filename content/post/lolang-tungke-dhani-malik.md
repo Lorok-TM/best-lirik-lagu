@@ -2,7 +2,7 @@
 title: "Lolang Tungke - Dhani Malik"
 date: 2025-02-10
 categories: 
-  - "bugis"
+  - "Bugis"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Lolang Tungke yang dibawakan oleh Dhani Malik.

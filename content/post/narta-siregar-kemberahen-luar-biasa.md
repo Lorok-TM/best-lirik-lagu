@@ -2,7 +2,7 @@
 title: "Narta Siregar - Kemberahen Luar Biasa"
 date: 2022-04-16
 categories: 
-  - "karo"
+  - "Karo"
 ---
 
 ## Lirik Lagu Karo “Kemberahen Luar Biasa” by Narta Siregar

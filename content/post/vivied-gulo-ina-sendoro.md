@@ -2,7 +2,7 @@
 title: "Vivied Gulo - Ina Sendoro"
 date: 2025-05-04
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 Na'u faigi na'u fakhölö Uwai so nina sondorogö Niha samaigi namofökhö Same'e ba mbawa idanö

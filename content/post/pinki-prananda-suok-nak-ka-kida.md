@@ -2,7 +2,7 @@
 title: "Pinki Prananda - Suok Nak Ka Kida"
 date: 2025-09-16
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Alah muak bana Ndeh ndeh ondeh diak Alah habih aka Pado makan hati Bia bialah sayang tak sudah

@@ -2,7 +2,7 @@
 title: "Kesungguhan - Erie Suzan"
 date: 2026-07-27
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Jangan pernah kau berfikir Aku sering berlebihan Aku hanya melakukan Apa yang aku rasakan Jangan pula kau katakan Tanpamu ku tak bertahan Yang kulakukan sebuah ketulusan Mencintaimu dengan kesungguhan

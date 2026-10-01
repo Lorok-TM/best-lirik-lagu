@@ -2,7 +2,7 @@
 title: "Sherly KDI Adella - Kesepian"
 date: 2025-06-08
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Kucoba lupakan dirinya Dan juga bayangannya Tapi aku tak mampu

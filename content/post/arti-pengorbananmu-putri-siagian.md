@@ -2,7 +2,7 @@
 title: "Arti PengorbananMu - Putri Siagian"
 date: 2025-04-15
 categories: 
-  - "rohani"
+  - "Rohani"
 ---
 
 Kusadari pengorbananMu Yang tersalib di bukit Kalvari Menjadi Bukti kasihmu Untuk selamatkan dunia

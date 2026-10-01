@@ -2,7 +2,7 @@
 title: "Bocah Cilik Cilik - Niken Salindry"
 date: 2025-03-04
 categories: 
-  - "religi"
+  - "Religi"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Bocah Cilik Cilik yang dibawakan oleh Niken Salindry.

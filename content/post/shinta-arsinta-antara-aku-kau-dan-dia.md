@@ -2,7 +2,7 @@
 title: "Shinta Arsinta - Antara Aku Kau Dan Dia"
 date: 2025-11-02
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Relakan aku memilih dia Sahabat karibmu yang dulu ke rumahku Mengantar surat undangan darimu

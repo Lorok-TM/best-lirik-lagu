@@ -2,7 +2,7 @@
 title: "Engkaulah Nyawaku - BianGindas"
 date: 2026-07-17
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Engkaulah nyawaku Engkaulah jiwaku Engkau naluriku Engkaulah hatiku Tanpa kalian ku takkan Bisa berdiri Tanpa doamu pun juga Tak seperti ini

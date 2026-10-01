@@ -2,7 +2,7 @@
 title: "Dini Kurnia - Bohoso Moto"
 date: 2025-06-02
 categories: 
-  - "osing"
+  - "Osing"
 ---
 
 Nong moto biso isun woco Paran hang riko karepno Nong ati biso sun rungoni Sopo hang riko pikiri Mung isun hang riko angen Mung isun hang riko arep

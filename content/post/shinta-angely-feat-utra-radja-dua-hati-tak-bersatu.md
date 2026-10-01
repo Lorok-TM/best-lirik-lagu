@@ -2,7 +2,7 @@
 title: "Shinta Angely feat. Utra Radja - Dua Hati Tak Bersatu"
 date: 2025-11-09
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 Dulu kau ucap kata setia Kini kau hilang bersama dusta Terbuai aku oleh rayumu Di saat hatiku kau menjauh

@@ -2,7 +2,7 @@
 title: "Anggrek - Sasalan Tibo Dek Ulah Luko"
 date: 2022-11-17
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Anggrek bersama SKY Musik rilis single dengan lirik dalam bahasa Minangkabau berjudul "Sasalan Tibo Dek Ulah Luko" yang diciptakan oleh Ajhay Pasma, menceritakan tentang seseorang yang menyesali perbuatanya karena telah menyakiti hati kekasihnya.

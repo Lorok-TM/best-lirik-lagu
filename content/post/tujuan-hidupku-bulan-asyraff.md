@@ -2,7 +2,7 @@
 title: "Tujuan Hidupku - Bulan Asyraff"
 date: 2025-04-12
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Engkau telah menggenggam hati Hanya dirimu yang kucari Sumpah aku tak akan berbagi Dirimu slalu tetap di hati

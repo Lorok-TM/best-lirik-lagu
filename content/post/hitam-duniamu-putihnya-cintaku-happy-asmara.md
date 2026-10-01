@@ -2,7 +2,7 @@
 title: "Hitam Duniamu Putihnya Cintaku - Happy Asmara"
 date: 2026-07-21
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Di ujung utara yang berlumur dosa Ku datang mengharap sisa-sisa cinta Aku tak peduli walau apa yang terjadi Hitam duniamu, putihnya cintaku, kasih

@@ -2,8 +2,7 @@
 title: "Fida AP X James AP - Ora Iso Move On dan Artinya"
 date: 2023-03-18
 categories: 
-  - "dangdut"
-  - "java"
+  - "Jawa"
 ---
 
 Fida AP & James AP rilis single dengan lirik dalam bahasa Jawa berjudul "Ora Iso Move On" yang artinya "Gak Bisa Move On atau Tidak Bisa Pindah Ke Lain Hati", untuk mengetahui maknanya silahkan Anda baca terjemahan lirik lagunya berada dibawah.

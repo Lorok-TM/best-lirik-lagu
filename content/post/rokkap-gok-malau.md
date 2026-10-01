@@ -2,7 +2,7 @@
 title: "Rokkap - Gok Malau"
 date: 2025-02-14
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Rokkap yang dibawakan oleh Gok Malau.

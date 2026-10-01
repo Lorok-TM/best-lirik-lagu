@@ -2,7 +2,7 @@
 title: "Cangguang - Rayola"
 date: 2024-08-26
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Cangguang di ujuang jalan Labuah panantian lah basimpang duo Arek bimbiangan tangan Rapek pasandiangan bapisah jadinyo

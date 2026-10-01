@@ -2,7 +2,7 @@
 title: "Aroma Cinta - Thomas Arya"
 date: 2025-06-23
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 Semampunya aku Kan bertahan denganmu Dan sekuatnya aku Menerima kekuranganmu

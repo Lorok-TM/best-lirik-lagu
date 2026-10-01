@@ -2,7 +2,7 @@
 title: "Wita Sofi - Pandang Partamo"
 date: 2025-09-13
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Dek ulah pandang partamo Bagarah manjadi cinto Taraso lai takato tido Galak nan manih uda denai tadayo Galak nan manih uda denai tadayo

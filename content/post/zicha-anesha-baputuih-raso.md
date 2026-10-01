@@ -2,7 +2,7 @@
 title: "Zicha Anesha - Baputuih Raso"
 date: 2026-01-19
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 

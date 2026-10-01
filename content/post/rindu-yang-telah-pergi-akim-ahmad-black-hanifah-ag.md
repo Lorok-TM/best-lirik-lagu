@@ -2,7 +2,7 @@
 title: "Rindu Yang Telah Pergi - Akim Ahmad, Black Hanifah & AG"
 date: 2025-04-25
 categories: 
-  - "malaysia"
+  - "Malaysia"
 ---
 
 Verse : Sekali lagi ku.. Terdengar suara takbir.. Terasa menyelubungi.. Bila ku sendiri..

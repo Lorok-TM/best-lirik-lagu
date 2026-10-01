@@ -2,7 +2,7 @@
 title: "Denai Urang Katigo - Pinki Prananda"
 date: 2024-08-18
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Garah manjadi cinto Kini baujuang aie mato Ulah pandang partamo Lupo hati manimbang raso Ramuak radan tuhanlah nan tau Cinto bakasiah pamenan urang

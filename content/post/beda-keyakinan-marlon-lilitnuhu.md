@@ -2,7 +2,7 @@
 title: "Beda Keyakinan - Marlon Lilitnuhu"
 date: 2025-03-23
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Beda Keyakinan yang dibawakan oleh Marlon Lilitnuhu.

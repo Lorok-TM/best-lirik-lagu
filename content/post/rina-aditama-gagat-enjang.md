@@ -2,7 +2,7 @@
 title: "Rina Aditama - Gagat Enjang"
 date: 2022-09-16
 categories: 
-  - "campursari"
+  - "Campursari"
 ---
 
 ## Lirik Lagu ”Gagat Enjang“ by Rina Aditama

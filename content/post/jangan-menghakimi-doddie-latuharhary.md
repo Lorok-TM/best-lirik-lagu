@@ -2,7 +2,7 @@
 title: "Jangan Menghakimi - Doddie Latuharhary"
 date: 2025-04-16
 categories: 
-  - "rohani"
+  - "Rohani"
 ---
 
 Siapa bilang Hidup kami tak berarti Mungkin ada yang benci Cuma Tuhan Tuhan sajalah yang tahu Kehidupan kami ini

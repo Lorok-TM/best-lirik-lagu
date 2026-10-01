@@ -2,7 +2,7 @@
 title: "Suka Ka' Kao - Syentia Feat. Nella"
 date: 2024-06-06
 categories: 
-  - "dayak"
+  - "Dayak"
 ---
 
 **Lirik Suka Ka' Kao - Syentia Feat Nella**

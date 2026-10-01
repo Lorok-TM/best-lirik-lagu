@@ -2,8 +2,7 @@
 title: "Esa Risty - Sang Guru Sejati"
 date: 2026-07-18
 categories: 
-  - "dangdut"
-  - "java"
+  - "Jawa"
 ---
 
 Duh Gusti kang murbeng dumadi Paringono pangayoman dateng kulo

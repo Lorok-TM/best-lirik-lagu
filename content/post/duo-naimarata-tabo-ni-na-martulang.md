@@ -2,7 +2,7 @@
 title: "Duo Naimarata - Tabo Ni Na Martulang"
 date: 2023-06-16
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Lirik Lagu Batak dengan judul Tabo Ni Na Martulang yang dinyanyikan oleh Duo Naimarata dan diciptakan oleh Soritua Manurung dengan irama musik Pop.

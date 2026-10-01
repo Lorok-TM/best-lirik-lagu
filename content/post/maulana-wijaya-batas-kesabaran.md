@@ -2,7 +2,7 @@
 title: "Maulana Wijaya - Batas Kesabaran"
 date: 2025-12-15
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Hilang sudah akal sehatku Mencintai dirimu yang tak pernah jujur

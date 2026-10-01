@@ -2,7 +2,7 @@
 title: "Dermawan Zebua - He Ha Bawangifi"
 date: 2025-11-21
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 He bawa õfa'ema wangowaigu khõnia Lõ turia ba lõ u'ila he banua so'ia U alui no utõrõi danõ miyõu miraya Lõ oroma no tobini ba lumõ geu soya

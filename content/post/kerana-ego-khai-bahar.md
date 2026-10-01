@@ -2,7 +2,7 @@
 title: "Kerana Ego - Khai Bahar"
 date: 2024-12-31
 categories: 
-  - "malaysia"
+  - "Malaysia"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Kerana Ego yang dibawakan oleh Khai Bahar.

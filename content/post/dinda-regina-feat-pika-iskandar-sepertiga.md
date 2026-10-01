@@ -2,7 +2,7 @@
 title: "Dinda Regina Feat Pika Iskandar - Sepertiga"
 date: 2025-05-11
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Kumerindu semakin tajam Bagai anak panah menghujam Mengapa cinta semakin dalam Dalam

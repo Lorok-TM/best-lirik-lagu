@@ -2,7 +2,7 @@
 title: "Hancurnya Hati Ini - Arief"
 date: 2025-01-03
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Hancurnya Hati Ini yang dibawakan oleh Arief.

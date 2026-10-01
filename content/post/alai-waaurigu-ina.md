@@ -2,7 +2,7 @@
 title: "Havino S Duha - Alai Wa'aurigu Ina"
 date: 2026-06-20
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 Alai wa'aurigu ina saekhu balala wa anumana Sekolagu aekhu lölua-lua Ohitö dödögu lö usönda

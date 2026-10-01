@@ -2,7 +2,7 @@
 title: "Farro Simamora feat Yenti Morta - Pasonang Roha"
 date: 2023-04-14
 categories: 
-  - "tapsel"
+  - "Tapsel"
 ---
 
 Lirik Lagu Tapsel dengan judul Pasonang Roha yang dinyanyikan oleh Farro Simamora Ft. Yenti Morta dan diciptakan oleh Top Simamora dengan irama musik Pop.

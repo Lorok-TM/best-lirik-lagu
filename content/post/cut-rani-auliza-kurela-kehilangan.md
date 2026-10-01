@@ -2,7 +2,7 @@
 title: "Cut Rani Auliza - Kurela Kehilangan"
 date: 2023-04-26
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Lirik Lagu Melayu dengan judul Ku Rela Kehilangan yang dinyanyikan oleh Cut Rani Auliza dan diciptakan oleh Erwin Agam dengan irama musik Pop.

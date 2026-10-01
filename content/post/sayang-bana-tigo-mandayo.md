@@ -2,7 +2,7 @@
 title: "Sayang Bana - Tigo Mandayo"
 date: 2025-04-08
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Sayang bana, da, sayang bana, da Diri denai ka uda Cinto bana, da, cinto bana, da Denai indak bagarah

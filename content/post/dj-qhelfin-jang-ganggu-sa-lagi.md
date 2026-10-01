@@ -2,7 +2,7 @@
 title: "Dj Qhelfin - Jang Ganggu Sa Lagi"
 date: 2023-04-16
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 Lirik Lagu Timur dengan judul Jang Ganggu Sa Lagi yang dinyanyikan dan diciptakan oleh Dj Qhelfin.

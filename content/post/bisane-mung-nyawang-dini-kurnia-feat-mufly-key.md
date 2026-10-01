@@ -2,7 +2,7 @@
 title: "Bisane Mung Nyawang - Dini Kurnia Feat Mufly Key"
 date: 2025-02-23
 categories: 
-  - "osing"
+  - "Osing"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Bisane Mung Nyawang yang dibawakan oleh Dini Kurnia Ft Mufly Key.

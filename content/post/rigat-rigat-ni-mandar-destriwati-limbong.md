@@ -2,7 +2,7 @@
 title: "Rigat Rigat Ni Mandar - Destriwati Limbong"
 date: 2025-03-12
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Rigat Rigat Nimandar yang dibawakan oleh Destri Wati Limbong.

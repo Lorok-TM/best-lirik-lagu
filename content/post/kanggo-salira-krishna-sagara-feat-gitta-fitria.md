@@ -2,7 +2,7 @@
 title: "Kanggo Salira - Krishna Sagara Feat Gitta Fitria"
 date: 2024-10-05
 categories: 
-  - "sunda"
+  - "Sunda"
 ---
 
 Sorot socana Kagambar rasa cintana Mun pareung paduduaan Hate bungah bagja pisan

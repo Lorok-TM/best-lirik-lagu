@@ -2,7 +2,7 @@
 title: "Jatun Hong Nupi Kampa - Wiwi Widya / Lan Tejul"
 date: 2024-07-15
 categories: 
-  - "dayak"
+  - "Dayak"
 ---
 
 **Berikut lirik Jatun Hong Nupi Kampa yang dinyanyikan oleh Wiwi Widya dan diciptakan oleh Lan Tejul.**

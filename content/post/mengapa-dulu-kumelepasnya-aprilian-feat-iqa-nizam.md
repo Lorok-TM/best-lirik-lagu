@@ -2,7 +2,7 @@
 title: "Mengapa Dulu Kumelepasnya - Aprilian Feat. Iqa Nizam"
 date: 2024-08-27
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Ku turuti langkah ini Kemana ku harus mencari Sekuntum bunga yang indah Yang dulu pernah mekar dihati

@@ -2,7 +2,7 @@
 title: "Pulanglah Ayah - Dhot Design"
 date: 2024-12-08
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Pulanglah Ayah yang dibawakan oleh Dhot Design.

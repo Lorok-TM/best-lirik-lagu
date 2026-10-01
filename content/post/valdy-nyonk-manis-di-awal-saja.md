@@ -2,7 +2,7 @@
 title: "Valdy Nyonk - Manis Di Awal Saja"
 date: 2025-05-02
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Manis di awal saja Namun pahit di ujung cerita Pengorbananku Hanyalah sia sia

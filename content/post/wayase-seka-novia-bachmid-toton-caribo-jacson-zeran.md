@@ -2,7 +2,7 @@
 title: "Wayase Seka - Novia Bachmid, Toton Caribo, Jacson Zeran"
 date: 2026-09-04
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 Su jauh ale Gunung deng tanjong ta pele Hati ini rindu bale Kumpul basudara rame

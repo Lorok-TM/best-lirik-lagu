@@ -2,7 +2,7 @@
 title: "Cincin Perak - Rosa Armenia Feat Anggi Rayns"
 date: 2025-02-13
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Cincin Perak yang dibawakan oleh Rosa Armenia Ft Anggi Rayns.

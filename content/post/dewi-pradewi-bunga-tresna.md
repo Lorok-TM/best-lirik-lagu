@@ -2,7 +2,7 @@
 title: "Dewi Pradewi - Bunga Tresna dan Artinya"
 date: 2019-11-03
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 Title : Bunga Tresna Artist : Dewi Pradewi Songwriter : Mang Gita Category : Lagu Bali

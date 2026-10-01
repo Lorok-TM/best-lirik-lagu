@@ -2,7 +2,7 @@
 title: "Decky Ryan feat Thomas Arya - Kita Terpaksa Bermusuhan"
 date: 2023-02-23
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 Lirik Lagu Melayu dengan judul Kita Terpaksa Bermusuhan yang dinyanyikan oleh Decky Ryan Ft. Thomas Arya dan diciptakan oleh Saari Amri dengan irama musik Slow Rock Acoustic.

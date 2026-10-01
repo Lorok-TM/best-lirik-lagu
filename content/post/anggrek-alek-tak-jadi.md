@@ -2,7 +2,7 @@
 title: "Anggrek - Alek Tak Jadi"
 date: 2022-11-29
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Lirik Lagu Minang dengan judul Alek Tak Jadi yang dinyanyikan oleh Anggrek dan diciptakan oleh Rozac Tanjung dengan irama musik Pop.

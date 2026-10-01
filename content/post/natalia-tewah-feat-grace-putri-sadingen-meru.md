@@ -2,7 +2,7 @@
 title: "Natalia Tewah Feat Grace Putri - Sadingen Meru"
 date: 2025-05-02
 categories: 
-  - "dayak"
+  - "Dayak"
 ---
 
 Katawang ku huang ateimu pehe Ture sikap ku sadingen meru Seakan ikau dia ku manggite Padu arep ku dia maku tahu tahu

@@ -2,7 +2,7 @@
 title: "Cinta Dan Air Mata - Diva Hani"
 date: 2024-12-29
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Cinta Dan Air Mata yang dibawakan oleh Diva Hani.

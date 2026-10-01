@@ -2,7 +2,7 @@
 title: "Ziell Ferdian - Hubungan Terlarang"
 date: 2025-11-09
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Andaikan aku bisa Memilikimu sepenuhnya Membahagiakanmu dan menyayangimu Akan ku jaga setia selamanya

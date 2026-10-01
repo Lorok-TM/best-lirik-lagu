@@ -2,7 +2,7 @@
 title: "Kok Panuah Dululah Pai - Dedek Intan"
 date: 2026-07-31
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Karya musik "Kok Panuah Dululah Pai" yang dibawakan oleh Dedek Intan dan diciptakan oleh Erwin Agam membawa narasi emosional khas pop Minang mengenai kerelaan hati dan harga diri dalam hubungan yang pincang. Secara filosofis, judul yang berarti "jika sudah penuh (terisi/jenuh), pergilah terlebih dahulu" merefleksikan batas toleransi seseorang ketika keberadaannya tidak lagi dihargai atau ketika komitmen pasangan telah beralih kepada pihak lain. Latar belakang cerita lagu ini menyoroti konflik batin individu yang memilih mundur secara bermartabat daripada bertahan dalam ketidakpastian cinta yang sepihak. Melalui metafora kejenuhan tersebut, lagu ini tidak sekadar mengeksplorasi kesedihan akibat patah hati, melainkan sebuah pernyataan sikap yang tegas mengenai pentingnya menjaga kehormatan diri di atas penderitaan asmara.

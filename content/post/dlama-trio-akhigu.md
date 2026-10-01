@@ -2,7 +2,7 @@
 title: "D'Lama Trio - Akhigu (Yurisman Laoli)"
 date: 2025-10-24
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 Akhigu ni'omasi'ögu Hana löba dödöu liu sinumalö Hiza na'itörö tödögu Wefaoda ba zino numalö Lö nilaugu safökhö

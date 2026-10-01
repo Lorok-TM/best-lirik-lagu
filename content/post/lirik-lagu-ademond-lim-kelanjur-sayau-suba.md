@@ -2,7 +2,7 @@
 title: "Ademond Lim - Kelanjur Sayau Suba"
 date: 2021-09-27
 categories: 
-  - "iban"
+  - "Iban"
 ---
 
 ## Lirik Lagu Iban ”Kelanjur Sayau Suba“ by Ademond Lim

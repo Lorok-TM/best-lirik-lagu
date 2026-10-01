@@ -2,7 +2,7 @@
 title: "SKA 86 - Aku Lan Kamu Nduwe History dan Artinya"
 date: 2023-05-01
 categories: 
-  - "java"
+  - "Jawa"
   - "reggae"
 ---
 

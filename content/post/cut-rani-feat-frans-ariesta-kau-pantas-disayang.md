@@ -2,7 +2,7 @@
 title: "Cut Rani feat. Frans Ariesta - Kau Pantas Disayang"
 date: 2026-01-29
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Sejak mata bertemu mata Hati di dalam berdebar kencang Apakah ini tanda aku Telah jatuh cinta kepadamu

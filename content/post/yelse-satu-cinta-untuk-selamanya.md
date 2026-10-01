@@ -2,7 +2,7 @@
 title: "Yelse - Satu Cinta Untuk Selamanya"
 date: 2023-01-24
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Yelse rilis single Melayu berjudul "Satu Cinta Untuk Selamanya" yang diciptakan oleh Mansyah Saragih, menceritakan tentang kesetiaan seseorang pada kekasihnya yang akan selalu setia selamanya.

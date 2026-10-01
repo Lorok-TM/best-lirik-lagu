@@ -2,7 +2,7 @@
 title: "Woro Widowati - Kere Munggah Bale"
 date: 2022-09-16
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 ## Lirik Lagu ”Kere Munggah Bale“ by Woro Widowati

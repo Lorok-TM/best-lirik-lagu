@@ -2,7 +2,7 @@
 title: "Sheryl Sheinafia - Sendiri"
 date: 2026-09-06
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Layaknya musim Yang terus berganti Urusan nanti Yang belum terjadi

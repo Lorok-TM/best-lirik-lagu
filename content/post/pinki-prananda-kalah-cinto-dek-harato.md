@@ -2,7 +2,7 @@
 title: "Pinki Prananda - Kalah Cinto Dek Harato"
 date: 2025-07-11
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Raso bak raso lai ka sampai Disambuang juo ujuang pinggalan Sayuik sajangka jo a diuleh Kayu lapuak indak dapek batenggang 2x

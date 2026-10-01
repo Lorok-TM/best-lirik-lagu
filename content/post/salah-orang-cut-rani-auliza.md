@@ -2,7 +2,7 @@
 title: "Salah Orang - Cut Rani Auliza"
 date: 2025-02-13
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Salah Orang yang dibawakan oleh Cut Rani Auliza.

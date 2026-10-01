@@ -2,7 +2,7 @@
 title: "Buah Pasir - Ficky Tanjung feat Yetni Annika"
 date: 2026-07-23
 categories: 
-  - "tapsel"
+  - "Tapsel"
 ---
 
 Hu bandingkon ho tu bulan Degesan dope ho Hu bandingkon ho tu bunga Uskusan dope ho

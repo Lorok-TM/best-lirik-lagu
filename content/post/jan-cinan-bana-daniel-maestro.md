@@ -2,7 +2,7 @@
 title: "Jan Cinan Bana - Daniel Maestro"
 date: 2025-01-07
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Jan Cinan Bana yang dibawakan oleh Daniel Maestro.

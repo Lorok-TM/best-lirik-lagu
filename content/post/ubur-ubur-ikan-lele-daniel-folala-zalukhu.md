@@ -2,7 +2,7 @@
 title: "Ubur Ubur Ikan Lele - Daniel Folala Zalukhu"
 date: 2025-03-04
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Ubur Ubur Ikan Lele yang dibawakan oleh Daniel Folala Zalukhu.

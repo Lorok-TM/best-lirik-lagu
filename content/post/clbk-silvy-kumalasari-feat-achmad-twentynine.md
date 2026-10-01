@@ -2,7 +2,7 @@
 title: "CLBK - Silvy Kumalasari Feat Achmad Twentynine"
 date: 2025-06-11
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Cinta maafkan diriku yang menduakanmu Kini ku menyesal meninggalkan dirimu Cinta lama ini bersemi kembali Maukah kau lagi jadi pacarku lagi

@@ -2,7 +2,7 @@
 title: "Fajar Trio - Girö Girö Dödö (Fajar Halawa)"
 date: 2025-12-16
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 No'amaedola lala salösö Wekolida tou baguli danö Oya lala satulö BasogöI lala silö anau gölö

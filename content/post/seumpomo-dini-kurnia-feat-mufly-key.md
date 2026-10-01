@@ -2,7 +2,7 @@
 title: "Seumpomo - Dini Kurnia Feat Mufly Key"
 date: 2025-03-21
 categories: 
-  - "osing"
+  - "Osing"
 ---
 
 Seumpomo riko ulan Isun hang dadi srengenge Seumpomo riko kembang Isun dadi gagange

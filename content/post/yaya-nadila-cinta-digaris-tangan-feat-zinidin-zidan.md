@@ -2,7 +2,7 @@
 title: "Yaya Nadila - Cinta Digaris Tangan feat. Zinidin Zidan"
 date: 2025-06-20
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Mengapa hujan jatuh ke bumi Ditengah panas mentari Bagai dirimu teganya melupakanku

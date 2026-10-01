@@ -2,7 +2,7 @@
 title: "Anis Gea - Tersimpan Di Hati"
 date: 2023-01-22
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 Anis Gea bersama Wiranis Production rilis single dengan lirik campuran dalam bahasa Nias berjudul "Tersimpan Di Hati" yang diciptakan oleh Eka Gustiwana, menceritakan tentang sesuatu rasa yang begitu indah sampai sulit tuk tergantikan oleh yang lain, begitu universal.

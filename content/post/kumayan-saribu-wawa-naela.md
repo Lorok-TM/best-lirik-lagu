@@ -2,7 +2,7 @@
 title: "Kumayan Saribu - Wawa Naela"
 date: 2025-01-21
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Jan lah talonsong bana Muluik uda ka ambo Jikok kareh ka indak tulak lah elok Denai ndak ka mamaso diriko dicinto Denai ndak ka managah uda jo urang lain

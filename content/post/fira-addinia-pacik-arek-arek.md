@@ -2,7 +2,7 @@
 title: "Fira Addinia - Pacik Arek Arek"
 date: 2025-05-05
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Pacik arek-arek jan sampai lapeh Nyampang talambek datang urang manyemba Usah salah kan denai jan lalai bana Beko di ambiak urang Uda juo nan kamarabo..

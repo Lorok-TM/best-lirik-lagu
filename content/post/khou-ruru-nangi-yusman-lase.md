@@ -2,7 +2,7 @@
 title: "Khöu Ruru Nangi - Yusman Lase"
 date: 2026-06-22
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 

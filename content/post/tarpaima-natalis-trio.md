@@ -2,7 +2,7 @@
 title: "Tarpaima - Natalis Trio"
 date: 2025-01-21
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Tarpaima yang dibawakan oleh Natalis Trio.

@@ -2,7 +2,7 @@
 title: "Takabek Gadih Rantau - Fauzana"
 date: 2025-06-14
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Buruang lah putiah maradai Tabang ka danau... Urang babiduak, kapal ka tanjuang Samanjak kasiah denai, pai marantau

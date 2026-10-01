@@ -2,8 +2,7 @@
 title: "Five Minutes - Penawar Rindu"
 date: 2023-11-09
 categories: 
-  - "band"
-  - "indonesia"
+  - "Band"
 ---
 
 Five Minutes rilis single berjudul "Penawar Rindu" yang diciptakan oleh Ricky FM, menceritakan tentang seorang pria terus menerus dihantui oleh bayangan seseorang yang selalu menjadi penawar rindu baginya.

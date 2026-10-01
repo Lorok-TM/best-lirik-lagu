@@ -2,7 +2,7 @@
 title: "Yona Irma - Usah Banyak Parangai"
 date: 2026-01-09
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Alah denai bari jantuang jo hati Namunnyo uda indak sadar jo diri Sakatiko mancaliak nan gadih gadih Uda manggaya juo kian kamari

@@ -2,7 +2,7 @@
 title: "Nirwana Trio - Cinta Terlarang 2"
 date: 2025-09-28
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Bohama dohononku da ito Ahama na boi tardok au Asa diattusi ho boi tarjalo rohami hataki Unang sai robe ho manungguli holong sinauju i

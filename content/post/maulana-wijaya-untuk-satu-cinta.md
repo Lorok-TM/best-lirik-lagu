@@ -2,7 +2,7 @@
 title: "Maulana Wijaya - Untuk Satu Cinta"
 date: 2023-01-16
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Maulana Wijaya rilis single Melayu berjudul "Untuk Satu Cinta" yang diciptakan oleh Thomas Arya, menceritakan tentang cinta yang berjauhan jarak dengan sepenuh jiwa menjaga tuk menggapai segala harapannya.

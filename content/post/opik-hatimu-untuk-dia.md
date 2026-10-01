@@ -2,7 +2,7 @@
 title: "Opik - Hatimu Untuk Dia"
 date: 2022-12-05
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Lirik Lagu Melayu dengan judul Hatimu Untuk Dia yang dinyanyikan oleh Opik dan diciptakan oleh Ajhay Pasma dengan irama musik Pop.

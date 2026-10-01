@@ -2,7 +2,7 @@
 title: "Dermawan Zebua - Ono Alawe Pekanbaru"
 date: 2025-07-02
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 Me awena uila zikhalau ba facebook mö Lö ubiniö mo'ini hörögu wamaigi kodamö I otarai da'ö itari lg u'ila mörö Bongi ma'ökhö hulö no so'ö ba duduma hörö

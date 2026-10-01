@@ -2,7 +2,7 @@
 title: "Syam - Risalah Cinta"
 date: 2025-09-05
 categories: 
-  - "malaysia"
+  - "Malaysia"
 ---
 
 Andai ku dapat undurkan masa Kan ku ubah coretan risalah cinta Kerana ku tahu diriku tak sempurna Teganya dirimu berubah arah Hilanglah cinta di dalam gelita

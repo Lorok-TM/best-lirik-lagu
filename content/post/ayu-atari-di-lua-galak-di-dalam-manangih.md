@@ -2,7 +2,7 @@
 title: "Ayu Atari - Di Lua Galak Di Dalam Manangih"
 date: 2025-08-23
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Antahlah antah ka dipanga Kini badan lah hanguih raso tabaka Dima tumbuah sinan di siangi Dima malintang sinan di adoki Dima tasangkuik sinan ka bamalam

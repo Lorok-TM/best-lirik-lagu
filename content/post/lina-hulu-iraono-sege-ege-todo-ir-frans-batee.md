@@ -2,7 +2,7 @@
 title: "Lina Hulu - Iraono Sege Ege Tôdõ (Ir Frans Bate,e)"
 date: 2025-12-02
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 Iraono sege ege tödö Yaodo bongi maökhö Ero ma'ökhö bamofanö Wanofu nofu halöwö

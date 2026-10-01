@@ -2,7 +2,7 @@
 title: "Pinki Prananda - Dilua Galak Didalam Manangih"
 date: 2025-05-18
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 

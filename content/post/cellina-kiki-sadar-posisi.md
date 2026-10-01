@@ -2,7 +2,7 @@
 title: "Cellina Kiki - Sadar Posisi"
 date: 2026-06-23
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 Wes tak cubo nguatke ati Nompo kasunyatan iki Nadyan perih rasane Aku kudu sadar diri..

@@ -2,8 +2,7 @@
 title: "Ilir 7 - Batu Loncatan"
 date: 2023-05-13
 categories: 
-  - "band"
-  - "indonesia"
+  - "Band"
 ---
 
 Lirik Lagu Band Indo dengan judul Batu Loncatan yang dinyanyikan oleh ILIR7 dan diciptakan oleh Vic Ilir7 dengan irama musik Pop.

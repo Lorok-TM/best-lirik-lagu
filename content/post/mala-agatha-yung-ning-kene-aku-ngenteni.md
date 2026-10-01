@@ -2,7 +2,7 @@
 title: "Mala Agatha - Yung (Ning Kene Aku Ngenteni)"
 date: 2025-12-08
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Yung Ngene rasane Yen kangen ro kowe Mung ngangen ngangen rasane

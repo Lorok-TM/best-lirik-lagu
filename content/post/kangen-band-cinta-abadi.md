@@ -2,7 +2,7 @@
 title: "Kangen Band - Cinta Abadi"
 date: 2026-06-11
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 

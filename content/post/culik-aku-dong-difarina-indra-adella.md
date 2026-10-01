@@ -2,7 +2,7 @@
 title: "Culik Aku Dong - Difarina Indra Adella"
 date: 2025-02-15
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Culik Aku Dong yang dibawakan oleh Difarina Indra Adella.

@@ -2,7 +2,7 @@
 title: "Rahma Rahmi - Salahmu Ku Maafkan"
 date: 2026-08-13
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 

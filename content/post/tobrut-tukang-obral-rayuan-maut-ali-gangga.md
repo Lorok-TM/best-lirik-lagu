@@ -2,7 +2,7 @@
 title: "Tobrut (Tukang Obral Rayuan Maut) - Ali Gangga"
 date: 2024-09-13
 categories: 
-  - "tarling"
+  - "Tarling"
 ---
 
 Awas kudu waspada Aja sampe kegoda Sebab bisa bahaya Bisa gawe cilaka

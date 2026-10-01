@@ -2,7 +2,7 @@
 title: "Berjanjilah Untuk Setia - Thomas Arya Feat. Elsa Pitaloka"
 date: 2024-06-30
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 

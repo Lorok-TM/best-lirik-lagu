@@ -2,7 +2,7 @@
 title: "Elsa Mayora - Malapeh Hao"
 date: 2026-08-19
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Dirambah bana rimbo ilalang Puyuah nan lari ndak ka basuo Kok lah ka nasib kahilangan ditangan lapeh juo Lah mahilang ka ladang urang apo kadayo

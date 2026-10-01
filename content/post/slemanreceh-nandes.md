@@ -2,7 +2,7 @@
 title: "Slemanreceh - Nandes"
 date: 2026-09-19
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 Aku pernah kelangan Kebayang marai kelingan Nandes jero ning atiku iki Larane ngasi kegowo ngimpi

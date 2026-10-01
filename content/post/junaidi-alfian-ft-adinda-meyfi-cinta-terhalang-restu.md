@@ -2,7 +2,7 @@
 title: "Junaidi Alfian ft Adinda Meyfi - Cinta Terhalang Restu"
 date: 2022-12-05
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Lirik Lagu Melayu dengan judul Cinta Terhalang Restu yang dinyanyikan oleh Junaidi Alfian Feat. Adinda Meyfi dan diciptakan oleh Trio Juniansah dengan irama musik Pop.

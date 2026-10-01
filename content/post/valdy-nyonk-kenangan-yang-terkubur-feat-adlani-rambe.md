@@ -2,7 +2,7 @@
 title: "Valdy Nyonk - Kenangan Yang Terkubur feat. Adlani Rambe"
 date: 2025-11-21
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Hujan di kala itu membuatku teringat padamu Kubisikkan seuntai kata Kukatakan kucinta padamu Hujan di kala itu kini menjadi kenangan pilu Luka bagai tersayat sembilu saat kuingat kenangan itu

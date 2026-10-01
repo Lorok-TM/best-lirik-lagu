@@ -2,7 +2,7 @@
 title: "Lagu Lelaki Gila - Naim Daniel Feat Azwan Ali"
 date: 2025-02-01
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Lagu Lelaki Gila yang dibawakan oleh Naim Daniel Ft Azwan Ali.

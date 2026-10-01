@@ -2,7 +2,7 @@
 title: "Yelse - Cinta Ku Hilang"
 date: 2023-05-17
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Lirik Lagu Melayu dengan judul Cinta Ku Hilang yang dinyanyikan oleh Yelse dan diciptakan oleh Adit LC dengan irama musik Pop.

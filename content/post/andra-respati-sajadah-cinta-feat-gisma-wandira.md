@@ -2,7 +2,7 @@
 title: "Andra Respati - Sajadah Cinta feat. Gisma Wandira"
 date: 2025-10-04
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 Tiada rasa takjub selain padamu Karna mencintai dan ku dicintai Hanya dengan cinta jiwaku berasa Arti ketenangan dalam keresahan

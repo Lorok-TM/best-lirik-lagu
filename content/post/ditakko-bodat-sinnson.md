@@ -2,7 +2,7 @@
 title: "Ditakko Bodat - Sinnson"
 date: 2025-03-08
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Ditakko Bodat yang dibawakan oleh Sinnson.

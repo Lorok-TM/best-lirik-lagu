@@ -2,7 +2,7 @@
 title: "Intan Aishwara - Bajakah"
 date: 2022-02-01
 categories: 
-  - "dayak"
+  - "Dayak"
   - "remix"
 ---
 

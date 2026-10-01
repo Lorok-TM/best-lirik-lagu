@@ -2,7 +2,7 @@
 title: "Safira Inema - Kusuma Wijaya"
 date: 2025-07-13
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Lunging mekar lan semi Puspita ing taman sari Manglung manungsung wengi Kalawan wulane ndadari

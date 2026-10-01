@@ -2,7 +2,7 @@
 title: "Jek Gulo - Amada Khöu Salawa Bosi"
 date: 2026-05-29
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 

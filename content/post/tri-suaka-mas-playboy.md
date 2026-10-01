@@ -2,7 +2,7 @@
 title: "Tri Suaka - Mas Playboy"
 date: 2025-10-24
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Selama bumi ku pijak Ku akan tetap beranjak Tuk mendapatkan cintamu Dirimu akan ku kejar Walau di pelosok pasar Kau buat jantungku berdebar

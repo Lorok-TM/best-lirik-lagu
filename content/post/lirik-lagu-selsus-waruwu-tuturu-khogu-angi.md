@@ -2,7 +2,7 @@
 title: "Selsus Waruwu - Tuturu Khögu Angi"
 date: 2021-12-05
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 ## Lirik Lagu Nias ”Tuturu Khogu Angi“ by Selsus Waruwu

@@ -2,7 +2,7 @@
 title: "Silvy Kumalasari - Kabagyan"
 date: 2025-06-17
 categories: 
-  - "campursari"
+  - "Campursari"
 ---
 
 Ora kroso sampun tibo wancine Iso nyanding koe saben dinone Senajan akeh rubedo lan gudo Tresnoku karo koe ora ngeliyo

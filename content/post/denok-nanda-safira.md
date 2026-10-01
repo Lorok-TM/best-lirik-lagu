@@ -2,7 +2,7 @@
 title: "Denok - Nanda Safira"
 date: 2026-07-27
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 

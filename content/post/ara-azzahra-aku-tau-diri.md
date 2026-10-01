@@ -2,7 +2,7 @@
 title: "Ara Azzahra - Aku Tau Diri"
 date: 2025-04-24
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Tak perlu kau suruh pergi Akupun tau diri Telah ku ukur bayang-bayang Sebelum ku jatuh cinta

@@ -2,7 +2,7 @@
 title: "Anggrek - Cinta Dalam Cinta"
 date: 2026-09-03
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Ku kira aku saja yang engkau cintai Ku kira aku saja yang engkau sayangi Bertahun tahun kujaga hati Tulusnya cinta tiada terbagi

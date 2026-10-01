@@ -2,7 +2,7 @@
 title: "Ipank - Lumpur Dan Berlian"
 date: 2025-08-26
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Di sini kau tanam kasih Berbuah di taman orang Rapuhnya menahan perih Aku yang menanggung beban

@@ -2,7 +2,7 @@
 title: "Basarok Mato Mamandang - Tigo Mandayo"
 date: 2024-08-05
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Diasok rangik tak hilang Di tapuak tapadilah badan Lah marasai badan marasai Tarumuak bana manangguangkan

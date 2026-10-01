@@ -2,7 +2,7 @@
 title: "Harry Parintang - Ada Rindu"
 date: 2021-11-20
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 ## Lirik Lagu ”Ada Rindu“ by Harry Parintang

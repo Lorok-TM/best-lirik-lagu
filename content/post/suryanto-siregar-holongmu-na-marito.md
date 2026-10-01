@@ -2,7 +2,7 @@
 title: "Suryanto Siregar - Holongmu Na Marito"
 date: 2026-06-17
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 

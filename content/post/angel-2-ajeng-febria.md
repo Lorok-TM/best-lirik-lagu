@@ -2,8 +2,7 @@
 title: "Angel 2 - Ajeng Febria"
 date: 2026-07-20
 categories: 
-  - "dangdut"
-  - "java"
+  - "Jawa"
 ---
 
 Yo wes opo jare Lilo tak lilakne yen koe milih liane

@@ -2,7 +2,7 @@
 title: "Randa Putra - Baragiah Indak Kamangurangan"
 date: 2025-10-03
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Hilang jariah nan salamoko Dek ulah tuan lupo jo diri Dulu denai tampek baiyo Kini indak paguno lai Dulu denai tampek baiyo Kini indak paguno lai

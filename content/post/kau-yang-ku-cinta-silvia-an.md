@@ -2,7 +2,7 @@
 title: "Kau Yang Ku Cinta - Silvia An"
 date: 2025-03-04
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Kau Yang Ku Cinta yang dibawakan oleh Silvia An.

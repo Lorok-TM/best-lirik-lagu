@@ -2,7 +2,7 @@
 title: "Pelukan Senja - Fidella Jasmine"
 date: 2025-02-10
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Pelukan Senja yang dibawakan oleh Fidella Jasmine.

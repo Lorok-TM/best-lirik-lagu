@@ -2,7 +2,7 @@
 title: "Anyqu - Ratok Bungo Layua"
 date: 2022-08-17
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Anyqu bersama RTJ Pro rilis single dengan lirik dalam bahasa Minangkabau berjudul "Ratok Bungo Layua" yang diciptakan oleh Rozac Tanjung.

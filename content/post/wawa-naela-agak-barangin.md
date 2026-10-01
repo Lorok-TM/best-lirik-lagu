@@ -2,7 +2,7 @@
 title: "Wawa Naela - Agak Barangin"
 date: 2025-08-26
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Denai indak manyangko indak denai sangko Baa mangko uda bisa manjadi co iko Kama jalan batampuah sabalun kamari Hati denai lah rusuah mancaliak uda kini Apo yo da nan tajadi agak lain tingkah laku uda kini Tolong jawek den batanyo usah uda yo galak ka galak sajo

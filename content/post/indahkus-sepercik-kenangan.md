@@ -2,7 +2,7 @@
 title: "Indahkus - Sepercik Kenangan"
 date: 2023-11-25
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Title : Sepercik Kenangan Artist : Indahkus Songwriter : Gia Raf & Indahkus Category : Lagu Indo

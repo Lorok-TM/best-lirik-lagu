@@ -2,8 +2,7 @@
 title: "Enn Risangkara - Sri Huning"
 date: 2021-05-26
 categories: 
-  - "campursari"
-  - "java"
+  - "Campursari"
 ---
 
 Title : Sri Huning Artist : Enn Risangkara Songwriter : Ki Sukron Suwondo Label : Teta Record Category : Langgam Campursari Jawa

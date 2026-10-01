@@ -2,7 +2,7 @@
 title: "Rita Tila - Teu Satia"
 date: 2021-10-20
 categories: 
-  - "sunda"
+  - "Sunda"
 ---
 
 ## Lirik Lagu Sunda ”Teu Satia“ by Rita Tila

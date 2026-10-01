@@ -2,7 +2,7 @@
 title: "Jun Munthe - Lobi Sian Na Binotomi"
 date: 2024-04-05
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Dang na tarhatahon be Ganjang ni sidalananki Godang ni naung maneat rohakki Harop rohakku ho ma na parpudi Mian di lambungki

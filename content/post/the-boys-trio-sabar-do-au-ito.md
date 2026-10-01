@@ -2,7 +2,7 @@
 title: "The Boy's Trio - Sabar Do Au Ito"
 date: 2026-04-10
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 

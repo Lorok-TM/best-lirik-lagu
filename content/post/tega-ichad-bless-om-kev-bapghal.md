@@ -2,7 +2,7 @@
 title: "Tega - Ichad Bless, Om Kev, Bapghal"
 date: 2026-09-09
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 Ko kasih luka saya baru ko mo go away Ko su beda dari pertama Skarang ko su far away Ko su kasih waktu terjeda Tra habis pikir masa ini ko tega Perkara apa yang bikin ko su berubah Semakin parah ko kas hancur saya

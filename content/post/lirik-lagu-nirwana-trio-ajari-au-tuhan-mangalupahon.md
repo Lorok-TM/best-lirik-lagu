@@ -2,7 +2,7 @@
 title: "Nirwana Trio - Ajari Au Tuhan Mangalupahon"
 date: 2021-07-11
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 **Lirik Ajari Au Tuhan Mangalupahon - Nirwana Trio**

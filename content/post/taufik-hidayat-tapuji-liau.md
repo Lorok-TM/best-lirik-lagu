@@ -2,7 +2,7 @@
 title: "Taufik Hidayat - Tapuji Liau"
 date: 2026-09-19
 categories: 
-  - "dayak"
+  - "Dayak"
 ---
 
 Sinde katika metuh ku tanjung tunja Tasupa bawi bahalap bakena Mata sipit kilau uluh cina Senyuma manis sama kamanis gula

@@ -2,7 +2,7 @@
 title: "Tando Badunsanak - Silva Hayati"
 date: 2026-05-24
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 

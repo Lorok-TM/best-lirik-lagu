@@ -2,7 +2,7 @@
 title: "Dinda Teratu - Ilusi Tak Bertepi"
 date: 2025-06-13
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Tak pernah lepas kau dalam ingatanku Tak pernah bisa aku melupakanmu Ku jatuh cinta pada orang yang salah Kau kekasih sahabatku

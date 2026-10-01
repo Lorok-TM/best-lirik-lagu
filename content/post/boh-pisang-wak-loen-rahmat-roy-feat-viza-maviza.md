@@ -2,7 +2,7 @@
 title: "Boh Pisang Wak Loen - Rahmat Roy Feat Viza Maviza"
 date: 2025-01-23
 categories: 
-  - "aceh"
+  - "Aceh"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Boh Pisang Wak Loen yang dibawakan oleh Rahmat Roy Ft Viza Maviza.

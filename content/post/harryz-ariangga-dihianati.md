@@ -2,7 +2,7 @@
 title: "Harryz Ariangga - Dihianati"
 date: 2025-11-09
 categories: 
-  - "tarling"
+  - "Tarling"
 ---
 
 Di tahan lara Mending tek uculena Di lakoni percuma Sira gawe kecewa Ora nyangka Janji setia endinge dusta

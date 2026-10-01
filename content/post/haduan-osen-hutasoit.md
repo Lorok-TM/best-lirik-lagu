@@ -2,7 +2,7 @@
 title: "Haduan - Osen Hutasoit"
 date: 2025-06-19
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Haduan sai ganjang ma umurta Boi muse mangingot sadarion Boi rampak mengkel hita na dua Manang aha pe na masa

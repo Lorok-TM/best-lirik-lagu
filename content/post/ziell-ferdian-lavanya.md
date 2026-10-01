@@ -2,7 +2,7 @@
 title: "Ziell Ferdian - Lavanya"
 date: 2026-01-15
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Ku sematkan dirimu di hati Agar tak goyah cintaku padamu Duhai kekasih yang ku puja

@@ -2,7 +2,7 @@
 title: "Thomas Arya - Kalah Benci Dengan Rasa Rindu"
 date: 2025-10-19
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 Keheningan malam selimuti duka Menutupi jalan nya asmara Kerinduan hati ku derita Slalu teringat dia yang ku cinta

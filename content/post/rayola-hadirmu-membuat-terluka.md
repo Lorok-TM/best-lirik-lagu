@@ -2,7 +2,7 @@
 title: "Rayola - Hadirmu Membuat Terluka"
 date: 2023-04-03
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Lirik Lagu Melayu dengan judul Hadirmu Membuat Terluka yang dinyanyikan oleh Rayola dan diciptakan oleh Taufik Sondang dengan irama musik Pop.

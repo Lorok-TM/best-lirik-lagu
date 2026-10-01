@@ -2,7 +2,7 @@
 title: "Tria Ramayanti feat Vitaloka - Tahalang Harta dan Artinya"
 date: 2022-02-05
 categories: 
-  - "dayak"
+  - "Dayak"
   - "remix"
 ---
 

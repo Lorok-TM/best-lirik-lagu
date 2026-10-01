@@ -2,7 +2,7 @@
 title: "Cut Rani - Cemburumu Berlebihan"
 date: 2026-07-13
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 

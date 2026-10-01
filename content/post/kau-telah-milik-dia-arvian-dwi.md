@@ -2,7 +2,7 @@
 title: "Kau Telah Milik Dia - Arvian Dwi"
 date: 2025-04-12
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Sakit yang kurasakan kini Sa'at kau tinggal pergi Kebodohan yang kulakukan sendiri Mencintai dia yang tlah punya kekasih

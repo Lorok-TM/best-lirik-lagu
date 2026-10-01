@@ -2,7 +2,7 @@
 title: "Hilang Tapi Ada - Bryan Zparta"
 date: 2025-03-26
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Hilang Tapi Ada yang dibawakan oleh Bryan Zparta.

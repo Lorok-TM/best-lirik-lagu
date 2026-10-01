@@ -2,7 +2,7 @@
 title: "Varenina - Usah Di Kana Kana"
 date: 2023-03-19
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Lirik Lagu Minang dengan judul Usah Di Kana Kana yang dinyanyikan oleh Varenina dan diciptakan oleh Rozac Tanjung dengan irama musik Pop.

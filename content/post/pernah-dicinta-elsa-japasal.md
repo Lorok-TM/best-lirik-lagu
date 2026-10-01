@@ -2,7 +2,7 @@
 title: "Pernah Dicinta - Elsa Japasal"
 date: 2025-04-11
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Maaf karena bukan aku Yang buatmu tersenyum Maaf belum bisa jadi Yang paling kau sayang

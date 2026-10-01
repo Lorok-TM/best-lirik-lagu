@@ -2,7 +2,7 @@
 title: "Petca Petca - Farro Simamora Feat Ridawana Daulay"
 date: 2025-03-02
 categories: 
-  - "tapsel"
+  - "Tapsel"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Petca Petca yang dibawakan oleh Farro Simamora Ft Ridawana Daulay.

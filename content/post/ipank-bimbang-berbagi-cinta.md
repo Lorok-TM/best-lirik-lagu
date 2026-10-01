@@ -2,7 +2,7 @@
 title: "Ipank - Bimbang Berbagi Cinta"
 date: 2023-04-06
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Lirik Lagu Melayu dengan judul Bimbang Berbagi Cinta yang dinyanyikan oleh Ipank dan diciptakan oleh G. Diana dengan irama musik Pop.

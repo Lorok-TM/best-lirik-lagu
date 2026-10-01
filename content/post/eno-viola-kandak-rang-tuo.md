@@ -2,7 +2,7 @@
 title: "Eno Viola - Kandak Rang Tuo"
 date: 2025-09-23
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Dalamnyo jurang Rusuah hati ko tagamang Dek ulah udaurang tapandang Jauah mato mamandang Ka langik tinggi manarawang Kalimpanan mato maharok sayang

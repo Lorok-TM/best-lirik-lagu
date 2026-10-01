@@ -2,7 +2,7 @@
 title: "Iche Br Ginting - Jaga Kesehatendu dan Artinya"
 date: 2022-07-22
 categories: 
-  - "karo"
+  - "Karo"
 ---
 
 Title : Jaga Kesehatendu Artist : Iche Br Ginting Songwriter : Arel Manta Tarigan Studio : Lorong Sempit Category : Lagu Pop Karo

@@ -2,7 +2,7 @@
 title: "Percuma Mengupas Cerita - Thomas Arya"
 date: 2024-09-02
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 Begitu lama rasanya Terpadam cahaya cinta dihatiku Bertahun sudah ku sendiri Menyudut di keheningan hari

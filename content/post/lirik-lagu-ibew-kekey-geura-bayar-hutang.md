@@ -2,7 +2,7 @@
 title: "Ibew Kekey - Geura Bayar Hutang"
 date: 2021-10-20
 categories: 
-  - "sunda"
+  - "Sunda"
 ---
 
 ## Lirik Lagu Sunda ”Geura Bayar Hutang“ by Ibew Kekey

@@ -2,7 +2,7 @@
 title: "Puspa Indah - Samo Samo Dek Caciang feat. Ridho Zulma"
 date: 2025-08-16
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Ondeh ondeh uda baa kuruih bana Banyak nan manyungkah barek tak batambah

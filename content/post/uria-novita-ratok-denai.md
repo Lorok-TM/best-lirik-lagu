@@ -2,7 +2,7 @@
 title: "Uria Novita - Ratok Denai"
 date: 2025-07-03
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Samanjak niru baladuangkan ndeh da Atah jo bareh rang sisiahkan Alalalai atah jo bareh rang sisiahkan Basabab cinto rang putuihkan ndeh da Ulah parangai mamisahkan Alalai ulah parangai mamisahkan

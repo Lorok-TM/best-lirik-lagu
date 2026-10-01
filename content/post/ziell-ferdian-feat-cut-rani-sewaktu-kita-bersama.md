@@ -2,7 +2,7 @@
 title: "Ziell Ferdian feat Cut Rani - Sewaktu Kita Bersama"
 date: 2023-04-13
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Ziell Ferdian Ft. Cut Rani Auliza rilis single Indo berjudul "Sewaktu Kita Bersama" yang diciptakan oleh Ziell Ferdian dengan irama musik Pop, menceritakan tentang seseorang yang harus berlapang dada karena cintanya tak mendapat restu dari orang tua, dan kini hanya tinggal menjadi kenangan.

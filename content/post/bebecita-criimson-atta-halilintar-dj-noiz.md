@@ -2,7 +2,7 @@
 title: "Bebecita - Criimson, Atta Halilintar, Dj Noiz"
 date: 2025-01-12
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Bebecita yang dibawakan oleh Criimson Ft Atta Halilintar Dan Dj Noiz.

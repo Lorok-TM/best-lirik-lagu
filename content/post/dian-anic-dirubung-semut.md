@@ -2,7 +2,7 @@
 title: "Dian Anic - Dirubung Semut"
 date: 2021-07-23
 categories: 
-  - "tarling"
+  - "Tarling"
 ---
 
 **Lirik Dirubung Semut - Dian Anic**

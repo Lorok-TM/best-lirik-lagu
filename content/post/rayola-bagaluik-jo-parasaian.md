@@ -2,7 +2,7 @@
 title: "Rayola - Bagaluik Jo Parasaian"
 date: 2025-06-08
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Sadari ketek tak basuo sanang Badan bakureh bagaluik jo parasaian Ayah jo mandeh manga den batinggakan Alun lai pueh denai jo kasiah sayang

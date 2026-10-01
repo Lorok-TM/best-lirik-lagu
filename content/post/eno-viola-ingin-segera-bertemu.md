@@ -2,7 +2,7 @@
 title: "Eno Viola - Ingin Segera Bertemu"
 date: 2026-01-07
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Setiap waktu memikirkanmu Ingin selalu disisimu Namun apalah daya Diriku ini yang sedang rindu

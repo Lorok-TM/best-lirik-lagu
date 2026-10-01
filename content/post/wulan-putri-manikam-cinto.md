@@ -2,7 +2,7 @@
 title: "Wulan Putri - Manikam Cinto"
 date: 2025-04-25
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Batanam kasiah jo sayang Dari putiak kini lah manjadi bungo Namun kini patangkaran Salah saketek marumik bagadangkan

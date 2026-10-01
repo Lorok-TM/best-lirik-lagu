@@ -2,7 +2,7 @@
 title: "Tasya Rosmala Adella - Tangis Tanpa Air Mata"
 date: 2025-05-09
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Kekasih dimanakah engkau berada Disini ku menunggu kehadiranmu Rindu menyayat hati tak terobati Hasrat ingin bertemu dengan dirimu

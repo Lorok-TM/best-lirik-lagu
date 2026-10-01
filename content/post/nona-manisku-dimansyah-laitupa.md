@@ -2,7 +2,7 @@
 title: "Nona Manisku - Dimansyah Laitupa"
 date: 2025-05-12
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Malam itu Berdesau angin yang syahdu Harum tubuhmu Membekas tanpa ragu

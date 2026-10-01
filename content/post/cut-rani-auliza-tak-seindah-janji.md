@@ -2,7 +2,7 @@
 title: "Cut Rani Auliza - Tak Seindah Janji"
 date: 2023-05-08
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Cut Rani Auliza rilis single Melayu berjudul "Tak Seindah Janji" yang diciptakan oleh Wandi Bireuen dengan irama musik Pop.

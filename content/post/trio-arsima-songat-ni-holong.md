@@ -2,7 +2,7 @@
 title: "Trio Arsima - Songat Ni Holong"
 date: 2026-09-04
 categories: 
-  - "simalungun"
+  - "Simalungun"
 ---
 
 Husuan tabu loppah hu partidahan Mattin daini sodap i bolgang-bolgang Anggo hatamu mattin tumang tangaron Mambaen au lalap terbayang-bayang

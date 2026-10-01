@@ -2,8 +2,7 @@
 title: "Bahu Ringkeh - Sasya Arkhisna"
 date: 2026-07-23
 categories: 
-  - "dangdut"
-  - "java"
+  - "Jawa"
 ---
 
 Jelas kalah sak sembarange Dudu ukurane yen aku di bandingke Mung di pandang sepele Wis koyo sego jangan saben dinane Ati iki ra gampang nyerah Mergo wis terlatih susah Sabar sayang aku iseh berjuang

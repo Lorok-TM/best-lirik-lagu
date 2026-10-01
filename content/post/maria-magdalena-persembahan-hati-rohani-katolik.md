@@ -2,7 +2,7 @@
 title: "Maria Magdalena - Persembahan Hati (Rohani Katolik)"
 date: 2021-06-16
 categories: 
-  - "rohani"
+  - "Rohani"
 ---
 
 ## Lirik Lagu Rohani Katolik ”Persembahan Hati“ by Maria Magdalena

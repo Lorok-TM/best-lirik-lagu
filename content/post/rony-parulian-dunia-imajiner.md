@@ -2,7 +2,7 @@
 title: "Rony Parulian - Dunia Imajiner"
 date: 2026-09-04
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Terdiam dan tenggelam Lamunku isinya hanya dirimu Tak mau ku terbangun Terlalu nyaman di dalam khayalku

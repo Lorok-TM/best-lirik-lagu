@@ -2,7 +2,7 @@
 title: "Niken Salindry - Segara Madu"
 date: 2025-08-26
 categories: 
-  - "campursari"
+  - "Campursari"
 ---
 
 Pepujanku kembange impenku Wurung tresno yen ra karo sliramu Kasmaranku lir segoro madu Nora kalis memanising kalbuku

@@ -2,7 +2,7 @@
 title: "Kembalikan Terang (Menerangkan Indonesia) - Methosa"
 date: 2025-04-13
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Hidupkan jalan kebenaran Kembalikan terang ke tempat semula Nyalakan cahya keadilan Yang telah menghilang Dibungkam lama oleh mereka

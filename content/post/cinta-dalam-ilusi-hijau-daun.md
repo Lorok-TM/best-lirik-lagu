@@ -2,7 +2,7 @@
 title: "Cinta Dalam Ilusi - Hijau Daun"
 date: 2025-05-08
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Rasa cinta ini bukan aku yang minta Tak bisa ku hadap tak mampu ku buang Akhirnya aku menyerah pasrah Lalu apa aku ini yang salah

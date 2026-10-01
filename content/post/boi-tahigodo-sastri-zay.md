@@ -2,7 +2,7 @@
 title: "Böi Tahigödo - Sastri Zay"
 date: 2025-02-10
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Boi Tahigodo yang dibawakan oleh Sastri Zay.

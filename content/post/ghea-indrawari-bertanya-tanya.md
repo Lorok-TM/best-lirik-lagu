@@ -2,7 +2,7 @@
 title: "Ghea Indrawari - Bertanya Tanya"
 date: 2026-06-05
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 

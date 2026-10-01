@@ -2,7 +2,7 @@
 title: "Rosa Armenia - Salah Manaruah Cinto"
 date: 2025-07-21
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Alah batahun denai mamandam Raso cinto nan makin mandalam Namun denai pun manyadari Tak mungkin ka basatu Dek uda didalam ganggaman urang lain

@@ -2,7 +2,7 @@
 title: "Lang Porsaya Au Bamu - Intan Purba"
 date: 2025-04-11
 categories: 
-  - "simalungun"
+  - "Simalungun"
 ---
 
 Sadarion ham dear mangunduk hata Juppah patar domma legan balosmu Ulang baen bakku hata nuknak Songon hata ni dakdanak Hata na pasti ma botou hatahon bakku In do na huarusi

@@ -2,7 +2,7 @@
 title: "Difarina Indra Adella - Tombo Kangen"
 date: 2025-05-31
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Mas opo wis lali sliramu Dek semono yen dolan karo aku Pancen wis suwe ra tau ketemu Wis sakmestine lali aku

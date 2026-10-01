@@ -2,7 +2,7 @@
 title: "Vita Alvia - Antara Benci Dan Cinta"
 date: 2025-11-15
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Di kesunyian malam ini Kurasakan penyesalan oh kasih Semua telah kuberi Tuk dikau yang kucintai Mengapa kau tega khianati Di sini ku selalu menanti Kau dan aku bersemi kembali Tak mudah tuk lupakan semua kenangan Aku tak kuasa untuk melupakan

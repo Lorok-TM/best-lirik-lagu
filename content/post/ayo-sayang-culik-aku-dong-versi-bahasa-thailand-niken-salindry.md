@@ -2,7 +2,7 @@
 title: "Ayo Sayang Culik Aku Dong (Versi Bahasa Thailand) - Niken Salindry"
 date: 2025-01-08
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Ayo Sayang Culik Aku Dong yang dibawakan oleh Niken Salindry.

@@ -2,7 +2,7 @@
 title: "Yarman Ndruru - Oroma Wusö"
 date: 2025-12-23
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 Hadia zala hadia horö Wa simanö ga'a wamaigimö Me ma mö'i mö'i khöu nono hörö Na so zala na so horö Ö waö khögu ba ombakha'ö Ma zui so wönu dödöu khögu tanö bö'ö

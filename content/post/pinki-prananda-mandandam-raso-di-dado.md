@@ -2,7 +2,7 @@
 title: "Pinki Prananda - Mandandam Raso Di Dado"
 date: 2026-07-12
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 

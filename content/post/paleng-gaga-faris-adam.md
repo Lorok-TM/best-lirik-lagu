@@ -2,7 +2,7 @@
 title: "Paleng Gaga - Faris Adam"
 date: 2026-07-18
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 Adoh ade pe gaga Biking tagila gila Suka tebar pesona Manis sapa yang punya

@@ -2,7 +2,7 @@
 title: "Teristimewa - Dewi Mahira"
 date: 2025-04-02
 categories: 
-  - "tarling"
+  - "Tarling"
 ---
 
 Sampean teristimewa Bersyukur kien kakang jodone kula

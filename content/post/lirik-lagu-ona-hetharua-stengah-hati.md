@@ -2,7 +2,7 @@
 title: "Ona Hetharua - Stengah Hati"
 date: 2021-07-06
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 **Lirik Stengah Hati - Ona Hetharua**

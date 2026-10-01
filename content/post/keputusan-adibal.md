@@ -2,7 +2,7 @@
 title: "Keputusan - Adibal"
 date: 2025-06-20
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Kasih ajaklah aku Terbang ke langit biru Buailah angan-anganku Jadikan aku teman dalan hidupmu

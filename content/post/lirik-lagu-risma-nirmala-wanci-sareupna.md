@@ -2,7 +2,7 @@
 title: "Risma Nirmala - Wanci Sareupna"
 date: 2021-10-20
 categories: 
-  - "sunda"
+  - "Sunda"
 ---
 
 ## Lirik Lagu Sunda ”Wanci Sareupna“ by Rizma Nirmala

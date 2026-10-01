@@ -2,7 +2,7 @@
 title: "Dessy Anggreini Br Bangun - Kupulahi dan Artinya"
 date: 2023-05-16
 categories: 
-  - "karo"
+  - "Karo"
 ---
 
 Dessy Anggreini Br Bangun bersama Prima Sora rilis single dengan lirik dalam bahasa Karo berjudul "Kupulahi" yang artinya "Ku Lepas", menceritakan tentang seseorang yang tak dihargai oleh kekasihnya. Untuk lebih jelasnya silahkan Anda baca terjemahan lirik lagunya berada dibawah.

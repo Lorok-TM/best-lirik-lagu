@@ -2,7 +2,7 @@
 title: "Yogi Purba - Hukum Karma"
 date: 2026-09-05
 categories: 
-  - "simalungun"
+  - "Simalungun"
 ---
 
 Idingat ham ope botou Manrahut padan hita nadua bai borning in Marsisalaman tangan ta in Janah marjanji janah mambuhul padan in

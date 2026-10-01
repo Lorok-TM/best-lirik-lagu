@@ -2,7 +2,7 @@
 title: "Dila Salih - Dilua Galak Didalam Manangih"
 date: 2026-09-04
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Antahlah Antah Ka Dipanga Kini Badan Lah Hanguih Raso Tabaka Dima Tumbuah Sinan Di Siangi Dima Malintang Sinan Di Adoki Dima Tasangkuik Sinan Ka Bamalam

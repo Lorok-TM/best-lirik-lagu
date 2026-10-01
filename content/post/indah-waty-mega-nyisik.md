@@ -2,7 +2,7 @@
 title: "Indah Waty - Mega Nyisik"
 date: 2025-11-06
 categories: 
-  - "tarling"
+  - "Tarling"
 ---
 
 Ngajerit maratan langit Ngoceah maratan jagat Sambate aduh gusti kula ampun Ning bapak kang ngayuhga Ning ibu mah sing ngangandung

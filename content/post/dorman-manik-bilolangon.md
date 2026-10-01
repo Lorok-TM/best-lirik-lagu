@@ -2,7 +2,7 @@
 title: "Dorman Manik - Bilolangon"
 date: 2025-05-25
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Molo ta ida tahe di jaman saonari on Di sude media sosial Tung godang do jolma i bagak jala uli Hira na so adong na hurang

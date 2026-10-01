@@ -2,7 +2,7 @@
 title: "Syahriyadi - Status Kita Bebas"
 date: 2023-06-21
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Syahriyadi rilis single Indo berjudul "Status Kita Bebas" yang diciptakan oleh Tegar Cs dengan irama musik Pop, menceritakan tentang hubungan cinta yang sudah gak bisa dilanjutkan.

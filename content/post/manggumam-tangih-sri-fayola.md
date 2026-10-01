@@ -2,7 +2,7 @@
 title: "Manggumam Tangih - Sri Fayola"
 date: 2026-05-01
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 

@@ -2,7 +2,7 @@
 title: "Frans Ariesta feat. Cut Rani - Datang Sendiri"
 date: 2026-01-20
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 

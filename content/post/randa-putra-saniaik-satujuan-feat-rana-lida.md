@@ -2,7 +2,7 @@
 title: "Randa Putra - Saniaik Satujuan feat. Rana Lida"
 date: 2025-08-29
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Sajalan kito sabimbiang sayang Saniaik hati satu tujuan Malangkah basamo Saliang manjago cinto

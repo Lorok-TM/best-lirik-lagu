@@ -2,7 +2,7 @@
 title: "Lam'Ulido Trio - Pulo Batam Gabe Saksi"
 date: 2025-09-24
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Holan ilu manaro hasian sian simalolong hi Marningot i sude di tikki i au rap dohot ho Soada na hurang di pambahenan tung sonang roha i Boasa dung saonnari ito muba ho di janji mi Diose ho sude sumpa mi sina ujui Hape hodo mandok tu au ikkon au do saut diho Boasa dung saonnari muba rohami sian au Reff:

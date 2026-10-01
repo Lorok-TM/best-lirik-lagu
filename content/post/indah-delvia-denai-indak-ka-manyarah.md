@@ -2,7 +2,7 @@
 title: "Indah Delvia - Denai Indak Ka Manyarah"
 date: 2026-08-19
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Indak ko ado nan lain Mangalah di denai ka diparabuikan Cinto nan lah bapunyo Nan alah batuan Bia ka untuak denai surang

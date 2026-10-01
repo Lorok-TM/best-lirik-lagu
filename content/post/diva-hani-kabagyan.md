@@ -2,7 +2,7 @@
 title: "Diva Hani - Kabagyan"
 date: 2025-07-13
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Ora kroso sampun tibo wancine Iso nyanding koe saben dinone Senajan akeh rubedo lan gudo Tresnoku karo koe ora ngeliyo

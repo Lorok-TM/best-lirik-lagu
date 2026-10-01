@@ -2,7 +2,7 @@
 title: "Tiba Tiba Kau - Dnanda"
 date: 2026-07-16
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Kau datang tanpa suara Membawa hangat di dada Ku tatap tapi kutahu Tak ada aku di sana

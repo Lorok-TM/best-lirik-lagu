@@ -2,7 +2,7 @@
 title: "Angga Eqino - Harani Sarjana Feat Vifa Agora Nasution"
 date: 2025-06-21
 categories: 
-  - "tapsel"
+  - "Tapsel"
 ---
 
 Hu tatap tatap gambarmu Roha pe manjaga jaha Taringot sude holongmu Saias aek ni mata

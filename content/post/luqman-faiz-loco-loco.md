@@ -2,7 +2,7 @@
 title: "Luqman Faiz - Loco Loco"
 date: 2022-09-19
 categories: 
-  - "malaysia"
+  - "Malaysia"
 ---
 
 ## Lirik Lagu Loco Loco - Luqman Faiz

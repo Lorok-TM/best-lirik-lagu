@@ -2,7 +2,7 @@
 title: "Bulan Manangih - Silva Hayati"
 date: 2025-04-18
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Malam nan ko den pandangi bulan Manangih ditutuik awan hitam Sairiang rinai jatuah aia mato Dek denai putuih cinto

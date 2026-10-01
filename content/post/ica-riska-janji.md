@@ -2,7 +2,7 @@
 title: "Ica Riska - Janji"
 date: 2025-09-03
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Buah pepaya Dimakan dipohon duku Ku sangka kau setia Tahunya kamu selingkuh

@@ -2,7 +2,7 @@
 title: "Melangitkanmu - Ghea Indrawari"
 date: 2025-04-18
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Verse : Merenungi alam semesta Merintih ke langit.. Di sumbu bumi yang sesak Jiwaku dipeluk..

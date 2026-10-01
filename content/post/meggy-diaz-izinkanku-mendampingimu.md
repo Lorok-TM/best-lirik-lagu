@@ -2,7 +2,7 @@
 title: "Meggy Diaz - Izinkanku Mendampingimu"
 date: 2023-06-19
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Lirik Lagu Indo dengan judul Izinkan Ku Mendampingimu yang dinyanyikan oleh Meggy Diaz dan diciptakan oleh Emen, Iwan MS dengan irama musik Slow Rock.

@@ -2,7 +2,7 @@
 title: "Ratok Dagang Malang - Daniel Maestro"
 date: 2025-03-24
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Ratok Dagang Malang yang dibawakan oleh Daniel Maestro.

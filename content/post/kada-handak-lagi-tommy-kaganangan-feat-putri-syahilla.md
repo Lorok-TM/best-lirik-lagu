@@ -2,7 +2,7 @@
 title: "Kada Handak Lagi - Tommy Kaganangan Feat Putri Syahilla"
 date: 2025-04-02
 categories: 
-  - "banjar"
+  - "Banjar"
 ---
 
 

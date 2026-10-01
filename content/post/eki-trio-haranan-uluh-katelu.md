@@ -2,7 +2,7 @@
 title: "Eki Trio - Haranan Uluh Katelu"
 date: 2026-09-14
 categories: 
-  - "dayak"
+  - "Dayak"
 ---
 
 Katika aku manunggu Genep harapan je sanan muh akangku Tapi ikau malah manipu nanjaru Hancur pangkeme perasaanku

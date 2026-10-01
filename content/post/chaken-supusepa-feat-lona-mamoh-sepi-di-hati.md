@@ -2,7 +2,7 @@
 title: "Chaken Supusepa feat. Lona Mamoh - Sepi Di Hati"
 date: 2025-11-07
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 Malam ini Beta duduk sendiri Sunyi mencekam tiada yang menemani Waktu akan terus berlalu Tanpa syarat ale su pigi kastinggal beta

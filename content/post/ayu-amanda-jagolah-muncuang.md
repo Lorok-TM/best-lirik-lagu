@@ -2,7 +2,7 @@
 title: "Ayu Amanda - Jagolah Muncuang"
 date: 2025-08-22
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Santiang bana dunsanak bicaro Tajam cando pisau mato duo Ciek nan di sabuik kanai sadonyo Lah bakalebuik urang sado nyo Ciek nan di sabuik kanai sadonyo Lah bakalebuik urang sadonyo

@@ -2,7 +2,7 @@
 title: "Rindu Di Rantau Urang - Yoga Vhein"
 date: 2025-03-01
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Rindu Di Rantau Urang yang dibawakan oleh Yoga Vhein.

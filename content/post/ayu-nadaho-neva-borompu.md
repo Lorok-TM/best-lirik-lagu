@@ -2,7 +2,7 @@
 title: "Ayu Nadaho & Neva - Borompu"
 date: 2026-09-16
 categories: 
-  - "dayak"
+  - "Dayak"
 ---
 
 Ooo bi ompu Muntuh mongint moni koto Ngajah mi bopomang Mi bokondan

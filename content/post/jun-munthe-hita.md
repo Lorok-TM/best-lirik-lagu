@@ -2,7 +2,7 @@
 title: "Jun Munthe - Hita"
 date: 2025-10-24
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Hasian unang holsoan ho Di akka hata na manegai pikkiranmi Hasian unang be ganggu Di son do au tong-tong manghaol ho Di susa nang sonangmi

@@ -2,7 +2,7 @@
 title: "Angen Angen - Dini Kurnia Feat Mufly Key"
 date: 2025-02-05
 categories: 
-  - "osing"
+  - "Osing"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Angen Angen yang dibawakan oleh Dini Kurnia Ft Mufly Key.

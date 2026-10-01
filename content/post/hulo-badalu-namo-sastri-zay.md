@@ -2,7 +2,7 @@
 title: "Hulö Badalu Namö - Sastri Zay"
 date: 2025-02-25
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Hulo Badalu Namo yang dibawakan oleh Sastri Zay.

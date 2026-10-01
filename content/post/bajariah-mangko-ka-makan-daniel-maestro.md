@@ -2,7 +2,7 @@
 title: "Bajariah Mangko Ka Makan - Daniel Maestro"
 date: 2025-01-03
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Bajariah Mangko Ka Makan yang dibawakan oleh Daniel Maestro.

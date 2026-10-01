@@ -2,7 +2,7 @@
 title: "Mesya Orin - Seso Cinto Di Ujuang Jalan"
 date: 2025-07-22
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Lah arek bana rasonyo kasiah dalam ganggaman Ka denai babarikan janji janji Manih bauntai kato rayuan gurau manjo Balulua bana jo raso picayo

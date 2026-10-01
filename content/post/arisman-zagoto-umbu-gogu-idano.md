@@ -2,7 +2,7 @@
 title: "Arisman Zagoto - Umbu Gögu Idanö"
 date: 2025-11-25
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 Afökhö woangeraigö Wa'aurigu si'ero ma'ökhö Heza usawa lömanö lala dödö Me'ara ulau me'e manö

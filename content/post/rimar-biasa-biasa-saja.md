@@ -2,7 +2,7 @@
 title: "Rimar - Biasa Biasa Saja"
 date: 2025-04-27
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Verse : Pagi datang, siang sore malam pun juga datang.. Tiap hari hanya berputar-putar begitu saja.. (begitu saja..)

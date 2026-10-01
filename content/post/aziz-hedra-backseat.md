@@ -2,7 +2,7 @@
 title: "Aziz Hedra - Backseat"
 date: 2026-09-25
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 I was a kid full of dreams Nothing seemed out of reach Having one or two shows then a big screen

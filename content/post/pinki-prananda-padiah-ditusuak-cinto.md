@@ -2,7 +2,7 @@
 title: "Pinki Prananda - Padiah Ditusuak Cinto"
 date: 2025-06-20
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Sakiknyo hati denai kini adiak Yo sabana sakik Adiak kicuah denai yo dari Yo dari balakang Jo denai adiak bacinto Jo nan lain adiak basayang Muluik adiak hanyo manih di muko sajo

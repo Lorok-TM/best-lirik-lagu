@@ -2,7 +2,7 @@
 title: "Atos Ah - Adryan Damaputra"
 date: 2024-07-14
 categories: 
-  - "sunda"
+  - "Sunda"
 ---
 
 **Berikut lirik Atos Ah yang dinyanyikan oleh Adryan Damaputra.**

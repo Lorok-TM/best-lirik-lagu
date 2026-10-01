@@ -2,7 +2,7 @@
 title: "Intan Mandasari - Sing Tak Tresnani"
 date: 2025-11-19
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 Langite mendung katon koyo ngerti Rasane atiku Kelangan wong sing tak tresnani Aku neng kene tansah mikir kowe

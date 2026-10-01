@@ -2,7 +2,7 @@
 title: "Sya'ban Menyapa Romadhon Dinanti - 3 Nahla"
 date: 2025-02-24
 categories: 
-  - "religi"
+  - "Religi"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Sya'ban Menyapa Romadhon Dinanti yang dibawakan oleh 3 Nahla.

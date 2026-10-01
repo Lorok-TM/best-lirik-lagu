@@ -2,7 +2,7 @@
 title: "Shinta Arsinta - Cinta Luar Biasa"
 date: 2025-12-06
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Jangan engkau ragukan Cinta yang aku punya Selam ini ku sayang tanpa ragu di dada Yang ku harap engkaupun demikian

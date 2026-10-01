@@ -2,7 +2,7 @@
 title: "Daniel Maestro - Jikok Den Turuik Kato Hati"
 date: 2026-08-17
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 

@@ -2,7 +2,7 @@
 title: "Sheryl Sheinafia - Babibu"
 date: 2026-09-06
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Letakkan tanganmu dipinggulku Bawa tanganku ke bahumu Rayuku dalam dansa yang tak berwaktu

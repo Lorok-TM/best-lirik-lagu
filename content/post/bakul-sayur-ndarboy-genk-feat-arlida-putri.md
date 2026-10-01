@@ -2,8 +2,7 @@
 title: "Bakul Sayur - Ndarboy Genk Feat Arlida Putri"
 date: 2026-08-12
 categories: 
-  - "dangdut"
-  - "java"
+  - "Jawa"
 ---
 
 

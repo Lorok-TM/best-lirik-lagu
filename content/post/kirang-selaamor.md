@@ -2,7 +2,7 @@
 title: "Kirang - Selaamor"
 date: 2026-07-28
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 

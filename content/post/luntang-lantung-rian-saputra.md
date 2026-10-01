@@ -2,7 +2,7 @@
 title: "Luntang Lantung - Rian Saputra"
 date: 2024-09-09
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 Sing ngelah meme bape Hidup tyang lare Dije keh meme bape Dini tyang rindu

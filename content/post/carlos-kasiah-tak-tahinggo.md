@@ -2,7 +2,7 @@
 title: "Carlos - Kasiah Tak Tahinggo"
 date: 2025-09-21
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Lamo lah lamo denai tahan Den bujuak bujuak hati Supayo jan tumbuah banci Tapi adiak mancari cari Jalan kito bapisah Babuek buek juo parangai

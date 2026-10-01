@@ -2,7 +2,7 @@
 title: "Gitarena Br Ginting - Roti Tar"
 date: 2023-05-31
 categories: 
-  - "karo"
+  - "Karo"
 ---
 
 Lirik Lagu Karo dengan judul Roti Tar yang dinyanyikan oleh Gitarena Br Ginting dan diciptakan oleh Jhon Pradep Tarigan dengan irama musik Pop.

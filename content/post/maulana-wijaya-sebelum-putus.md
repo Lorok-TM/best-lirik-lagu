@@ -2,7 +2,7 @@
 title: "Maulana Wijaya - Sebelum Putus"
 date: 2023-05-02
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Lirik Lagu Melayu dengan judul Sebelum Putus / Salahku Terlalu Cinta yang dinyanyikan oleh Maulana Wijaya dan diciptakan oleh Ajhay Pasma dengan irama musik Pop.

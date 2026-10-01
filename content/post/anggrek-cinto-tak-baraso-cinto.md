@@ -2,7 +2,7 @@
 title: "Anggrek - Cinto Tak Baraso Cinto"
 date: 2025-10-24
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Manga sayang ko sio sio Manga cinto tak baraso cinto Manga kalam lah tampak tarangnyo hujan barado juo Namun dingin manusuak dado

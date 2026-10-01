@@ -2,7 +2,7 @@
 title: "Andra Respati - Cintaku Sedalam Pusaran Bumi"
 date: 2022-04-16
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 ## Lirik Lagu “Cintaku Sedalam Pusaran Bumi” by Andra Respati

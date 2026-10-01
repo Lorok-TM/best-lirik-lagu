@@ -2,7 +2,7 @@
 title: "Bakaca - Dj Qhelfin"
 date: 2026-08-06
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 Karya musik berjudul "BAKACA" yang diciptakan dan dibawakan oleh Dj Qhelfin membawa narasi realitas sosial yang berakar pada metafora introspeksi diri. Secara etimologis dalam dialek melayu timur atau Manado, istilah "bakaca" berarti bercermin, yang dalam konteks lagu ini berfungsi sebagai instrumen filosofis untuk menilai kepantasan diri sebelum menghakimi orang lain. Latar belakang cerita dalam aransemen musik elektronik khas Indonesia Timur ini menyoroti fenomena kesenjangan ekspektasi dalam hubungan sosial maupun asmara, di mana seseorang dituntut untuk sadar akan kapasitas personal, rekam jejak, serta kekurangan internalnya. Melalui pendekatan lirik yang lugas, karya ini mengkritik perilaku keangkuhan ego manusia sekaligus mengedukasi pendengarnya mengenai pentingnya kejujuran emosional dan kerendahan hati dalam berinteraksi.

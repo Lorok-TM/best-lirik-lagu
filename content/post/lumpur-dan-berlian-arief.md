@@ -2,7 +2,7 @@
 title: "Lumpur Dan Berlian - Arief"
 date: 2025-03-23
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Di sini kau tanam kasih Berbuah di taman orang Rapuhnya menahan perih Aku yang menanggung beban

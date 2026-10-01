@@ -2,7 +2,7 @@
 title: "Suryanto Siregar - Pajumpang Di Dunia Maya"
 date: 2025-05-02
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Hallo hallo hallo Ada apa ito ima hatakku Mangalusi telepon na i Hu bege lambok soaran na i Marhusori rohakki ala ni i Siapakah gerangan

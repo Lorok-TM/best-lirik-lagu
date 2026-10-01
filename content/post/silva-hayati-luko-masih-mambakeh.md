@@ -2,7 +2,7 @@
 title: "Silva Hayati - Luko Masih Mambakeh"
 date: 2025-09-05
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Ndak samurah mambaliak talapak tangan Nak nyo elok hati denai ko tuan Luko masih mambakeh padiahnyo alun lapeh Dek tabayang didenai yo tangih mande

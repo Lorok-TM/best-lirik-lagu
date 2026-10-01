@@ -2,7 +2,7 @@
 title: "Yank - Difarina Indra Adella"
 date: 2026-07-01
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Yank, coba kau jujur padaku Yank, foto siapa di dompetmu Yank, kok kamu diam begitu Sayang, jawab atau aku pergi, sayang

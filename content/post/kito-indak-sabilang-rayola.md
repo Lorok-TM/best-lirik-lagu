@@ -2,7 +2,7 @@
 title: "Kito Indak Sabilang - Rayola"
 date: 2024-08-26
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Yo malang bana den bacinto Sabana sansai nan mangganggam sayang Sarupo gunuang jo lautan Nasib uda yo lai sanang Malang tibo didenai

@@ -2,7 +2,7 @@
 title: "Elsa Pitaloka - Sirnalah Mimpiku"
 date: 2025-08-08
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 Dulu kau yang berucap janji Namun kau pula yang ingkari Tega kau khaniti rasa Yang dulu ku anggap setia

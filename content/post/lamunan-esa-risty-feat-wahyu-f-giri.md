@@ -2,7 +2,7 @@
 title: "Lamunan - Esa Risty Feat Wahyu F Giri"
 date: 2025-02-04
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Lamunan yang dibawakan oleh Esa Risty Ft Wahyu F Giri.

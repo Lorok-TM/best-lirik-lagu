@@ -2,7 +2,7 @@
 title: "Nesa Natajaya - Kekasih Bengen"
 date: 2022-01-12
 categories: 
-  - "tarling"
+  - "Tarling"
 ---
 
 ## Lirik Lagu Tarling ”Kekasih Bengen“ by Nesa Natajaya

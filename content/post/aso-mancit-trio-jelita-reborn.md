@@ -2,7 +2,7 @@
 title: "Aso Mancit - Trio Jelita Reborn"
 date: 2024-08-17
 categories: 
-  - "tapsel"
+  - "Tapsel"
 ---
 
 Tampan pe abg da rupomu Huligi doi sondia parohamu Yakin nau bahat simpananmu Eh sorri sorri ho inda levelku

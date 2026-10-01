@@ -2,7 +2,7 @@
 title: "Selvi Ayunda - Tak Ning Edinah"
 date: 2025-09-01
 categories: 
-  - "madura"
+  - "Madura"
 ---
 
 Seneng ate bule apolong ben dhika Edhina sa'are tak bisa loppa Bhunga ate bule abhereng ben dhika Duh kakak se genteng manis robena Aduh kakak se manis robena

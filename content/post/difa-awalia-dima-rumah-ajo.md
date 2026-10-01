@@ -2,7 +2,7 @@
 title: "Difa Awalia - Dima Rumah Ajo"
 date: 2026-09-05
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Dima Rumah Ajo Lah Sapakan Den Mancari Baa Kabatanyo Nomor Wa Ajo Mati Dari Kayu Tanam Lah Mulai Denai Tanyokan Sampai Lubuak Aluang Dek Bajalan Denai Pingsan Denai Lah Pingsan Ko Jo Baa Lai Ko Caronyo Nan Rumah Ajo Iyo Ndak Basobok Juo

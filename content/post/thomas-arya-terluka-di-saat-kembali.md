@@ -2,7 +2,7 @@
 title: "Thomas Arya - Terluka Di Saat Kembali"
 date: 2023-02-05
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 Thomas Arya rilis single Melayu berjudul "Terluka Di Saat Kembali" yang diciptakan oleh Amri Damanin, menceritakan tentang seseorang yang terluka hatinya karena pengkhianatan dari sang kekasih.

@@ -2,8 +2,7 @@
 title: "Terminal Gayatri - Tiara Amora Feat Jo Klithik"
 date: 2026-07-30
 categories: 
-  - "dangdut"
-  - "java"
+  - "Jawa"
 ---
 
 Tekamu tak tunggu neng terminal gayatri Tulungagung biyen kuwi sing dadi saksi Yen tresnamu lan tresnaku biso nyawiji Nganti sprene kowe sing tak enteni

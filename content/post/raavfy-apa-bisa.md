@@ -2,7 +2,7 @@
 title: "Raavfy - Apa Bisa"
 date: 2026-09-03
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Kalau nanti Ada Yang bertanya Apa apa alasanku Tuk memilih dirimu Tanpa kujawab

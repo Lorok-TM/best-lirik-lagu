@@ -2,7 +2,7 @@
 title: "Cut Rani Auliza - Hambar Kepucuk"
 date: 2023-03-09
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Lirik Lagu Melayu dengan judul Hambar Kepucuk yang dinyanyikan oleh Cut Rani Auliza dengan irama musik Pop.

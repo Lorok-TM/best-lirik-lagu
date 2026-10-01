@@ -2,7 +2,7 @@
 title: "Arghado Trio - Ribak Ribak Ni Baju"
 date: 2025-10-21
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Tarsingot au daito Tingki mardongan au tu ho Tung tudia pe sai rap do hita Marsitiopan tangan ujui

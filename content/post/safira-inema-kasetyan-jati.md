@@ -2,7 +2,7 @@
 title: "Safira Inema - Kasetyan Jati"
 date: 2025-06-29
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Hywang candra wus ilang citrane Mendhung peteng nglimputi cahyane Riwis ngantheni kapangku Amung sira pepujan atiku

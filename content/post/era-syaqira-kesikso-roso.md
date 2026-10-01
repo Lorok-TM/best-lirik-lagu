@@ -2,7 +2,7 @@
 title: "Era Syaqira - Kesikso Roso dan Artinya"
 date: 2023-03-25
 categories: 
-  - "dangdut"
+  - "Dangdut"
   - "osing"
 ---
 

@@ -2,7 +2,7 @@
 title: "Ayang Ayang - Damara De Feat Tadeus Lavora"
 date: 2025-03-29
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Ayang Ayang yang dibawakan oleh Damara De Ft Tadeus Lavora.

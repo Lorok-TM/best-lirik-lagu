@@ -2,7 +2,7 @@
 title: "Sayang - Azmy Z Feat. Webby Restu"
 date: 2024-08-07
 categories: 
-  - "sunda"
+  - "Sunda"
 ---
 
 Lagu Sunda berjudul "Sayang" karya cipta Boy Arisandi yang dibawakan oleh Azmy Z bersama Webby Restu secara filosofis merefleksikan dinamika komitmen, kesetiaan, serta keteguhan rasa di tengah dualitas hubungan percintaan modern. Struktur narasi dalam liriknya menyoroti kontras antara harapan ideal atas kasih sayang yang utuh dan realitas kerentanan emosional ketika menghadapi potensi pengkhianatan atau ketidakpastian sikap dari pasangan. Kolaborasi vokal yang kontras namun saling mengisi antara karakter pembawaan Azmy Z dan Webby Restu mempertegas latar belakang cerita yang berbasis pada dialog batin dua insan dalam menyamakan persepsi atas makna ketulusan. Melalui pendekatan aransemen yang memadukan unsur tradisional Sunda dan pop modern, karya musik ini pada hakikatnya menyampaikan pesan moral tentang pentingnya transparansi emosional dan penolakan terhadap kepalsuan relasi demi menjaga kehormatan sebuah ikatan asmara.

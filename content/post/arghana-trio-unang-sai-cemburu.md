@@ -2,7 +2,7 @@
 title: "Arghana Trio - Unang Sai Cemburu"
 date: 2023-04-06
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Lirik Lagu Batak dengan judul Unang Sai Cemburu yang dinyanyikan oleh Arghana Trio dan diciptakan oleh Robert Marbun dengan irama musik Pop.

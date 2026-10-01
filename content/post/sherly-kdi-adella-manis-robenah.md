@@ -2,7 +2,7 @@
 title: "Sherly Kdi Adella - Manis Robenah"
 date: 2025-10-23
 categories: 
-  - "madura"
+  - "Madura"
 ---
 
 Lakar benyak oreng se lebur Robenah manis tak cambur Ngaolle dhikah bersukur Buleh pojur

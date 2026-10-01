@@ -2,7 +2,7 @@
 title: "Sari Br Sembiring - Sungkun Min Aku"
 date: 2025-11-22
 categories: 
-  - "karo"
+  - "Karo"
 ---
 
 Sungkun min aku Sungkun min aku Sungkun min aku gelah jadi rondongndu

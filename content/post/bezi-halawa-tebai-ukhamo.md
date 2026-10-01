@@ -2,7 +2,7 @@
 title: "Bezi Halawa - Tebai Ukhamö"
 date: 2025-09-02
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 Tolana nda'ugö buru'u Noö'agö dumalai mbute mbulu Bana akhiu ya'o fune hawu Hatö ba lehe lehe tanö tou

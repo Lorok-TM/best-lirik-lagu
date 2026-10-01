@@ -2,7 +2,7 @@
 title: "Aprilian feat. Rheka Restu - Mungkinkah Cintamu Kembali"
 date: 2023-11-25
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Aprilian & Rheka Restu bersama Arya Pro rilis single Melayu berjudul "Mungkinkah Cintamu Kembali" yang diciptakan oleh Thomas Arya, menceritakan tentang hubungan cinta yang sudah tak bisa dipersatukan kembali.

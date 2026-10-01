@@ -2,7 +2,7 @@
 title: "ILIR7 - Mama Tolong Aku"
 date: 2023-03-14
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 ILIR 7 dibawah naungan label Ascada Musik rilis single berjudul "Mama Tolong Aku", menceritakan tentang seseorang yang sedang merasa galau dan curhat minta petunjuk kepada Ibunda tercinta.

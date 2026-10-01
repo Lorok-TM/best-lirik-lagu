@@ -2,8 +2,7 @@
 title: "Shinta Arsinta - Asmoro"
 date: 2026-07-18
 categories: 
-  - "dangdut"
-  - "java"
+  - "Jawa"
 ---
 
 Kadang pengen nesu Ngeroso cemburu Yen kelingan kabeh Tentang ceritamu

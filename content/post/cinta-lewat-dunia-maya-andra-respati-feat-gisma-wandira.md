@@ -2,7 +2,7 @@
 title: "Cinta Lewat Dunia Maya - Andra Respati Feat. Gisma Wandira"
 date: 2024-08-24
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 Tiada ku sangka antara kita Awal berjumpa di dunia maya Saling menyapa antara kita Ku kenal dirimu

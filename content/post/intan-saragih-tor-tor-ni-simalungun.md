@@ -2,7 +2,7 @@
 title: "Intan Saragih - Tor Tor Ni Simalungun"
 date: 2025-05-04
 categories: 
-  - "simalungun"
+  - "Simalungun"
 ---
 
 Eta hita manortor Tor tor ni Simalungun Sada ibagas riah Riah malas ni uhur

@@ -2,7 +2,7 @@
 title: "Sorai - Nadin Amizah"
 date: 2026-07-17
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Langit dan laut saling membantu Mencipta awan hujan pun turun Ketika dunia saling membantu Lihat cinta mana yang tak jadi satu Kau memang manusia sedikit kata Bolehkah aku yang berbicara Kau memang manusia tak kasat rasa Biar aku yang mengemban cinta

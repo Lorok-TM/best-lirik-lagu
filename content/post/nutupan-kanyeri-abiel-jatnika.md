@@ -2,7 +2,7 @@
 title: "Nutupan Kanyeri - Abiel Jatnika"
 date: 2025-01-10
 categories: 
-  - "sunda"
+  - "Sunda"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Nutupan Kanyeri yang dibawakan oleh Abiel Jatnika.

@@ -2,7 +2,7 @@
 title: "Dike Sabrina - Tante Culik Aku Dong"
 date: 2026-07-17
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Tante tante culik aku dong Ku gak mau malem minggu cuman bengong Tante tante ajak dugem dong Hatiku galau temanku semua pada sombong

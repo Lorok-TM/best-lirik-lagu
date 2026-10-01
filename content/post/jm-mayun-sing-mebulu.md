@@ -2,7 +2,7 @@
 title: "JM Mayun - Sing Mebulu feat Moris Bali, Dewa Tunik"
 date: 2023-06-27
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 JM Mayun & Moris Bali, Dewa Tunik rilis single dengan lirik dalam bahasa Bali berjudul "Sing Mebulu" yang artinya "Tidak Berbulu", menceritakan tentang seorang cowok yang terpesona sama cewek cantik berkulit putih mulus tanpa bulu.

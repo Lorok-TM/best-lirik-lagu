@@ -2,7 +2,7 @@
 title: "Cemburu - Yessy Diana"
 date: 2024-08-02
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 Huu uu Huu uu uu Huu uu Huu uu uu

@@ -2,7 +2,7 @@
 title: "Mutiara - Fany Zee"
 date: 2026-06-29
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 

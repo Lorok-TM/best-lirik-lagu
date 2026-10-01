@@ -2,7 +2,7 @@
 title: "Astani Trio - Tenga Sinehe (Dermawan Zebua)"
 date: 2025-12-22
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 Ba mbõrõta wefaoda silalõ Darua ita no hasara dõdõ Ha ya'o ba yaugõ Lõ sa'ae niha bõ'õ Awõ ba wangosisi inõtõ

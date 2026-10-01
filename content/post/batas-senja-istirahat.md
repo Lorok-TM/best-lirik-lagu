@@ -2,7 +2,7 @@
 title: "Batas Senja - Istirahat"
 date: 2026-09-02
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Aku tau kau lelah Tapi kau selalu bangkit dan tak menyerah Meski ini tak mudah Kau pun terus melangkah

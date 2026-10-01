@@ -2,7 +2,7 @@
 title: "Thomas Arya - Alunan Hati Yang Terluka"
 date: 2026-07-14
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 

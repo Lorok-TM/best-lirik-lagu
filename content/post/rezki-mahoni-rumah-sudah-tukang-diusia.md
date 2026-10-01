@@ -2,7 +2,7 @@
 title: "Rezki Mahoni - Rumah Sudah Tukang Diusia"
 date: 2023-06-15
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Lirik Lagu Minang dengan judul Rumah Sudah Tukang Di Usia yang dinyanyikan oleh Rezki Mahoni dan diciptakan oleh Rozac Tanjung dengan irama musik Pop.

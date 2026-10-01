@@ -2,7 +2,7 @@
 title: "Ratu Sikumbang - Indak Batamu Ujuangnyo"
 date: 2025-04-24
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Alah lamo den cubo bajuang Samakin lamo den maraso samakin hilang Latiah manyamai denai indak manuai Kasiah den harok tak kunjuang sampai

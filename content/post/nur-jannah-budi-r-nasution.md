@@ -2,7 +2,7 @@
 title: "Nur Jannah - Budi R Nasution"
 date: 2025-01-22
 categories: 
-  - "tapsel"
+  - "Tapsel"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Nur Jannah yang dibawakan oleh Budi R Nasution.

@@ -2,7 +2,7 @@
 title: "Prasetya Yoga - Tasisiah Dalam Etongan"
 date: 2025-05-01
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Salamo nyao tau nan jo badan Baragam seso sakik jo sanang Buruak ta pandang di tangah galanggang Tasisiah badan di dalam etongan

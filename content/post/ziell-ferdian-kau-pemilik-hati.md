@@ -2,7 +2,7 @@
 title: "Ziell Ferdian - Kau Pemilik Hati"
 date: 2026-06-11
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 

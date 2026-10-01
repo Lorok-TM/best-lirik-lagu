@@ -2,7 +2,7 @@
 title: "Gerigis - Diva Hani"
 date: 2025-03-25
 categories: 
-  - "osing"
+  - "Osing"
 ---
 
 Gerigis aduh udan gerigis Soyo suwi anter gluduke Apuwo riko nangis Opo tah hang dirasakno

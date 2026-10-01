@@ -2,7 +2,7 @@
 title: "Ona Hetharua - Canda Semata"
 date: 2023-03-22
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 Lirik Lagu Timur dengan judul Canda Semata yang dinyanyikan oleh Ona Hetharua dan diciptakan oleh Ilham Rauf dengan irama musik Pop.

@@ -2,7 +2,7 @@
 title: "My Girl 1994 - Abdee Negara x The Citizen"
 date: 2025-04-19
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Verse : Oh my girl.. Ketika jemari tangan kita Saling menggenggam, kuat dan erat Gemuruh luluh hati ini..

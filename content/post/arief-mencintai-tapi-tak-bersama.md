@@ -2,7 +2,7 @@
 title: "Arief - Mencintai Tapi Tak Bersama"
 date: 2022-12-22
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Lirik Lagu Melayu dengan judul Mencintai Tapi Tak Bersama yang dinyanyikan oleh Arief dan diciptakan oleh Ajhay Pasma dengan irama musik Pop.

@@ -2,7 +2,7 @@
 title: "Ray Peni - Tresna Lato Lato dan Maknanya"
 date: 2023-01-20
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 Ray Peni rilis single dengan lirik dalam bahasa Bali berjudul "Tresna Lato Lato", menceritakan tentang seseorang yang tidak ingin gagal dalam menjalin sebuah hubungan cinta dengan pacarnya.

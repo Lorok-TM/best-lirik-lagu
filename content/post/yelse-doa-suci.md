@@ -2,7 +2,7 @@
 title: "Yelse - Doa Suci"
 date: 2023-05-03
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Lirik Lagu Melayu dengan judul Doa Suci yang dinyanyikan oleh Yelse dan diciptakan oleh Emen dengan irama musik Pop.

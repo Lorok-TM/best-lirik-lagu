@@ -2,7 +2,7 @@
 title: "De Umelo Kotania Idi - Yuki Vii"
 date: 2024-09-10
 categories: 
-  - "bugis"
+  - "Bugis"
 ---
 
 

@@ -2,8 +2,7 @@
 title: "Lilo - Dike Sabrina"
 date: 2026-07-18
 categories: 
-  - "dangdut"
-  - "java"
+  - "Jawa"
 ---
 
 Opo wis ora kelingan Sumpah janjimu mung marang aku Sineksen lintang rembulan Jarene tresnamu mung kanggo aku

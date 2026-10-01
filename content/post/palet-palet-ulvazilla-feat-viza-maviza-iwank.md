@@ -2,7 +2,7 @@
 title: "Palet Palet - Ulvazilla Feat. Viza Maviza & Iwank"
 date: 2025-05-19
 categories: 
-  - "aceh"
+  - "Aceh"
 ---
 
 Palet bak taku Intan berlian Palet bak badan Grang-gring meutia

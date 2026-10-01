@@ -2,7 +2,7 @@
 title: "Satu Minggu - Tika Pagraky"
 date: 2025-02-10
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Satu Minggu yang dibawakan oleh Tika Pagraky.

@@ -2,7 +2,7 @@
 title: "Sumpah Danji Tua - Gulliver Thomas & Meredith B"
 date: 2024-09-05
 categories: 
-  - "iban"
+  - "Iban"
 ---
 
 Ayas nuan intan Ngasuh atiku semampai meruan Lelengau seingau Anang irau nuanku sayau

@@ -2,7 +2,7 @@
 title: "Sengaja Kau Gores Luka - Elsa Pitaloka"
 date: 2024-08-08
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Puasku menjaga perasaanmu Namun tiada pernah engkau hargai Aku yang mencintaimu setulus hati Sengaja kau gores luka di dada

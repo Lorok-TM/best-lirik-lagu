@@ -2,7 +2,7 @@
 title: "Theun Rindu - Ferdian Nozza"
 date: 2025-01-07
 categories: 
-  - "aceh"
+  - "Aceh"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Theun Rindu yang dibawakan oleh Ferdian Nozza.

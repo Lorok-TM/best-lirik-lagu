@@ -2,7 +2,7 @@
 title: "Safira Inema - Ada Dia"
 date: 2026-08-18
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 

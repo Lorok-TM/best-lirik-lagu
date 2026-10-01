@@ -2,7 +2,7 @@
 title: ".Feast - o,Tuan"
 date: 2025-05-09
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Verse : Oh jelas aku tahu, bunga akan layu Rumput kian mengering Daun kan menguning..

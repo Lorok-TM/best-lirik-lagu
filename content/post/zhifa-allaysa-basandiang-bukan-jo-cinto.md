@@ -2,7 +2,7 @@
 title: "Zhifa Allaysa - Basandiang Bukan Jo Cinto"
 date: 2025-09-15
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Rintiak rintiak hujan turun Sairiang guruah mangalun Di sinan badan tasintak Den pandang ka langik tinggi Awan hitam sakuliliang Batambah kalam di dado

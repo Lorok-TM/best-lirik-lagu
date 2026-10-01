@@ -2,7 +2,7 @@
 title: "David Iztambul - Rusak Bakawan Ramuak Bacinto"
 date: 2023-02-18
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Salam sejahtera untuk sobat semuanya dimanapun berada, pada kesempatan kali ini Best Lyrics™ akan menyajikan Lirik Lagu David Iztambul - Rusak Bakawan Ramuak Bacinto. Sebagai wujud dukungan bagi para penyanyi dan musisi yang telah merilis lagu "Rusak Bakawan Ramuak Bacinto" ini, jangan lupa untuk mendapatkan lagu tersebut melalui platform musik digital resmi seperti Joox, iTunes, Spotify, dan penyedia lainnya, agar mereka bisa terus berkarya dan merilis single terbaru mereka. Anda bisa menikmati video lagu tersebut melalui channel youtube resminya.

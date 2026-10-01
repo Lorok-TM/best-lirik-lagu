@@ -2,7 +2,7 @@
 title: "Arghado Trio - Jujung Goarhi Amang"
 date: 2025-10-20
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Nunga naeng bot be ariki Tokkin nari suda ma nang gogokki Ho nama anak hasianku Na boi manjujung goarhi

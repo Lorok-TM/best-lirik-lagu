@@ -2,7 +2,7 @@
 title: "Takkan Pisah - Ajeng Febria"
 date: 2026-07-06
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 

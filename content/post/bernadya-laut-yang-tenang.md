@@ -2,7 +2,7 @@
 title: "Bernadya - Laut Yang Tenang"
 date: 2026-06-24
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Tidur cukup, bangun pagi sesekali Panggung masih stabil, seminggu dua kali Tiada masalah yang buat ku frustrasi Sampai jam tiga pagi

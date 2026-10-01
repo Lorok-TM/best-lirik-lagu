@@ -2,7 +2,7 @@
 title: "Senin Sampai Jumat - Rafi Sudirman"
 date: 2026-09-02
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Semalam baru bertemu Tapi mengapa pagi ini Aku sudah merindu? Ingin ke rumahmu Atau kemanapun kau mau Asal kau setuju

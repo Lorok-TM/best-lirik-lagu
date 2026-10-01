@@ -2,7 +2,7 @@
 title: "Nyanda Ada - Rahman Tasmin Feat Rania Mokoginta"
 date: 2024-12-31
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Nyanda Ada yang dibawakan oleh Rahman Tasmin Ft Rania Mokoginta.

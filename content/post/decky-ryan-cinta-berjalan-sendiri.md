@@ -2,7 +2,7 @@
 title: "Decky Ryan - Cinta Berjalan Sendiri"
 date: 2023-12-10
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 **Lirik Cinta Berjalan Sendiri - Decky Ryan**

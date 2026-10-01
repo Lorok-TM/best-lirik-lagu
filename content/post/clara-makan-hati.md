@@ -2,7 +2,7 @@
 title: "Clara - Makan Hati"
 date: 2025-11-04
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Iyo lah malam sibadan diri Cando mambuang janji Tangguk nan dalam Hilang lah hilang sapaciak pun tak kasanang

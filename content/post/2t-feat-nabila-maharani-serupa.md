@@ -2,7 +2,7 @@
 title: "2T feat. Nabila Maharani - Serupa"
 date: 2025-09-02
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Bayangmu neari diantara di angin malam Di antar bintang yang terus diam Aku terpaku Batin terasa membeku Adakah kau dengar bisik rindu Yang terbang jauh mencarimu

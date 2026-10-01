@@ -2,7 +2,7 @@
 title: "Bansaik Indak Ka Manjadi Baban - Rani Lalai"
 date: 2025-02-25
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Bansaik Indak Ka Manjadi Baban yang dibawakan oleh Rani Lalai.

@@ -2,7 +2,7 @@
 title: "Yudha R.A - A Juo Lai Diak"
 date: 2025-08-03
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Dulu cinto tajalin indak taraso dihati Adiak mancaliak denai jo pandangan cinto nan dalam Sairiang waktu balalu den maraso ado nan lain Adiak salalu mailak jikok ka batamu

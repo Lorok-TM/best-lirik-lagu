@@ -2,7 +2,7 @@
 title: "Dompak Sinaga - Pujionku Ma Goarmu Feat Meta Sinaga"
 date: 2025-07-01
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Sian roha na unduk jala ias Pujionku ma GoarMu o Tuhan Alani basaM nang PanarihonMi Di ganup gulmit ni parngoluonki Di ramoti Ho do au tontong Arian nang borngin i

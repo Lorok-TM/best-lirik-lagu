@@ -2,7 +2,7 @@
 title: "Siji Di Ping Selawe - Shinta Arsinta"
 date: 2026-06-29
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 

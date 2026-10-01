@@ -2,7 +2,7 @@
 title: "Cut Rani Auliza - Sia Sia Mengharap Cintamu"
 date: 2023-04-09
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Lirik Lagu Melayu dengan judul Sia Sia Mengharap Cintamu yang dinyanyikan oleh Cut Rani Auliza dan diciptakan oleh Gustrian Geno dengan irama musik Pop.

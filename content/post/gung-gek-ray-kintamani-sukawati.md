@@ -2,7 +2,7 @@
 title: "Gung Gek Ray - Kintamani Sukawati"
 date: 2025-11-09
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 Kintamani sukawati Tiang ne menemani nak len menikmati Aduh sakitnya tuh disini Buke tebekin tiuk belati

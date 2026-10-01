@@ -2,7 +2,7 @@
 title: "Harry Parintang - Cinto Mati Adiak Baru Ka Sayang"
 date: 2022-12-18
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Lirik Lagu Minang dengan judul Cinto Mati Adiak Baru Ka Sayang yang dinyanyikan dan diciptakan oleh Harry Parintang dengan irama musik Pop.

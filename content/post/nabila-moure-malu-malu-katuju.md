@@ -2,7 +2,7 @@
 title: "Nabila Moure - Malu Malu Katuju"
 date: 2025-08-27
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Mulo bakawan biaso sajo Lamo lamo indak disangko Tumbuah raso cinto diantaro kito Tumbuah raso cinto diantaro kito

@@ -2,7 +2,7 @@
 title: "Randa Putra - Apo Nan Ditanam Itu Nan Dituai"
 date: 2026-01-17
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Babuek denai lupo jo diri Baanjuang badan satinggi nyo Lah lupo denai bacamin diri Disangko cinto ka awak sajo

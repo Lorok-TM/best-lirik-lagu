@@ -2,7 +2,7 @@
 title: "Ongen Tuahena - Luka Seng Badarah"
 date: 2026-08-22
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 

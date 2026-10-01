@@ -2,7 +2,7 @@
 title: "Sumpah Mainan Bibia - Anyqu"
 date: 2025-04-12
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Kato urang sabana sanang Bacinto bakasiah sayang Tapi nan denai raso kan Manguji siparasaan Lai di cubo batenggang Hati jantuang sakik surang

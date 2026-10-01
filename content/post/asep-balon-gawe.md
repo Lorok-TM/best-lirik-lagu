@@ -2,7 +2,7 @@
 title: "Asep Balon - Gawe"
 date: 2025-07-08
 categories: 
-  - "sunda"
+  - "Sunda"
 ---
 
 Garawe lamun hayang sukses montong loba ngabangke Karna hirup mah da ciga naek taraje Lamun mumul berproses mah mening modar we Ey modar we

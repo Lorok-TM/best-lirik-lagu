@@ -2,8 +2,7 @@
 title: "Pantai Klayar - Happy Asmara"
 date: 2026-07-15
 categories: 
-  - "dangdut"
-  - "java"
+  - "Jawa"
 ---
 
 Tulung sawangen, sawangen aku sing nandhang rindu. Oh tulung muliha, senadyan sedela aku wis lila.

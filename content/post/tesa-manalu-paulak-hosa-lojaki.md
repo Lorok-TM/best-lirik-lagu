@@ -2,7 +2,7 @@
 title: "Tesa Manalu - Paulak Hosa Lojaki"
 date: 2025-05-20
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Burjumi hasian Na dilehon Tuhan i di au Aha pe na ni ula ho Mambaen tarpangan rohaki

@@ -2,7 +2,7 @@
 title: "Pajonok Ma Tuson - Dery Sianturi"
 date: 2024-07-08
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 **Lirik Pajonok Ma Tuson yang dinyanyikan oleh Dery Sianturi.**

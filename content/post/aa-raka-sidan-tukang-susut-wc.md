@@ -2,7 +2,7 @@
 title: "AA Raka Sidan - Tukang Susut WC"
 date: 2025-05-01
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 Nyumunin tiang megae Kanggoang dadi tukang susut wc Ne jani sube kanti Ngelah limang cabang restoran cafe

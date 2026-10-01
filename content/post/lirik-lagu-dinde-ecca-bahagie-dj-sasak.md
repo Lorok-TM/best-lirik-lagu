@@ -2,7 +2,7 @@
 title: "Dinde Ecca - Bahagie (Lirik dan Artinya) Githa DJ Sasak"
 date: 2021-05-23
 categories: 
-  - "sasak"
+  - "Sasak"
 ---
 
 ## Lirik Lagu Lombok ”Bahagie“ by Githa / Dinde Ecca

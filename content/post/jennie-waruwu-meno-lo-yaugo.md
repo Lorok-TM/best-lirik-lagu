@@ -2,7 +2,7 @@
 title: "Jennie Waruwu - Meno Lö Yaugö"
 date: 2026-06-09
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 

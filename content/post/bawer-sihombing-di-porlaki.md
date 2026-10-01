@@ -2,7 +2,7 @@
 title: "Bawer Sihombing - Di Porlaki"
 date: 2025-08-23
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Diporlaki ito hita nadua tikki i Dihusippon ho tu au nabuni di rohami

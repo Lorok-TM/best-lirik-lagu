@@ -2,7 +2,7 @@
 title: "Fany Zee - Setiamu Ada Masanya"
 date: 2023-01-21
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 Fany Zee bersama Arya Pro rilis single Melayu berjudul "Setiamu Ada Masanya" yang diciptakan oleh Thomas Arya, menceritakan tentang sebuah kesetiaan yang seharusnya tidak ada masanya namun kesetiaan yang selama ini sudah dijaga dengan baik telah memudar termakan sang waktu hingga akhirnya semua sirna dan pupuslah sudah.

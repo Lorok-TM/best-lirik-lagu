@@ -2,7 +2,7 @@
 title: "Tanda Cinta - Laila Ayu feat. Irwan Krisdiyanto"
 date: 2026-07-15
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Kuterima tanda kasih Seutuhnya kauberikan kepadaku

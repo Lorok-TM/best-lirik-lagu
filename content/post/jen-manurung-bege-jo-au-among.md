@@ -2,7 +2,7 @@
 title: "Jen Manurung - Bege Jo Au Among"
 date: 2025-07-02
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Rodo au among, sian parjalanganki Laho mandapotton bakkemi Naung ngaliani Haccit nai, di rohakki laho doho Maninggalhon au...

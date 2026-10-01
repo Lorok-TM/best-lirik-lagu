@@ -2,7 +2,7 @@
 title: "Ridho Zulma - Ragam Masakan feat. Sri Fayola & Ajo Latuih"
 date: 2025-06-19
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Banyak macam ragam masakan Jawa sunda tegal betawi Batak ambon bugih manado Masakan padang tanamo pulo

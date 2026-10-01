@@ -2,7 +2,7 @@
 title: "Nabasa Trio - Tagam Ma Sapatakki"
 date: 2025-05-16
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Molo hu ingoti sudena janjimi Na ikkon ho ito saut di au Hape balik doi sasude na hatami Diose ho mai padantai

@@ -2,7 +2,7 @@
 title: "Simphoni Trio - Unang Attoi Be Au"
 date: 2025-10-01
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Unang attoi be au Molo namambaen parbadaan Unang be sungguli hasian Akka naung salpu di pardonganonta

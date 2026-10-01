@@ -2,7 +2,7 @@
 title: "Dede Risty - Kertas Putih"
 date: 2023-05-27
 categories: 
-  - "tarling"
+  - "Tarling"
 ---
 
 **Lirik Kertas Putih - Dede Risty**

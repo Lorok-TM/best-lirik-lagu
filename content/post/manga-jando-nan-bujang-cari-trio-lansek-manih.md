@@ -2,7 +2,7 @@
 title: "Manga Jando Nan Bujang Cari - Trio Lansek Manih"
 date: 2025-06-03
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Verse : Kok dicaliak di zaman kini.. Banyak nak bujang tabalik kaji.. Alah nyato banyak nak gadih.. Manga nan jando nan bujang cari..

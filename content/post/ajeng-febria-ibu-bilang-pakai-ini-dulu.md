@@ -2,7 +2,7 @@
 title: "Ajeng Febria - Ibu Bilang Pakai Ini Dulu"
 date: 2026-09-27
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Ibu bilang pakai ini dulu Biar mereka mau main Aku malu tapi nurut aja Kenapa Aku di jauhin

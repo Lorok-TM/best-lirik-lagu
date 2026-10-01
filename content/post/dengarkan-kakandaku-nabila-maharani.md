@@ -2,7 +2,7 @@
 title: "Dengarkan Kakandaku - Nabila Maharani"
 date: 2025-05-09
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Disaat kesedihan Yang melanda hati ini Kau hadir membawa bahagia Mengobati sedih dan duka

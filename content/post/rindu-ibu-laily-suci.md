@@ -2,7 +2,7 @@
 title: "Rindu Ibu - Laily Suci"
 date: 2025-03-18
 categories: 
-  - "religi"
+  - "Religi"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Rindu Ibu yang dibawakan oleh Laily Suci.

@@ -2,7 +2,7 @@
 title: "Aprilian - Tipuan Belaka"
 date: 2023-02-07
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Aprilian bersama Padang Musik rilis single Melayu berjudul "Tipuan Belaka" yang diciptakan oleh Amri Damanin, menceritakan tentang seseorang yang merasa kecewa karena telah tertipu cinta.

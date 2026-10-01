@@ -2,7 +2,7 @@
 title: "Si Ku Pindoken - Jimmy Sitepu"
 date: 2024-08-30
 categories: 
-  - "karo"
+  - "Karo"
 ---
 
 Piga kali nari nde nangin pusuhku i lukai ndu Piga kali nari ku kelengi banndu getem pusuhku Lenga nge erpuas puas kam nakiti geluhku Lenga nge erbias bias aku itokohindu nde nangin

@@ -2,7 +2,7 @@
 title: "Sasya Arkhisna - Wujute Roso"
 date: 2025-05-07
 categories: 
-  - "osing"
+  - "Osing"
 ---
 
 Batin sun roso perih perihe seneng Semendale atinisun dung nyawang riko Roso ngeman-ngeman noring dodo Kepingine sun rumati nong njero ati

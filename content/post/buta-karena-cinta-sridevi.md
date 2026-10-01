@@ -2,7 +2,7 @@
 title: "Buta Karena Cinta - Sridevi"
 date: 2026-07-09
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 

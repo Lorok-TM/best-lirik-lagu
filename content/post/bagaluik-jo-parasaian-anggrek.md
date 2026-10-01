@@ -2,7 +2,7 @@
 title: "Bagaluik Jo Parasaian - Anggrek"
 date: 2025-04-20
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Sadari ketek tak basuo sanang Badan bakureh bagaluik jo parasaian Ayah jo mandeh manga den batinggakan Alun lai pueh denai jo kasiah sayang

@@ -2,7 +2,7 @@
 title: "Pongky Marikit - Dia Badin Kurang Hoang dan Artinya"
 date: 2023-03-24
 categories: 
-  - "dayak"
+  - "Dayak"
 ---
 
 Pongky Marikit bersama Dedensy Anugerah Visual Mandiri rilis single dengan lirik dalam bahasa Dayak Daerah Kalimantan Tengah berjudul "Dia Badin Kurang Hoang" yang artinya "Tidak Kurang Rasa Cinta atau Bukannya Gak Cinta", menceritakan tentang seorang lelaki yang hidup susah punya pacar anak orang kaya, pada akhirnya hubungan mereka tidak mendapat restu dari orang tua pacarnya. Untuk lebih jelasnya silahkan Anda baca terjemahan lirik lagunya berada dibawah.

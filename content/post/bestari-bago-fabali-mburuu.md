@@ -2,7 +2,7 @@
 title: "Bestari Bago - Fabali Mburu'u"
 date: 2025-08-17
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 Bahiza nafabali mburu’u Banafarõi wune hawu Fabali fa’ero hulu Farõi fabe haru haru

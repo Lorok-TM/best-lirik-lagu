@@ -2,7 +2,7 @@
 title: "Rela Do Au - Jonar Situmorang"
 date: 2025-06-17
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Rap hita na dua di borgin i Alai sai sip do ho di jolokki Margorak rohakki Hutatap simalolongmi Hutiop tanganmi Alai sai dipalua ho

@@ -2,7 +2,7 @@
 title: "Terima Kasih Sayang - Wulandari"
 date: 2025-02-21
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Terima Kasih Sayang yang dibawakan oleh Wulandari.

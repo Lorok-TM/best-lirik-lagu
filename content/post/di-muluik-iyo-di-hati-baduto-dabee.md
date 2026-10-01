@@ -2,7 +2,7 @@
 title: "Di Muluik Iyo Di Hati Baduto - Dabee"
 date: 2026-08-10
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 

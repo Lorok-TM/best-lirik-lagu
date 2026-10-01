@@ -2,7 +2,7 @@
 title: "Silvy Kumalasari - Pacobaning Urip"
 date: 2025-07-25
 categories: 
-  - "campursari"
+  - "Campursari"
 ---
 
 Kok koyo ngene abot sanggane Yen lagi dadi wong ora nduwe Tak rewangi mbendino nyambut gawe rekoso Nanging kayane ra sepiro

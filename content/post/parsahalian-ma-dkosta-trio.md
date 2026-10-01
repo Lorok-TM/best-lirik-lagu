@@ -2,7 +2,7 @@
 title: "Parsahalian Ma - D’Kosta Trio"
 date: 2025-06-18
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Aut boi ma dibereng ho ito Manang aha di bagasan rohakkon Rap botoonmu sega hian au ala panadingmon Jahat hian ho

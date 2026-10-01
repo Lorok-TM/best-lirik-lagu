@@ -2,7 +2,7 @@
 title: "Ranilia Br Ginting - Iah Kataken Saja"
 date: 2023-04-03
 categories: 
-  - "karo"
+  - "Karo"
 ---
 
 Lirik Lagu Karo dengan judul Iah Kataken Saja yang dinyanyikan oleh Ranilia Br Ginting dan diciptakan oleh Tata Banata dengan irama musik Pop.

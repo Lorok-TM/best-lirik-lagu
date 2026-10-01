@@ -2,7 +2,7 @@
 title: "Glenn Samuel - Buktinya Baik Baik Saja"
 date: 2025-07-26
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Dulu ingatkah kau bilang Janji hidup bahagia Bersamamu slamanya

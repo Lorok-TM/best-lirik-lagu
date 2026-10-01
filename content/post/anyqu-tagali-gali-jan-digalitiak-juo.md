@@ -2,7 +2,7 @@
 title: "Anyqu - Tagali Gali Jan Digalitiak Juo"
 date: 2025-04-22
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 ## Lirik Lagu Tagali Gali Jan Digalitiak Juo - Anyqu

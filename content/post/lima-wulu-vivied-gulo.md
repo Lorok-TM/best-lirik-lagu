@@ -2,7 +2,7 @@
 title: "Lima Wulu - Vivied Gulo"
 date: 2025-03-28
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 Oi sala afôkhö dödögu woangeraigö Sidarua somasi khögu me oi tuho dödö Naufaigi gamuata faoma waoböwö Na ufaigi mboto lömanö sinegu dödö

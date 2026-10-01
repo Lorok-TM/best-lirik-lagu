@@ -2,8 +2,8 @@
 title: "Angi Lay - DJ Jerawat Rindu - Viral Tik Tok Gadis Dayak"
 date: 2022-03-16
 categories: 
-  - "remix"
-  - "tiktok"
+  - "Remix"
+  - "Tiktok"
 ---
 
 Title : Jerawat Rindu Artist : Angi Lay / Gadis Dayak Arr : DJ Jon Delonge Original Song : Anji - Jerawat Rindu

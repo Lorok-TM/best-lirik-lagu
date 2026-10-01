@@ -2,7 +2,7 @@
 title: "Alfina Braner - Bagarah Je Nyeh"
 date: 2025-05-14
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Sangko ka lai sangko ka iyo Bagarah je nyeh ndeh bagarah je nyeh Bagarah je nyeh bagarah je nyeh

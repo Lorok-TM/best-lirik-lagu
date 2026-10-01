@@ -2,7 +2,7 @@
 title: "Hilang Di Telan Dusta - Elsa Pitaloka"
 date: 2024-07-11
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 Engkau pujaan hati Yang selalu ku cinta Dan hanyalah engkau segalanya Tempatku mencurahkan rasa

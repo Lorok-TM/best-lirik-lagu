@@ -2,7 +2,7 @@
 title: "Cut Zuhra - Jeritan Hati"
 date: 2023-06-30
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Lirik Lagu Indo dengan judul Jeritan Hati yang dinyanyikan oleh Cut Zuhra dan diciptakan oleh Heriadi dengan irama musik Pop.

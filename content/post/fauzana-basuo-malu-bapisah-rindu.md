@@ -2,7 +2,7 @@
 title: "Fauzana - Basuo Malu Bapisah Rindu"
 date: 2025-05-18
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Bamulo cinto dari pandangan Jatuah ka dalam tunggu sayang Indak di sangko uda taruih tabayang Siang malam hati lah mabuak surang

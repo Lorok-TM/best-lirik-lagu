@@ -2,7 +2,7 @@
 title: "Bersyukur Memilikimu - Delva Irawan Feat Laila Ayu"
 date: 2026-07-22
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Dirimulah yang aku cinta Dirimu lah yang aku sayang Takkan ada yang bisa… Memisahkan cinta kita…

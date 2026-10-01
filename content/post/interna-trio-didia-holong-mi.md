@@ -2,7 +2,7 @@
 title: "Interna Trio - Didia Holong Mi"
 date: 2023-05-05
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Lirik Lagu Batak dengan judul Didia Holong Mi yang dinyanyikan oleh Interna Trio dan diciptakan oleh Lans Hutabarat dengan irama musik Pop.

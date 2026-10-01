@@ -2,7 +2,7 @@
 title: "Asmaraloka - Ajeng Febria"
 date: 2026-07-01
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 Cinta Didunia pasti ada cinta Bermacam rasanya Pahit manis sepah pun ada

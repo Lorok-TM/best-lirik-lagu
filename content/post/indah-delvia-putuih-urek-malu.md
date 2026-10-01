@@ -2,7 +2,7 @@
 title: "Indah Delvia - Putuih Urek Malu"
 date: 2025-04-27
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Cando caciang kapanasan Manggaletang karajonyo Pantang nampak rancak padusi Uda langsuang kanai hati Pantang nampak rancak padusi Uda langsuang kanai hati

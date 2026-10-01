@@ -2,7 +2,7 @@
 title: "Nella Kharisma - Dadi Dunga dan Artinya"
 date: 2023-04-02
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 Nella Kharisma rilis single dengan lirik dalam bahasa Jawa berjudul "Dadi Dunga" yang artinya "Menjadi Doa", menceritakan tentang doa dan harapan orang tua untuk si buah hati tercinta semoga menjadi anak yang berbakti, berguna bagi sesama, takut akan Tuhan, dan menjadi doa ayah dan ibunya. Untuk lebih jelasnya silahkan Anda baca terjemahan lirik lagunya berada dibawah.

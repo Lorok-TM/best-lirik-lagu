@@ -2,7 +2,7 @@
 title: "Cut Rani Auliza - Tak Sempurna"
 date: 2023-10-01
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Cut Rani Auliza bersama GMM Entertainment rilis single Melayu berjudul "Tak Sempurna", menceritakan tentang seseorang berusaha merelakan kekasihnya bahagia bersama orang lain yang lebih berpunya segalanya, karena ia menyadari bahwa keadaan dirinya bukanlah yang sempurna.

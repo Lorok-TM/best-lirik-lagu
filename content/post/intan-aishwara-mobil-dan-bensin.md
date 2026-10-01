@@ -2,7 +2,7 @@
 title: "Intan Aishwara - Mobil Dan Bensin"
 date: 2023-05-30
 categories: 
-  - "indonesia"
+  - "Indo"
   - "remix"
 ---
 

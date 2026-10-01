@@ -2,7 +2,7 @@
 title: "Eja SM - Harok Baganti Luko"
 date: 2025-08-23
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Dulu arek ganggaman tangan Antaro kito baduo Raso indak mungkin bapisah Tapi janji hanyo lah janji Uda surang nan mangingkari Tabujuak rayu dek ulah bungo nan lain

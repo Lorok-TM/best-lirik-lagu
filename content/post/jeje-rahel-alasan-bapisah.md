@@ -2,7 +2,7 @@
 title: "Jeje Rahel - Alasan Bapisah"
 date: 2025-09-30
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Jikok memang uda alah hilang raso Tinggakan sajo diri denai disiko Daripado kito saliang manyakiti Elok cinto usaikan sajo disiko

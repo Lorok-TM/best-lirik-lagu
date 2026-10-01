@@ -2,7 +2,7 @@
 title: "Dian Anic - Pengen Duwe Mertua dan Terjemahan"
 date: 2023-01-20
 categories: 
-  - "tarling"
+  - "Tarling"
 ---
 
 **Lirik Pengen Duwe Mertua - Dian Anic**

@@ -2,7 +2,7 @@
 title: "Pulut Roham Paroahon Goarhi - Angelista Silaban"
 date: 2025-04-15
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Dang sipangorai au ito Dang sipangambati au di ho Molo naeng tinggalhononmu au Maklum do au ito Ala ni kondisiku saonarion Maklum do au

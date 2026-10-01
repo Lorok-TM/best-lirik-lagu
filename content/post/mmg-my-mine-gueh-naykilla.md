@@ -2,7 +2,7 @@
 title: "MMG (My Mine Gueh) - Naykilla"
 date: 2026-06-14
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 

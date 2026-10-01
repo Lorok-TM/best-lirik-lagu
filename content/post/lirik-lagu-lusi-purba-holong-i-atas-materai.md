@@ -2,7 +2,7 @@
 title: "Lusi Purba - Holong I Atas Materai"
 date: 2021-09-23
 categories: 
-  - "simalungun"
+  - "Simalungun"
 ---
 
 ## Lirik Lagu Batak Simalungun ”Holong I Atas Materai“ by Lusi Purba Silangit

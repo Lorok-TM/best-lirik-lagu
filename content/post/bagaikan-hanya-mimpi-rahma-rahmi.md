@@ -2,7 +2,7 @@
 title: "Bagaikan Hanya Mimpi - Rahma Rahmi"
 date: 2025-04-10
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Kau bilang kita pasti bisa Saling mencintai sampai tua Namun apa yang kini terjadi Tidak seindah janji janji

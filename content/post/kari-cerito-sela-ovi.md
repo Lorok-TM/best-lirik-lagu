@@ -2,7 +2,7 @@
 title: "Kari Cerito - Sela Ovi"
 date: 2026-07-13
 categories: 
-  - "osing"
+  - "Osing"
 ---
 
 

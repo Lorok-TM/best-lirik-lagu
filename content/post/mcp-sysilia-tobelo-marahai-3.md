@@ -2,7 +2,7 @@
 title: "MCP Sysilia - Tobelo Marahai 3"
 date: 2025-05-07
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 Verse : Meme baba.. na ga nyawa.. Tigi oka.. yotobiono.. Hababu meme.. o baluhu nia mau..

@@ -2,7 +2,7 @@
 title: "Lesti Kejora - Dilema"
 date: 2025-07-08
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Ha haaa haaa Haaaaa haaaa haaaa Andai saja tak bertemu Takkan ada kata dilema

@@ -2,7 +2,7 @@
 title: "Ary Sinaga - Martua Au feat. Yosepha Simangunsong"
 date: 2025-08-30
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Di na golap parnidaan hi Tioponmu tanganki gomos Di tikki suda gogoki Ho do na manogu-nogu au

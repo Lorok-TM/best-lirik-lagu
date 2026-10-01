@@ -2,7 +2,7 @@
 title: "Mataharinya Dunia - Yeni Inka"
 date: 2025-03-09
 categories: 
-  - "religi"
+  - "Religi"
 ---
 
 Di langit ada matahari Bersinar menerangi bumi Di langit ada matahari Bersinar menerangi bumi

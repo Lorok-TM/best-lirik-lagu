@@ -2,7 +2,7 @@
 title: "Teulumpoe Lumpoe - Ramlan Yahya Feat Ami Rahmi"
 date: 2025-03-06
 categories: 
-  - "aceh"
+  - "Aceh"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Teulumpoe Lumpoe yang dibawakan oleh Ramlan Yahya Ft Ami Rahmi.

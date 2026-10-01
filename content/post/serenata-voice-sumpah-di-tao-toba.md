@@ -2,7 +2,7 @@
 title: "Serenata Voice - Sumpah Di Tao Toba"
 date: 2025-09-29
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Au do na tarkabar marhallet tuho Au do na tarkabar marbogas tuho Sahat do barita i tu sude sisolhot i Nang dongan sahutakki sasude ngaumbotosa

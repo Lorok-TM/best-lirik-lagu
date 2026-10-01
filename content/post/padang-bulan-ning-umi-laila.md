@@ -2,7 +2,7 @@
 title: "Padang Bulan - Ning Umi Laila"
 date: 2025-03-18
 categories: 
-  - "religi"
+  - "Religi"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Padang Bulan yang dibawakan oleh Ning Umi Laila.

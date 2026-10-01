@@ -2,7 +2,7 @@
 title: "Wulandary - Terjebak Penantian"
 date: 2022-10-31
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 **Lirik Terjebak Penantian - Wulandary**

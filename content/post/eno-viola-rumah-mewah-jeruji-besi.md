@@ -2,7 +2,7 @@
 title: "Eno Viola - Rumah Mewah Jeruji Besi"
 date: 2022-10-26
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Lirik Lagu Slow Rock Melayu dengan judul Rumah Mewah Jeruji Besi yang dinyanyikan oleh Eno Viola dan diciptakan oleh Roza'c Tanjung. Situs ini tidak menyediakan chord dasar / kunci gitar lagu ini. Halaman ini hanya menuliskan syair / liriknya saja. Berikut dibawah ini lyrics lengkapnya. Semoga lagu ini dapat menghibur anda.

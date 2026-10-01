@@ -2,7 +2,7 @@
 title: "Nadzar - Di Sini Untukmu"
 date: 2025-04-29
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Verse : Aku cukup bersamamu saja Melihat, mendengar yang terjadi Tak sedikit pun aku kan beranjak..

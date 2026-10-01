@@ -2,7 +2,7 @@
 title: "Harry Parintang - Siapa Benar Siapa Salah"
 date: 2022-12-18
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Lirik Lagu Melayu dengan judul Siapa Benar Siapa Salah yang dinyanyikan oleh Harry Parintang dan diciptakan oleh Toyak dengan irama musik Pop.

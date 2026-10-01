@@ -2,7 +2,7 @@
 title: "Rianti Waruwu - Faomasi Silö Tebulö"
 date: 2025-08-17
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 Tenga ana’a Tenga göi firö Tenga harato ni gohi Dödögu khömö

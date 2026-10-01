@@ -2,7 +2,7 @@
 title: "Alfina Braner - Maju Kanai Suruik Bedo"
 date: 2025-05-14
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Malawan takuik badoso Ditahan badan nan seso Tarapuang apuang indak hanyuik Babiduak ketek tangah lauik

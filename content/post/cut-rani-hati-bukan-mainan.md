@@ -2,7 +2,7 @@
 title: "Cut Rani - Hati Bukan Mainan"
 date: 2025-10-26
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Bila sudah kau tak mencintaiku Segera sampaikanlah padaku Jangan biarkan aku menunggu Berikanlah keputusan darimu

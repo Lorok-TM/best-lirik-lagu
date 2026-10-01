@@ -2,7 +2,7 @@
 title: "Anggi Rayns - Salah Kawan Batenggang"
 date: 2022-12-06
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Lirik Lagu Minang dengan judul Salah Kawan Batenggang yang dinyanyikan oleh Anggi Rayns dan diciptakan oleh Erwin Agam dengan irama musik Pop.

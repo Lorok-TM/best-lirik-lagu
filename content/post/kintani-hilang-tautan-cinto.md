@@ -2,7 +2,7 @@
 title: "Kintani - Hilang Tautan Cinto"
 date: 2026-01-06
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Di ujuang sanjo hari Denai manyasali diri Indak mungkin batamu lai Jo urang nan den sayangi Antah dima kini nyo barado

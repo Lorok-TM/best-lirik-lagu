@@ -2,7 +2,7 @@
 title: "Tiada Guna Kata Setia - Thomas Arya"
 date: 2024-07-27
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 Tiada guna lagi Kau mengucap kan cinta Ke padaku Bila semua itu tipu belaka

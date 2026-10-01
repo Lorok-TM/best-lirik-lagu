@@ -2,7 +2,7 @@
 title: "Bergek - Peunawa Hate feat. Cut Rani Auliza"
 date: 2025-08-02
 categories: 
-  - "aceh"
+  - "Aceh"
 ---
 
 Peunawa hate lon Peurihon lam dada Bungong yang lon sanjong Sabe ulon jaga

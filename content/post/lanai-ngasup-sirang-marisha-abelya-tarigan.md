@@ -2,7 +2,7 @@
 title: "Lanai Ngasup Sirang - Marisha Abelya Tarigan"
 date: 2024-07-11
 categories: 
-  - "karo"
+  - "Karo"
 ---
 
 **Berikut lirik Lanai Ngasup Sirang yang dinyanyikan oleh Marisha Abelya Tarigan.**

@@ -2,7 +2,7 @@
 title: "Maysa - Saputiah Kasiah Mandeh"
 date: 2023-06-28
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Maysa bersama Palito Musik rilis single dengan lirik dalam bahasa Minangkabau berjudul "Saputiah Kasiah Mandeh" yang artinya "Seputih Kasih Ibu", menceritakan tentang kasih sayang seorang Ibu pada anaknya, bekerja keras dari pagi hingga petang demi kelangsungan hidup keluarga.

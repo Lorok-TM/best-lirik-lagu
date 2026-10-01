@@ -2,7 +2,7 @@
 title: "Cut Rani Auliza - Andai Tak Berpisah"
 date: 2025-11-10
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Aku yang sendiri tanpa cinta Semenjak kau dan aku berpisah Melupakanmu teramat sulit bagi diriku

@@ -2,7 +2,7 @@
 title: "Maulana Wijaya - Sepakat Untuk Berpisah"
 date: 2025-10-03
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Jangan lagi kau menoleh Ikuti saja jalan kamu sayang Biarkanlah aku sendiri Lupakan saja cerita lalu Tiada guna indah lagu rindu Jika rasa cinta tak serupa Kita selalu berbeda Dalam semua cerita Hingga cinta akhirnya Sepakat tuk berpisah

@@ -2,7 +2,7 @@
 title: "DJ Xavier - Sampai Ati"
 date: 2025-11-06
 categories: 
-  - "iban"
+  - "Iban"
 ---
 
 Lain amai atiku sulu Seput ngetu asaika mati Beserara ngau nuan suluku ambu Ngasuh atiku tu lemi

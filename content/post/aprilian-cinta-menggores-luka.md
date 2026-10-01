@@ -2,7 +2,7 @@
 title: "Aprilian - Cinta Menggores Luka"
 date: 2023-05-11
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Lirik Lagu Melayu dengan judul Cinta Menggores Luka yang dinyanyikan oleh Aprilian dan diciptakan oleh Amri Damanin dengan irama musik Pop.

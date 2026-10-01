@@ -2,7 +2,7 @@
 title: "Cut Rani - Terhinakan"
 date: 2026-09-15
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Ibarat daun yang berguguran disapu angin kencang Diabaikan dan dilupakan Dibuang dan dibakar Begitulah nasib diriku Kau lakukan padaku Kau caci lalu kau hinakan Hanya kerana harta

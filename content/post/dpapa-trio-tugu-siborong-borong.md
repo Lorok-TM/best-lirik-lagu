@@ -2,7 +2,7 @@
 title: "D'papa Trio - Tugu Siborong Borong"
 date: 2023-01-22
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Lirik Lagu Batak dengan judul Tugu Siborong Borong yang dinyanyikan oleh D'papa Trio dan diciptakan oleh Tumbur Nababan dengan irama musik Pop.

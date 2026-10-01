@@ -2,7 +2,7 @@
 title: "Cut Rani Auliza - Cinta Aku Jaga"
 date: 2024-05-05
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 **Lirik Cinta Aku Jaga - Cut Rani Auliza**

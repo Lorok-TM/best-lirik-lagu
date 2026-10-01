@@ -2,7 +2,7 @@
 title: "Waty Lase - Öröido Niha Danô"
 date: 2026-06-20
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 

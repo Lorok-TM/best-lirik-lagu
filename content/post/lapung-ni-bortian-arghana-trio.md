@@ -2,7 +2,7 @@
 title: "Lapung Ni Bortian - Arghana Trio"
 date: 2025-06-09
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Dihilala ho do dainang holsoki saleleng on Marpulu taon ma tarpaima rohakki Dapotan gabe au nian sian tuhan i Alai sude baga baga ni rohakki Somarna dipatulus tuhan i Dang tarandunghon au sude na lungunki Di parborhatmon

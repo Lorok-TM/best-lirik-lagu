@@ -2,7 +2,7 @@
 title: "Andai Takdir - Eisha Yuri"
 date: 2025-01-23
 categories: 
-  - "malaysia"
+  - "Malaysia"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Andai Takdir yang dibawakan oleh Eisha Yuri.

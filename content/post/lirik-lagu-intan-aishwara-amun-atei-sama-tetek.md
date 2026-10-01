@@ -2,7 +2,7 @@
 title: "Intan Aishwara - Amun Atei Sama Tetek dan Artinya"
 date: 2021-08-22
 categories: 
-  - "dayak"
+  - "Dayak"
   - "remix"
 ---
 

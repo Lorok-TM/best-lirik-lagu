@@ -2,7 +2,7 @@
 title: "Natalis Trio - Dang Rikkot Di Au Sidalian Mi"
 date: 2025-07-03
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Unang ma nian ito Au di bahen ho gabe tudos-tudosan i Aha masa lalu mi manghansiti roha mi

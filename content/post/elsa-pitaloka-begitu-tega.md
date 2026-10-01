@@ -2,7 +2,7 @@
 title: "Elsa Pitaloka - Begitu Tega"
 date: 2023-03-02
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Lirik Lagu Melayu dengan judul Begitu Tega yang dinyanyikan oleh Elsa Pitaloka dan diciptakan oleh Wanda Mahardika dengan irama musik Pop.

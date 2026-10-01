@@ -2,7 +2,7 @@
 title: "Patot - Cut Zuhra Feat. Apache"
 date: 2024-08-03
 categories: 
-  - "aceh"
+  - "Aceh"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Patot yang dibawakan oleh Cut Zuhra Ft Apache.

@@ -2,7 +2,7 @@
 title: "Jalaraning Tresna - La Tasya feat. Nayla Fardila"
 date: 2026-07-08
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 

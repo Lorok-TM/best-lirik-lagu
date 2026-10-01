@@ -2,7 +2,7 @@
 title: "Jhuduh Pasteh - Selvi Ayunda Feat Andi KDI"
 date: 2025-04-15
 categories: 
-  - "madura"
+  - "Madura"
 ---
 
 Arassah ontong ben bejhreh buleh Ben dhikah pon jhudhuweh Rassah sowargheh edhunnyah Buleh bisah sa roma ben dhikah

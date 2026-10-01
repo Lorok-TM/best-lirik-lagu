@@ -2,7 +2,7 @@
 title: "Cabiak Di Dalam - Ayu Atari"
 date: 2025-02-09
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Cabiak Di Dalam yang dibawakan oleh Ayu Atari.

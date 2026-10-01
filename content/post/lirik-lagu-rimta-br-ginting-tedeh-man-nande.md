@@ -2,7 +2,7 @@
 title: "Rimta Br Ginting - Tedeh Man Nande"
 date: 2021-09-24
 categories: 
-  - "karo"
+  - "Karo"
 ---
 
 Title : Tedeh Man Nande Artist : Rimta Br Ginting Songwriter : Kresna Ginting Category : Lagu Karo

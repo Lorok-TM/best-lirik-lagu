@@ -2,7 +2,7 @@
 title: "Habõrõ Fb Pro - Dandy Mendrõfa"
 date: 2025-02-16
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Haboro Fb Pro yang dibawakan oleh Dandy Mendrõfa.

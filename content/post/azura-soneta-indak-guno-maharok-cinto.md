@@ -2,7 +2,7 @@
 title: "Azura Soneta - Indak Guno Maharok Cinto"
 date: 2024-05-23
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 **Lirik Azura Soneta - Indak Guno Maharok Cinto**

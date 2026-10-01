@@ -2,7 +2,7 @@
 title: "Happy Asmara Feat Delva - Nan Ko Paham"
 date: 2025-06-22
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Nanti pasti ko mengerti Stelah sa hilang dan sa jauh untuk pergi

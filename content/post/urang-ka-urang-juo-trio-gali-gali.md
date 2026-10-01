@@ -2,7 +2,7 @@
 title: "Urang Ka Urang Juo - Trio Gali Gali"
 date: 2025-04-10
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Tanam tanam padi di ladang Nan tumbuahnyo ilalang Lah den cubo mode urang Hiduik tak kunjuang sanang

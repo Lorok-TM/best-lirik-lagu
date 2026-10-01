@@ -2,7 +2,7 @@
 title: "Vicky Koga - Dendang Parintang"
 date: 2025-06-29
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Dek ulah minyak abih lampu den padam Suluah di dapua lah hilang pulo Jo a den janguak tapian mandi

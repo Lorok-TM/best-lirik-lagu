@@ -2,7 +2,7 @@
 title: "Ilham Baso - Sembuhkan Luka"
 date: 2022-09-20
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 ## Lirik Sembuhkan Luka - Ilham Baso

@@ -2,7 +2,7 @@
 title: "Wan Parau - Indak Ka Putuih Tali Sakanduang"
 date: 2025-08-01
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Harok hati dapek batenggang Ka diri sanak denai manyalang Harok bareh agak sagantang Kironyo caraco nan sanak dendang Harok bareh agak sagantang Kironyo caraco nan sanak dendang

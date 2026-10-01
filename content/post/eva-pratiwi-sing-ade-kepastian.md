@@ -2,7 +2,7 @@
 title: "Eva Pratiwi - Sing Ade Kepastian"
 date: 2023-01-15
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 Eva Pratiwi rilis single dengan lirik dalam bahasa Bali berjudul "Sing Ade Kepastian" yang artinya "Tidak Ada Kepastian", menceritakan tentang cinta seorang wanita yang serasa digantung atau bahkan bertepuk sebelah tangan karena tidak kunjung mendapatkan kepastian dari pujaan hatinya.

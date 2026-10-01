@@ -2,7 +2,7 @@
 title: "Arif Hidayat - Satu Rasa Cinta"
 date: 2022-12-10
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Arif Hidayat bersama SKY Musik rilis single Melayu berjudul "Satu Rasa Cinta" yang diciptakan oleh Ajhay Pasma.

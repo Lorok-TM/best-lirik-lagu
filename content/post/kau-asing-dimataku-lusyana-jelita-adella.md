@@ -2,7 +2,7 @@
 title: "Kau Asing Dimataku - Lusyana Jelita Adella"
 date: 2025-01-06
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Kau Asing Dimataku yang dibawakan oleh Lusyana Jelita Adella.

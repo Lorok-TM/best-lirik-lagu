@@ -2,7 +2,7 @@
 title: "We Ipon - Tino Amee"
 date: 2025-04-07
 categories: 
-  - "dayak"
+  - "Dayak"
 ---
 
 Antah ka' mae kao we ipon Udah sabulan nana' ka' rumah Anak man page ngantiatn kao Gancehlah pulang kao we ipon

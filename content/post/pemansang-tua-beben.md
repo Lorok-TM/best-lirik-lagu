@@ -2,7 +2,7 @@
 title: "Pemansang Tua - Beben"
 date: 2024-09-18
 categories: 
-  - "dayak"
+  - "Dayak"
 ---
 
 Duduk bekenang ngadap sunyik malam Ku medak bulan ku medak bintang Pilu asa ati ngenang ke pemansang

@@ -2,7 +2,7 @@
 title: "Angat Ngurah Bere - Lan Tejul"
 date: 2026-09-14
 categories: 
-  - "dayak"
+  - "Dayak"
 ---
 
 Angat ngurah bere Hoang kanai dan pangkeme Sana aku ketawa andau male Tanjarumuh tajake

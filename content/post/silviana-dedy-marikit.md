@@ -2,7 +2,7 @@
 title: "Silviana - Dedy Marikit"
 date: 2024-10-05
 categories: 
-  - "dayak"
+  - "Dayak"
 ---
 
 Akai aja jata hatalla Aduh aku tuh jatuh cinta Dengan silviana uluh bara desa Anak mina je bakena

@@ -2,7 +2,7 @@
 title: "Dansa - Juan Reza Feat Chesylino"
 date: 2025-04-08
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 Mari goyang ala dansa Dansa dansa dansa Dansa sayang e Mau goyang pica Pica pica pica Sampe bawa e Mari goyang ala dansa Dansa dansa dansa Dansa sayang e E ala ala timur goyangan ko jan pele Rakat punya jang kore

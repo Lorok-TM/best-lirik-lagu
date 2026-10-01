@@ -2,7 +2,7 @@
 title: "Tutup Hati - Sima Violeta Ginting"
 date: 2025-01-16
 categories: 
-  - "karo"
+  - "Karo"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Tutup Hati yang dibawakan oleh Sima Violeta Ginting.

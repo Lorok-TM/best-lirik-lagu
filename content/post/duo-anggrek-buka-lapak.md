@@ -2,7 +2,7 @@
 title: "Duo Anggrek - Buka Lapak"
 date: 2023-01-11
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Duo Anggrek dibawah naungan label Nagaswara rilis single berjudul "Buka Lapak" yang diciptakan oleh Hendy Irvan, menceritakan tentang peribahasa bersakit sakit dahulu bersenang senang kemudian, namun pada lagu ini tidak sama persis dengan peribahasa tersebut, hanya sebuah perumpamaan saja.

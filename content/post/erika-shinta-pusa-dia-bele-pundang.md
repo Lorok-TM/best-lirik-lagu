@@ -2,7 +2,7 @@
 title: "Erika Shinta - Pusa Dia Bele Pundang"
 date: 2024-04-20
 categories: 
-  - "dayak"
+  - "Dayak"
 ---
 
 **Lirik Pusa Dia Bele Pundang - Erika Shinta**

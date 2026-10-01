@@ -2,8 +2,7 @@
 title: "Happy Asmara - Kembang Wangi dan Artinya"
 date: 2023-02-10
 categories: 
-  - "dangdut"
-  - "java"
+  - "Jawa"
 ---
 
 Happy Asmara rilis single dengan lirik dalam bahasa Jawa berjudul "Kembang Wangi" yang artinya "Bunga Harum", menceritakan tentang seseorang yang merasa bahagia karena punya kekasih yang setia dan tulus mencintainya. Untuk lebih jelasnya silahkan Anda baca terjemahan lirik lagunya berada dibawah.

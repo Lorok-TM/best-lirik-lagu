@@ -2,7 +2,7 @@
 title: "Suci Yolanda - Kamarilah Uda Sayang"
 date: 2025-04-28
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Mandayo hiduik nan dicamehkan Hiduik ko hanyo samantaro.. Usah uda bamanuang juo Jalani hiduik yo balapang dado..

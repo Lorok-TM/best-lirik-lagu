@@ -2,7 +2,7 @@
 title: "Ratu Sikumbang - Bungo Cinto Dihati Putiah"
 date: 2025-04-27
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Tumbuah lah tumbuah bungo dijambang Kinilah badaun ondeh alah baputiak Denai baragak bungo ka kambang Bungo cinto di hati putiah

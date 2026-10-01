@@ -2,7 +2,7 @@
 title: "Main Rasa - Bryan Zparta feat KapthenpureK, Son Dheztrow"
 date: 2026-09-05
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 Kan kemarin bilang sayang kenapa berubah Di bibir bilang cinta di hati tarada Ko pintar main rasa Lincah main kata Ado rasa rasa ni mo gila

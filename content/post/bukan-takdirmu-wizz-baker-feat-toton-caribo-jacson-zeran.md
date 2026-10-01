@@ -2,7 +2,7 @@
 title: "Bukan Takdirmu - Wizz Baker Feat Toton Caribo & Jacson Zeran"
 date: 2025-02-26
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Bukan Takdirmu yang dibawakan oleh Wizz Baker Ft Toton Caribo & Jacson Zeran.

@@ -2,7 +2,7 @@
 title: "Uda Ka Adiak Pakai Lamo - Fauzana"
 date: 2024-05-19
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Maso indak ka babaliak da Indak ka ba puta ulang Jan sado ka di camehkan Tanang tanangkan fikiran Jan sado ka di camehkan Tanang tanangkan fikiran

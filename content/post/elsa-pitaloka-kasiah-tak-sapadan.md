@@ -2,7 +2,7 @@
 title: "Elsa Pitaloka - Kasiah Tak Sapadan"
 date: 2025-05-02
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Alah nyo ameh di pandang mato.. Barakik elok nan ka di pasangkan.. Nan bisiak tadanga juo.. Cameh nyato juo kiro nyo..

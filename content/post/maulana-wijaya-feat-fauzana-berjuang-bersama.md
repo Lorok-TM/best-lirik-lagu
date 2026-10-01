@@ -2,7 +2,7 @@
 title: "Maulana Wijaya Feat Fauzana - Berjuang Bersama"
 date: 2022-12-19
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Mana mungkin kasih dirimu kumiliki Sedangkan cinta kita tak pernah direstui Engkau bagaikan putri raja Yang hidup didalam istana Sedangkan aku tidak sempurna Tak pantas kita menjalin cinta

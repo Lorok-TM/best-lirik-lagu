@@ -2,7 +2,7 @@
 title: "Iqbal Mahesa - Bajariah Mangko Ka Makan"
 date: 2025-06-29
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Di kana samaso dulu Sabalun tau jo malang Bagalak bagadang hati nan jo kawan Indak mamikia nan ka di suok Di suduik dapua lah tau ado Namun kini bajariah mangko ka makan

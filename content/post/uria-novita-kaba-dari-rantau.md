@@ -2,7 +2,7 @@
 title: "Uria Novita - Kaba Dari Rantau"
 date: 2025-06-19
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Takana uda ka barangkek Ka rantau urang ka tanah jao Denai lapeh sabana barek Tapi baa lah mangatokannyo

@@ -2,7 +2,7 @@
 title: "Cabiak Di Dalam - Difa Awalia"
 date: 2025-04-06
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Baru kasanang hati Alah basobok ubek diri Harok bana Ka cegak luko nan lamo

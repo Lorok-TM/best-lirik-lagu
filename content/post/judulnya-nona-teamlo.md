@@ -2,7 +2,7 @@
 title: "Judulnya Nona - Teamlo"
 date: 2025-02-21
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Judulnya Nona yang dibawakan oleh Teamlo.

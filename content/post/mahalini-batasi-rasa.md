@@ -2,7 +2,7 @@
 title: "Mahalini - Batasi Rasa"
 date: 2025-11-08
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Sempat ingin akhiri semua ini Namun tak mampu jauh darimu Sampai kapan harus terus bersabar Cintamu selalu berkurang

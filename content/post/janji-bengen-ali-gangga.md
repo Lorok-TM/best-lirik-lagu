@@ -2,7 +2,7 @@
 title: "Janji Bengen - Ali Gangga"
 date: 2024-08-29
 categories: 
-  - "tarling"
+  - "Tarling"
 ---
 
 Harapan cinta bli kenyataan Ora sesuai karo omongan Janji semanis gula Tapi nyatane dusta Sira tega gawe ati sun lara

@@ -2,7 +2,7 @@
 title: "MengiringMu - Glen Imanuel & Jason Irwan"
 date: 2025-01-26
 categories: 
-  - "rohani"
+  - "Rohani"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik MengiringMu yang dibawakan oleh Glen Imanuel Feat Jason Irwan.

@@ -2,7 +2,7 @@
 title: "Cinto Manyeso Badan - Melisa Putri feat. Carlos"
 date: 2025-02-23
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Apo salah diri denaiko Jawaban kini uda barubah Jangankan kini uda manyapo Galak pun udahlah anggan

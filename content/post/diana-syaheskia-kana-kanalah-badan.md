@@ -2,7 +2,7 @@
 title: "Diana Syaheskia - Kana Kanalah Badan"
 date: 2025-12-15
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Sajak pipik manjadi alang Kini lah pandai tabang Tuan lah maraso gadang Nan ketek tak lai tuan pandang

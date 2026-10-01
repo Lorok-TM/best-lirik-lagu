@@ -2,7 +2,7 @@
 title: "Kapentang Cinta - Nina Ayu Susanti"
 date: 2025-04-08
 categories: 
-  - "sunda"
+  - "Sunda"
 ---
 
 Seukeut reret socana Nembus kana jajantung Napel masket kabayang bayang Padahal tepang ukur salangkung

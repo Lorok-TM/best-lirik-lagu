@@ -2,7 +2,7 @@
 title: "Sibarisi Trio - Lö Ufulido Ba Gidö"
 date: 2026-07-04
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 

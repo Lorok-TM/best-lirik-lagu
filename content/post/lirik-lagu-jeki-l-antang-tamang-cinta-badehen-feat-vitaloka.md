@@ -2,7 +2,7 @@
 title: "Jeki L. Antang Tamang - Cinta Badehen dan Artinya feat Vitaloka"
 date: 2022-01-21
 categories: 
-  - "dayak"
+  - "Dayak"
 ---
 
 **Lirik Cinta Badehen - Jeki L.Antang Feat Vitaloka**

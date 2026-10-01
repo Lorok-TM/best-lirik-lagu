@@ -2,7 +2,7 @@
 title: "Mengkhianati - Ziell Ferdian"
 date: 2026-07-15
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Mengapa kita semakin jauh Saling membenci dan mengkhianati Seakan hatimu tak ada lagi Untukku

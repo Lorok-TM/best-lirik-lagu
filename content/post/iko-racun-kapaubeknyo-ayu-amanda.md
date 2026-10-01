@@ -2,7 +2,7 @@
 title: "Iko Racun Kapaubeknyo - Ayu Amanda"
 date: 2026-09-03
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Lai den cubo mamiciang kan nyo Nan mato ko indak namuh lalok Apo nan salah di diri denai Sampai uda mangukia janji

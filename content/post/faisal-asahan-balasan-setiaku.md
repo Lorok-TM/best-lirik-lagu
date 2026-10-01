@@ -2,7 +2,7 @@
 title: "Faisal Asahan - Balasan Setiaku"
 date: 2022-12-06
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Lirik Lagu Melayu dengan judul Balasan Setiaku yang dinyanyikan oleh Faisal Asahan. Lagu ini diciptakan oleh Gus Totok dengan irama musik Pop.

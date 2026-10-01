@@ -2,7 +2,7 @@
 title: "Dua Jadi Sada - Romy Ketaren"
 date: 2024-08-26
 categories: 
-  - "karo"
+  - "Karo"
 ---
 
 Kam si erbansa pusuhku nggo terdaya Seh kel jilena lanai bo lit pandangenku Nande biring nina lalap bas pusuhku Laterpersoken jatuh cinta mama karondu

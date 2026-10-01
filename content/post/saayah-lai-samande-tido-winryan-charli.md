@@ -2,7 +2,7 @@
 title: "Saayah Lai Samande Tido - Winryan Charli"
 date: 2024-06-03
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 **Lirik Saayah Lai Samande Tido - Winryan Charli**

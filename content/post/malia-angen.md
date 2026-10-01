@@ -2,7 +2,7 @@
 title: "Malia - Angen dan Artinya"
 date: 2022-09-13
 categories: 
-  - "aceh"
+  - "Aceh"
 ---
 
 ## Lirik Lagu Angen - Malia

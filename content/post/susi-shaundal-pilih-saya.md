@@ -2,7 +2,7 @@
 title: "Susi Shaundal - Pilih Saya"
 date: 2023-05-16
 categories: 
-  - "malaysia"
+  - "Malaysia"
 ---
 
 Lirik Lagu Malaysia dengan judul Pilih Saya yang dinyanyikan oleh Susi Shaundal.

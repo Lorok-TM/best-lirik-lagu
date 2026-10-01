@@ -2,7 +2,7 @@
 title: "Mengapa Harus Terjadi - Cut Rani Auliza"
 date: 2025-06-01
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Verse : Baru saja.. kurasa bahagia.. Baru saja.. kurasa indahnya cinta.. Namun.. mengapa engkau berubah.. Cintamu kini berpaling arah..

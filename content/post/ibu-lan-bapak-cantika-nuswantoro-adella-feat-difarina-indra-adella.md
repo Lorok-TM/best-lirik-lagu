@@ -2,7 +2,7 @@
 title: "Ibu Lan Bapak - Cantika Nuswantoro Adella Feat. Difarina Indra Adella"
 date: 2026-09-17
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Ibuk… Bapak… niki anakmu sing nakal Nyuwun dungo pangestu sing dadi modal Mbrebes mili eluh iki netes neng pipi Kulo kangen panjenengan neng njero ati

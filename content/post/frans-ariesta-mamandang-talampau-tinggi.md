@@ -2,7 +2,7 @@
 title: "Frans Ariesta - Mamandang Talampau Tinggi"
 date: 2025-09-03
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Ulah mamandang nan si matohari Kalimpanan mato denai kini Padiah padiah padiah padiah Denai cinto urang tak nio

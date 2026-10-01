@@ -2,7 +2,7 @@
 title: "Silvi Risviani - Ayun Puntang"
 date: 2025-11-10
 categories: 
-  - "sunda"
+  - "Sunda"
 ---
 
 Ayun ambing lila bari nyaring Ayun puntang lila bari hudang Si nyai mah kudu di ayun Si agus mah ayun ayunan Reup sare mah masing pereuman

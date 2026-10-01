@@ -2,7 +2,7 @@
 title: "Frans Ariesta feat Ghinta Kinari - Anak Dagang Rayo Dirantau"
 date: 2023-03-29
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Lirik Lagu Minang dengan judul Anak Dagang Rayo Dirantau yang dinyanyikan oleh Frans Ariesta Ft. Ghinta Kinari dan diciptakan oleh Eddy Palangki dengan irama musik Pop.

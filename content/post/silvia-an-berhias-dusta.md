@@ -2,7 +2,7 @@
 title: "Silvia An - Berhias Dusta"
 date: 2024-05-13
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 **Lirik Berhias Dusta - Silvia An**

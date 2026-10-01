@@ -2,7 +2,7 @@
 title: "Putri Chantika - Pacik Arek Arek"
 date: 2025-12-15
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Pacik arek arek jan sampai lapeh Nyampang talambek datang urang manyemba Usah salahkan denai jan lalai bana Beko di ambiak urang uda juo nan ka marabo

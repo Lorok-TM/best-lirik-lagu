@@ -2,7 +2,7 @@
 title: "Manis Maniso - Angelbert Rap Feat Alan Darmawan"
 date: 2024-12-28
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Manis Maniso yang dibawakan oleh Angelbert Rap Ft Alan Darmawan.

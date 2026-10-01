@@ -2,7 +2,7 @@
 title: "Fany Zee - Air Mata Dusta"
 date: 2025-11-22
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 

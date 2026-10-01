@@ -2,7 +2,7 @@
 title: "Prahara Api Asmara - Diskoria Feat Chelsea Islan"
 date: 2025-02-19
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Prahara Api Asmara yang dibawakan oleh Diskoria Ft Chelsea Islan.

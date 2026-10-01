@@ -2,7 +2,7 @@
 title: "Marhara Trio - Manghaholongi Na So Manghaholongi"
 date: 2025-05-22
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Au do mangu ho asa jongjong Alai halak do diboan ho donganmu marlojong Dang ingkon marbalos na hu bahen i Aha ma sala na molo denggan martading hata

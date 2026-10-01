@@ -2,7 +2,7 @@
 title: "Ayu Wiryastuti - Keliwat Sayang dan Artinya"
 date: 2022-08-06
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 ## Lirik Lagu Bali ”Keliwat Sayang“ by Ayu Wiryastuti

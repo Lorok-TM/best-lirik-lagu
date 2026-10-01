@@ -2,7 +2,7 @@
 title: "Silvy Carlina - Sasuai Bana feat. Sadri Zarro"
 date: 2025-09-02
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Ba si asek urang batanyo Alah tantu kajawek nyo Sorak babaleh himbau basawuik Pinang bapintak siriah manuruik Barancano diak parundiangan Bacarano da patamuan

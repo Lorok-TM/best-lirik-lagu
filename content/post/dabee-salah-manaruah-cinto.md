@@ -2,7 +2,7 @@
 title: "Dabee - Salah Manaruah Cinto"
 date: 2026-09-07
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Alah batahun denai mamandam Raso cinto nan makin mandalam Namun denaipun manyadari Tak mungkin kabasatu Dek Adiak didalam ganggaman Urang lain

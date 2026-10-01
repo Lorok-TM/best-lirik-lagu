@@ -2,7 +2,7 @@
 title: "Ardila Akbar - Aku Pamit Pergi"
 date: 2025-09-07
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Coba sejenak kau fikirkan Tentang perasaanku Yang selalu terluka Kerana sikapmu

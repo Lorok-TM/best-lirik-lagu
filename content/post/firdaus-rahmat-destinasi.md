@@ -2,7 +2,7 @@
 title: "Firdaus Rahmat - Destinasi"
 date: 2025-04-27
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Verse : Sendiri.. rentasi.. Tanpa bayang ekori belakang.. ku

@@ -2,7 +2,7 @@
 title: "Agustriani - Kasayang Sampai Hentang Tulang"
 date: 2026-09-18
 categories: 
-  - "dayak"
+  - "Dayak"
 ---
 
 Aku atun umba maunya kaka Hinje belum aluh melai desa Haranan angat kahain cinta Akan ku jalani dengan ikhlas reda

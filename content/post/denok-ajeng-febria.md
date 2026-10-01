@@ -2,8 +2,7 @@
 title: "Denok - Ajeng Febria"
 date: 2026-07-17
 categories: 
-  - "dangdut"
-  - "java"
+  - "Jawa"
 ---
 
 

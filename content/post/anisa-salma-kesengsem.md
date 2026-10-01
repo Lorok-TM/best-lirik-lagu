@@ -2,7 +2,7 @@
 title: "Anisa Salma - Kesengsem"
 date: 2022-09-21
 categories: 
-  - "campursari"
+  - "Campursari"
 ---
 
 ## Lirik Lagu Kesengsem - Anisa Salma

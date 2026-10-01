@@ -2,7 +2,7 @@
 title: "Arif Lida - Minyak Habih Samba Tak Lamak"
 date: 2021-05-26
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 ## Lirik Lagu Minang ”Minyak Habih Samba Tak Lamak“ by Arif Lida

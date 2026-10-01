@@ -2,7 +2,7 @@
 title: "Gitarena Br Ginting - Inget Aku"
 date: 2023-02-25
 categories: 
-  - "karo"
+  - "Karo"
 ---
 
 Gitarena Br Ginting bersama Prima Sora rilis single dengan lirik dalam bahasa Karo berjudul "Inget Aku" yang diciptakan oleh Giba Ginting.

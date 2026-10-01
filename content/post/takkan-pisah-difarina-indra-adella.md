@@ -2,7 +2,7 @@
 title: "Takkan Pisah - Difarina Indra Adella"
 date: 2026-07-22
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Sayang aku ingin berbicara kepadamu Tentang apa yang tengah aku rasakan Ada apa ada apa katakanlah semuanya Ku kan dengar kan duhai cintaku

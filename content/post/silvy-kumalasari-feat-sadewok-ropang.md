@@ -2,7 +2,7 @@
 title: "Silvy Kumalasari feat. Sadewok - Ropang"
 date: 2025-11-05
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Sampun mboten enten tenagane Damel ngimbangi liyane Sing ketok penak uripe Kadang kepidak k'laran Ngempet dadi tangisan Rodo panguripan bakale muter nanging mbuh kapan

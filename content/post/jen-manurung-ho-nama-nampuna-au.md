@@ -2,7 +2,7 @@
 title: "Jen Manurung - Ho Nama Nampuna Au"
 date: 2026-06-05
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 

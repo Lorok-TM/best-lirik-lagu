@@ -2,7 +2,7 @@
 title: "Dj Qhelfin - Akhiri Cerita"
 date: 2022-08-25
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 ## Lirik Lagu Akhiri Cerita - Dj Qhelfin

@@ -2,7 +2,7 @@
 title: "Dabee - Luko Nan Manyeso"
 date: 2025-08-17
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Raso indak tabedo Katiko mandanga Urang nan disayang Maninggakan

@@ -2,7 +2,7 @@
 title: "Senayan Tanah Abang - Duo Anggrek Feat Ecko Show"
 date: 2026-08-12
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 

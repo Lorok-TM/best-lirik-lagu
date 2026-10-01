@@ -2,7 +2,7 @@
 title: "Eha Gallantry - Digawe Lara"
 date: 2026-09-19
 categories: 
-  - "tarling"
+  - "Tarling"
 ---
 
 Manis ning janjine Tapi pait ning buktine Tiwas sun percaya sampean sulaya Tiwas sun pasrah jiwa kelawan raga

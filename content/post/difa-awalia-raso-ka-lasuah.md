@@ -2,7 +2,7 @@
 title: "Difa Awalia - Raso Ka Lasuah"
 date: 2026-08-18
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 

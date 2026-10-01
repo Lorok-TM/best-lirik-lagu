@@ -2,7 +2,7 @@
 title: "Singkong Dan Keju - Ajeng Febria & Brodin"
 date: 2025-03-03
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Singkong Dan Keju yang dibawakan oleh Ajeng Febria Ft Brodin.

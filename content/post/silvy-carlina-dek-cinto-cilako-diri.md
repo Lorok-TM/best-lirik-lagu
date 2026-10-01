@@ -2,7 +2,7 @@
 title: "Silvy Carlina - Dek Cinto Cilako Diri"
 date: 2025-08-03
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Dek cinto sayang denai ka uda Bataruah sagalonyo Apo pintak denai bari ka uda pautan hati Sampai lupo diri

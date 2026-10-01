@@ -2,7 +2,7 @@
 title: "Bahagia Bersamamu - Raffa Affar"
 date: 2026-07-27
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Sejak kau hadir di hidupku Semua terasa lebih indah Langkah kecil kita jalani Penuh tawa penuh cerita Tak perlu harta atau tahta Cukup kau ada di sisiku Setiap hari ku berdoa Syukuri cinta sederhana

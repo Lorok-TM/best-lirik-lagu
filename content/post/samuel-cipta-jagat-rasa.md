@@ -2,7 +2,7 @@
 title: "Samuel Cipta - Jagat Rasa"
 date: 2026-05-22
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 

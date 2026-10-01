@@ -2,7 +2,7 @@
 title: "Putri Chantika - Mati Limau Dek Binalu"
 date: 2025-05-07
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Dek elok baso nyo batang limau Urang bataduah di baok nayiak Balun disaru alah taimbau Raso selo basimpuah lapiak Balun disaru alah taimbau Raso selonyo basimpuah lapiak

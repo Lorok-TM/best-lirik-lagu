@@ -2,7 +2,7 @@
 title: "Cut Rani Auliza - Sama Sama Menjaga Cinta"
 date: 2023-11-19
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Cut Rani Auliza bersama GMM Entertainment rilis single Melayu berjudul "Sama Sama Menjaga Cinta" yang diciptakan oleh Faisal Asahan.

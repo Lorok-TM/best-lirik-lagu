@@ -2,7 +2,7 @@
 title: "Dambaan Hati - Aprilian"
 date: 2025-03-29
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Dambaan Hati yang dibawakan oleh Aprilian.

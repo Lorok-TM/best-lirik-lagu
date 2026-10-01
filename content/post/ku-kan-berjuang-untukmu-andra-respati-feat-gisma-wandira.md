@@ -2,7 +2,7 @@
 title: "Ku Kan Berjuang Untukmu - Andra Respati feat. Gisma Wandira"
 date: 2026-09-26
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Di malam sepi yang tak berbintang Di sini ku selalu merindukan Kau yang menjauh di negeri seberang Diriku setia menunggu

@@ -2,7 +2,7 @@
 title: "Salah Apa - Difarina Indra Adella feat. Fendik Adella"
 date: 2026-09-07
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Berakhir jua akhirnya Usai sudah tertuang semua Adakah engkau sisakan sedikit rasa bahagia Sungguh tega…

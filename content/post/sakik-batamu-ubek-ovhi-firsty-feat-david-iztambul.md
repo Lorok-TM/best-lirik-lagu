@@ -2,7 +2,7 @@
 title: "Sakik Batamu Ubek - Ovhi Firsty Feat. David Iztambul"
 date: 2024-06-02
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 **Lirik Sakik Batamu Ubek - Ovhi Firsty Feat David Iztambul**

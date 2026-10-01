@@ -2,8 +2,7 @@
 title: "Ketaton Cerita - Shinta Arsinta"
 date: 2026-07-16
 categories: 
-  - "dangdut"
-  - "java"
+  - "Jawa"
 ---
 
 Sumilir angin wengi nggegawa rasa (Semilir angin malam membawa rasa) lintang e wus sirna katutup mega (Bintang bintang telah sirna ketutup awan) Ginambaring tresna kang katon ana ing netra (Gambaran cinta yang tampak di mata, )

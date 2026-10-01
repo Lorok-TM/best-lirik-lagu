@@ -2,7 +2,7 @@
 title: "Maulana Wijaya - Sang Pemilik Hati"
 date: 2025-07-04
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Jangan kau tanyakan padaku Seperti apa besar cintaku Sedalam samudera Seluas jagat raya Dirimu ku cinta

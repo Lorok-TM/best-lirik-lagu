@@ -2,7 +2,7 @@
 title: "Salma Margareth - Saelako Matua"
 date: 2025-05-11
 categories: 
-  - "toraja"
+  - "Toraja"
 ---
 
 Ya tonta mane sitammu Lendu' tongan mesannangan Mu benna petawa mammi'mu Ammu pokada issi penammu

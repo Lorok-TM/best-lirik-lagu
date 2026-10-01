@@ -2,7 +2,7 @@
 title: "Cinta Suci - Cut Rani Auliza"
 date: 2024-07-30
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Dengan sepenuh hati ini Aku serahkan cinta suci Teruntuk dirimu kekasih Yang kucinta sampai mati

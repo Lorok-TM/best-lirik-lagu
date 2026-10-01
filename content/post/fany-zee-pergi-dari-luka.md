@@ -2,7 +2,7 @@
 title: "Fany Zee - Pergi Dari Luka"
 date: 2025-05-22
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 Lelah sudah kumenanti Cintamu yang tiada pasti Segala rasa telah ku berikan Namun kau tak pedulikan

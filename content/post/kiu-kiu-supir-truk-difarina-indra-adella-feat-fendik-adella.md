@@ -2,7 +2,7 @@
 title: "Kiu Kiu Supir Truk - Difarina Indra Adella Feat Fendik Adella"
 date: 2025-03-31
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Kiu Kiu Supir Truk yang dibawakan oleh Difarina Indra Adella Ft Fendik Adella.

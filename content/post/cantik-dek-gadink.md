@@ -2,7 +2,7 @@
 title: "Cantik - Dek Gadink"
 date: 2024-09-08
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 Nyadar keh adi yen beli sanget cinta Perhatian kasih sayang beli Mekejang kecurah buat adi Tusing je beli nemonin penggombal Apang sida ngaenang hatin adine luluh

@@ -2,7 +2,7 @@
 title: "Yaya Nadila - Baharok Sayang"
 date: 2022-09-20
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 ## Lirik Lagu Baharok Sayang - Yaya Nadila

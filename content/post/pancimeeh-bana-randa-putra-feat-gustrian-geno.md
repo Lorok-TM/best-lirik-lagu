@@ -2,7 +2,7 @@
 title: "Pancimeeh Bana - Randa Putra Feat Gustrian Geno"
 date: 2025-01-24
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Pancimeeh Bana yang dibawakan oleh Randa Putra Ft Gustrian Geno.

@@ -2,7 +2,7 @@
 title: "Tacculei Pappojikku - Putri Alfi"
 date: 2025-02-15
 categories: 
-  - "bugis"
+  - "Bugis"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Tacculei Pappojikku yang dibawakan oleh Putri Alfi.

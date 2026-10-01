@@ -2,7 +2,7 @@
 title: "Talambek Datang - Bigheru Feat. Sri Fayola"
 date: 2024-07-13
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Jikok diliek dipandang pandang Adiak samakin rancak juo Salahnyo denai talambek datang Alah bajadi adiak jo urang Salahnyo denai talambek datang Alah bajadi adiak jo urang

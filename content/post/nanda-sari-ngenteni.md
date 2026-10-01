@@ -2,7 +2,7 @@
 title: "Nanda Sari - Ngenteni"
 date: 2026-07-29
 categories: 
-  - "campursari"
+  - "Campursari"
 ---
 
 Aku ngenteni tekamu Koyo ngenteni mudhune wahyu Janjimu tansah sumimpen jroning kalbu Duh kusumo pepujanku

@@ -2,7 +2,7 @@
 title: "Jangkar Jiwaku - Michelle Feat Yeshua Abraham"
 date: 2025-02-09
 categories: 
-  - "rohani"
+  - "Rohani"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Jangkar Jiwaku yang dibawakan oleh Michelle Ft Yeshua Abraham.

@@ -2,7 +2,7 @@
 title: "Malakik Hati Tabiaso - Adim MF Feat. Wulandary"
 date: 2024-07-27
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Dahulu datang tampak kan mungko Tarayu dek pinang siriah dalam carano Denai tau diri uda tiado hati Dek cinto kito bajodohkan Tapi hati nan ko lah denai sarahkan Samanjak uda datang maminang

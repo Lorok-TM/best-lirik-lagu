@@ -2,7 +2,7 @@
 title: "Difarina Indra Adella - SIKEP (Siap Kelangan Pengarep Arep)"
 date: 2025-12-01
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Piye kabarmu saiki Nomer wa mu wis ganti Tak tulis lagu nggo kowe Mugo-mugo fyp Kowe iso melu ngrungokke

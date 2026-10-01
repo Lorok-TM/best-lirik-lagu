@@ -2,7 +2,7 @@
 title: "Ridho Zulma feat. Elsa Mayora - Bak Kuciang Aia"
 date: 2026-07-13
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 

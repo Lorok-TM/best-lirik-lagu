@@ -2,7 +2,7 @@
 title: "Tresna Bali Banyuwangi - Anda Udayana"
 date: 2025-04-08
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 Prasida lan jani beli ngorahang Yen kenken kaden di kenehe jani Serase ngambang kadirase ngerawang Benyah remuk ane ade di hati Satmaka ngangsan ngedenan Kadirase nusukin keneh beli

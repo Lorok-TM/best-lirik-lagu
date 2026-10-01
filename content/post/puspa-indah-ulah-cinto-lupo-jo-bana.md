@@ -2,7 +2,7 @@
 title: "Puspa Indah - Ulah Cinto Lupo Jo Bana"
 date: 2025-04-21
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Hilanglah cinto tabiklah rindu Hilang sarupo sarupo di hambuih angin lalu Janji janji tinggalah janji Sumpah sumpah mainan bibia Uda mungkia Mimpi mimpi tinggalah mimpi Jadi pamenan lalok Tinggalah harok

@@ -2,7 +2,7 @@
 title: "Difarina Indra Adella - Lancar"
 date: 2026-08-24
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 

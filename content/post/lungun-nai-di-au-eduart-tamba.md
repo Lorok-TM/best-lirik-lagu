@@ -2,7 +2,7 @@
 title: "Lungun Nai Di Au - Eduart Tamba"
 date: 2025-04-15
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Dang na hu solsoli Partinandaanki tu ho Makkaholongi ho di rohaki Na hea au bahagia Rap dohot ho

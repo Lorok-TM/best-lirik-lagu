@@ -2,7 +2,7 @@
 title: "Shety Simamora - Selamat Jalan Haholongan"
 date: 2025-07-01
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Selamat jalan di ho Selamat tinggal di au Borhat ma ho sonang ma ho Di siamun ni Tuhan i

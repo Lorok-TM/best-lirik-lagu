@@ -2,7 +2,7 @@
 title: "Daniel Folala Zalukhu - Hadia Zaziu Bazilalö"
 date: 2025-12-12
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 Uwalinga sioroi badödö Wahuwusada bazilalö Fefu alua sogohitö dödö Sihasara bawamöbörö

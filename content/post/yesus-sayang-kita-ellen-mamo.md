@@ -2,7 +2,7 @@
 title: "Yesus Sayang Kita - Ellen Mamo"
 date: 2025-03-17
 categories: 
-  - "rohani"
+  - "Rohani"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Yesus Sayang Kita yang dibawakan oleh Ellen Mamo.

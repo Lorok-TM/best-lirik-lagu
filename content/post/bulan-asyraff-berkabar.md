@@ -2,7 +2,7 @@
 title: "Bulan Asyraff - Berkabar"
 date: 2025-12-15
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Sumpah suara seperti tak berbunyi Langkah kakiku kini sudah berhenti Tak ada lagi senyum ku dapati Sumpah ku sepi

@@ -2,7 +2,7 @@
 title: "Ipank - Diriku Apa Adanya"
 date: 2023-03-23
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Ipank dibawah naungan label Matahari Records rilis single Melayu berjudul "Diriku Apa Adanya" yang diciptakan oleh Adi Bugak.

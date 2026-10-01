@@ -2,7 +2,7 @@
 title: "Tigo Mandayo - Hiduik Tenggang Batenggang"
 date: 2025-05-12
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Nan kok sarik tolong batolong Nan kok sakik silau manyilau Nan ko mati janguak manjanguak Bia pun indak saparinduak.. 2×

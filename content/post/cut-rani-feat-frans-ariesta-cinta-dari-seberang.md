@@ -2,7 +2,7 @@
 title: "Cut Rani feat. Frans Ariesta - Cinta Dari Seberang"
 date: 2025-09-09
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Ku pandang pandang adik dari seberang Cantik juga rupamu sungguh menawan Bolehkah abang bertanya Apa adik ada yang punya Jika belum kuingin nyatakan cinta

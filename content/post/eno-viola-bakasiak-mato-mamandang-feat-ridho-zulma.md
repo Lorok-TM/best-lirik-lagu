@@ -2,7 +2,7 @@
 title: "Eno Viola - Bakasiak Mato Mamandang Feat. Ridho Zulma"
 date: 2025-06-16
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Manukiak alang nan dari bukik Tapakiak ayam jinak di laman Sampai hati urang maambiak Pamenan diri nan denai sayang

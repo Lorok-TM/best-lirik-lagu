@@ -2,7 +2,7 @@
 title: "Nirwana Trio - Bulan I"
 date: 2023-01-28
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Lirik Lagu Batak dengan judul Bulan I yang dinyanyikan oleh Nirwana Trio dan diciptakan oleh N.N dengan irama musik Pop.

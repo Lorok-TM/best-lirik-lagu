@@ -2,7 +2,7 @@
 title: "Tombo Kangen - Silvy Kumalasari"
 date: 2025-03-31
 categories: 
-  - "campursari"
+  - "Campursari"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Tombo Kangen yang dibawakan oleh Silvy Kumalasari.

@@ -2,7 +2,7 @@
 title: "Ziva Magnolya - 200k"
 date: 2025-05-11
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Dua ratus ribu jam berlalu Tanpa siapapun disisiku Hanya diriku dan banyak hayalku Namun kadang diriku meragu Akan hadirkah insan yang merayu Tuk jadi kekasihku

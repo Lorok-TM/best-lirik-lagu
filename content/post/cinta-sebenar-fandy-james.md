@@ -2,7 +2,7 @@
 title: "Cinta Sebenar - Fandy James"
 date: 2025-04-01
 categories: 
-  - "malaysia"
+  - "Malaysia"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Cinta Sebenar yang dibawakan oleh Fandy James.

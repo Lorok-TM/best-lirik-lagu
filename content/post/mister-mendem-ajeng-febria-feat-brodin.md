@@ -2,7 +2,7 @@
 title: "Mister Mendem - Ajeng Febria feat. Brodin"
 date: 2026-07-02
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 Aku wis kondho, ciu marakke ciloko Aku wis matur, mensen ning omongan nglantur Wis tak kandani, yen vodka marakke lali Banjur ngunjuk bir, sampean dadine kenthir

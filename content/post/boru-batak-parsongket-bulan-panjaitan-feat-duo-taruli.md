@@ -2,7 +2,7 @@
 title: "Boru Batak Parsongket - Bulan Panjaitan Feat Duo Taruli"
 date: 2025-01-03
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Boru Batak Parsongket yang dibawakan oleh Bulan Panjaitan Ft Duo Taruli.

@@ -2,7 +2,7 @@
 title: "Niken Salindry - Kusuma Wijawa"
 date: 2025-07-22
 categories: 
-  - "campursari"
+  - "Campursari"
 ---
 
 Kusumaning ratri mung sawiji Kinanthi mematri sajroning ati kang suci

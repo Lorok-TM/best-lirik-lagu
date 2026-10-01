@@ -2,7 +2,7 @@
 title: "Sihol Mi - Okta Simorangkir"
 date: 2025-04-05
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Sonang hian do pargaulanta Di haposoon ujui Dame nang ngolutta Soadong nihahurangan tikki i

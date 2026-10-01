@@ -2,7 +2,7 @@
 title: "Rafif Maula - Ternyata Ini Kisahku"
 date: 2026-08-05
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Karya musik berjudul "Ternyata Ini Kisahku" yang dibawakan oleh Rafif Maula di bawah arahan komposer sekaligus produser Erwin Agam membawa narasi filosofis mengenai penerimaan diri atas realitas hidup yang tidak sesuai dengan ekspektasi. Melalui liriknya, lagu ini menyoroti titik balik kesadaran seseorang ketika menyadari bahwa tragedi atau kekecewaan emosional yang dialaminya bukanlah sekadar latar belakang, melainkan inti dari perjalanan hidupnya sendiri. Secara jurnalistik, komposisi ini mengeksplorasi kontras antara harapan idealistis masa lalu dan realitas pahit masa kini, menjadikannya sebuah refleksi mendalam tentang kerentanan manusia dalam menghadapi takdir yang tak terduga.

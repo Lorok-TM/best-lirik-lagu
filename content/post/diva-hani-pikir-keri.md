@@ -2,7 +2,7 @@
 title: "Diva Hani - Pikir Keri"
 date: 2026-02-20
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Yen gelem tak jak rabi Yen ra gelem tak jagongi Sing ra penting pikir keri

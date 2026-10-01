@@ -2,7 +2,7 @@
 title: "Daniel Folala Zalukhu - Ahilu Khõgu"
 date: 2025-11-23
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 Ba hõrõmõ Anehedo wa fa'omasiu lõ irai tebulõ Ba lagumõ Taraso khõgu wa no si'oroi ba dõdõmõ

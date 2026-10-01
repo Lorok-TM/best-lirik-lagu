@@ -2,7 +2,7 @@
 title: "Asila Maisa - Sana Sini Centil"
 date: 2026-09-05
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Seperti inilah diriku Manis cantik imut dan lucu Siapapun yang dekat denganku Pasti akan nyaman denganku Jangan marah padaku bila nanti Kau yang jatuh cinta

@@ -2,7 +2,7 @@
 title: "Eja S.M - Badayuang Surang Diri"
 date: 2025-09-08
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Alah babilang maso Alah baganti tahun Kito sairiang jalan Uda lengahkan denai Uda indak padulikan diri denai

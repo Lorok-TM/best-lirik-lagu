@@ -2,7 +2,7 @@
 title: "Dek Soma - Pelih Besik Dadi Siu dan Artinya"
 date: 2023-06-18
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 Dek Soma bersama Dewata Production rilis single dengan lirik dalam bahasa Bali berjudul "Pelih Besik Dadi Siu" yang artinya "Salah Satu Jadi Seribu (salah sedikit menjadi banyak)", menceritakan tentang hubungan rumah tangga yang sempat memanas karena adanya gosip gak jelas dari orang orang disekitarnya. Untuk lebih jelasnya silahkan Anda baca terjemahan lirik lagunya berada dibawah.

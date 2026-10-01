@@ -2,7 +2,7 @@
 title: "Jen Manurung - Satonga Mate"
 date: 2025-09-24
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Hea do au makkaholongi ho Lobi-lobi sian diriki Hea do au masihol tu ho Songon logo ni ari napaimahon udan i

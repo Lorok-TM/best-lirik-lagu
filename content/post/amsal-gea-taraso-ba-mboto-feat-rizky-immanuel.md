@@ -2,7 +2,7 @@
 title: "Amsal Gea - Taraso Ba Mboto feat. Rizky Immanuel"
 date: 2025-09-11
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 Afökhö sibai sa bakha ba dödö Afökhö Khi sa ae wolaumö Me ö wa’ö lökhöu Niha bö’ö Hana waöröi do nasimanö

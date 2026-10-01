@@ -2,7 +2,7 @@
 title: "Rana Safira - Lapeh Raso"
 date: 2026-08-08
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 

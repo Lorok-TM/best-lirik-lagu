@@ -2,7 +2,7 @@
 title: "Upiak Bulu - Bantuak Buruak Salero Tinggi Feat Cece Pucex"
 date: 2025-06-24
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 O mak a dek’a kau piak Tolonglah carian wak den laki oi mak O mak cari se lah surang piak Lah den cari ndak ado nan mantap do mak

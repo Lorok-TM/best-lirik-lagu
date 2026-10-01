@@ -2,7 +2,7 @@
 title: "Dini Kurnia feat. Mufly Key - Pati Geni"
 date: 2026-01-11
 categories: 
-  - "osing"
+  - "Osing"
 ---
 
 Gunung raung sepiro duwure Arep sun langkahi seru kangene Sun puasani ngebleng pati geni Kecaruko sisik melik kembange ati

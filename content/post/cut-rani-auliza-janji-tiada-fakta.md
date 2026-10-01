@@ -2,7 +2,7 @@
 title: "Cut Rani Auliza - Janji Tiada Fakta"
 date: 2025-08-29
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Ku ukir namamu dihati Kau yang menghapuskannya Kau buat diriku percaya Tapi kau yang mematahkannya

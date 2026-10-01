@@ -2,7 +2,7 @@
 title: "The Boy's Trio - Golang"
 date: 2024-04-15
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 **Lirik Golang - The Boy's Trio**

@@ -2,7 +2,7 @@
 title: "Daniel Folala Zalukhu - Raya Ba Binaka"
 date: 2025-08-03
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 Da'ufaehagö Ziso bakha ba dödö Hewae mena'ö So khögu wa'alawö

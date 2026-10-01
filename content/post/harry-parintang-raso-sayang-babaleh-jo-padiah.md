@@ -2,7 +2,7 @@
 title: "Harry Parintang - Raso Sayang Babaleh Jo Padiah"
 date: 2025-09-30
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Alah tu diak Den diseso juo Lah cukuik rasonyo Batin ko taluko Dek ulah cinto

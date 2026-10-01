@@ -2,7 +2,7 @@
 title: "Pengemis Cinta - Syafar Nainggolan feat. Tamin Manise"
 date: 2025-04-13
 categories: 
-  - "tapsel"
+  - "Tapsel"
 ---
 
 Ulang disangka ho anggi Putus asa au bunuh diri Bope ho manolak cintakki Pagogo mangan doi di au

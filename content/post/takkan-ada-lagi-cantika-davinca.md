@@ -2,7 +2,7 @@
 title: "Takkan Ada Lagi - Cantika Davinca"
 date: 2025-03-05
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Takkan Ada Lagi yang dibawakan oleh Cantika Davinca.

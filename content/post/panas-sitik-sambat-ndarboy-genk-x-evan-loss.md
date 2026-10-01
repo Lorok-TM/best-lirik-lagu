@@ -2,7 +2,7 @@
 title: "Panas Sitik Sambat - Ndarboy Genk x Evan Loss"
 date: 2026-07-01
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 Panas sitik sambat Udan sitik sambat Dasar aku, nyaman sitik sayang

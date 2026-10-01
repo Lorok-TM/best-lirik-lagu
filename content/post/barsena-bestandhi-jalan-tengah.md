@@ -2,7 +2,7 @@
 title: "Barsena Bestandhi - Jalan Tengah"
 date: 2026-06-06
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 

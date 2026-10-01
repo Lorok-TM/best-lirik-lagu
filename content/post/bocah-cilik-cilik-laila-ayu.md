@@ -2,7 +2,7 @@
 title: "Bocah Cilik Cilik - Laila Ayu"
 date: 2025-03-21
 categories: 
-  - "religi"
+  - "Religi"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Bocah Cilik Cilik yang dibawakan oleh Laila Ayu.

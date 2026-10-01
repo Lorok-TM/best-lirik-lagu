@@ -2,7 +2,7 @@
 title: "Kristin - Bawi Desa dan Artinya"
 date: 2022-04-07
 categories: 
-  - "dayak"
+  - "Dayak"
   - "remix"
 ---
 

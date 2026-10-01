@@ -2,7 +2,7 @@
 title: "Fajar Halawa - Toru Ungu"
 date: 2025-12-07
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 Tenga lö udegu degu Alösi we mabu mabu Marase mbotou tegölu Tekörö nuo duru aheu

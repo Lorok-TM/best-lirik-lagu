@@ -2,7 +2,7 @@
 title: "Sakik Di Ujuang Cinto - Wulan Putri"
 date: 2025-06-07
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Bialah hilang usah lah di kana kana Nan lah tajadi bia tajadi Walau mambayang sakik nan taruih mambaban Menyeso hati siang jo malam

@@ -2,7 +2,7 @@
 title: "Cincin Kaweng - Isty Julistry"
 date: 2025-02-09
 categories: 
-  - "manado"
+  - "Manado"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Cincin Kaweng yang dibawakan oleh Isty Julistry.

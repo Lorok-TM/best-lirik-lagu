@@ -2,7 +2,7 @@
 title: "Ipank - Luka Yang Tak Terobati"
 date: 2023-10-28
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Ipank dibawah naungan label Bintang Record rilis single Melayu berjudul "Luka Yang Tak Terobati" yang diciptakan oleh Guspadiana, menceritakan tentang luka perasaan yang teramat dalam hingga membuatnya sakit hati.

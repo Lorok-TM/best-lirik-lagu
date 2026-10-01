@@ -2,7 +2,7 @@
 title: "Mifthah Aulianti - Salam Indonesia Harmoni"
 date: 2022-11-28
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Lirik Lagu Indo dengan judul Salam Indonesia Harmoni yang dinyanyikan oleh Mifthah Aulianti. Lagu ini diciptakan oleh Boy Rafli Amar dengan irama musik Pop.

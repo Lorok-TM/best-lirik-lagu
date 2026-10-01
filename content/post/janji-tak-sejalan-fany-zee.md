@@ -2,7 +2,7 @@
 title: "Janji Tak Sejalan - Fany Zee"
 date: 2025-07-03
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 Mengapa langit kini Mendung tak bercahaya Tenyata karna hati ku merana...

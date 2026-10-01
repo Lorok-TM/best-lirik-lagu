@@ -2,7 +2,7 @@
 title: "Tata Talita - Pakasiah Tak Baramuan"
 date: 2026-01-26
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Dilarai makin dilarai ondeh Tambah dilarai hati batambah kanai Diubek joa diubek ondeh Alah diubek kabek batambah arek

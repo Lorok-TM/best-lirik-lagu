@@ -2,7 +2,7 @@
 title: "Mari Ete Mari O - Abu Lado Purab Feat Ocha Shaptriasa"
 date: 2025-04-14
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 Asalamualaikum Ade nona Waalaikumsalam kaka sayang Sa mo jadi tamu di Ade pung hari Hari kasih sayang I love you slamanya

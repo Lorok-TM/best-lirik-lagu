@@ -2,7 +2,7 @@
 title: "Pertemuan 2 - Diva Hani"
 date: 2025-02-19
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Pertemuan 2 yang dibawakan oleh Diva Hani.

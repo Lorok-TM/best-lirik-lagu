@@ -2,7 +2,7 @@
 title: "Andy Rallo Ginting - Tuhu Bage Ateku"
 date: 2022-08-29
 categories: 
-  - "karo"
+  - "Karo"
 ---
 
 Title : Tuhu Bage Ateku Artist : Andy Rallo Ginting Songwriter : Ramli Sembiring Production : Edo Frandy MunThe, SM / DD88 Category : Lagu Karo

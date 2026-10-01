@@ -2,7 +2,7 @@
 title: "Tak Harus Memiliki - Tasya Rosmala Adella feat. Nophie Adella"
 date: 2026-07-06
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 

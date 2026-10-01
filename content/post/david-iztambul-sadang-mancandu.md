@@ -2,7 +2,7 @@
 title: "David Iztambul - Sadang Mancandu"
 date: 2025-05-19
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 

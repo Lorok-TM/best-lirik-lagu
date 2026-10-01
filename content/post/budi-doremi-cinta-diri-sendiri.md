@@ -2,7 +2,7 @@
 title: "Budi Doremi - Cinta Diri Sendiri"
 date: 2026-08-15
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 

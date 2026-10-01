@@ -2,7 +2,7 @@
 title: "David Iztambul - Banang Bauleh"
 date: 2023-04-25
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Lirik Lagu Minang dengan judul Banang Bauleh yang dinyanyikan oleh David Iztambul dan diciptakan oleh Ajhai Pasma dengan irama musik Pop.

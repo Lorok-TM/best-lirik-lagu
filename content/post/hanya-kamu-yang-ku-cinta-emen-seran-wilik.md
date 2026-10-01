@@ -2,7 +2,7 @@
 title: "Hanya Kamu Yang Ku Cinta - Emen Seran Wilik"
 date: 2025-03-13
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Hanya Kamu Yang Ku Cinta yang dibawakan oleh Emen Seran Wilik.

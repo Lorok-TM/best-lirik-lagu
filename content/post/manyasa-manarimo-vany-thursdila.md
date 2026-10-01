@@ -2,7 +2,7 @@
 title: "Manyasa Manarimo - Vany Thursdila"
 date: 2025-02-07
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Manyasa Manarimo yang dibawakan oleh Vany Thursdila.

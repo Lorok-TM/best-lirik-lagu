@@ -2,7 +2,7 @@
 title: "Risa Br Surbakti - La Kusangka"
 date: 2021-08-12
 categories: 
-  - "karo"
+  - "Karo"
 ---
 
 Title : La Kusangka Artist : Risa Br Surbakti Songwriter : Rasmin Sibero Category : Lagu Karo

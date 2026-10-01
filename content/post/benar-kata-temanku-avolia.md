@@ -2,7 +2,7 @@
 title: "Benar Kata Temanku - Avolia"
 date: 2025-02-14
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Benar Kata Temanku yang dibawakan oleh Avolia.

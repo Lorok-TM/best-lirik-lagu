@@ -2,7 +2,7 @@
 title: "Gustrian Geno - Rela Menanggung Luka"
 date: 2023-01-10
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Gustrian Geno dibawah naungan label Koko Record rilis single Melayu berjudul "Rela Menanggung Luka" yang diciptakan oleh Likyn Setia.

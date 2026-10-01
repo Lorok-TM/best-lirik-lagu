@@ -2,7 +2,7 @@
 title: "Ha Ha - Shabrina Leanor"
 date: 2026-07-28
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 

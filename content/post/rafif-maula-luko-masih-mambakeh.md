@@ -2,7 +2,7 @@
 title: "Rafif Maula - Luko Masih Mambakeh"
 date: 2026-01-30
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 

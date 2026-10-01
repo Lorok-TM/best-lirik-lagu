@@ -2,7 +2,7 @@
 title: "Doli Doli Trio - Ha Sino P3K"
 date: 2024-05-14
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 **Lirik Ha Sino P3K - Doli Doli Trio**

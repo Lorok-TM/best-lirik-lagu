@@ -2,7 +2,7 @@
 title: "Putri Lope Lope - Putri Gunung"
 date: 2026-07-23
 categories: 
-  - "campursari"
+  - "Campursari"
 ---
 
 Nadyan aku bocah nggunung Doh banget dunungku Ora susah kathek nganggo bingung Yen to pancen tresna aku

@@ -2,7 +2,7 @@
 title: "Andra Respati - Susah Senang Berdua feat. Gisma Wandira"
 date: 2025-10-18
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 Bukan karena harta Bukan karna rupa Ku mencintai dirimu Tapi ketulusan Dan kesungguhanmu Yang membuatku memilihmu

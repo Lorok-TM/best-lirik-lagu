@@ -2,7 +2,7 @@
 title: "Difarina Indra - Runtah"
 date: 2022-09-17
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 ## Lirik Lagu ”Runtah“ by Difarina Indra

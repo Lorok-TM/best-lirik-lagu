@@ -2,7 +2,7 @@
 title: "R n B - 100% Sayang"
 date: 2023-01-25
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Lirik Lagu Indo dengan judul 100% Sayang yang dinyanyikan oleh R n B dan diciptakan oleh Rendy Penna dengan irama musik Remix.

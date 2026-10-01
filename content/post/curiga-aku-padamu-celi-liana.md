@@ -2,7 +2,7 @@
 title: "Curiga (Aku Padamu) - Celi Liana"
 date: 2025-01-17
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Curiga (Aku Padamu) yang dibawakan oleh Celi Liana.

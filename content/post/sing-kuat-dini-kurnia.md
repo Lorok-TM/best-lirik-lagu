@@ -2,7 +2,7 @@
 title: "Sing Kuat - Dini Kurnia"
 date: 2025-04-20
 categories: 
-  - "osing"
+  - "Osing"
 ---
 
 Saat iki riko nong endi Sun angeni opo keroso Wengi iki riko nong endi Sun anteni opo keroso

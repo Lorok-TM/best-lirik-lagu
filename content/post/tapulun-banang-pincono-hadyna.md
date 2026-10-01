@@ -2,7 +2,7 @@
 title: "Tapulun Banang Pincono - Hadyna"
 date: 2025-01-07
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Tapulun Banang Pincono yang dibawakan oleh Hadyna.

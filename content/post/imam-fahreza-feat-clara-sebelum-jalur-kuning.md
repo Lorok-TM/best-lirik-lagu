@@ -2,7 +2,7 @@
 title: "Imam Fahreza Feat Clara - Sebelum Jalur Kuning"
 date: 2026-08-20
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Burung merpati sedang memadu kasih Cemburu hati cemburu bila memandang Tajir dan tampan dimana kurang ku sayang Kau tolak cinta yang aku ucapkan

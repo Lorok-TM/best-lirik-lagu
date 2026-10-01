@@ -2,7 +2,7 @@
 title: "Andai Kau Maafkan - Selvi Ayunda feat. Zian Alfin Mubarak"
 date: 2026-07-07
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Andai aku bisa mengulang waktu Tak kan pernah ku siakan dirimu Andai aku bisa mengulang waktu Tak kan pernah ku siakan dirimu

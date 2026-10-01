@@ -2,7 +2,7 @@
 title: "Permata Hati - Arif Hidayat Feat. Nurul Hidayah"
 date: 2024-08-07
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Cuma kamu cuma kamu sayang Kasih pujaan hati Hanyalah dikau seorang Permata hidup ini

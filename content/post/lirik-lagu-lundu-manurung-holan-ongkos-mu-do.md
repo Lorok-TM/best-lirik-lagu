@@ -2,7 +2,7 @@
 title: "Lundu Manurung - Holan Ongkos Mu Do"
 date: 2021-06-24
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 ## Lirik Lagu Batak Holan Ongkos Mu Do by Lundu Manurung.

@@ -2,7 +2,7 @@
 title: "Ajeng Febria - Karna Ada Ko"
 date: 2026-07-07
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 Sedih itu kalo sa tra dengan ko Jang tanyakan sa pu rasa untuk ko Setiap hari sa berdoa Semoga kita sanggup baku jaga

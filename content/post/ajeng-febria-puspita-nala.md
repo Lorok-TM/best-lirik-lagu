@@ -2,7 +2,7 @@
 title: "Ajeng Febria - Puspita Nala"
 date: 2025-12-06
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 Wanodyo ayu utomo Ngambar arum ing kusumo Mulat leng leng brangta Agawe sengseming nala

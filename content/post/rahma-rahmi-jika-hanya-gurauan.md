@@ -2,7 +2,7 @@
 title: "Rahma Rahmi - Jika Hanya Gurauan"
 date: 2023-03-02
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Lirik Lagu Melayu dengan judul Jika Hanya Gurauan yang dinyanyikan oleh Rahma Maulana Feat. Rahmi Maulani dan diciptakan oleh Erwin Agam dengan irama musik Pop.

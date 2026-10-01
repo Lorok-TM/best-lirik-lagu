@@ -2,7 +2,7 @@
 title: "Atmosfera - Insan Do Sontoun"
 date: 2025-05-07
 categories: 
-  - "malaysia"
+  - "Malaysia"
 ---
 
 Chorus : Norikot nodi tadau piandad andad.. Miti timung tokou ngawi rumamai.. Kada tokou olingai kobasanan.. Kaamatan insan do sontoun..

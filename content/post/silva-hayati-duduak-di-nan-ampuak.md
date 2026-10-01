@@ -2,7 +2,7 @@
 title: "Silva Hayati - Duduak Di Nan Ampuak"
 date: 2026-09-26
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Tangiang Ngiang Janjinyo Tuan Kabakeh Kami Jikok Lah Duduak Yo Di Nan Ampuak Janji Janji Ka Batapati Tapi Nyatonyo Lah Lupo Sajo Tuan Kini Ko Manih Dimuluik Malakik Duduak Takicuah Kami Dek Kanai Umbuak

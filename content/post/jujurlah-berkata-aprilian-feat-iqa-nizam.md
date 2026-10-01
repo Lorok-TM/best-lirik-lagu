@@ -2,7 +2,7 @@
 title: "Jujurlah Berkata - Aprilian Feat. Iqa Nizam"
 date: 2024-07-17
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 **Berikut lirik Jujurlah Berkata yang dinyanyikan oleh Aprilian Feat Iqa Nizam.**

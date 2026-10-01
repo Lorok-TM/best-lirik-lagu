@@ -2,7 +2,7 @@
 title: "Kesel - Dyah Novita feat. Michela Thea"
 date: 2026-07-11
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 

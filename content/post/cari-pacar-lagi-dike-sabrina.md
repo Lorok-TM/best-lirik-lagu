@@ -2,7 +2,7 @@
 title: "Cari Pacar Lagi - Dike Sabrina"
 date: 2026-08-22
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Jangan kau s’lalu merasa Lelaki bukan dirimu saja Lebih baik kuputuskan saja Cari pacar lagi

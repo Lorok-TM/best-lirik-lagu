@@ -2,7 +2,7 @@
 title: "Anggis Devaki - Untuk Kau Hargai"
 date: 2026-08-02
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Lagu "Untuk Kau Hargai" yang dibawakan oleh Anggis Devaki serta diciptakan oleh Bagas Ran mengeksplorasi batas psikologis seseorang dalam menghadapi asimetri komitmen pada sebuah hubungan asmara. Secara filosofis, karya dirilis lewat label HITS Records ini bukan sekadar mengekspresikan kekecewaan akibat penolakan, melainkan menyoroti momentum transisi kesadaran (self-awareness) individu dari fase pengorbanan yang sia-sia menuju pemulihan harga diri. Latar belakang narasi lagunya berfokus pada titik jenuh seseorang yang menyadari bahwa upaya mempertahankan hubungan secara sepihak tidak lagi rasional jika hak mendasarnya untuk dihargai terus diabaikan oleh pasangan. Melalui aransemen dan lirik yang lugas, komposisi ini merekam ketegasan emosional untuk berhenti mengalah, yang sekaligus menegaskan prinsip bahwa cinta yang sehat menuntut adanya timbal balik serta pengakuan yang setara dari kedua belah pihak.

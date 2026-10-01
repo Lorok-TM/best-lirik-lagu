@@ -2,7 +2,7 @@
 title: "Wawa Naela - Paringgo"
 date: 2025-09-30
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Dulu maimbau uda kini maimbau abang Banyak pulo urang maimbau basayang sayang Manggarumih jantuangko yo dek mandangakan nyo Dek karano denai alun juo ba nan punyo

@@ -2,7 +2,7 @@
 title: "Surens Sinulingga - Perbual"
 date: 2024-04-18
 categories: 
-  - "karo"
+  - "Karo"
 ---
 
 La tuhu kerina si belas ndu Bual kena perbual Janji ndu madu pegu bre kendu Biring biring seh kel ukur ndu

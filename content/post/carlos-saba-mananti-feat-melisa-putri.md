@@ -2,7 +2,7 @@
 title: "Carlos - Saba Mananti feat. Melisa Putri"
 date: 2025-09-02
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Lah lamo kito indak basuo Lah rindu hati di dalam dado Uda di rantau bilo ka pulang Denai di kampuang rasa mananti Uda di rantau bilo ka pulang Denai di kampuang rasa mananti

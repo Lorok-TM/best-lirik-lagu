@@ -2,7 +2,7 @@
 title: "Hamil - Aviwkila"
 date: 2025-03-26
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Hamil yang dibawakan oleh Aviwkila.

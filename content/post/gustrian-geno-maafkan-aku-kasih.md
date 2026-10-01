@@ -2,7 +2,7 @@
 title: "Gustrian Geno - Maafkan Aku Kasih"
 date: 2022-04-07
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Title : Maafkan Aku Kasih Artist : Gustrian Geno Songwriter : Rajali Asmara Published : Teras Musik Category : Lagu Pop Melayu

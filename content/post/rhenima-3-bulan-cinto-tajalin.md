@@ -2,7 +2,7 @@
 title: "Rhenima - 3 Bulan Cinto Tajalin"
 date: 2023-02-04
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Rhenima rilis single dengan lirik dalam bahasa Minangkabau berjudul "Tigo Bulan Cinto Tajalin" yang artinya "Tiga Bulan Cinta Terjalin", menceritakan tentang cinta yang sudah terjalin selama tiga bulan kini menyisakan luka dihati.

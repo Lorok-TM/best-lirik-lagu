@@ -2,7 +2,7 @@
 title: "Jalan Tengah - Mikha Tambayong feat. Rayi Putra"
 date: 2026-07-19
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Sejak hari pertama Kesukaannya tak sama Kamu suka cinema Kamu lebih suka baca Dulu kukira Ini bukan masalah Jadi kucoba jalani saja Namun kini kusadari Kamu dan aku terlalu berbeda Oh sayang

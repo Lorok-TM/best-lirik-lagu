@@ -2,7 +2,7 @@
 title: "Kanai Santuang Palalai - Julia Anugerah Putri"
 date: 2025-02-09
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Kanai Santuang Palalai yang dibawakan oleh Julia Anugerah Putri.

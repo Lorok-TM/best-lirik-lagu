@@ -2,7 +2,7 @@
 title: "Aprilian feat. Shinta Angely - Nota Cinta"
 date: 2025-12-22
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 Sirna sudah harapanku kasih Tuk menyentuh hatimu Tak kan ada lagi yang ku nanti Bunga pujaan hatiku Semua kan menjadi nota pilu dalam hidupku Rela ku melepas bayangan tuk merindu

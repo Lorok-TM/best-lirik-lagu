@@ -2,7 +2,7 @@
 title: "Kepiten Butar - Gitarena Br Ginting"
 date: 2024-08-15
 categories: 
-  - "karo"
+  - "Karo"
 ---
 
 Lakinlah enggo menda padanku ari Maka ate ngena rusur imbangku Luka si ndube lenga bo malem turang Gundari reh kam nanem ken bisa

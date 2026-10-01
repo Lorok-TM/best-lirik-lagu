@@ -2,7 +2,7 @@
 title: "Diva Aurel - Dek Tido Manampuang Juo"
 date: 2025-10-16
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Denai indak ka pai manjauah Hanyo tuan tampek denai batenggang Walau sakik bak raso ka mambunuah Tapaso bahilang hilang kan

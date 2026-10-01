@@ -2,7 +2,7 @@
 title: "Arief ft. Fauzana - Cinta Mu Rindu Ku"
 date: 2022-05-21
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Disini aku Bagai rembulan merindu Berharap engkau berkilau terang

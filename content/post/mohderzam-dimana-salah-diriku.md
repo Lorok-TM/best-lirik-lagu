@@ -2,7 +2,7 @@
 title: "Mohderzam - Dimana Salah Diriku"
 date: 2025-04-26
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Andai aku tak mengenalmu Mungkin aku takan terluka Andai kita tak pernah berjumpa Mungkin aku tlah bahagia

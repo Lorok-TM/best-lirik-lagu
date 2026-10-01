@@ -2,7 +2,7 @@
 title: "Dini Kurnia Feat Mufly Key - Kangen"
 date: 2025-06-02
 categories: 
-  - "osing"
+  - "Osing"
 ---
 
 Rosone kangen, kari keseron Sakate ono, riko neng kene Klendi kabare, riko neng kono Ojo lali isun, hang riko tinggalno

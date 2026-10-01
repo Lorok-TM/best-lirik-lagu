@@ -2,7 +2,7 @@
 title: "Intan Mandasari - Wes Ra Tresno"
 date: 2025-05-01
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 Tak kiro kowe tresno karo aku Nanging nyatane ora tresno Tak kiro kowe sayang karo aku Nanging nyatane ora sayang

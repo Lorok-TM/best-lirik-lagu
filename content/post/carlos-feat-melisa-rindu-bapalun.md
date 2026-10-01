@@ -2,7 +2,7 @@
 title: "Carlos feat. Melisa - Rindu Bapalun"
 date: 2025-09-08
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Kain batiak paludu ambun Sulam barendo di tiok tapi Hanyo ka adiak rindu bapalun Indak ka diganti ganti Hanyo ka adiak rindu bapalun Indak ka diganti ganti

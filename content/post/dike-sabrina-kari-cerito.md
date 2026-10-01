@@ -2,7 +2,7 @@
 title: "Dike Sabrina - Kari Cerito"
 date: 2026-07-09
 categories: 
-  - "osing"
+  - "Osing"
 ---
 
 

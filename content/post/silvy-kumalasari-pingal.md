@@ -2,7 +2,7 @@
 title: "Silvy Kumalasari - Pingal"
 date: 2026-08-18
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 piye sek jelaske karo wongtuwo wes ngelakoni tekan semene nek akhire bakal bubar pisahan kowe kegudo tresno karo wong liyo

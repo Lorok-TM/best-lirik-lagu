@@ -2,7 +2,7 @@
 title: "Halilintar Morgen - Takanai Dek Parangai"
 date: 2025-08-24
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Dulu arek bajanjikan cinto Sahinggo denai tapadayo Lah picayo Sapanuahnyo hati den bari

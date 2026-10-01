@@ -2,7 +2,7 @@
 title: "Ecko Show - So Ta Sala Feat Dj Desa, Ayumiu, Pace Nenong"
 date: 2025-04-30
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 Eh ah Adoe cilaka kita so ta sala Harapan so tinggi Tapi dia kase patah Janji janji cuma abis kata kata Kalau bakumuka cuma dia kase pnta

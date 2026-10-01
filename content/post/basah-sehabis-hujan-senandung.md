@@ -2,7 +2,7 @@
 title: "Basah Sehabis Hujan - Senandung"
 date: 2025-02-22
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Basah Sehabis Hujan yang dibawakan oleh Senandung.

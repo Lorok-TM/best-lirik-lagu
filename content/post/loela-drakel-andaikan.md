@@ -2,7 +2,7 @@
 title: "Loela Drakel - Andaikan"
 date: 2025-08-25
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Mengapa kasih semua ini harus terjadi Setelah cinta yang kita bina kian membara Kau pergi jauh dan tinggalkan aku disini Tanpa sepatah katapun terucap dibibirmu

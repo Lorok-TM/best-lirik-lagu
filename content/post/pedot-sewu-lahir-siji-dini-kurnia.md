@@ -2,7 +2,7 @@
 title: "Pedot Sewu Lahir Siji - Dini Kurnia"
 date: 2025-02-13
 categories: 
-  - "osing"
+  - "Osing"
 ---
 
 Sun eleng esem gemuyune riko Seng gampang isun arek ngelalekno Wis suwi riko urip ambi isun Sedelo riko wis nglalekno isun

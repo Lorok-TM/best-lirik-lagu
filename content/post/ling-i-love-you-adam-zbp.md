@@ -2,7 +2,7 @@
 title: "Ling I Love You - Adam ZBP"
 date: 2024-07-28
 categories: 
-  - "malaysia"
+  - "Malaysia"
 ---
 
 I don’t understand Peranga demo ni lagu mano Palo abe nok mereng Nok royak raso tok keno

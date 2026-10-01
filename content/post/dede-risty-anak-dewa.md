@@ -2,7 +2,7 @@
 title: "Dede Risty - Anak Dewa"
 date: 2025-11-06
 categories: 
-  - "tarling"
+  - "Tarling"
 ---
 
 Tembus pandeng kaya kaca Landep kaya mata dewa Lirikan si anak dewa Wong lima pasti kegawa

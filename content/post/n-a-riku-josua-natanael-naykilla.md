@@ -2,7 +2,7 @@
 title: "N/A - Riku, Josua Natanael, Naykilla"
 date: 2026-07-03
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 

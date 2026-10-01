@@ -2,7 +2,7 @@
 title: "Leeyonk Sinatra - Curhat UntukNYA"
 date: 2022-09-02
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 ## Lirik Lagu Curhat UntukNYA - Leeyonk Sinatra

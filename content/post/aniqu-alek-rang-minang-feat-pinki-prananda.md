@@ -2,7 +2,7 @@
 title: "Aniqu - Alek Rang Minang feat. Pinki Prananda"
 date: 2025-08-27
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Dinlah badindin dundan Baharaklah sakaliliang kampuang

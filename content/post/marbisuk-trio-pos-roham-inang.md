@@ -2,7 +2,7 @@
 title: "Marbisuk Trio - Pos Roham Inang"
 date: 2023-06-23
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Lirik Lagu Batak dengan judul Pos Roham Inang yang dinyanyikan oleh Marbisuk Trio dan diciptakan oleh Wervin Panggabean dengan irama musik Pop.

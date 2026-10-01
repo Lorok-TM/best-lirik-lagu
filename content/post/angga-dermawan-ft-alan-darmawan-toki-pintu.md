@@ -2,7 +2,7 @@
 title: "Angga Dermawan ft. Alan Darmawan - Toki Pintu"
 date: 2025-04-29
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 Intro : Okay.. Cah.. manise..

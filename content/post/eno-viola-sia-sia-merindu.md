@@ -2,7 +2,7 @@
 title: "Eno Viola - Sia Sia Merindu"
 date: 2023-06-24
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Lirik Lagu Melayu dengan judul Sia Sia Merindu yang dinyanyikan oleh Eno Viola dan diciptakan oleh Fany Zee, Aprilian dengan irama musik Pop.

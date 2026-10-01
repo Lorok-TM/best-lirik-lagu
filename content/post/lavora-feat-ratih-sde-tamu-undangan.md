@@ -2,7 +2,7 @@
 title: "Lavora feat. Ratih SDE - Tamu Undangan"
 date: 2025-11-11
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 Minggu esok adus mruput Gas tipis ning resepsimu Nyekseni ijab kobul koe ro bojomu Statusku mbiyen pacar saiki tamu undangan Kelangan koe aku oleh ijol prasmanan

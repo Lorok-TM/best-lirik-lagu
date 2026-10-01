@@ -2,7 +2,7 @@
 title: "Gangaman Langannyu - Elisabeth Feat Derry"
 date: 2024-11-04
 categories: 
-  - "dayak"
+  - "Dayak"
 ---
 
 Sampe ampaikng masih trasa Kao ngangapm langanku Sidi lamutnya tarasa takanang Man liliknya ati

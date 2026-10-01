@@ -2,7 +2,7 @@
 title: "Diyah Agriana - Sopir Batak"
 date: 2025-08-31
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Supir batak, sitokar kaliang Lari oto sabana manintiang Padang lah ka medan, medan lah ka jambi Jambi jo palembang, lah taruih ka tanjuang karang

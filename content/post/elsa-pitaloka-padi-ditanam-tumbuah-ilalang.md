@@ -2,7 +2,7 @@
 title: "Elsa Pitaloka - Padi Ditanam Tumbuah Ilalang"
 date: 2025-05-19
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 

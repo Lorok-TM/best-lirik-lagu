@@ -2,7 +2,7 @@
 title: "Kakange Mblenger - Dian Anic"
 date: 2024-10-26
 categories: 
-  - "tarling"
+  - "Tarling"
 ---
 
 Ketemu kakang ora sengaja Awal pandengan langsung terpana Apa kien takdir sing kuasa Kakang sing dadi cinta pertama

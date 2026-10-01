@@ -2,7 +2,7 @@
 title: "Pelih Pejalan - Dek Soma"
 date: 2025-02-22
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Pelih Pejalan yang dibawakan oleh Dek Soma.

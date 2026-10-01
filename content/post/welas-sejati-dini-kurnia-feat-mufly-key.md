@@ -2,7 +2,7 @@
 title: "Welas Sejati - Dini Kurnia Feat Mufly Key"
 date: 2025-02-18
 categories: 
-  - "osing"
+  - "Osing"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Welas Sejati yang dibawakan oleh Dini Kurnia Ft Mufly Key.

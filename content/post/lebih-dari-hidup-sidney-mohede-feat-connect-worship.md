@@ -2,7 +2,7 @@
 title: "Lebih Dari Hidup - Sidney Mohede Feat Connect Worship"
 date: 2025-01-07
 categories: 
-  - "rohani"
+  - "Rohani"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Lebih Dari Hidup yang dibawakan oleh Sidney Mohede Ft Connect Worship.

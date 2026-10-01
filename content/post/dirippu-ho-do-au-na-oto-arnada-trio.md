@@ -2,7 +2,7 @@
 title: "Dirippu Ho Do Au Na Oto - Arnada Trio"
 date: 2025-06-16
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Dirippu ho do au na oto Ala burju rohakku tu ho Nang holan gabus pe diula ho Dang hudok manang aha tu ho Nang holan gabus pe diula ho Dang hudok manang aha tu ho

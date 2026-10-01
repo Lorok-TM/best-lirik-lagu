@@ -2,7 +2,7 @@
 title: "Jantungati - HarmoniA"
 date: 2024-12-31
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Jantung Ati yang dibawakan oleh HarmoniA.

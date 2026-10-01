@@ -2,7 +2,7 @@
 title: "Suci Tacik - Emanen Isun dan Artinya"
 date: 2021-10-14
 categories: 
-  - "dangdut"
+  - "Dangdut"
   - "osing"
 ---
 

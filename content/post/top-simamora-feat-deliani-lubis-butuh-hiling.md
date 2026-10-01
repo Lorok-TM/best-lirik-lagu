@@ -2,7 +2,7 @@
 title: "Top Simamora feat. Deliani Lubis - Butuh Hiling"
 date: 2025-10-24
 categories: 
-  - "tapsel"
+  - "Tapsel"
 ---
 
 Halak baya ma hiling Iba leng na manggiling Halak marangin angin Iba makkubak pining

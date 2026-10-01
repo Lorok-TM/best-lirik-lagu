@@ -2,7 +2,7 @@
 title: "Yaya Nadila - Cinta Seorang Biduan"
 date: 2025-05-18
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Kisah lama itu harusnya aku terlupa Seandainya kau tidak mengulanginya Banyak benarnya tuduhan kau lontarkan selama ini Siapalah, aku hanya seorang biduan

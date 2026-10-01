@@ -2,7 +2,7 @@
 title: "Sampaikan Rindu - Yeni Inka"
 date: 2025-02-14
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Sampaikan Rindu yang dibawakan oleh Yeni Inka.

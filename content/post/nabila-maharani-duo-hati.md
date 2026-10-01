@@ -2,7 +2,7 @@
 title: "Nabila Maharani - Duo Hati"
 date: 2025-09-06
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Di siko denai punyo cinto Di sinan denai punyo sayang Denai tacinto nan duo hati Ndak bisa denai malupokan Denai tacinto nan duo hati Ndak bisa denai malupokan

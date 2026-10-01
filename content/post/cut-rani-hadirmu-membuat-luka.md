@@ -2,7 +2,7 @@
 title: "Cut Rani - Hadirmu Membuat Luka"
 date: 2026-09-03
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Jangan kau tanya bagaimana perasaanku Setelah ku tau kau telah menduakanku Bagaikan kaca yang retak seribu Hancur berderai tak kan bisa bersatu Begitulah hancurnya hatiku

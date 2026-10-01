@@ -2,7 +2,7 @@
 title: "Gloryweird For You - Ikhlas"
 date: 2021-10-21
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 Title : Ikhlas Artist : Gloryweird For You Songwriter : Hilal Irham Category : Lagu Dangdut Jawa

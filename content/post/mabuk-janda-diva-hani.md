@@ -2,7 +2,7 @@
 title: "Mabuk Janda - Diva Hani"
 date: 2026-07-27
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Sudah mabok minuman Ditambah lagi judi Masih saja kakang Tergoda janda kembang Tak sudi ku tak sudi

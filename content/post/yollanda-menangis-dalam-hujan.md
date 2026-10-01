@@ -2,7 +2,7 @@
 title: "Yollanda - Menangis Dalam Hujan"
 date: 2025-05-31
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Andaikan dulu diriku tahu Kalau di hatimu bukan cuma aku Tak mungkin akan aku terima Cintamu yang bercabang dua

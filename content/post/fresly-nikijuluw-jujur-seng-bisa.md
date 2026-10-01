@@ -2,7 +2,7 @@
 title: "Fresly Nikijuluw - Jujur Seng Bisa"
 date: 2023-03-18
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 Lirik Lagu Timur dengan judul Jujur Seng Bisa yang dinyanyikan oleh Fresly Nikijuluw dan diciptakan oleh Jerry Saptenno.

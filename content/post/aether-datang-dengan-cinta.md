@@ -2,7 +2,7 @@
 title: "Aether - Datang Dengan Cinta"
 date: 2023-07-12
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Lirik Lagu Indo dengan judul Datang Dengan Cinta yang dinyanyikan oleh Aether dan diciptakan oleh Ipoet, Capoenk dengan irama musik Pop.

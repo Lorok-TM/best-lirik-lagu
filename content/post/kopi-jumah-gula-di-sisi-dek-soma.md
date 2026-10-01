@@ -2,7 +2,7 @@
 title: "Kopi Jumah Gula Di Sisi - Dek Soma"
 date: 2024-10-20
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 Ampurayang petenge jani Beli sing nyidang ketemu adi Beli nawang kenken perasaan adi Kenken adi ngantiang beli di sisi Ampurayang beli sing teka ngaba tresna

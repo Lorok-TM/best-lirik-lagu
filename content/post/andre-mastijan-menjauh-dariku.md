@@ -2,7 +2,7 @@
 title: "Andre Mastijan - Menjauh Dariku"
 date: 2025-07-24
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Ku punya satu cerita tentang percintaan Mencintai seseorang yang tak mencintaiku Satu tahun pun berlalu kutemukan yang baru Dan di saat itu kau datang menemuiku Tak mau lagi ku untuk memaafkanmu

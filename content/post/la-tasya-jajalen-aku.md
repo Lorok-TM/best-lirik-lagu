@@ -2,8 +2,7 @@
 title: "La Tasya - Jajalen Aku"
 date: 2026-02-21
 categories: 
-  - "dangdut"
-  - "java"
+  - "Jawa"
 ---
 
 Siji sing tak temoni genah Jelas ning adepanku Uayumu gawe aku sarwo salah tingkah Neng ngarepanmu

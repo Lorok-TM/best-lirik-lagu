@@ -2,7 +2,7 @@
 title: "Dede Risty - Hubungan Ilegal dan Artinya"
 date: 2023-06-30
 categories: 
-  - "tarling"
+  - "Tarling"
 ---
 
 Lirik Lagu Tarling dengan judul Hubungan Ilegal yang dinyanyikan oleh Dede Risty dan diciptakan oleh Zale RM.

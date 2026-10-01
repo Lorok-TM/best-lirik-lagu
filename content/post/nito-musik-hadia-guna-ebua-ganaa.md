@@ -2,7 +2,7 @@
 title: "Nito Musik - Hadia Guna Ebua Gana'a"
 date: 2025-12-24
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 Fa'auri da ba guli danö Hulö mbowo bunga So bowo ba zi hulö wongi Ba Aleu ba zi tanö owi

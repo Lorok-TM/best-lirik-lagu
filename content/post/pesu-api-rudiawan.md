@@ -2,7 +2,7 @@
 title: "Pesu Api - Rudiawan"
 date: 2024-09-02
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 Gedenan keneh beli nresnain iluh Sebeng luhe tegeh ngaenang beli metimpuh Sing ngerti beli jalan pikiran iluh Pepinah iluhe jeg pragat ngadang nganjuh

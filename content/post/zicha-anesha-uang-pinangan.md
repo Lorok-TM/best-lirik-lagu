@@ -2,7 +2,7 @@
 title: "Zicha Anesha - Uang Pinangan"
 date: 2025-10-06
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Haruskah kau dan aku berpisah Lalu mengorbankan cinta kita Pikir pikir lah dulu oh sayang Jangan gegabah

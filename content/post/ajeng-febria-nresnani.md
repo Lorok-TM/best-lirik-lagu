@@ -2,7 +2,7 @@
 title: "Ajeng Febria - Nresnani"
 date: 2026-09-26
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Maturnuwun pun tansah mayungi pas udane teko Ora ono sing iso ganteni kowe sing tak tresno

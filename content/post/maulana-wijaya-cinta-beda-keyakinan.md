@@ -2,7 +2,7 @@
 title: "Maulana Wijaya - Cinta Beda Keyakinan"
 date: 2023-02-12
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Maulana Wijaya rilis single Melayu berjudul "Cinta Beda Keyakinan" yang diciptakan oleh Ajhay Pasma, menceritakan tentang hubungan cinta yang terhalang oleh perbedaan keyakinan, memang sulit untuk bisa di bersatukan, kecuali dari salah satu diantara mereka berdua ada yang mau mengalah dan ikut menganut keyakinan pasangannya, bila tidak ada yang mau mengalah ya berpisah jalan akhirnya.

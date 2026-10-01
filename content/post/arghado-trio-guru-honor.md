@@ -2,7 +2,7 @@
 title: "Arghado Trio - Guru Honor"
 date: 2025-07-05
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Marpitu taon hita naung mardongan Mulai sian sma sahat tu tammat kuliah Marjanji do hita ikkon saut hita na dua Unang muba unang mose di akka padan

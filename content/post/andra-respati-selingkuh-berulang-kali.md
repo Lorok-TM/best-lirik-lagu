@@ -2,7 +2,7 @@
 title: "Andra Respati - Selingkuh Berulang Kali"
 date: 2025-06-01
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 Tak habis fikir mengapa terjadi Kisah cinta menyayat hati Janji suci sehidup semati Mengapa kini engkau ingkari

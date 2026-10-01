@@ -2,7 +2,7 @@
 title: "Iqbal Mahesa feat. Cabiak - Kaladang (Kapitiang Di Lubang Batu)"
 date: 2026-01-29
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 

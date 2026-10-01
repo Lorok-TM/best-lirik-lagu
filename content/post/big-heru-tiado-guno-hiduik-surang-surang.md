@@ -2,7 +2,7 @@
 title: "Big Heru - Tiado Guno Hiduik Surang Surang"
 date: 2025-04-27
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Alah den jago diri.. Alah den ubek patah hati.. Rasonyo indak kamungkin.. Hati den paso hiduik jo nan lain.. Rasonyo indak kamungkin.. Hati den paso hiduik jo nan lain..

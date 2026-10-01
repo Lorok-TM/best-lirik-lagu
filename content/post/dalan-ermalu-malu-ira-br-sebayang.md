@@ -2,7 +2,7 @@
 title: "Dalan Ermalu Malu - Ira Br Sebayang"
 date: 2024-07-08
 categories: 
-  - "karo"
+  - "Karo"
 ---
 
 **Lirik Dalan Ermalu Malu yang dinyanyikan oleh Ira Br Sebayang.**

@@ -2,7 +2,7 @@
 title: "Hanya Bersyukur - Sari Simorangkir"
 date: 2025-04-10
 categories: 
-  - "rohani"
+  - "Rohani"
 ---
 
 Ku ada hari ini Karena kasih karuniaMu Semua yang terbaik Disediakan bagiku

@@ -2,7 +2,7 @@
 title: "Lo’isofu Ndrofi - Matius PN Halawa"
 date: 2025-05-20
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 Simane niha ba wa’auri sifalali lali Famaedo gahe namofanö möi föna möi furi Itaria he awuyu ndöfi banomöi nikaoni Itaria göi he atua ndöfi no la dari dari

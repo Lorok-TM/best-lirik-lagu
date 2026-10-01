@@ -2,7 +2,7 @@
 title: "Rheka Restu - Goresan Luka"
 date: 2022-12-09
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Lirik Lagu Melayu dengan judul Goresan Luka yang dinyanyikan oleh Rheka Restu dan diciptakan oleh Rino Cancers dengan irama musik Pop.

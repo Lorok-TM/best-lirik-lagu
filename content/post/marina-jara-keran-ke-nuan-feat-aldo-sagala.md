@@ -2,7 +2,7 @@
 title: "Marina Jara - Keran Ke Nuan feat. Aldo Sagala"
 date: 2025-09-01
 categories: 
-  - "iban"
+  - "Iban"
 ---
 
 Dag dig dug ba dalam ati Cap cip cup ku tetap nganti Enti udah keran Aram tua bepangan

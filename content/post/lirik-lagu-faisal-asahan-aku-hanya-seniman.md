@@ -2,7 +2,7 @@
 title: "Faisal Asahan - Aku Hanya Seniman"
 date: 2021-05-14
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Lirik Lagu Melayu dengan judul Aku Hanya Seniman yang dinyanyikan dan diciptakan oleh Faisal Asahan dengan irama musik Pop.

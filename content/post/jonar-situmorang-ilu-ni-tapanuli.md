@@ -2,7 +2,7 @@
 title: "Jonar Situmorang - Ilu Ni Tapanuli"
 date: 2025-12-12
 categories: 
-  - "tapsel"
+  - "Tapsel"
 ---
 
 Marbinege ma ho ale Tuhan Di tangiang nami on Unang tinggalhon hami Tiop tangan nami gomos oh Tuhan

@@ -2,7 +2,7 @@
 title: "Kasiah Dilarai Urang Tuo - Salma"
 date: 2025-02-12
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Kasiah Dilarai Urang Tuo yang dibawakan oleh Salma.

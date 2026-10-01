@@ -2,7 +2,7 @@
 title: "Cantika Nuswantoro Adella - Kelingan Mantan"
 date: 2025-05-05
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Mas, kowe mbiyen janji karo aku Nglakoni tresno suci kanthi ikhlas tekan mati Neng nyatane ngapusi, cidro ati iki Netes eluhku mili deres neng pipi

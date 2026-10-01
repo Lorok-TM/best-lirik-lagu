@@ -2,7 +2,7 @@
 title: "Ovhi Firsty - Pusaro Cinto"
 date: 2025-06-26
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Basamai baniah cinto kini tumbuah babungo Indak baraliah pandangan dek talampau sayang Bia suruik mato mamandang hinggo tapajam Tasintak kironyo hanyo bamimpi

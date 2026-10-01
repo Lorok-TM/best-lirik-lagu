@@ -2,7 +2,7 @@
 title: "Rayola - Salah Bataruah Cinto"
 date: 2023-04-10
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Lirik Lagu Minang dengan judul Salah Bataruah Cinto yang dinyanyikan oleh Rayola dan diciptakan oleh Rozac Tanjung dengan irama musik Pop.

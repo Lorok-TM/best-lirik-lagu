@@ -2,7 +2,7 @@
 title: "Lusyana Jelita - Tangu' Apesa'ah"
 date: 2024-02-07
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 **Lirik Tangu Apesaah - Lusyana Jelita**

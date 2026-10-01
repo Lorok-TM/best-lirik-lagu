@@ -2,7 +2,7 @@
 title: "Varenina ft Nando Satoko - Balabiah Dek Piutang"
 date: 2022-05-14
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Title : Balabiah Dek Piutang Artist : Varenina ft Nando Satoko Songwriter : Rozac Tanjung Label : Elta Record Category : Lagu Pop Minang

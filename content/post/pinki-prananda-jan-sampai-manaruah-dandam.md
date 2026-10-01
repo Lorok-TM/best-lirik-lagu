@@ -2,7 +2,7 @@
 title: "Pinki Prananda - Jan Sampai Manaruah Dandam"
 date: 2025-10-16
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Mangko denai pai majauah Untuang taubek ibo hati Lidah tuan tajam mambunuah Kok siko juo amuah den mati Lidah tuan tajam mambunuah Kok siko juo amuah den mati

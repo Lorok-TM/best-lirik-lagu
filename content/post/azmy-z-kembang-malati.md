@@ -2,7 +2,7 @@
 title: "Azmy Z - Kembang Malati"
 date: 2025-07-08
 categories: 
-  - "sunda"
+  - "Sunda"
 ---
 
 Na impian anjeun datang Mawa harepan kembang lamunan Nu geus lami dianti anti Mawa harepan urang ngahiji

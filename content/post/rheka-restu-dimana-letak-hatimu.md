@@ -2,7 +2,7 @@
 title: "Rheka Restu - Dimana Letak Hatimu"
 date: 2025-05-22
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Telah ku berikan semua yang kau inginkan Telah ku korbankan segalanya kekasih Namun diriku tiada berarti Kehadiranku sungguh tak kau hargai

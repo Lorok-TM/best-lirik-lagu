@@ -2,7 +2,7 @@
 title: "Bernadya - Tolong Bilang Ini Mimpi"
 date: 2026-06-24
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Andai bisa kuhapus Yang kutulis waktu itu Lagu tentang takutku Kini jadi sebuah kutuk

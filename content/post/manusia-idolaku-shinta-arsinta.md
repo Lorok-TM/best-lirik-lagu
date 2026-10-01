@@ -2,7 +2,7 @@
 title: "Manusia Idolaku - Shinta Arsinta"
 date: 2025-03-03
 categories: 
-  - "religi"
+  - "Religi"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Manusia Idolaku yang dibawakan oleh Shinta Arsinta.

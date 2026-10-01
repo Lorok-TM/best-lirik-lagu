@@ -2,7 +2,7 @@
 title: "Yona Irma - Uda Den Sayang"
 date: 2026-01-19
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Sayang oi uda den sayang Mambuek denai sabana mabuak kapayang Sayang oi uda den sayang Siang malam tabayang bayang

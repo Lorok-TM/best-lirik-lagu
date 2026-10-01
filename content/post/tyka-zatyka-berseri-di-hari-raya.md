@@ -2,7 +2,7 @@
 title: "Tyka Zatyka - Berseri Di Hari Raya"
 date: 2026-02-24
 categories: 
-  - "religi"
+  - "Religi"
 ---
 
 VERSE 1: Langit cerah bintang berseri Rumah dihias penuh seni Kasut baru di depan pintu Senyum manis menyambut tetamu

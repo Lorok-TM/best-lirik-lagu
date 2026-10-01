@@ -2,7 +2,7 @@
 title: "Pinki Prananda - Sabateh Singgah"
 date: 2025-06-02
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Mahujam jantuang nan jo hati Katiko nyato basudahi Nyato kato urang Adiak main balakang

@@ -2,7 +2,7 @@
 title: "Gundaling Kenangan - Krisna Br Bangun"
 date: 2025-02-11
 categories: 
-  - "karo"
+  - "Karo"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Gundaling Kenangan yang dibawakan oleh Krisna Br Bangun.

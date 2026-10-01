@@ -2,7 +2,7 @@
 title: "Harok Uda Ka Ganti Ayah - Elsa Pitaloka"
 date: 2024-08-18
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Uda katampeknyo denai ba iyo Kok sampai hati Mambuang denai nan taluko

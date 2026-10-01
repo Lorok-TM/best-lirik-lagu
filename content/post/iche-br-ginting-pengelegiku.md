@@ -2,7 +2,7 @@
 title: "Iche Br Ginting - Pengelegiku"
 date: 2023-11-23
 categories: 
-  - "karo"
+  - "Karo"
 ---
 
 Iche Br Ginting rilis single dengan lirik dalam bahasa Karo berjudul "Pengelegiku" yang diciptakan oleh Arel Manta Tarigan.

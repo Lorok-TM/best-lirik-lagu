@@ -2,7 +2,7 @@
 title: "Dilla Novera - Nan Disayang Manyakiti"
 date: 2025-08-03
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Lai sasuai pintak nan dihati Harok sabimbiang jo uda kapalaminan Kironyo denai alah malapeh hao Lah bajadi sajo uda jo urang

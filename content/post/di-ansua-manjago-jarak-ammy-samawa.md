@@ -2,7 +2,7 @@
 title: "Di Ansua Manjago Jarak - Ammy Samawa"
 date: 2025-02-20
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Di Ansua Manjago Jarak yang dibawakan oleh Ammy Samawa.

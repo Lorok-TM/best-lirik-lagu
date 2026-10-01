@@ -2,7 +2,7 @@
 title: "Shinta Arsinta Feat Arya Galih - Kembang Tresno dan Artinya"
 date: 2023-07-09
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 Shinta Arsinta & Arya Galih bersama Eny's Production rilis single dengan lirik dalam bahasa Jawa berjudul "Kembang Tresno" yang artinya "Bunga Cinta", menceritakan tentang kisah dua insan yang sedang memadu cinta di Kledung Wonosobo Temanggung Jawa Tengah. Untuk lebih jelasnya silahkan Anda baca terjemahan lirik lagunya berada dibawah.

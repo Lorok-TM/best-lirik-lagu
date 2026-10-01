@@ -2,7 +2,7 @@
 title: "Yaya Nadila - Hati Yang Menyayangi"
 date: 2026-01-07
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Jangan meminta yang tak aku miliki Takkan sanggup aku penuhi keinginanmu Jikalau cinta harusnya melengkapi Jangan melihat kekurangan diriku

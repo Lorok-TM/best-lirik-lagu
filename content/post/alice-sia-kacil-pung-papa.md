@@ -2,7 +2,7 @@
 title: "Alice Sia - Kacil Pung Papa"
 date: 2025-11-08
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 Beta su bilang kamu samua Kal rasa yang di bet pung dada Apa adanya Mengapa masih saja ragu Jang ale taku Cuma ale yang beta sayang selalu

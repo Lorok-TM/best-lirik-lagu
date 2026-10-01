@@ -2,7 +2,7 @@
 title: "Duo Diva - Jawa Minang"
 date: 2025-09-05
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Jarak indak ka mahalang Jikok nyo hati lah samo suko Asa ndak yo ka marintang Kalau hati lah samo samo cinto

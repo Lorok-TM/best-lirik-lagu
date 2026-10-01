@@ -2,7 +2,7 @@
 title: "Galak Baganti Tangih - Cut Rani"
 date: 2025-04-07
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Dulu uda bakato Sayang bana ka diri nan ko Pai mambaok janji Nan kapulang mambaok bukti

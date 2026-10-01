@@ -2,7 +2,7 @@
 title: "Ano Rivers - Dayakng Sire"
 date: 2026-09-17
 categories: 
-  - "dayak"
+  - "Dayak"
 ---
 
 Ikatn salamar ikatn salambo Oo oo dayakng sirea Tampayatn tumakng barinsi bunga Oo oo dayakng sirea

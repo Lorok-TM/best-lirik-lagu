@@ -2,7 +2,7 @@
 title: "Singkat - Rahma Rahmi"
 date: 2025-01-31
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Singkat yang dibawakan oleh Rahma Rahmi.

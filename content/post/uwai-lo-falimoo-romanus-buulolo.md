@@ -2,7 +2,7 @@
 title: "Uwai Lö Falimoö - Romanus Buulolo"
 date: 2026-07-20
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 No u'osinduhugö uwai löfalimo'ö Bawehedeu khögu bazilalö Ba mbawa siönö u'ondasi zatuamö Wondröi tanda nakhi baduru manimö

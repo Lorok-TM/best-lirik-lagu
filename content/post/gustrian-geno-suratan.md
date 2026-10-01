@@ -2,7 +2,7 @@
 title: "Gustrian Geno - Suratan"
 date: 2023-03-13
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Lirik Lagu Melayu dengan judul Suratan yang dinyanyikan oleh Gustrian Geno dan diciptakan oleh Faisal Asahan dengan irama musik Pop.

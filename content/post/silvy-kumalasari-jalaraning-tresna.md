@@ -2,7 +2,7 @@
 title: "Silvy Kumalasari - Jalaraning Tresna"
 date: 2026-07-06
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 

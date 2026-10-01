@@ -2,7 +2,7 @@
 title: "Ganube X Anju Trio - Mekkel Maho Boru"
 date: 2025-12-13
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Borukku nauli boru hasian Ho do tondi jala pusu pusuki Basa ni Tuhan i ma ho boru di au Panggoaran ma ho di amangmon

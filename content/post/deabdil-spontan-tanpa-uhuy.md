@@ -2,7 +2,7 @@
 title: "Deabdil - Spontan Tanpa Uhuy"
 date: 2026-09-03
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Intro. aku pura-pura cool, pas diam-diam kamu rangkul, deg-degannya mantap betul salting lemes sampai ke dengkul

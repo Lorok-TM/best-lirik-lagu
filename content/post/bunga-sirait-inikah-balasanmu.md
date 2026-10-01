@@ -2,7 +2,7 @@
 title: "Bunga Sirait - Inikah Balasanmu"
 date: 2025-08-15
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Bukalah mata hatimu Lihatlah aku di sini untukmu Sepenuh hati Aku menyayangimu

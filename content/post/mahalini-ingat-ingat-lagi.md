@@ -2,7 +2,7 @@
 title: "Mahalini - Ingat Ingat Lagi"
 date: 2025-11-08
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Caramu memikat hati Tak mengerti mengapa ku Dibuatmu tergoda Mampu merangkai kata Mampu meyakinkan Seakan semua baik saja Dan terkesan istimewa

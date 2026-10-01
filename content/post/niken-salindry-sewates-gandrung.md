@@ -2,7 +2,7 @@
 title: "Niken Salindry - Sewates Gandrung"
 date: 2026-07-17
 categories: 
-  - "campursari"
+  - "Campursari"
 ---
 
 Nalika pisanan ketemu sliramu Tratapan ning jero dadaku Esemu manis kang kaya madu Citramu endah kaya widodari Gawe ayeme ati

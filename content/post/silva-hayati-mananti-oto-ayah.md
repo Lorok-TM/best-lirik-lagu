@@ -2,7 +2,7 @@
 title: "Silva Hayati - Mananti Oto Ayah"
 date: 2022-11-26
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Lirik Lagu Minang dengan judul Mananti Oto Ayah yang dinyanyikan oleh Silva Hayati dan diciptakan oleh Erwin Agam dengan irama musik Pop.

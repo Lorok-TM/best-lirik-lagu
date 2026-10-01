@@ -2,7 +2,7 @@
 title: "Manjing Ratri - Niken Salindry"
 date: 2025-01-14
 categories: 
-  - "campursari"
+  - "Campursari"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Manjing Ratri yang dibawakan oleh Niken Salindry.

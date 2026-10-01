@@ -2,7 +2,7 @@
 title: "Biarkan Kubernyanyi - JCC Worship Feat Veren, Sisca Verina, Abraham Ewaldo, Nadine"
 date: 2025-02-11
 categories: 
-  - "rohani"
+  - "Rohani"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Biarkan Kubernyanyi yang dibawakan oleh JCC Worship Ft Veren, Sisca Verina, Abraham Ewaldo, Nadine.

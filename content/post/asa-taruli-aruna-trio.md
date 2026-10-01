@@ -2,7 +2,7 @@
 title: "Asa Taruli - Aruna Trio"
 date: 2025-04-05
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Anak hasianhu tondikku na lagu Tangi ma ho di podakkon Tung parhaseang ma gogo Uju di haposoon on Manumpak bohal na denggan

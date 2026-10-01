@@ -2,7 +2,7 @@
 title: "Yoga Vhein - Setiaku Di Sini"
 date: 2023-03-17
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Lirik Lagu Melayu dengan judul Setiaku Disini yang dinyanyikan oleh Yoga Vhein dan diciptakan oleh Faisal Asahan dengan irama musik Pop.

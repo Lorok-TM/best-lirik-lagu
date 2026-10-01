@@ -2,7 +2,7 @@
 title: "Aprilian - Takdir Cinta Berakhir Luka"
 date: 2025-06-12
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 Terluka Lagi diriku karena sikapmu Menangis lagi, sudah kering air mataku Sampai kapankah ku akan sanggup bertahan Dari takdir cinta menyakitkan Akankah ada masanya untuk berubah Atau baiknya kita berpisah

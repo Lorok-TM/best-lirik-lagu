@@ -2,7 +2,7 @@
 title: "Cut Rani Auliza - Kamulah Satu Satunya"
 date: 2026-03-09
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Diantara ribuan lelaki Hanya kamu yang ku pilih Hadirmu membawa cahaya Menghapus semua sepiku

@@ -2,7 +2,7 @@
 title: "Dudu Aran Welas - Dini Kurnia"
 date: 2025-02-16
 categories: 
-  - "osing"
+  - "Osing"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Dudu Aran Welas yang dibawakan oleh Dini Kurnia.

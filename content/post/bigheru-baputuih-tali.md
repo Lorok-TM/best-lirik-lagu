@@ -2,7 +2,7 @@
 title: "Bigheru - Baputuih Tali"
 date: 2025-04-24
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Dulu bajanji raso ka lai Kini baungkai baputuih tali Harok denai lah sio sio Sakik hati kini taraso

@@ -2,7 +2,7 @@
 title: "Idal - Susah Mo Dapa x Velocity"
 date: 2025-04-27
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 Verse : Kita sayang.. mar jangan bermain akang.. Ngana setia kita lebe tambah sayang..

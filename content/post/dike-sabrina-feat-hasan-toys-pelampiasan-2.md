@@ -2,7 +2,7 @@
 title: "Dike Sabrina feat. Hasan Toys - Pelampiasan 2"
 date: 2025-10-22
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Aku wes sadar aku nglarani Aku wes sadar dolanan ati Wes bola bali kowe nglarani Opo aku iki mikir golek ganti

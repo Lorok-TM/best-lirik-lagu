@@ -2,7 +2,7 @@
 title: "Gitarena Br Ginting - Terserah Ndu"
 date: 2023-12-02
 categories: 
-  - "karo"
+  - "Karo"
 ---
 
 **Lirik Terserah Ndu - Gitarena Br Ginting**

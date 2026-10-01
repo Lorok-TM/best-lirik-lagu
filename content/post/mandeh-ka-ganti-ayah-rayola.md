@@ -2,7 +2,7 @@
 title: "Mandeh Ka Ganti Ayah - Rayola"
 date: 2024-09-07
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 

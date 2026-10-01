@@ -2,7 +2,7 @@
 title: "Ade Idaman - Randy Husain Feat Djipeng, Xeindy, Faris Adam"
 date: 2024-12-16
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Ade Idaman yang dibawakan oleh Randy Husain ft Djipeng, Xeindy, Faris Adam.

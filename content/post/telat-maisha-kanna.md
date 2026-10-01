@@ -2,7 +2,7 @@
 title: "Telat - Maisha Kanna"
 date: 2026-07-31
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Karya musik berjudul "Telat!" yang dibawakan oleh Maisha Kanna mengangkat dinamika asimetri dalam hubungan romantis pra-remaja, yang berfokus pada konsekuensi psikologis dari penolakan dan pergeseran kuasa emosional. Secara naratif, lagu ini menyoroti latar belakang cerita tentang seseorang yang dahulunya mengabaikan ketulusan pasangannya, namun kemudian berbalik arah mengejar ketika ruang emosional tersebut telah tertutup. Makna filosofis yang terkandung di dalamnya menggarisbawahi realitas hukum sebab-akibat dalam relasi interpersonal, di mana waktu dan kepekaan bertindak sebagai variabel penentu yang tidak dapat diputar kembali. Melalui struktur lirik yang lugas, karya ini merekam transformasi karakter utama dari posisi rentan akibat patah hati sepihak menjadi figur yang memiliki kendali penuh atas harga dirinya.

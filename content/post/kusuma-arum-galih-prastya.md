@@ -2,7 +2,7 @@
 title: "Kusuma Arum - Galih Prastya"
 date: 2026-07-29
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 Mekar arum kusuma rinengga (Mekar harum bunga yang dihias/dipercantik) Sajiwa rumaketing tresna (Sejiwa dalam eratnya rasa cinta) Sinanggit tetembangan kasmaran (Disusun dalam nyanyian jatuh cinta) Nuwuhke wijining katresnan (Menumbuhkan benih kasih sayang)

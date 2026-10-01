@@ -2,7 +2,7 @@
 title: "Bobby Purba - Aha Nasalah Hubahen"
 date: 2025-08-17
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Aha do nasalah nahubahen Umbahen na gabe mardua holong ho Didia do roham dibahen ho Alusi au

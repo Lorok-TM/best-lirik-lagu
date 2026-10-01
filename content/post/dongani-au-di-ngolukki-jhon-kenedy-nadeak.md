@@ -2,7 +2,7 @@
 title: "Dongani Au Di Ngolukki - Jhon Kenedy Nadeak"
 date: 2025-03-25
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Dongani Au Dingolukki yang dibawakan oleh Jhon Kenedy Nadeak.

@@ -2,7 +2,7 @@
 title: "Syahriyadi - Stop Sampai Di Sini"
 date: 2025-06-29
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Kata katamu Semanis gula semanis madu Janji janjimu Yang meyakinkan hatiku Tapi ternyata Ternyata pahit bagai empedu Semua semu Semua hanyalah palsu

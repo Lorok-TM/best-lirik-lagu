@@ -2,7 +2,7 @@
 title: "Ziell Ferdian - Selingkuh Tiada Akhir"
 date: 2023-06-12
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Ziell Ferdian rilis single Indo berjudul "Selingkuh Tiada Akhir" yang diciptakan oleh Tegar Cs dengan irama musik Pop, dari judul lagunya saja sudah berasa galau, semoga lagu ini bisa mewakili buat kalian yang pernah diselingkuhi agar merasa sedikit terhibur.

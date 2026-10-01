@@ -2,7 +2,7 @@
 title: "Menduakan Aku - Iqmal Romi"
 date: 2024-12-15
 categories: 
-  - "malaysia"
+  - "Malaysia"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Menduakan Aku yang dibawakan oleh Iqmal Romi.

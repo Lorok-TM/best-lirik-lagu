@@ -2,7 +2,7 @@
 title: "Ara Azzahra - Salah Pupuak"
 date: 2026-09-26
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Kok Di Ulang Ulang Kaji Lamo Buliah Hati Nak Samo Tabukak Jalan Sairiang Apo Gunonyo Dilua Elok Didalam Ratak

@@ -2,7 +2,7 @@
 title: "Nadozi Niha Kayo - Gailham Sarahönö"
 date: 2026-06-22
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 

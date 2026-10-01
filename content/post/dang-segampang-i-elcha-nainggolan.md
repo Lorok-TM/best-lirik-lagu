@@ -2,7 +2,7 @@
 title: "Dang Segampang I - Elcha Nainggolan"
 date: 2025-01-10
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Dang Segampang I yang dibawakan oleh Elcha Nainggolan.

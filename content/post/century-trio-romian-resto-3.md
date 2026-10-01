@@ -2,7 +2,7 @@
 title: "Century Trio - Romian Resto 3"
 date: 2026-07-03
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 

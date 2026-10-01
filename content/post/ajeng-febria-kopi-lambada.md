@@ -2,7 +2,7 @@
 title: "Ajeng Febria - Kopi Lambada"
 date: 2026-07-20
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Dengar musik lambada dalam pesta meriah Dengan gadis yang cantik jelita Aduh senyum manisnya yang ramah dan ceria Dia tawarkan kopi lambada

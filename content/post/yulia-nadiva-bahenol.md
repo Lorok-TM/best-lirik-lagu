@@ -2,7 +2,7 @@
 title: "Yulia Nadiva - Bahenol"
 date: 2025-08-10
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Fisikku seperti ini Dari dulu ya begini Dan akupun mensyukuri Jadi jangan menghakimi

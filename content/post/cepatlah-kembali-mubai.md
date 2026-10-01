@@ -2,7 +2,7 @@
 title: "Cepatlah Kembali - Mubai"
 date: 2025-02-12
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Cepatlah Kembali yang dibawakan oleh Mubai.

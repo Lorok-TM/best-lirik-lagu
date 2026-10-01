@@ -2,7 +2,7 @@
 title: "Aidilla - Ganggam Indak Sabara"
 date: 2025-05-31
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 ( . ) Habih dayo rago talatak Habih faham aka baranti Tenggang raso badunsanak Tenggang sakik...Surang diri..

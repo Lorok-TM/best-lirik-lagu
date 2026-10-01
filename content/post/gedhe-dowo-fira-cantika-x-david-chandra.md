@@ -2,7 +2,7 @@
 title: "Gedhe Dowo - Fira Cantika X David Chandra"
 date: 2024-11-17
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 Aku pengen seng gedhe mas Aku seneng seng dowo Seng gedhe semangate mas Seng dowo roso sabare

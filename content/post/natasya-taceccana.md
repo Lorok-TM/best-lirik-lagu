@@ -2,7 +2,7 @@
 title: "Natasya - Taceccana"
 date: 2025-11-10
 categories: 
-  - "bugis"
+  - "Bugis"
 ---
 
 Mettani ro utajengki Nabbenni na ro uddani De siseng pa gaga wita Pakkullatta siruntu

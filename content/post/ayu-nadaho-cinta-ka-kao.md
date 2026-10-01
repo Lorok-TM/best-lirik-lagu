@@ -2,7 +2,7 @@
 title: "Ayu Nadaho - Cinta Ka Kao"
 date: 2026-09-17
 categories: 
-  - "dayak"
+  - "Dayak"
 ---
 
 Sakian manyaknya nang bujakng Nang ada ka binua nian Cuma dirinyu Nang paling ku sayang

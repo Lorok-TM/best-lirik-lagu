@@ -2,7 +2,7 @@
 title: "Vicky Koga - Mudiak Arau"
 date: 2025-05-31
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Anak urang sabuik andaleh Yo tuan oi Singgah karumah si sutan mudo, Si sutan mudo Singgah karumah si sutan mudo, Si sutan mudo

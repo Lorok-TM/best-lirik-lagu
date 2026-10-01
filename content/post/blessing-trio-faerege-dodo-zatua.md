@@ -2,7 +2,7 @@
 title: "Blessing Trio - Fa'erege Dodo Zatua"
 date: 2026-06-21
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 

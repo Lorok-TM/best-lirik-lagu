@@ -2,7 +2,7 @@
 title: "Pepy Grace - Cinta Luar Biasa feat. Ridho Zulma"
 date: 2025-08-27
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Jangan engkau ragukan Cinta yang aku punya Selam ini ku sayang tanpa ragu di dada Yang ku harap engkaupun demikian

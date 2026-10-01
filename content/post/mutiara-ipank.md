@@ -2,7 +2,7 @@
 title: "Mutiara - Ipank"
 date: 2025-04-18
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Engkaukah mutiara itu Rela kuselami di laut biru Tingkahmu bagai purnama Paras bertaburkan cahaya

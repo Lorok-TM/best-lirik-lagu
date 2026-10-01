@@ -2,7 +2,7 @@
 title: "Tukang Ojek - Erny Ayuningsih Feat Yan Prako"
 date: 2025-01-22
 categories: 
-  - "sasak"
+  - "Sasak"
 ---
 
 Bilang jelo side telang bilin bale Bilang jelo unin side pete kepeng Embe ruwen kepeng benang sak tepete Mauq cerite side girang jangkong nine

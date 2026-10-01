@@ -2,7 +2,7 @@
 title: "Nabila Taqiyyah - Tak Semudah Hompimpa"
 date: 2026-09-15
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 rindu dulu luka kau yang beri riasmara ra-rasa sakit kita yang ternyata tak berujung kedua kaki lelah sudah hilang arah haruskah aku tutup mata?

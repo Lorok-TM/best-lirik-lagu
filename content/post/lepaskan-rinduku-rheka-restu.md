@@ -2,7 +2,7 @@
 title: "Lepaskan Rinduku - Rheka Restu"
 date: 2025-01-03
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Lepaskan Rinduku yang dibawakan oleh Rheka Restu.

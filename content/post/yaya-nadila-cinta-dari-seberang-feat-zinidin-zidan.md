@@ -2,7 +2,7 @@
 title: "Yaya Nadila - Cinta Dari Seberang feat. Zinidin Zidan"
 date: 2025-07-16
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Kupandang-pandang Adik dari seberang Cantik juga rupamu sungguh menawan Bolehkah abang bertanya Apa Adik ada yang punya? Jika belum kuingin nyatakan cinta

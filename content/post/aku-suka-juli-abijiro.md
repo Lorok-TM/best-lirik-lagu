@@ -2,7 +2,7 @@
 title: "Aku Suka Juli - Abijiro"
 date: 2026-07-11
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Apa kabarmu hari ini Masih ingatkah kau denganku Yang membuatku baik saja Buatku baik saja Buatku baik saja

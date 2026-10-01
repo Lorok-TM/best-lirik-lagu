@@ -2,7 +2,7 @@
 title: "Tenang - GMS Live"
 date: 2025-01-14
 categories: 
-  - "rohani"
+  - "Rohani"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Tenang yang dibawakan oleh GMS Live.

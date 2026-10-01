@@ -2,7 +2,7 @@
 title: "Barasok Iduang Barasok Ikua - Ridho Zulma Feat Anyqu"
 date: 2025-04-22
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Jikok nak kayo jikok nak sanang Tantu bakarajo mambantiang tulang Baitu baiko indak mamantang Siang jadi kabau ..malam manjadi musang

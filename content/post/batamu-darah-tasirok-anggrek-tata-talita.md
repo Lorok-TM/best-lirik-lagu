@@ -2,7 +2,7 @@
 title: "Batamu Darah Tasirok - Anggrek, Tata Talita"
 date: 2026-09-07
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Oi sajak mulo kito batamu Hati didalam lah babungo – bungo Angin lalu sampaikan rindu Ka uda surang nan den cinto Angin lalu sampaikan rindu Ka uda surang nan den cinto

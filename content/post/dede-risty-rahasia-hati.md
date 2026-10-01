@@ -2,7 +2,7 @@
 title: "Dede Risty - Rahasia Hati"
 date: 2025-11-06
 categories: 
-  - "tarling"
+  - "Tarling"
 ---
 
 Sun ngakui kula masih demen Sun ngakui kula masih sayang Tapi kula mawas diri Wis ikhlas rela ora nduweni

@@ -2,7 +2,7 @@
 title: "Sastri Zai - Kodamo"
 date: 2025-10-25
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 Kodamö sino ube'e bambagolö Lö aetu itörö tödögu ndaugö He na bongi he ma'ökhö Lö aetu u'ohe'ö bawangandrö

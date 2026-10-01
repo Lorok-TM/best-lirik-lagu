@@ -2,7 +2,7 @@
 title: "Adella Girls - Ngapain Repot"
 date: 2025-11-13
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Jang lanjut chat nanti laba Sherlock saja ko di mana bakudapa Ade ko bagus ini ka sumpah sa mau nikah Jang bikin pusing sa pusing karna umur su tua

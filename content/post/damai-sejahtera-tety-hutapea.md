@@ -2,7 +2,7 @@
 title: "Damai Sejahtera - Tety Hutapea"
 date: 2025-02-16
 categories: 
-  - "rohani"
+  - "Rohani"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Damai Sejahtera yang dibawakan oleh Tety Hutapea.

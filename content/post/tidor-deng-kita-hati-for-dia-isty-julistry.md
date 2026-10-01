@@ -2,7 +2,7 @@
 title: "Tidor Deng Kita Hati For Dia - Isty Julistry"
 date: 2025-02-01
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Tidor Deng Kita Hati For Dia yang dibawakan oleh Isty Julistry.

@@ -2,7 +2,7 @@
 title: "Adistia - Nan Disayang Manyakiti"
 date: 2025-06-19
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Lai sasuai pintak nan di hati Harok sabimbiang jo uda Ka palaminan Kironyo denai alah malapeh hao Lah bajadi sajo uda jo urang

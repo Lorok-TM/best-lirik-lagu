@@ -2,7 +2,7 @@
 title: "Natasya Sabella - Sadar Diri"
 date: 2025-05-01
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Akulah yang pertama Temani saat kau terluka Akulah yang selalu ada Ketika kau lemah

@@ -2,7 +2,7 @@
 title: "Diva Aurel - Kasiah Kito"
 date: 2025-08-18
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Uda urang nan denai sayangi Mangko tuhan patamukan kito Jikok suratan yo dari illahi Mangkonyo denai yo manjago cinto Jikok suratan yo dari illahi Mangkonyo denai yo manjago cinto

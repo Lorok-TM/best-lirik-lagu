@@ -2,7 +2,7 @@
 title: "Marta Vilofa - Kasiah Sayang Ayah"
 date: 2022-09-26
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Lirik Lagu Minang dengan judul Kasiah Sayang Ayah yang dinyanyikan oleh Marta Vilofa dan diciptakan oleh Am Klb. Situs ini tidak menyediakan chord dasar / kunci gitar lagu ini. Halaman ini hanya menuliskan syair / liriknya saja. Berikut dibawah ini lyrics lengkapnya. Semoga lagu ini dapat menghibur anda.

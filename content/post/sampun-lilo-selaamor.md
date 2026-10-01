@@ -2,7 +2,7 @@
 title: "Sampun Lilo - Selaamor"
 date: 2026-08-01
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Ra perlu kowe ngerti gedene perjuanganku Tulus di nggo mbahagiakke sliramu Ra perlu kowe ngerti gedene roso sayangku Cukup aku yang merasakan itu

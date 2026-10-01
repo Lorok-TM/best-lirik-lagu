@@ -2,7 +2,7 @@
 title: "Anggrek - Maharok Cinto Nan Manang"
 date: 2025-07-05
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Kadang tumbuh tanyo dalam hati Lai kok mungkin kasih ka basami Cameh dihati kain tak saragi Takuik den isuak bausai jo tangih

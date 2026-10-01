@@ -2,7 +2,7 @@
 title: "Simalakamo Cinto - Rayola"
 date: 2025-05-09
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Lah taruih denai katokan Usah lamo kito tahan Menyuruakkan cinto Takuik nyo ado nan taluko

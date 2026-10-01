@@ -2,7 +2,7 @@
 title: "Sewates Ngancani - Intan Shinta"
 date: 2025-03-09
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Sewates Ngancani yang dibawakan oleh Intan Shinta.

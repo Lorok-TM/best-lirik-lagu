@@ -2,7 +2,7 @@
 title: "Dessy Anggreini Br Bangun - Ula Pertahanken"
 date: 2022-12-27
 categories: 
-  - "karo"
+  - "Karo"
 ---
 
 Lirik Lagu Karo dengan judul Ula Pertahanken yang dinyanyikan oleh Desy Anggreini Bangun. Lagu ini diciptakan oleh Inka Maya Gurusinga dengan irama musik Pop.

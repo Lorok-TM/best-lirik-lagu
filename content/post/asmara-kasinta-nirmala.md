@@ -2,7 +2,7 @@
 title: "Asmara Kasinta - Nirmala"
 date: 2026-09-19
 categories: 
-  - "dayak"
+  - "Dayak"
 ---
 
 Nampayah matamuh Menggoda ateiku Lirikan matamuh Manampa ku luluh

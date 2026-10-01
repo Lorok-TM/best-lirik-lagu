@@ -2,7 +2,7 @@
 title: "Minggir Lu Miss Queen - Ligea"
 date: 2025-02-21
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Minggir Lu Miss Queen yang dibawakan oleh Ligea.

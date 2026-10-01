@@ -2,7 +2,7 @@
 title: "Ecko Show Feat Hany Pattikawa - Semoga Jadi Istriku"
 date: 2026-09-19
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Oh Tuhan tolong hamba Rindu ini padanya Engkau jauh di sana Rindu ini membara Sayangku kenapa jauh Sayangku aku merindu Sayangku ingin bertemu Ayah ibu tanya kabarmu

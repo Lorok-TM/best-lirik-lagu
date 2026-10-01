@@ -2,7 +2,7 @@
 title: "Gaby Bettay - Tuhan Jaminan Hidupku"
 date: 2021-09-05
 categories: 
-  - "rohani"
+  - "Rohani"
 ---
 
 ## Lirik Lagu Rohani ”Tuhan Jaminan Hidupku“ by Gaby Bettay

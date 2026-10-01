@@ -2,7 +2,7 @@
 title: "Tersesat - Tresna"
 date: 2025-04-16
 categories: 
-  - "religi"
+  - "Religi"
 ---
 
 Verse : Betapa bodohnya diriku Yang telah jauh dari diri-Mu Hati ini membeku membatu Mengabaikan semua perintah-Mu

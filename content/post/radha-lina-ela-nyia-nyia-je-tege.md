@@ -2,7 +2,7 @@
 title: "Radha Lina / Jepri E Sindem - Ela Nyia-Nyia Je Tege dan Artinya"
 date: 2022-05-10
 categories: 
-  - "dayak"
+  - "Dayak"
   - "remix"
 ---
 

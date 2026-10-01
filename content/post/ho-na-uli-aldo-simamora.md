@@ -2,7 +2,7 @@
 title: "Ho Na Uli - Aldo Simamora"
 date: 2025-02-11
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Ho Na Uli yang dibawakan oleh Aldo Simamora.

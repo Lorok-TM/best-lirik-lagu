@@ -2,7 +2,7 @@
 title: "Fida Purnama Tarigan - Lanai Kam Jelas"
 date: 2022-01-27
 categories: 
-  - "karo"
+  - "Karo"
 ---
 
 Title : Lanai Kam Jelas Artist : Fida Purnama Tarigan Songwriter : Rinto Deje Munthe Studio : Lorong Sempit Category : Lagu Karo

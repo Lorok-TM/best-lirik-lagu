@@ -2,7 +2,7 @@
 title: "Fieya Julia & Luqman Faiz - Rumit"
 date: 2025-04-25
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Verse : Air membasahi pipi.. Biarkan berlalu.. Bagaikan angin yang sepi.. Kini.. semuanya telah pergi.. Tinggal ku sendiri.. Bagaikan mimpi.. hohouu..

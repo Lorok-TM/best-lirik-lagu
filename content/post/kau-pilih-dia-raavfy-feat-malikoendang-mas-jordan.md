@@ -2,7 +2,7 @@
 title: "Kau Pilih Dia - Raavfy Feat. Malikoendang, Mas Jordan"
 date: 2025-06-04
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 \[Raavfy\] Kau yang memberi, kau yang membenci Kau yang permainkan hatiku Kau yang menodong, kau yang berbohong Tentang bagaimana perasaanmu padanya..

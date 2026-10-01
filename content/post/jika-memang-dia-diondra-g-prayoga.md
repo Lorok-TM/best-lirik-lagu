@@ -2,7 +2,7 @@
 title: "Jika Memang Dia - Diondra G Prayoga"
 date: 2025-02-03
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Jika Memang Dia yang dibawakan oleh Diondra G Prayoga.

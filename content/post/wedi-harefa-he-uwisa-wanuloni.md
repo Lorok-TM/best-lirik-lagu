@@ -2,7 +2,7 @@
 title: "Wedi Harefa - He Uwisa Wanulöni"
 date: 2025-04-26
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 He uwisa wanulöni Wa'omasiu khögu akhi Melö lalagu bawangawuli Me ya'ugö toröi furi

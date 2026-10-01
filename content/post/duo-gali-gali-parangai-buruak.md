@@ -2,7 +2,7 @@
 title: "Duo Gali Gali - Parangai Buruak"
 date: 2025-06-03
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Cubo dangakan kabakeh kawan Parangai buruak usah dipakai juo Iri jo dangki jan dituruikan Bia nak tanang raso di dalam dado

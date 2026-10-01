@@ -2,7 +2,7 @@
 title: "Lumpur Dan Berlian - Frans Ariesta"
 date: 2025-02-20
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Lumpur Dan Berlian yang dibawakan oleh Frans Ariesta.

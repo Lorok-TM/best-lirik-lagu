@@ -2,7 +2,7 @@
 title: "GammaOne - Bucin"
 date: 2025-11-08
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Mau makan ingat kamu Mau tidur ingat kamu Mau apa pun ingat kamu Semuanya tentang kamu

@@ -2,7 +2,7 @@
 title: "Putri Siagian - Indahnya Natal"
 date: 2022-12-27
 categories: 
-  - "rohani"
+  - "Rohani"
 ---
 
 Lirik Lagu Rohani dengan judul Indahnya Natal yang dinyanyikan oleh Putri Siagian dan diciptakan oleh Leopold Parinussa dengan irama musik Pop.

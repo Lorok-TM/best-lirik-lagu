@@ -2,7 +2,7 @@
 title: "Sedding Je Nah - Yuki Vii Feat. Nur Mai Sella"
 date: 2024-09-13
 categories: 
-  - "bugis"
+  - "Bugis"
 ---
 
 Tongeng sedding je' na idi' Lemmu'na nyawamu kasi' Salaika ale alemu lao rimabela Uddanikku' tenri bali

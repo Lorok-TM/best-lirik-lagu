@@ -2,7 +2,7 @@
 title: "Singetken Gelarku - Ruth Sherina Sembiring"
 date: 2024-12-30
 categories: 
-  - "karo"
+  - "Karo"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Singetken Gelarku yang dibawakan oleh Ruth Sherina Sembiring.

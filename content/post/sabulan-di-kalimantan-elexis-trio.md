@@ -2,7 +2,7 @@
 title: "Sabulan Di Kalimantan - Elexis Trio"
 date: 2025-06-25
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Ho do na mandokkon hasian Au do naung ganteng di antara na terganteng Jala na burju di sude baoa na burju Terlalu yakin au Bahwa cinta tulusmi holan tu au

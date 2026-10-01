@@ -2,7 +2,7 @@
 title: "Iche Br Ginting - Terpan Tawar"
 date: 2023-01-31
 categories: 
-  - "karo"
+  - "Karo"
 ---
 
 Lirik Lagu Karo dengan judul Terpan Tawar yang dinyanyikan oleh Iche Br Ginting dan diciptakan oleh Amiruddin Surbakti dengan irama musik Remix Khas.

@@ -2,7 +2,7 @@
 title: "Yelse - Cukup Aku Yang Terluka"
 date: 2025-05-22
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 Sungguh ku tak pernah menduga Dirimu tega khianati cinta Aku pun tiada mengerti Sampai hati kau lakukan ini

@@ -2,7 +2,7 @@
 title: "Mengapa Kau Berubah - Ajeng Febria"
 date: 2026-06-25
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Mengapa kau berubah Dan mencoba untuk berpaling tadah Tak kusangka dan tak kuduga Mengapa kau berubah

@@ -2,7 +2,7 @@
 title: "Roje Firdaus - Batambah Cabiak"
 date: 2025-08-08
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Manga baru kini takana pai Sadang hati denai lah ka babungo Lai basiram tapi baracuni Bapangaan denai ko namonyo

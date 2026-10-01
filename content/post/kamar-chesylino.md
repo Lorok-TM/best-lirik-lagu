@@ -2,7 +2,7 @@
 title: "Kamar - Chesylino"
 date: 2025-04-16
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 Di kamar ini Dolo katong sama sama Di bantal ini Katong dua mimpi yang sama

@@ -2,7 +2,7 @@
 title: "Cut Zuhra - Payong Keunangan"
 date: 2023-04-07
 categories: 
-  - "aceh"
+  - "Aceh"
 ---
 
 Lirik Lagu Aceh dengan judul Payong Keunangan yang dinyanyikan oleh Cut Zuhra dan diciptakan oleh Amiruddin Ali dengan irama musik Pop.

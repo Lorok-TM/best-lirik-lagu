@@ -2,7 +2,7 @@
 title: "Ghea Indrawari - Jiwa Yang Bersedih"
 date: 2023-05-19
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Lirik Lagu Indo dengan judul Jiwa Yang Bersedih yang dinyanyikan dan diciptakan oleh Ghea Indrawari dengan irama musik Pop.

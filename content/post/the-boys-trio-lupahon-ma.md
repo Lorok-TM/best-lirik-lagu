@@ -2,7 +2,7 @@
 title: "The Boy’s Trio - Lupahon Ma"
 date: 2025-04-27
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Intro : Huu huuu huuu.. huu huuu huuu.. haaa.. Huu huuu huuu.. huu huuu huuu.. haaa..

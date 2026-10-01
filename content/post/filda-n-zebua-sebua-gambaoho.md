@@ -2,7 +2,7 @@
 title: "Filda N Zebua - Sebua Gambaoho"
 date: 2025-11-01
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 Hezo mano zaziu khogu zilalo Moharato niha sebua fo'olo Tebai nierai turu fa'akayo Firo ana'a si'ogoto tano

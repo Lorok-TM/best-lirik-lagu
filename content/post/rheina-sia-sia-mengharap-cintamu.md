@@ -2,7 +2,7 @@
 title: "Rheina - Sia Sia Mengharap Cintamu"
 date: 2025-06-03
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 Percuma sia sia Diriku mengharap cinta darimu Kini ku sadari Dirimu tak punya rasa untukku

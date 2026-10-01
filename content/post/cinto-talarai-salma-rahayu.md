@@ -2,7 +2,7 @@
 title: "Cinto Talarai - Salma Rahayu"
 date: 2026-06-30
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Kini uda lah sabana pai Tingga luko nan mangango di jantuang ko Hinggo kini denai masih surang diri Bajuang surang manjaik luko nanko

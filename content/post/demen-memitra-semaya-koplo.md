@@ -2,7 +2,7 @@
 title: "Demen Memitra - Semaya Koplo"
 date: 2024-12-31
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Demen Memitra yang dibawakan oleh Semaya Koplo.

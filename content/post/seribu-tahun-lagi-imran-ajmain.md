@@ -2,7 +2,7 @@
 title: "Seribu Tahun Lagi - Imran Ajmain"
 date: 2025-03-08
 categories: 
-  - "malaysia"
+  - "Malaysia"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Seribu Tahun Lagi yang dibawakan oleh Imran Ajmain.

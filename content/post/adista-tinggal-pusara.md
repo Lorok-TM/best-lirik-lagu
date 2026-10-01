@@ -2,7 +2,7 @@
 title: "Adista - Tinggal Pusara"
 date: 2026-07-08
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Tak pernah terlintas Kau pergi meninggalkan aku Begitu cepat kau pergi di sini Tak pernah terbayangkan Kau kan pergi tinggalkan aku Begitu cepat kau pergi dariku Tak ada lagi senyum tawamu Tinggal pusaramu

@@ -2,7 +2,7 @@
 title: "Tri Suaka - Jang Simpang Luka feat. Nabila Maharani"
 date: 2025-11-10
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Dari awal beta su jujur Ungkapkan semua yang di hati Cinta yang suci beta janji Beta jaga deng tulus hati

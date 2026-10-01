@@ -2,7 +2,7 @@
 title: "David Iztambul feat Fauzana - Tarayu Bungo Nan Jombang"
 date: 2022-12-15
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Partamo cinto tajalin Hati denai babungo bungo Uda bajanji manjago cinto Indak bapaliang hati

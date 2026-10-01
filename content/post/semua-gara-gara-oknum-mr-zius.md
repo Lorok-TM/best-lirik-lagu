@@ -2,7 +2,7 @@
 title: "Semua Gara Gara Oknum - Mr. Zius"
 date: 2025-03-14
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Semua Gara Gara Oknum yang dibawakan oleh Mr. Zius.

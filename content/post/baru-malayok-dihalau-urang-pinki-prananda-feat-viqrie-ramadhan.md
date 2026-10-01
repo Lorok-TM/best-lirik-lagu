@@ -2,7 +2,7 @@
 title: "Baru Malayok Dihalau Urang - Pinki Prananda Feat. Viqrie Ramadhan"
 date: 2024-07-06
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 **Lirik Baru Malayok Dihalau Urang - Pinki Prananda Feat Viqrie Ramadhan**

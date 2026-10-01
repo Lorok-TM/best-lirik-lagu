@@ -2,7 +2,7 @@
 title: "Sumandhing - Ajeng Febria"
 date: 2026-07-11
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 

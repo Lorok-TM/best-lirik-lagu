@@ -2,7 +2,7 @@
 title: "For Revenge - Saat Kubenci Dunia Dan Seisinya"
 date: 2026-07-15
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 

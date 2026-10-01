@@ -2,7 +2,7 @@
 title: "Yona Irma - Dapek Harok Sajo"
 date: 2025-09-14
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Sajauah jauah aia mangalia Aia tatumbuak di muaro Rusuah hati dek bapikia Uda di nanti ndak kunjuang tibo Rusuah hati dek bapikia Uda di nanti ndak kunjuang tibo

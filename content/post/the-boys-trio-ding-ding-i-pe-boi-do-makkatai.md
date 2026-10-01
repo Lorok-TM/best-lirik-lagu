@@ -2,7 +2,7 @@
 title: "The Boy's Trio - Ding Ding I Pe Boi Do Makkatai"
 date: 2026-06-02
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 

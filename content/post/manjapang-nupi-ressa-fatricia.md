@@ -2,7 +2,7 @@
 title: "Manjapang Nupi - Ressa Fatricia"
 date: 2024-07-12
 categories: 
-  - "dayak"
+  - "Dayak"
 ---
 
 **Berikut lirik Manjapang Nupi yang dinyanyikan oleh Ressa Fatricia.**

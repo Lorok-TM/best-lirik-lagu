@@ -2,7 +2,7 @@
 title: "Aviwkila - Mantra Jiwa"
 date: 2025-09-22
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Aku layak pantas aku bahagia Aku layak pantas aku berharga Sehat dan penuh senyuman Penuh keberuntungan Percaya diri dan sungguh menawan

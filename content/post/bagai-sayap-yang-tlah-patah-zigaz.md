@@ -2,8 +2,7 @@
 title: "Bagai Sayap Yang T'lah Patah - Zigaz"
 date: 2024-06-02
 categories: 
-  - "band"
-  - "indonesia"
+  - "Band"
 ---
 
 **Lirik Bagai Sayap Yang T'lah Patah - Zigaz**

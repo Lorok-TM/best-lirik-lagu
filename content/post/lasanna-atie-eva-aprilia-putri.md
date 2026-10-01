@@ -2,7 +2,7 @@
 title: "Lasanna Atie - Eva Aprilia Putri"
 date: 2024-05-30
 categories: 
-  - "bugis"
+  - "Bugis"
 ---
 
 **Lirik Lasanna Atie - Eva Aprilia Putri**

@@ -2,7 +2,7 @@
 title: "Giri Giri Angatkuh - Vina Timpah & Wiwin Timpah"
 date: 2026-09-17
 categories: 
-  - "dayak"
+  - "Dayak"
 ---
 
 Giri giri angat ateiku Nampayah kalakuan mu Je santar singi singi ikau dengangkuh

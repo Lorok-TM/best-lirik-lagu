@@ -2,7 +2,7 @@
 title: "Sulik Manimbang Raso - Viqrie Ramadhan"
 date: 2025-04-11
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Dilulua paik dibuang sayang Sakik manikam kadalam dado Sakuek hati denai manimbang Tiado dayo denai rasonyo

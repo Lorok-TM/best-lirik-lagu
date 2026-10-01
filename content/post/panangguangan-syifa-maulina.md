@@ -2,7 +2,7 @@
 title: "Panangguangan - Syifa Maulina"
 date: 2024-06-05
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Panangguangan yang dibawakan oleh Syifa Maulina.

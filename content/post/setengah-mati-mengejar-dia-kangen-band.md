@@ -2,7 +2,7 @@
 title: "Setengah Mati Mengejar Dia - Kangen Band"
 date: 2025-06-08
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Verse : Berulang aku katakan.. Cintaku bukan mainan.. Sudah terbawa perasaan.. Kau tak merasakan..

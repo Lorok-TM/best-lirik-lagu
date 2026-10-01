@@ -2,7 +2,7 @@
 title: "Kaja Bakaja - Rendi Kurnia Illahi"
 date: 2025-02-20
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Kaja Bakaja yang dibawakan oleh Rendi Kurnia Illahi.

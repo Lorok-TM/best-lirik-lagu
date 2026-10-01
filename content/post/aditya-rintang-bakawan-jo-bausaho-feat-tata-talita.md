@@ -2,7 +2,7 @@
 title: "Aditya - Rintang Bakawan Jo Bausaho feat. Tata Talita"
 date: 2025-09-13
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Indak gabak indak guruah Patuih badantang sakutiko Hujan labek mandaro jatuah Basalah kito bapayuang tido

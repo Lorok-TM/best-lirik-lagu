@@ -2,7 +2,7 @@
 title: "Lapabual - Adik Waniey & Baby Suri"
 date: 2025-01-02
 categories: 
-  - "malaysia"
+  - "Malaysia"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Lapabual yang dibawakan oleh Adik Waniey Feat Baby Suri.

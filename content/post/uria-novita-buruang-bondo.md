@@ -2,7 +2,7 @@
 title: "Uria Novita - Buruang Bondo"
 date: 2025-05-04
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Hiduik den kini oi umpamo buruang diak Jikok ka tabang sayok kini lah senteang Mukasuik hati handak tabang mambubuang diak Manampak padi nan masak di lereang gunuang

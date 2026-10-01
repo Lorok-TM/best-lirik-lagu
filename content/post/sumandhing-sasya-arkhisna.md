@@ -2,7 +2,7 @@
 title: "Sumandhing - Sasya Arkhisna"
 date: 2026-05-30
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 

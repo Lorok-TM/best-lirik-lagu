@@ -2,7 +2,7 @@
 title: "Yeni Inka - Cinta Sebelum Mengenal"
 date: 2025-06-02
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Aku mencintaimu sebelum kau mengenalku Dan suka membelaimu walau hanya dalam khayalanku

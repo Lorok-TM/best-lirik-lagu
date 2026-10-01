@@ -2,7 +2,7 @@
 title: "Ajeng Febria - Aishiteru 3"
 date: 2026-07-10
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Ketika kau marah dan cemburu Kau kelihatan begitu tampan Walau kadang mengesalkan Kau s’lalu bertanya Dan penuh curiga Kutahu kau takut kehilanganku

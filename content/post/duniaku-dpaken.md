@@ -2,7 +2,7 @@
 title: "Duniaku - Dpaken"
 date: 2025-02-22
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Duniaku yang dibawakan oleh Dpaken.

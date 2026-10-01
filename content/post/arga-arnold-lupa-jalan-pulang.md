@@ -2,7 +2,7 @@
 title: "Arga Arnold - Lupa Jalan Pulang"
 date: 2025-09-08
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Masih terlintas bayangan lambaian tangan Saat ayah akan pergi Didermaga ayah berjanji takkan lama Akan cepat pulang

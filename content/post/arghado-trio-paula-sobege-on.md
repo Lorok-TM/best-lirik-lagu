@@ -2,7 +2,7 @@
 title: "Arghado Trio - Paula Sobege On"
 date: 2022-08-20
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 ## Lirik Lagu Batak ”Paula Sobege On“ by Arghado Trio

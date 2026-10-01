@@ -2,7 +2,7 @@
 title: "Nina - Kudu Kumaha"
 date: 2025-11-11
 categories: 
-  - "sunda"
+  - "Sunda"
 ---
 
 Sakeudik ge heunteu nyangka Anjeun ngakhianat cinta Da geuning mun dipayuneun Anjeun sakitu deudeuhna Sing horeng saukur kedok Pikeun nutupan beulangna

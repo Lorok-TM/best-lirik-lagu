@@ -2,7 +2,7 @@
 title: "Silvy Kumalasari - Katresnan Sejati"
 date: 2025-06-20
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Janji tresna disekseni Lintang lintang ing tengahing wengi Ati kang nandang asmara Gusti kula paringa usada

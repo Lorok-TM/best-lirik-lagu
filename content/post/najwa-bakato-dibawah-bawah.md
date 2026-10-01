@@ -2,7 +2,7 @@
 title: "Najwa - Bakato Dibawah Bawah"
 date: 2025-05-19
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 

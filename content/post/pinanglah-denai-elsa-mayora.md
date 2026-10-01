@@ -2,7 +2,7 @@
 title: "Pinanglah Denai - Elsa Mayora"
 date: 2026-07-20
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Jauah uda pai ka rantau urang Batinggakan denai di ranah minang Denai rilakan uda pai bajalan Bia nak tabangkik juo batang tarandam Elok kamujua nasib si untuang badan

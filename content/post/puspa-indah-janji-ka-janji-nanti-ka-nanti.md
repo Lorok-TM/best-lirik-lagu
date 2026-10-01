@@ -2,7 +2,7 @@
 title: "Puspa Indah - Janji Ka Janji Nanti Ka Nanti"
 date: 2023-07-05
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Lirik Lagu Minang dengan judul Janji Ka Janji Nanti Ka Nanti yang dinyanyikan oleh Puspa Indah dan diciptakan oleh Rozac Tanjung dengan irama musik Pop.

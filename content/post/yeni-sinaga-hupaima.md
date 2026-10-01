@@ -2,7 +2,7 @@
 title: "Yeni Sinaga - Hupaima"
 date: 2025-05-13
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Dibornginon hupaima ho Somarnaro baritam Sotung tarhirim au diharorom Pasombu sihol nang leleng dang pajumpang

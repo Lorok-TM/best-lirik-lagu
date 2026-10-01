@@ -2,7 +2,7 @@
 title: "Rindu Bersua - Ziell Ferdian"
 date: 2025-04-01
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 

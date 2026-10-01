@@ -2,7 +2,7 @@
 title: "Arang Tampurung 2 - Gunawan"
 date: 2025-04-15
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 Talalu tulus kita pe hati Da sayang pa ngana Mar sampe hati na bekeng mati Harap yang di hati

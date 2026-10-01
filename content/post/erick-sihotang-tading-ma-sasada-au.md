@@ -2,7 +2,7 @@
 title: "Erick Sihotang - Tading Ma Sasada Au"
 date: 2025-12-19
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Dang boi huhalupahon Sude akka naung salpui Sai tong huingot ho Masihol au tuho

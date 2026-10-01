@@ -2,7 +2,7 @@
 title: "Flora Susanti Hasugian - Tanda Mata Cinta"
 date: 2025-05-11
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Tanda mata cinta Sinuanmu borngini Ro disadari on hasianku Sai tanom dirohakki

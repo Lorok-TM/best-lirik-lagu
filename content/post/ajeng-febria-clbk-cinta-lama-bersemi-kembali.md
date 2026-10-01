@@ -2,7 +2,7 @@
 title: "Ajeng Febria - CLBK ( Cinta Lama Bersemi Kembali )"
 date: 2026-08-07
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Karya musik berjudul "CLBK (Cinta Lama Bersemi Kembali)" yang diciptakan oleh Bayu G2B dan dibawakan oleh Ajeng Febria mengangkat realitas psikologis mengenai penyesalan masa lalu dan dinamika asimetris dalam hubungan romantis. Secara naratif, latar belakang cerita berfokus pada dialog batin seorang individu yang menyadari kesalahannya setelah menyia-nyiakan pasangan terdahulu, lalu mencoba kembali untuk merajut komunikasi. Namun, alih-alih menyajikan resolusi romantis yang klise, karya ini secara objektif menggambarkan benturan realitas berupa penolakan, sebab pihak yang pernah tersakiti telah melanjutkan hidup dengan pasangan baru. Secara filosofis, gubahan ini merefleksikan konsekuensi dari sebuah pilihan hidup serta batas waktu dari sebuah kesempatan, yang menegaskan bahwa momentum emosional yang telah rusak tidak selalu dapat dipulihkan kembali meskipun terdapat penyesalan yang mendalam.

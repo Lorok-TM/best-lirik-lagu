@@ -2,7 +2,7 @@
 title: "Daisy Ku - Pon Daisy Feat Elisa Franco"
 date: 2024-12-19
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Daisy Ku yang dibawakan oleh Pon Daisy Feat Elisa Franco.

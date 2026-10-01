@@ -2,7 +2,7 @@
 title: "Daniel Maestro - Abu Di Ateh Tungku"
 date: 2026-01-21
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Sadang galok cahayo Suluah tak kunjuang nyalo Kok lai bana bulan namun tatutuik awan Rusuah nan di hati samakin mandalam Isuak antah lai ado aruah nan di badan Rusuah nan di hati samakin mandalam Isuak antah lai ado aruah nan di badan

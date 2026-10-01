@@ -2,7 +2,7 @@
 title: "Ollat Ni On Ma Na Parir - Seni Situmorang"
 date: 2025-02-11
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Ollat Ni On Ma Na Parir yang dibawakan oleh Seni Situmorang.

@@ -2,8 +2,7 @@
 title: "Denny Caknan - Titenono"
 date: 2026-07-25
 categories: 
-  - "dangdut"
-  - "java"
+  - "Jawa"
 ---
 
 Dek opo koe ra kelingan Jamane iseh pacaran Meh bendino Koe tak boncengno Numpak motor seng wis tuwo Tanganmu mlebu celono

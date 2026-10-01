@@ -2,7 +2,7 @@
 title: "Fanny Sabila - Cinta Saumur Kembang"
 date: 2023-06-02
 categories: 
-  - "sunda"
+  - "Sunda"
 ---
 
 Lirik Lagu Sunda dengan judul Cinta Saumur Kembang yang dinyanyikan oleh Fanny Sabila dan diciptakan oleh Dose Hudaya.

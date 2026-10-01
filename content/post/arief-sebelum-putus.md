@@ -2,7 +2,7 @@
 title: "Arief - Sebelum Putus"
 date: 2023-01-20
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Arief rilis single Melayu berjudul "Sebelum Putus" yang diciptakan oleh Ajhay Pasma, menceritakan tentang sebuah permohonan dari sang kekasih untuk mengenang kembali masa masa indah saat bersama dulu, sebelum akhirnya mengambil keputusan tuk putuskan cinta.

@@ -2,7 +2,7 @@
 title: "Taufiq Sondang - Semua Kerana Dia"
 date: 2022-12-14
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Lirik Lagu Melayu dengan judul Semua Kerana Dia yang dinyanyikan dan diciptakan oleh Taufiq Sondang dengan irama musik Pop.

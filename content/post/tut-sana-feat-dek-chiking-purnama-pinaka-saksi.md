@@ -2,7 +2,7 @@
 title: "Tut Sana feat Dek Chik'ing - Purnama Pinaka Saksi"
 date: 2024-05-25
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 **Lirik Tut Sana Feat Dek Chik'ing - Purnama Pinaka Saksi**

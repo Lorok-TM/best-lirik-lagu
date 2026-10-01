@@ -2,7 +2,7 @@
 title: "Bawalah Cintamu - Ziell Ferdian"
 date: 2025-02-07
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Bawalah Cintamu yang dibawakan oleh Ziell Ferdian.

@@ -2,7 +2,7 @@
 title: "Bigheru - JIka Harus Bersabar"
 date: 2025-09-20
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Malam malam begini Merindukan dirimu Engaku pujaan hati Akan selalu kunanti

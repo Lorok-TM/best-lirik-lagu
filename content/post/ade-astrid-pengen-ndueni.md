@@ -2,7 +2,7 @@
 title: "Ade Astrid - Pengen Ndueni"
 date: 2024-05-02
 categories: 
-  - "tarling"
+  - "Tarling"
 ---
 
 **Lirik Pengen Ndueni - Ade Astrid**

@@ -2,7 +2,7 @@
 title: "Restu - Budi Arsa"
 date: 2025-02-28
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Restu yang dibawakan oleh Budi Arsa.

@@ -2,7 +2,7 @@
 title: "Tri Suaka - Pelangi Tak Berwarna"
 date: 2026-09-04
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Lama kita arungi Perjalanan cinta ini Suka duka, tawa bersama Yang kita rasa

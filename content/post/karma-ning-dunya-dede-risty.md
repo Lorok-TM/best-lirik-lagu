@@ -2,7 +2,7 @@
 title: "Karma Ning Dunya - Dede Risty"
 date: 2025-04-11
 categories: 
-  - "tarling"
+  - "Tarling"
 ---
 
 Akibat sun demen wong seje Neng anak lagi sampe wis klalen Umah wis gedong ketinggal kloyong Akibat kula berbuat serong

@@ -2,7 +2,7 @@
 title: "Mars Isen Mulang - Lagu Daerah Provinsi Kalimantan Tengah"
 date: 2026-09-15
 categories: 
-  - "dayak"
+  - "Dayak"
 ---
 
 Mamut menteng ureh utusku Isen mulang je te penyangku Gatang yoh gatang sewut sarita Tandak ain tatu te

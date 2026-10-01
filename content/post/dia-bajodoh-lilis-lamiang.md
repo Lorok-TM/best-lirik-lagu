@@ -2,7 +2,7 @@
 title: "Dia Bajodoh - Lilis Lamiang"
 date: 2026-09-18
 categories: 
-  - "dayak"
+  - "Dayak"
 ---
 
 Nasib cintaku getus hong benteng jalan Awi haranan dia sapadan

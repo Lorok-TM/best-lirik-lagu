@@ -2,7 +2,7 @@
 title: "Ayu Larang Ragate - Sasya Arkhisna Feat Tedjo Dembik"
 date: 2025-01-02
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Ayu Larang Ragate yang dibawakan oleh Sasya Arkhisna Ft Tedjo Dembik.

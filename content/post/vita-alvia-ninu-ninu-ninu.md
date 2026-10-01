@@ -2,7 +2,7 @@
 title: "Vita Alvia - Ninu Ninu Ninu"
 date: 2022-10-04
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 ## Lirik Lagu Ninu Ninu Ninu - Vita Alvia

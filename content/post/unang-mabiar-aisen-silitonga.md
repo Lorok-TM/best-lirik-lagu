@@ -2,7 +2,7 @@
 title: "Unang Mabiar - Aisen Silitonga"
 date: 2025-06-19
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Unang mabiar ho Unang sai ganggu roham Dang adong na so tarpatupa debata Sude parngoluanmu Tuhan do umboto

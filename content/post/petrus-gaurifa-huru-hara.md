@@ -2,7 +2,7 @@
 title: "Petrus Gaurifa - Huru Hara"
 date: 2025-07-05
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 Huru-hara Lö ni halögu tangangu zibabaya Huru-hara Lö ni'agu talagu zebua

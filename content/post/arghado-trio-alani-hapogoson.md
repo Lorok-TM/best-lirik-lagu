@@ -2,7 +2,7 @@
 title: "Arghado Trio - Alani Hapogoson"
 date: 2025-07-04
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Alani hapogoson dang tuk sikkolakki Tinggal ma au sian dongan-donganki Dohot na tinokke ni roha Nunga lao be dao manguduti sikkolana i

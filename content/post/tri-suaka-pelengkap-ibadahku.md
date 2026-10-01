@@ -2,7 +2,7 @@
 title: "Tri Suaka - Pelengkap Ibadahku"
 date: 2023-09-28
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Tri Suaka rilis single berjudul "Pelengkap Ibadahku", menceritakan tentang pasutri yang merasa bahagia, karena mereka telah dipertemukan menjadi pasangan hidup tuk melengkapi ibadahnya.

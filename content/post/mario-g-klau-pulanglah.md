@@ -2,7 +2,7 @@
 title: "Mario G Klau - Pulanglah"
 date: 2025-11-08
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Seandainya ku diberi Kesempatan kuingin lagi bersamamu Takkan kulakukan lagi seperti kemarin Sehingga tiada yang datang merebutmu

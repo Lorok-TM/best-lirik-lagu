@@ -2,7 +2,7 @@
 title: "Janji Palsu - Fizzabella"
 date: 2025-02-17
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Janji Palsu yang dibawakan oleh Fizzabella.

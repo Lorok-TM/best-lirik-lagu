@@ -2,7 +2,7 @@
 title: "Hidupku Diberkati - Nita Margaretha"
 date: 2025-03-16
 categories: 
-  - "rohani"
+  - "Rohani"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Hidupku Diberkati yang dibawakan oleh Nita Margaretha.

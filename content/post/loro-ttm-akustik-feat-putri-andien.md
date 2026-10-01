@@ -2,7 +2,7 @@
 title: "Loro - TTM AKUSTIK feat. Putri Andien"
 date: 2026-08-10
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 

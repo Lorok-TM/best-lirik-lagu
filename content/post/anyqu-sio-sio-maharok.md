@@ -2,7 +2,7 @@
 title: "Anyqu - Sio Sio Maharok"
 date: 2023-07-04
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 **Lirik Sio Sio Maharok - Anyqu**

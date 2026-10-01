@@ -2,7 +2,7 @@
 title: "Harry Parintang & Eno Viola - Kita Yang Berbeza"
 date: 2023-03-09
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Harry Parintang & Eno Viola bersama Insictech Musicland rilis single Melayu berjudul "Kita Yang Berbeza".

@@ -2,7 +2,7 @@
 title: "Demi Waktu - Laila Ayu Feat Gerry Mahesa"
 date: 2026-07-26
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Aku yang tak pernah bisa lupakan dirinya Yang kini hadir di antara kita Namun ku juga takkan bisa menepis bayangmu Yang s’lama ini temani hidupku

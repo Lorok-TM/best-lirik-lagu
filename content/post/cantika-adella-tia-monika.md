@@ -2,7 +2,7 @@
 title: "Cantika Adella - Tia Monika"
 date: 2025-06-17
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Ee poma neu bantu uloen Ka jatuh cinta keu sidroe dara Ureung jih tari sang putri raja Pakiban cara loen ucap cinta

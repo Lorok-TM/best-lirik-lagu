@@ -2,7 +2,7 @@
 title: "Rayola - Dilua Galak Di Dalam Manangih"
 date: 2025-05-21
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 

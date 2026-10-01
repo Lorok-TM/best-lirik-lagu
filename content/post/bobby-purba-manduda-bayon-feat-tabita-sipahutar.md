@@ -2,7 +2,7 @@
 title: "Bobby Purba - Manduda Bayon feat. Tabita Sipahutar"
 date: 2025-07-25
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Rap hita na dua hasian manduda bayonni Rap hita na dua hasian tu parmahananni Laos hu galmit ma ito da hurungmi Mekkel suping ho tu au hasian Holan ho na ma ito holan ho na ma ito Bunga ni ate ateki

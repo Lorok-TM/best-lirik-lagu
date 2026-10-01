@@ -2,7 +2,7 @@
 title: "Gusri Julian feat Nurvita - Di Tikam Belati"
 date: 2021-09-23
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 **Lirik Di Tikam Belati - Gusri Julian Ft. Nurvita**

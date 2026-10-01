@@ -2,7 +2,7 @@
 title: "Yola Kamplong - Ketuwan Lanang"
 date: 2022-01-28
 categories: 
-  - "tarling"
+  - "Tarling"
 ---
 
 ## Lirik Lagu Tarling ”Ketuan Lanang“ by Yola Kamplong

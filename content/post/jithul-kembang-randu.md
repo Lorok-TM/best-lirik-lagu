@@ -2,7 +2,7 @@
 title: "Jithul - Kembang Randu"
 date: 2022-03-14
 categories: 
-  - "tayub"
+  - "Tayub"
 ---
 
 Title : Kembang Randu Artist : Jithul Songwriter : Jithul Sumarji Category : Lagu Tayub / Langen Bekso

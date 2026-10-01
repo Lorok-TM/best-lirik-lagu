@@ -2,7 +2,7 @@
 title: "Silvia An - Anugrah Cinta"
 date: 2024-02-07
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 **Lirik Anugrah Cinta - Silvia An**

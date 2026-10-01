@@ -2,7 +2,7 @@
 title: "Salah Uda Ba’a Kabanyo - Fauzana"
 date: 2025-06-11
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Indak indak di denai da Usah dipasokan juo Lah cukuik denai Manimbang-nimbang raso

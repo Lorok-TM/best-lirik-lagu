@@ -2,7 +2,7 @@
 title: "Thomas Arya feat. Rheka Restu - Mahligai Cinta Abadi"
 date: 2025-10-25
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 Bertahun kupendam perasaan padamu insan pujaan Siang malam slalu terbayang lembut sikapmu meneduhkan Siang malam slalu terbayang lembut sikapmu meneduhkan

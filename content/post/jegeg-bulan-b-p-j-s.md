@@ -2,7 +2,7 @@
 title: "Jegeg Bulan - B.P.J.S"
 date: 2024-05-23
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 **Lirik Jegeg Bulan - BPJS**

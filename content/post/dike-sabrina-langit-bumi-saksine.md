@@ -2,7 +2,7 @@
 title: "Dike Sabrina - Langit Bumi Saksine"
 date: 2025-11-05
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Sing biso sun pahami Riko tego medot taline asmoro Sing sanggup sun ngerteni Riko tego ninggalno ambi wong liyo

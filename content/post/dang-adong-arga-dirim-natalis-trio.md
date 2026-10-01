@@ -2,7 +2,7 @@
 title: "Dang Adong Arga Dirim - Natalis Trio"
 date: 2025-01-03
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Dang Adong Arga Dirim yang dibawakan oleh Natalis Trio.

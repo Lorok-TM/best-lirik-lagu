@@ -2,7 +2,7 @@
 title: "King Nassar - Aku Bukan Rahwana"
 date: 2025-10-27
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Saat bersamamu Saat yang terindah Dunia kurasa Begitu sempurna

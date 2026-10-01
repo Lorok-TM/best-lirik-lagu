@@ -2,7 +2,7 @@
 title: "Arbil Fahrizan - Takdir Cinta Berakhir Luka"
 date: 2025-09-11
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Terluka lagi diriku karena sikapmu Menangis lagi sudah kering air mataku Sampai kapankah ku akan sanggup bertahan Dari takdir cinta menyakitkan Akankah ada masanya untuk berubah Atau baiknya kita berpisah

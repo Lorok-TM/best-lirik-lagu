@@ -2,7 +2,7 @@
 title: "Barasuara - Sementara"
 date: 2026-07-10
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 

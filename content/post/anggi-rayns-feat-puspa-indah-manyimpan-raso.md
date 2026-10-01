@@ -2,7 +2,7 @@
 title: "Anggi Rayns feat Puspa Indah - Manyimpan Raso"
 date: 2022-09-27
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Title : Manyimpan Raso Artist : Anggi Rayns ft Puspa Indah Songwriter : Erwin Agam Published : Minangswara Category : Lagu Pop Minang

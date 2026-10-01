@@ -2,7 +2,7 @@
 title: "Anisa Rahman - Asma'un Nabi"
 date: 2025-07-19
 categories: 
-  - "religi"
+  - "Religi"
 ---
 
 Shallallahu Robbuna 'Alan Nuuril Mubiin Ahmadal Musthofa Sayyidal Mursaliin

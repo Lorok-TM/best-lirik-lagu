@@ -2,7 +2,7 @@
 title: "Fira Cantika - Cinta Diantara Kita feat. Rizal Pahlevi"
 date: 2025-08-24
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Kasih, setelah kepergianmu Baru kusadari Begitu berartinya kau dalam hidupku Kini kau telah bahagia Yang tidak pernah kau temui Di masa hidupmu Bahagialah, kasih Bahagiamu abadi selamanya

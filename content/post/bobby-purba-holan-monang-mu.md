@@ -2,7 +2,7 @@
 title: "Bobby Purba - Holan Monang Mu"
 date: 2026-01-19
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Tung so hea mararga dibahek ho Sude nasa pambahenanku tuho Holan monangmu au holan sitau na salah salelengon

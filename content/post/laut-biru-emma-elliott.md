@@ -2,7 +2,7 @@
 title: "Laut Biru - Emma Elliott"
 date: 2025-04-08
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Verse : Wahai laut biru.. Buailah diriku.. Di dalam kedamaian..

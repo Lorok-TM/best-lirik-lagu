@@ -2,7 +2,7 @@
 title: "La Tuhu - Chelsi Natasia Gurusinga"
 date: 2024-09-28
 categories: 
-  - "karo"
+  - "Karo"
 ---
 
 Kerna arihta Enggo me lupaken saja Getem ceda pusuhku Kerina perbahanen ndu

@@ -2,7 +2,7 @@
 title: "Tondua Yang Stel - Chalan Alvaro, Tian Storm, Noldy Mavia, Allzona Laheba"
 date: 2026-09-09
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 Dia so ada yang punya Kita leh so ada yang ba ika Mar dia bilang nyanda apa apa Barang itu nanti tondua yang stel

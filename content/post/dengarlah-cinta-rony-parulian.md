@@ -2,7 +2,7 @@
 title: "Dengarlah Cinta - Rony Parulian"
 date: 2026-05-26
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 

@@ -2,7 +2,7 @@
 title: "Domikado - Alan Darmawan Feat Arisko G Rap"
 date: 2025-01-14
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Domikado yang dibawakan oleh Alan Darmawan Feat Arisko G Rap.

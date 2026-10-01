@@ -2,7 +2,7 @@
 title: "Cut Rani Auliza - Mengapa Masih Disini"
 date: 2023-06-12
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Lirik Lagu Melayu dengan judul Mengapa Masih Disini yang dinyanyikan oleh Cut Rani Auliza dan diciptakan oleh Ajhay Pasma dengan irama musik Pop.

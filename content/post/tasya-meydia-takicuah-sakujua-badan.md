@@ -2,7 +2,7 @@
 title: "Tasya Meydia - Takicuah Sakujua Badan"
 date: 2025-09-25
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Hanyo tambilang nan ka mamasihkan cinto Baitu dulu uda bakato Lah sapanuah nyo picayo Raso tak ka baurak kato Kini tampak nyato Lah batulak balakang kironyo

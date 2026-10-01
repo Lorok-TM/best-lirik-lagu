@@ -2,7 +2,7 @@
 title: "Imanuel - LOJ Worship x Sidney Mohede"
 date: 2025-04-19
 categories: 
-  - "rohani"
+  - "Rohani"
 ---
 
 Bapa ku datang dan berserah Kunyatakan Kau yang berkuasa Dalam gelap Kau setia Kau cahaya hidupku

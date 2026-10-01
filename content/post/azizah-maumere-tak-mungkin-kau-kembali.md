@@ -2,7 +2,7 @@
 title: "Azizah Maumere - Tak Mungkin Kau Kembali"
 date: 2023-11-05
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Azizah Maumere rilis single berjudul "Tak Mungkin Kau Kembali" yang diciptakan oleh Emen, Iwan MS.

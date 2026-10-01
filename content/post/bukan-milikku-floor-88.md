@@ -2,7 +2,7 @@
 title: "Bukan Milikku - Floor 88"
 date: 2025-05-22
 categories: 
-  - "malaysia"
+  - "Malaysia"
 ---
 
 Apa yang harus aku lakukan Untuk dirimu duhai cintaku Ku ingin engkau jadi milikku Namun dirimu telah dimilikinya

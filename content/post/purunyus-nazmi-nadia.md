@@ -2,7 +2,7 @@
 title: "Purunyus - Nazmi Nadia"
 date: 2024-08-22
 categories: 
-  - "sunda"
+  - "Sunda"
 ---
 
 Abdi gaduh kabogoh anyar Moal éléh ku nu tipayun Nu tipayun jangkung ageung Nu ayeuna jangkung ageung Sami ageungna

@@ -2,7 +2,7 @@
 title: "Eduart Tamba - Suga Na Mansai Bagas Feat Nirwana Trio"
 date: 2025-06-24
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Songon na malua tondiki Manaon sude na masa i Ho do na mambahen marbunga rohaki Gabe balik manjehe

@@ -2,8 +2,7 @@
 title: "Rina Aditama - Tanpo Hubungan"
 date: 2026-07-23
 categories: 
-  - "dangdut"
-  - "java"
+  - "Jawa"
 ---
 
 Kadang aku kelingan yen krungu Tembang lagu senenganmu Sing kerep mbok weruhne neng aku saben ketemu Gawe aku kangen kebayang teko ngimpiku

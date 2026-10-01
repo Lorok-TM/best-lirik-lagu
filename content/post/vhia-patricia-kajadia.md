@@ -2,7 +2,7 @@
 title: "Vhia Patricia - Kajadia dan Artinya"
 date: 2022-10-19
 categories: 
-  - "dayak"
+  - "Dayak"
 ---
 
 Lirik Lagu Dayak Ngaju Kalteng dengan judul Kajadia yang dinyanyikan oleh Vhia Patricia dan diciptakan oleh Guntur Suryadie dengan irama musik Pop.

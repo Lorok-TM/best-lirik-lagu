@@ -2,7 +2,7 @@
 title: "Limang Taun - Ungu"
 date: 2025-05-31
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Tak sawang sawang sliramu wis beda Wis ra kaya pertama pas dadia Jane ku wis rasa Ternyata awakmu main ati Main ati karo wong liya

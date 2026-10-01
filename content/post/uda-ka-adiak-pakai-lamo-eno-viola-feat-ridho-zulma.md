@@ -2,7 +2,7 @@
 title: "Uda Ka Adiak Pakai Lamo - Eno Viola feat. Ridho Zulma"
 date: 2024-07-10
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Maso indak ka babaliak da Indak ka baputa ulang Jan sado ka dicamehkan Tanang tanangkan fikiran Jan sado ka dicamehkan Tanang tanangkan fikiran

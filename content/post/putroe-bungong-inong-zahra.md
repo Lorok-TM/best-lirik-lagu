@@ -2,7 +2,7 @@
 title: "Putroe Bungong - Inong Zahra"
 date: 2024-07-16
 categories: 
-  - "aceh"
+  - "Aceh"
 ---
 
 **Berikut lirik Putroe Bungong yang dinyanyikan oleh Inong Zahra.**

@@ -2,7 +2,7 @@
 title: "Muhammad Rifai - Kau Siakan Setiaku"
 date: 2025-08-13
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Apa yang membuatmu Ingin kembali padaku Bukannya dahulu Kau bilang tak bahagia denganku

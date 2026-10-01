@@ -2,7 +2,7 @@
 title: "Cinto Kalah Dek Harato - Bherox'c"
 date: 2024-06-14
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 **Lirik Cinto Kalah Dek Harato - Bherox'c**

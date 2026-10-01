@@ -2,7 +2,7 @@
 title: "Silva Hayati - Cabiak Di Dalam"
 date: 2025-07-13
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Baru kasanang hati Alah basobok ubek diri Harok bana Ka cegak luko nan lamo

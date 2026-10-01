@@ -2,7 +2,7 @@
 title: "Sakitnya Hatiku (Kembalilah Kekasih 2) - Etgard Kalengke Feat Vania Lida"
 date: 2025-01-04
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Sakitnya Hatiku Kembalilah Kekasih 2 yang dibawakan oleh Etgard Kalengke Ft Vania Lida.

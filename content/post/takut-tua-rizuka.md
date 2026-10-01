@@ -2,7 +2,7 @@
 title: "Takut Tua - Rizuka"
 date: 2026-07-02
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 

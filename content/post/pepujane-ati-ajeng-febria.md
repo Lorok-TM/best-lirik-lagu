@@ -2,7 +2,7 @@
 title: "Pepujane Ati - Ajeng Febria"
 date: 2025-02-14
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Pepujane Ati yang dibawakan oleh Ajeng Febria.

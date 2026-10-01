@@ -2,7 +2,7 @@
 title: "Hadyna - Tabayang Takana Uda"
 date: 2025-07-11
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Katiko rupo uda nan tabayang Di ruang mato denai ko Pangana manarawang malayang Antah nan kamano Sahinggo mabuak dek angan angan Harok bana batamu pandang

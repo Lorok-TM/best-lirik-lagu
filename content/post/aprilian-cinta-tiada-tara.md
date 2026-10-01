@@ -2,7 +2,7 @@
 title: "Aprilian - Cinta Tiada Tara"
 date: 2024-05-26
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 **Lirik Cinta Tiada Tara - Aprilian**

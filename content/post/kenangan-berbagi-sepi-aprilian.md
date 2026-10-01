@@ -2,7 +2,7 @@
 title: "Kenangan Berbagi Sepi - Aprilian"
 date: 2026-07-27
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 Sekian lama hilang Dirimu yang kusayang Di manakah kau kini Mengapa engkau pergi Saat hati bahagia Cinta tumbuh bersemi

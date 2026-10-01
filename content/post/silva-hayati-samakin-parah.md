@@ -2,7 +2,7 @@
 title: "Silva Hayati - Samakin Parah"
 date: 2026-08-07
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 

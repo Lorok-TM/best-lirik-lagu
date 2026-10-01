@@ -2,7 +2,7 @@
 title: "Fa Akao Zatua - Dimas Gohae"
 date: 2025-04-07
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 Nau ofanoi wageran ngeragu Fa'akao sino otaogo nagu Mesiwa wawa ndraodo badalu He agafokho lo ofatou

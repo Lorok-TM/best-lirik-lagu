@@ -2,7 +2,7 @@
 title: "Romantisme Sang Adiwira - Alisha Irawan"
 date: 2025-01-26
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Romantisme Sang Adiwira yang dibawakan oleh Alisha Irawan.

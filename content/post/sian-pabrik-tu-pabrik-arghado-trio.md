@@ -2,7 +2,7 @@
 title: "Sian Pabrik Tu Pabrik - Arghado Trio"
 date: 2025-06-17
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Sian pabrik tu pabrik do au Ido na gabe parngoluonki Dapot hu pe disi pas-pasan do UMR UMR do gajiki

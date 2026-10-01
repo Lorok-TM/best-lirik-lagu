@@ -2,7 +2,7 @@
 title: "Silvia An - Hapuslah Air Matamu"
 date: 2026-09-03
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Langit gelap tiada bintang Angin dingin menusuk tulang Tapi hatiku tetap tenang Jangan pikir yang sudah hilang

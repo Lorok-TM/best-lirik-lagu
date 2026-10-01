@@ -2,7 +2,7 @@
 title: "Tanti Batanti - Rayola"
 date: 2026-06-19
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 

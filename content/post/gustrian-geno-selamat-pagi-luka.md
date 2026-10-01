@@ -2,7 +2,7 @@
 title: "Gustrian Geno - Selamat Pagi Luka"
 date: 2023-02-20
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Gustrian Geno dibawah naungan label Koko Record rilis single Melayu berjudul "Selamat Pagi Luka" yang diciptakan oleh Ajhay Pasma, menceritakan tentang seseorang yang terluka hatinya.

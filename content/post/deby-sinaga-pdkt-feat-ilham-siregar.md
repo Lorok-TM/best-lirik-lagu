@@ -2,7 +2,7 @@
 title: "Deby Sinaga - PDKT feat. Ilham Siregar"
 date: 2025-07-19
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Attar songon on ma jo tahe Kisah PDKT niba dohot anak ni raja i Sai nirippu do boi holan modal tulus Hape lak so hea berjalan mulus

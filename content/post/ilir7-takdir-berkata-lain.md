@@ -2,8 +2,7 @@
 title: "ILIR 7 - Takdir Berkata Lain"
 date: 2023-03-31
 categories: 
-  - "band"
-  - "indonesia"
+  - "Band"
 ---
 
 Lirik Lagu Band Indo dengan judul Takdir Berkata Lain yang dinyanyikan oleh ILIR7 dan diciptakan oleh Vic Ilir7 dengan irama musik Pop.

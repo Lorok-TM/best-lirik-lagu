@@ -2,7 +2,7 @@
 title: "Dadali - Aku Bisa Gila"
 date: 2026-09-19
 categories: 
-  - "band"
+  - "Band"
 ---
 
 Di manakah kini Kau yang selalu ada temaniku Ku merindukanmu Maafkan aku yang telah menyakitimu

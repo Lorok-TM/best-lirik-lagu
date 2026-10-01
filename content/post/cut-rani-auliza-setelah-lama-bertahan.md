@@ -2,7 +2,7 @@
 title: "Cut Rani Auliza - Setelah Lama Bertahan"
 date: 2026-01-12
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Tiada pernah ku menduga Perpisahan terjadi jua Setelah lama bertahan Dengan semua pertengkaran

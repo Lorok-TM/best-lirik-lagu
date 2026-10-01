@@ -2,7 +2,7 @@
 title: "Jenita Gulo - Bunga Melati Bunga Dahlia Feat Yas Zalukhu"
 date: 2025-07-05
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 Bunga melati bunga dahlia U ohe misiyöu ba Lahewa Hana dödögu khöu ga'a zisamuza Tobali fökhö nalö falukha ita

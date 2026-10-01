@@ -2,7 +2,7 @@
 title: "Yudi Rajapala - Fokus Mekuli"
 date: 2025-11-19
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 Telah sube mekejang Hutang ngeliunan Ulian permainan Jeg sing taen bange menang Nyerah kalah Tiang be pasrah

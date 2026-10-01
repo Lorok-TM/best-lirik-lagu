@@ -2,7 +2,7 @@
 title: "Semesta Asmara - Vintonic"
 date: 2025-02-16
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Semesta Asmara yang dibawakan oleh Vintonic.

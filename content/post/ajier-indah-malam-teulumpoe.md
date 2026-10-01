@@ -2,7 +2,7 @@
 title: "Ajier Indah Malam - Teulumpoe"
 date: 2025-08-26
 categories: 
-  - "aceh"
+  - "Aceh"
 ---
 
 Lon sayang keu gata hai adoe Cinta ngon gaseh nyoe jinoe Lon tanom dihate cuma keu gata

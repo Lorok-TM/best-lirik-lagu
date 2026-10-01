@@ -2,7 +2,7 @@
 title: "Anggis Devaki - Tentangmu Tenangku"
 date: 2026-09-04
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Langkahku terasa berat Duniaku seakan penat Hadirmu membasuh lelah Hilangkan semua resah

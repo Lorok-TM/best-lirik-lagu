@@ -2,7 +2,7 @@
 title: "Toton Caribo - Sahabatku"
 date: 2023-06-25
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Lirik Lagu Indo dengan judul Sahabatku yang dinyanyikan dan diciptakan oleh Toton Caribo.

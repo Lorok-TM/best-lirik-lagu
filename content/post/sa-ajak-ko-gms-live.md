@@ -2,7 +2,7 @@
 title: "Sa Ajak Ko - GMS Live"
 date: 2025-01-05
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Sa Ajak Ko yang dibawakan oleh GMS Live.

@@ -2,7 +2,7 @@
 title: "Chika Andriani - Kasiah Lah Jadi Pamenan Urang"
 date: 2022-08-26
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 ## Lirik Lagu Minang ”Kasiah Lah Jadi Pamenan Urang“ by Chika Andriani

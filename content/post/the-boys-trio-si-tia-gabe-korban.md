@@ -2,7 +2,7 @@
 title: "The Boys Trio - Si Tia Gabe Korban"
 date: 2025-09-21
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Tung so hutagam do Songoni pabbahenammi tu au Selingkuh ho tarbereng au nasopamotoan mi

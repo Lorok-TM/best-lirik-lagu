@@ -2,7 +2,7 @@
 title: "Fahmi - Hana Sipadan"
 date: 2025-08-18
 categories: 
-  - "aceh"
+  - "Aceh"
 ---
 
 Ta mita ureng yang si padan Bek dengen loen sayang Sidroe ureng hana

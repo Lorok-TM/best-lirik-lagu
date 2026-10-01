@@ -2,7 +2,7 @@
 title: "Mulih Ke Canggu - Rocktober Feat Lebri Partami"
 date: 2025-01-17
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Mulih Ke Canggu yang dibawakan oleh Rocktober Ft Lebri Partami.

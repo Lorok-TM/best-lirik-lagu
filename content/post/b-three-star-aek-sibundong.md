@@ -2,7 +2,7 @@
 title: "B-Three Star - Aek Sibundong"
 date: 2025-07-19
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 O aek sibundong aek sibundong da na uli Parharsap mi mancai uli Tudos hapas palembang i Madabu tu sampuran i

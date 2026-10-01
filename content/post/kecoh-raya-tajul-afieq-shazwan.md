@@ -2,7 +2,7 @@
 title: "Kecoh Raya - Tajul & Afieq Shazwan"
 date: 2026-03-20
 categories: 
-  - "religi"
+  - "Religi"
 ---
 
 Kecoh raya kecoh malam raya Kecoh raya kecoh malam raya

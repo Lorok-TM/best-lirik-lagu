@@ -2,7 +2,7 @@
 title: "Manga Di Risaukan - Roje Firdaus"
 date: 2025-02-17
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Manga Di Risaukan yang dibawakan oleh Roje Firdaus.

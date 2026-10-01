@@ -2,7 +2,7 @@
 title: "Azizah Maumere - Biarlah Berpisah feat. Tegar Septian"
 date: 2025-08-21
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Mengapa kini dirimu berubah Seakan aku tak lagi berada di dalam hatimu Maafkan diriku ini sayang Bukannya mengkhianati cinta yang telah engkau beri

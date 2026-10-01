@@ -2,7 +2,7 @@
 title: "Dila Salih - Gadang Tuah Di Galanggang"
 date: 2024-03-11
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 **Lirik Gadang Tuah Di Galanggang - Dila Salih**

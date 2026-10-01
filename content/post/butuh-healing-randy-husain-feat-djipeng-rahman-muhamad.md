@@ -2,7 +2,7 @@
 title: "Butuh Healing - Randy Husain Feat Djipeng & Rahman Muhamad"
 date: 2025-04-24
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 Mo bikin ini tak boleh Bikin itu tak boleh Adoh nona ko ini sampe Bajalang sana juga tak boleh Jalan sini tak boleh Ko marah marah sa ni su cape

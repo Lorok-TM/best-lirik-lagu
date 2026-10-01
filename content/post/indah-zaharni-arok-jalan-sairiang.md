@@ -2,7 +2,7 @@
 title: "Indah Zaharni - Arok Jalan Sairiang"
 date: 2023-02-18
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Lirik Lagu Minang dengan judul Arok Jalan Sairiang yang dinyanyikan oleh Indah Zaharni dan diciptakan oleh AlKawi dengan irama musik Dendang Bollywood.

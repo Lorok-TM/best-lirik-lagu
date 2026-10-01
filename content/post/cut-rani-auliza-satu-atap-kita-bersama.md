@@ -2,7 +2,7 @@
 title: "Cut Rani Auliza - Satu Atap Kita Bersama"
 date: 2023-04-05
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Lirik Lagu Melayu dengan judul Satu Atap Kita Bersama yang dinyanyikan oleh Cut Rani Auliza dan diciptakan oleh Erwin Agam dengan irama musik Pop.

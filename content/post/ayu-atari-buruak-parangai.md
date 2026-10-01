@@ -2,7 +2,7 @@
 title: "Ayu Atari - Buruak Parangai"
 date: 2025-12-04
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Jangkau kian lah jangkau kamari Bak itulah mancari sasuok nasi Bakureh pagi pulangnyo patang hari Dapek sakiro nan ka dimakan Bakureh pagi pulangnyo patang hari Dapek sakiro nan ka dimakan

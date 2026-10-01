@@ -2,7 +2,7 @@
 title: "Ary Kencana - Nanem Karma dan Artinya"
 date: 2022-06-07
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 ## Lirik Lagu Bali ”Nanem Karma“ by Ary Kencana

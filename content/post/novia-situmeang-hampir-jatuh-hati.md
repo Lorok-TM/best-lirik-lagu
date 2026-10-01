@@ -2,7 +2,7 @@
 title: "Novia Situmeang - Hampir Jatuh Hati"
 date: 2025-08-23
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Bukan ku menolak Tapi ku hanya butuh hadirmu saja Salahkah diriku bila hanya kamu yang cinta Meski ku tak meminta

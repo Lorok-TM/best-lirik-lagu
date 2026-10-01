@@ -2,7 +2,7 @@
 title: "Ainida Diaz - Bialah Mode Iko"
 date: 2025-09-30
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Bialah panjang rumpuik banto Pado taserak dihalaman Bialah samantaro mode iko Pado tambah jauah kampuang denai tinggakan Bialah samantaro mode iko Pado tambah jauah kampuang denai tinggakan

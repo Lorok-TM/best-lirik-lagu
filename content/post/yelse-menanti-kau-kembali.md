@@ -2,7 +2,7 @@
 title: "Yelse - Menanti Kau Kembali"
 date: 2022-11-28
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Lirik Lagu Melayu dengan judul Menanti Kau Kembali yang dinyanyikan oleh Yelse dan diciptakan oleh Izhal Khatanza dengan irama musik Pop.

@@ -2,7 +2,7 @@
 title: "Ketaton Cerita - Dike Sabrina feat. Galih Prastya"
 date: 2026-07-09
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 

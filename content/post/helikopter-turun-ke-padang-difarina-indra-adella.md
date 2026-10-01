@@ -2,7 +2,7 @@
 title: "Helikopter Turun Ke Padang - Difarina Indra Adella"
 date: 2026-09-26
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Lila lali lali lala..

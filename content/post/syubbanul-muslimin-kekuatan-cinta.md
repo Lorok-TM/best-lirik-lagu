@@ -2,7 +2,7 @@
 title: "Syubbanul Muslimin - Kekuatan Cinta"
 date: 2020-04-02
 categories: 
-  - "religi"
+  - "Religi"
 ---
 
 Title : Kekuatan Cinta Artist : Hafidzul Ahkam ft Moch. Hendra (Syubbanul Muslimin) Category : Lagu Religi

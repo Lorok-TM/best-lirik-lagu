@@ -2,7 +2,7 @@
 title: "Ari Na Parpudi - Jonar Situmorang feat. Marhara Trio"
 date: 2026-06-17
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Tumatangis dibahen ho sude Ala ni panadingkonmon Nunga salpu be hape sude Holongmi nang ngolumi Toppu nai

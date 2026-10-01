@@ -2,7 +2,7 @@
 title: "Murama (Najwa) - Jomblo Bahagia"
 date: 2026-09-06
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Jangan jangan jangan Jangan kau salah sangka Aku memang jomblo tapi jomblo bahagia Belum saat nya untuk bercinta Ku masih remaja tak ingin Tak ingin pusing mikirin asmara

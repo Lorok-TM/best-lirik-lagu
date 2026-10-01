@@ -2,7 +2,7 @@
 title: "Amelda Lesty - Cancang Kambiang"
 date: 2020-12-23
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Amelda Lesty bersama Dobel Music Pro rilis single dengan lirik dalam bahasa Minangkabau berjudul "Cancang Kambiang" yang diciptakan oleh Efrinon.

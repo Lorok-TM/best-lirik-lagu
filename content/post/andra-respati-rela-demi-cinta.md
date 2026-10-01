@@ -2,7 +2,7 @@
 title: "Andra Respati - Rela Demi Cinta"
 date: 2025-12-04
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 Pedih rasa hati tersiksa Memendam rindu padamu aku merana Teramat sukar tuk melupakan bayangan kasihmu Cintaku

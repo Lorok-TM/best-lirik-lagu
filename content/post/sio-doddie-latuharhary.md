@@ -2,7 +2,7 @@
 title: "Sio - Doddie Latuharhary"
 date: 2025-02-11
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 

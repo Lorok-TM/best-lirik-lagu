@@ -2,7 +2,7 @@
 title: "Valdy Nyonk - Bila Tak Bersama Lagi"
 date: 2026-09-26
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Akan tiba saatnya nanti kita tak akan bersama lagi semua yang kita lalui hanya tinggal kisah dan memori

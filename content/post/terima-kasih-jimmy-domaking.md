@@ -2,7 +2,7 @@
 title: "Terima Kasih - Jimmy Domaking"
 date: 2025-01-20
 categories: 
-  - "timur"
+  - "Timur"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Terima Kasih yang dibawakan oleh Jimmy Domaking.

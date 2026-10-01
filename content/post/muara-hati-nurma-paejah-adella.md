@@ -2,7 +2,7 @@
 title: "Muara Hati - Nurma Paejah Adella"
 date: 2026-07-13
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 

@@ -2,7 +2,7 @@
 title: "Arif LIDA - Talampau Padiah"
 date: 2025-04-30
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Usah diharok denai ka babaliak Lah talampau padiah hati bagalimang luko Cinto nan bapupuak jo kasiah sayang Manga kini babuah ayia mato

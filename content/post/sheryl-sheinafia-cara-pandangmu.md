@@ -2,7 +2,7 @@
 title: "Sheryl Sheinafia - Cara Pandangmu"
 date: 2026-09-05
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Dari caramu tanpa ragu menguraikan pikiranku ku tersadar kamu paham Hati yang biasa terluka Ku belajar terbuka Ku berdamai dengan cerita yang lama

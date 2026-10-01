@@ -2,7 +2,7 @@
 title: "Rindu Untuk Kamu - September Band"
 date: 2026-07-15
 categories: 
-  - "band"
+  - "Band"
 ---
 
 Tak pernah bisa aku melupakanmu Untuk mengenyahkan semua Kisah tentang kita Sungguh tak mudah menggantikan dirimu Menggantikan cintamu dengan Cinta lainnya Kamu yang dulu ada dalam hatiku Tapi sekarang entah di mana

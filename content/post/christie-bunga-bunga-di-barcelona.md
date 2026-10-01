@@ -2,7 +2,7 @@
 title: "Christie - Bunga Bunga Di Barcelona"
 date: 2026-09-03
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Warna warni bunga bunga Di taman kota Bacelona Aku mulai merasakan ini bisa bisa Jadi selamanya

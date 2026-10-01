@@ -2,7 +2,7 @@
 title: "Quinn Salman - Bisa Gak Sih"
 date: 2026-08-17
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Berikan ulasan objektif sebanyak 1 paragraf mengenai makna filosofis atau latar belakang cerita dari karya musik berjudul: \[Bisa Gak Sih - Quinn Salman - ciptaan Quinn Salman & Nuki Nares\]. Sampaikan ulasan tersebut dengan gaya penulisan jurnalistik yang formal, lugas, dan langsung menuju inti pembahasan. Pastikan struktur kalimatnya rapi, menggunakan bahasa Indonesia formal, baku, dan sesuai dengan PUEBI serta bebas dari ekspresi yang berlebihan. Hindari penggunaan kalimat klise khas robot AI agar artikel tetap terlihat orisinal dan ditulis oleh seorang profesional.

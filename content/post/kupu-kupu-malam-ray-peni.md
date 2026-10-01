@@ -2,7 +2,7 @@
 title: "Kupu Kupu Malam - Ray Peni"
 date: 2024-08-12
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Kupu Kupu Malam yang dibawakan oleh Ray Peni.

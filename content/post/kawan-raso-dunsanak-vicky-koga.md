@@ -2,7 +2,7 @@
 title: "Kawan Raso Dunsanak - Vicky Koga"
 date: 2025-03-14
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 

@@ -2,7 +2,7 @@
 title: "Abiel Jatnika - Matapoé"
 date: 2025-11-10
 categories: 
-  - "sunda"
+  - "Sunda"
 ---
 
 Matapoe rek ngampih Tanda rek salin wanci Beurang rek naleukeum ka peuting Cihcir tonggeret recet Ngahudang balilu lalewang

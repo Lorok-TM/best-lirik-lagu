@@ -2,8 +2,7 @@
 title: "Kusumaning Ati - Esa Risty"
 date: 2026-07-30
 categories: 
-  - "dangdut"
-  - "java"
+  - "Jawa"
 ---
 
 Kusumaning ati Duh wong bagus kang tak anti-anti Mung tekamu biso gawe Tentrem ning atiku

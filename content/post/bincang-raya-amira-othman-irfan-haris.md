@@ -2,7 +2,7 @@
 title: "Bincang Raya - Amira Othman, Irfan Haris"
 date: 2026-03-19
 categories: 
-  - "religi"
+  - "Religi"
 ---
 
 Lekas-lekas bangun sayang Sudah tiba pagi raya Masa untuk kita pulang Raikan bersama tersayang

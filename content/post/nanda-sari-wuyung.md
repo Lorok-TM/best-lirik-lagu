@@ -2,7 +2,7 @@
 title: "Nanda Sari - Wuyung"
 date: 2026-07-29
 categories: 
-  - "campursari"
+  - "Campursari"
 ---
 
 Laraning lara Ora kaya wong kang nandang wuyung Mangan ra doyan Ra jenak dolan, nang omah bingung

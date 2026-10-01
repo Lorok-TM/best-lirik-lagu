@@ -2,7 +2,7 @@
 title: "Permata Trio - Siholmi"
 date: 2025-08-28
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Sonang hian do pargaulanta Di haposoon ujui Dame nang ngolutta Soadong nihahurangan tikki i

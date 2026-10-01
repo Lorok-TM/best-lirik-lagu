@@ -2,7 +2,7 @@
 title: "Nyoman Paul - Luapkanlah"
 date: 2025-05-20
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Belakangan ini Rasa dan pikiranku dibunuh hari-hari Susah untuk bangun Berpikir apakah harus melangkahkan kaki?

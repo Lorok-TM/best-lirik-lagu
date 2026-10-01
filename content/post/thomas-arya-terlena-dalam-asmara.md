@@ -2,7 +2,7 @@
 title: "Thomas Arya - Terlena Dalam Asmara"
 date: 2026-09-03
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 Berharap cinta kan abadi Bersamamu duhai kekasih Tapi kenyataan tak seindah rencana Aku tak kuasa menahan pilu

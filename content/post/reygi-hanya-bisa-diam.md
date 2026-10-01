@@ -2,7 +2,7 @@
 title: "Reygi - Hanya Bisa Diam"
 date: 2023-07-07
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Lirik Lagu Indo dengan judul Hanya Bisa Diam yang dinyanyikan oleh Reygi dengan irama musik Pop.

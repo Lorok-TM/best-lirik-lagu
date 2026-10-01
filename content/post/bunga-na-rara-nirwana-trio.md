@@ -2,7 +2,7 @@
 title: "Bunga Na Rara - Nirwana Trio"
 date: 2025-06-26
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Di manogot i dungo au sian podomanki Hubereng dompak habinsaran i Uli nai tahe sirondang ni mataniari i Manondangi tano on

@@ -2,7 +2,7 @@
 title: "Prasangka - Danilla feat. Bilal Indrajaya"
 date: 2026-06-06
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 

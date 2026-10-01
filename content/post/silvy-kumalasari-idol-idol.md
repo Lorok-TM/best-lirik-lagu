@@ -2,7 +2,7 @@
 title: "Silvy Kumalasari - Idol Idol"
 date: 2026-09-26
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Lila lali lali lala..

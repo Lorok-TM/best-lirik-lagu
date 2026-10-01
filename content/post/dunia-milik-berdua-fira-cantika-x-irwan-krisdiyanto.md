@@ -2,7 +2,7 @@
 title: "Dunia Milik Berdua - Fira Cantika X Irwan Krisdiyanto"
 date: 2026-07-22
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Bila aku tak jumpa kamu Mana mungkin ku kenal cinta Mana mungkin hatiku rindu

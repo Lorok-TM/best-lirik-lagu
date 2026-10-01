@@ -2,7 +2,7 @@
 title: "Usia Lanjut - Herlin Pirena"
 date: 2025-02-15
 categories: 
-  - "rohani"
+  - "Rohani"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Usia Lanjut yang dibawakan oleh Herlin Pirena.

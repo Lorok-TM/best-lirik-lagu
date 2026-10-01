@@ -2,7 +2,7 @@
 title: "Kintani - Cinto Palarian"
 date: 2023-03-17
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Lirik Lagu Minang dengan judul Cinto Palarian yang dinyanyikan oleh Kintani dan diciptakan oleh Eddy Palangki dengan irama musik Pop.

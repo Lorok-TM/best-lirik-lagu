@@ -2,7 +2,7 @@
 title: "Fajar Syahid - Tak Andik Orak"
 date: 2021-10-29
 categories: 
-  - "madura"
+  - "Madura"
 ---
 
 ## Lirik Lagu Madura ”Tak Andik Orak“ by Fajar Syahid

@@ -2,7 +2,7 @@
 title: "Eja SM - Talampau Mangalah"
 date: 2025-08-23
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Usah buruak mato mamandang Kana juo elok di badan nangko Jikok adiak manimbang Barek jo ringan lah kajadi etongan

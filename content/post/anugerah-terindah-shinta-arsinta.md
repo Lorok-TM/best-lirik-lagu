@@ -2,7 +2,7 @@
 title: "Anugerah Terindah - Shinta Arsinta"
 date: 2025-03-23
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Anugerah Terindah yang dibawakan oleh Shinta Arsinta.

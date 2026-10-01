@@ -2,7 +2,7 @@
 title: "Eno Viola - Kau Bahagia Ku Menangis"
 date: 2023-05-15
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Lirik Lagu Melayu dengan judul Kau Bahagia Ku Menangis yang dinyanyikan oleh Eno Viola dan diciptakan oleh Harry Parintang dengan irama musik Pop.

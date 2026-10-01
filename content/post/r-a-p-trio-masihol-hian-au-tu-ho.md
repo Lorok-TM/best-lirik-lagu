@@ -2,7 +2,7 @@
 title: "R.A.P Trio - Masihol Hian Au Tu Ho"
 date: 2022-09-12
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Title : Masihol Hian Au Tu Ho Artist : R.A.P Trio Songwriter : Tigor Pardamean Siallagan Label : CMD Record Category : Lagu Batak

@@ -2,7 +2,7 @@
 title: "Sunmori - Bobby Stuntrider Feat. Adi Bewok"
 date: 2024-08-02
 categories: 
-  - "sunda"
+  - "Sunda"
 ---
 
 Verse : Kuring boga babaturan Mun molor jiga nu pingsan Teu paduli sanajan tsunami..

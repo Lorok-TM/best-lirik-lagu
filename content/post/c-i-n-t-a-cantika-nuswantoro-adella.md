@@ -2,7 +2,7 @@
 title: "C.I.N.T.A - Cantika Nuswantoro Adella"
 date: 2026-07-14
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 

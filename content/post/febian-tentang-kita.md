@@ -2,7 +2,7 @@
 title: "Febian - Tentang Kita"
 date: 2022-04-04
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 ## Lirik Lagu “Tentang Kita” by Febian

@@ -2,7 +2,7 @@
 title: "Merasa Nyaman - Cyntia Pita"
 date: 2024-08-18
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 Beline ngaenang hatin tiyange Jani mebunga bunga Ulian kenal ngajak beli Tuun beline polos beline Ngaenang tiyang merasa nyaman

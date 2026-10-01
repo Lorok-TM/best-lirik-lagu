@@ -2,7 +2,7 @@
 title: "Urang Awak - Eno Viola & Ridho Zulma"
 date: 2025-05-16
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Lah talamak makan jo randang Sambalado pucuak parancih Lamak bana tempe kato urang Salero nan ko saketek mamiliah Lamak bana tempe kato urang Salero nan ko saketek mamiliah

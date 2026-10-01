@@ -2,7 +2,7 @@
 title: "Dedek Dhara - Ayah Mande Jo Parasaian"
 date: 2023-04-03
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Lirik Lagu Minang dengan judul Ayah Mande Jo Parasaian yang dinyanyikan oleh Dedek Dhara dan diciptakan oleh Rozac Tanjung dengan irama musik Pop.

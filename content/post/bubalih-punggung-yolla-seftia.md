@@ -2,7 +2,7 @@
 title: "Bubalih Punggung - Yolla Seftia"
 date: 2024-09-01
 categories: 
-  - "kerinci"
+  - "Kerinci"
 ---
 
 Ado ku nenga kayo purago Kayo nak muang Kayo nak muang sibadan kami

@@ -2,7 +2,7 @@
 title: "Siji Di Ping Selawe - Niken Salindry"
 date: 2026-05-22
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 

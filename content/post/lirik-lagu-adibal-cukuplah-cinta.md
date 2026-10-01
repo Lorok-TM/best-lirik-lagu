@@ -2,7 +2,7 @@
 title: "Adibal - Cukuplah Cinta"
 date: 2021-05-27
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Lirik Lagu Melayu dengan judul Cukuplah Cinta yang dinyanyikan dan diciptakan oleh Adibal.

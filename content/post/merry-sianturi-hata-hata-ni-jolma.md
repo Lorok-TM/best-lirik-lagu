@@ -2,7 +2,7 @@
 title: "Merry Sianturi - Hata Hata Ni Jolma"
 date: 2025-05-25
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Amang siadopan rajakku Mansai jot-jot doi tarbege hita Godang do hata-hata ni jolma i Ala hansit dope amang parngoluonta Jala dang tarihuthon hita Songon ngolu ni akka dongan i

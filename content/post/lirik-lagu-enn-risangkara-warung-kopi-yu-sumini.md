@@ -2,7 +2,7 @@
 title: "Enn Risangkara - Warung Kopi Yu Sumini"
 date: 2021-05-13
 categories: 
-  - "campursari"
+  - "Campursari"
 ---
 
 ## Lirik Lagu Langgam Campursari “Warung Kopi Yu Sumini” by Enn Risangkara

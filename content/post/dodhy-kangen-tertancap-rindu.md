@@ -2,7 +2,7 @@
 title: "Dodhy Kangen - Tertancap Rindu"
 date: 2026-09-15
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Di ujung malam tak bersuara Namamu masih tinggal di udara Kucoba memejamkan mata Namun bayangmu datang tanpa jeda

@@ -2,7 +2,7 @@
 title: "Armansyah - Haruskah Aku Yang Mengalah"
 date: 2023-02-21
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Armansyah bersama Teras Musik rilis Melayu berjudul "Haruskah Aku Yang Mengalah", menceritakan tentang seseorang yang cintanya dikhianati oleh kekasihnya, dia harus rela mengalah meski hati terasa sakit.

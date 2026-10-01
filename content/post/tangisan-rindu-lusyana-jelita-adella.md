@@ -2,7 +2,7 @@
 title: "Tangisan Rindu - Lusyana Jelita Adella"
 date: 2026-07-07
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 

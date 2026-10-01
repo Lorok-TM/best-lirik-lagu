@@ -2,7 +2,7 @@
 title: "Cut Rani Auliza - Apa Yang Kau Mau"
 date: 2023-05-19
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Lirik Lagu Melayu dengan judul Apa Yang Kau Mau yang dinyanyikan oleh Cut Rani Auliza dan diciptakan oleh Wandi Bireuen dengan irama musik Pop.

@@ -2,7 +2,7 @@
 title: "Monalisa Zalukhu - Dua Fakhe Zilalö"
 date: 2025-07-05
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 Dua fakhe zilalö No ölau mofanö Lö irai falukha Ga'a tuho dödö

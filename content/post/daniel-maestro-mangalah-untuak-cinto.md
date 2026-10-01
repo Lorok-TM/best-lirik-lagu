@@ -2,7 +2,7 @@
 title: "Daniel Maestro - Mangalah Untuak Cinto"
 date: 2023-01-10
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Daniel Maestro rilis single dengan lirik dalam bahasa Minangkabau berjudul "Mangalah Untuak Cinto" yang artinya "Mengalah Untuk Cinta", menceritakan tentang perjuangan cinta untuk orang yang disayanginya, namun karena memang keadaanya yang tidak mampu maka dia rela mengalah.

@@ -2,7 +2,7 @@
 title: "Aan Anisa - Bli Maning Maning"
 date: 2025-09-01
 categories: 
-  - "tarling"
+  - "Tarling"
 ---
 
 Kaya langka wong lanang maning Demen sampe lara gering Wis cukup sun bli maning maning Due cinta ora sebanding

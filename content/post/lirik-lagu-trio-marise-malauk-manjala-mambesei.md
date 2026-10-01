@@ -2,7 +2,7 @@
 title: "Trio MaRiSe - Malauk Manjala (Mambesei)"
 date: 2021-06-03
 categories: 
-  - "dayak"
+  - "Dayak"
 ---
 
 **Lirik Malauk Manjala - Trio MaRiSe**

@@ -2,7 +2,7 @@
 title: "Thomas Arya - Memaafkan Bukan Untuk Bersatu"
 date: 2026-09-15
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 Persoalan apa lagi yang nak kau pertanyakan Jelas sudah kita tak ada ikatan Bukankah kau yang sendiri berucap kepadaku Bahwa suatu hari Tak mungkin bahagia datang menjelma dalam mimpiku

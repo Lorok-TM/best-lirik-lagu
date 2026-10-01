@@ -2,7 +2,7 @@
 title: "Pendak Sakit Angen - Erni Ayu Ningsih"
 date: 2024-09-24
 categories: 
-  - "sasak"
+  - "Sasak"
 ---
 
 Pendak aku wah pendak Sengaq sifat side Ndeq bau kurang nine beng aku pendak

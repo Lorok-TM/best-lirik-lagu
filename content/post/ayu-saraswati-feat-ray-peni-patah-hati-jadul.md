@@ -2,7 +2,7 @@
 title: "Ayu Saraswati feat Ray Peni - Patah Hati Jadul dan Artinya"
 date: 2023-01-30
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 Ayu Saraswati & Ray Peni rilis single dengan lirik dalam bahasa Bali berjudul "Patah Hati Jadul" yang artinya "Patah Hati Jaman Dulu", menceritakan tentang seorang Pangeran yang patah hati karena ditinggal kawin oleh kekasihnya, untung saja Pangeran punya seorang teman akrab sejak kecil jaman dulu, teman akrabnya adalah seorang Putri cantik yang bersedia mengobati luka hati sang pangeran tersebut. Untuk lebih jelasnya silahkan Anda baca terjemahan lirik lagunya berada dibawah.

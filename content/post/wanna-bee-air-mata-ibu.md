@@ -2,7 +2,7 @@
 title: "Wanna Bee - Air Mata Ibu"
 date: 2022-10-14
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Lirik Lagu Pop Melayu dengan judul Air Mata Ibu yang dinyanyikan oleh Wanna Bee dan diciptakan oleh Emen, Iwan MS. Situs ini tidak menyediakan chord dasar / kunci gitar lagu ini. Halaman ini hanya menuliskan syair / liriknya saja. Berikut dibawah ini lyrics lengkapnya. Semoga lagu ini dapat menghibur anda.

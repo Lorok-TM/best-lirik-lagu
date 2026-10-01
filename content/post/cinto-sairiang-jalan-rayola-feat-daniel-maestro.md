@@ -2,7 +2,7 @@
 title: "Cinto Sairiang Jalan - Rayola Feat Daniel Maestro"
 date: 2025-04-04
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Adiak sayang pautan hati Usah ragu jo bimbang jo cinto denai Dalamnyo lauik den silami Tingginyo gunuang kan den daki

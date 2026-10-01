@@ -2,7 +2,7 @@
 title: "Rihon Meubura - Cut Rani Auliza Feat Mustafa Kamal"
 date: 2025-01-10
 categories: 
-  - "aceh"
+  - "Aceh"
 ---
 
 Rihon meubura keu ureung lon sayang Sabe teubayang han teungeut mata

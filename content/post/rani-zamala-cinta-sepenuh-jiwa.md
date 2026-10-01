@@ -2,7 +2,7 @@
 title: "Rani Zamala - Cinta Sepenuh Jiwa"
 date: 2025-08-03
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Kau yang selalu aku rindukan Yang selalu kucinta sepenuh jiwa Milikimu aku bahagia Serasa hidupku kini kian sempurna

@@ -2,7 +2,7 @@
 title: "Strike Trio - Na Seken Seken"
 date: 2025-07-17
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Tarsongon na marnipi au ito di hos ni ari i Tarbereng au ma ho ito padua-dua i Raphon si doli dongan parmeamanki Maleng-leng ate-ate di bagasan Alai dang boi tardok au Manang aha da ito

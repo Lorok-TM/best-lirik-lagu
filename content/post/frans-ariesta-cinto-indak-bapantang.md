@@ -2,7 +2,7 @@
 title: "Frans Ariesta - Cinto Indak Bapantang"
 date: 2025-11-24
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Kandak dihati bana nan dapek kini Nan dipintak ka tuhan nyato juo Dulu denai marindu Dulu denai ba angan Kini jo adiak denai basayang sayang

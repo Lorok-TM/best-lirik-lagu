@@ -2,7 +2,7 @@
 title: "Dini Kurnia Feat. Mufly Key - Kawin Kontrak"
 date: 2025-06-20
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 Duh adindaku sayang Paras cantik wajahmu yang ku kenang Tak akan hilang walau di negri sebrang Cintaku hanyalah yang adik yang ku sayang

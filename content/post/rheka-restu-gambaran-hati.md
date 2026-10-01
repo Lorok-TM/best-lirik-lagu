@@ -2,7 +2,7 @@
 title: "Rheka Restu - Gambaran Hati"
 date: 2023-03-26
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Lirik Lagu Melayu dengan judul Gambaran Hati yang dinyanyikan oleh Rheka Restu dan diciptakan oleh Adi Bugak dengan irama musik Pop.

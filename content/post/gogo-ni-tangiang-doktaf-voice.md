@@ -2,7 +2,7 @@
 title: "Gogo Ni Tangiang - D'Oktaf Voice"
 date: 2025-06-25
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Di na lao au marjalang tu na dao Holan tangiang do na boi hupangasahon Dohot marlapit poda ni ni natua-tuaki Gabe bohal di au tu parserahai

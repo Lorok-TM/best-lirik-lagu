@@ -2,7 +2,7 @@
 title: "Hailey - Enda Ngulang Agi"
 date: 2022-01-14
 categories: 
-  - "iban"
+  - "Iban"
 ---
 
 ## Lirik Lagu Iban ”Enda Ngulang Agi“ by Hailey

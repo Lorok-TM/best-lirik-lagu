@@ -2,7 +2,7 @@
 title: "Korban Perceraian - Salwa Pasya"
 date: 2025-01-10
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Korban Perceraian yang dibawakan oleh Salwa Pasya.

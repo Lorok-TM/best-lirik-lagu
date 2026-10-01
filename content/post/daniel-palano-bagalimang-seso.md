@@ -2,7 +2,7 @@
 title: "Daniel Palano - Bagalimang Seso"
 date: 2025-10-05
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Ndak di sasa Ranguik nyo badan Bialah nak dicubo si badan diri Rono lah hilang Indak babayang Gantiang banang dek baban ka untuak tali

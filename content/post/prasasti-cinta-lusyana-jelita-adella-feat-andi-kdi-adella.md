@@ -2,7 +2,7 @@
 title: "Prasasti Cinta - Lusyana Jelita Adella Feat. Andi KDI Adella"
 date: 2026-07-31
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Lagu "Prasasti Cinta" yang dibawakan oleh Lusyana Jelita bersama Andi KDI di bawah naungan OM Adella merupakan sebuah karya musik yang membawa narasi tentang komitmen absolut dan loyalitas tanpa batas dalam sebuah hubungan asmara. Secara filosofis, judul "Prasasti Cinta" mengeksplorasi konsep cinta sebagai sebuah dokumen sejarah atau monumen batu yang tidak akan tergerus oleh waktu, melambangkan janji setia yang bersifat permanen dan sakral. Berdasarkan liriknya, latar belakang cerita lagu ini menyoroti kesiapan sepasang kekasih untuk menghadapi ujian hidup ekstrem, bahkan hingga kesediaan mengorbankan nyawa demi mempertahankan kesucian hubungan mereka. Melalui aransemen dangdut yang dibawakan secara duet, karya ini tidak sekadar berfungsi sebagai hiburan romantis, melainkan sebuah refleksi mendalam mengenai fatalisme cinta, di mana eksistensi hidup dan mati seseorang sepenuhnya didekasikan kepada pasangannya.

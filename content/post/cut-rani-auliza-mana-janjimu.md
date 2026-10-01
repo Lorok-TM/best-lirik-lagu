@@ -2,7 +2,7 @@
 title: "Cut Rani Auliza - Mana Janjimu"
 date: 2023-10-15
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Cut Rani Auliza rilis single Indo berjudul "Mana Janjimu" yang diciptakan oleh Ziell Ferdian dengan irama musik Pop, menceritakan tentang seseorang yang merasa kecewa karena kekasihnya telah mengingkari janjinya.

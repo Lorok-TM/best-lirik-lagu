@@ -2,7 +2,7 @@
 title: "Ziell Ferdian - Bahagia Diatas Lukaku"
 date: 2023-09-08
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Teramat sakit saat ku tahu Kau buat cerita dengan dirinya Kurangnya apa aku padamu Coba engkau katakan

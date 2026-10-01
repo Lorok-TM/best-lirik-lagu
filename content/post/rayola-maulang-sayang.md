@@ -2,7 +2,7 @@
 title: "Rayola - Maulang Sayang"
 date: 2025-07-13
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Dulu kasiah barasiokan Guruah di hati hanyo bagumam sajo Tapi kini samo-samo manyatokan cinto Raso ka bapaliang ka maso nan lalu

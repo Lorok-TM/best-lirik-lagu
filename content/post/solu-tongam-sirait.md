@@ -2,7 +2,7 @@
 title: "Solu - Tongam Sirait"
 date: 2025-04-15
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Marluga au marsolu Alogo laho mambaor Atik pe sai tinogu Alogo purpur mangeahi Humursak aek i Humalusang tao i

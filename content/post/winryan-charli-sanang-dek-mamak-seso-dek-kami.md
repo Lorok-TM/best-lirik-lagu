@@ -2,7 +2,7 @@
 title: "Winryan Charli - Sanang Dek Mamak Seso Dek Kami"
 date: 2024-05-17
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Dihimbau himbau indak mnajawek Dicaliak pintu tatutuik rapek Dimano ayah dimano mande kanduang

@@ -2,7 +2,7 @@
 title: "Rocky Duha - Nomöi'ö Khönia"
 date: 2025-09-02
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 Öfendrua kali afatö dödögu nasa Öfatörö fönagu sino möi fangala Utaha dödö saukhu khögu me'u'ila U'alui lala ufosu masa falukha Bazi darua ita Bazi darua ita

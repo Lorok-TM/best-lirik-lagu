@@ -2,7 +2,7 @@
 title: "Tigo Mandayo - Ingek Dunia Kana Akhiraik"
 date: 2025-08-27
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Tantang hiduik jikok di baco Apo bana ka di ongehkan Angok basalang kudaraik basalang Aja sudah sampai bilangan

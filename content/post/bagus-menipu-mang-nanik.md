@@ -2,7 +2,7 @@
 title: "Bagus Menipu - Mang Nanik"
 date: 2024-09-27
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 Mule bagus sajan mua beline Kenyem ne manis nganyudang hati Gigi gingsul pipine sujenan Ngae keneh tiange melayang layang

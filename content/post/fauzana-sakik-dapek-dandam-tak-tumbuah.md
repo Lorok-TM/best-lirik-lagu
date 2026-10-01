@@ -2,7 +2,7 @@
 title: "Fauzana - Sakik Dapek Dandam Tak Tumbuah"
 date: 2023-07-06
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Den cubo malupokan Tapi takana juo Den hapuih bayang bayang Namun tak kunjuang hilang Sansai lah badan

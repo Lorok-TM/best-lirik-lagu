@@ -2,7 +2,7 @@
 title: "Gustrian Geno - Cinta Luar Biasa feat. Clara"
 date: 2025-11-27
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Jangan engkau ragukan Cinta yang aku punya Selam ini ku sayang tanpa ragu di dada Yang ku harap engkaupun demikian

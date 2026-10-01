@@ -2,7 +2,7 @@
 title: "Elsa Pitaloka - Salahku Apa"
 date: 2022-01-03
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Lirik Lagu Melayu dengan judul Salah Ku Apa yang dinyanyikan oleh Elsa Pitaloka dan diciptakan oleh Wahyu WHL dengan irama musik Pop.

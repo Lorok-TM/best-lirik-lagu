@@ -2,7 +2,7 @@
 title: "Kisah Singkat Nabi Muhammad - Nissa Sabyan"
 date: 2025-01-03
 categories: 
-  - "religi"
+  - "Religi"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Kisah Singkat Nabi Muhammad yang dibawakan oleh Nissa Sabyan.

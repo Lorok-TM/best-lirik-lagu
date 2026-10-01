@@ -2,7 +2,7 @@
 title: "Sodiq - Ramalan Joyoboyo dan Artinya"
 date: 2020-09-12
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 Title : Ramalan Joyoboyo Artist : Sodiq ft Sindy Purbaningsih Songwriter : Sodiq New Monata Category : Lagu Jawa

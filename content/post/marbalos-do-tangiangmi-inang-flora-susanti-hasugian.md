@@ -2,7 +2,7 @@
 title: "Marbalos Do Tangiangmi Inang - Flora Susanti Hasugian"
 date: 2025-06-18
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Sian na menek jot-jot do hutangihon Dainangi di bagas tangiang na Sude hami gelengna ganup marsada sada Dipasahat tu Tuhani

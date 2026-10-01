@@ -2,7 +2,7 @@
 title: "Yas Zalukhu - Ohe Ndra'o Humombo"
 date: 2026-06-20
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 

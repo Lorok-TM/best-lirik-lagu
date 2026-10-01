@@ -2,7 +2,7 @@
 title: "Eva Pratiwi - Rela dan Artinya"
 date: 2022-08-14
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 ## Lirik Lagu Bali ”Rela“ by Eva Pratiwi

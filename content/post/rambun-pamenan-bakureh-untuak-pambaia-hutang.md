@@ -2,7 +2,7 @@
 title: "Rambun Pamenan - Bakureh Untuak Pambaia Hutang"
 date: 2025-08-29
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Lah habih badan sabatang Bakureh untuak pambaia hutang Siang jo malam badan tagamang surang Antah bilo hiduik ka sanang

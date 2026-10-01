@@ -2,7 +2,7 @@
 title: "Nati Dok Nati - Adik Waniey"
 date: 2024-12-22
 categories: 
-  - "malaysia"
+  - "Malaysia"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Nati Dok Nati yang dibawakan oleh Adik Waniey.

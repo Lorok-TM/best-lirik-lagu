@@ -2,7 +2,7 @@
 title: "Duo Naimarata - Gokhon Dohot Jou Jou"
 date: 2023-03-24
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Lirik Lagu Batak dengan judul Gokhon Dohot Jou Jou yang dinyanyikan oleh Duo Naimarata dan diciptakan oleh Bunthora Situmorang dengan irama musik Pop.

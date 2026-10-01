@@ -2,7 +2,7 @@
 title: "Rayola feat Daniel Maestro - Denai Taseso Uda Taluko"
 date: 2022-09-02
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Title : Denai Taseso Uda Taluko Artist : Rayola ft Daniel Maestro Songwriter : Safril Saha Label : Koko Record Category : Lagu Pop Minang

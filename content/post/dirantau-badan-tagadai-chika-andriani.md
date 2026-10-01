@@ -2,7 +2,7 @@
 title: "Dirantau Badan Tagadai - Chika Andriani"
 date: 2025-02-07
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Dirantau Badan Tagadai yang dibawakan oleh Chika Andriani.

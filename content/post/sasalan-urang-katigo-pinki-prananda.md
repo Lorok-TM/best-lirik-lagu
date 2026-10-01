@@ -2,7 +2,7 @@
 title: "Sasalan Urang Katigo - Pinki Prananda"
 date: 2025-02-20
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Sasalan Urang Katigo yang dibawakan oleh Pinki Prananda.

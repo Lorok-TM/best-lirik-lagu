@@ -2,7 +2,7 @@
 title: "Fajar Halawa - Mama Sa'a Fangala"
 date: 2025-09-02
 categories: 
-  - "nias"
+  - "Nias"
 ---
 
 Nou degu-degu ba mböröta Alösi khöu pergaulan Tekiko mboto mauwu gafökha Faya khöu waa siga

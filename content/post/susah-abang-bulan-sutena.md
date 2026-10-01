@@ -2,7 +2,7 @@
 title: "Susah Abang - Bulan Sutena"
 date: 2026-07-25
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Dulu kau datang padaku Dan aku tau ada yang punya Ku tak mau engkau mendekati aku karena ku tak mau menyakitinya Tapi tetap saja kau pancarkan cahayamu kepadaku Kini aku mencintaimu abangku

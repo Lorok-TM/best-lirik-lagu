@@ -2,7 +2,7 @@
 title: "Ade Astrid - Stasion Bandung"
 date: 2024-05-13
 categories: 
-  - "sunda"
+  - "Sunda"
 ---
 
 **Lirik Stasion Bandung - Ade Astrid X Gerengseng Team**

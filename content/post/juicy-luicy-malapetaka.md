@@ -2,7 +2,7 @@
 title: "Juicy Luicy - Malapetaka"
 date: 2025-06-27
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Kemelut di dalam hati bertanya Katakan atau kusimpan baiknya Setimpalkah bila ku pertaruhkan semuanya Walau ku hafal di luar kepala Perangai mata sebibir-bibirnya Tapi tetap tak bisa ku membaca yang kau rasa Tentang kita

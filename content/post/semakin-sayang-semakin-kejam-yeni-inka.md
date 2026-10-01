@@ -2,7 +2,7 @@
 title: "Semakin Sayang Semakin Kejam - Yeni Inka"
 date: 2025-04-20
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Cukup, cukuplah Jangan menambah derita lagi Terlalu banyak jahitan luka Tak sanggup 'ku menahan sakit

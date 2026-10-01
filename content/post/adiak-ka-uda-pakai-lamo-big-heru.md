@@ -2,7 +2,7 @@
 title: "Adiak Ka Uda Pakai Lamo - Big Heru"
 date: 2025-06-04
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Maso indak ka babaliak diak Indak ka ba puta ulang Jan sado ka di camehkan Tanang tanangkan fikiran 2x

@@ -2,7 +2,7 @@
 title: "Silva Hayati - Dari Hati Tabuak Ka Jantuang"
 date: 2025-11-14
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Tapadiah raso dihati Mandanga gunjiang nan tibo Tahino badan di mato urang bajunjuangan uda

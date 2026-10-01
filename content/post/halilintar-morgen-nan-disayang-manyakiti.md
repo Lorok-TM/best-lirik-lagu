@@ -2,7 +2,7 @@
 title: "Halilintar Morgen - Nan Disayang Manyakiti"
 date: 2025-05-06
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Lai sasuai pintak nan di hati Harok sabimbiang jo adiak ka palaminan Kironyo denai alah malapeh hao Lah bajadi sajo adiak jo urang

@@ -2,7 +2,7 @@
 title: "Ashari Sitaba - Rannu"
 date: 2025-09-22
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Punna nia tu marannu Rannu tojeng rinyawana Inakke minne A’bunga bunga lalang nyawaku

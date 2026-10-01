@@ -2,7 +2,7 @@
 title: "Dinda - Bahagia Dalam Cinta"
 date: 2025-08-01
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Di dunia ini hanya kau yang ku sayangi Hati ku ini hanya kau yang memiliki Mencintaimu adalah hal yang terindah

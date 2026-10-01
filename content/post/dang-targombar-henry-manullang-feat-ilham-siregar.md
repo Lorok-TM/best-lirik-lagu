@@ -2,7 +2,7 @@
 title: "Dang Targombar - Henry Manullang Feat Ilham Siregar"
 date: 2025-06-07
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Dang targombar au Balga ni las ni rohakku Mago situtu do arsakki Di holongmi

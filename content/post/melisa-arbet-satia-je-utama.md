@@ -2,7 +2,7 @@
 title: "Melisa Arbet - Satia Je Utama"
 date: 2026-09-16
 categories: 
-  - "dayak"
+  - "Dayak"
 ---
 
 Dia haranan harta aku tuh cinta dengam Dia kemewahan aku tuh sayang dengam Je harap ku baya ketulusan

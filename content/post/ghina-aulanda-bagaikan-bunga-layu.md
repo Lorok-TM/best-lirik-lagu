@@ -2,7 +2,7 @@
 title: "Ghina Aulanda - Bagaikan Bunga Layu"
 date: 2022-10-26
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 Lirik Lagu Slow Rock Melayu dengan judul Bagaikan Bunga Layu yang dinyanyikan oleh Ghina Aulanda dan diciptakan oleh Harry Parintang. Situs ini tidak menyediakan chord dasar / kunci gitar lagu ini. Halaman ini hanya menuliskan syair / liriknya saja. Berikut dibawah ini lyrics lengkapnya. Semoga lagu ini dapat menghibur anda.

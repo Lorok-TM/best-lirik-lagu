@@ -2,7 +2,7 @@
 title: "Puspa Indah - Taragak"
 date: 2025-08-31
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Dag dig dug jantuang badatak Baguncang indak maagak Dirusuh hariu taragak Hinggo makan tak lamak

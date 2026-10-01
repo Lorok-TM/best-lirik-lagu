@@ -2,7 +2,7 @@
 title: "Lesti - Insan Biasa"
 date: 2023-03-15
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Lesti rilis single berjudul "Insan Biasa" yang diciptakan oleh Adibal Sahrul, menceritakan tentang seseorang yang rumah tangganya sempat retak namun kini mereka sudah bersatu kembali.

@@ -2,8 +2,8 @@
 title: "Tri Suaka ft. Nabila Maharani - Cinta Surga"
 date: 2023-03-21
 categories: 
-  - "indonesia"
-  - "religi"
+  - "Indo"
+  - "Religi"
 ---
 
 Tri Suaka & Nabila Maharani rilis single berjudul "Cinta Surga", menceritakan tentang ungkapkan rasa syukur seseorang yang telah menemukan pendamping hidup sesuai dengan apa yang di inginkan.

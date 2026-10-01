@@ -2,7 +2,7 @@
 title: "Cicie Omar - Ai Mata Maya Gawai"
 date: 2024-05-20
 categories: 
-  - "iban"
+  - "Iban"
 ---
 
 Nengkila ke jalai alun Ari pagi datai ke lemai Nganti munyi tawak ngalun Mai tinchin belulin besimpai

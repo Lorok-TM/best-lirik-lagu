@@ -2,7 +2,7 @@
 title: "Ziell Ferdian - Egomu Egoku"
 date: 2025-12-21
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Bukannya aku tak mengalah Di sini kucoba bersabar menghadapi dirimu Duhai kekasihku Ku mendiamkan bukan meninggalkan Hanya mencoba untuk bersabar Menghadapi dirimu yang selalu menyalahkanku

@@ -2,7 +2,7 @@
 title: "Dadali - Aku Tetap Setia"
 date: 2025-07-18
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Sakit hati yang kurasakan Setelah mengenal dirimu Kau tak berhenti khianatiku Mungkin ini sifat aslimu

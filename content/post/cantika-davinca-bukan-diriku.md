@@ -2,7 +2,7 @@
 title: "Cantika Davinca - Bukan Diriku"
 date: 2026-07-17
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Setelah kupahami aku bukan yang terbaik Yang ada di hatimu Tak dapat kusangsikan Ternyata dirinyalah yang mengerti kamu Bukanlah diriku

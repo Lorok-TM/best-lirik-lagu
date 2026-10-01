@@ -2,8 +2,7 @@
 title: "Laila Ayu - Ibu Bapak Iki Anakmu Sing Nakal"
 date: 2026-08-16
 categories: 
-  - "dangdut"
-  - "java"
+  - "Jawa"
 ---
 
 

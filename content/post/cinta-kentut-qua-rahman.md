@@ -2,7 +2,7 @@
 title: "Cinta Kentut - Qua Rahman"
 date: 2025-01-10
 categories: 
-  - "malaysia"
+  - "Malaysia"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Cinta Kentut yang dibawakan oleh Qua Rahman.

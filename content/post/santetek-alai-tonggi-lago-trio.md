@@ -2,7 +2,7 @@
 title: "Santetek Alai Tonggi - Lago Trio"
 date: 2025-04-05
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Na hansit hu taon do na uju i Dung borhat au tu parjalanganhi Hu ulahon do inang sude na podami Di parngoluanki inang siganup ari

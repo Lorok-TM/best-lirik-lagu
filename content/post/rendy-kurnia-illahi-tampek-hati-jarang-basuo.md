@@ -2,7 +2,7 @@
 title: "Rendy Kurnia Illahi - Tampek Hati Jarang Basuo"
 date: 2025-09-06
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Ka padang panjang jalan manurun Jalan manurun Badoroh kasiak denai pijakkan Denai pijakkan badoroh kasiak denai pijakkan

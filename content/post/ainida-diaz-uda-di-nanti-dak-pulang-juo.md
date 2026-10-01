@@ -2,7 +2,7 @@
 title: "Ainida Diaz - Uda Di Nanti Dak Pulang Juo"
 date: 2025-09-02
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Ditampi bareh ditampi Ditampi ba dadak juo Dinanti uda dinanti Tapi indak pulang juo

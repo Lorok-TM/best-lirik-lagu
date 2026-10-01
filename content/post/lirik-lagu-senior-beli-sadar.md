@@ -2,7 +2,7 @@
 title: "Senior - Beli Sadar"
 date: 2021-09-12
 categories: 
-  - "balinese"
+  - "Bali"
 ---
 
 Title : Beli Sadar Artist : Senior Songwriter : Dewa Mayura Label : Aneka Record Category : Lagu Bali

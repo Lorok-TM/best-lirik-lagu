@@ -2,7 +2,7 @@
 title: "Ody Malik - Bakureh Mangko Kamakan"
 date: 2025-10-08
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Dingin dingin dingin malam ko dingin Hanyo basalimuik kain usang Manggigia sakujua badan Tabayang anak tabayang anak sadang bajalan

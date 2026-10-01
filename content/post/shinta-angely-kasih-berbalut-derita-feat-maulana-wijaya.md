@@ -2,7 +2,7 @@
 title: "Shinta Angely - Kasih Berbalut Derita feat. Maulana Wijaya"
 date: 2025-09-07
 categories: 
-  - "slow-rock"
+  - "Slow Rock"
 ---
 
 Berulang kali diriku meminta Dirimu jangan berobah Semakin dalam perasaan ini Semakin kau menjauh Pergi dariku

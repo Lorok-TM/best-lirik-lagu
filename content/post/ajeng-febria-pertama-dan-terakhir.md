@@ -2,7 +2,7 @@
 title: "Ajeng Febria - Pertama Dan Terakhir"
 date: 2026-07-16
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Ku coba pejamkan mata ini Agarku temui bayangmu Begitu rindunya hatiku Padamu kekasih

@@ -2,7 +2,7 @@
 title: "Aishiteru 2 - Silvy Kumalasari"
 date: 2026-07-19
 categories: 
-  - "dangdut"
+  - "Dangdut"
 ---
 
 Bila cinta tak terbalas Janji hanya tinggal janji Sakit hati yang ku rasa

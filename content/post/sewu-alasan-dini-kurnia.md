@@ -2,7 +2,7 @@
 title: "Sewu Alasan - Dini Kurnia"
 date: 2026-07-06
 categories: 
-  - "osing"
+  - "Osing"
 ---
 
 

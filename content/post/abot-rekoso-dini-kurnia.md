@@ -2,7 +2,7 @@
 title: "Abot Rekoso - Dini Kurnia"
 date: 2024-09-05
 categories: 
-  - "java"
+  - "Jawa"
 ---
 
 Kesel awakku nong saben wengi Mupoyo kerjo kanggo dirimu Tak tutup tutupi ben we ra ngerti Mok satru wae aku mung nrimani

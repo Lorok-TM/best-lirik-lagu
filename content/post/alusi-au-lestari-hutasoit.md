@@ -2,7 +2,7 @@
 title: "Alusi Au - Lestari Hutasoit"
 date: 2025-03-12
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Alusi Au yang dibawakan oleh Lestari Hutasoit.

@@ -2,7 +2,7 @@
 title: "Bunga Kemboja - Iman Troye"
 date: 2024-08-03
 categories: 
-  - "malaysia"
+  - "Malaysia"
 ---
 
 Sinar mencari memancar Terkena pipiku Waktu berlalu begitu saja Malam nanti rindu

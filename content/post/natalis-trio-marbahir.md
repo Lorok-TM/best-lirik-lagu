@@ -2,7 +2,7 @@
 title: "Natalis Trio - Marbahir"
 date: 2025-08-30
 categories: 
-  - "batak"
+  - "Batak"
 ---
 
 Leleng au tarpaima ima Harorom ditikki i hasian Gabe managam sisoada ma au Dipadan i

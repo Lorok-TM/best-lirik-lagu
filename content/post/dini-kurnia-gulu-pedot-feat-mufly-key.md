@@ -2,7 +2,7 @@
 title: "Dini Kurnia - Gulu Pedot feat. Mufly Key"
 date: 2025-07-05
 categories: 
-  - "osing"
+  - "Osing"
 ---
 
 Dudu watu hang d arani pasir Watu kambang keli ono ring pinggir Buru ketemu awak langsung naksir Gelibegan koyo kelangan pikir

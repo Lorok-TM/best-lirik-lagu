@@ -2,7 +2,7 @@
 title: "Sheryl Sheinafia - Nikmatilah"
 date: 2026-09-04
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Buka mata pagi buta kumpul nyawa ulangi lagi Lagi dan lagi Kanan kiri tanpa henti ku berlari Lampu jalanan menjadi saksi Jaga detak jantung tetap tenang dan atur nafas meski lelah

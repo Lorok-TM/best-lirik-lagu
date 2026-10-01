@@ -2,7 +2,7 @@
 title: "Rahma Rahmi - Sendiri Menahan Sakit"
 date: 2025-09-06
 categories: 
-  - "indonesia"
+  - "Indo"
 ---
 
 Bertahun lama aku coba bertahan Namun kini akhirnya aku menyerah Tak sanggup ku terima Luka bathinku makin tersiksa

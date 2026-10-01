@@ -2,7 +2,7 @@
 title: "Terminal ALS - Yenti Morta"
 date: 2025-05-15
 categories: 
-  - "tapsel"
+  - "Tapsel"
 ---
 
 Di terminal als medan jakarta Disima marsarak hita nadua Inda taraso manetek ilu ni mata Lao pabuatkon haholongan ni roha Di terminal als medan jakarta Disima marsarak hita nadua

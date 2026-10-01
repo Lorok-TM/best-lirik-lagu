@@ -2,7 +2,7 @@
 title: "Jung Jung Inai - Iman Troye, Asslahierah & XO House"
 date: 2026-09-02
 categories: 
-  - "malaysia"
+  - "Malaysia"
 ---
 
 Verse Siapa menuai Hasil serupa ditanam Leka terbuai Pasti terlupa semalam

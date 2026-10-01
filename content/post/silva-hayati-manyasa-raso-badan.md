@@ -2,7 +2,7 @@
 title: "Silva Hayati - Manyasa Raso Badan"
 date: 2025-04-25
 categories: 
-  - "minang"
+  - "Minang"
 ---
 
 Dek sabana baharok Taubek luko lamo Uda denai tarimo Ka ganti nan lah pai Kok lai ka sanang diri Kawan denai jauahi

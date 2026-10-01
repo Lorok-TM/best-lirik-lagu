@@ -2,7 +2,7 @@
 title: "Masih Rasa Yang Sama - Aprilian Feat. Fany Zee"
 date: 2024-06-06
 categories: 
-  - "melayu"
+  - "Melayu"
 ---
 
 aku masih disini menantimu kembali tak pernah niat tuk mencari pengganti dirimu sayang yang pernah menenami di kala sedih dan tawa walau tak lagi bersama ku masih setia di hati yang sama
