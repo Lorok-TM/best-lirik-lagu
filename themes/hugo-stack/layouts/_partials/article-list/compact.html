@@ -1,4 +1,4 @@
-<li><h3 class="entry-title"><a href="{{ .RelPermalink }}">
+<li><div class="entry-title"><a href="{{ .RelPermalink }}">
 
 {{- if and (eq .Type "author") -}}
 {{ .Title }}
@@ -10,7 +10,7 @@
 Lirik Lagu {{ .Title }}
 {{- end -}}
 
-</a></h3>
+</a></div>
             
             {{- $description := .Params.description -}}
             {{- $IsTerm := in .Kind "term" -}}
