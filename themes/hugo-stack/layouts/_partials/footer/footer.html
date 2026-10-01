@@ -14,6 +14,9 @@ var gtm=document.createElement("script");gtm.defer = true;gtm.type="text/javascr
 var gtag=document.createElement("script");gtag.defer = true;gtag.type="text/javascript";gtag.src="https://www.googletagmanager.com/gtag/js?id=G-GRQX8Z5L3R";document.head.appendChild(gtag);            
 var adsb=document.createElement("script");adsb.defer = true;adsb.type="text/javascript";adsb.src="//friedleastarena.com/db/06/ee/db06ee506cabd72a5cfc678b979cb8ee.js";document.head.appendChild(adsb);
 var script = document.createElement('script');script.src = 'http' + (location.protocol === 'https:' ? 's' : '') + '://friedleastarena.com/7607678f9aa53b7eec49c711faa429bb/invoke.js';document.getElementsByClassName('ads-sidebar')[0].appendChild(script);
+{{- if and .IsHome (eq .Paginator.PageNumber 1) -}}
+var yt = document.createElement('div');yt.setAttribute('class','youtube-player');yt.innerHTML = '<iframe src="https://www.youtube.com/embed/hkCZ9zo_V1I" title="Funkot Palembang - Apa Artinya Cinta New 2026 By Dj Almira Berto"></iframe>';document.getElementsByClassName('ast-row')[0].appendChild(yt);
+{{- end -}}
 console.log("Script munyuk Aktif!");};['mousemove', 'mousedown', 'touchstart', 'scroll'].forEach(event => {window.addEventListener(event, munyuk, { passive: true });});
 if (typeof atAsyncOptions !== 'object') var atAsyncOptions = [];atAsyncOptions.push({'key': '7607678f9aa53b7eec49c711faa429bb','format': 'js','container': 'atContainer-7607678f9aa53b7eec49c711faa429bb','params' : {}});
 </script>
