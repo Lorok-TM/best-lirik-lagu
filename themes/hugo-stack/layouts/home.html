@@ -2,14 +2,10 @@
 {{- $paginator := partial "helper/paginator.html" . -}}
 
 <div class="ast-row">
-{{- /* ========================================================= */ -}}
 {{- /* 1. INITIALISASI PAGINATOR UTAMA (DIENGGO HALAMAN 2 SATERUSE) */ -}}
-{{- /* ========================================================= */ -}}
 {{- $all_posts := (where .Site.RegularPages "Section" "post").ByDate.Reverse -}}
 {{- $paginator := .Paginate $all_posts 10 }}
-{{- /* ========================================================= */ -}}
-{{- /* 2. BAGIAN FEATURED (MUNG TAMPIL MURNI ING HALAMAN 1)       */ -}}
-{{- /* ========================================================= */ -}}
+{{- /* 2. BAGIAN FEATURED (MUNG TAMPIL MURNI ING HALAMAN 1) */ -}}
 {{- if eq $paginator.PageNumber 1 -}}
 {{- $featured_posts := where (where .Site.RegularPages "Section" "post") ".Params.featured" true | first 6  -}}
 {{- if gt (len $featured_posts) 0 -}}
@@ -21,9 +17,7 @@
 {{- end -}}
 {{- end -}}
 
-{{- /* ========================================================= */ -}}
 {{- /* 3. BAGIAN RECENT / POSTINGAN BIASA (KOMBISANI COCOK KAREPMU) */ -}}
-{{- /* ========================================================= */ -}}
 <div class="recent">
 {{- /* JALUR HALAMAN 1 (NGANGGO KODEMU SING WIS JELAS AMPUH FILTER LAN LIMITE) */ -}}
 {{- if eq $paginator.PageNumber 1 -}}
@@ -46,27 +40,9 @@
 {{- end -}}
 </div>
 
-{{- /* ========================================================= */ -}}
-{{- /* 4. NAVIGASI PAGINATION THEMA-MU                            */ -}}
-{{- /* ========================================================= */ -}}
+{{- /* 4. NAVIGASI PAGINATION THEMA-MU */ -}}
 {{- if gt $paginator.TotalPages 1 -}}
 {{- partial "pagination.html" . -}}
 {{- end -}}
-
-{{- /*
-{{ range $index, $element := $paginator.Pages }}
-{{ partial "article-list/default" . }}
-{{- end -}}
-*/ -}}
-
 </div>
-
-{{- /*
-{{- partial "pagination.html" . -}}
-*/ -}}
-
-{{- end -}}
-
-{{- define "right-sidebar" -}}
-{{- partial "sidebar/right.html" (dict "Context" . "Scope" "homepage") -}}
 {{- end -}}
