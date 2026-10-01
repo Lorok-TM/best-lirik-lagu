@@ -1,10 +1,5 @@
 {{- define "body-class" -}}
     article-page
-{{- /* 
-        Enable the right sidebar if
-            - Widget different from 'TOC' is enabled
-            - TOC is enabled and not empty
-*/ -}}
     {{- $HasWidgetNotTOC := false -}}
     {{- $TOCWidgetEnabled := false -}}
     {{- range .Site.Params.widgets.page -}}
@@ -33,17 +28,10 @@
 {{- if eq .Section "post" -}}
 {{- partial "article/components/navigation.html" . -}}
 {{- end -}}
-    
-{{- /* AKU RA BUTUH KOWE LEK ............
-    {{- if not (eq .Params.comments false) -}}
-        {{- partial "comments/include" . -}}
-    {{- end -}}
-................................... */ -}}
-
-{{- /* partialCached "article/components/photoswipe" . */ -}}
-{{- /* partial "article/components/mermaid" . */ -}}
 {{- end -}}
 
+{{- /* 
 {{- define "right-sidebar" -}}
 {{- if .Scratch.Get "hasWidget" }}{{ partial "sidebar/right.html" (dict "Context" . "Scope" "page") -}}{{- end -}}
 {{- end -}}
+ */ -}}
