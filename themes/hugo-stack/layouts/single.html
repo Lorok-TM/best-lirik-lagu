@@ -20,18 +20,9 @@
 {{- define "main" -}}
 {{- partial "breadcrumbs.html" . -}}
 {{- partial "article/article.html" . -}}
-{{- if .Params.links -}}
-{{- partial "article/components/links" . -}}
-{{- end -}}
 {{ partial "article/components/related-content" . }}
 {{- /* KIYE KODE SING DISISIPKE */ -}}
 {{- if eq .Section "post" -}}
 {{- partial "article/components/navigation.html" . -}}
 {{- end -}}
 {{- end -}}
-
-{{- /* 
-{{- define "right-sidebar" -}}
-{{- if .Scratch.Get "hasWidget" }}{{ partial "sidebar/right.html" (dict "Context" . "Scope" "page") -}}{{- end -}}
-{{- end -}}
- */ -}}
