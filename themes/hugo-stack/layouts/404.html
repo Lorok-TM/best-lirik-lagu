@@ -1,14 +1,3 @@
 {{- define "main" -}}
 <div class="not-found"><h2 class="page-title">{{ T "notFound.title" }}</h2><div class="subtitle">{{ T "notFound.subtitle" }}</div>
-
-{{- $query := first 1 (where .Site.Pages "Layout" "==" "search") -}}
-{{- $searchPage := index $query 0 -}}
-
-{{- with $searchPage -}}
-<form action="{{ $searchPage.RelPermalink }}" class="search-form widget" {{ with .OutputFormats.Get "json" -}}data-json="{{ .RelPermalink }}" {{- end }}><label for="searchInput" class="visually-hidden">{{ T "search.title" }}</label><input id="searchInput" name="keyword" required placeholder="{{ T `search.placeholder` }}"><button>{{ T `search.title` }}</button></form><div class="search-result"><div class="search-result--title section-title"></div><div class="search-result--list article-list--compact"></div></div><script>window.searchResultTitleTemplate = "{{ T `search.resultTitle` }}"</script></div>
-
-{{- $opts := dict "minify" hugo.IsProduction "JSXFactory" "createElement" -}}
-{{- $searchScript := resources.Get "ts/search.tsx" | js.Build $opts -}}
-<script src="{{ $searchScript.RelPermalink }}" defer></script><script>const wrongUrl = new URL(window.location.href);const searchKeyword = decodeURIComponent(wrongUrl.pathname).split(/[/|-]/).join(' ').trim();document.getElementById('searchInput').setAttribute('value', searchKeyword);</script>
-{{- end -}}
 {{- end -}}
