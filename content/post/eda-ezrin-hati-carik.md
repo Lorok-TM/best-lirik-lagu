@@ -2,7 +2,7 @@
 title: "Eda Ezrin - Hati Carik"
 date: 2025-04-29
 categories: 
-  - "kelate"
+  - "Kelate"
 ---
 
 Sakit gigi buleh tehey ork lagi.. Buleh cari ubat nok wi bereti.. Luko hati takdok ubat farmasi.. Hanyo Tuhey lebih mengerti..

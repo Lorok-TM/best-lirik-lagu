@@ -2,7 +2,7 @@
 title: "Aviwkila - Juni dan Terjemahan"
 date: 2021-06-07
 categories: 
-  - "manca"
+  - "Manca"
 ---
 
 **Lyrics Juni (You Will Always Gonna Be My Love) - Aviwkila**

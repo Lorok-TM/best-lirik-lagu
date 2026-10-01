@@ -2,7 +2,7 @@
 title: "Septiano Papu feat. Angelina Keytimu - Tedeng Len"
 date: 2025-05-21
 categories: 
-  - "manggarai"
+  - "Manggarai"
 ---
 
 Verse : Nara.. senget tura ge.. Tura.. wali de’a ge.. Latang sangger.. ata poli.. Tiba daku ta.. one momang mo.. Kamping aku’m ta..

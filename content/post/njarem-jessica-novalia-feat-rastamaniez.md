@@ -2,7 +2,7 @@
 title: "Njarem - Jessica Novalia Feat Rastamaniez"
 date: 2025-02-27
 categories: 
-  - "reggae"
+  - "Reggae"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Njarem yang dibawakan oleh Jessica Novalia Ft Rastamaniez.

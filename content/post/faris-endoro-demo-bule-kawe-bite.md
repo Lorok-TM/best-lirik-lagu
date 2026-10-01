@@ -2,7 +2,7 @@
 title: "Faris Endoro - Demo Bule Kawe Bite"
 date: 2025-05-06
 categories: 
-  - "kelate"
+  - "Kelate"
 ---
 
 Bila tengok demo kawe raso kene Comenyo anok sapo buje ko milik ore Suko hati raso kalu buleh gewe Come parah rupo seindoh bule bite

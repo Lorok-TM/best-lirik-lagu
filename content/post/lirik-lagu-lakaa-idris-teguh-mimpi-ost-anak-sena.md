@@ -2,7 +2,7 @@
 title: "Lakaa Idris - Teguh Mimpi (OST Anak Sena)"
 date: 2021-08-26
 categories: 
-  - "ost"
+  - "OST"
 ---
 
 **Lirik Teguh Mimpi - Lakaa Idris**

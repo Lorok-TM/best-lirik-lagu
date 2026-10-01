@@ -3,7 +3,7 @@ title: "SKA 86 - Aku Lan Kamu Nduwe History dan Artinya"
 date: 2023-05-01
 categories: 
   - "Jawa"
-  - "reggae"
+  - "Reggae"
 ---
 
 SKA 86 rilis single dengan lirik dalam bahasa Jawa berjudul "Aku Lan Kamu Nduwe History" yang artinya "Aku Dan Kamu Punya History", untuk mengetahui maknanya silahkan Anda baca terjemahan lirik lagunya berada dibawah.

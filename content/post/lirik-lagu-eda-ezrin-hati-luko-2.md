@@ -2,7 +2,7 @@
 title: "Eda Ezrin - Hati Luko 2"
 date: 2022-01-27
 categories: 
-  - "other-music"
+  - "Other Music"
 ---
 
 ## Lirik Lagu Hati Luko 2 by Eda Ezrin

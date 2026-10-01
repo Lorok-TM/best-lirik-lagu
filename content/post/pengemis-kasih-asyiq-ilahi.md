@@ -2,7 +2,7 @@
 title: "Pengemis Kasih - Asyiq Ilahi"
 date: 2025-03-03
 categories: 
-  - "kelate"
+  - "Kelate"
 ---
 
 **BESTLIRIKLAGU.COM** - Berikut adalah paparan mengenai lirik Pengemis Kasih yang dibawakan oleh Asyiq Ilahi.

@@ -2,7 +2,7 @@
 title: "Eda Ezrin - Kerna Terlajok Kasih"
 date: 2025-09-03
 categories: 
-  - "kelate"
+  - "Kelate"
 ---
 
 Di tepi laut biru Di bowoh sinar buley Hati ku raso saru Serabutnyo pikirey

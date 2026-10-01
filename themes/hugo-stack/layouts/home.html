@@ -6,7 +6,7 @@
 {{- /* 1. INITIALISASI PAGINATOR UTAMA (DIENGGO HALAMAN 2 SATERUSE) */ -}}
 {{- /* ========================================================= */ -}}
 {{- $all_posts := (where .Site.RegularPages "Section" "post").ByDate.Reverse -}}
-{{- $paginator := .Paginate $all_posts 6 }}
+{{- $paginator := .Paginate $all_posts 10 }}
 {{- /* ========================================================= */ -}}
 {{- /* 2. BAGIAN FEATURED (MUNG TAMPIL MURNI ING HALAMAN 1)       */ -}}
 {{- /* ========================================================= */ -}}
@@ -29,7 +29,7 @@
 {{- if eq $paginator.PageNumber 1 -}}
 <h2>Postingan Terbaru</h2> 
 {{- $regular_posts := where $all_posts ".Params.featured" "!=" true -}}
-{{- $limit_posts := first 6 $regular_posts -}}
+{{- $limit_posts := first 10 $regular_posts -}}
 <ul>
 {{- range $limit_posts -}}
 <li><a href="{{ .Permalink }}">Lirik Lagu {{ .Title }}</a><span class="date">{{ .Date.Format "02 Jan 2006" }}</span></li>

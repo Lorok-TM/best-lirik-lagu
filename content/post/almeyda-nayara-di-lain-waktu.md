@@ -3,7 +3,7 @@ title: "Almeyda Nayara - Di Lain Waktu (OST Diary Putih Biru Season 2)"
 date: 2022-04-03
 categories: 
   - "Indo"
-  - "ost"
+  - "OST"
 ---
 
 ## Lirik Lagu “Dilain Waktu”  by Almeyda Nayara
