@@ -172,7 +172,7 @@ body{background-color:var(--bg-basic-node)}
 {{- block "main" . -}}
 {{- end -}}
 </div><div class='secondary'>
-{{- if and .IsPage (ne .Section "page") (ne .Section "archives") -}}
+{{- if and .IsPage (ne .Type "archives") -}}
 {{/*  SIDEBAR FEATURED - ANTI SELF-LINK & TETEP UTUH TAMPIL 10   */ -}}
 {{/* Jupuk kabeh postingan featured nanging langsung SAKALIGUS NGE-SKIP artikel sing lagi dibukak nganggo .Permalink */ -}}
 {{- $filtered_featured := where (where .Site.RegularPages "Section" "post") "Permalink" "ne" .Permalink -}}
