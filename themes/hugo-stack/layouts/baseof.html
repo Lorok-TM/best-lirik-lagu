@@ -121,7 +121,7 @@ blockquote{margin:24px 0;padding:15px;background-color:var(--gray-1);border-radi
 {{- end -}}
 
 {{- /* KONDISI MULTIPLE POST===DUDU SINGLE PAGE */ -}}
-{{- if and .Page.IsBranch (eq .Section "archive") -}}
+{{- if or .Page.IsBranch (eq .Section "archives") -}}
 body{background-color:var(--bg-basic-node)}
 .pagination{margin:24px 0;display:flex;background-color:var(--gray-2);border-radius:8px;overflow:hidden}
 .pagination .page-link{padding:10px;margin:0;border:0;background:rgb(240 249 255/.5);font:inherit;border-radius:0;display:flex;align-items:center;justify-content:center;flex:auto;min-width:36px;text-decoration:none}
