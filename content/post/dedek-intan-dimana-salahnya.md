@@ -3,7 +3,7 @@ author: Katrok
 title: "Dedek Intan - Dimana Salahnya"
 date: 2026-09-30T11:32:00Z
 slug: dedek-intan-dimana-salahnya
-featured: false
+featured: true
 draft: false
 categories: 
   - "Melayu"
