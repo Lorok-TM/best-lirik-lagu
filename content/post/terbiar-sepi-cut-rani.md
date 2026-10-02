@@ -3,7 +3,7 @@ author: Katrok
 title: "Terbiar Sepi - Cut Rani"
 date: 2026-09-30T11:10:00Z
 slug: terbiar-sepi-cut-rani
-featured: false
+featured: true
 draft: false
 categories: 
   - "Melayu"
