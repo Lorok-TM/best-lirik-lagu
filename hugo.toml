@@ -18,6 +18,11 @@ disableHugoGeneratorInject = true
   weight = 20
 
 [[menu.main]]
+  name = "Category"
+  pageRef = "/categories/"
+  weight = 20
+
+[[menu.main]]
   name = "Pages"
   pageRef = "/page/"
   weight = 20
@@ -28,9 +33,9 @@ disableHugoGeneratorInject = true
   weight = 20
 
 [[menu.main]]
-  name = "Category"
-  pageRef = "/categories/"
-  weight = 20
+  name = "Archive"
+  pageRef = "/archives/"
+  weight = 50
 
 [related]
   includeNewer = false
