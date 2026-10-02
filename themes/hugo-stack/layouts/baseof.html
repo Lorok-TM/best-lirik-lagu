@@ -173,10 +173,10 @@ body{background-color:var(--bg-basic-node)}
 {{- end -}}
 </div><div class='secondary'>
 {{- if and .IsPage (ne .Section "page") -}}
-{{/*  SIDEBAR FEATURED - ANTI SELF-LINK & TETEP UTUH TAMPIL 5   */ -}}
+{{/*  SIDEBAR FEATURED - ANTI SELF-LINK & TETEP UTUH TAMPIL 10   */ -}}
 {{/* Jupuk kabeh postingan featured nanging langsung SAKALIGUS NGE-SKIP artikel sing lagi dibukak nganggo .Permalink */ -}}
 {{- $filtered_featured := where (where .Site.RegularPages "Section" "post") "Permalink" "ne" .Permalink -}}
-{{- $sidebar_featured := where $filtered_featured ".Params.featured" true | first 5 -}}
+{{- $sidebar_featured := where $filtered_featured ".Params.featured" true | first 10 -}}
 {{- /* Cek yen pancen ana isine seko sisa cadangan, nembe HTML-e ketok */ -}}
 {{- if gt (len $sidebar_featured) 0 -}}
 <div class="featured-posts"><h2>Featured Lyrics Songs</h2><ul>
