@@ -3,7 +3,7 @@ author: Katrok
 title: "Salah Indak Ka Di Ulang - Indah Delvia Feat. Aprilian"
 date: 2026-09-26T09:08:00Z
 slug: salah-indak-ka-di-ulang-indah-delvia-feat-aprilian
-featured: false
+featured: true
 draft: false
 categories: 
   - "Minang"
