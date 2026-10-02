@@ -1,3 +1,4 @@
+{{- /*
 {{- $query := first 1 (where .Context.Site.Pages "Layout" "==" "search") -}}
 {{- if $query -}}
     {{- $searchPage := index $query 0 -}}
@@ -14,3 +15,4 @@
 {{- else -}}
     {{- warnf "Search page not found. Create a page with layout: search." -}}
 {{- end -}}
+*/ -}}
