@@ -5,6 +5,8 @@
 <meta name="twitter:title" {{ printf "content=\"%s - Gudang Lyrics Terlengkap dan Terbaru\"" $title | safeHTMLAttr }}>
 {{- else if and .IsPage (strings.HasSuffix .RelPermalink "/author/katrok/") -}}
 <meta name="twitter:title" {{ printf "content=\"Author Name: %s - %s\"" $title .Site.Title | safeHTMLAttr }}>
+{{- else if eq .Layout "archives" -}}
+<meta name="twitter:title" {{ printf "content=\"%s - %s\"" $title .Site.Title | safeHTMLAttr }}>
 {{- else if and .IsPage (ne .Section "page") -}}
 <meta name="twitter:title" {{ printf "content=\"Lirik Lagu %s\"" ($title | plainify | replaceRE "\n" " " | replaceRE "\r" " ") | safeHTMLAttr }}>
 {{- else if eq .Kind "taxonomy" -}}
