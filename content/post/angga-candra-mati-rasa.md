@@ -3,7 +3,7 @@ author: Katrok
 title: "Angga Candra - Mati Rasa"
 date: 2026-09-28T16:54:00Z
 slug: angga-candra-mati-rasa
-featured: false
+featured: true
 draft: false
 categories: 
   - "Indo"
