@@ -7,7 +7,7 @@
 {{- else if and .IsPage (strings.HasSuffix .RelPermalink "/author/katrok/") -}}
 Author Name: {{ $title }} - {{ .Site.Title }}
 {{- else if eq .Layout "archives" -}}
-{{ $title }}  
+{{ $title }} - {{ .Site.Title }} 
 {{- else if and .IsPage (ne .Section "page") -}}
 Lirik Lagu {{ $title }}
 {{- else if and .IsPage (eq .Section "page") -}}
