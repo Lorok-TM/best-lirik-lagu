@@ -3,45 +3,43 @@ author: Katrok
 title: "Fauzana - Padiah Bana"
 date: 2026-09-30T19:49:00Z
 slug: fauzana-padiah-bana
-featured: false
+featured: true
 draft: false
 categories: 
   - "Minang"
 ---
 
-Dari mano datang nyo (dari mana datangnya)  
-Uda kok tibo disiko (Kamu kok ada disini)  
-Sadari tadi denai pandangi (sedari tadi aku pandangi)  
-Uda tambah manih sajo (kamu tambah manis aja)
+Dari mano datang nyo  
+Uda kok tibo di siko  
+Sadari tadi denai pandangi  
+Uda tambah manih sajo
 
-Antahlah dari mano (entahlah darimana)  
-Denai da kamamulainyo (Aku memulai nya)  
-Bakandak bana hati di dado (ingin dari hati)  
-Uda jadi nan di cinto (Kamu jadi yang kucintai)
+Antahlah dari mano  
+Denai da kamamulainyo  
+Bakandak bana hati di dado  
+Uda jadi nan dicinto
 
-Reff…  
-Padiah bana gaya uda (Keren banget gaya kamu)  
-Sungguah denai tapadayo (sungguh aku terpedaya)  
-Sabalun dapek manyapo (Sebelum aku menyapa)  
-Alun sanang hati denai rasonyo (Rasanya belum senang)
+Padiah bana gaya uda  
+Sungguah denai tapadayo  
+Sabalun dapek manyapo  
+Alun sanang hati denai rasonyo
 
-Mantiak bana mato uda (genit banget mata kamu)  
-Pandang pandang suduik mato (Pandang-pandang sudut mata)  
-Malayang rasonyo badan (melayang rasanya badan)  
-Dek di pandang jo pandangan cinto (Karena dipandang dengan pandangan cinta)
+Mantiak bana mato uda  
+Pandang pandang suduik mato  
+Malayang rasonyo badan  
+Dek dipandang jo pandangan cinto
 
-Antahlah dari mano (entahlah darimana)  
-Denai da kamamulainyo (Aku memulai nya)  
-Bakandak bana hati di dado (ingin dari hati)  
-Uda jadi nan di cinto (Kamu jadi yang kucintai)
+Antahlah dari mano  
+Denai da kamamulainyo  
+Bakandak bana hati di dado  
+Uda jadi nan dicinto
 
-Back to reff…  
-Padiah bana gaya uda (Keren banget gaya kamu)  
-Sungguah denai tapadayo (sungguh aku terpedaya)  
-Sabalun dapek manyapo (Sebelum aku menyapa)  
-Alun sanang hati denai rasonyo (Rasanya belum senang)
+Padiah bana gaya uda  
+Sungguah denai tapadayo  
+Sabalun dapek manyapo  
+Alun sanang hati denai rasonyo
 
-Mantiak bana mato uda (genit banget mata kamu)  
-Pandang pandang suduik mato (Pandang-pandang sudut mata)  
-Malayang rasonyo badan (melayang rasanya badan)  
-Dek di pandang jo pandangan cinto (Karena dipandang dengan pandangan cinta)
+Mantiak bana mato uda  
+Pandang pandang suduik mato  
+Malayang rasonyo badan  
+Dek dipandang jo pandangan cinto
