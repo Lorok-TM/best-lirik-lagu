@@ -1,7 +1,7 @@
 {
   "redirects": [
     {
-      "source": "/((?!$|(?:.*\\.(?:js|css|png|jpg|jpeg|gif|ico|svg|woff|woff2|ttf|json|xml))$)).*",
+      "source": "/:path*",
       "destination": "/",
       "statusCode": 301
     }
