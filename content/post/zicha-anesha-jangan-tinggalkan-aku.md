@@ -3,7 +3,7 @@ author: Katrok
 title: "Zicha Anesha - Jangan Tinggalkan Aku"
 date: 2026-09-30T11:28:00Z
 slug: zicha-anesha-jangan-tinggalkan-aku
-featured: false
+featured: true
 draft: false
 categories: 
   - "Melayu"
