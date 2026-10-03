@@ -25,7 +25,7 @@
 {{- end -}}
 {{- else -}}
 {{- /* --- 3. KONDISI LIST (HOMEPAGE / ARCHIVE / TAXONOMY) --- */ -}}
-    <h2 class="entry-title" itemprop="headline"><a href="{{ $Page.RelPermalink }}" rel="bookmark">Lirik Lagu {{ $Page.Title }}</a></h2>
+<h2 class="entry-title" itemprop="headline"><a href="{{ $Page.RelPermalink }}" rel="bookmark">Lirik Lagu {{ $Page.Title }}</a></h2>
 {{- end -}}
 
 {{- if or $IsList (eq $Page.Section "post") -}}
