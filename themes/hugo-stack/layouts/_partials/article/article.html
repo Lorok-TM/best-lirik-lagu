@@ -1,21 +1,3 @@
-<div class="hero-wrapper-single">
-  {{- $title := partialCached "data/title" . .RelPermalink -}}
-  {{- $siteName := .Site.Title -}}
-
-  <img 
-    src="https://ogify.vercel.app/api/og?title={{ $title | urlquery }}&theme=dark" 
-    alt="Cover: {{ $title }}" 
-    class="hero-img" 
-    width="1200" 
-    height="630" 
-    fetchpriority="high"
-  />
-</div>
-
-
-
-
-
 <article class="post hentry" itemtype="https://schema.org/CreativeWork" itemscope="itemscope">
 {{- partial "article/components/header" (dict "Page" . "IsList" false) -}}
 {{- if .Scratch.Get "TOCEnabled" -}}
