@@ -3,7 +3,6 @@
 
 
 {{- if .IsPage -}}
-  {{- $title := partialCached "data/title" . .RelPermalink -}}
   {{- $siteName := .Site.Title -}}
   {{- $author := .Params.author | default .Site.Author.name | default "Admin" -}}
 
