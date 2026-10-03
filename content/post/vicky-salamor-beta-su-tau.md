@@ -3,7 +3,7 @@ author: Katrok
 title: "Vicky Salamor - Beta Su Tau"
 date: 2026-10-02T20:14:00Z
 slug: vicky-salamor-beta-su-tau
-featured: false
+featured: true
 draft: false
 categories: 
   - "Timur"
