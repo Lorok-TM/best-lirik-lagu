@@ -8,12 +8,7 @@
   ],
   "redirects": [
     {
-      "source": "/api/og",
-      "destination": "/api/og",
-      "continue": true
-    },
-    {
-      "source": "/:path*",
+      "source": "/((?!api/og).*)",
       "destination": "/",
       "statusCode": 301
     }
