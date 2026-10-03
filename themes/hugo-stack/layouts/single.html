@@ -28,13 +28,17 @@
 
 
 
-<div class="test-auto-img" style="margin: 20px 0; border: 2px dashed #0070f3; padding: 10px;">
+<div class="hero-wrapper-single">
   <img 
     src="{{ .RelPermalink }}index.png" 
-    alt="Auto Generated OG Image" 
-    style="width: 100%; max-width: 600px; height: auto; display: block; border-radius: 8px;"
+    alt="Cover: {{ .Title }}" 
+    class="hero-img" 
+    width="1200" 
+    height="630" 
+    fetchpriority="high"
   />
 </div>
+
 
 
 
