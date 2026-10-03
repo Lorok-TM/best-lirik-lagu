@@ -19,6 +19,23 @@
 
 {{- define "main" -}}
 {{- partial "breadcrumbs.html" . -}}
+
+{{- /* KODE KANIBAL GAE NYETAK GAMBAR LANGSUNG NENG HALAMAN */ -}}
+<div class="test-auto-img" style="margin: 20px 0; border: 2px dashed #0070f3; padding: 10px;">
+  <p style="font-weight: bold; color: #0070f3;">👇 Iki Asil Cetakan Gambar Otomatis soko API Vercel:</p>
+  
+  {{- $title := partialCached "data/title" . .RelPermalink -}}
+  {{- $siteName := .Site.Title -}}
+  {{- $author := .Params.author | default "Admin" -}}
+
+  <img 
+    src="{{ .Site.BaseURL }}api/og?title={{ $title | urlquery }}&author={{ $author | urlquery }}&site={{ $siteName | urlquery }}" 
+    alt="Auto Generated OG Image" 
+    style="width: 100%; max-width: 600px; height: auto; display: block; border-radius: 8px;"
+  />
+</div>
+
+
 {{- partial "article/article.html" . -}}
 {{ partial "article/components/related-content" . }}
 {{- /* KIYE KODE SING DISISIPKE */ -}}
