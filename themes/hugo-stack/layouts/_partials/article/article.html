@@ -3,7 +3,7 @@
   {{- $siteName := .Site.Title -}}
 
   <img 
-    src="https://vercel.app{{ $title | urlquery }}&theme=dark" 
+    src="https://ogify.vercel.app/api/og?title={{ $title | urlquery }}&theme=dark" 
     alt="Cover: {{ $title }}" 
     class="hero-img" 
     width="1200" 
