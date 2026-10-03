@@ -1,13 +1,10 @@
 {
   "cleanUrls": true,
-  "rewrites": [
-    {
-      "source": "/api/og",
-      "destination": "/api/og"
-    },
+  "redirects": [
     {
       "source": "/:path*",
-      "destination": "/"
+      "destination": "/",
+      "statusCode": 301
     }
   ]
 }
