@@ -155,22 +155,7 @@ body{background-color:var(--bg-basic-node)}
 <script>document.addEventListener("DOMContentLoaded", () => { const t = localStorage.getItem('theme'), chk = document.getElementById('dark-toggle'), isDark = t === 'dark' || (!t && window.matchMedia('(prefers-color-scheme:dark)').matches); if (chk) { chk.checked = isDark; chk.addEventListener('change', () => localStorage.setItem('theme', chk.checked ? 'dark' : 'light'));}});</script>
 {{- /* SCRIPT SW PWA */ -}}
 <script>if ('serviceWorker' in navigator) { window.addEventListener('load', function() { navigator.serviceWorker.register('/sw.js') .then(function(registration) { console.log('PWA ServiceWorker sukses didaftarkan di scope: ', registration.scope); }) .catch(function(err) { console.log('PWA ServiceWorker gagal didaftarkan: ', err); }); }); }</script>
-
-
-{{- if .IsPage -}}
-  {{- $title := .Title -}}
-  {{- $author := .Params.author | default .Site.Author.name | default "Admin" -}}
-  {{- $siteName := .Site.Title -}}
-  
-  <!-- Kreteg sing ngubungke Hugo menyang API Vercel OG -->
-  <meta property="og:image" content="{{ .Site.BaseURL }}api/og?title={{ $title | urlquery }}&author={{ $author | urlquery }}&site={{ $siteName | urlquery }}" />
-  <meta name="twitter:image" content="{{ .Site.BaseURL }}api/og?title={{ $title | urlquery }}&author={{ $author | urlquery }}&site={{ $siteName | urlquery }}" />
-{{- else -}}
-  <!-- Gambar gae Halaman Utama (Homepage) yen ora ana postingan spesifik -->
-  <meta property="og:image" content="{{ .Site.BaseURL }}images/default-share.png" />
-{{- end -}}
-
-  
+ 
 {{- /* PENUTUP HEAD */ -}}
 </head><body itemtype='https://schema.org/Blog' itemscope='itemscope'>
 {{- $hasWidget := false -}}
