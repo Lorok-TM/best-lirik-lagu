@@ -1,9 +1,14 @@
 {
   "cleanUrls": true,
+  "functions": {
+    "api/og.js": {
+      "runtime": "nodejs18.x"
+    }
+  },
   "rewrites": [
     {
       "source": "/api/og",
-      "destination": "/api/og"
+      "destination": "/api/og.js"
     },
     {
       "source": "/:path*",
