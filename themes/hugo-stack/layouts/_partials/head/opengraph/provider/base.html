@@ -1,22 +1,6 @@
 {{- $title := partialCached "data/title" . .RelPermalink -}}
 {{- $description := partialCached "data/description" . .RelPermalink -}}
 
-
-{{- if .IsPage -}}
-  {{- $siteName := .Site.Title -}}
-  {{- $author := .Params.author | default .Site.Author.name | default "Admin" -}}
-
-  <!-- Kreteg OG Image sing wis manut rute sentral situsmu -->
-  <meta property="og:image" content="{{ .Site.BaseURL }}api/og?title={{ $title | urlquery }}&author={{ $author | urlquery }}&site={{ $siteName | urlquery }}" />
-  <meta name="twitter:image" content="{{ .Site.BaseURL }}api/og?title={{ $title | urlquery }}&author={{ $author | urlquery }}&site={{ $siteName | urlquery }}" />
-{{- else -}}
-  <!-- Gambar gae Homepage utawa halaman list utama -->
-  <meta property="og:image" content="{{ .Site.BaseURL }}images/default-share.png" />
-{{- end -}}
-
-
-
-
 {{- if .IsHome -}}
 <meta property="og:title" {{ printf "content=\"%s - Gudang Lyrics Terlengkap dan Terbaru\"" $title | safeHTMLAttr }}>
 {{- else if and .IsPage (strings.HasSuffix .RelPermalink "/author/katrok/") -}}
