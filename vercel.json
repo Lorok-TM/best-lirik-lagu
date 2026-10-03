@@ -1,5 +1,17 @@
 {
+  "version": 2,
+  "builds": [
+    {
+      "src": "api/og.js",
+      "use": "@vercel/node"
+    }
+  ],
   "redirects": [
+    {
+      "source": "/api/og",
+      "destination": "/api/og",
+      "continue": true
+    },
     {
       "source": "/:path*",
       "destination": "/",
