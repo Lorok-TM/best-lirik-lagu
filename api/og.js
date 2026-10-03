@@ -4,14 +4,10 @@ module.exports = async function handler(req, res) {
   try {
     const { searchParams } = new URL(req.url, `http://${req.headers.host}`);
     
-    // Nampa data slug soko rute vercel.json
-    const slug = searchParams.get('title') || 'postingan';
-    
-    // Ngowahi "cara-mancing-belut" dadi "Cara Mancing Belut"
-    const title = slug
-      .split('-')
-      .map(word => word.charAt(0).toUpperCase() + word.slice(1))
-      .join(' ');
+    // Nyedot kabeh data suguhan soko Hugo
+    const title = searchParams.get('title') || 'Judul Postingan';
+    const author = searchParams.get('author') || 'Anonymous';
+    const site = searchParams.get('site') || 'My Hugo Blog';
 
     const imageResponse = new ImageResponse(
       (
@@ -30,8 +26,19 @@ module.exports = async function handler(req, res) {
             border: '20px solid #0070f3',
           }}
         >
+          {/* Jeneng Situs neng Ndhuwur */}
+          <div style={{ fontSize: 24, textTransform: 'uppercase', letterSpacing: '2px', color: '#0070f3', marginBottom: 20 }}>
+            {site}
+          </div>
+          
+          {/* Judul Utama */}
           <div style={{ fontSize: 60, fontWeight: 'bold', textAlign: 'center', maxWidth: '900px', lineHeight: 1.3 }}>
             {title}
+          </div>
+          
+          {/* Jeneng Author neng Ngisor */}
+          <div style={{ fontSize: 28, color: '#a0a0a0', marginTop: 40, fontStyle: 'italic' }}>
+            By {author}
           </div>
         </div>
       ),
