@@ -18,20 +18,6 @@
 {{- end -}}
 
 {{- define "main" -}}
-
-<div class="hero-wrapper-single">
-  {{- $title := partialCached "data/title" . .RelPermalink -}}
-  {{- $siteName := .Site.Title -}}
-  <img 
-    src="https://ogify.vercel.app/api/og?title={{ $title | urlquery }}&theme=dark" 
-    alt="Cover: {{ $title }}" 
-    class="hero-img" 
-    width="1200" 
-    height="630" 
-    fetchpriority="high"
-  />
-</div>
-
 {{- partial "breadcrumbs.html" . -}}
 {{- partial "article/article.html" . -}}
 {{ partial "article/components/related-content" . }}
