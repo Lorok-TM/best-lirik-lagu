@@ -4,10 +4,17 @@ module.exports = async function handler(req, res) {
   try {
     const { searchParams } = new URL(req.url, `http://${req.headers.host}`);
     
-    // Nampa janganan segar soko samaran URL Hugo
-    const title = searchParams.get('title') || 'Judul Postingan';
-    const author = searchParams.get('author') || 'Anonymous';
-    const site = searchParams.get('site') || 'My Hugo Blog';
+    // Nampa slug soko vercel.json (misal: fauzana-padiah-bana)
+    const slug = searchParams.get('title') || 'postingan';
+    
+    // Ngowahi strip dadi spasi lan Huruf Kapital (Fauzana Padiah Bana)
+    const title = slug
+      .split('-')
+      .map(word => word.charAt(0).toUpperCase() + word.slice(1))
+      .join(' ');
+
+    const author = "Katrok";
+    const site = "Best Lirik Lagu";
 
     const imageResponse = new ImageResponse(
       (
