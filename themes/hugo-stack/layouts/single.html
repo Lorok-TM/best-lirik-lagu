@@ -28,16 +28,22 @@
 
 
 
-<div class="hero-wrapper-single">
+
+<div class="hero-wrapper-single" style="margin: 20px 0; border: 2px dashed #0070f3; padding: 10px;">
+  {{- $title := partialCached "data/title" . .RelPermalink -}}
+  {{- $siteName := .Site.Title -}}
+  {{- $author := .Params.author | default "Katrok" -}}
+
   <img 
-    src="https://bestliriklagu.com/post{{ .RelPermalink }}index.png" 
-    alt="Cover: {{ .Title }}" 
+    src="/api/og?title={{ $title | urlquery }}&author={{ $author | urlquery }}&site={{ $siteName | urlquery }}" 
+    alt="Cover: {{ $title }}" 
     class="hero-img" 
     width="1200" 
     height="630" 
     fetchpriority="high"
-  >
+  />
 </div>
+
 
 
 
