@@ -4,18 +4,10 @@ module.exports = async function handler(req, res) {
   try {
     const { searchParams } = new URL(req.url, `http://${req.headers.host}`);
     
-    // Nampa data slug soko vercel.json rewrite
-    const slug = searchParams.get('title') || 'postingan';
-    
-    // Ngowahi "fauzana-padiah-bana" dadi "Fauzana Padiah Bana"
-    const title = slug
-      .split('-')
-      .map(word => word.charAt(0).toUpperCase() + word.slice(1))
-      .join(' ');
-
-    // Nyedot data author lan site soko header utawa di-hardcode kene wae ben aman lan anti-rusak
-    const author = "Katrok";
-    const site = "Best Lirik Lagu";
+    // Nampa janganan segar soko samaran URL Hugo
+    const title = searchParams.get('title') || 'Judul Postingan';
+    const author = searchParams.get('author') || 'Anonymous';
+    const site = searchParams.get('site') || 'My Hugo Blog';
 
     const imageResponse = new ImageResponse(
       (
@@ -51,7 +43,6 @@ module.exports = async function handler(req, res) {
       }
     );
 
-    // Kirim data binary PNG asli
     const arrayBuffer = await imageResponse.arrayBuffer();
     const buffer = Buffer.from(arrayBuffer);
 
