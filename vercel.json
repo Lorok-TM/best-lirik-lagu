@@ -1,16 +1,20 @@
 {
   "version": 2,
+  "cleanUrls": true,
   "builds": [
     {
       "src": "api/og.js",
       "use": "@vercel/node"
     }
   ],
-  "redirects": [
+  "rewrites": [
     {
-      "source": "/((?!api/og).*)",
-      "destination": "/",
-      "statusCode": 301
+      "source": "/api/og",
+      "destination": "/api/og.js"
+    },
+    {
+      "source": "/:path*",
+      "destination": "/"
     }
   ]
 }
