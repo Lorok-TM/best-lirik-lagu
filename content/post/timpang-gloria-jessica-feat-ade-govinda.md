@@ -3,7 +3,7 @@ author: Katrok
 title: "Timpang - Gloria Jessica feat. Ade Govinda"
 date: 2026-10-02T20:19:00Z
 slug: timpang-gloria-jessica-feat-ade-govinda
-featured: false
+featured: true
 draft: false
 categories: 
   - "Indo"
