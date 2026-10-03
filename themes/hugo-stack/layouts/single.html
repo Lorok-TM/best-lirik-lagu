@@ -25,13 +25,20 @@
 
 
 
+
 <div class="test-auto-img" style="margin: 20px 0; border: 2px dashed #0070f3; padding: 10px;">
+  
+  {{- $title := partialCached "data/title" . .RelPermalink -}}
+  {{- $siteName := .Site.Title -}}
+  {{- $author := .Params.author | default "Katrok" -}}
+
   <img 
-    src="{{ .RelPermalink }}index.png" 
+    src="{{ .RelPermalink }}index.png?title={{ $title | urlquery }}&author={{ $author | urlquery }}&site={{ $siteName | urlquery }}" 
     alt="Auto Generated OG Image" 
     style="width: 100%; max-width: 600px; height: auto; display: block; border-radius: 8px;"
   />
 </div>
+
 
 
 
