@@ -26,15 +26,15 @@
 
 
 <div class="test-auto-img" style="margin: 20px 0; border: 2px dashed #0070f3; padding: 10px;">
-  {{- $title := partialCached "data/title" . .RelPermalink -}}
-  {{- $siteName := .Site.Title -}}
-  {{- $author := .Params.author | default "Admin" -}}
   <img 
-    src="/api/og?title={{ $title | urlquery }}&author={{ $author | urlquery }}&site={{ $siteName | urlquery }}" 
+    src="{{ .RelPermalink }}index.png" 
     alt="Auto Generated OG Image" 
     style="width: 100%; max-width: 600px; height: auto; display: block; border-radius: 8px;"
   />
 </div>
+
+
+
 
 
 
