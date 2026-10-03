@@ -2,8 +2,8 @@
   "cleanUrls": true,
   "rewrites": [
     {
-      "source": "/api/og",
-      "destination": "/api/og.js"
+      "source": "/:folder*/:slug/index.png",
+      "destination": "/api/og.js?title=:slug"
     },
     {
       "source": "/:path*",
