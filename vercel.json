@@ -1,9 +1,0 @@
-{
-  "redirects": [
-    {
-      "source": "/post/:slug",
-      "destination": "/",
-      "statusCode": 301
-    }
-  ]
-}
