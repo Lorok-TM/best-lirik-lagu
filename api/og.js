@@ -4,11 +4,12 @@ module.exports = async function handler(req, res) {
   try {
     const { searchParams } = new URL(req.url, `http://${req.headers.host}`);
     
-    // Nyedot kabeh data suguhan soko Hugo
+    // Suguhan data soko Hugo
     const title = searchParams.get('title') || 'Judul Postingan';
     const author = searchParams.get('author') || 'Anonymous';
     const site = searchParams.get('site') || 'My Hugo Blog';
 
+    // Nggawe gambar nganggo HTML & CSS
     const imageResponse = new ImageResponse(
       (
         <div
@@ -26,17 +27,17 @@ module.exports = async function handler(req, res) {
             border: '20px solid #0070f3',
           }}
         >
-          {/* Jeneng Situs neng Ndhuwur */}
+          {/* Nama Situs */}
           <div style={{ fontSize: 24, textTransform: 'uppercase', letterSpacing: '2px', color: '#0070f3', marginBottom: 20 }}>
             {site}
           </div>
           
-          {/* Judul Utama */}
+          {/* Judul */}
           <div style={{ fontSize: 60, fontWeight: 'bold', textAlign: 'center', maxWidth: '900px', lineHeight: 1.3 }}>
             {title}
           </div>
           
-          {/* Jeneng Author neng Ngisor */}
+          {/* Author */}
           <div style={{ fontSize: 28, color: '#a0a0a0', marginTop: 40, fontStyle: 'italic' }}>
             By {author}
           </div>
@@ -48,14 +49,19 @@ module.exports = async function handler(req, res) {
       }
     );
 
-    const blob = await imageResponse.blob();
-    const buffer = Buffer.from(await blob.arrayBuffer());
-    
+    // KUNCI UTAMA: Ngowahi Response dadi ArrayBuffer banjur dadi Node.js Buffer resmi
+    const arrayBuffer = await imageResponse.arrayBuffer();
+    const buffer = Buffer.from(arrayBuffer);
+
+    // Ngandhani browser yen iki GAMBAR PNG ASLI, dudu teks!
     res.setHeader('Content-Type', 'image/png');
     res.setHeader('Cache-Control', 'public, max-age=31536000, immutable');
-    return res.status(200).send(buffer);
+    
+    // Kirim binary gambare!
+    return res.status(200).end(buffer);
 
   } catch (e) {
-    return res.status(500).send(`Failed: ${e.message}`);
+    res.setHeader('Content-Type', 'text/plain');
+    return res.status(500).send(`Gagal Nggambar: ${e.message}`);
   }
 };
