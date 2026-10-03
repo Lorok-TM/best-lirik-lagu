@@ -1,13 +1,17 @@
-// Kita nggunakake require merga iki mlaku neng Serverless Node.js biasa
 const { ImageResponse } = require('@vercel/og');
 
 module.exports = async function handler(req, res) {
   try {
-    // Nyedot data soko URL parameter Hugo
     const { searchParams } = new URL(req.url, `http://${req.headers.host}`);
-    const title = searchParams.get('title') || 'Judul Postingan';
-    const author = searchParams.get('author') || 'Anonymous';
-    const site = searchParams.get('site') || 'My Hugo Blog';
+    
+    // Nampa data slug soko rute vercel.json
+    const slug = searchParams.get('title') || 'postingan';
+    
+    // Ngowahi "cara-mancing-belut" dadi "Cara Mancing Belut"
+    const title = slug
+      .split('-')
+      .map(word => word.charAt(0).toUpperCase() + word.slice(1))
+      .join(' ');
 
     const imageResponse = new ImageResponse(
       (
@@ -26,14 +30,8 @@ module.exports = async function handler(req, res) {
             border: '20px solid #0070f3',
           }}
         >
-          <div style={{ fontSize: 24, textTransform: 'uppercase', letterSpacing: '2px', color: '#0070f3', marginBottom: 20 }}>
-            {site}
-          </div>
           <div style={{ fontSize: 60, fontWeight: 'bold', textAlign: 'center', maxWidth: '900px', lineHeight: 1.3 }}>
             {title}
-          </div>
-          <div style={{ fontSize: 28, color: '#a0a0a0', marginTop: 40, fontStyle: 'italic' }}>
-            By {author}
           </div>
         </div>
       ),
@@ -43,7 +41,6 @@ module.exports = async function handler(req, res) {
       }
     );
 
-    // Kirim balik gambare neng browser utawa robot sosmed
     const blob = await imageResponse.blob();
     const buffer = Buffer.from(await blob.arrayBuffer());
     
@@ -52,6 +49,6 @@ module.exports = async function handler(req, res) {
     return res.status(200).send(buffer);
 
   } catch (e) {
-    return res.status(500).send(`Failed to generate the image: ${e.message}`);
+    return res.status(500).send(`Failed: ${e.message}`);
   }
 };
