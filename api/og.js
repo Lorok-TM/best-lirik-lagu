@@ -1,18 +1,15 @@
-import { ImageResponse } from '@vercel/og';
+// Kita nggunakake require merga iki mlaku neng Serverless Node.js biasa
+const { ImageResponse } = require('@vercel/og');
 
-export const config = {
-  runtime: 'edge',
-};
-
-export default async function handler(request) {
+module.exports = async function handler(req, res) {
   try {
-    const { searchParams } = new URL(request.url);
-
+    // Nyedot data soko URL parameter Hugo
+    const { searchParams } = new URL(req.url, `http://${req.headers.host}`);
     const title = searchParams.get('title') || 'Judul Postingan';
     const author = searchParams.get('author') || 'Anonymous';
     const site = searchParams.get('site') || 'My Hugo Blog';
 
-    return new ImageResponse(
+    const imageResponse = new ImageResponse(
       (
         <div
           style={{
@@ -45,9 +42,16 @@ export default async function handler(request) {
         height: 630,
       }
     );
+
+    // Kirim balik gambare neng browser utawa robot sosmed
+    const blob = await imageResponse.blob();
+    const buffer = Buffer.from(await blob.arrayBuffer());
+    
+    res.setHeader('Content-Type', 'image/png');
+    res.setHeader('Cache-Control', 'public, max-age=31536000, immutable');
+    return res.status(200).send(buffer);
+
   } catch (e) {
-    return new Response(`Failed to generate the image`, {
-      status: 500,
-    });
+    return res.status(500).send(`Failed to generate the image: ${e.message}`);
   }
-}
+};
