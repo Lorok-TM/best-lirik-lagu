@@ -177,10 +177,13 @@ body{background-color:var(--bg-basic-node)}
 {{/*  SIDEBAR FEATURED - ANTI SELF-LINK & TETEP UTUH TAMPIL 10   */ -}}
 {{/* Jupuk kabeh postingan featured nanging langsung SAKALIGUS NGE-SKIP artikel sing lagi dibukak nganggo .Permalink */ -}}
 {{- $filtered_featured := where (where .Site.RegularPages "Section" "post") "Permalink" "ne" .Permalink -}}
-{{- $sidebar_featured := where $filtered_featured ".Params.featured" true | first 10 -}}
+{{- $sidebar_featured := where $filtered_featured ".Params.featured" true | first 50 -}}
 {{- /* Cek yen pancen ana isine seko sisa cadangan, nembe HTML-e ketok */ -}}
 {{- if gt (len $sidebar_featured) 0 -}}
-<div class="featured-posts"><h2>Featured Lyrics Songs</h2><ul>
+<div class="featured-posts">
+<h2>Featured Lyrics Songs</h2>
+<p><em>By: Putri Lestari, Ajeng Sabrina, Budi Yanto, Budi Mahedra</em></p>
+<ul>
 {{- range $sidebar_featured -}}
 <li><a href="{{ .Permalink }}">Lirik Lagu {{ .Title }}</a>
 {{- /* <span class="pub-date"></span>{{ .Date.Format "02 Jan 2006" */ -}}
