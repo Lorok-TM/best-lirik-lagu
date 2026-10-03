@@ -1,22 +1,21 @@
-const { ImageResponse } = require('@vercel/og');
+import { ImageResponse } from '@vercel/og';
 
-module.exports = async function handler(req, res) {
+export const config = {
+  // Kita balikake nggo runtime 'edge' merga saiki format import-e wis bener lan dijamin anti-unsupported modules!
+  runtime: 'edge',
+};
+
+export default async function handler(request) {
   try {
-    const { searchParams } = new URL(req.url, `http://${req.headers.host}`);
-    
-    // Nampa slug soko vercel.json (misal: fauzana-padiah-bana)
-    const slug = searchParams.get('title') || 'postingan';
-    
-    // Ngowahi strip dadi spasi lan Huruf Kapital (Fauzana Padiah Bana)
-    const title = slug
-      .split('-')
-      .map(word => word.charAt(0).toUpperCase() + word.slice(1))
-      .join(' ');
+    const { searchParams } = new URL(request.url);
 
-    const author = "Katrok";
-    const site = "Best Lirik Lagu";
+    // Nyedot janganan segar soko parameter Hugo sing kacithak neng HTML
+    const title = searchParams.get('title') || 'Judul Postingan';
+    const author = searchParams.get('author') || 'Anonymous';
+    const site = searchParams.get('site') || 'My Hugo Blog';
 
-    const imageResponse = new ImageResponse(
+    // ImageResponse Vercel modern iki otomatis langsung ngetokake format PNG murni!
+    return new ImageResponse(
       (
         <div
           style={{
@@ -33,12 +32,17 @@ module.exports = async function handler(req, res) {
             border: '20px solid #0070f3',
           }}
         >
+          {/* Jeneng Situs */}
           <div style={{ fontSize: 24, textTransform: 'uppercase', letterSpacing: '2px', color: '#0070f3', marginBottom: 20 }}>
             {site}
           </div>
+          
+          {/* Judul Utama */}
           <div style={{ fontSize: 60, fontWeight: 'bold', textAlign: 'center', maxWidth: '900px', lineHeight: 1.3 }}>
             {title}
           </div>
+          
+          {/* Author */}
           <div style={{ fontSize: 28, color: '#a0a0a0', marginTop: 40, fontStyle: 'italic' }}>
             By {author}
           </div>
@@ -49,16 +53,7 @@ module.exports = async function handler(req, res) {
         height: 630,
       }
     );
-
-    const arrayBuffer = await imageResponse.arrayBuffer();
-    const buffer = Buffer.from(arrayBuffer);
-
-    res.setHeader('Content-Type', 'image/png');
-    res.setHeader('Cache-Control', 'public, max-age=31536000, immutable');
-    return res.status(200).end(buffer);
-
   } catch (e) {
-    res.setHeader('Content-Type', 'text/plain');
-    return res.status(500).send(`Gagal: ${e.message}`);
+    return new Response(`Gagal Nggambar: ${e.message}`, { status: 500 });
   }
-};
+}
