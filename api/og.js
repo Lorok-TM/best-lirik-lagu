@@ -4,12 +4,19 @@ module.exports = async function handler(req, res) {
   try {
     const { searchParams } = new URL(req.url, `http://${req.headers.host}`);
     
-    // Suguhan data soko Hugo
-    const title = searchParams.get('title') || 'Judul Postingan';
-    const author = searchParams.get('author') || 'Anonymous';
-    const site = searchParams.get('site') || 'My Hugo Blog';
+    // Nampa data slug soko vercel.json rewrite
+    const slug = searchParams.get('title') || 'postingan';
+    
+    // Ngowahi "fauzana-padiah-bana" dadi "Fauzana Padiah Bana"
+    const title = slug
+      .split('-')
+      .map(word => word.charAt(0).toUpperCase() + word.slice(1))
+      .join(' ');
 
-    // Nggawe gambar nganggo HTML & CSS
+    // Nyedot data author lan site soko header utawa di-hardcode kene wae ben aman lan anti-rusak
+    const author = "Katrok";
+    const site = "Best Lirik Lagu";
+
     const imageResponse = new ImageResponse(
       (
         <div
@@ -27,17 +34,12 @@ module.exports = async function handler(req, res) {
             border: '20px solid #0070f3',
           }}
         >
-          {/* Nama Situs */}
           <div style={{ fontSize: 24, textTransform: 'uppercase', letterSpacing: '2px', color: '#0070f3', marginBottom: 20 }}>
             {site}
           </div>
-          
-          {/* Judul */}
           <div style={{ fontSize: 60, fontWeight: 'bold', textAlign: 'center', maxWidth: '900px', lineHeight: 1.3 }}>
             {title}
           </div>
-          
-          {/* Author */}
           <div style={{ fontSize: 28, color: '#a0a0a0', marginTop: 40, fontStyle: 'italic' }}>
             By {author}
           </div>
@@ -49,19 +51,16 @@ module.exports = async function handler(req, res) {
       }
     );
 
-    // KUNCI UTAMA: Ngowahi Response dadi ArrayBuffer banjur dadi Node.js Buffer resmi
+    // Kirim data binary PNG asli
     const arrayBuffer = await imageResponse.arrayBuffer();
     const buffer = Buffer.from(arrayBuffer);
 
-    // Ngandhani browser yen iki GAMBAR PNG ASLI, dudu teks!
     res.setHeader('Content-Type', 'image/png');
     res.setHeader('Cache-Control', 'public, max-age=31536000, immutable');
-    
-    // Kirim binary gambare!
     return res.status(200).end(buffer);
 
   } catch (e) {
     res.setHeader('Content-Type', 'text/plain');
-    return res.status(500).send(`Gagal Nggambar: ${e.message}`);
+    return res.status(500).send(`Gagal: ${e.message}`);
   }
 };
