@@ -3,7 +3,7 @@ author: Katrok
 title: "Aviwkila - Tak Apa"
 date: 2026-09-28T17:19:00Z
 slug: aviwkila-tak-apa
-featured: false
+featured: true
 draft: false
 categories: 
   - "Indo"
