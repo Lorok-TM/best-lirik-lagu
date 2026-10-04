@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-<xsl:output method="html" version="1.0" encoding="UTF-8" indent="yes">
+<xsl:output method="html" version="1.0" encoding="UTF-8" indent="yes"/>
 <xsl:template match="/">
 <html>
 <head>
 <title>RSS Sitemap - Best Lirik Lagu</title>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
 <style>
 body{font-family:sans-serif;font-size:14px;color:#333;margin:0;background-color:#f0f2f5}
 #content{position:relative;padding:15px;max-width:1000px;margin:0 auto}
