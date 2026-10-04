@@ -10,7 +10,7 @@
         {{ printf "<atom:link href=%q rel=\"self\" type=%q />" .Permalink .MediaType.Type | safeHTML }}
     {{ end }}
     
-    {{- range (where .Site.AllPages "Kind" "page") }}
+    {{- range first 50 (where .Site.AllPages "Kind" "page").ByDate.Reverse }}
     {{- if not .Params.private }}
     <item>
       <title>{{ .Title }}</title>
