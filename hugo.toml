@@ -64,9 +64,9 @@ disableHugoGeneratorInject = true
   showFeaturedHeader = true
 
 [outputs]
-  home = ["HTML", "RSS", "SITEMAPRSS", "NewsSitemap", "LinkScanner"]
+  home = ["HTML", "SITEMAPRSS", "NewsSitemap", "LinkScanner"]
   page = ["HTML"]
-  section = ["HTML", "RSS"]
+  section = ["HTML"]
 
 disableKinds = ["RSS"]
 
