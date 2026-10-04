@@ -1,33 +1,75 @@
 ---
+author: Katrok
 title: "Las Gabe Trio - Unang Attoi Be Au"
-date: 2026-06-16
+date: 2026-06-16T03:30:00Z
+slug: las-gabe-trio-unang-attoi-be-au
+featured: true
+draft: false
 categories: 
   - "Batak"
 ---
 
+Pillit ma nasa lomom  
+Pillit ma nasa roham  
+Molo nai do dumenggan  
+Na lao gabe donganmu
 
-Pillit ma nasa lomom Pillit ma nasa roham Molo nai do dumenggan Na lao gabe donganmu
+Dang sipangambati au  
+Dang sipangorai au  
+Nunga bulus be ito  
+Rohakku tu ho
 
-Dang sipangambati au Dang sipangorai au Nunga bulus be ito Rohakku tu ho
+Mulai sadarion hasian  
+Unang be sai ro ho tu au  
+Mandukkari akka sidangolon  
+Si na uju i
 
-Mulai sadarion hasian Unang be sai ro ho tu au Mandukkari akka sidangolon Si na uju i
+Dalani ma dalanmu  
+Unang attoi be au ito  
+Ai dang na mulak be  
+Holongku tu ho
 
-Dalani ma dalanmu Unang attoi be au ito Ai dang na mulak be Holongku tu ho
+Hubahen do nian akka na uli na denggan  
+Tikki mardongan au dohot ho ito  
+Alai asing do  
+Asing-asing do carami manghaholongi au
 
-Hubahen do nian akka na uli na denggan Tikki mardongan au dohot ho ito Alai asing do Asing-asing do carami manghaholongi au
+Hape dung tartuktuk ho ito di dalanmi  
+Mangido mulak ho di holong si na uju i  
+Dang mungkin i  
+Dang mungkin be i
 
-Hape dung tartuktuk ho ito di dalanmi Mangido mulak ho di holong si na uju i Dang mungkin i Dang mungkin be i
+Percuma do ro ho tu au  
+Unang attoi au unang jonoki au  
+Ai dang di au be partambuan ni deba  
+Na asing i ma tahatai tu sadaan ma ho  
+Padao ma sian au
 
-Percuma do ro ho tu au Unang attoi au unang jonoki au Ai dang di au be partambuan ni deba Na asing i ma tahatai tu sadaan ma ho Padao ma sian au
+Mulai sadarion hasian  
+Unang be sai ro ho tu au  
+Mandukkari akka sidangolon  
+Si na uju i
 
-Mulai sadarion hasian Unang be sai ro ho tu au Mandukkari akka sidangolon Si na uju i
+Dalani ma dalanmu  
+Unang attoi be au ito  
+Ai dang na mulak be  
+Holongku tu ho
 
-Dalani ma dalanmu Unang attoi be au ito Ai dang na mulak be Holongku tu ho
+Hubahen do nian akka na uli na denggan  
+Tikki mardongan au dohot ho ito  
+Alai asing do  
+Asing-asing do carami manghaholongi au
 
-Hubahen do nian akka na uli na denggan Tikki mardongan au dohot ho ito Alai asing do Asing-asing do carami manghaholongi au
+Hape dung tartuktuk ho ito di dalanmi  
+Mangido mulak ho di holong si na uju i  
+Dang mungkin i  
+Dang mungkin be i
 
-Hape dung tartuktuk ho ito di dalanmi Mangido mulak ho di holong si na uju i Dang mungkin i Dang mungkin be i
+Percuma do ro ho tu au  
+Unang attoi au unang jonoki au  
+Ai dang di au be partambuan ni deba  
+Na asing i ma tahatai tu sadaan ma ho  
+Padao ma sian au
 
-Percuma do ro ho tu au Unang attoi au unang jonoki au Ai dang di au be partambuan ni deba Na asing i ma tahatai tu sadaan ma ho Padao ma sian au
-
-Na asing i ma tahatai tu sadaan ma ho Padao ma sian au
+Na asing i ma tahatai tu sadaan ma ho  
+Padao ma sian au
