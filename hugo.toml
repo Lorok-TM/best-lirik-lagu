@@ -68,6 +68,8 @@ disableHugoGeneratorInject = true
   page = ["HTML"]
   section = ["HTML", "RSS"]
 
+disableKinds = ["RSS"]
+
 [mediaTypes]
   [mediaTypes."application/rss+xml"]
     suffixes = ["rss"]
