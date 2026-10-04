@@ -3,7 +3,7 @@ author: Katrok
 title: "Banda Neira - Ajariku Jadi Berani"
 date: 2026-09-30T20:20:00Z
 slug: banda-neira-ajariku-jadi-berani
-featured: false
+featured: true
 draft: false
 categories: 
   - "Indo"
