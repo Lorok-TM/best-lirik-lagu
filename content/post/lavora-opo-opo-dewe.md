@@ -3,7 +3,7 @@ author: Katrok
 title: "Lavora - Opo Opo Dewe"
 date: 2026-09-30T11:23:00Z
 slug: lavora-opo-opo-dewe
-featured: true
+featured: false
 draft: false
 categories: 
   - "Jawa"
