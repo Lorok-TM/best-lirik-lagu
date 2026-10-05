@@ -3,7 +3,7 @@ author: Katrok
 title: "Bigheru - Langang Surang Diri"
 date: 2026-09-28T17:08:00Z
 slug: bigheru-langang-surang-diri
-featured: true
+featured: false
 draft: false
 categories: 
   - "Minang"
