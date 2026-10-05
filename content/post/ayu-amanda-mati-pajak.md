@@ -3,7 +3,7 @@ author: Katrok
 title: "Ayu Amanda - Mati Pajak"
 date: 2026-09-25T02:53:00Z
 slug: ayu-amanda-mati-pajak
-featured: true
+featured: false
 draft: false
 categories: 
   - "Minang"
