@@ -3,7 +3,7 @@ author: Katrok
 title: "Fauzana - Padiah Bana"
 date: 2026-09-30T19:49:00Z
 slug: fauzana-padiah-bana
-featured: true
+featured: false
 draft: false
 categories: 
   - "Minang"
