@@ -3,7 +3,7 @@ author: Katrok
 title: "Gustrian Geno - Sepi Berbalut Rindu"
 date: 2026-10-01T11:14:00Z
 slug: gustrian-geno-sepi-berbalut-rindu
-featured: true
+featured: false
 draft: false
 categories: 
   - "Melayu"
