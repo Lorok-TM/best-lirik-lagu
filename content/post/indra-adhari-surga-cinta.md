@@ -3,7 +3,7 @@ author: Katrok
 title: "Indra Adhari - Surga Cinta"
 date: 2026-10-03T09:47:00Z
 slug: indra-adhari-surga-cinta
-featured: true
+featured: false
 draft: false
 categories: 
   - "Indo"
