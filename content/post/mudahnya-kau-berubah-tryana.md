@@ -3,7 +3,7 @@ author: Katrok
 title: "Mudahnya Kau Berubah - Tryana"
 date: 2026-10-04T04:08:00Z
 slug: mudahnya-kau-berubah-tryana
-featured: true
+featured: false
 draft: false
 categories: 
   - "Melayu"
