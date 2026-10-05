@@ -3,7 +3,7 @@ author: Katrok
 title: "Sasimo - Dewi Perssik, OST Suara Hati"
 date: 2026-10-03T09:52:00Z
 slug: sasimo-dewi-perssik-ost-suara-hati
-featured: true
+featured: false
 draft: false
 categories: 
   - "Indo"
