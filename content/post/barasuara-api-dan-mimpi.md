@@ -3,7 +3,7 @@ author: Katrok
 title: "Barasuara - Api Dan Mimpi"
 date: 2026-10-03T02:24:00Z
 slug: barasuara-api-dan-mimpi
-featured: true
+featured: false
 draft: false
 categories: 
   - "Indo"
