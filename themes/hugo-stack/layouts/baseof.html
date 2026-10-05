@@ -182,7 +182,10 @@ body{background-color:var(--bg-basic-node)}
 {{- if gt (len $sidebar_featured) 0 -}}
 <div class="featured-posts">
 <h2>Featured Lyrics Songs</h2>
-<p><em>By: Putri Lestari, Ajeng Sabrina, Budi Yanto, Budi Mahedra</em></p>
+<div class="author-scrapper">
+<p><small>Author Scrapper by: Putri Lestari, Ajeng Sabrina, Budi Yanto, Budi Mahendra</small></p>
+<img src="https://bestliriklagu.com/image/author-scrapper.webp" alt="Author Scrapper" width="1200" height="630" fetchpriority="high">
+</div>
 <ul>
 {{- range $sidebar_featured -}}
 <li><a href="{{ .Permalink }}">Lirik Lagu {{ .Title }}</a>
