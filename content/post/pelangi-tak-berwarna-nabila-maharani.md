@@ -3,7 +3,7 @@ author: Katrok
 title: "Pelangi Tak Berwarna - Nabila Maharani"
 date: 2026-10-03T16:37:00Z
 slug: pelangi-tak-berwarna-nabila-maharani
-featured: true
+featured: false
 draft: false
 categories: 
   - "Indo"
