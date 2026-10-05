@@ -3,7 +3,7 @@ author: Katrok
 title: "Lupakan Masa Lalu - Aprilian feat. Fany Zee"
 date: 2026-10-03T02:38:00Z
 slug: lupakan-masa-lalu-aprilian-feat-fany-zee
-featured: true
+featured: false
 draft: false
 categories: 
   - "Melayu"
