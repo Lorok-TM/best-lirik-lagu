@@ -3,7 +3,7 @@ author: Katrok
 title: "Element - Asa Yang Sirna"
 date: 2026-10-03T10:12:00Z
 slug: element-asa-yang-sirna
-featured: true
+featured: false
 draft: false
 categories: 
   - "Indo"
