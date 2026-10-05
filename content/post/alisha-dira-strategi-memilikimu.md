@@ -3,7 +3,7 @@ author: Katrok
 title: "Alisha Dira - Strategi Memilikimu"
 date: 2026-10-03T02:30:00Z
 slug: alisha-dira-strategi-memilikimu
-featured: true
+featured: false
 draft: false
 categories: 
   - "Indo"
