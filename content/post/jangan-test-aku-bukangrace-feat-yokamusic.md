@@ -3,7 +3,7 @@ author: Katrok
 title: "Jangan Test Aku - BukanGrace feat. YokaMusic"
 date: 2026-10-03T17:15:00Z
 slug: jangan-test-aku-bukangrace-feat-yokamusic
-featured: true
+featured: false
 draft: false
 categories: 
   - "Indo"
