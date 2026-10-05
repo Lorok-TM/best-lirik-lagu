@@ -3,7 +3,7 @@ author: Katrok
 title: "Batin Nan Taluko - David Iztambul Feat Rayola"
 date: 2026-09-30T11:37:00Z
 slug: batin-nan-taluko-david-iztambul-feat-rayola
-featured: true
+featured: false
 draft: false
 categories: 
   - "Minang"
