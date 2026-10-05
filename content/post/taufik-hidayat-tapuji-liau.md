@@ -3,7 +3,7 @@ author: Katrok
 title: "Taufik Hidayat - Tapuji Liau"
 date: 2026-09-19T03:52:00Z
 slug: taufik-hidayat-tapuji-liau
-featured: true
+featured: false
 draft: false
 categories: 
   - "Dayak"
