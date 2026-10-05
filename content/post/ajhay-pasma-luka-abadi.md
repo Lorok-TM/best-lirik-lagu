@@ -3,7 +3,7 @@ author: Katrok
 title: "Ajhay Pasma - Luka Abadi"
 date: 2026-10-01T11:22:00Z
 slug: ajhay-pasma-luka-abadi
-featured: true
+featured: false
 draft: false
 categories: 
   - "Melayu"
