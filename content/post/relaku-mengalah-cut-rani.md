@@ -3,7 +3,7 @@ author: Katrok
 title: "Relaku Mengalah - Cut Rani"
 date: 2026-09-30T11:15:00Z
 slug: relaku-mengalah-cut-rani
-featured: true
+featured: false
 draft: false
 categories: 
   - "Melayu"
