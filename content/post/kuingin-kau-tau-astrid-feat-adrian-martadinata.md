@@ -3,7 +3,7 @@ author: Katrok
 title: "Kuingin Kau Tau - Astrid feat. Adrian Martadinata"
 date: 2026-10-03T02:44:00Z
 slug: kuingin-kau-tau-astrid-feat-adrian-martadinata
-featured: true
+featured: false
 draft: false
 categories: 
   - "Indo"
