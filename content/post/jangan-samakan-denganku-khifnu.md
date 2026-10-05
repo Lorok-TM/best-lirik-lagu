@@ -3,7 +3,7 @@ author: Katrok
 title: "Jangan Samakan Denganku - Khifnu"
 date: 2026-10-04T04:12:00Z
 slug: jangan-samakan-denganku-khifnu
-featured: true
+featured: false
 draft: false
 categories: 
   - "Indo"
