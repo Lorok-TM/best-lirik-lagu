@@ -3,7 +3,7 @@ author: Katrok
 title: "Natasya Sabella - Sana Jatuh Cinta"
 date: 2026-10-03T17:09:00Z
 slug: natasya-sabella-sana-jatuh-cinta
-featured: true
+featured: false
 draft: false
 categories: 
   - "Indo"
