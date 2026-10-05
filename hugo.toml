@@ -63,6 +63,10 @@ disableHugoGeneratorInject = true
   featuredLimit = 5 
   showFeaturedHeader = true
 
+[sitemap]
+  changefreq = 'weekly'
+  priority = 0.5
+
 disableKinds = ["RSS"]
 
 [outputs]
