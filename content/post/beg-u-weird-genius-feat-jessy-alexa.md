@@ -3,7 +3,7 @@ author: Katrok
 title: "Beg U - Weird Genius feat. Jessy Alexa"
 date: 2026-10-03T10:05:00Z
 slug: beg-u-weird-genius-feat-jessy-alexa
-featured: true
+featured: false
 draft: false
 categories: 
   - "Indo"
