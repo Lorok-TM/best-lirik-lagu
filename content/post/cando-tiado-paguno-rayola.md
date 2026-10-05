@@ -3,7 +3,7 @@ author: Katrok
 title: "Cando Tiado Paguno - Rayola"
 date: 2026-09-29T14:29:00Z
 slug: cando-tiado-paguno-rayola
-featured: true
+featured: false
 draft: false
 categories: 
   - "Minang"
