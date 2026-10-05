@@ -3,7 +3,7 @@ author: Katrok
 title: "Rifqi FTR - Rumah Yang Bising"
 date: 2026-10-03T17:18:00Z
 slug: rifqi-ftr-rumah-yang-bising
-featured: true
+featured: false
 draft: false
 categories: 
   - "Indo"
