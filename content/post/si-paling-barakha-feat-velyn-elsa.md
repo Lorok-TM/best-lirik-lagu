@@ -3,7 +3,7 @@ author: Katrok
 title: "Si Paling - Barakha feat. Velyn Elsa"
 date: 2026-10-03T10:00:00Z
 slug: si-paling-barakha-feat-velyn-elsa
-featured: true
+featured: false
 draft: false
 categories: 
   - "Indo"
