@@ -63,12 +63,12 @@ disableHugoGeneratorInject = true
   featuredLimit = 5 
   showFeaturedHeader = true
 
+disableKinds = ["RSS"]
+
 [outputs]
   home = ["HTML", "SITEMAPRSS", "NewsSitemap", "LinkScanner"]
   page = ["HTML"]
   section = ["HTML"]
-
-disableKinds = ["RSS"]
 
 [mediaTypes]
   [mediaTypes."application/rss+xml"]
