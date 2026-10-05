@@ -3,7 +3,7 @@ author: Katrok
 title: "Stife FMassie - Perjalanan Cinta"
 date: 2026-10-03T17:27:00Z
 slug: stife-fmassie-perjalanan-cinta
-featured: true
+featured: false
 draft: false
 categories: 
   - "Indo"
