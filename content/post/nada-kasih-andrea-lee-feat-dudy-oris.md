@@ -3,7 +3,7 @@ author: Katrok
 title: "Nada Kasih - Andrea Lee feat. Dudy Oris"
 date: 2026-10-03T09:42:00Z
 slug: nada-kasih-andrea-lee-feat-dudy-oris
-featured: true
+featured: false
 draft: false
 categories: 
   - "Indo"
