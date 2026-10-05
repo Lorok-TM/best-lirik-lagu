@@ -3,7 +3,7 @@ author: Katrok
 title: "Liquid Silva - Dingin Di Jakarta"
 date: 2026-10-03T09:57:00Z
 slug: liquid-silva-dingin-di-jakarta
-featured: true
+featured: false
 draft: false
 categories: 
   - "Indo"
