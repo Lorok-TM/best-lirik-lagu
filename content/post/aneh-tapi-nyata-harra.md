@@ -3,7 +3,7 @@ author: Katrok
 title: "Aneh Tapi Nyata - Harra"
 date: 2026-10-04T04:04:00Z
 slug: aneh-tapi-nyata-harra
-featured: true
+featured: false
 draft: false
 categories: 
   - "Indo"
