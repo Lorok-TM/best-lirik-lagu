@@ -3,7 +3,7 @@ author: Katrok
 title: "Raffa Affar - Diriku Trauma"
 date: 2026-09-25T02:49:00Z
 slug: raffa-affar-diriku-trauma
-featured: true
+featured: false
 draft: false
 categories: 
   - "Indo"
