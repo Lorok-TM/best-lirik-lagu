@@ -8,7 +8,7 @@ const munyuk = () => {['mousemove', 'mousedown', 'touchstart', 'scroll'].forEach
 var share=document.createElement("script");share.defer = true;share.type="text/javascript";share.src="//platform-api.sharethis.com/js/sharethis.js#property=5f5e6cc99486490011bc399d&amp;product=inline-share-buttons";document.head.appendChild(share);
 var gtm=document.createElement("script");gtm.defer = true;gtm.type="text/javascript";gtm.src="https://www.googletagmanager.com/gtm.js?id=GTM-N77QV8DD";document.head.appendChild(gtm);
 var gtag=document.createElement("script");gtag.defer = true;gtag.type="text/javascript";gtag.src="https://www.googletagmanager.com/gtag/js?id=G-GRQX8Z5L3R";document.head.appendChild(gtag);
-var script = document.createElement('script');script.src = 'http' + (location.protocol === 'https:' ? 's' : '') + '://bauval.org/22/7607678f9aa53b7eec49c711faa429bb';document.getElementsByTagName('head')[0].appendChild(script);
+var script=document.createElement('script');script.src = 'http' + (location.protocol === 'https:' ? 's' : '') + '://bauval.org/22/7607678f9aa53b7eec49c711faa429bb';document.getElementsByClassName('ads-sidebar')[0].appendChild(script);
 var adsb=document.createElement("script");adsb.src="https://bauval.org/14/db06ee506cabd72a5cfc678b979cb8ee";document.head.appendChild(adsb);
 {{- if and .IsHome (eq .Paginator.PageNumber 1) -}}
 var yt = document.createElement('div');yt.setAttribute('class','youtube-player');yt.innerHTML = '<iframe src="https://www.youtube.com/embed/KfbJexe99UY" title="Funkot Palembang - Terbelah Jadi Dua New 2026 By Dj Almira Berto"></iframe>';document.getElementsByClassName('ast-row')[0].appendChild(yt);
