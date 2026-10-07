@@ -178,7 +178,14 @@ body{background-color:var(--bg-basic-node)}
 <div class='hero-cover' style='background-image: url(https://yt3.googleusercontent.com/pXmZ65B_vcjlfXZ8wenZmiyADpRhPffdSzyrRn-_4GSNkeZ3_PYrPr5EfW0s0_J54XC9m7NV1g=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)'></div>
 {{- else if eq .Type "author" -}}
 <div class='hero-cover' style='background-image: url(https://bestliriklagu.com/image/authors.webp)'></div>
-
+{{- else if and (eq .Kind "taxonomy") (eq .Type "categories") -}}
+<div class='hero-cover' style='background-image: url(https://bestliriklagu.com/image/categories.webp)'></div>
+{{- else if findRE "/page/" .Permalink -}}
+<div class='hero-cover' style='background-image: url(https://bestliriklagu.com/image/pages.webp)'></div>
+{{- else if eq .Type "post" -}}
+<div class='hero-cover' style='background-image: url(https://bestliriklagu.com/image/posts.webp)'></div>
+{{- else if strings.Contains .RelPermalink "/archives/" -}}
+<div class='hero-cover' style='background-image: url(https://bestliriklagu.com/image/archives.webp)'></div>
 {{- else if eq .Title "Aceh" -}}
 <div class='hero-cover' style='background-image: url(https://yt3.googleusercontent.com/yCxVJv5qjA321mFrpiUp_BDgn2vx0bx4EErpJnuRmlmZ6uc-FIbQ7QphnY3jUrznmNN58SUuQfo=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)'></div>
 {{- else if eq .Title "Arab" -}}
