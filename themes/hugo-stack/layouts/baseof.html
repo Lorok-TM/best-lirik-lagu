@@ -172,7 +172,12 @@ body{background-color:var(--bg-basic-node)}
 {{- end -}}
 {{- block "right-sidebar" . -}}
 {{- end -}}
-<main class="site-main"><div class='container'><div class='primary'>
+<main class="site-main">
+{{- if eq .Title "Dayak" -}}
+<div class='hero-cover' style='background-image: url(https://yt3.googleusercontent.com/OcEPnNGG06FeV-D4bRp6kVJ4K4sMJ4pPevw6Ib9_rnb5GUAgG3pWEBPekYLwHyyH0nLv3uew=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)'></div>
+{{- end -}}
+<div class='container'>
+<div class='primary'>
 {{- block "main" . -}}
 {{- end -}}
 </div><div class='secondary'>
