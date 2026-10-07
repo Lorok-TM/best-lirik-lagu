@@ -4,8 +4,6 @@
             <div class="site-branding" itemtype="https://schema.org/Organization" itemscope="itemscope">
 {{- if .IsPage -}}
 <span class="site-title" itemprop="name"><a rel="home" itemprop="url" href="{{ .Site.Home.RelPermalink }}">{{ .Site.Title }}</a></span>
-{{- else if .IsHome -}}
-<h1 class="site-title" itemprop="name">{{ .Site.Title }}</h1><link itemprop="url" href="{{ .Site.Home.RelPermalink }}">
 {{- else -}}
 <h1 class="site-title" itemprop="name"><a rel="home" itemprop="url" href="{{ .Site.Home.RelPermalink }}">{{ .Site.Title }}</a></h1>
 {{- end -}}
