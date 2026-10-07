@@ -176,8 +176,98 @@ body{background-color:var(--bg-basic-node)}
 <main class="site-main">
 {{- if and .IsHome (eq .Paginator.PageNumber 1) -}}
 <div class='hero-cover' style='background-image: url(https://yt3.googleusercontent.com/LU_0sOIWUWsQE4I2pQgFGLaLv8LYMWCqxv1Ks0mZ9GvNOzYF-AXIDi_a60Wr9qfEj-r2BHlupw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)'></div>
+{{- else if eq .Title "Aceh" -}}
+<div class='hero-cover' style='background-image: url(https://yt3.googleusercontent.com/yCxVJv5qjA321mFrpiUp_BDgn2vx0bx4EErpJnuRmlmZ6uc-FIbQ7QphnY3jUrznmNN58SUuQfo=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)'/>
+{{- else if eq .Title "Arab" -}}
+<div class='hero-cover' style='background-image: url(https://yt3.googleusercontent.com/ohBg0u4NN6Q9Bzh2tv80ssfyASSWVMdGp2UUHhAexmuW4fV5UpgPZ98ngFZy-x-oW7UwE5I_Zg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)'/>
+{{- else if eq .Title "Bali" -}}
+<div class='hero-cover' style='background-image: url(https://yt3.googleusercontent.com/WuUoBkWmbPF2xFW8B1MPsNsAy9PSnZhBnJFArVD4AEgtldd88QPY0MaLVJ_2UD5Rd_xx83Pg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)'/>
+{{- else if eq .Title "Band" -}}
+<div class='hero-cover' style='background-image: url(https://yt3.googleusercontent.com/JgHCUeM0hAm7CndDu_xHZLhiUkqM_BHiw8C_jhtX8AlHW3pSIptn4_LgeZU5D2TlJf9V_7reBA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)'/>
+{{- else if eq .Title "Banjar" -}}
+<div class='hero-cover' style='background-image: url(https://yt3.googleusercontent.com/pVCb6AQg5y5l9QxAZW40kFLQvLww1f2PBfZpMQinrIhqqOGpNms262DGQFXQ_Lfdvgg2Ycpu7g=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)'/>
+{{- else if eq .Title "Batak" -}}
+<div class='hero-cover' style='background-image: url(https://yt3.googleusercontent.com/OytWPuBvzZ5Lb_ZBV7qKJ1GucdyM2U5HuNH-gX7WUwGphtdO3wY60nIPGEh9bsh3Fi14HdW9=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)'/>
+{{- else if eq .Title "Bugis" -}}
+<div class='hero-cover' style='background-image: url(https://yt3.googleusercontent.com/eikR6vb6sW6ON733kb369uQ3F2WPswycocQeJXQakF4HYgxQiv6h2o-rKjC-p87nwrOTrZCA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)'/>
+{{- else if eq .Title "Campursari" -}}
+<div class='hero-cover' style='background-image: url(https://yt3.googleusercontent.com/0E8tUgbNvZEXoVU8MdGJfh3WnBrdJMZk7xkhLgEpw5tEyPauzzHISxGd1NEtTfxUrbFrM8XZGg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)'/>
+{{- else if eq .Title "Dangdut" -}}
+<div class='hero-cover' style='background-image: url(https://yt3.googleusercontent.com/RowPuwT7dw6AQ2jWCIDGew7MW9KUrmh7dTHDQ8pJEujaRBB1Q0fOaDOmr_totaTDD6fxZScX=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)'/>
 {{- else if eq .Title "Dayak" -}}
 <div class='hero-cover' style='background-image: url(https://yt3.googleusercontent.com/OcEPnNGG06FeV-D4bRp6kVJ4K4sMJ4pPevw6Ib9_rnb5GUAgG3pWEBPekYLwHyyH0nLv3uew=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)'></div>
+{{- else if eq .Title "Ende" -}}
+<div class='hero-cover' style='background-image: url(https://yt3.googleusercontent.com/G1aPtpar7iQTSEtgmy_2yi_RyEK-BzbtZym9P_OiAGBFpWyT5QOmOKeXwtEhLmwdYF9nLi1Z=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)'/>
+{{- else if eq .Title "Gayo" -}}
+<div class='hero-cover' style='background-image: url(https://yt3.googleusercontent.com/K9oWf_Tt7zTItuwklEzWg18MYRowF1C3SHM9OodK_w9vbPgaXwhfR0w-V0jRzhc4eoVJ8PYDig=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)'/>
+{{- else if eq .Title "Iban" -}}
+<div class='hero-cover' style='background-image: url(https://yt3.googleusercontent.com/C6XA_aUDAIoWdeevmV1UsFY-CvnKRwvU1lxNdFaTsr9S5F-gOD_71k9OtHSKshk9Pe9ImOuwJzU=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)'/>
+{{- else if eq .Title "Indo" -}}
+<div class='hero-cover' style='background-image: url(https://yt3.googleusercontent.com/pkHCQEyJWuufCR1ZbH1Uhk84zLPxC2Sv9fGQoMrklm4x93QYXn9Yp-41bbwZihWf-or_HsJx=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)'/>
+{{- else if eq .Title "Jawa" -}}
+<div class='hero-cover' style='background-image: url(https://yt3.googleusercontent.com/hu--tRDI9wDC6cOA8aEEtOgvQ-DT2hOEiYFYLE9bo0m7yp1FHJr3_90eO0VWvSLsF1M-x9bXR2M=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)'/>
+{{- else if eq .Title "Karo" -}}
+<div class='hero-cover' style='background-image: url(https://yt3.googleusercontent.com/mDefeV-OKFAB0Qt-lVGKumfuQ5Am73iN-vxajo4B5YBjCNlgJub4Teagqv7LQ5V4U1OL-S1BsA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)'/>
+{{- else if eq .Title "Kelate" -}}
+<div class='hero-cover' style='background-image: url(https://yt3.googleusercontent.com/Axiwsf8DEDkbUu9j9c8R0UGbm3R8AlauTmjEq-HyeiruY-17vw6lGM92GmIe-lF8RJ-iL-R5jg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)'/>
+{{- else if eq .Title "Kerinci" -}}
+<div class='hero-cover' style='background-image: url(https://yt3.googleusercontent.com/BP8vLBVFO9fFwPExHMLE-0gtzVWkxekW_5TYpQkhTc81n15Ymhwhi4Wbcp8L_wS9ZJU5gDCd3g=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)'/>
+{{- else if eq .Title "Langgam" -}}
+<div class='hero-cover' style='background-image: url(https://yt3.googleusercontent.com/AlvihJ1D61qUpWRIidyEdycsFv8SaVuuZgcU44kqS1hzw5L1gbA8NOH2SVAQGq6XDgKw4T9k=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)'/>
+{{- else if eq .Title "Madura" -}}
+<div class='hero-cover' style='background-image: url(https://yt3.googleusercontent.com/jV3MeW1XqAn95V2cNhLCRTdepmG11TMuKGROuIpUExnvqzhconXLGJG2Qb3kyNIRPjJhE5zJtg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)'/>
+{{- else if eq .Title "Makassar" -}}
+<div class='hero-cover' style='background-image: url(https://yt3.googleusercontent.com/6ibrEULs-rhDIbRczxixli7UizlRzzeaAAavgi3AHouvTpmpYKbA_j4FNZFPeNmOjatcJF85=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)'/>
+{{- else if eq .Title "Malaysia" -}}
+<div class='hero-cover' style='background-image: url(https://yt3.googleusercontent.com/9zOyTJ4O2vrjYzHzWDzCO8l3TQpnhDvXfPu6o4dsPIJ57wbfDVy_YD5HkHCPQ0dqmGqDrcmgvX8=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)'/>
+{{- else if eq .Title "Manado" -}}
+<div class='hero-cover' style='background-image: url(https://yt3.googleusercontent.com/Fe9cBBqkqjxGTK9Hqe35xZy11X19ap4qdP38s0NNSwDLnw9dES8nvqvNvmjDM5IAaz8QEGh8f54=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)'/>
+{{- else if eq .Title "Manca" -}}
+<div class='hero-cover' style='background-image: url(https://yt3.googleusercontent.com/4x1v2ZKHlJoyfGqGx_-2D4_dsEY1VF4DAeiycvsMh6UZlyH-0vJzmdXxKK5uV2IoJPkFEeVc=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)'/>
+{{- else if eq .Title "Mandar" -}}
+<div class='hero-cover' style='background-image: url(https://yt3.googleusercontent.com/a6cv9dExVA5Vngzg-pesyUHkwiNaSaJMrk87Knz880tpPkobxJNxHwDWNAbkW_k22Ffy4rK-7EU=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)'/>
+{{- else if eq .Title "Manggarai" -}}
+<div class='hero-cover' style='background-image: url(https://yt3.googleusercontent.com/d2rcFlEmm1YWdkSOVvAggkNxiEpz8_6xgQ_wZwXfjMhh5BhFuKjv78Lm6sDYWMpltJUQfRvY-Q=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)'/>
+{{- else if eq .Title "Melayu" -}}
+<div class='hero-cover' style='background-image: url(https://yt3.googleusercontent.com/GBJuhyfyvxz2eZWoB0Wl7oTAFJIStzPg_Nav2rhGfzBalYhcVNLeLZbLQMMhOlxuXbvtrqBJgw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)'/>
+{{- else if eq .Title "Minang" -}}
+<div class='hero-cover' style='background-image: url(https://yt3.googleusercontent.com/s9sHiSGuiBB5HwXf5PkWrjZvHXsFucRRPyOskAiAoleOu4YVqGkgGYZXzMEtcEOOdWzp-h5MFA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)'/>
+{{- else if eq .Title "Nias" -}}
+<div class='hero-cover' style='background-image: url(https://yt3.googleusercontent.com/Sgu7sbIyBiJbNNBgun11OixWJChkjIk5XRn6eXWlK5UwVx4ycv14MSJxZWVqFoApczu7m8pu=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)'/>
+{{- else if eq .Title "Osing" -}}
+<div class='hero-cover' style='background-image: url(https://yt3.googleusercontent.com/2JiRviiQadXnkfaLveFzSgu3on3Ailevt6DSbzuzmYFP0zLk7ayAMgufwB4Xf72ItLgRDPAP8A=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)'/>
+{{- else if eq .Title "OST" -}}
+<div class='hero-cover' style='background-image: url(https://yt3.googleusercontent.com/KcR9mQ758y6g0SYumjJOBy9xjrnxnnkR9eU_JK22PfKlvd1lqNmtGp5n3NDgg_AJfytn17r3c38=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)'/>
+{{- else if eq .Title "Other Music" -}}
+<div class='hero-cover' style='background-image: url(https://yt3.googleusercontent.com/ZkKOdmZLhXRPbWWmsZjpyXqwo313m7eySs3YbCeVwfRtKveYvyH7DWkUVmGkh41oxPbAr3PN9Q=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)'/>
+{{- else if eq .Title "Reggae" -}}
+<div class='hero-cover' style='background-image: url(https://yt3.googleusercontent.com/js-IKXHLRzuJHcqNZcSVobY27s5OeDTgfYx20IQjg8lre6F_P2AHPWSksh-OYcSDRmgMyq9FUQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)'/>
+{{- else if eq .Title "Religi" -}}
+<div class='hero-cover' style='background-image: url(https://yt3.googleusercontent.com/JZpFCWrF6iHxVAD-fATB3PB4PFFr1RGp7JUUYTsZEoGDuxFiLUUoMVv4KXM2L71rnGA1GHxypg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)'/>
+{{- else if eq .Title "Remix" -}}
+<div class='hero-cover' style='background-image: url(https://yt3.googleusercontent.com/LU_0sOIWUWsQE4I2pQgFGLaLv8LYMWCqxv1Ks0mZ9GvNOzYF-AXIDi_a60Wr9qfEj-r2BHlupw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)'/>
+{{- else if eq .Title "Rohani" -}}
+<div class='hero-cover' style='background-image: url(https://yt3.googleusercontent.com/UBPriERhrilR0xayObzMIRPznxM5ZwGbNrruirpOslTjj4wO_FLG5ujfqop0M7blchVxIG-V=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)'/>
+{{- else if eq .Title "Sasak" -}}
+<div class='hero-cover' style='background-image: url(https://yt3.googleusercontent.com/Nq3VIjjOP_4dB-sp1NJePG4ogIo0IQALSL7NgBxxNTuQVir-etthndSSumgNPkzBnEtQsEVG3g=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)'/>
+{{- else if eq .Title "Simalungun" -}}
+<div class='hero-cover' style='background-image: url(https://yt3.googleusercontent.com/Mc0oUoU9lyoqFDMGA5oD0_LV6D7aLviUAtI9G_3jGnarulJ5GRwZmUVC50jjW9-GvvtDPO9G_A=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)'/>
+{{- else if eq .Title "Slow-Rock" -}}
+<div class='hero-cover' style='background-image: url(https://yt3.googleusercontent.com/3FaeRRR8ANKZ9tQGifmUVNq7prnSKhOnegxTJhmq13luUh-D4zJ_yeJtcizQADQnvhqTuowJ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)'/>
+{{- else if eq .Title "Sunda" -}}
+<div class='hero-cover' style='background-image: url(https://yt3.googleusercontent.com/F73ZqPueMsz028zw7YFdHkPPz0DNiMtwLVwdVisYR8XySArZOMEgYtjzqv7KvFC0b34dd7X0=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)'/>
+{{- else if eq .Title "Tapsel" -}}
+<div class='hero-cover' style='background-image: url(https://yt3.googleusercontent.com/VsMNo2VIeh-5a8kDgjbWdZlDgrAdeAdkhaUlmBWgHU1O4qdFLXt8TmeU7Sc7tXz9MVT8Hufo2g=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)'/>
+{{- else if eq .Title "Tarling" -}}
+<div class='hero-cover' style='background-image: url(https://yt3.googleusercontent.com/sBUlqzTsXjWqgvxHdt0oRylP-_-0rbGmlXacFRtsNMLdQctL5EYRk568bUIvgyG5KkqEy5FPZQ8=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)'/>
+{{- else if eq .Title "Tayub" -}}
+<div class='hero-cover' style='background-image: url(https://yt3.googleusercontent.com/AbASKNh4HPrZ08A4D2CQJmgrh_5HS9yjLvrkxnUNPsBw7Cgp-pvPjwusCz2TGX13xsL3sKiGRA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)'/>
+{{- else if eq .Title "Tiktok" -}}
+<div class='hero-cover' style='background-image: url(https://yt3.googleusercontent.com/JyKabpyF8bfGEP1ZESGy76HhF6SKGMukbXuzsrACOX8jLKP-gH2XcRHtfXYz6qk6EkBzlczHbg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)'/>
+{{- else if eq .Title "Timur" -}}
+<div class='hero-cover' style='background-image: url(https://yt3.googleusercontent.com/6w4POpBui1_fCdr4QktYfBp5u0a_vEcZ-5AlcB2dJb8dbq54b8zuG1ucwlRDD-5Gb1SQnOYlpA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)'/>
+{{- else if eq .Title "Toraja" -}}
+<div class='hero-cover' style='background-image: url(https://yt3.googleusercontent.com/Dzmk2NYM4NDZZaahUFi7KA36o45Z4JfIWiuRMys0EqlPAhMV4QE8GSCABaPKuC-8p33a881Y=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)'/>
 {{- end -}}
 <div class='container'>
 <div class='primary'>
