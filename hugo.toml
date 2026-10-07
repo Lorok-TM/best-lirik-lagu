@@ -8,11 +8,6 @@ disableHugoGeneratorInject = true
   post = "/:slug/"
 
 [[menu.main]]
-  name = "Home"
-  pageRef = "/"
-  weight = 10
-
-[[menu.main]]
   name = "Author"
   pageRef = "/author/"
   weight = 20
