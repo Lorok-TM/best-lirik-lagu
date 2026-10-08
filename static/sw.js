@@ -46,9 +46,8 @@ self.addEventListener('push', (event) => {
     body: 'Ada artikel baru yang menarik di web. Klik untuk baca!',
     icon: 'https://bestliriklagu.com/image/192.png',
     badge: 'https://bestliriklagu.com/image/72.png',
-    data: {
-      url: '/' 
-    }
+    vibrate: [100, 50, 100],
+    data: { dateOfArrival: Date.now() }
   };
   if (event.data) {
     const data = event.data.json();
