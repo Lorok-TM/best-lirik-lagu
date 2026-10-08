@@ -1,10 +1,20 @@
 {
+  "id": "?pwa=bestliriklagu",
   "name": "Best Lirik Lagu",
   "short_name": "Best Lyrics",
   "start_url": "https://bestliriklagu.com/",
+  "display_override": [
+    "standalone"
+  ],
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#000000",
+  "lang": "id",
+  "orientation": "any",
+  "dir": "ltr",
+  "categories": [
+    "music"
+  ],
   "description": "Best Lirik Lagu adalah situs lirik lagu terlengkap yang menghadirkan keindahan bahasa dari Sabang sampai Merauke. Temukan ribuan lirik lagu Indonesia populer, lagu hits lawas, hingga tembang daerah dari berbagai suku.",
   "icons": [
     {
@@ -35,15 +45,5 @@
       "form_factor": "narrow",
       "label": "Tampilan Mobile"
     }
-  ],
-  "lang": "id",
-  "orientation": "any",
-  "display_override": [
-    "standalone"
-  ],
-  "dir": "ltr",
-  "categories": [
-    "music"
-  ],
-  "id": "https://bestliriklagu.com/app"
+  ]
 }
