@@ -1,87 +1,68 @@
-const CACHE_NAME = 'lirik-pwa-cache-v3'; 
-const urlsToCache = [
-  '/',
-  '/favicon.ico'
-];
-
-self.addEventListener('install', event => {
-  event.waitUntil(
-    caches.open(CACHE_NAME).then(cache => {
-      console.log('Simpan aset utama Situs');
-      return cache.addAll(urlsToCache);
-    })
-  );
-  self.skipWaiting();
+const CACHE = "pwabuilder-offline-page";
+importScripts('https://storage.googleapis.com/workbox-cdn/releases/5.1.2/workbox-sw.js');
+const offlineFallbackPage = "/offline.html";
+self.addEventListener("message", (event) => {
+  if (event.data && event.data.type === "SKIP_WAITING") {
+    self.skipWaiting();
+  }
 });
-
-self.addEventListener('activate', event => {
+self.addEventListener('install', async (event) => {
   event.waitUntil(
-    caches.keys().then(cacheNames => {
-      return Promise.all(
-        cacheNames.map(cache => {
-          if (cache !== CACHE_NAME) {
-            console.log('Hapus cache lama:', cache);
-            return caches.delete(cache);
-          }
-        })
-      );
-    })
+    caches.open(CACHE)
+      .then((cache) => cache.add(offlineFallbackPage))
   );
-  self.clients.claim();
 });
-
-self.addEventListener('fetch', event => {
-  event.respondWith(
-    fetch(event.request)
-      .then(response => {
-        if (response.status === 200) {
-          const responseClone = response.clone();
-          caches.open(CACHE_NAME).then(cache => {
-            cache.put(event.request, responseClone);
-          });
+if (workbox.navigationPreload.isSupported()) {
+  workbox.navigationPreload.enable();
+}
+workbox.routing.registerRoute(
+  new RegExp('/*'),
+  new workbox.strategies.StaleWhileRevalidate({
+    cacheName: CACHE
+  })
+);
+self.addEventListener('fetch', (event) => {
+  if (event.request.mode === 'navigate') {
+    event.respondWith((async () => {
+      try {
+        const preloadResp = await event.preloadResponse;
+        if (preloadResp) {
+          return preloadResp;
         }
-        return response;
-      })
-      .catch(() => {
-        return caches.match(event.request).then(cachedResponse => {
-          if (cachedResponse) {
-            return cachedResponse;
-          }
-          return caches.match('/');
-        });
-      })
-  );
+        const networkResp = await fetch(event.request);
+        return networkResp;
+      } catch (error) {
+        const cache = await caches.open(CACHE);
+        const cachedResp = await cache.match(offlineFallbackPage);
+        return cachedResp;
+      }
+    })());
+  }
 });
 
-self.addEventListener('push', event => {
+self.addEventListener('push', (event) => {
   let title = 'Kabar Terbaru, Bro!';
   let options = {
-    body: 'Update Terbaru',
-    icon: 'https://bestliriklagu.com/image/192.webp',
-    badge: 'https://bestliriklagu.com/image/192.webp',
-    vibrate: [100, 50, 100],
-    data: { dateOfArrival: Date.now() }
-  };
-
-  if (event.data) {
-    try {
-      const dataJson = event.data.json();
-      title = dataJson.title || title;
-      options.body = dataJson.body || options.body;
-      if (dataJson.icon) options.icon = dataJson.icon;
-    } catch (e) {
-      options.body = event.data.text();
+    body: 'Ada artikel baru yang menarik di web. Klik untuk baca!',
+    icon: 'https://bestliriklagu.com/image/192.png',
+    badge: 'https://bestliriklagu.com/image/72.png',
+    data: {
+      url: '/' 
     }
+  };
+  if (event.data) {
+    const data = event.data.json();
+    title = data.title || title;
+    options.body = data.body || options.body;
+    options.data.url = data.url || options.data.url;
   }
-
   event.waitUntil(
     self.registration.showNotification(title, options)
   );
 });
-
-self.addEventListener('notificationclick', event => {
+self.addEventListener('notificationclick', (event) => {
   event.notification.close();
   event.waitUntil(
-    clients.openWindow('/')
+    clients.openWindow(event.notification.data.url)
   );
 });
