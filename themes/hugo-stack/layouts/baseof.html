@@ -185,7 +185,7 @@ body{background-color:var(--bg-basic-node)}
 <div class='hero-cover' style='background-image: url(https://bestliriklagu.com/image/authors.webp)'></div>
 {{- else if and (eq .Kind "taxonomy") (eq .Type "categories") -}}
 <div class='hero-cover' style='background-image: url(https://bestliriklagu.com/image/categories.webp)'></div>
-{{- else if findRE "/page/" .Permalink -}}
+{{- else if and (.IsSection) (eq .Section "page") -}}
 <div class='hero-cover' style='background-image: url(https://bestliriklagu.com/image/pages.webp)'></div>
 {{- else if and (eq .Type "post") (not .IsPage) -}}
 <div class='hero-cover' style='background-image: url(https://bestliriklagu.com/image/posts.webp)'></div>
