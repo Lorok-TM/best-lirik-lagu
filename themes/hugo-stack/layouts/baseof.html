@@ -58,7 +58,8 @@ img{max-width:100%}
 .search-form .search-submit{height:38px;width:60px;flex:0 0 60px;margin:0;padding:0;border:0;background:#fff;color:#444;cursor:pointer;border-left:1px solid #eee;display:inline-flex;align-items:center;justify-content:center;vertical-align:middle;position:relative}
 .search-form .search-submit:hover{background-color:#eee}
 html:has(#btn-search:checked),body:has(#btn-search:checked){overflow:hidden}
-.site-main{min-height:100vh}.site-main,.site-footer{width:100%}.site-footer{border-top:1px solid var(--gray-2)}.site-footer .container::before{content:"";display:block;height:3px;width:50px;background:#707070;margin-bottom:10px}main,aside,footer{position:relative}.breadcrumbs{margin:0 0 15px 0;padding:0;width:100%}.breadcrumbs ul{display:flex;flex-wrap:wrap;list-style:none;padding:0;margin:0;gap:10px;font-size:14px}.breadcrumbs li{display:flex;align-items:center}.breadcrumbs li:not(:last-child)::after{content:"/";margin-left:10px;color:#ccc}.breadcrumbs li a{font-weight:500;color:var(--accent-color)}.breadcrumbs li a:hover{text-decoration:underline}.breadcrumbs span{font-weight:normal;color:var(--card-text-color-tertiary)}
+.site-main{min-height:100vh}.site-main,.site-footer{width:100%}.site-footer{border-top:1px solid var(--gray-2)}
+main,aside,footer{position:relative}.breadcrumbs{margin:0 0 15px 0;padding:0;width:100%}.breadcrumbs ul{display:flex;flex-wrap:wrap;list-style:none;padding:0;margin:0;gap:10px;font-size:14px}.breadcrumbs li{display:flex;align-items:center}.breadcrumbs li:not(:last-child)::after{content:"/";margin-left:10px;color:#ccc}.breadcrumbs li a{font-weight:500;color:var(--accent-color)}.breadcrumbs li a:hover{text-decoration:underline}.breadcrumbs span{font-weight:normal;color:var(--card-text-color-tertiary)}
 
 {{- /* AST ROW */ -}}
 .ast-row{width:100%}
@@ -103,10 +104,14 @@ blockquote{margin:24px 0;padding:15px;background-color:var(--gray-1);border-radi
 .ast-row .post,.ast-row ul li{padding:25px}.menu{width:100%}.site-main,.site-footer{padding-left:300px}
 .primary,.secondary{top:10px}
 .primary{width:calc(100% - 330px);margin-right:30px}
+.site-footer .container::before{content:"";display:block;height:3px;width:50px;background:#707070;margin-bottom:10px}
 }
 
 {{- /* LUWIH SEMPIT SOKO 1200px */ -}}
-@media (max-width:1200px){body{padding-top:50px}.site-header{position:fixed}.toggleMenu{display:inline-block}.menu{position:fixed;width:200px;transform:translateX(-500px);margin:0;padding:0;top:65px;left:15px;bottom:15px;transition:transform 0.3s ease}:has(#toggle:checked) .menu{transform:translateX(0);z-index:9}:has(#toggle:checked) .toggleMenu::before{content:'';position:fixed;top:50px;left:0;right:0;bottom:0;background-color:rgb(0 0 0/.5);z-index:7;backdrop-filter:blur(2px)}html:has(#toggle:checked),body:has(#toggle:checked){overflow:hidden}}
+@media (max-width:1200px){
+body{padding-top:50px}.site-header{position:fixed}.toggleMenu{display:inline-block}.menu{position:fixed;width:200px;transform:translateX(-500px);margin:0;padding:0;top:65px;left:15px;bottom:15px;transition:transform 0.3s ease}:has(#toggle:checked) .menu{transform:translateX(0);z-index:9}:has(#toggle:checked) .toggleMenu::before{content:'';position:fixed;top:50px;left:0;right:0;bottom:0;background-color:rgb(0 0 0/.5);z-index:7;backdrop-filter:blur(2px)}html:has(#toggle:checked),body:has(#toggle:checked){overflow:hidden}
+.copyright{text-align:center}
+}
 
 {{- /* LUWIH SEMPIT SOKO 768px */ -}}
 @media (max-width:768px){.secondary{margin:0 auto 24px auto}}
