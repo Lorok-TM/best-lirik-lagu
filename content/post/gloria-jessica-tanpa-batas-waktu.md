@@ -3,7 +3,7 @@ author: Katrok
 title: "Gloria Jessica - Tanpa Batas Waktu"
 date: 2026-10-02T20:08:00Z
 slug: gloria-jessica-tanpa-batas-waktu
-featured: true
+featured: false
 draft: false
 categories: 
   - "Indo"
