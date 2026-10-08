@@ -39,10 +39,6 @@
   "lang": "id",
   "orientation": "any",
   "display_override": [
-    "browser",
-    "fullscreen",
-    "window-controls-overlay",
-    "minimal-ui",
     "standalone"
   ],
   "dir": "ltr",
