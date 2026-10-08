@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="jv">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jaringan Pedhot - Offline</title>
+    <style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            background-color: #f3f4f6;
+            color: #1f2937;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            min-height: 100vh;
+            padding: 20px;
+            text-align: center;
+        }
+        .card {
+            background: white;
+            padding: 40px 30px;
+            border-radius: 16px;
+            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+            max-width: 400px;
+            width: 100%;
+        }
+        .icon {
+            font-size: 64px;
+            margin-bottom: 20px;
+            display: inline-block;
+            animation: float 3s ease-in-out infinite;
+        }
+        @keyframes float {
+            0% { transform: translateY(0px); }
+            50% { transform: translateY(-10px); }
+            100% { transform: translateY(0px); }
+        }
+        h1 {
+            font-size: 24px;
+            font-weight: 700;
+            margin-bottom: 12px;
+            color: #111827;
+        }
+        p {
+            font-size: 15px;
+            color: #4b5563;
+            line-height: 1.6;
+            margin-bottom: 30px;
+        }
+        .btn {
+            display: inline-block;
+            background-color: #2563eb;
+            color: white;
+            padding: 12px 24px;
+            font-size: 15px;
+            font-weight: 600;
+            border-radius: 8px;
+            text-decoration: none;
+            border: none;
+            cursor: pointer;
+            width: 100%;
+            transition: background-color 0.2s;
+        }
+        .btn:hover {
+            background-color: #1d4ed8;
+        }
+        .btn:active {
+            transform: scale(0.98);
+        }
+    </style>
+</head>
+<body>
+
+    <div class="card">
+        <!-- Lambang Sinyal Pedhot -->
+        <div class="icon">🌐🔌</div>
+        
+        <h1>Sampeyan Lagi Offline</h1>
+        
+        <p>Koneksi internet sampeyan lagi pedhot utawa ora stabil. Kaca iki durung tau dibuka sadurunge, dadi durung kasimpen ing memori HP/browser.</p>
+        
+        <!-- Tombol kanggo nyoba reload kaca -->
+        <button class="btn" onclick="cobaManeh()">Coba Maneh</button>
+    </div>
+
+    <script>
+        function cobaManeh() {
+            // Ngecek yen internet wis nyambung, langsung reload menyang kaca sing dituju pangguna
+            if (navigator.onLine) {
+                window.location.reload();
+            } else {
+                // Yen isih offline, wenehi efek getar cilik utawa tandha yen isih offline
+                const btn = document.querySelector('.btn');
+                btn.style.backgroundColor = '#dc2626';
+                btn.innerText = 'Isih Offline, Bro...';
+                
+                setTimeout(() => {
+                    btn.style.backgroundColor = '#2563eb';
+                    btn.innerText = 'Coba Maneh';
+                }, 2000);
+            }
+        }
+
+        // Yen dumadakan internet nyambung maneh dhewe, otomatis reload
+        window.addEventListener('online', () => {
+            window.location.reload();
+        });
+    </script>
+</body>
+</html>
