@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html lang="jv">
+<html lang="id">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Jaringan Pedhot - Offline</title>
+    <title>Jaringan Putus - Offline</title>
     <style>
         * {
             box-sizing: border-box;
@@ -80,10 +80,10 @@
 <body>
     <div class="card">
         <div class="icon">🌐🔌</div>
-        <h1>Sampeyan Lagi Offline</h1>
-        <p>Koneksi internet sampeyan lagi pedhot utawa ora stabil. Kaca iki durung tau dibuka sadurunge, dadi durung kasimpen ing memori HP/browser.</p>
-        <button class="btn" onclick="cobaManeh()">Coba Maneh</button>
-        <a href="/" class="btn back-to-home">Back To Home</a>
+        <h1>Anda Lagi Offline</h1>
+        <p>Koneksi internet Anda lagi putus atau tidak stabil. Halaman ini belum pernah dibuka sebelumnya, jadi belum tersimpan di memori HP/browser.</p>
+        <button class="btn" onclick="cobaManeh()">Coba Lagi</button>
+        <a href="/" class="btn back-to-home">Kembali Ke Beranda</a>
     </div>
     <script>
         function cobaManeh() {
@@ -92,10 +92,10 @@
             } else {
                 const btn = document.querySelector('.btn');
                 btn.style.backgroundColor = '#dc2626';
-                btn.innerText = 'Isih Offline, Bro...'; 
+                btn.innerText = 'Masih Offline, Bro'; 
                 setTimeout(() => {
                     btn.style.backgroundColor = '#2563eb';
-                    btn.innerText = 'Coba Maneh';
+                    btn.innerText = 'Coba Lagi';
                 }, 2000);
             }
         }
