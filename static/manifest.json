@@ -1,19 +1,53 @@
-{ 
-"name": "Best Lirik Lagu", 
-"short_name": "Best Lyrics", 
-"start_url": "https://bestliriklagu.com/",
-"display": "standalone", 
-"background_color": "#ffffff", 
-"theme_color": "#000000", 
-"description": "Best Lirik Lagu adalah situs lirik lagu terlengkap yang menghadirkan keindahan bahasa dari Sabang sampai Merauke. Temukan ribuan lirik lagu Indonesia populer, lagu hits lawas, hingga tembang daerah dari berbagai suku.", 
-"icons": 
-[ 
-{"src":"https://bestliriklagu.com/image/192.png","sizes":"192x192","type":"image/png","purpose":"any"}, 
-{"src":"https://bestliriklagu.com/image/512.png","sizes":"512x512","type":"image/png","purpose":"any"} 
-], 
-"screenshots": 
-[ 
-{"src":"https://bestliriklagu.com/image/wide.png","sizes":"1280x720","type":"image/png","form_factor":"wide","label":"Tampilan Desktop"}, 
-{"src":"https://bestliriklagu.com/image/narrow.png","sizes":"720x1280","type":"image/png","form_factor":"narrow","label":"Tampilan Mobile"} 
-] 
-} 
+{
+  "name": "Best Lirik Lagu",
+  "short_name": "Best Lyrics",
+  "start_url": "https://bestliriklagu.com/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "description": "Best Lirik Lagu adalah situs lirik lagu terlengkap yang menghadirkan keindahan bahasa dari Sabang sampai Merauke. Temukan ribuan lirik lagu Indonesia populer, lagu hits lawas, hingga tembang daerah dari berbagai suku.",
+  "icons": [
+    {
+      "src": "https://bestliriklagu.com/image/192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://bestliriklagu.com/image/512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "https://bestliriklagu.com/image/wide.png",
+      "sizes": "1280x720",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "Tampilan Desktop"
+    },
+    {
+      "src": "https://bestliriklagu.com/image/narrow.png",
+      "sizes": "720x1280",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Tampilan Mobile"
+    }
+  ],
+  "lang": "id",
+  "orientation": "any",
+  "display_override": [
+    "browser",
+    "fullscreen",
+    "window-controls-overlay",
+    "minimal-ui",
+    "standalone"
+  ],
+  "dir": "ltr",
+  "categories": [
+    "music"
+  ],
+  "id": "https://bestliriklagu.com/app"
+}
