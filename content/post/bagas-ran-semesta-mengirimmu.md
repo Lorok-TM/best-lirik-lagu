@@ -3,7 +3,7 @@ author: Katrok
 title: "Bagas Ran - Semesta Mengirimmu"
 date: 2026-10-02T20:23:00Z
 slug: bagas-ran-semesta-mengirimmu
-featured: true
+featured: false
 draft: false
 categories: 
   - "Indo"
