@@ -10,25 +10,11 @@
       ]
     }
   ],
-
   "redirects": [
     {
-      "source": "/((?!^$|.*\\..*$).*)",
-      "has": [
-        {
-          "type": "host",
-          "value": "(?<host>.*)"
-        }
-      ],
-      "missing": [
-        {
-          "type": "header",
-          "key": "x-vercel-forwarded-for"
-        }
-      ],
-      "destination": "/",
+      "source": "/index.xml",
+      "destination": "/sitemap.rss",
       "permanent": true
     }
   ]
-
 }
