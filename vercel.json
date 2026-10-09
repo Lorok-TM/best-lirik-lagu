@@ -14,7 +14,7 @@
   "cleanUrls": true,
   "redirects": [
     {
-      "source": "/:slug((?!robots\\.txt|sitemap\\.xml|sitemap-news\\.xml|sitemap\\.rss|favicon\\.ico|favicon\\.svg|manifest\\.json|sw\\.js|dj-almira-berto\\.js|offline\\.html).*)",
+      "source": "/:slug(?!robots\\.txt|sitemap\\.xml|sitemap-news\\.xml|sitemap\\.rss|favicon\\.ico|favicon\\.svg|manifest\\.json|sw\\.js|dj-almira-berto\\.js|offline\\.html)",
       "destination": "/",
       "permanent": true
     },
