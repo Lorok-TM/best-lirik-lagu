@@ -13,11 +13,6 @@
 
   "redirects": [
     {
-      "source": "/index.xml",
-      "destination": "/sitemap.rss",
-      "permanent": true
-    },
-    {
       "source": "/((?!^$|.*\\..*$).*)",
       "has": [
         {
