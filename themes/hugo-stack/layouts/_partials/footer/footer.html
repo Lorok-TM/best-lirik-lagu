@@ -48,39 +48,4 @@ document.addEventListener('DOMContentLoaded', function() {
     hubungkanObserver();
 });
 </script>
-
-{{- /* TOMBOL NGGO NOTIF PWA */ -}}
-<button style="display:none" id='tombol-pwa-notif' onclick='uripnoNotifikasiManual()' title='Aktifkan Notifikasi'>🔔</button>
-
-{{- /* SCRIPT NGGO NOTIF PWA */ -}}
-<script>
-document.addEventListener("DOMContentLoaded", function() {
-  const tombol = document.getElementById('tombol-pwa-notif');
-  if ('Notification' in window) {
-    if (Notification.permission === 'default') {
-      tombol.style.display = 'flex';
-    } else {
-      tombol.style.display = 'none';
-    }
-  }
-});
-function uripnoNotifikasiManual() {
-  if ('Notification' in window) {
-    Notification.requestPermission().then(permission => {
-      const tombol = document.getElementById('tombol-pwa-notif');
-      if (permission === 'granted') {
-        alert('Matur nuwun, notifikasi wis aktif, bro!');
-        tombol.style.display = 'none';
-        navigator.serviceWorker.ready.then(reg => {
-          console.log('Service Worker siap nggo push');
-        });
-      } else if (permission === 'denied') {
-        alert('Ijin ditolak. Yen pengen ngaktifno, kudu lewat setelan gembok browser, bro.');
-        tombol.style.display = 'none';
-      }
-    });
-  }
-}
-</script>
-{{- /* PENUTUP FOOTER */ -}}
 </footer>
