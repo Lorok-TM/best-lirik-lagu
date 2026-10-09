@@ -15,11 +15,8 @@
       "source": "/index.xml",
       "destination": "/sitemap.rss",
       "permanent": true
-    },
-    {
-      "source": "/(.*)",
-      "destination": "/",
-      "permanent": true
     }
-  ]
+  ],
+  "cleanUrls": true,
+  "trailingSlash": true
 }
