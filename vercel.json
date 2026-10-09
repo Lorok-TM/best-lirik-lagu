@@ -14,11 +14,6 @@
   "cleanUrls": true,
   "redirects": [
     {
-      "source": "/:slug((?!manifest\\.json|favicon\\.ico|robots\\.txt|sitemap\\.xml).*)",
-      "destination": "/",
-      "permanent": true
-    },
-    {
       "source": "/index.xml",
       "destination": "/sitemap.rss",
       "permanent": true
