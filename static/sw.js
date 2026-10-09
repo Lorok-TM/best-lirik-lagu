@@ -41,19 +41,28 @@ self.addEventListener('fetch', (event) => {
 });
 
 self.addEventListener('push', (event) => {
-  let title = 'Kabar Terbaru, Bro!';
+  let title = 'Kabar Anyar, Bro!';
+  let urlTujuan = '/';
   let options = {
     body: 'Ada artikel baru yang menarik di web. Klik untuk baca!',
     icon: 'https://bestliriklagu.com/image/192.png',
     badge: 'https://bestliriklagu.com/image/72.png',
     vibrate: [100, 50, 100],
-    data: { dateOfArrival: Date.now() }
+    data: {
+      url: urlTujuan
+    }
   };
   if (event.data) {
-    const data = event.data.json();
-    title = data.title || title;
-    options.body = data.body || options.body;
-    options.data.url = data.url || options.data.url;
+    try {
+      const dataSakaServer = event.data.json();
+      title = dataSakaServer.title || title;
+      options.body = dataSakaServer.body || options.body;
+      if (dataSakaServer.url) {
+        options.data.url = dataSakaServer.url;
+      }
+    } catch (e) {
+      options.body = event.data.text();
+    }
   }
   event.waitUntil(
     self.registration.showNotification(title, options)
@@ -61,7 +70,8 @@ self.addEventListener('push', (event) => {
 });
 self.addEventListener('notificationclick', (event) => {
   event.notification.close();
+  const targetUrl = event.notification.data && event.notification.data.url ? event.notification.data.url : '/';
   event.waitUntil(
-    clients.openWindow(event.notification.data.url)
+    clients.openWindow(targetUrl)
   );
 });
