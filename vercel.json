@@ -10,13 +10,18 @@
       ]
     }
   ],
+  "cleanUrls": true,
+  "trailingSlash": true,
   "redirects": [
     {
       "source": "/index.xml",
       "destination": "/sitemap.rss",
       "permanent": true
+    },
+    {
+      "source": "/404.html",
+      "destination": "/",
+      "permanent": true
     }
-  ],
-  "cleanUrls": true,
-  "trailingSlash": true
+  ]
 }
