@@ -10,18 +10,25 @@
       ]
     }
   ],
-  "cleanUrls": true,
-  "trailingSlash": true,
   "redirects": [
     {
       "source": "/index.xml",
       "destination": "/sitemap.rss",
       "permanent": true
+    }
+  ],
+  "cleanUrls": true,
+  "trailingSlash": true,
+  "routes": [
+    {
+      "handle": "filesystem"
     },
     {
-      "source": "/404.html",
-      "destination": "/",
-      "permanent": true
+      "src": "/(.*)",
+      "status": 301,
+      "headers": {
+        "Location": "/"
+      }
     }
   ]
 }
