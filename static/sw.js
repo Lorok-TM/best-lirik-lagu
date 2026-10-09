@@ -41,7 +41,7 @@ self.addEventListener('fetch', (event) => {
 });
 
 self.addEventListener('push', (event) => {
-  let title = 'Kabar Anyar, Bro!';
+  let title = 'Kabar Terbaru, Bro!';
   let urlTujuan = '/';
   let options = {
     body: 'Ada artikel baru yang menarik di web. Klik untuk baca!',
