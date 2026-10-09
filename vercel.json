@@ -10,15 +10,18 @@
       ]
     }
   ],
-  
-  "cleanUrls": true,
-  "redirects": [
 
+  "redirects": [
     {
       "source": "/index.xml",
       "destination": "/sitemap.rss",
       "permanent": true
+    },
+    {
+      "source": "/post/:slug",
+      "destination": "/",
+      "permanent": true
     }
-  ]
-  
+  ] 
+
 }
