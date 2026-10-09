@@ -162,11 +162,11 @@ body{background-color:var(--bg-basic-node)}
 
 {{- /* Gaya Tombol PWA INSTAL or CLOSE */ -}}
 #pwa-install-container{position:fixed;bottom:24px;right:24px;z-index:9999;display:flex;align-items:center;gap:8px}
-.pwa-btn{display:flex;align-items:center;gap:10px;background:linear-gradient(135deg,#007bff,#0056b3);color:#fff;border:none;padding:6px 10px;border-radius:50px;font-family:system-ui,-apple-system,sans-serif;font-weight:600;font-size:15px;box-shadow:0 4px 15px rgb(0 123 255/.4);cursor:pointer;transition:box-shadow .2s ease;animation:pwaPulse 2s infinite}
+.pwa-btn{display:flex;align-items:center;gap:6px;background:linear-gradient(135deg,#007bff,#0056b3);color:#fff;border:none;padding:6px 12px;border-radius:50px;font-family:system-ui,-apple-system,sans-serif;font-weight:600;font-size:15px;box-shadow:0 4px 15px rgb(0 123 255/.4);cursor:pointer;transition:box-shadow .2s ease;animation:pwaPulse 2s infinite}
 .pwa-btn:hover{box-shadow:0 6px 20px rgb(0 123 255/.6);background:linear-gradient(135deg,#0056b3,#004085)}
 .pwa-btn:active{box-shadow:0 2px 10px rgb(0 123 255/.4)}
 .pwa-icon{font-size:18px;display:inline-block;animation:pwaWobble 4s infinite ease-in-out}
-.pwa-close-btn{background:#f8f9fa;color:#f00;border:1px solid #ddd;width:40px;height:40px;border-radius:50px;font-size:16px;font-weight:bold;cursor:pointer;display:flex;align-items:center;justify-content:center;box-shadow:0 4px 10px rgb(0 0 0/.1);transition: all 0.2s ease}
+.pwa-close-btn{background:#f8f9fa;color:#f00;width:40px;height:40px;border-radius:50px;font-size:16px;font-weight:bold;cursor:pointer;display:flex;align-items:center;justify-content:center;box-shadow:0 4px 10px rgb(0 0 0/.1);transition: all 0.2s ease}
 .pwa-close-btn:hover{background:#e2e6ea;transform:scale(1.05)}
 @keyframes pwaPulse{ 0% {box-shadow: 0 0 0 0 rgb(0 123 255/.7)} 70% {box-shadow: 0 0 0 12px rgb(0 123 255/0)} 100% {box-shadow: 0 0 0 0 rgb(0 123 255/0)}}
 @keyframes pwaWobble{ 0%, 100% {transform: rotate(0deg)} 85% {transform: rotate(0deg)} 90% {transform:rotate(-15deg)} 95% {transform:rotate(15deg)}}
