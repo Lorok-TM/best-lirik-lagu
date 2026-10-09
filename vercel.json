@@ -16,5 +16,11 @@
       "destination": "/sitemap.rss",
       "permanent": true
     }
+  ],
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/"
+    }
   ]
 }
