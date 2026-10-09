@@ -26,5 +26,16 @@
         "Location": "/"
       }
     }
+  ],
+    "headers": [
+    {
+      "source": "/sitemap.rss",
+      "headers": [
+        {
+          "key": "Content-Type",
+          "value": "application/xml; charset=utf-8"
+        }
+      ]
+    }
   ]
 }
