@@ -1,4 +1,4 @@
-const CACHE_NAME = 'lirik-pwa-cache-v3'; 
+const CACHE_NAME = 'pwa-cache-v1'; 
 const urlsToCache = [
   '/',
   '/offline.html',
@@ -32,6 +32,8 @@ self.addEventListener('activate', event => {
 });
 
 self.addEventListener('fetch', event => {
+  if (event.request.method !== 'GET') return;
+
   event.respondWith(
     fetch(event.request)
       .then(response => {
@@ -48,7 +50,12 @@ self.addEventListener('fetch', event => {
           if (cachedResponse) {
             return cachedResponse;
           }
-          return caches.match('/offline.html');
+
+          if (event.request.mode === 'navigate' || (event.request.headers.get('accept') && event.request.headers.get('accept').includes('text/html'))) {
+            return caches.match('/offline.html');
+          }
+          
+          return caches.match('/');
         });
       })
   );
