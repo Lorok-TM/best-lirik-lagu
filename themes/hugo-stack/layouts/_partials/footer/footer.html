@@ -9,7 +9,9 @@ var share=document.createElement("script");share.defer = true;share.type="text/j
 var gtm=document.createElement("script");gtm.defer = true;gtm.type="text/javascript";gtm.src="https://www.googletagmanager.com/gtm.js?id=GTM-N77QV8DD";document.head.appendChild(gtm);
 var gtag=document.createElement("script");gtag.defer = true;gtag.type="text/javascript";gtag.src="https://www.googletagmanager.com/gtag/js?id=G-GRQX8Z5L3R";document.head.appendChild(gtag);
 var script=document.createElement('script');script.src = 'http' + (location.protocol === 'https:' ? 's' : '') + '://bauval.org/22/7607678f9aa53b7eec49c711faa429bb';document.getElementsByClassName('ads-sidebar')[0].appendChild(script);
+{{- /* ISTIRAHAT DULU BRO
 var adsb=document.createElement("script");adsb.src="https://bauval.org/14/db06ee506cabd72a5cfc678b979cb8ee";document.head.appendChild(adsb);
+*/ -}}
 {{- if and .IsHome (eq .Paginator.PageNumber 1) -}}
 var djAB=document.createElement("script");djAB.src="/dj-almira-berto.js";document.body.appendChild(djAB);
 {{- end -}}
