@@ -1,78 +1,88 @@
-const CACHE = "pwabuilder-offline-page";
-!function(){"use strict";try{self["workbox:sw:5.1.2"]&&_()}catch(t){}const t={backgroundSync:"background-sync",broadcastUpdate:"broadcast-update",cacheableResponse:"cacheable-response",core:"core",expiration:"expiration",googleAnalytics:"offline-ga",navigationPreload:"navigation-preload",precaching:"precaching",rangeRequests:"range-requests",routing:"routing",strategies:"strategies",streams:"streams"};self.workbox=new class{constructor(){return this.v={},this.t={debug:"localhost"===self.location.hostname,modulePathPrefix:null,modulePathCb:null},this.s=this.t.debug?"dev":"prod",this.o=!1,new Proxy(this,{get(e,s){if(e[s])return e[s];const o=t[s];return o&&e.loadModule(`workbox-${o}`),e[s]}})}setConfig(t={}){if(this.o)throw new Error("Config must be set before accessing workbox.* modules");Object.assign(this.t,t),this.s=this.t.debug?"dev":"prod"}loadModule(t){const e=this.i(t);try{importScripts(e),this.o=!0}catch(s){throw console.error(`Unable to import module '${t}' from '${e}'.`),s}}i(t){if(this.t.modulePathCb)return this.t.modulePathCb(t,this.t.debug);let e=["https://storage.googleapis.com/workbox-cdn/releases/5.1.2"];const s=`${t}.${this.s}.js`,o=this.t.modulePathPrefix;return o&&(e=o.split("/"),""===e[e.length-1]&&e.splice(e.length-1,1)),e.push(s),e.join("/")}}}();
-//# sourceMappingURL=workbox-sw.js.map
-const offlineFallbackPage = "/offline.html";
-self.addEventListener("message", (event) => {
-  if (event.data && event.data.type === "SKIP_WAITING") {
-    self.skipWaiting();
-  }
-});
-self.addEventListener('install', async (event) => {
+const CACHE_NAME = 'lirik-pwa-cache-v3'; 
+const urlsToCache = [
+  '/',
+  '/offline.html',
+  '/favicon.ico'
+];
+
+self.addEventListener('install', event => {
   event.waitUntil(
-    caches.open(CACHE)
-      .then((cache) => cache.add(offlineFallbackPage))
+    caches.open(CACHE_NAME).then(cache => {
+      console.log('Simpan aset utama Situs');
+      return cache.addAll(urlsToCache);
+    })
   );
-});
-if (workbox.navigationPreload.isSupported()) {
-  workbox.navigationPreload.enable();
-}
-workbox.routing.registerRoute(
-  new RegExp('/*'),
-  new workbox.strategies.StaleWhileRevalidate({
-    cacheName: CACHE
-  })
-);
-self.addEventListener('fetch', (event) => {
-  if (event.request.mode === 'navigate') {
-    event.respondWith((async () => {
-      try {
-        const preloadResp = await event.preloadResponse;
-        if (preloadResp) {
-          return preloadResp;
-        }
-        const networkResp = await fetch(event.request);
-        return networkResp;
-      } catch (error) {
-        const cache = await caches.open(CACHE);
-        const cachedResp = await cache.match(offlineFallbackPage);
-        return cachedResp;
-      }
-    })());
-  }
+  self.skipWaiting();
 });
 
-self.addEventListener('push', (event) => {
+self.addEventListener('activate', event => {
+  event.waitUntil(
+    caches.keys().then(cacheNames => {
+      return Promise.all(
+        cacheNames.map(cache => {
+          if (cache !== CACHE_NAME) {
+            console.log('Hapus cache lama:', cache);
+            return caches.delete(cache);
+          }
+        })
+      );
+    })
+  );
+  self.clients.claim();
+});
+
+self.addEventListener('fetch', event => {
+  event.respondWith(
+    fetch(event.request)
+      .then(response => {
+        if (response.status === 200) {
+          const responseClone = response.clone();
+          caches.open(CACHE_NAME).then(cache => {
+            cache.put(event.request, responseClone);
+          });
+        }
+        return response;
+      })
+      .catch(() => {
+        return caches.match(event.request).then(cachedResponse => {
+          if (cachedResponse) {
+            return cachedResponse;
+          }
+          return caches.match('/offline.html');
+        });
+      })
+  );
+});
+
+self.addEventListener('push', event => {
   let title = 'Kabar Terbaru, Bro!';
-  let urlTujuan = '/';
   let options = {
     body: 'Ada artikel baru yang menarik di web. Klik untuk baca!',
     icon: 'https://bestliriklagu.com/image/192.png',
     badge: 'https://bestliriklagu.com/image/72.png',
     vibrate: [100, 50, 100],
-    data: {
-      url: urlTujuan
-    }
+    data: { dateOfArrival: Date.now() }
   };
+
   if (event.data) {
     try {
-      const dataSakaServer = event.data.json();
-      title = dataSakaServer.title || title;
-      options.body = dataSakaServer.body || options.body;
-      if (dataSakaServer.url) {
-        options.data.url = dataSakaServer.url;
-      }
+      const dataJson = event.data.json();
+      title = dataJson.title || title;
+      options.body = dataJson.body || options.body;
+      if (dataJson.icon) options.icon = dataJson.icon;
     } catch (e) {
       options.body = event.data.text();
     }
   }
+
   event.waitUntil(
     self.registration.showNotification(title, options)
   );
 });
-self.addEventListener('notificationclick', (event) => {
+
+self.addEventListener('notificationclick', event => {
   event.notification.close();
-  const targetUrl = event.notification.data && event.notification.data.url ? event.notification.data.url : '/';
   event.waitUntil(
-    clients.openWindow(targetUrl)
+    clients.openWindow('/')
   );
 });
