@@ -11,15 +11,16 @@
     }
   ],
 
+  "cleanUrls": true,
   "redirects": [
     {
-      "source": "/index.xml",
-      "destination": "/sitemap.rss",
+      "source": "/:slug((?!manifest\\.json|favicon\\.ico|robots\\.txt|sitemap\\.xml|.*\\.png|.*\\.jpg|.*\\.css|.*\\.js$).*)",
+      "destination": "/",
       "permanent": true
     },
     {
-      "source": "/post/:slug",
-      "destination": "/",
+      "source": "/index.xml",
+      "destination": "/sitemap.rss",
       "permanent": true
     }
   ] 
