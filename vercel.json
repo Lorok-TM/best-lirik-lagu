@@ -14,7 +14,7 @@
   "cleanUrls": true,
   "redirects": [
     {
-      "source": "/:slug((?!manifest\\.json|favicon\\.ico|robots\\.txt|sitemap\\.xml|.*\\.png|.*\\.jpg|.*\\.css|.*\\.js$).*)",
+      "source": "/:slug((?!manifest\\.json|favicon\\.ico|robots\\.txt|sitemap\\.xml|.*\\.png|.*\\.jpg|.*\\.css|.*\\.js).*)",
       "destination": "/",
       "permanent": true
     },
