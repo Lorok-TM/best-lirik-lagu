@@ -1,16 +1,4 @@
 {
-  "redirects": [
-    {
-      "source": "/index.xml",
-      "destination": "/sitemap.rss",
-      "permanent": true
-    },
-    {
-      "source": "/offline/",
-      "destination": "/offline.html",
-      "permanent": true
-    }
-  ],
   "cleanUrls": true,
   "trailingSlash": true,
   "routes": [
@@ -46,6 +34,18 @@
           "value": "application/xml; charset=utf-8"
         }
       ]
+    }
+  ],
+    "redirects": [
+    {
+      "source": "/index.xml",
+      "destination": "/sitemap.rss",
+      "permanent": true
+    },
+    {
+      "source": "/offline/",
+      "destination": "/offline.html",
+      "permanent": true
     }
   ]
 }
