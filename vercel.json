@@ -1,24 +1,14 @@
 {
-    "redirects": [
-    {
-      "source": "/index.xml",
-      "destination": "/sitemap.rss",
-      "permanent": true
-    },
-    {
-      "source": "/offline.html",
-      "destination": "/offline.html",
-      "permanent": true
-    },
-    {
-      "source": "/offline/",
-      "destination": "/offline.html",
-      "permanent": true
-    }
-  ],
   "cleanUrls": true,
   "trailingSlash": true,
   "routes": [
+    {
+      "src": "/index.xml",
+      "status": 301,
+      "headers": {
+        "Location": "/sitemap.rss"
+      }
+    },
     {
       "src": "/offline.html",
       "dest": "/offline.html"
