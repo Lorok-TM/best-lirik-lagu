@@ -2,6 +2,7 @@ const CACHE_NAME = 'pwa-cache-v1';
 const urlsToCache = [
   '/',
   '/offline.html',
+  '/offline/',
   '/favicon.ico'
 ];
 
@@ -51,12 +52,52 @@ self.addEventListener('fetch', event => {
             return cachedResponse;
           }
 
-          if (event.request.mode === 'navigate' || (event.request.headers.get('accept') && event.request.headers.get('accept').includes('text/html'))) {
-            return caches.match('/offline.html');
-          }
+
+
           
-          return caches.match('/');
+
+
+
+
+
+          
+
+
+  if (event.request.mode === 'navigate' || 
+     (event.request.headers.get('accept') && event.request.headers.get('accept').includes('text/html'))) {
+    
+    event.respondWith(
+      fetch(event.request).catch(() => {
+        // Coba cari /offline.html dulu, jika gagal/tidak ketemu, coba cari /offline/
+        return caches.match('/offline.html')
+          .then((response) => response || caches.match('/offline/'))
+          .then((response) => response || caches.match('/')); // Pilihan terakhir jika semua gagal
+      })
+    );
+    return; // Stop di sini untuk request HTML
+  }
+
+  // 2. Untuk request aset non-HTML (CSS, JS, Gambar) jika offline
+  event.respondWith(
+    caches.match(event.request).then((cachedResponse) => {
+      return cachedResponse || fetch(event.request).catch(() => {
+        // Jangan kembalikan '/' untuk gambar/CSS agar tidak merusak tampilan, biarkan eror network biasa atau kosongkan
+        return new Response('', { status: 408, statusText: 'Network Error' });
+      });
+    })
+  );
+
+
+
+
+
+
+          
+
+
+
         });
+        
       })
   );
 });
