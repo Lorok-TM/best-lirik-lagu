@@ -148,7 +148,10 @@ body{background-color:var(--bg-basic-node)}
 {{- end -}}
 
 .hero-cover{aspect-ratio:16/3;mask-image:linear-gradient(to bottom,black,transparent);background-size:cover;background-position:center;background-repeat:no-repeat}
-
+{{- else if and (eq .Type "post") .IsPage -}}
+.hero-cover{aspect-ratio:16/4}
+{{- end -}}
+ 
 {{- /* HOMEPAGE-1 YOUTUBE PLAYER */ -}}
 {{- if and .IsHome (eq .Paginator.PageNumber 1) -}}
 .youtube-player{aspect-ratio:16/9;background-color:var(--gray-1);position:relative;overflow:hidden}
@@ -202,6 +205,8 @@ body{background-color:var(--bg-basic-node)}
 <div class='hero-cover' style='background-image: url(https://bestliriklagu.com/image/pages.webp)'></div>
 {{- else if and (eq .Type "post") (not .IsPage) -}}
 <div class='hero-cover' style='background-image: url(https://bestliriklagu.com/image/posts.webp)'></div>
+{{- else if and (eq .Type "post") .IsPage -}}
+<div class='hero-cover' style='background-image: url(https://bestliriklagu.com/image/author-scrapper.webp)'></div>
 {{- else if strings.Contains .RelPermalink "/archives/" -}}
 <div class='hero-cover' style='background-image: url(https://bestliriklagu.com/image/archives.webp)'></div>
 {{- else if eq .Title "Aceh" -}}
