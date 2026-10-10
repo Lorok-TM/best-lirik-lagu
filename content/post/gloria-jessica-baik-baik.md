@@ -3,7 +3,7 @@ author: Katrok
 title: "Gloria Jessica - Baik Baik"
 date: 2026-10-04T10:07:00Z
 slug: gloria-jessica-baik-baik
-featured: true
+featured: false
 draft: false
 categories: 
   - "Indo"
