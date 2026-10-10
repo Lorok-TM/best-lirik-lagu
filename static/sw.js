@@ -32,37 +32,8 @@ self.addEventListener('activate', event => {
   self.clients.claim();
 });
 
-self.addEventListener('fetch', event => {
-  if (event.request.method !== 'GET') return;
-
-  event.respondWith(
-    fetch(event.request)
-      .then(response => {
-        if (response.status === 200) {
-          const responseClone = response.clone();
-          caches.open(CACHE_NAME).then(cache => {
-            cache.put(event.request, responseClone);
-          });
-        }
-        return response;
-      })
-      .catch(() => {
-        return caches.match(event.request).then(cachedResponse => {
-          if (cachedResponse) {
-            return cachedResponse;
-          }
-
-
-
-          
-
-
-
-
-
-          
-
-
+self.addEventListener('fetch', (event) => {
+  // 1. Pagar akhir khusus untuk navigasi halaman (HTML)
   if (event.request.mode === 'navigate' || 
      (event.request.headers.get('accept') && event.request.headers.get('accept').includes('text/html'))) {
     
@@ -85,20 +56,6 @@ self.addEventListener('fetch', event => {
         return new Response('', { status: 408, statusText: 'Network Error' });
       });
     })
-  );
-
-
-
-
-
-
-          
-
-
-
-        });
-        
-      })
   );
 });
 
