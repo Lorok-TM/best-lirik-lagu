@@ -3,7 +3,7 @@ author: Katrok
 title: "Gloria Jessica - Jika Kau Bukan Cinta"
 date: 2026-10-04T10:16:00Z
 slug: gloria-jessica-jika-kau-bukan-cinta
-featured: true
+featured: false
 draft: false
 categories: 
   - "Indo"
