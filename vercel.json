@@ -1,6 +1,4 @@
 {
-  "cleanUrls": true,
-  "trailingSlash": true,
     "redirects": [
     {
       "source": "/index.xml",
@@ -18,16 +16,12 @@
       "permanent": true
     }
   ],
+  "cleanUrls": true,
+  "trailingSlash": true,
   "routes": [
     {
       "src": "/offline.html",
-      "dest": "/offline.html",
-      "continue": true
-    },
-    {
-      "src": "/offline/",
-      "dest": "/offline.html",
-      "continue": true
+      "dest": "/offline.html"
     },
     {
       "src": "/sitemap.rss",
@@ -47,13 +41,22 @@
       }
     }
   ],
-    "headers": [
+  "headers": [
     {
       "source": "/sitemap.rss",
       "headers": [
         {
           "key": "Content-Type",
           "value": "application/xml; charset=utf-8"
+        }
+      ]
+    },
+    {
+      "source": "/offline.html",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=0, must-revalidate"
         }
       ]
     }
