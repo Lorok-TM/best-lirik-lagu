@@ -1,9 +1,31 @@
 {
+    "redirects": [
+    {
+      "source": "/index.xml",
+      "destination": "/sitemap.rss",
+      "permanent": true
+    },
+    {
+      "source": "/offline.html",
+      "destination": "/offline.html",
+      "permanent": true
+    },
+    {
+      "source": "/offline/",
+      "destination": "/offline.html",
+      "permanent": true
+    }
+  ],
   "cleanUrls": true,
   "trailingSlash": true,
   "routes": [
     {
       "src": "/offline.html",
+      "dest": "/offline.html",
+      "continue": true
+    },
+    {
+      "src": "/offline/",
       "dest": "/offline.html",
       "continue": true
     },
@@ -34,18 +56,6 @@
           "value": "application/xml; charset=utf-8"
         }
       ]
-    }
-  ],
-    "redirects": [
-    {
-      "source": "/index.xml",
-      "destination": "/sitemap.rss",
-      "permanent": true
-    },
-    {
-      "source": "/offline/",
-      "destination": "/offline.html",
-      "permanent": true
     }
   ]
 }
