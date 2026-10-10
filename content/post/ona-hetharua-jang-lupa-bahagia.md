@@ -3,7 +3,7 @@ author: Katrok
 title: "Ona Hetharua - Jang Lupa Bahagia"
 date: 2026-10-02T20:27:00Z
 slug: ona-hetharua-jang-lupa-bahagia
-featured: true
+featured: false
 draft: false
 categories: 
   - "Timur"
