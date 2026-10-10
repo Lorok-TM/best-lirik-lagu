@@ -10,6 +10,11 @@
   "trailingSlash": true,
   "routes": [
     {
+      "src": "/offline.html",
+      "dest": "/offline.html",
+      "continue": true
+    },
+    {
       "src": "/sitemap.rss",
       "headers": {
         "Content-Type": "application/xml; charset=utf-8"
