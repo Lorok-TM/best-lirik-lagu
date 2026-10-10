@@ -3,7 +3,7 @@ author: Katrok
 title: "Gloria Jessica - Jika Bertemu Lebih Cepat"
 date: 2026-10-04T10:03:00Z
 slug: gloria-jessica-jika-bertemu-lebih-cepat
-featured: true
+featured: false
 draft: false
 categories: 
   - "Indo"
