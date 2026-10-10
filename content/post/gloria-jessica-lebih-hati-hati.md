@@ -3,7 +3,7 @@ author: Katrok
 title: "Gloria Jessica - Lebih Hati Hati"
 date: 2026-10-04T10:12:00Z
 slug: gloria-jessica-lebih-hati-hati
-featured: true
+featured: false
 draft: false
 categories: 
   - "Indo"
