@@ -1,59 +1,43 @@
-const CACHE_NAME = 'pwa-cache-v1'; 
-const urlsToCache = [
+const PRECACHE_NAME = 'pwa-cache-v1';
+const PRECACHE_URLS = [
   '/',
   '/offline.html',
   '/offline/',
   '/favicon.ico'
 ];
 
-self.addEventListener('install', event => {
+self.addEventListener('install', (event) => {
   event.waitUntil(
-    caches.open(CACHE_NAME).then(cache => {
-      console.log('Simpan aset utama Situs');
-      return cache.addAll(urlsToCache);
-    })
+    caches.open(PRECACHE_NAME)
+      .then((cache) => cache.addAll(PRECACHE_URLS))
+      .then(self.skipWaiting())
   );
-  self.skipWaiting();
 });
 
-self.addEventListener('activate', event => {
-  event.waitUntil(
-    caches.keys().then(cacheNames => {
-      return Promise.all(
-        cacheNames.map(cache => {
-          if (cache !== CACHE_NAME) {
-            console.log('Hapus cache lama:', cache);
-            return caches.delete(cache);
-          }
-        })
-      );
-    })
-  );
-  self.clients.claim();
+self.addEventListener('activate', (event) => {
+  event.waitUntil(self.clients.claim());
 });
 
 self.addEventListener('fetch', (event) => {
-  // 1. Pagar akhir khusus untuk navigasi halaman (HTML)
-  if (event.request.mode === 'navigate' || 
-     (event.request.headers.get('accept') && event.request.headers.get('accept').includes('text/html'))) {
-    
-    event.respondWith(
-      fetch(event.request).catch(() => {
-        // Coba cari /offline.html dulu, jika gagal/tidak ketemu, coba cari /offline/
-        return caches.match('/offline.html')
-          .then((response) => response || caches.match('/offline/'))
-          .then((response) => response || caches.match('/')); // Pilihan terakhir jika semua gagal
-      })
-    );
-    return; // Stop di sini untuk request HTML
-  }
+  if (event.request.method !== 'GET') return;
 
-  // 2. Untuk request aset non-HTML (CSS, JS, Gambar) jika offline
   event.respondWith(
     caches.match(event.request).then((cachedResponse) => {
-      return cachedResponse || fetch(event.request).catch(() => {
-        // Jangan kembalikan '/' untuk gambar/CSS agar tidak merusak tampilan, biarkan eror network biasa atau kosongkan
-        return new Response('', { status: 408, statusText: 'Network Error' });
+      if (cachedResponse) {
+        return cachedResponse;
+      }
+
+      return fetch(event.request).catch(() => {
+
+        if (event.request.mode === 'navigate' || 
+           (event.request.headers.get('accept') && event.request.headers.get('accept').includes('text/html'))) {
+          
+          return caches.match('/offline.html')
+            .then((response) => response || caches.match('/offline/'))
+            .then((response) => response || caches.match('/'));
+        }
+
+        return null;
       });
     })
   );
