@@ -148,7 +148,7 @@ body{background-color:var(--bg-basic-node)}
 {{- end -}}
 
 .hero-cover{aspect-ratio:16/3;mask-image:linear-gradient(to bottom,black,transparent);background-size:cover;background-position:center;background-repeat:no-repeat}
-{{- else if and (eq .Type "post") .IsPage -}}
+{{- if and (eq .Type "post") .IsPage -}}
 .hero-cover{aspect-ratio:16/4}
 {{- end -}}
  
