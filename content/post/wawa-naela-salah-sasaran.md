@@ -3,7 +3,7 @@ author: Katrok
 title: "Wawa Naela - Salah Sasaran"
 date: 2026-10-07T19:22:00Z
 slug: wawa-naela-salah-sasaran
-featured: true
+featured: false
 draft: false
 categories: 
   - "Minang"
