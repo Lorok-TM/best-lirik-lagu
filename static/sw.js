@@ -4,7 +4,10 @@ const PRECACHE_URLS = [
   '/offline.html',
   '/offline/',
   '/offline/index.html',
-  '/favicon.ico'
+  '/favicon.ico',
+  '/categories/minang/',
+  '/categories/jawa/',
+  '/categories/indo/'
 ];
 
 self.addEventListener('install', (event) => {
