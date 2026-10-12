@@ -176,13 +176,50 @@ body{background-color:var(--bg-basic-node)}
 @media (max-width:480px) {#pwa-combo-container{bottom:15px;right:15px}}
 
 </style>
+
 {{- /* SCRIPT STORAGE */ -}}
 <script>document.addEventListener("DOMContentLoaded", () => { const t = localStorage.getItem('theme'), chk = document.getElementById('dark-toggle'), isDark = t === 'dark' || (!t && window.matchMedia('(prefers-color-scheme:dark)').matches); if (chk) { chk.checked = isDark; chk.addEventListener('change', () => localStorage.setItem('theme', chk.checked ? 'dark' : 'light'));}});</script>
+
 {{- /* SCRIPT SW PWA */ -}}
-<script>if ('serviceWorker' in navigator) { window.addEventListener('load', function() { navigator.serviceWorker.register('/sw.js') .then(function(registration) { console.log('PWA ServiceWorker sukses didaftarkan di scope: ', registration.scope); }) .catch(function(err) { console.log('PWA ServiceWorker gagal didaftarkan: ', err); }); }); }</script>
+<script>
+if ('serviceWorker' in navigator) { 
+  window.addEventListener('load', function() { 
+    navigator.serviceWorker.register('/sw.js') 
+      .then(function(registration) { 
+        console.log('PWA ServiceWorker sukses didaftarkan di scope: ', registration.scope);
  
-{{- /* PENUTUP HEAD */ -}}
-</head><body itemtype='https://schema.org/Blog' itemscope='itemscope'>
+        if ('periodicSync' in registration) {
+          navigator.serviceWorker.ready.then(function(swReady) {
+            return swReady.periodicSync.register('update-lirik-lagu', {
+              minInterval: 24 * 60 * 60 * 1000
+            });
+          }).then(function() {
+            console.log('Periodic Sync sukses terdaftar otomatis!');
+          }).catch(function(err) {
+            console.log('Periodic Sync tertahan aturan Browser (butuh engagement):', err);
+          });
+        }
+
+        if ('sync' in registration) {
+          navigator.serviceWorker.ready.then(function(swReady) {
+            return swReady.sync.register('sync-data');
+          }).then(function() {
+            console.log('Background Sync sukses siaga otomatis!');
+          }).catch(function(err) {
+            console.error('Background Sync gagal bersiap:', err);
+          });
+        }
+
+      }) 
+      .catch(function(err) { 
+        console.log('PWA ServiceWorker gagal didaftarkan: ', err); 
+      }); 
+  }); 
+}
+</script>
+
+</head>
+<body itemtype='https://schema.org/Blog' itemscope='itemscope'>
 {{- $hasWidget := false -}}
 {{- range .Site.Params.widgets -}}
 {{- if gt (len .) 0 -}}
