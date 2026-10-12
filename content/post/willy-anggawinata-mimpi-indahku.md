@@ -3,7 +3,7 @@ author: Katrok
 title: "Willy Anggawinata - Mimpi Indahku"
 date: 2026-10-07T19:29:00Z
 slug: willy-anggawinata-mimpi-indahku
-featured: true
+featured: false
 draft: false
 categories: 
   - "Indo"
