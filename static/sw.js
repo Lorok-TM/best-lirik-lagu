@@ -44,7 +44,7 @@ const PRECACHE_URLS = [
   '/categories/sasak/',
   '/categories/simalungun/',
   '/categories/slow-rock/',
-  'categories/sunda/',
+  '/categories/sunda/',
   '/categories/tapsel/',
   '/categories/tarling/',
   '/categories/tayub/',
