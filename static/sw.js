@@ -52,9 +52,15 @@ const PRECACHE_URLS = [
   '/categories/timur/',
   '/categories/toraja/',
   '/page/',
+  '/page/2/',
+  '/page/3/',
+  '/page/4/',
   '/page/about/',
   '/page/contact/',
   '/post/',
+  '/post/page/2/',
+  '/post/page/3/',
+  '/post/page/4/',
   '/archives/'
 ];
 
