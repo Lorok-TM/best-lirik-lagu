@@ -3,18 +3,15 @@
   "name": "Best Lirik Lagu",
   "short_name": "Best Lyrics",
   "start_url": "https://bestliriklagu.com/",
-  "display_override": [
-    "standalone"
-  ],
+  "display_override": ["standalone"],
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#000000",
+  "categories": ["Music", "Lyrics"],
   "lang": "id",
-  "orientation": "any",
   "dir": "ltr",
-  "categories": [
-    "music"
-  ],
+  "orientation": "any",
+  "prefer_related_applications": false,
   "description": "Best Lirik Lagu adalah situs lirik lagu terlengkap yang menghadirkan keindahan bahasa dari Sabang sampai Merauke. Temukan ribuan lirik lagu Indonesia populer, lagu hits lawas, hingga tembang daerah dari berbagai suku.",
   "icons": [
     {
@@ -45,5 +42,34 @@
       "form_factor": "narrow",
       "label": "Tampilan Mobile"
     }
-  ]
+  ],
+  "shortcuts":[
+  {
+    "name": "Lirik Lagu Minang",
+    "short_name": "Minang",
+    "description": "Kumpulan Lirik Lagu Minang Lengkap",
+    "url": "https://bestliriklagu.com/categories/minang/",
+    "icons": [
+      {"src": "https://bestliriklagu.com/image/192.png","sizes":"192x192","type":"image/png"}
+    ]
+  },
+  {
+    "name": "Lirik Lagu Jawa",
+    "short_name": "Jawa",
+    "description": "Kumpulan Lirik Lagu Jawa Lengkap",
+    "url": "https://bestliriklagu.com/categories/jawa/",
+    "icons": [
+      {"src": "https://bestliriklagu.com/image/192.png","sizes":"192x192","type":"image/png"}
+    ]
+  },
+  {
+    "name": "Lirik Lagu Indo",
+    "short_name": "Indo",
+    "description": "Kumpulan Lirik Lagu Indo Lengkap",
+    "url": "https://bestliriklagu.com/categories/indo/",
+    "icons": [
+      {"src": "https://bestliriklagu.com/image/192.png","sizes":"192x192","type":"image/png"}
+    ]
+  }
+ ]
 }
