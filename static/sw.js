@@ -51,8 +51,11 @@ const PRECACHE_URLS = [
   '/categories/tiktok/',
   '/categories/timur/',
   '/categories/toraja/',
-  '',
-  ''
+  '/page/',
+  '/page/about/',
+  '/page/contact/',
+  '/post/',
+  '/archives/'
 ];
 
 self.addEventListener('install', (event) => {
