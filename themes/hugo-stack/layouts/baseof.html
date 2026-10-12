@@ -204,7 +204,7 @@ if ('serviceWorker' in navigator) {
           navigator.serviceWorker.ready.then(function(swReady) {
             return swReady.sync.register('sync-data');
           }).then(function() {
-            console.log('Background Sync sukses siaga otomatis!');
+            console.log('2. Background Sync sukses siaga otomatis!');
           }).catch(function(err) {
             console.error('Background Sync gagal bersiap:', err);
           });
