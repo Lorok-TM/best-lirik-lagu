@@ -187,29 +187,6 @@ if ('serviceWorker' in navigator) {
     navigator.serviceWorker.register('/sw.js') 
       .then(function(registration) { 
         console.log('PWA ServiceWorker sukses didaftarkan di scope: ', registration.scope);
- 
-        if ('periodicSync' in registration) {
-          navigator.serviceWorker.ready.then(function(swReady) {
-            return swReady.periodicSync.register('update-lirik-lagu', {
-              minInterval: 24 * 60 * 60 * 1000
-            });
-          }).then(function() {
-            console.log('Periodic Sync sukses terdaftar otomatis!');
-          }).catch(function(err) {
-            console.log('Periodic Sync tertahan aturan Browser (butuh engagement):', err);
-          });
-        }
-
-        if ('sync' in registration) {
-          navigator.serviceWorker.ready.then(function(swReady) {
-            return swReady.sync.register('sync-data');
-          }).then(function() {
-            console.log('2. Background Sync sukses siaga otomatis!');
-          }).catch(function(err) {
-            console.error('Background Sync gagal bersiap:', err);
-          });
-        }
-
       }) 
       .catch(function(err) { 
         console.log('PWA ServiceWorker gagal didaftarkan: ', err); 
