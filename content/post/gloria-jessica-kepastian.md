@@ -3,7 +3,7 @@ author: Katrok
 title: "Gloria Jessica - Kepastian"
 date: 2026-10-04T10:23:00Z
 slug: gloria-jessica-kepastian
-featured: true
+featured: false
 draft: false
 categories: 
   - "Indo"
