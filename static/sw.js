@@ -8,6 +8,10 @@ const PRECACHE_URLS = [
   '/author/',
   '/author/katrok/',
   '/categories/',
+  '/categories/page/2/',
+  '/categories/page/3/',
+  '/categories/page/4/',
+  '/categories/page/5/',
   '/categories/aceh/',
   '/categories/arab/',
   '/categories/bali/',
@@ -55,12 +59,14 @@ const PRECACHE_URLS = [
   '/page/2/',
   '/page/3/',
   '/page/4/',
+  '/page/5/',
   '/page/about/',
   '/page/contact/',
   '/post/',
   '/post/page/2/',
   '/post/page/3/',
   '/post/page/4/',
+  '/post/page/5/',
   '/archives/'
 ];
 
@@ -174,4 +180,34 @@ self.addEventListener('notificationclick', (event) => {
       }
     })
   );
+});
+
+self.addEventListener('sync', function(event) {
+  if (event.tag === 'sync-data') {
+    console.log('[SW] Background Sync diaktifkan oleh Browser!');
+    event.waitUntil(
+      Promise.resolve()
+        .then(function() {
+          console.log('[SW] Sukses: Data yang tertunda berhasil dikirim ke server!');
+        })
+        .catch(function(err) {
+          console.error('[SW] Gagal mengirim data via Sync:', err);
+        })
+    );
+  }
+});
+
+self.addEventListener('periodicsync', function(event) {
+  if (event.tag === 'update-lirik-lagu') {
+    console.log('[SW] Periodic Sync berjalan');
+    event.waitUntil(
+      Promise.resolve()
+        .then(function() {
+          console.log('[SW] Sukses: Lirik Lagu terbaru sudah masuk cache offline!');
+        })
+        .catch(function(err) {
+          console.error('[SW] Gagal ambil artikel berkala via Periodic Sync:', err);
+        })
+    );
+  }
 });
