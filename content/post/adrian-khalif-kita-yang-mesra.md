@@ -3,7 +3,7 @@ author: Katrok
 title: "Adrian Khalif - Kita Yang Mesra"
 date: 2026-10-07T19:34:00Z
 slug: adrian-khalif-kita-yang-mesra
-featured: true
+featured: false
 draft: false
 categories: 
   - "Indo"
