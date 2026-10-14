@@ -3,7 +3,7 @@ author: Katrok
 title: "Ovhi Firsty - Sakik Babaleh"
 date: 2026-10-09T14:53:00Z
 slug: ovhi-firsty-sakik-babaleh
-featured: true
+featured: false
 draft: false
 categories: 
   - "Minang"
