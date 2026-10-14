@@ -3,7 +3,7 @@ author: Katrok
 title: "Andre Mastijan - Mungkin Saat Nanti"
 date: 2026-10-05T09:56:00Z
 slug: andre-mastijan-mungkin-saat-nanti
-featured: true
+featured: false
 draft: false
 categories: 
   - "Indo"
