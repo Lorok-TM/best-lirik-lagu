@@ -3,7 +3,7 @@ author: Katrok
 title: "Kenzy Taulany - Siapa Duluan Rindu"
 date: 2026-10-09T14:48:00Z
 slug: kenzy-taulany-siapa-duluan-rindu
-featured: true
+featured: false
 draft: false
 categories: 
   - "Indo"
