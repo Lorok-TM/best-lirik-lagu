@@ -3,7 +3,7 @@ author: Katrok
 title: "Tasya Rosmala Adella - Debu Debu Jalanan"
 date: 2026-10-09T15:05:00Z
 slug: tasya-rosmala-adella-debu-debu-jalanan
-featured: true
+featured: false
 draft: false
 categories: 
   - "Dangdut"
