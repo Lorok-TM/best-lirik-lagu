@@ -3,7 +3,7 @@ author: Katrok
 title: "Ajeng Febria - Sekip"
 date: 2026-10-09T15:01:00Z
 slug: ajeng-febria-sekip
-featured: true
+featured: false
 draft: false
 categories: 
   - "Dangdut"
