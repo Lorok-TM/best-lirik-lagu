@@ -3,7 +3,7 @@ author: Katrok
 title: "Ajeng Febria - Pacobaning Urip"
 date: 2026-10-09T14:57:00Z
 slug: ajeng-febria-pacobaning-urip
-featured: true
+featured: false
 draft: false
 categories: 
   - "Dangdut"
