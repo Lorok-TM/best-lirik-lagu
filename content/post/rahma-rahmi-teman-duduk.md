@@ -48,3 +48,4 @@ Cinta hanya satu kepadamu
 Jangan ragukan lagi duhai sayang  
 Jangan siksa dirimu berfikiran yang salah  
 Diriku tak setia
+
