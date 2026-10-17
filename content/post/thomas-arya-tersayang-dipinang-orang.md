@@ -3,7 +3,7 @@ author: Katrok
 title: "Thomas Arya - Tersayang Dipinang Orang"
 date: 2026-10-11T10:03:00Z
 slug: thomas-arya-tersayang-dipinang-orang
-featured: true
+featured: false
 draft: false
 categories: 
   - "Slow-Rock"
