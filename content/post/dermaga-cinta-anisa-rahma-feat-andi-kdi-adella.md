@@ -3,7 +3,7 @@ author: Katrok
 title: "Dermaga Cinta - Anisa Rahma Feat. Andi KDI Adella"
 date: 2026-10-11T10:07:00Z
 slug: dermaga-cinta-anisa-rahma-feat-andi-kdi-adella
-featured: true
+featured: false
 draft: false
 categories: 
   - "Dangdut"
