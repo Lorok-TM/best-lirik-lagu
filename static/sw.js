@@ -1,5 +1,5 @@
-const PRECACHE_NAME = 'pwa-cache-v4';
-const PRECACHE_URLS = [
+const CACHE_NAME = 'pwa-cache-v5';
+const ASSETS_TO_CACHE = [
   '/',
   '/offline.html',
   '/offline/',
@@ -72,70 +72,68 @@ const PRECACHE_URLS = [
 
 self.addEventListener('install', (event) => {
   event.waitUntil(
-    caches.open(PRECACHE_NAME)
-      .then((cache) => cache.addAll(PRECACHE_URLS))
-      .then(() => self.skipWaiting())
+    caches.open(CACHE_NAME).then((cache) => {
+      return Promise.all(
+        ASSETS_TO_CACHE.map((url) => {
+          return fetch(new Request(url, { mode: 'no-cors', credentials: 'omit' }))
+            .then((response) => {
+              return cache.put(url, response);
+            })
+            .catch((err) => console.error('Gagal pre-cache:', url, err));
+        })
+      );
+    })
   );
+  self.skipWaiting();
 });
 
 self.addEventListener('activate', (event) => {
   event.waitUntil(
-    caches.keys().then((cacheNames) => {
-      return Promise.all(
-        cacheNames.map((cache) => {
-          if (cache !== PRECACHE_NAME) {
-            return caches.delete(cache);
-          }
-        })
-      );
+    caches.keys().then((keys) => {
+      return Promise.all(keys.map((key) => {
+        if (key !== CACHE_NAME) return caches.delete(key);
+      }));
     }).then(() => self.clients.claim())
   );
 });
 
 self.addEventListener('fetch', (event) => {
-  if (event.request.method !== 'GET') return;
-
-  const isHtmlRequest = event.request.mode === 'navigate' || 
-    (event.request.headers.get('accept') && event.request.headers.get('accept').includes('text/html'));
-
-  if (isHtmlRequest) {
-    event.respondWith(
-      fetch(event.request)
-        .then((response) => {
-          if (response.status === 200) {
-            const responseClone = response.clone();
-            caches.open(PRECACHE_NAME).then((cache) => {
-              cache.put(event.request, responseClone);
-            });
-          }
-          return response;
-        })
-        .catch(() => {
-          return caches.match(event.request).then((cachedResponse) => {
-            if (cachedResponse) {
-              return cachedResponse;
+  const requestUrl = new URL(event.request.url);
+  if (requestUrl.origin === self.location.origin) {
+    if (event.request.mode === 'navigate' || (event.request.method === 'GET' && event.request.headers.get('accept').includes('text/html'))) {
+      event.respondWith(
+        fetch(event.request)
+          .then((networkResponse) => {
+            if (networkResponse && networkResponse.status === 200) {
+              const responseToCache = networkResponse.clone();
+              caches.open(CACHE_NAME).then((cache) => {
+                cache.put(event.request, responseToCache);
+              });
             }
-            return caches.match('/offline/')
+            return networkResponse;
+          })
+          .catch(() => {
+            return caches.match(event.request, { ignoreSearch: true }).then((response) => {
+              if (response) return response;
+              return caches.match('/offline/')
               .then((res) => res || caches.match('/offline/index.html'))
               .then((res) => res || caches.match('/'));
-          });
-        })
-    );
-  } else {
-    event.respondWith(
-      caches.match(event.request).then((cachedResponse) => {
-        if (cachedResponse) return cachedResponse;
-        return fetch(event.request).then((networkResponse) => {
-          if (networkResponse && networkResponse.status === 200) {
-            const responseClone = networkResponse.clone();
-            caches.open(PRECACHE_NAME).then((cache) => {
-              cache.put(event.request, responseClone);
             });
-          }
-          return networkResponse;
-        });
-      })
-    );
+          })
+      );
+    } else {
+      event.respondWith(
+        caches.match(event.request, { ignoreSearch: true }).then((cachedResponse) => {
+          return cachedResponse || fetch(event.request).then((netResp) => {
+            if (netResp.status === 200 || netResp.type === 'opaque') {
+              const respClone = netResp.clone();
+              caches.open(CACHE_NAME).then((c) => c.put(event.request, respClone));
+            }
+            return netResp;
+          }).catch(() => new Response('Offline asset missing', { status: 404 }));
+        })
+      );
+    }
   }
 });
 
@@ -148,7 +146,6 @@ self.addEventListener('push', (event) => {
     vibrate: [100, 50, 100],
     data: { dateOfArrival: Date.now() }
   };
-
   if (event.data) {
     try {
       const dataJson = event.data.json();
@@ -159,7 +156,6 @@ self.addEventListener('push', (event) => {
       options.body = event.data.text();
     }
   }
-  
   event.waitUntil(
     self.registration.showNotification(title, options)
   );
