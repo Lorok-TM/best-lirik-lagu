@@ -1,0 +1,47 @@
+---
+author: Katrok
+title: "Lai Ka Iyo Bana - Fauzana | Minang"
+date: 2026-10-22T10:03:00Z
+slug: lai-ka-iyo-bana-fauzana-minang
+featured: false
+draft: false
+categories: 
+  - "Minang"
+---
+
+Lah jariah buruang dek tabang  
+Taragak hinggok di dahan  
+Hati nan dulu bimbang  
+Kini raso raso ado harapan  
+Hati nan dulu bimbang  
+Kini raso raso ado harapan
+
+Lain bana sakali ko  
+Nan taraso di hati  
+Uda datang mambao cinto  
+Raso nak iyo tapi takuik taluko  
+Uda datang mambao cinto  
+Raso nak iyo tapi takuik taluko
+
+Lai ka iyo bana da  
+Lai dari hati mancintoi  
+Jikok bamain usah di muloi
+
+Lai indak ka uda sio sio kan  
+Lai indak ka di duo kan  
+Katiko hati lah denai sarahkan
+
+Lain bana sakali ko  
+Nan taraso di hati  
+Uda datang mambao cinto  
+Raso nak iyo tapi takuik taluko  
+Uda datang mambao cinto  
+Raso nak iyo tapi takuik taluko
+
+Lai ka iyo bana da  
+Lai dari hati mancintoi  
+Jikok bamain usah di muloi
+
+Lai indak ka uda sio sio kan  
+Lai indak ka di duo kan  
+Katiko hati lah denai sarahkan
