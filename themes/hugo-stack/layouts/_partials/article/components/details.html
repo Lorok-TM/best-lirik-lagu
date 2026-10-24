@@ -54,12 +54,13 @@
 {{- $Page.Date | time.Format $Page.Site.Params.dateFormat.published -}}
 </time>
 {{- end -}}
- / 
+{{- /*
 {{ if $showReadingTime }}
 <time class="article-time--reading">
 {{ T "article.readingTime" $Page.ReadingTime }}
 </time>
 {{- end -}}
+*/ -}}
 </span>
 {{- end -}}
 
