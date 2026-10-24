@@ -3,44 +3,40 @@
 
 {{- if and .IsPage (ne .Section "page") -}}
 <script type='application/ld+json'>
-        {
-            "@context": "http://schema.org",
-            "@type": "BlogPosting",
-            "mainEntityOfPage": {
-                "@type": "WebPage",
-                "@id": {{ .Permalink | jsonify | safeJS }}
-            },
-            "headline": {{ printf "Lirik Lagu %s" ($title | plainify | replaceRE "\n" " " | replaceRE "\r" " ") | safeHTMLAttr }},
-            "description": {{ printf "%s" ($description | plainify | replaceRE "\n" " " | replaceRE "\r" " " | truncate 155 "...") | safeHTMLAttr }},
-            "datePublished": {{ .Date.Format "2006-01-02T15:04:05-07:00" | jsonify | safeJS }},
-            "dateModified": {{ .Lastmod.Format "2006-01-02T15:04:05-07:00" | jsonify | safeJS }},
-            
+ {
+ "@context": "http://schema.org",
+ "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": {{ .Permalink | jsonify | safeJS }}
+    },
+    "headline": {{ printf "Lirik Lagu %s" ($title | plainify | replaceRE "\n" " " | replaceRE "\r" " ") | safeHTMLAttr }},
+    "description": {{ printf "%s" ($description | plainify | replaceRE "\n" " " | replaceRE "\r" " " | truncate 155 "...") | safeHTMLAttr }},
+    "datePublished": {{ .Date.Format "2006-01-02T15:04:05-07:00" | jsonify | safeJS }},
+    "dateModified": {{ .Lastmod.Format "2006-01-02T15:04:05-07:00" | jsonify | safeJS }},         
   "image": {
     "@type": "ImageObject",
     "url": "https://bestliriklagu.com/image/best-lirik-lagu.webp",
     "height": 720,
     "width": 1280
-  },
-         
- "publisher": {
+  },        
+  "publisher": {
     "@type": "Organization",
     "name": "Bestliriklagu",
     "logo": {
-      "@type": "ImageObject",
-      "url": "https://bestliriklagu.com/image/best-lirik-lagu.webp",
-      "width": 1280,
-      "height": 720
+    "@type": "ImageObject",
+    "url": "https://bestliriklagu.com/image/logo.png",
+    "width": 512,
+    "height": 512
     }
   },
-
-            "author": {
-                "@type": "Person",
-                "name": "Katrok",
-                "url": "https://bestliriklagu.com/author/katrok/"
-            }
-        }
-        // postMeta Custom By Lorok™
-        </script>
+  "author": {
+    "@type": "Person",
+    "name": "Katrok",
+    "url": "https://bestliriklagu.com/author/katrok/"
+    }
+  }
+</script>
 {{- end -}}
 
 {{- if .IsHome -}}
