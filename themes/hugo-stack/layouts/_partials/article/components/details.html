@@ -44,21 +44,22 @@
 {{- $showTags := and $Page.Site.Params.Article.List.ShowTags ($Page.GetTerms "tags") $IsList -}}
     
 {{- if or $showTime $showTranslations $showTags -}}
-<div class="entry-meta">By <span class="posted-by vcard author"><a href="/author/katrok/" rel="author" class="url fn n"><span class="author-name">Katrok</span></a></span> / {{ if $showTime }}<span class="posted-on">
+<div class="entry-meta">
+<span class="posted-by author vcard">By <a href="/author/katrok/" rel="author" class="url fn n">Katrok</a></span> / 
+{{ if $showTime }}
+<span class="posted-on">
 {{- if $showDate -}}
 {{- /* partial "helper/icon" "date" */ -}}
-<time class="published" datetime='{{ $Page.Date.Format "2006-01-02T15:04:05Z07:00" }}'>
+<time class='published' datetime='{{ $Page.Date.Format "2006-01-02T15:04:05Z07:00" }}'>
 {{- $Page.Date | time.Format $Page.Site.Params.dateFormat.published -}}
 </time>
 {{- end -}}
-{{- /* 
-                {{ if $showReadingTime }}
-                    {{ partial "helper/icon" "clock" }}
-                    <time class="article-time--reading">
-                        {{ T "article.readingTime" $Page.ReadingTime }}
-                    </time>
-                {{ end }}
-*/ -}}
+ / 
+{{ if $showReadingTime }}
+<time class="article-time--reading">
+{{ T "article.readingTime" $Page.ReadingTime }}
+</time>
+{{- end -}}
 </span>
 {{- end -}}
 
