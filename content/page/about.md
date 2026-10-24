@@ -4,7 +4,7 @@ description: Best Lirik Lagu adalah situs lirik lagu terlengkap yang menghadirka
 slug: "about"
 ---
 
-![Bestliriklagu.com](/image/bestliriklagu.webp)
+![Bestliriklagu.com](https://bestliriklagu.com/image/bestliriklagu.webp)
 
 Best Lirik Lagu adalah situs gudang lirik lagu Indonesia terlengkap yang menghadirkan keindahan bahasa dari Sabang sampai Merauke.
 
