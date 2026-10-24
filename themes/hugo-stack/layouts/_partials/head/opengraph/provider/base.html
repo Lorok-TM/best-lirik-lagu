@@ -1,7 +1,8 @@
 {{- $title := partialCached "data/title" . .RelPermalink -}}
 {{- $description := partialCached "data/description" . .RelPermalink -}}
 
-{{- if and .IsPage (ne .Section "page") -}}
+{{- if and .IsPage (strings.HasSuffix .RelPermalink "/author/katrok/") -}}
+{{- else if and .IsPage (ne .Section "page") -}}
 <script type='application/ld+json'>
  {
  "@context": "http://schema.org",
