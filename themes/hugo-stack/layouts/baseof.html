@@ -147,7 +147,8 @@ body{background-color:var(--bg-basic-node)}
 .back-to-home a{display:block;background-color:#1f883d;color:#fff;border-radius:.375rem;padding:.75rem}
 {{- end -}}
 
-.hero-cover{aspect-ratio:16/3;background-size:cover;background-position:center;background-repeat:no-repeat}
+.bg-img,.hero-cover{background-size:cover;background-position:center;background-repeat:no-repeat}
+.hero-cover{aspect-ratio:16/3}
  
 {{- /* HOMEPAGE-1 YOUTUBE PLAYER */ -}}
 {{- if and .IsHome (eq .Paginator.PageNumber 1) -}}
@@ -156,7 +157,7 @@ body{background-color:var(--bg-basic-node)}
 {{- end -}}
 
 .author-scrapper{margin:0 0 15px 0;line-height:1.4}
-.author-scrapper img{width:100%;height:auto;border-radius:8px}
+.author-scrapper .bg-img{aspect-ratio:16/4;border-radius:8px}
 
 {{- /* Gaya Tombol NOTIF PWA INSTAL or CLOSE */ -}}
 #pwa-combo-container{position:fixed;bottom:24px;right:24px;z-index:9999;display:flex;align-items:center;gap:8px}
@@ -333,7 +334,7 @@ if ('serviceWorker' in navigator) {
 <h2>Featured Lyrics Songs</h2>
 <div class="author-scrapper">
 <p><small>Author Scrapper by: Putri Lestari, Yeni Febria, Ajeng Sabrina, Budi Yanto, Budi Mahendra</small></p>
-<img src="https://bestliriklagu.com/image/author-scrapper.webp" alt="Author Scrapper" width="1200" height="630" fetchpriority="high">
+<div class="bg-img" data-bg="https://bestliriklagu.com/image/author-scrapper.webp"></div>
 </div>
 <ul>
 {{- range $sidebar_featured -}}
