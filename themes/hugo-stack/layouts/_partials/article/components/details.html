@@ -18,14 +18,14 @@
 {{- /* --- KONDISI SINGLE (DUDU LIST) --- */ -}}
 {{- if eq $Page.Section "post" -}}
 {{- /* 1. MURNI NGGO POST SINGLE */ -}}
-<h1 class="entry-title" itemprop="headline">Lirik Lagu {{ $Page.Title }}</h1>
+<h1 class='post-title entry-title'>Lirik Lagu {{ $Page.Title }}</h1>
 {{- else if eq $Page.Section "page" -}}
 {{- /* 2. MURNI NGGO PAGE SINGLE */ -}}
-<h1 class="entry-title" itemprop="headline">{{ $Page.Title }}</h1>
+<h1 class='post-title entry-title'>{{ $Page.Title }}</h1>
 {{- end -}}
 {{- else -}}
 {{- /* --- 3. KONDISI LIST (HOMEPAGE / ARCHIVE / TAXONOMY) --- */ -}}
-<h2 class="entry-title" itemprop="headline"><a href="{{ $Page.RelPermalink }}" rel="bookmark">Lirik Lagu {{ $Page.Title }}</a></h2>
+<h2 class="post-title entry-title"><a href="{{ $Page.RelPermalink }}" rel="bookmark">Lirik Lagu {{ $Page.Title }}</a></h2>
 {{- end -}}
 
 {{- if or $IsList (eq $Page.Section "post") -}}
@@ -44,10 +44,10 @@
 {{- $showTags := and $Page.Site.Params.Article.List.ShowTags ($Page.GetTerms "tags") $IsList -}}
     
 {{- if or $showTime $showTranslations $showTags -}}
-<div class="entry-meta">By <span class="posted-by vcard author" itemtype="https://schema.org/Person" itemscope="itemscope" itemprop="author"><a href="/author/katrok/" rel="author" class="url fn n" itemprop="url"><span class="author-name" itemprop="name">Katrok</span></a></span> / {{ if $showTime }}<span class="posted-on">
+<div class="entry-meta">By <span class="posted-by vcard author"><a href="/author/katrok/" rel="author" class="url fn n"><span class="author-name">Katrok</span></a></span> / {{ if $showTime }}<span class="posted-on">
 {{- if $showDate -}}
 {{- /* partial "helper/icon" "date" */ -}}
-<time class="published" itemprop="datePublished" datetime='{{ $Page.Date.Format "2006-01-02T15:04:05Z07:00" }}'>
+<time class="published" datetime='{{ $Page.Date.Format "2006-01-02T15:04:05Z07:00" }}'>
 {{- $Page.Date | time.Format $Page.Site.Params.dateFormat.published -}}
 </time>
 {{- end -}}
