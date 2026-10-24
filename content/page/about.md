@@ -2,10 +2,9 @@
 title: About
 description: Best Lirik Lagu adalah situs lirik lagu terlengkap yang menghadirkan keindahan bahasa dari Sabang sampai Merauke.
 slug: "about"
-ogImage : "https://bestliriklagu.com/image/bestliriklagu.webp"
 ---
 
-<img src="https://bestliriklagu.com/image/bestliriklagu.webp" alt="Bestliriklagu.com">
+![Bestliriklagu.com](/image/bestliriklagu.webp)
 
 Best Lirik Lagu adalah situs gudang lirik lagu Indonesia terlengkap yang menghadirkan keindahan bahasa dari Sabang sampai Merauke.
 
