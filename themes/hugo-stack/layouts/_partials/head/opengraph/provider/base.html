@@ -42,6 +42,43 @@
 {{- end -}}
 
 {{- if .IsHome -}}
+<script type="application/ld+json">
+{
+ "@context":"http://schema.org,
+ "@graph":[
+  {
+  "@type":"CollectionPage",
+  "@id":"https://bestliriklagu.com/",
+  "url":"https://bestliriklagu.com/",
+  "name":"Bestliriklagu.com",
+  "isPartOf":{"@id":"https://bestliriklagu.com/#website"},
+  "description":"Kumpulan lirik lagu terbaru dan terbaik para penyanyi dan musisi dari Daerah Sabang sampai Merauke Indonesia hingga Manca Negara.",
+  "breadcrumb":{"@id":"https://bestliriklagu.com/#breadcrumb"},
+  "inLanguage":"id"
+  },
+  {
+  "@type":"BreadcrumbList",
+  "@id":"https://bestliriklagu.com/#breadcrumb",
+  "itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]
+  },
+  {
+  "@type":"WebSite",
+  "@id":"https://bestliriklagu.com/#website",
+  "url":"https://bestliriklagu.com/",
+  "name":"Best Lirik Lagu",
+  "description":"Gudang Lirik Lagu Indonesia",
+  "potentialAction":[
+  {"@type":"SearchAction",
+  "target":{"@type":"EntryPoint","urlTemplate":"https://bestliriklagu.com/?s={search_term_string}"},
+  "query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}
+  ],
+  "inLanguage":"id"}
+ ]
+}
+</script>
+{{- end -}}
+
+{{- if .IsHome -}}
 <meta property="og:title" {{ printf "content=\"%s - Gudang Lyrics Terlengkap dan Terbaru\"" $title | safeHTMLAttr }}>
 {{- else if and .IsPage (strings.HasSuffix .RelPermalink "/author/katrok/") -}}
 <meta property="og:title" {{ printf "content=\"Author Name: %s - %s\"" $title .Site.Title | safeHTMLAttr }}>
