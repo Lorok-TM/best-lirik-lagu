@@ -108,10 +108,10 @@
     "width": 1707,
     "height": 283
   },
-  "breadcrumb":{"@id":"#breadcrumb"},
+  "breadcrumb":{"@id": {{ printf "%s#breadcrumb" .Permalink | jsonify | safeJS }}},
   "inLanguage":"id"},
   {"@type":"BreadcrumbList",
-  "@id":"#breadcrumb",
+  "@id":{{ printf "%s#breadcrumb" .Permalink | jsonify | safeJS }},
   "itemListElement":[
   {"@type":"ListItem","position":1,"name":"Home","item":"https://bestliriklagu.com/"},
   {"@type":"ListItem","position":2,"name":{{ printf "%s" $title | safeHTMLAttr }},"item":{{ .Permalink | jsonify | safeJS }}}
