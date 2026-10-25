@@ -57,9 +57,9 @@
   "description":"Kumpulan lirik lagu terbaru dan terbaik para penyanyi dan musisi dari Daerah Sabang sampai Merauke Indonesia hingga Manca Negara.",
   "image": {
     "@type": "ImageObject",
-    "url": "https://bestliriklagu.com/image/bestliriklagu.webp",
-    "width": 1707,
-    "height": 283
+    "url": "https://bestliriklagu.com/image/gudang-lirik-lagu-indonesia.webp",
+    "width": 1280,
+    "height": 720
   },
   "breadcrumb":{"@id":"https://bestliriklagu.com/#breadcrumb"},
   "inLanguage":"id"
@@ -77,9 +77,9 @@
   "description":"Gudang Lirik Lagu Indonesia",
   "image": {
     "@type": "ImageObject",
-    "url": "https://bestliriklagu.com/image/gudang-lirik-lagu-indonesia.webp",
-    "width": 1280,
-    "height": 720
+    "url": "https://bestliriklagu.com/image/bestliriklagu.webp",
+    "width": 1707,
+    "height": 283
   },
   "potentialAction":[
   {"@type":"SearchAction",
@@ -104,9 +104,9 @@
   "description":{{ printf "Kumpulan Lirik Lagu %s lengkap di %s, mulai dari lagu lagu terbaru hingga yang lama." $title .Site.Title | safeHTMLAttr }},
   "image": {
     "@type": "ImageObject",
-    "url": "https://bestliriklagu.com/image/bestliriklagu.webp",
-    "width": 1707,
-    "height": 283
+    "url": "https://bestliriklagu.com/image/gudang-lirik-lagu-indonesia.webp",
+    "width": 1280,
+    "height": 720
   },
   "breadcrumb":{"@id": {{ printf "%s#breadcrumb" .Permalink | jsonify | safeJS }}},
   "inLanguage":"id"},
@@ -121,6 +121,12 @@
   "url":"https://bestliriklagu.com/",
   "name":"Best Lirik Lagu",
   "description":"Gudang Lirik Lagu Indonesia",
+  "image": {
+    "@type": "ImageObject",
+    "url": "https://bestliriklagu.com/image/bestliriklagu.webp",
+    "width": 1707,
+    "height": 283
+  },
   "potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://bestliriklagu.com/?s={search_term_string}"},
   "query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],
   "inLanguage":"id"}
