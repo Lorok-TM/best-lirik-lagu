@@ -331,10 +331,6 @@ if ('serviceWorker' in navigator) {
 {{- if gt (len $sidebar_featured) 0 -}}
 <div class="featured-posts">
 <h2>Featured Lyrics Songs</h2>
-<div class="author-scrapper">
-<p><small>Author Scrapper by: Putri Lestari, Yeni Febria, Ajeng Sabrina, Budi Yanto, Budi Mahendra</small></p>
-<div class="bg-img" data-bg="https://bestliriklagu.com/image/author-scrapper.webp"></div>
-</div>
 <ul>
 {{- range $sidebar_featured -}}
 <li><a href="{{ .Permalink }}">Lirik Lagu {{ .Title }}</a>
@@ -342,6 +338,23 @@ if ('serviceWorker' in navigator) {
 </li>
 {{- end -}}
 </ul></div>
+<div class="author-scrapper">
+<h3>The Author Scrapper Helliest Hell</h3>
+<div class="bg-img" data-bg="https://bestliriklagu.com/image/author-scrapper.webp"></div>
+<p><small>Author Scrapper by: Putri Lestari, Yeni Febria, Ajeng Sabrina, Budi Yanto, Budi Mahendra</small></p>
+<ul>
+  <li>keponews.id (ca-pub-2917386584975451)</li>
+  <li>kepotimes.id (ca-pub-2917386584975451)</li>
+  <li>bestliriklagu.kepotimes.id (ca-pub-2917386584975451)</li>
+  <li>kepojenius.com (ca-pub-2917386584975451)</li>
+  <li>cerianews.id (ca-pub-2917386584975451)</li>
+  <li>kepolirik.com (ca-pub-5238719198170895)</li>
+  <li>kepolyrics.id</li>
+  <li>kepojenius.blogspot.com</li>
+  <li>stafaband-76.com</li>
+  <li>Let's go to Scraper Site / Splog / Content Farm / Made for Adsense (MFA) New Sites 2026 by Budi Mahendra.</li>
+</ul>
+</div>
 {{- end -}}
 {{- end -}}
 <div class="ads-sidebar" id="atContainer-7607678f9aa53b7eec49c711faa429bb"></div>
