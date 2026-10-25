@@ -97,8 +97,8 @@
 	<script type="application/ld+json">
   {"@context":"https://schema.org",
   "@graph":[{"@type":"CollectionPage",
-  "@id":"/",
-  "url":"/",
+  "@id":{{ .Permalink | jsonify | safeJS }},
+  "url":{{ .Permalink | jsonify | safeJS }},
   "name":{{ printf "Kumpulan Lirik Lagu %s - %s" $title .Site.Title | safeHTMLAttr }},
   "isPartOf":{"@id":"https://bestliriklagu.com/#website"},
   "breadcrumb":{"@id":"#breadcrumb"},
