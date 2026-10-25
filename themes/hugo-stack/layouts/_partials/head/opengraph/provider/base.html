@@ -107,7 +107,8 @@
   "@id":"#breadcrumb",
   "itemListElement":[
   {"@type":"ListItem","position":1,"name":"Home","item":"https://bestliriklagu.com/"},
-  {"@type":"ListItem","position":2,"name":"2"}]},
+  {"@type":"ListItem","position":2,"name":{{ printf "%s" $title | safeHTMLAttr }}}
+  ]},
   {"@type":"WebSite",
   "@id":"https://bestliriklagu.com/#website",
   "url":"https://bestliriklagu.com/",
