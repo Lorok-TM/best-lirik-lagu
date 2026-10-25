@@ -52,9 +52,9 @@
   "@type":"CollectionPage",
   "@id":"https://bestliriklagu.com/",
   "url":"https://bestliriklagu.com/",
-  "name":"Bestliriklagu.com",
+  "name":{{ printf "%s - Gudang Lyrics Terlengkap dan Terbaru" $title | safeHTMLAttr }},
   "isPartOf":{"@id":"https://bestliriklagu.com/#website"},
-  "description":"Kumpulan lirik lagu terbaru dan terbaik para penyanyi dan musisi dari Daerah Sabang sampai Merauke Indonesia hingga Manca Negara.",
+  "description":{{ printf "%s" ($description | plainify | replaceRE "\n" " " | replaceRE "\r" " " | truncate 155 "...") | safeHTMLAttr }},
   "image": {
     "@type": "ImageObject",
     "url": "https://bestliriklagu.com/image/gudang-lirik-lagu-indonesia.webp",
