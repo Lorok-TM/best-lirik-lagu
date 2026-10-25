@@ -101,7 +101,7 @@
   "url":{{ .Permalink | jsonify | safeJS }},
   "name":{{ printf "Kumpulan Lirik Lagu %s - %s" $title .Site.Title | safeHTMLAttr }},
   "isPartOf":{"@id":"https://bestliriklagu.com/#website"},
-  "description":{{ printf "Kumpulan Lirik Lagu %s lengkap di %s, mulai dari lagu lagu terbaru hingga yang lama." $title .Site.Title | safeHTMLAttr }},
+  "description":{{ printf "Kumpulan Lirik Lagu %s lengkap di %s, mulai dari lagu lagu terbaru hingga yang lama. Untuk selengkapnya kunjungi disini." $title .Site.Title | safeHTMLAttr }},
   "image": {
     "@type": "ImageObject",
     "url": "https://bestliriklagu.com/image/gudang-lirik-lagu-indonesia.webp",
@@ -159,7 +159,7 @@
 {{- end -}}
 
 {{- if eq .Kind "term" -}}
-<meta property="og:description" content={{ printf "Kumpulan Lirik Lagu %s lengkap di %s, mulai dari lagu lagu terbaru hingga yang lama." $title .Site.Title | safeHTMLAttr }}>
+<meta property="og:description" content={{ printf "Kumpulan Lirik Lagu %s lengkap di %s, mulai dari lagu lagu terbaru hingga yang lama. Untuk selengkapnya kunjungi disini." $title .Site.Title | safeHTMLAttr }}>
 {{- else -}}
 <meta property="og:description" {{ printf "content=\"%s\"" ($description | plainify | replaceRE "\n" " " | replaceRE "\r" " " | truncate 155 "...") | safeHTMLAttr }}>
 {{- end -}}
