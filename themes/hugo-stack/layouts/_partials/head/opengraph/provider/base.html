@@ -98,18 +98,18 @@
 {"@context":"https://schema.org",
  "@graph":[
   {"@type":"CollectionPage",
-  "@id":{{ .Permalink | jsonify | safeJS }},
-  "url":{{ .Permalink | jsonify | safeJS }},
-  "name": {{ printf "Kumpulan Lirik Lagu %s - %s\" $title .Site.Title | safeHTMLAttr }},
+  "@id": "",
+  "url": "",
+  "name": "",
   "isPartOf":{"@id":"https://bestliriklagu.com/#website"},
-  "breadcrumb":{"@id": {{ .Permalink | jsonify | safeJS }} },
+  "breadcrumb":{"@id": "" },
   "inLanguage":"id"},
   {
   "@type":"BreadcrumbList",
-  "@id": {{ .Permalink | jsonify | safeJS }},
+  "@id": "",
   "itemListElement":[
   {"@type":"ListItem","position":1,"name":"Home","item":"https://bestliriklagu.com/"},
-  {"@type":"ListItem","position":2,"name": {{ printf "%s" $title | safeHTMLAttr }}
+  {"@type":"ListItem","position":2,"name": ""
  }]},
   "@type":"WebSite",
   "@id":"https://bestliriklagu.com/#website",
