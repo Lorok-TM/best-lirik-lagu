@@ -94,9 +94,9 @@
 
 {{- /* =====JSON CATEGORIES===== */ -}}
 {{- if eq .Kind "term" -}}
-	<script type="application/ld+json">
-  {"@context":"https://schema.org",
-  "@graph":[{"@type":"CollectionPage",
+<script type="application/ld+json">
+{"@context":"https://schema.org",
+ "@graph":[{"@type":"CollectionPage",
   "@id":{{ .Permalink | jsonify | safeJS }},
   "url":{{ .Permalink | jsonify | safeJS }},
   "name":{{ printf "Kumpulan Lirik Lagu %s - %s" $title .Site.Title | safeHTMLAttr }},
@@ -123,8 +123,10 @@
   "description":"Gudang Lirik Lagu Indonesia",
   "potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://bestliriklagu.com/?s={search_term_string}"},
   "query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],
-  "inLanguage":"id"}]}
- </script>
+  "inLanguage":"id"}
+ ]
+}
+</script>
 {{- end -}}
 
 {{- /* =====META OG FACEBOOK===== */ -}}
@@ -150,13 +152,11 @@
 <meta property="og:title" {{ printf "content=%q" $title | safeHTMLAttr }}>
 {{- end -}}
 
-    {{- /*
-<meta property='og:title' {{ printf "content=\"Lirik Lagu %s\"" ($title | plainify | replaceRE "\n" " " | replaceRE "\r" " " | truncate 70 "...") | safeHTMLAttr }}>
-<meta property='og:title' {{ printf "content=%q" $title | safeHTMLAttr }}> 
-    */ -}}
-
+{{- if eq .Kind "term" -}}
+<meta property="og:description" content={{ printf "Kumpulan Lirik Lagu %s lengkap di %s, mulai dari lagu lagu terbaru hingga yang lama." $title .Site.Title | safeHTMLAttr }}>
+{{- else -}}
 <meta property="og:description" {{ printf "content=\"%s\"" ($description | plainify | replaceRE "\n" " " | replaceRE "\r" " " | truncate 155 "...") | safeHTMLAttr }}>
-{{- /* <meta property="og:description" {{ printf "content=%q" $description | safeHTMLAttr }}> */ -}}
+{{- end -}}
 
 <meta property='og:url' content='{{ .Permalink }}'><meta property='og:site_name' content='{{ .Site.Title }}'><meta property='og:type' content='
 {{- if .IsPage -}}
