@@ -24,7 +24,7 @@
 {{- end -}}
 
 {{- if eq .Kind "term" -}}
-<meta name="twitter:description" content={{ printf "Kumpulan Lirik Lagu %s lengkap di %s, mulai dari lagu lagu terbaru hingga yang lama." $title .Site.Title | safeHTMLAttr }}>
+<meta name="twitter:description" content={{ printf "Kumpulan Lirik Lagu %s lengkap di %s, mulai dari lagu lagu terbaru hingga yang lama. Untuk selengkapnya kunjungi disini." $title .Site.Title | safeHTMLAttr }}>
 {{- else -}}
 <meta name="twitter:description" {{ printf "content=\"%s\"" ($description | plainify | replaceRE "\n" " " | replaceRE "\r" " " | truncate 155 "...") | safeHTMLAttr }}>
 {{- end -}}
