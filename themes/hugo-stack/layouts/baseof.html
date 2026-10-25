@@ -151,7 +151,6 @@ body{background-color:var(--bg-basic-node)}
 .hero-cover{aspect-ratio:16/3}
 .author-scrapper{margin:0 0 15px 0;line-height:1.4}
 .author-scrapper .bg-img{position:relative;aspect-ratio:4/1.2;border-radius:8px}
-.author-scrapper .bg-img::after{content:'';position:absolute;width:100%;height:2px;background:red;top:50%} 
 
 {{- /* HOMEPAGE-1 YOUTUBE PLAYER */ -}}
 {{- if and .IsHome (eq .Paginator.PageNumber 1) -}}
@@ -373,6 +372,8 @@ var stl=document.createElement("style");stl.innerHTML = '.wrap-player{width:100%
 
 (function() {const aktifkanGambar = (el) => {const imgUrl = el.getAttribute('data-bg');if (imgUrl) {el.style.backgroundImage = `url('${imgUrl}')`;el.removeAttribute('data-bg');}};const loadAwal = () => {document.querySelectorAll('[data-bg]').forEach(aktifkanGambar);};if (document.readyState === 'loading') {document.addEventListener('DOMContentLoaded', loadAwal);} else {loadAwal();} const observer = new MutationObserver((mutations) => {mutations.forEach(mutation => {mutation.addedNodes.forEach(node => {if (node.nodeType === 1) {const bgs = node.querySelectorAll ? node.querySelectorAll('[data-bg]') : [];bgs.forEach(aktifkanGambar);if (node.hasAttribute('data-bg')) aktifkanGambar(node);}});});});observer.observe(document.body, { childList: true, subtree: true });})();
 
+const gA = document.createElement('style');gA.innerHTML = `.author-scrapper .bg-img::after{content:'';position:absolute;display:block;width:100%;height:100%;background-image:url(https://bestliriklagu.com/image/hell.webp);opacity:.5}`;document.head.appendChild(gA);
+                                      
 console.log("Script munyuk Aktif!");};["mousemove", "mousedown", "touchstart", "scroll", "pointermove", "keydown", "click"].forEach(e => {window.addEventListener(e, munyuk, { passive: true });});timerMunyuk = setTimeout(munyuk, 4000);
 
 if (typeof atAsyncOptions !== 'object') var atAsyncOptions = [];atAsyncOptions.push({'key': '7607678f9aa53b7eec49c711faa429bb','format': 'js','container': 'atContainer-7607678f9aa53b7eec49c711faa429bb','params' : {}});
