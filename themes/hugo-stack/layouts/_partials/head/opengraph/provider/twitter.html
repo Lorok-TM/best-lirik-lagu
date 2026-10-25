@@ -22,10 +22,12 @@
 {{- else -}}
 <meta name="twitter:title" {{ printf "content=%q" $title | safeHTMLAttr }}>
 {{- end -}}
-{{- /* <meta name="twitter:title" {{ printf "content=%q" $title | safeHTMLAttr }}> */ -}}
 
+{{- if eq .Kind "term" -}}
+<meta name="twitter:description" content={{ printf "Kumpulan Lirik Lagu %s lengkap di %s, mulai dari lagu lagu terbaru hingga yang lama." $title .Site.Title | safeHTMLAttr }}>
+{{- else -}}
 <meta name="twitter:description" {{ printf "content=\"%s\"" ($description | plainify | replaceRE "\n" " " | replaceRE "\r" " " | truncate 155 "...") | safeHTMLAttr }}>
-{{- /* <meta name="twitter:description" {{ printf "content=%q" $description | safeHTMLAttr }}> */ -}}
+{{- end -}}
 
 {{- $image := partial "helper/image" (dict "Image" .Params.image "Resources" .Resources "Context" .) -}}
 {{- if $image -}}
@@ -36,9 +38,10 @@
 <meta name="twitter:image" content="https://bestliriklagu.com/image/gudang-lirik-lagu-indonesia.webp">
 {{- end -}}
 
-<meta name="twitter:site" content="@bestliriklagu"><meta name="twitter:creator" content="@katrok">
-{{- /* 
 {{- with .Site.Params.opengraph.twitter.site -}}
-<meta name="twitter:site" content="@{{ . }}"><meta name="twitter:creator" content="@{{ . }}">
+<meta name="twitter:site" content="@{{ . }}">
+<meta name="twitter:creator" content="@{{ . }}">
+{{- else -}}
+<meta name="twitter:site" content="@bestliriklagu">
+<meta name="twitter:creator" content="@katrok">
 {{- end -}}
- */ -}}
