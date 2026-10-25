@@ -1,6 +1,7 @@
 {{- $title := partialCached "data/title" . .RelPermalink -}}
 {{- $description := partialCached "data/description" . .RelPermalink -}}
 
+{{- /* =====JSON SINGLE POST===== */ -}}
 {{- if and .IsPage (strings.HasSuffix .RelPermalink "/author/katrok/") -}}
 {{- else if and .IsPage (ne .Section "page") -}}
 <script type='application/ld+json'>
@@ -41,6 +42,7 @@
 </script>
 {{- end -}}
 
+{{- /* =====JSON HOME===== */ -}}
 {{- if .IsHome -}}
 <script type="application/ld+json">
 {
@@ -90,6 +92,48 @@
 </script>
 {{- end -}}
 
+{{- /* =====JSON CATEGORIES===== */ -}}
+{{- if eq .Kind "term" -}}
+<script type="application/ld+json">
+{"@context":"https://schema.org",
+ "@graph":[
+  {"@type":"CollectionPage",
+  "@id":"{{ .Permalink }}",
+  "url":"{{ .Permalink }}",
+  "name": {{ printf "Kumpulan Lirik Lagu %s - %s\" $title .Site.Title | safeHTMLAttr }},
+  "isPartOf":{"@id":"https://bestliriklagu.com/#website"},
+  "breadcrumb":{"@id":"{{ .Permalink }}/#breadcrumb"},
+  "inLanguage":"id"},
+  {
+  "@type":"BreadcrumbList",
+  "@id":"{{ .Permalink }}/#breadcrumb",
+  "itemListElement":[
+  {"@type":"ListItem","position":1,"name":"Home","item":"https://bestliriklagu.com/"},
+  {"@type":"ListItem","position":2,"name": {{ printf "%s" $title | safeHTMLAttr }}
+ }]},
+  "@type":"WebSite",
+  "@id":"https://bestliriklagu.com/#website",
+  "url":"https://bestliriklagu.com/",
+  "name":"Best Lirik Lagu",
+  "description":"Gudang Lirik Lagu Indonesia",
+  "image": {
+    "@type": "ImageObject",
+    "url": "https://bestliriklagu.com/image/gudang-lirik-lagu-indonesia.webp",
+    "width": 1280,
+    "height": 720
+  },
+  "potentialAction":[
+  {"@type":"SearchAction",
+  "target":{"@type":"EntryPoint","urlTemplate":"https://bestliriklagu.com/?s={search_term_string}"},
+  "query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}
+  ],
+  "inLanguage":"id"}
+ ]
+}
+</script>
+{{- end -}}
+
+{{- /* =====META OG FACEBOOK===== */ -}}
 {{- if .IsHome -}}
 <meta property="og:title" {{ printf "content=\"%s - Gudang Lyrics Terlengkap dan Terbaru\"" $title | safeHTMLAttr }}>
 {{- else if and .IsPage (strings.HasSuffix .RelPermalink "/author/katrok/") -}}
