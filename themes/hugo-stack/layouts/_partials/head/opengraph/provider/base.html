@@ -101,13 +101,20 @@
   "url":{{ .Permalink | jsonify | safeJS }},
   "name":{{ printf "Kumpulan Lirik Lagu %s - %s" $title .Site.Title | safeHTMLAttr }},
   "isPartOf":{"@id":"https://bestliriklagu.com/#website"},
+  "description":{{ printf "Kumpulan Lirik Lagu %s lengkap di %s, mulai dari lagu lagu terbaru hingga yang lama." $title .Site.Title | safeHTMLAttr }},
+  "image": {
+    "@type": "ImageObject",
+    "url": "https://bestliriklagu.com/image/bestliriklagu.webp",
+    "width": 1707,
+    "height": 283
+  },
   "breadcrumb":{"@id":"#breadcrumb"},
   "inLanguage":"id"},
   {"@type":"BreadcrumbList",
   "@id":"#breadcrumb",
   "itemListElement":[
   {"@type":"ListItem","position":1,"name":"Home","item":"https://bestliriklagu.com/"},
-  {"@type":"ListItem","position":2,"name":{{ printf "%s" $title | safeHTMLAttr }}}
+  {"@type":"ListItem","position":2,"name":{{ printf "%s" $title | safeHTMLAttr }},"item":{{ .Permalink | jsonify | safeJS }}}
   ]},
   {"@type":"WebSite",
   "@id":"https://bestliriklagu.com/#website",
