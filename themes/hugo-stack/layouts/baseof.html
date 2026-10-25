@@ -151,6 +151,8 @@ body{background-color:var(--bg-basic-node)}
 .hero-cover{aspect-ratio:16/3}
 .author-scrapper{margin:0 0 15px 0;line-height:1.4}
 .author-scrapper .bg-img{position:relative;aspect-ratio:4/1.2;border-radius:8px}
+.author-scrapper li{margin-bottom:5px;padding-bottom:3px} 
+.author-scrapper li:not(:last-child) {border-bottom:1px solid rgb(155 155 155/.2)}
 
 {{- /* HOMEPAGE-1 YOUTUBE PLAYER */ -}}
 {{- if and .IsHome (eq .Paginator.PageNumber 1) -}}
