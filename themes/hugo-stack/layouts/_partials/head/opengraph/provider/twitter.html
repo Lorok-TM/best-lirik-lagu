@@ -10,7 +10,7 @@
 {{- else if and .IsPage (ne .Section "page") -}}
 <meta name="twitter:title" {{ printf "content=\"Lirik Lagu %s\"" ($title | plainify | replaceRE "\n" " " | replaceRE "\r" " ") | safeHTMLAttr }}>
 {{- else if eq .Kind "taxonomy" -}}
-<meta property="og:title" {{ printf "content=\"List %s - %s\"" $title .Site.Title | safeHTMLAttr }}>
+<meta name="twitter:title" {{ printf "content=\"List %s - %s\"" $title .Site.Title | safeHTMLAttr }}>
 {{- else if eq .Kind "term" -}}
 <meta name="twitter:title" {{ printf "content=\"Kumpulan Lirik Lagu %s - %s\"" $title .Site.Title | safeHTMLAttr }}>
 {{- else if not .Page.IsPage -}}
