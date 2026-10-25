@@ -12,14 +12,20 @@ Author Name: {{ $title }} - {{ .Site.Title }}
 Lirik Lagu {{ $title }}
 {{- else if and .IsPage (eq .Section "page") -}}
 Page {{ $title }} - {{ .Site.Title }}
+{{- else if eq .Kind "term" -}}
+Kumpulan Lirik Lagu {{ $title }} - {{ .Site.Title }}
 {{- else -}}
 List {{ $title }} - {{ .Site.Title }}
 {{- end -}}
 </title>
 
 {{- $description := partialCached "data/description" . .RelPermalink -}}
+{{- if eq .Kind "term" -}}
+<meta name="description" content={{ printf "Kumpulan Lirik Lagu %s lengkap di %s, mulai dari lagu lagu terbaru hingga yang lama." $title .Site.Title | safeHTMLAttr }}>
+{{- else -}}
 <meta name="description" {{ printf "content=\"%s\"" ($description | plainify | replaceRE "\n" " " | replaceRE "\r" " " | truncate 155 "...") | safeHTMLAttr }}>
-{{- /* <meta name='description' {{ printf "content=%q" $description | safeHTMLAttr }}> */ -}}
+{{- end -}}
+
 {{- with .Params.Keywords -}}
 <meta name="keywords" content="{{ delimit . ", " }}">
 {{- end -}}
