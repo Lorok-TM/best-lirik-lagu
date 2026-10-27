@@ -1,7 +1,7 @@
 ---
 author: Katrok
 title: "So Zangokhögö - Putra Duha | Nias"
-date: 2026-10-26T12:03:00Z
+date: 2026-10-26T12:16:00Z
 slug: so-zangokhogo-putra-duha-nias
 featured: false
 draft: false
@@ -56,3 +56,4 @@ Da’ö ia zomba’agö
 
 Hiza so zangokhögö wa’omasigu  
 Da’ö ia zomba’agö
+
