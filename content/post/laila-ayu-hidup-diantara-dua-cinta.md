@@ -3,7 +3,7 @@ author: Katrok
 title: "Laila Ayu - Hidup Diantara Dua Cinta"
 date: 2026-10-11T10:11:00Z
 slug: laila-ayu-hidup-diantara-dua-cinta
-featured: true
+featured: false
 draft: false
 categories: 
   - "Dangdut"
