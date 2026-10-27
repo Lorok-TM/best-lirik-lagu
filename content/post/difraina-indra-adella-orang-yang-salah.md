@@ -3,7 +3,7 @@ author: Katrok
 title: "Difraina Indra Adella - Orang Yang Salah"
 date: 2026-10-13T21:25:00Z
 slug: difraina-indra-adella-orang-yang-salah
-featured: true
+featured: false
 draft: false
 categories: 
   - "Dangdut"
