@@ -28,4 +28,3 @@ Nyampang sakik tibo dibadan carilah ubek surang
 Baa lah kiro-kiro  
 Titiak juo si aia mato baru takana urang  
 Mako tibo panyasalan
-
