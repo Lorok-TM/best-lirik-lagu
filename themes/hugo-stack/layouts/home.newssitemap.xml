@@ -33,7 +33,7 @@
                 <news:language>{{ site.Language.Locale | default "id" }}</news:language>
             </news:publication>
             <news:publication_date>{{ .PublishDate.Format "2006-01-02T15:04:05-07:00" }}</news:publication_date>
-            <news:title>{{ .Title }}</news:title>
+            <news:title>Lirik Lagu {{ .Title }}</news:title>
         </news:news>
         {{- /* Proses Gambar Dinamis + Gambar Cadangan */ -}}
         {{- $image := partial "helper/image" (dict "Image" .Params.image "Resources" .Resources "Context" .) -}}
@@ -43,8 +43,8 @@
             {{- /* Yen artikel ana gambare, nganggo gambar kuwi */ -}}
             {{- $imageUrl = $image.Permalink | absURL -}}
         {{- else -}}
-            {{- /* Kene panggonan gambar cadangan/default yen artikel kosongan (Ganti jeneng file-e yen beda) */ -}}
-            {{- $imageUrl = "https://bestliriklagu.com/image/best-lirik-lagu.webp" | absURL -}}
+            {{- /* Kene panggonan gambar cadangan/default yen artikel kosongan */ -}}
+            {{- $imageUrl = "https://bestliriklagu.com/image/gudang-lirik-lagu-indonesia.webp" | absURL -}}
         {{- end -}}
         
         <image:image>
