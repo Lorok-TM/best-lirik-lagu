@@ -41,7 +41,7 @@ function readDir(dir) {
             const slug = data.slug || path.basename(file, '.md');
             const permalink = `${domain}/${slug}/`;
             const formattedDate = postDate.toISOString();
-            const imgUrl = data.image || "https://bestliriklagu.com/image/best-lirik-lagu.webp";
+            const imgUrl = data.image || "https://bestliriklagu.com/image/gudang-lirik-lagu-indonesia.webp";
 
             urlsToNotify.push(permalink);
             xmlEntries += `  <url>
@@ -52,7 +52,7 @@ function readDir(dir) {
         <news:language>id</news:language>
       </news:publication>
       <news:publication_date>${formattedDate}</news:publication_date>
-      <news:title>${data.title || "No Title"}</news:title>
+      <news:title>Lirik Lagu ${data.title || "No Title"}</news:title>
     </news:news>
     <image:image>
       <image:loc>${imgUrl}</image:loc>
