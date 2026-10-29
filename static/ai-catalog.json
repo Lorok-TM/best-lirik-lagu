@@ -1,7 +1,8 @@
 {
-  "$schema": "https://ai-json.org",
-  "name": "Best Lirik Lagu",
-  "version": "1.0.0",
-  "description": "Gudang Lyrics Terlengkap dan Terbaru",
-  "capabilities": []
+  "$schema": "https://raw.githubusercontent.com/ards-project/ard-spec/main/spec/schemas/ai-catalog.schema.json",
+  "specVersion": "1.0",
+  "host": {
+    "displayName": "Best Lirik Lagu"
+  },
+  "entries": []
 }
