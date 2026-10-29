@@ -3,7 +3,7 @@ author: Katrok
 title: "Ajeng Febria - Terbelah Jadi Dua"
 date: 2026-10-16T09:20:00Z
 slug: ajeng-febria-terbelah-jadi-dua
-featured: true
+featured: false
 draft: false
 categories: 
   - "Dangdut"
