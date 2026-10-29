@@ -123,6 +123,10 @@ body{padding-top:50px}.site-header{position:fixed}.toggleMenu{display:inline-blo
 .nav-previous,.nav-next{flex:1}
 .nav-next{text-align:right}
 .navigation a{display:flex;flex-direction:column}
+.youtube-player{aspect-ratio:16/9;background-color:rgb(155 155 155/.1);position:relative;overflow:hidden;margin:24px auto;text-align:center}
+.youtube-player iframe,.youtube-player img,.youtube-player object,.youtube-player embed{position:absolute;display:block;overflow:hidden;top:0;left:0;max-width:100%;width:100%;min-height:100%;height:100%;margin:0;border:none}
+.youtube-player iframe{display:none !important}
+.youtube-player.aktif iframe{display:block !important}
 {{- end -}}
 
 {{- /* KONDISI MULTIPLE POST == ARCHIVES == DUDU SINGLE PAGE */ -}}
@@ -393,6 +397,26 @@ const gA = document.createElement('style');gA.innerHTML = `.author-scrapper .bg-
 console.log("Script munyuk Aktif!");};["mousemove", "mousedown", "touchstart", "scroll", "pointermove", "keydown", "click"].forEach(e => {window.addEventListener(e, munyuk, { passive: true });});timerMunyuk = setTimeout(munyuk, 4000);
 
 if (typeof atAsyncOptions !== 'object') var atAsyncOptions = [];atAsyncOptions.push({'key': '7607678f9aa53b7eec49c711faa429bb','format': 'js','container': 'atContainer-7607678f9aa53b7eec49c711faa429bb','params' : {}});
+
+{{- if .IsPage -}}
+let timerJmt;
+const jmt = () => {
+    ["mousemove", "mousedown", "touchstart", "scroll", "pointermove", "keydown", "click"].forEach(e => {
+        window.removeEventListener(e, jmt);
+    });
+    clearTimeout(timerJmt);
+    const players = document.querySelectorAll('.youtube-player');
+    players.forEach(p => {
+        p.classList.add('aktif');
+    });
+    console.log("Iframe diaktifkan.");
+};
+["mousemove", "mousedown", "touchstart", "scroll", "pointermove", "keydown", "click"].forEach(e => {
+    window.addEventListener(e, jmt, { passive: true });
+});
+timerJmt = setTimeout(jmt, 4000);
+{{- end -}}
+
 </script>
 {{- /* NGGO NYESELI ALT IMG ADSTERA */ -}}
 <script>
