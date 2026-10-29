@@ -9,6 +9,8 @@ categories:
   - "Minang"
 ---
 
+<div class="youtube-player" data-id="qNffkjS9D5w"></div>
+
 Opok opok malakik dapek  
 Bujuak jo rayu bamacam caro  
 Nyampang denai lengah saketek  
