@@ -1,13 +1,35 @@
 <div class="entry-content">
 {{- /* Refer to https://discourse.gohugo.io/t/responsive-tables-in-markdown/10639/5 */ -}}
 
+{{- $content := .Content -}}
+
+/* ==========================================================================
+   1. RACIKAN UTAMA: SEMBUR IFRAME YOUTUBE RELEVAN KARO SEO (VIEW-SOURCE SRC ASLI)
+   ========================================================================== */
+{{- $ytPattern := `<div class="youtube-player" data-id="([^"]+)">([\s\S]*?)</div>` -}}
+{{- $ytReplacement := `<div class="youtube-player" data-id="$1"><iframe width="100%" height="100%" src="https://youtube.com" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>` -}}
+{{- $content = $content | replaceRE $ytPattern $ytReplacement -}}
+
+/* ==========================================================================
+   2. RACIKAN DUWEKMU: TABLE WRAPPER LAN RESIK-RESIK SPASI/TAG MARKDOWN
+   ========================================================================== */
+{{- $w := printf "<div class=\"table-wrapper\">${1}</div>" -}}
+{{- $content = $content | replaceRE "(<table>(?:.|\n)+?</table>)" $w -}}
+{{- $content = $content | replaceRE "(</p>)\\s+(<p>)" "${1}${2}" -}}
+{{- $content = $content | replaceRE "(<br\\s*/?>)\\s+" "${1}" -}}
+
+/* ==========================================================================
+   3. CETAK NYOTO MENYANG BROWSER
+   ========================================================================== */
+{{- trim $content "\n\r " | safeHTML -}}
+
+{{- /*
 {{- $w := printf "<div class=\"table-wrapper\">${1}</div>" -}}
 {{- $c := .Content | replaceRE "(<table>(?:.|\n)+?</table>)" $w -}}
 {{- $c = $c | replaceRE "(</p>)\\s+(<p>)" "${1}${2}" -}}
 {{- $c = $c | replaceRE "(<br\\s*/?>)\\s+" "${1}" -}}
 {{- trim $c "\n\r " | safeHTML -}}
 
-{{- /*
 {{- if and .IsPage (ne .Section "page") -}}
 {{- partial "baca-juga.html" . -}}
 {{- end -}}
