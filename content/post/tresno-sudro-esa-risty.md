@@ -3,7 +3,7 @@ author: Katrok
 title: "Tresno Sudro - Esa Risty"
 date: 2026-07-15T09:27:00Z
 slug: tresno-sudro-esa-risty
-featured: true
+featured: false
 draft: false
 categories: 
   - "Jawa"
