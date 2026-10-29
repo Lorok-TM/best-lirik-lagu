@@ -3,7 +3,7 @@ author: Katrok
 title: "ILIR7 - Apa Kabar Mantan Terindah"
 date: 2026-10-16T09:31:00Z
 slug: ilir7-apa-kabar-mantan-terindah
-featured: true
+featured: false
 draft: false
 categories: 
   - "Band"
