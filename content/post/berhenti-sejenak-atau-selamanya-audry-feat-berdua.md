@@ -3,7 +3,7 @@ author: Katrok
 title: "Berhenti Sejenak Atau Selamanya - Audry feat. berdua"
 date: 2026-10-25T11:22:00Z
 slug: berhenti-sejenak-atau-selamanya-audry-feat-berdua
-featured: false
+featured: true
 draft: false
 categories: 
   - "Indo"
