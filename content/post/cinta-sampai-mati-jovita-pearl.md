@@ -3,7 +3,7 @@ author: Katrok
 title: "Cinta Sampai Mati - Jovita Pearl"
 date: 2026-10-25T11:25:00Z
 slug: cinta-sampai-mati-jovita-pearl
-featured: false
+featured: true
 draft: false
 categories: 
   - "Indo"
