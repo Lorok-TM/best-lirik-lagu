@@ -3,7 +3,7 @@ author: Katrok
 title: "So Zangokhögö - Putra Duha | Nias"
 date: 2026-10-25T12:55:00Z
 slug: so-zangokhogo-putra-duha-nias
-featured: true
+featured: false
 draft: false
 categories: 
   - "Nias"
