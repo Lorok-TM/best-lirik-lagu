@@ -1,37 +1,80 @@
 ---
+author: Katrok
 title: "Laira Munthe - Pemere Dibata"
-date: 2025-11-06
+date: 2025-11-06T23:04:00Z
+slug: laira-munthe-pemere-dibata
+featured: true
+draft: false
 categories: 
   - "Karo"
 ---
 
+Bujur bapa bereken ndu man bangku  
+Teman arih si seh manisna  
+Adi rupana ningen  
+Bali ras bintang film india  
+Kekelengenna luar biasa  
+Melias metami nahe lalit duana
 
-Bujur bapa bereken ndu man bangku Teman arih si seh manisna Adi rupana ningen Bali ras bintang film india Kekelengenna luar biasa Melias metami nahe lalit duana
+Enda nge ikataken telap baban ku tiga  
+Bagi menci ndabuh ku cimpa  
+Jumpa ras mama karo si seh manisna  
+Lalit pandangenna  
+Nami nami seh nge beluhna  
+Nde erdahin ningen seh nge jingkatna
 
-Enda nge ikataken telap baban ku tiga Bagi menci ndabuh ku cimpa Jumpa ras mama karo si seh manisna Lalit pandangenna Nami nami seh nge beluhna Nde erdahin ningen seh nge jingkatna
+Bagi kuan kuan sinuria  
+Aku jumpa ras kena  
+Labo daging baban ku tiga  
+Perbahanen rikut telapna
 
-Bagi kuan kuan sinuria Aku jumpa ras kena Labo daging baban ku tiga Perbahanen rikut telapna
+Kam pemere dibata  
+Jadi teman geluhku  
+Ibas kerina kurangku
 
-Kam pemere dibata Jadi teman geluhku Ibas kerina kurangku
+Tangkes ukur tangkes kata  
+Ma karo ma karongku  
+Lanai lit pandangen
 
-Tangkes ukur tangkes kata Ma karo ma karongku Lanai lit pandangen
+Music
 
-#Music
+Enda nge ikataken telap baban ku tiga  
+Bagi menci ndabuh ku cimpa  
+Jumpa ras mama karo si seh manisna  
+Lalit pandangenna  
+Nami nami seh nge beluhna  
+Nde erdahin ningen seh nge jingkatna
 
-Enda nge ikataken telap baban ku tiga Bagi menci ndabuh ku cimpa Jumpa ras mama karo si seh manisna Lalit pandangenna Nami nami seh nge beluhna Nde erdahin ningen seh nge jingkatna
+Bagi kuan kuan sinuria  
+Aku jumpa ras kena  
+Labo daging baban ku tiga  
+Perbahanen rikut telapna
 
-Bagi kuan kuan sinuria Aku jumpa ras kena Labo daging baban ku tiga Perbahanen rikut telapna
+Kam pemere dibata  
+Jadi teman geluhku  
+Ibas kerina kurangku
 
-Kam pemere dibata Jadi teman geluhku Ibas kerina kurangku
+Tangkes ukur tangkes kata  
+Ma karo ma karongku  
+Lanai lit pandangen
 
-Tangkes ukur tangkes kata Ma karo ma karongku Lanai lit pandangen
+Bagi kuan kuan sinuria  
+Aku jumpa ras kena  
+Labo daging baban ku tiga  
+Perbahanen rikut telapna
 
-Bagi kuan kuan sinuria Aku jumpa ras kena Labo daging baban ku tiga Perbahanen rikut telapna
+Kam pemere dibata  
+Jadi teman geluhku  
+Ibas kerina kurangku
 
-Kam pemere dibata Jadi teman geluhku Ibas kerina kurangku
+Tangkes ukur tangkes kata  
+Ma karo ma karongku  
+Lanai lit pandangen
 
-Tangkes ukur tangkes kata Ma karo ma karongku Lanai lit pandangen
+Kam pemere dibata  
+Jadi teman geluhku  
+Ibas kerina kurangku
 
-Kam pemere dibata Jadi teman geluhku Ibas kerina kurangku
-
-Tangkes ukur tangkes kata Ma karo ma karongku Lanai lit pandangen
+Tangkes ukur tangkes kata  
+Ma karo ma karongku  
+Lanai lit pandangen
