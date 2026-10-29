@@ -3,7 +3,7 @@ author: Katrok
 title: "Terbelah Jadi Dua - Laila Ayu Feat Shinta Arsinta"
 date: 2026-10-13T21:35:00Z
 slug: terbelah-jadi-dua-laila-ayu-feat-shinta-arsinta
-featured: true
+featured: false
 draft: false
 categories: 
   - "Dangdut"
