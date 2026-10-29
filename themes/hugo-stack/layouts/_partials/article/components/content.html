@@ -1,12 +1,7 @@
 <div class="entry-content">
-{{- /* Refer to https://discourse.gohugo.io/t/responsive-tables-in-markdown/10639/5 */ -}}
-{{- $content := .Content -}}
-{{- $ytPattern := `<div class="youtube-player" data-id="([^"]+)">([\s\S]*?)</div>` -}}
-{{- $ytReplacement := `<div class="youtube-player" data-id="$1"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/$1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>` -}}
-{{- $content = $content | replaceRE $ytPattern $ytReplacement -}}
 {{- $w := printf "<div class=\"table-wrapper\">${1}</div>" -}}
-{{- $content = $content | replaceRE "(<table>(?:.|\n)+?</table>)" $w -}}
-{{- $content = $content | replaceRE "(</p>)\\s+(<p>)" "${1}${2}" -}}
-{{- $content = $content | replaceRE "(<br\\s*/?>)\\s+" "${1}" -}}
-{{- trim $content "\n\r " | safeHTML -}}
+{{- $c := .Content | replaceRE "(<table>(?:.|\n)+?</table>)" $w -}}
+{{- $c = $c | replaceRE "(</p>)\\s+(<p>)" "${1}${2}" -}}
+{{- $c = $c | replaceRE "(<br\\s*/?>)\\s+" "${1}" -}}
+{{- trim $c "\n\r " | safeHTML -}}
 </div>
