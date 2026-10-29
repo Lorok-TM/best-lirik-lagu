@@ -3,7 +3,7 @@ author: Katrok
 title: "Rahma Rahmi - Teman Duduk"
 date: 2026-10-14T10:11:00Z
 slug: rahma-rahmi-teman-duduk
-featured: true
+featured: false
 draft: false
 categories: 
   - "Melayu"
