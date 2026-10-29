@@ -2,7 +2,7 @@
 {{- /* Refer to https://discourse.gohugo.io/t/responsive-tables-in-markdown/10639/5 */ -}}
 {{- $content := .Content -}}
 {{- $ytPattern := `<div class="youtube-player" data-id="([^"]+)">([\s\S]*?)</div>` -}}
-{{- $ytReplacement := `<div class="youtube-player" data-id="$1"><iframe width="100%" height="100%" src="https://youtube.com" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>` -}}
+{{- $ytReplacement := `<div class="youtube-player" data-id="$1"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/$1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>` -}}
 {{- $content = $content | replaceRE $ytPattern $ytReplacement -}}
 {{- $w := printf "<div class=\"table-wrapper\">${1}</div>" -}}
 {{- $content = $content | replaceRE "(<table>(?:.|\n)+?</table>)" $w -}}
