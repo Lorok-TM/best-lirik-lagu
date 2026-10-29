@@ -100,3 +100,9 @@ disableKinds = ["RSS"]
 [security]
   [security.http]
     urls = []
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+      
