@@ -3,7 +3,7 @@ author: Katrok
 title: "Yaya Nadila - Dalam Doa Ku"
 date: 2026-10-14T10:08:00Z
 slug: yaya-nadila-dalam-doa-ku
-featured: true
+featured: false
 draft: false
 categories: 
   - "Melayu"
