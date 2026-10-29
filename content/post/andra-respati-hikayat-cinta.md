@@ -3,7 +3,7 @@ author: Katrok
 title: "Andra Respati - Hikayat Cinta"
 date: 2026-10-13T21:38:00Z
 slug: andra-respati-hikayat-cinta
-featured: true
+featured: false
 draft: false
 categories: 
   - "Slow-Rock"
