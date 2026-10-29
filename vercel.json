@@ -1,6 +1,12 @@
 {
   "cleanUrls": true,
   "trailingSlash": true,
+  "rewrites": [
+    {
+      "source": "/((?!.*\\.json$).*)",
+      "destination": "/$1"
+    }
+  ],
   "routes": [
     {
       "src": "/index.xml",
