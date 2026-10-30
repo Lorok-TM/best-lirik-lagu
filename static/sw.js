@@ -1,9 +1,9 @@
-const CACHE_NAME = 'pwa-cache-v5';
+const CACHE_NAME = 'bestliriklagu-pwa-cache-v6';
 const ASSETS_TO_CACHE = [
   '/',
   '/offline.html',
+  '/offline',
   '/offline/',
-  '/offline/index.html',
   '/favicon.ico',
   '/author/',
   '/author/katrok/',
@@ -112,14 +112,13 @@ self.addEventListener('fetch', (event) => {
             }
             return networkResponse;
           })
+
           .catch(() => {
             return caches.match(event.request, { ignoreSearch: true }).then((response) => {
-              if (response) return response;
-              return caches.match('/offline/')
-              .then((res) => res || caches.match('/offline/index.html'))
-              .then((res) => res || caches.match('/'));
+              return response || caches.match('/offline') || caches.match('/');
             });
           })
+        
       );
     } else {
       event.respondWith(
