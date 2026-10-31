@@ -3,7 +3,7 @@ author: Katrok
 title: "Soal Hati - Cleny Nikijuluw"
 date: 2026-10-25T11:27:00Z
 slug: soal-hati-cleny-nikijuluw
-featured: true
+featured: false
 draft: false
 categories: 
   - "Timur"
