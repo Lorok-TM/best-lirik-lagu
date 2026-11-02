@@ -16,17 +16,16 @@
 <ul>
 {{- $currentPage := . -}}
 {{- range .Site.Menus.main -}}
-    {{/* 1. Cek kecocokan persis URL */}}
+    
+    {{/* 1. Kondisi utama: kecocokan persis URL menu dengan halaman saat ini */}}
     {{- $isExact := eq $currentPage.RelPermalink .URL -}}
     
-    {{/* 2. Cek apakah menu saat ini adalah section khusus yang ingin dibatasi */}}
-    {{- $isStrictSection := or (eq .URL "/post/") (or (eq .URL "/author/") (eq .URL "/page/")) -}}
+    {{/* 2. Logika Khusus Kategori & Arsip agar tetap menyala di sub-halamannya */}}
+    {{- $isSubCategory := and (eq .URL "/categories/") (or (eq $currentPage.Kind "taxonomy") (eq $currentPage.Kind "term")) -}}
+    {{- $isSubArchive := and (eq .URL "/archives/") (eq $currentPage.Section "archives") -}}
     
-    {{/* 3. Logika untuk kategori/arsip yang ingin tetap aktif saat dibuka turunannya */}}
-    {{- $isSubPage := and (not $isStrictSection) (strings.HasPrefix $currentPage.RelPermalink .URL) -}}
-    
-    {{/* 4. Gabungkan semua kondisi aktif */}}
-    {{- $active := or $isExact (or $isSubPage (or ($currentPage.HasMenuCurrent "main" .) ($currentPage.IsMenuCurrent "main" .))) -}}
+    {{/* Gabungkan semua validasi */}}
+    {{- $active := or $isExact (or $isSubCategory $isSubArchive) -}}
 
     {{- if $active -}}
     <li><span class='current'>{{- .Name -}}</span></li>
@@ -36,6 +35,7 @@
 {{- end -}}
 </ul>
 </nav>
+
 
 <div class='search-form'>
 <form action='https://google.com/search' method='get' role='search' target='_blank'><input aria-label='Masukkan kata kunci pencarian (Wajib diisi), membuka tab baru' id='search-box' name='q' placeholder='Cari' required='' type='search' value=''><input class='hide-visually' value='https://bestliriklagu.com' name='sitesearch' type='hidden'><button aria-label='Lakukan Pencarian' class='search-submit' type='submit'><svg aria-hidden='true' fill='currentColor' focusable='false' height='24' viewBox='0 0 24 24' width='24'><path d='M16.296 16.996a8 8 0 11.707-.708l3.909 3.91-.707.707-3.909-3.909zM18 11a7 7 0 00-14 0 7 7 0 1014 0z'></path></svg></button>
