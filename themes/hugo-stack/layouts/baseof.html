@@ -152,8 +152,8 @@ body{background-color:var(--bg-basic-node)}
 
 .bg-img,.hero-cover{background-color:rgb(155 155 155/.1);background-size:cover;background-position:center;background-repeat:no-repeat}
 .hero-cover{aspect-ratio:16/3}
-.author-scrapper{margin:0 0 15px 0;line-height:1.4}
-.author-scrapper .bg-img{position:relative;aspect-ratio:4/1.2;border-radius:8px}
+.author-scrapper{margin:0 0 15px 0;line-height:1.4;text-align:center}
+.author-scrapper .bg-img{position:relative;aspect-ratio:4/1.2}
 .author-scrapper ul{border:1px solid var(--gray-2);display:flex;flex-direction:column;border-radius:10px;overflow:hidden}
 .author-scrapper li{padding:10px 15px;background-color: var(--bg-basic-node)} 
 .author-scrapper li:not(:last-child) {border-bottom:1px solid var(--gray-2)}
@@ -344,6 +344,17 @@ if ('serviceWorker' in navigator) {
 </li>
 {{- end -}}
 </ul></div>
+{{- end -}}
+{{- end -}}
+<div class="ads-sidebar" id="atContainer-7607678f9aa53b7eec49c711faa429bb"></div>
+</div>
+</div>
+</main>
+{{- /* =====ISTIRAHAT DULU BRO
+{{- partial "footer/footer" . -}}
+{{- partial "footer/include.html" . -}}
+*/ -}}
+<footer class="site-footer" id="colophon" itemtype="https://schema.org/WPFooter" itemscope="itemscope" itemid="#colophon">
 <div class="author-scrapper">
 <h3>The Scrapper Helliest Hell</h3>
 <div class="bg-img" data-bg="https://bestliriklagu.com/image/author-scrapper.webp"></div>
@@ -361,17 +372,7 @@ if ('serviceWorker' in navigator) {
   <li>Let's go to Scraper Site / Splog / Content Farm / Made for Adsense (MFA) New Sites 2026 by Budi Mahendra.</li>
 </ul>
 </div>
-{{- end -}}
-{{- end -}}
-<div class="ads-sidebar" id="atContainer-7607678f9aa53b7eec49c711faa429bb"></div>
-</div>
-</div>
-</main>
-{{- /* =====ISTIRAHAT DULU BRO
-{{- partial "footer/footer" . -}}
-{{- partial "footer/include.html" . -}}
-*/ -}}
-<footer class="site-footer" id="colophon" itemtype="https://schema.org/WPFooter" itemscope="itemscope" itemid="#colophon"><div class="footer container"><div class='sharethis-inline-share-buttons'></div><div class="copyright">&copy; {{ if and (.Site.Params.footer.since) (ne .Site.Params.footer.since (int (now.Format "2006"))) }}{{ .Site.Params.footer.since }} - {{ end }}{{ now.Format "2006" }} {{ default .Site.Title .Site.Copyright }}</div></div>
+<div class="footer container"><div class='sharethis-inline-share-buttons'></div><div class="copyright">&copy; {{ if and (.Site.Params.footer.since) (ne .Site.Params.footer.since (int (now.Format "2006"))) }}{{ .Site.Params.footer.since }} - {{ end }}{{ now.Format "2006" }} {{ default .Site.Title .Site.Copyright }}</div></div>
 {{- /* SCRIPT ALL */ -}}  
 <script>
 window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'G-GRQX8Z5L3R');
