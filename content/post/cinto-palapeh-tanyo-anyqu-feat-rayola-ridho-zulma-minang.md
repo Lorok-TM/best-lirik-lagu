@@ -3,7 +3,7 @@ author: Katrok
 title: "Cinto Palapeh Tanyo - Anyqu feat. Rayola, Ridho Zulma | Minang"
 date: 2026-10-31T11:34:00Z
 slug: cinto-palapeh-tanyo-anyqu-feat-rayola-ridho-zulma-minang
-featured: false
+featured: true
 draft: false
 categories: 
   - "Minang"
