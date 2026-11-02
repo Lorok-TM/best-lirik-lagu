@@ -20,12 +20,11 @@
     {{/* 1. Kondisi utama: kecocokan persis URL menu dengan halaman saat ini */}}
     {{- $isExact := eq $currentPage.RelPermalink .URL -}}
     
-    {{/* 2. Logika Khusus Kategori & Arsip agar tetap menyala di sub-halamannya */}}
-    {{- $isSubCategory := and (eq .URL "/categories/") (or (eq $currentPage.Kind "taxonomy") (eq $currentPage.Kind "term")) -}}
+    {{/* 2. Logika Khusus Arsip: tetap menyala ketika sub-arsip dibuka */}}
     {{- $isSubArchive := and (eq .URL "/archives/") (eq $currentPage.Section "archives") -}}
     
-    {{/* Gabungkan semua validasi */}}
-    {{- $active := or $isExact (or $isSubCategory $isSubArchive) -}}
+    {{/* Gabungkan aturan: /categories/, /post/, /author/, /page/ otomatis hanya aktif jika exact match */}}
+    {{- $active := or $isExact $isSubArchive -}}
 
     {{- if $active -}}
     <li><span class='current'>{{- .Name -}}</span></li>
@@ -35,6 +34,7 @@
 {{- end -}}
 </ul>
 </nav>
+
 
 
 <div class='search-form'>
