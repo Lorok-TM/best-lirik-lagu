@@ -3,7 +3,7 @@ author: Katrok
 title: "Patah Bacinto - Halilintar Morgen | Minang"
 date: 2026-10-31T11:29:00Z
 slug: patah-bacinto-halilintar-morgen-minang
-featured: false
+featured: true
 draft: false
 categories: 
   - "Minang"
