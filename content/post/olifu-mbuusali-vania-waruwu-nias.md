@@ -3,7 +3,7 @@ author: Katrok
 title: "Olifuö Mbu'usali - Vania Waruwu | Nias"
 date: 2026-10-31T11:17:00Z
 slug: olifu-mbuusali-vania-waruwu-nias
-featured: false
+featured: true
 draft: false
 categories: 
   - "Nias"
