@@ -3,7 +3,7 @@ author: Katrok
 title: "Tagak Salah Duduak Salah - Dhea Winata | Minang"
 date: 2026-10-31T11:25:00Z
 slug: tagak-salah-duduak-salah-dhea-winata-minang
-featured: false
+featured: true
 draft: false
 categories: 
   - "Minang"
