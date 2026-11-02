@@ -3,7 +3,7 @@ author: Katrok
 title: "Demi Kabogoh X Sarua Jeung Bohong - Azmy Z | Sunda"
 date: 2026-10-31T11:44:00Z
 slug: demi-kabogoh-x-sarua-jeung-bohong-azmy-z-sunda
-featured: false
+featured: true
 draft: false
 categories: 
   - "Sunda"
