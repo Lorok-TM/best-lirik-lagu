@@ -45,7 +45,7 @@ function readDir(dir) {
 
             urlsToNotify.push(permalink);
             xmlEntries += `  <url>
-    <loc>${permalink}</loc>
+    <loc><![CDATA[${permalink}]]></loc>
     <news:news>
       <news:publication>
         <news:name><![CDATA[${mediamu}]]></news:name>
