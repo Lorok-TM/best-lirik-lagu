@@ -3,7 +3,7 @@ author: Katrok
 title: "Barulang Seso - Ovhi Firsty | Minang"
 date: 2026-10-27T21:40:00Z
 slug: barulang-seso-ovhi-firsty-minang
-featured: true
+featured: false
 draft: false
 categories: 
   - "Minang"
