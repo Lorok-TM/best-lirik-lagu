@@ -7,5 +7,3 @@ slug: "about"
 Best Lirik Lagu adalah situs gudang lirik lagu Indonesia terlengkap yang menghadirkan keindahan bahasa dari Sabang sampai Merauke.
 
 Temukan ribuan lirik lagu Indonesia populer, lagu hits lawas, hingga tembang daerah dari berbagai suku. Mari lestarikan kekayaan musik Indonesia dan jaga tradisi budaya kita dalam satu ketukan nada.
-
-[Ini Tautan Rusak Sengaja](/halaman-ngawur-pasti-404)
