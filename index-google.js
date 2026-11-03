@@ -48,15 +48,15 @@ function readDir(dir) {
     <loc>${permalink}</loc>
     <news:news>
       <news:publication>
-        <news:name>${mediamu}</news:name>
-        <news:language>id</news:language>
+        <news:name><![CDATA[${mediamu}]]></news:name>
+        <news:language><![CDATA[id]]></news:language>
       </news:publication>
-      <news:publication_date>${formattedDate}</news:publication_date>
-      <news:title>Lirik Lagu ${data.title || "No Title"}</news:title>
+      <news:publication_date><![CDATA[${formattedDate}]]></news:publication_date>
+      <news:title><![CDATA[Lirik Lagu ${data.title || "No Title"}]]></news:title>
     </news:news>
     <image:image>
-      <image:loc>${imgUrl}</image:loc>
-      <image:title>${data.title || "No Title"}</image:title>
+      <image:loc><![CDATA[${imgUrl}]]></image:loc>
+      <image:title><![CDATA[${data.title || "No Title"}]]></image:title>
     </image:image>
   </url>\n`;
           }
