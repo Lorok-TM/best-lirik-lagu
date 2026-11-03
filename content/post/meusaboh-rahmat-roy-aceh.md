@@ -3,7 +3,7 @@ author: Katrok
 title: "Meusaboh - Rahmat Roy | Aceh"
 date: 2026-11-01T21:45:00Z
 slug: meusaboh-rahmat-roy-aceh
-featured: false
+featured: true
 draft: false
 categories: 
   - "Aceh"
