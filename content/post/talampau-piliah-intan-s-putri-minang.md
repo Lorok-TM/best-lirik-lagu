@@ -3,7 +3,7 @@ author: Katrok
 title: "Talampau Piliah - Intan S Putri | Minang"
 date: 2026-11-01T21:34:00Z
 slug: talampau-piliah-intan-s-putri-minang
-featured: false
+featured: true
 draft: false
 categories: 
   - "Minang"
