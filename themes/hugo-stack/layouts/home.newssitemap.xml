@@ -26,14 +26,14 @@
 {{- range $newsPages -}}
 
     <url>
-        <loc>{{ .Permalink }}</loc>
+        <loc><![CDATA[{{ .Permalink }}]]></loc>
         <news:news>
             <news:publication>
-                <news:name>{{ $.Site.Title }}</news:name>
-                <news:language>{{ site.Language.Locale | default "id" }}</news:language>
+                <news:name><![CDATA[{{ $.Site.Title }}]]></news:name>
+                <news:language><![CDATA[{{ site.Language.Locale | default "id" }}]]></news:language>
             </news:publication>
-            <news:publication_date>{{ .PublishDate.Format "2006-01-02T15:04:05-07:00" }}</news:publication_date>
-            <news:title>Lirik Lagu {{ .Title }}</news:title>
+            <news:publication_date><![CDATA[{{ .PublishDate.Format "2006-01-02T15:04:05-07:00" }}]]></news:publication_date>
+            <news:title><![CDATA[Lirik Lagu {{ .Title }}]]></news:title>
         </news:news>
         {{- /* Proses Gambar Dinamis + Gambar Cadangan */ -}}
         {{- $image := partial "helper/image" (dict "Image" .Params.image "Resources" .Resources "Context" .) -}}
@@ -48,8 +48,8 @@
         {{- end -}}
         
         <image:image>
-            <image:loc>{{ $imageUrl }}</image:loc>
-            <image:title>{{ .Title }}</image:title>
+            <image:loc><![CDATA[{{ $imageUrl }}]]></image:loc>
+            <image:title><![CDATA[{{ .Title }}]]></image:title>
         </image:image>
     </url>
     {{- end -}}
