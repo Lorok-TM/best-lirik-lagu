@@ -3,7 +3,7 @@ author: Katrok
 title: "Fauzana - Ulah Tacubo Nan Lamak"
 date: 2026-10-14T10:16:00Z
 slug: fauzana-ulah-tacubo-nan-lamak
-featured: true
+featured: false
 draft: false
 categories: 
   - "Minang"
