@@ -26,7 +26,24 @@
 {{- $limit_posts := first 10 $regular_posts -}}
 <ul>
 {{- range $limit_posts -}}
-<li><a href="{{ .Permalink }}">Lirik Lagu {{ .Title }}</a><span class="date">{{ .Date.Format "02 Jan 2006" }}</span></li>
+<li><a href="{{ .Permalink }}">
+
+{{/* 1. Goleki lan saring ID Youtube soko konten .md */}}
+{{$ytID := ""}}
+{{$match := findRE `<div class="youtube-player" data-id="([^"]+)"` .RawContent 1}}
+{{if $match}}
+  {{$ytID = index $match 0 | replaceRE `<div class="youtube-player" data-id="([^"]+)"` "$1"}}
+{{end}}
+
+{{/* 2. Cetak gambare yen ID Youtube ketemu */}}
+{{if $ytID}}
+  <img src="https://youtube.com{{$ytID}}/hqdefault.jpg" alt="{{ .Title }}" class="thumb-yt" loading="lazy">
+{{else}}
+  {{/* Opsional: Gambar cadangan (fallback) yen postingan gak ono Youtubee */}}
+  <img src="/images/default-thumb.jpg" alt="{{ .Title }}" class="thumb-yt" loading="lazy">
+{{end}}
+  
+Lirik Lagu {{ .Title }}</a><span class="date">{{ .Date.Format "02 Jan 2006" }}</span></li>
 {{- end -}}
 </ul>
 
