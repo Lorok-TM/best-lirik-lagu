@@ -331,6 +331,9 @@ if ('serviceWorker' in navigator) {
 <ul>
 {{- range $sidebar_featured -}}
 <li><a href="{{ .Permalink }}">
+{{- if eq $index 0 -}}
+{{- partial "get-yt-thumb.html" . -}}
+{{- end -}}
 Lirik Lagu {{ .Title }}</a>
 {{- /* <span class="pub-date">{{ .Date.Format "02 Jan 2006" -}}</span> */ -}}
 </li>
