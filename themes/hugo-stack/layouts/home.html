@@ -12,19 +12,6 @@
 <div class="featured"><h2>Postingan Pilihan</h2><ul>
 {{- range $featured_posts -}}
 <li><a href="{{ .Permalink }}">
-
-{{$yt1ID := ""}}
-{{$match := findRE `<div class="youtube-player" data-id="([^"]+)"` .RawContent 1}}
-{{if $match}}
-{{$yt1ID = index $match 0 | replaceRE `<div class="youtube-player" data-id="([^"]+)"` "$1"}}
-{{end}}
-  
-{{if $yt1ID}}
-  <div class='bg-img' data-bg='https://i.ytimg.com/vi_webp/{{$yt1ID}}/hqdefault.webp'></div>
-{{else}}
-  <div class='bg-img' data-bg='https://bestliriklagu.com/image/gudang-lirik-lagu-indonesia.webp'></div>
-{{end}}
-  
 Lirik Lagu {{ .Title }}</a><span class="date">{{ .Date.Format "02 Jan 2006" }}</span></li>
 {{- end -}}
 </ul></div>
@@ -41,19 +28,6 @@ Lirik Lagu {{ .Title }}</a><span class="date">{{ .Date.Format "02 Jan 2006" }}</
 <ul>
 {{- range $limit_posts -}}
 <li><a href="{{ .Permalink }}">
-
-{{$yt2ID := ""}}
-{{$match := findRE `<div class="youtube-player" data-id="([^"]+)"` .RawContent 1}}
-{{if $match}}
-{{$yt2ID = index $match 0 | replaceRE `<div class="youtube-player" data-id="([^"]+)"` "$1"}}
-{{end}}
-  
-{{if $yt2ID}}
-  <div class='bg-img' data-bg='https://i.ytimg.com/vi_webp/{{$yt2ID}}/hqdefault.webp'></div>
-{{else}}
-  <div class='bg-img' data-bg='https://bestliriklagu.com/image/gudang-lirik-lagu-indonesia.webp'></div>
-{{end}}
-  
 Lirik Lagu {{ .Title }}</a><span class="date">{{ .Date.Format "02 Jan 2006" }}</span></li>
 {{- end -}}
 </ul>
