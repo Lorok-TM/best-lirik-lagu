@@ -1,5 +1,5 @@
-<li><div class="entry-title"><a href="{{ .RelPermalink }}">
-
+<li>
+<a href="{{ .RelPermalink }}">
 {{- if and (eq .Type "author") -}}
 {{ .Title }}
 {{- else if and (eq .Type "page") -}}
@@ -8,12 +8,11 @@
 {{ .Title }}
 {{- else if and (eq .Type "post") -}}
 {{- partial "get-yt-thumb.html" . -}}
-Lirik Lagu {{ .Title }}
+<div class="entry-title">Lirik Lagu {{ .Title }}</div>
 {{- else -}}
 Lirik Lagu {{ .Title }}
 {{- end -}}
-
-</a></div>
+</a>
             
             {{- $description := .Params.description -}}
             {{- $IsTerm := in .Kind "term" -}}
