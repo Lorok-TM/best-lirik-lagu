@@ -9,6 +9,8 @@ categories:
   - "Dayak"
 ---
 
+<div class="youtube-player" data-id="chRYeWN0TgE"></div>
+
 Sinde katika metuh ku tanjung tunja  
 Tasupa bawi bahalap bakena  
 Mata sipit kilau uluh cina  
