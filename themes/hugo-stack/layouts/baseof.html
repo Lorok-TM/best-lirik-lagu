@@ -330,17 +330,18 @@ if ('serviceWorker' in navigator) {
 <h2>Featured Lyrics Songs</h2>
 <ul>
 {{- range $index, $element := $sidebar_featured -}}
-<li><a href="{{ .Permalink }}">
-  
+<li>
+<a href="{{ .Permalink }}">
 {{- if eq $index 0 -}}
 {{- partial "get-yt-thumb.html" . -}}
 {{- end -}}
-
-Lirik Lagu {{ .Title }}</a>
+<span class="post-title">Lirik Lagu {{ .Title }}</span>
+</a>
 {{- /* <span class="pub-date">{{ .Date.Format "02 Jan 2006" -}}</span> */ -}}
 </li>
 {{- end -}}
-</ul></div>
+</ul>
+</div>
 {{- end -}}
 {{- end -}}
 <div class="ads-sidebar" id="atContainer-7607678f9aa53b7eec49c711faa429bb"></div>
