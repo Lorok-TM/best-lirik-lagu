@@ -331,26 +331,6 @@ if ('serviceWorker' in navigator) {
 <ul>
 {{- range $sidebar_featured -}}
 <li><a href="{{ .Permalink }}">
-
-  {{/* --- PROSES GOLEKI VIDEO LANGSUNG NENG KENE (KEBAL CRASH) --- */}}
-  {{- if eq $index 0 -}}
-    {{- $.Scratch.Set "yt_id" "" -}}
-    {{- if .RawContent -}}
-      {{- $match := findRE `<div class="youtube-player" data-id="([^"]+)"` .RawContent 1 -}}
-      {{- if $match -}}
-        {{- $id := index $match 0 | replaceRE `<div class="youtube-player" data-id="([^"]+)"` "$1" -}}
-        {{- $.Scratch.Set "yt_id" $id -}}
-      {{- end -}}
-    {{- end -}}
-    
-    {{/* --- CETAK THUMBNAIL YEN KETEMU --- */}}
-    {{- $thumb := $.Scratch.Get "yt_id" -}}
-    {{- if $thumb -}}
-      <img src="https://i.ytimg.com/vi/{{ $thumb }}/hqdefault.jpg" alt="{{ .Title }}" class="thumb-yt-sidebar" loading="lazy">
-    {{- end -}}
-  {{- end -}}
-  {{/* ----------------------------------------------------------- */}}
-  
 Lirik Lagu {{ .Title }}</a>
 {{- /* <span class="pub-date">{{ .Date.Format "02 Jan 2006" -}}</span> */ -}}
 </li>
