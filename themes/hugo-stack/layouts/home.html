@@ -1,6 +1,6 @@
 {{ define "main" }}
 {{- $paginator := partial "helper/paginator.html" . -}}
-{{- $thumb := partial "get-yt-thumb.html" . -}}
+{{- partial "get-yt-thumb.html" . -}}
 
 <div class="ast-row">
 {{- /* 1. INITIALISASI PAGINATOR UTAMA (DIENGGO HALAMAN 2 SATERUSE) */ -}}
@@ -37,11 +37,11 @@ Lirik Lagu {{ .Title }}</a><span class="date">{{ .Date.Format "02 Jan 2006" }}</
 {{- range $limit_posts -}}
 <li><a href="{{ .Permalink }}">
 
-    {{ if $thumb }}
-    <div class='bg-img' data-bg='https://i.ytimg.com/vi_webp/{{ $thumb }}/hqdefault.webp'></div>
-    {{else}}
-    <div class='bg-img' data-bg='https://bestliriklagu.com/image/gudang-lirik-lagu-indonesia.webp'></div>
-    {{ end }}
+{{if $ytID}}
+  <div class='bg-img' data-bg='https://i.ytimg.com/vi_webp/{{$ytID}}/hqdefault.webp'></div>
+{{else}}
+  <div class='bg-img' data-bg='https://bestliriklagu.com/image/gudang-lirik-lagu-indonesia.webp'></div>
+{{end}}
   
 Lirik Lagu {{ .Title }}</a><span class="date">{{ .Date.Format "02 Jan 2006" }}</span></li>
 {{- end -}}
