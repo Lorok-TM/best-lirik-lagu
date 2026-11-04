@@ -335,9 +335,9 @@ if ('serviceWorker' in navigator) {
 {{- if eq $index 0 -}}
 {{- partial "get-yt-thumb.html" . -}}
 {{- end -}}
-<span class="post-title">Lirik Lagu {{ .Title }}</span>
+<div class="entry-title">Lirik Lagu {{ .Title }}</div>
 </a>
-{{- /* <span class="pub-date">{{ .Date.Format "02 Jan 2006" -}}</span> */ -}}
+{{- /* <div class="date">{{ .Date.Format "02 Jan 2006" }}</div> */ -}}
 </li>
 {{- end -}}
 </ul>
