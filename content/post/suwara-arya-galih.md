@@ -9,6 +9,8 @@ categories:
   - "Jawa"
 ---
 
+<div class="youtube-player" data-id="W6o4jppIV4Q"></div>
+
 Tetes jawah wanci sore  
 Nggugah ati rasane  
 Kepungkur kang kuwur  
