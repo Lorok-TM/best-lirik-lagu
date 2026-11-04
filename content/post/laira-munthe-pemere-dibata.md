@@ -9,6 +9,8 @@ categories:
   - "Karo"
 ---
 
+<div class="youtube-player" data-id="rJ2CcgJajAI"></div>
+
 Bujur bapa bereken ndu man bangku  
 Teman arih si seh manisna  
 Adi rupana ningen  
