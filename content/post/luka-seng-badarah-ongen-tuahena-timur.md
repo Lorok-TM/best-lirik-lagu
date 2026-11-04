@@ -3,7 +3,7 @@ author: Katrok
 title: "Luka Seng Badarah - Ongen Tuahena (Timur)"
 date: 2026-10-04T09:52:00Z
 slug: luka-seng-badarah-ongen-tuahena-timur
-featured: false
+featured: true
 draft: false
 categories: 
   - "Timur"
