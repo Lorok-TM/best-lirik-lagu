@@ -1,0 +1,7 @@
+{{/* layouts/partials/get-yt-thumb.html */}}
+{{ $ytID := "" }}
+{{ $match := findRE `<div class="youtube-player" data-id="([^"]+)"` .RawContent 1 }}
+{{ if $match }}
+  {{ $ytID = index $match 0 | replaceRE `<div class="youtube-player" data-id="([^"]+)"` "$1" }}
+{{ end }}
+{{ return $ytID }}
