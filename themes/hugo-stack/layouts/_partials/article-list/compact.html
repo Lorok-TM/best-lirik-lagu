@@ -6,7 +6,7 @@
 {{ .Title }}
 {{- else if and (eq .Type "categories") -}}
 {{ .Title }}
-{{- else if not .Page.IsPage -}}
+{{- else if and (eq .Type "post") -}}
 {{- partial "get-yt-thumb.html" . -}}
 Lirik Lagu {{ .Title }}
 {{- else -}}
