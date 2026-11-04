@@ -32,10 +32,6 @@ Lirik Lagu {{ .Title }}</a><span class="date">{{ .Date.Format "02 Jan 2006" }}</
 {{- range $limit_posts -}}
 <li><a href="{{ .Permalink }}">
 
-    {{ $thumb := partial "_partials/get-yt-thumb.html" . }}
-    {{ if $thumb }}
-      <img src="https://i.ytimg.com/vi/{{ $thumb }}/hqdefault.jpg" alt="{{ .Title }}" class="thumb-yt-sidebar" loading="lazy">
-    {{ end }}
   
 Lirik Lagu {{ .Title }}</a><span class="date">{{ .Date.Format "02 Jan 2006" }}</span></li>
 {{- end -}}
