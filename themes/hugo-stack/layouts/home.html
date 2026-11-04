@@ -37,10 +37,9 @@
 
 {{/* 2. Cetak gambare yen ID Youtube ketemu */}}
 {{if $ytID}}
-  <img src="https://youtube.com{{$ytID}}/hqdefault.jpg" alt="{{ .Title }}" class="thumb-yt" loading="lazy">
+  <div class='bg-img' data-bg='https://i.ytimg.com/vi_webp/{{$ytID}}/hqdefault.webp'></div>
 {{else}}
-  {{/* Opsional: Gambar cadangan (fallback) yen postingan gak ono Youtubee */}}
-  <img src="/images/default-thumb.jpg" alt="{{ .Title }}" class="thumb-yt" loading="lazy">
+  <div class='bg-img' data-bg='https://bestliriklagu.com/image/gudang-lirik-lagu-indonesia.webp'></div>
 {{end}}
   
 Lirik Lagu {{ .Title }}</a><span class="date">{{ .Date.Format "02 Jan 2006" }}</span></li>
