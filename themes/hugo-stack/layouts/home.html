@@ -12,6 +12,7 @@
 <div class="featured"><h2>Postingan Pilihan</h2><ul>
 {{- range $featured_posts -}}
 <li><a href="{{ .Permalink }}">
+{{- partial "get-yt-thumb.html" . -}}
 Lirik Lagu {{ .Title }}</a><span class="date">{{ .Date.Format "02 Jan 2006" }}</span></li>
 {{- end -}}
 </ul></div>
@@ -28,6 +29,7 @@ Lirik Lagu {{ .Title }}</a><span class="date">{{ .Date.Format "02 Jan 2006" }}</
 <ul>
 {{- range $limit_posts -}}
 <li><a href="{{ .Permalink }}">
+{{- partial "get-yt-thumb.html" . -}}
 Lirik Lagu {{ .Title }}</a><span class="date">{{ .Date.Format "02 Jan 2006" }}</span></li>
 {{- end -}}
 </ul>
@@ -37,6 +39,7 @@ Lirik Lagu {{ .Title }}</a><span class="date">{{ .Date.Format "02 Jan 2006" }}</
 <ul>
 {{- range $paginator.Pages -}}
 <li><a href="{{ .Permalink }}">
+{{- partial "get-yt-thumb.html" . -}}
 Lirik Lagu {{ .Title }}</a><span class="date">{{ .Date.Format "02 Jan 2006" }}</span></li>
 {{- end -}}
 </ul>
