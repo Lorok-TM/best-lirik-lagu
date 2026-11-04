@@ -330,25 +330,15 @@ if ('serviceWorker' in navigator) {
 <h2>Featured Lyrics Songs</h2>
 <ul>
 {{- range $sidebar_featured -}}
-
-{{ range $index, $element := .Pages }}
-{{ if eq $index 0 }}
-
 <li><a href="{{ .Permalink }}">
+  
+{{- range first 1 $sidebar_featured -}}
 {{- partial "get-yt-thumb.html" . -}}
-Lirik Lagu {{ .Title }}</a>
-{{- /* <span class="pub-date">{{ .Date.Format "02 Jan 2006" -}}</span> */ -}}
-</li>
-  
-{{ else }}
-<li><a href="{{ .Permalink }}">
-Lirik Lagu {{ .Title }}</a>
-{{- /* <span class="pub-date">{{ .Date.Format "02 Jan 2006" -}}</span> */ -}}
-</li>
+{{- end -}}
 
-{{ end }}
-{{ end }}
-  
+Lirik Lagu {{ .Title }}</a>
+{{- /* <span class="pub-date">{{ .Date.Format "02 Jan 2006" -}}</span> */ -}}
+</li>
 {{- end -}}
 </ul></div>
 {{- end -}}
