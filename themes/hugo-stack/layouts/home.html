@@ -1,6 +1,6 @@
 {{ define "main" }}
 {{- $paginator := partial "helper/paginator.html" . -}}
-{{- partial "get-yt-thumb.html" . -}}
+{{ $thumb := partial "get-yt-thumb.html" . }}
 
 <div class="ast-row">
 {{- /* 1. INITIALISASI PAGINATOR UTAMA (DIENGGO HALAMAN 2 SATERUSE) */ -}}
@@ -15,7 +15,7 @@
 <li><a href="{{ .Permalink }}">
     
     {{ if $thumb }}
-    <div class='bg-img' data-bg='https://i.ytimg.com/vi_webp/{{ $thumb }}/hqdefault.webp'></div>
+    <div class='bg-img' data-bg='https://i.ytimg.com/vi_webp/{{$ytID}}/hqdefault.webp'></div>
     {{else}}
     <div class='bg-img' data-bg='https://bestliriklagu.com/image/gudang-lirik-lagu-indonesia.webp'></div>
     {{ end }}
