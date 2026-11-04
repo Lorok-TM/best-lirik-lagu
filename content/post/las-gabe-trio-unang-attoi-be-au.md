@@ -9,6 +9,8 @@ categories:
   - "Batak"
 ---
 
+<div class="youtube-player" data-id="kq5L5dAZmnc"></div>
+
 Pillit ma nasa lomom  
 Pillit ma nasa roham  
 Molo nai do dumenggan  
