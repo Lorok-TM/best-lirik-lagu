@@ -3,7 +3,7 @@ author: Katrok
 title: "Suwara - Arya Galih"
 date: 2026-10-04T03:23:00Z
 slug: suwara-arya-galih
-featured: false
+featured: true
 draft: false
 categories: 
   - "Jawa"
