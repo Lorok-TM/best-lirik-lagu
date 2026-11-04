@@ -1,4 +1,11 @@
 <li>
+{{- if and (eq .Type "post") -}}
+<a href="{{ .RelPermalink }}">
+{{- partial "get-yt-thumb.html" . -}}
+<div class="entry-title">Lirik Lagu {{ .Title }}</div>
+</a>
+{{- else -}}
+<div class="entry-title">          
 <a href="{{ .RelPermalink }}">
 {{- if and (eq .Type "author") -}}
 {{ .Title }}
@@ -6,14 +13,13 @@
 {{ .Title }}
 {{- else if and (eq .Type "categories") -}}
 {{ .Title }}
-{{- else if and (eq .Type "post") -}}
-{{- partial "get-yt-thumb.html" . -}}
-<div class="entry-title">Lirik Lagu {{ .Title }}</div>
 {{- else -}}
 Lirik Lagu {{ .Title }}
 {{- end -}}
 </a>
-            
+</div>
+{{- end -}}
+
             {{- $description := .Params.description -}}
             {{- $IsTerm := in .Kind "term" -}}
             {{- if $IsTerm -}}
