@@ -330,7 +330,20 @@ if ('serviceWorker' in navigator) {
 <h2>Featured Lyrics Songs</h2>
 <ul>
 {{- range $sidebar_featured -}}
-<li><a href="{{ .Permalink }}">Lirik Lagu {{ .Title }}</a>
+<li><a href="{{ .Permalink }}">
+  
+  {{- if eq $index 0 -}}
+    {{ $ytID := "" }}
+    {{ $match := findRE `<div class="youtube-player" data-id="([^"]+)"` .RawContent 1 }}
+    {{ if $match }}
+      {{ $ytID = index $match 0 | replaceRE `<div class="youtube-player" data-id="([^"]+)"` "$1" }}   
+  <div class='bg-img' data-bg='https://i.ytimg.com/vi_webp/{{$ytID}}/hqdefault.webp'></div>
+  {{else}}
+  <div class='bg-img' data-bg='https://bestliriklagu.com/image/gudang-lirik-lagu-indonesia.webp'></div>
+    {{ end }}
+  {{- end -}}
+  
+Lirik Lagu {{ .Title }}</a>
 {{- /* <span class="pub-date">{{ .Date.Format "02 Jan 2006" -}}</span> */ -}}
 </li>
 {{- end -}}
