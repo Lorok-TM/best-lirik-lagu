@@ -153,7 +153,7 @@ body{background-color:var(--bg-basic-node)}
 
 .bg-img,.hero-cover{background-color:rgb(155 155 155/.1);background-size:cover;background-position:center;background-repeat:no-repeat}
 .hero-cover{aspect-ratio:16/3}
-.ast-row .bg-img{aspect-ratio:16/9;margin-bottom:8px}
+.ast-row .bg-img,.featured-posts .bg-img{aspect-ratio:16/9;margin-bottom:8px}
 
 {{- /* Gaya Tombol NOTIF PWA INSTAL or CLOSE */ -}}
 #pwa-combo-container{position:fixed;bottom:24px;right:24px;z-index:9999;display:flex;align-items:center;gap:8px}
@@ -331,9 +331,9 @@ if ('serviceWorker' in navigator) {
 <ul>
 {{- range $sidebar_featured -}}
 <li><a href="{{ .Permalink }}">
-
+{{- $first_post := index $sidebar_featured 0 -}}
 {{- partial "get-yt-thumb.html" . -}}
-
+{{- end -}}
 Lirik Lagu {{ .Title }}</a>
 {{- /* <span class="pub-date">{{ .Date.Format "02 Jan 2006" -}}</span> */ -}}
 </li>
