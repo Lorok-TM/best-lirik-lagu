@@ -329,10 +329,10 @@ if ('serviceWorker' in navigator) {
 <div class="featured-posts">
 <h2>Featured Lyrics Songs</h2>
 <ul>
-{{- range $sidebar_featured -}}
+{{- range $index, $element := $sidebar_featured -}}
 <li><a href="{{ .Permalink }}">
   
-{{- range first 1 $sidebar_featured -}}
+{{- if eq $index 0 -}}
 {{- partial "get-yt-thumb.html" . -}}
 {{- end -}}
 
