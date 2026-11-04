@@ -332,13 +332,7 @@ if ('serviceWorker' in navigator) {
 {{- range $sidebar_featured -}}
 <li><a href="{{ .Permalink }}">
   
-  {{- if eq $index 0 -}}
-    {{/* --- KUNCI UTAMANE NENG KENE, GAWE _PARTIALS --- */}}
-    {{ $thumb := partial "get-yt-thumb.html" . }}
-    {{ if $thumb }}
-      <img src="https://i.ytimg.com/vi/{{ $thumb }}/hqdefault.jpg" alt="{{ .Title }}" class="thumb-yt-sidebar" loading="lazy">
-    {{ end }}
-  {{- end -}}
+
   
 Lirik Lagu {{ .Title }}</a>
 {{- /* <span class="pub-date">{{ .Date.Format "02 Jan 2006" -}}</span> */ -}}
