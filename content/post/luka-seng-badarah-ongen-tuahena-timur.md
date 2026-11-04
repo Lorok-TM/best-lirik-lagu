@@ -9,6 +9,8 @@ categories:
   - "Timur"
 ---
 
+<div class="youtube-player" data-id="9_pFYOr-Cw8"></div>
+
 Beta pung hati sanang  
 Kong mangapa skarang  
 Ale bikin kecewa  
