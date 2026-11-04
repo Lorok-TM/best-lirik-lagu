@@ -333,7 +333,7 @@ if ('serviceWorker' in navigator) {
 <li><a href="{{ .Permalink }}">
   
   {{- if eq $index 0 -}}
-    {{- $thumb := partial "/get-yt-thumb.html" . -}}
+    {{- $thumb := partial "get-yt-thumb.html" . -}}
     {{- if $thumb -}}
       <img src="https://i.ytimg.com/vi/{{ $thumb }}/hqdefault.jpg" alt="{{ .Title }}" class="thumb-yt-sidebar" loading="lazy">
     {{- end -}}
