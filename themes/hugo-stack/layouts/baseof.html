@@ -336,11 +336,13 @@ if ('serviceWorker' in navigator) {
     {{ $ytID := "" }}
     {{ $match := findRE `<div class="youtube-player" data-id="([^"]+)"` .RawContent 1 }}
     {{ if $match }}
-      {{ $ytID = index $match 0 | replaceRE `<div class="youtube-player" data-id="([^"]+)"` "$1" }}   
-  <div class='bg-img' data-bg='https://i.ytimg.com/vi_webp/{{$ytID}}/hqdefault.webp'></div>
-  {{else}}
-  <div class='bg-img' data-bg='https://bestliriklagu.com/image/gudang-lirik-lagu-indonesia.webp'></div>
+    {{ $ytID = index $match 0 | replaceRE `<div class="youtube-player" data-id="([^"]+)"` "$1" }}   
     {{ end }}
+{{if $ytID}}
+  <div class='bg-img' data-bg='https://i.ytimg.com/vi_webp/{{$ytID}}/hqdefault.webp'></div>
+{{else}}
+  <div class='bg-img' data-bg='https://bestliriklagu.com/image/gudang-lirik-lagu-indonesia.webp'></div>
+{{end}}
   {{- end -}}
   
 Lirik Lagu {{ .Title }}</a>
