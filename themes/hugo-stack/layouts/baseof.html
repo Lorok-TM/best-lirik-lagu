@@ -392,8 +392,6 @@ var script=document.createElement('script');script.src = 'http' + (location.prot
 
 (function() {const aktifkanGambar = (el) => {const imgUrl = el.getAttribute('data-bg');if (imgUrl) {el.style.backgroundImage = `url('${imgUrl}')`;el.removeAttribute('data-bg');}};const loadAwal = () => {document.querySelectorAll('[data-bg]').forEach(aktifkanGambar);};if (document.readyState === 'loading') {document.addEventListener('DOMContentLoaded', loadAwal);} else {loadAwal();} const observer = new MutationObserver((mutations) => {mutations.forEach(mutation => {mutation.addedNodes.forEach(node => {if (node.nodeType === 1) {const bgs = node.querySelectorAll ? node.querySelectorAll('[data-bg]') : [];bgs.forEach(aktifkanGambar);if (node.hasAttribute('data-bg')) aktifkanGambar(node);}});});});observer.observe(document.body, { childList: true, subtree: true });})();
 
-const gA = document.createElement('style');gA.innerHTML = `.author-scrapper .bg-img{overflow:hidden}.author-scrapper .bg-img::after{content:'';position:absolute;display:block;width:100%;height:100%;background-image:url(https://bestliriklagu.com/image/hell.webp);background-size:cover;background-position:center;background-repeat:no-repeat;opacity:.6}`;document.head.appendChild(gA);
-
 {{- if and .IsHome (eq .Paginator.PageNumber 1) -}}
 hr = document.createElement("style");hr.innerHTML=".site-footer::before{content:'';position:relative;display:block;aspect-ratio:16/7.5;background-image:url(https://www.youtube-transcript.io/_next/static/media/hero.a0f51033.jpg);background-size:cover;background-position:center;background-repeat:no-repeat;mask-image:linear-gradient(to bottom,black 50%,transparent 100%)";document.head.appendChild(hr);
 {{- end -}}
