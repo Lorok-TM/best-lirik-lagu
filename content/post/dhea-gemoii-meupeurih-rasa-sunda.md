@@ -3,7 +3,7 @@ author: Katrok
 title: "Dhea Gemoii - Meupeurih Rasa | Sunda"
 date: 2026-11-04T00:39:00Z
 slug: dhea-gemoii-meupeurih-rasa-sunda
-featured: false
+featured: true
 draft: false
 categories: 
   - "Sunda"
