@@ -6,7 +6,7 @@ slug: osen-hutasoit-haol-au-tagan-so-lao-ho
 featured: false
 draft: false
 categories: 
-  - "Batak,"
+  - "Batak"
 ---
 
 <div class="youtube-player" data-id="rqJHaFMIgQU"></div>
