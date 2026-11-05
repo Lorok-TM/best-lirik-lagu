@@ -34,10 +34,13 @@ Lirik Lagu {{ .Title }}
                     {{- if or $IsTerm .Date.IsZero -}}
                         <span class="description">{{- $description -}}</span>
                     {{- else if not .Date.IsZero -}}
-                        <span class="meta"><time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
-                            {{- .Date | time.Format .Site.Params.dateFormat.published -}}
-                        </time></span>
-                    {{- end }}
+<div class="entry-meta">
+{{- if .Params.categories -}}
+{{- range .Params.categories -}}<span class="category-tag">{{ . }}</span> / {{ end -}}
+{{- end -}}
+<time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{- .Date | time.Format .Site.Params.dateFormat.published -}}</time>
+</div>
+            {{- end }}
             {{- end -}}
 
 
