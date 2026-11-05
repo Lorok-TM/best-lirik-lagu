@@ -3,7 +3,7 @@ author: Katrok
 title: "Snada Trio - Tape Wombayau Khigu"
 date: 2026-11-04T20:40:00Z
 slug: snada-trio-tape-wombayau-khigu
-featured: false
+featured: true
 draft: false
 categories: 
   - "Nias"
