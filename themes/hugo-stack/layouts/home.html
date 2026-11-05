@@ -18,7 +18,12 @@
 {{- partial "get-yt-thumb.html" . -}}
 <div class="entry-title">Lirik Lagu {{ .Title }}</div>
 </a>
-<div class="date">{{ .Date.Format "02 Jan 2006" }}</div>
+<div class="meta-data">
+{{- if .Params.categories -}}
+{{- range .Params.categories -}}<span class="category-tag">{{ . }}</span> / {{ end -}}
+{{- end -}}
+<span class="date">{{ .Date.Format "02 Jan 2006" }}</span>
+</div>
 </li>
 {{- end -}}
 </ul>
@@ -41,11 +46,9 @@
 <div class="entry-title">Lirik Lagu {{ .Title }}</div>
 </a>
 <div class="meta-data">
-{{ if .Params.categories }}
-{{ range .Params.categories }}
-<span class="category-tag">{{ . }}</span> / 
-{{ end }}
-{{ end }}
+{{- if .Params.categories -}}
+{{- range .Params.categories -}}<span class="category-tag">{{ . }}</span> / {{ end -}}
+{{- end -}}
 <span class="date">{{ .Date.Format "02 Jan 2006" }}</span>
 </div>
 </li>
@@ -61,7 +64,12 @@
 {{- partial "get-yt-thumb.html" . -}}
 <div class="entry-title">Lirik Lagu {{ .Title }}</div>
 </a>
-<div class="date">{{ .Date.Format "02 Jan 2006" }}</div>
+<div class="meta-data">
+{{- if .Params.categories -}}
+{{- range .Params.categories -}}<span class="category-tag">{{ . }}</span> / {{ end -}}
+{{- end -}}
+<span class="date">{{ .Date.Format "02 Jan 2006" }}</span>
+</div>
 </li>
 {{- end -}}
 </ul>
