@@ -3,7 +3,7 @@ author: Katrok
 title: "Pertama - Be3 feat. Lusy Rahmawati"
 date: 2026-11-04T11:24:00Z
 slug: pertama-be3-feat-lusy-rahmawati
-featured: false
+featured: true
 draft: false
 categories: 
   - "Indo"
