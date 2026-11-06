@@ -3,7 +3,7 @@ author: Katrok
 title: "Batamu Darah Tasirok - Ridho Zulma feat. Anyqu, Rayola | Minang"
 date: 2026-11-05T12:17:00Z
 slug: batamu-darah-tasirok-ridho-zulma-feat-anyqu-rayola-minang
-featured: false
+featured: true
 draft: false
 categories: 
   - "Minang"
