@@ -3,7 +3,7 @@ author: Katrok
 title: "Manis Gula Di Pisaga - Widi Widiana | Bali"
 date: 2026-11-05T12:40:00Z
 slug: manis-gula-di-pisaga-widi-widiana-bali
-featured: true
+featured: false
 draft: false
 categories: 
   - "Bali"
