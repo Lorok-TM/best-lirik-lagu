@@ -3,7 +3,7 @@ author: Katrok
 title: "Busi Busi Dodo - Anis Gea | Nias"
 date: 2026-11-05T12:49:00Z
 slug: busi-busi-dodo-anis-gea-nias
-featured: true
+featured: false
 draft: false
 categories: 
   - "Nias"
