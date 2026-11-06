@@ -3,7 +3,7 @@ author: Katrok
 title: "Acok Talompek Kato - Iwan Romeo feat. Syania | Minang"
 date: 2026-11-05T12:33:00Z
 slug: acok-talompek-kato-iwan-romeo-feat-syania-minang
-featured: false
+featured: true
 draft: false
 categories: 
   - "Minang"
