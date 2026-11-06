@@ -3,7 +3,7 @@ author: Katrok
 title: "Tambah Pitih Balanjo - Ratu Sikumbang feat. Adim MF | Minang"
 date: 2026-11-05T12:37:00Z
 slug: tambah-pitih-balanjo-ratu-sikumbang-feat-adim-mf-minang
-featured: true
+featured: false
 draft: false
 categories: 
   - "Minang"
