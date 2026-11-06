@@ -3,7 +3,7 @@ author: Katrok
 title: "Bajang Idaman - Yan Srikandi | Bali"
 date: 2026-11-05T12:45:00Z
 slug: bajang-idaman-yan-srikandi-bali
-featured: true
+featured: false
 draft: false
 categories: 
   - "Bali"
