@@ -3,7 +3,7 @@ author: Katrok
 title: "Nio Cinto Nan Nyato - Silva Hayati | Minang"
 date: 2026-11-05T12:29:00Z
 slug: nio-cinto-nan-nyato-silva-hayati-minang
-featured: false
+featured: true
 draft: false
 categories: 
   - "Minang"
