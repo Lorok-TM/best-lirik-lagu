@@ -3,7 +3,7 @@ author: Katrok
 title: "Dilua Galak Didalam Manangih - Dila Salih | Minang"
 date: 2026-11-05T12:23:00Z
 slug: dilua-galak-didalam-manangih-dila-salih-minang
-featured: true
+featured: false
 draft: false
 categories: 
   - "Minang"
