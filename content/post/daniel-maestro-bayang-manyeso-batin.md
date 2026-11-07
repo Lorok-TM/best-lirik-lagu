@@ -3,11 +3,13 @@ author: Katrok
 title: "Daniel Maestro - Bayang Manyeso Batin"
 date: 2025-05-04T03:58:00Z
 slug: daniel-maestro-bayang-manyeso-batin
-featured: false
+featured: true
 draft: false
 categories: 
   - "Minang"
 ---
+
+<div class="youtube-player" data-id="1UvRm9fTvtY"></div>
 
 Siang jo malam taruih mambayang  
 Rupo nan manyeso  
