@@ -3,7 +3,7 @@ author: Katrok
 title: "Tiarma - Asem Sinaga & The Boy’s Trio"
 date: 2026-11-05T22:02:00Z
 slug: tiarma-asem-sinaga-the-boys-trio
-featured: true
+featured: false
 draft: false
 categories: 
   - "Batak"
