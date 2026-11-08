@@ -359,6 +359,29 @@ if ('serviceWorker' in navigator) {
 </div>
 {{- end -}}
 {{- end -}}
+
+{{/*  SIDEBAR RECENT POSTS - ANTI SELF-LINK & LIMIT 10   */ -}}
+{{/* Nganggo saringan sing padha (mung bagean post & dudu kaca sing lagi dibukak) */ -}}
+{{- $filtered_recent := where (where .Site.RegularPages "Section" "post") "Permalink" "ne" .Permalink -}}
+{{- $sidebar_recent := $filtered_recent | first 10 -}}
+{{- if gt (len $sidebar_recent) 0 -}}
+<div class="recent-posts">
+<h2>Recent Posts</h2>
+<ul>
+{{- range $index, $element := $sidebar_recent -}}
+<li>
+<a href="{{ .Permalink }}">
+{{- if eq $index 0 -}}
+{{- partial "get-yt-thumb.html" . -}}
+{{- end -}}
+<div class="entry-title">Lirik Lagu {{ .Title }}</div>
+</a>
+</li>
+{{- end -}}
+</ul>
+</div>
+{{- end -}}
+  
 <div class="ads-sidebar" id="atContainer-7607678f9aa53b7eec49c711faa429bb"></div>
 </div>
 </div>
