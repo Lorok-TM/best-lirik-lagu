@@ -1,0 +1,19 @@
+---
+title: "Thomas Arya - Manjamu Berobah Benci"
+date: 2025-05-12
+categories: 
+  - "Slow Rock"
+---
+
+Cukup lama hatiku bersabar Hadapi semua tingkah mu kekasih Yang selalu sakiti perasaan ini
+
+Kau ku kenal dahulu manja Bersikap lembut pada diriku kekasih Mengapa kini berobah jadi benci
+
+Mana senyum manis mu dulu Bila bersua kau selalu bahagia
+
+Kini penuh tanya hati ku Apa kah mungkin Kau menyimpan cinta yang baru Selain aku
+
+Baik nya terus terang Jangan siksa batin ini Ku tak kan memaksa mu Bila tak lagi sayang
+
+Ku coba iklas kan dirimu pergi Ku lepas walau hati menangis Kerana tak guna ku pertahan kan Cinta kasih yang bukan milik ku
+

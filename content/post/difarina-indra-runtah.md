@@ -1,0 +1,29 @@
+---
+title: "Difarina Indra - Runtah"
+date: 2022-09-17
+categories: 
+  - "Dangdut"
+---
+
+## Lirik Lagu ”Runtah“ by Difarina Indra
+
+> Panonna alus, irung alus, biwir alus Ditempo ti hareup ti gigir mani mulus Ngan hanjakal pisan kalakuan siga sétan Gunta-ganti jalu teu sirikna unggal minggu
+> 
+> Naha kunaun nu geulis loba nu bangor? Naha kunaon nu bangor loba nu geulis? Sigana mah ngarasa asa aing hadé rupa Bisa payu ka sasaha tungtungna jadi cilaka
+> 
+> Kulit kelir konéng cangkang cau Huntuna bodas tipung tarigu Biwir beureum-beureum jawér hayam Panon coklat kopi susu
+> 
+> Ngan naha atuh beut dimumurah? Géblég hirup daék jadi runtah Ulah bangga bisa gunta-ganti jalu Komo jeung poho dibaju
+> 
+> Panonna alus, irung alus, biwir alus Ditempo ti hareup ti gigir mani mulus Ngan hanjakal pisan kalakuan siga sétan Gunta-ganti jalu teu sirikna unggal minggu
+> 
+> Naha kunaun nu geulis loba nu bangor? Naha kunaon nu bangor loba nu geulis? Sigana mah ngarasa asa aing hadé rupa Bisa payu ka sasaha tungtungna jadi cilaka
+> 
+> Kulit kelir konéng cangkang cau Huntuna bodas tipung tarigu Biwir beureum-beureum jawér hayam Panon coklat kopi susu
+> 
+> Ngan naha atuh beut dimumurah? Géblég hirup daék jadi runtah Ulah bangga bisa gunta-ganti jalu Komo jeung poho dibaju
+> 
+> Kulit kelir konéng cangkang cau Huntuna bodas tipung tarigu Biwir beureum-beureum jawér hayam Panon coklat kopi susu
+> 
+> Ngan naha atuh beut dimumurah? Géblég hirup daék jadi runtah Ulah bangga bisa gunta-ganti jalu Komo jeung poho dibaju
+

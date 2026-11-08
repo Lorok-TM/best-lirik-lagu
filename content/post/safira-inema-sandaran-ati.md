@@ -1,0 +1,15 @@
+---
+title: "Safira Inema - Sandaran Ati"
+date: 2025-07-27
+categories: 
+  - "Dangdut"
+---
+
+Sumilir angin kang nresep ning ati Gegowo roso eling esemu Pepujaningati sing tak tunggu Saiki ning endi paranmu
+
+Opo ra kroso kowe tak kangeni Opo wis muspro rasane ati Umpomo sek biso tak perjuangno Bakal tak labuhi senadjan nyebrang segoro
+
+Sandaro ning pundak ku Ngalemo ning aku Senadjan mung sedelo Biso keno nggo tombo
+
+Kangen ning atiku Ke gowo ngimpi Mung kowe sing iso ngobati
+

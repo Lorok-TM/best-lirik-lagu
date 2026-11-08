@@ -1,0 +1,22 @@
+---
+title: "Arief Putra feat. Silvia An - Tak Lebih Tak Kurang"
+date: 2025-12-18
+categories: 
+  - "Indo"
+---
+
+Bukannya tak mampu kehilanganmu Bukannya tak mampu melupakanmu Tanpa kau pinta diriku kan pergi Bila ku kini tiada berarti
+
+Di saat kurindu engkau menjauh Tak pernah selama ini aku mengeluh Tak kau fikirkan perasaanku Yang selalu merindukan dirimu
+
+Harus bagaimana caraku padamu Tunjukkanlah kasih biar aku tahu Hanya perhatianmu yang kuinginkan Tak lebih dan tak kurang yang aku harapkan
+
+Harus kau pahami apa kekuranganku Hanyalah itu yang kupinta darimu
+
+Kucoba tuk mengerti Kucoba tuk memahami Namun di hati ini selalu kau sakiti Namun di hati ini selalu kau sakiti
+
+Di saat kurindu engkau menjauh Tak pernah selama ini aku mengeluh Tak kau fikirkan perasaanku Yang selalu merindukan dirimu
+
+Harus bagaimana caraku padamu Tunjukkanlah kasih biar aku tahu Hanya perhatianmu yang kuinginkan Tak lebih dan tak kurang yang aku harapkan Harus kau pahami apa kekuranganku Hanyalah itu yang kupinta darimu Kucoba tuk mengerti Kucoba tuk memahami Namun di hati ini selalu kau sakiti Namun di hati ini selalu kau sakiti
+
+#Credits: Judul : Tak Lebih Tak Kurang Voc : Arief Putra ft. Silvia An Cipt : Silvia An Arr : Decky Ryan

@@ -1,0 +1,27 @@
+---
+title: "Rika Zella - Pulanglah"
+date: 2023-02-25
+categories: 
+  - "Melayu"
+---
+
+Lirik Lagu Melayu dengan judul Pulanglah yang dinyanyikan oleh Rika Zella dan diciptakan oleh Momon dengan irama musik Slow Rock.
+
+"_pulanglah sayangku oh pulanglah jangan kau tinggalkan diriku sendiri_" itulah cuplikan dari lirik lagu Rika Zella - Pulanglah.
+
+Situs bestliriklagu.com tidak menyediakan chord dasar / kunci gitar / Mp3 lagu Pulanglah ini. Halaman ini hanya menuliskan syair / liriknya saja. Berikut dibawah ini lyrics lengkapnya. Semoga lagu ini dapat menghibur anda.
+
+Title : Pulanglah Artist : Rika Zella Songwriter : Momon Production : Kinawa Fifarecord Pro Category : Lagu Slow Rock Melayu
+
+## Lirik Pulanglah - Rika Zella
+
+> Kasih lelah ku menunggu hatiku merindu Teringat dirimu dimalam yang bisu Bayanganmu selalu menjelma Didalam tidurku dan mimpiku
+> 
+> Sayang dulu kau berjanji sehidup semati Itulah sumpahmu kepada diriku Tatapan matamu jadi saksi bisu Bahwa cintamu suci kepadaku
+> 
+> Pulanglah sayangku oh pulanglah Jangan kau tinggalkan diriku sendiri Sewindu sudah kau tinggalkan aku Merana diriku
+> 
+> Kenanglah oh sayangku kenanglah Masa masa indah kala bersamaku Harapanku bulan kan bersinar Kau datang padaku bersama cintamu
+
+
+Mohon maaf bila ada kesalahan dalam penulisan lirik dan lain sebagainya. Terimakasih atas kunjungan Anda yang telah membaca Lirik Lagu Rika Zella - Pulanglah. Silahkan bagikan juga ke teman anda.
