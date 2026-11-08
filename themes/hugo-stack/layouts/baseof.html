@@ -83,11 +83,11 @@ blockquote{margin:24px 0;padding:15px;background-color:var(--gray-1);border-radi
 .ads-sidebar{max-width:320px;margin:20px auto 0 auto}
 .ads-sidebar img{width:100%;height:auto;display:block}
 .related-post{margin:24px 0}
-.featured-posts ul,.related-post ul{border:1px solid var(--gray-2);display:flex;flex-direction:column;border-radius:10px;overflow:hidden}
-.featured-posts ul li,.related-post ul li{padding:10px 15px;background-color:var(--bg-basic-node);line-height:1.5}
-.featured-posts ul li:not(:last-of-type),.related-post ul li:not(:last-of-type){border-bottom:1px solid var(--gray-2)}
-.featured a,.recent a{font-weight:bold;margin:0 0 5px 0}
-.featured-posts ul li:first-child{padding-top:15px}
+.featured-posts ul,.recent-posts ul,.related-post ul{border:1px solid var(--gray-2);display:flex;flex-direction:column;border-radius:10px;overflow:hidden}
+.featured-posts ul li,.recent-posts ul li,.related-post ul li{padding:10px 15px;background-color:var(--bg-basic-node);line-height:1.5}
+.featured-posts ul li:not(:last-of-type),.recent-posts ul li:not(:last-of-type),.related-post ul li:not(:last-of-type){border-bottom:1px solid var(--gray-2)}
+.featured a,.recent-posts a,.recent a{font-weight:bold;margin:0 0 5px 0}
+.featured-posts ul li:first-child,.recent-posts ul li:first-child{padding-top:15px}
 
 .bg-img,.hero-cover{background-color:rgb(155 155 155/.1);background-size:cover;background-position:center;background-repeat:no-repeat}
 .hero-cover{aspect-ratio:16/3}
@@ -358,7 +358,6 @@ if ('serviceWorker' in navigator) {
 </ul>
 </div>
 {{- end -}}
-{{- end -}}
 
 {{/*  SIDEBAR RECENT POSTS - ANTI SELF-LINK & LIMIT 10   */ -}}
 {{/* Nganggo saringan sing padha (mung bagean post & dudu kaca sing lagi dibukak) */ -}}
@@ -381,7 +380,8 @@ if ('serviceWorker' in navigator) {
 </ul>
 </div>
 {{- end -}}
-  
+
+{{- end -}}
 <div class="ads-sidebar" id="atContainer-7607678f9aa53b7eec49c711faa429bb"></div>
 </div>
 </div>
