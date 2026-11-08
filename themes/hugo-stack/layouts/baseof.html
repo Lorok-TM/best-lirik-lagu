@@ -254,7 +254,7 @@ if ('serviceWorker' in navigator) {
 {{- else if eq .Title "Dangdut" -}}
 <div class='hero-cover' data-bg='https://yt3.googleusercontent.com/RowPuwT7dw6AQ2jWCIDGew7MW9KUrmh7dTHDQ8pJEujaRBB1Q0fOaDOmr_totaTDD6fxZScX=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj'></div>
 {{- else if eq .Title "Dayak" -}}
-<div class='hero-cover' data-bg='https://yt3.googleusercontent.com/OcEPnNGG06FeV-D4bRp6kVJ4K4sMJ4pPevw6Ib9_rnb5GUAgG3pWEBPekYLwHyyH0nLv3uew=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj'></div>
+<div class='hero-cover' data-bg='https://bestliriklagu.com/image/karungut-dayak.webp'></div>
 {{- else if eq .Title "Ende" -}}
 <div class='hero-cover' data-bg='https://yt3.googleusercontent.com/G1aPtpar7iQTSEtgmy_2yi_RyEK-BzbtZym9P_OiAGBFpWyT5QOmOKeXwtEhLmwdYF9nLi1Z=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj'></div>
 {{- else if eq .Title "Gayo" -}}
@@ -353,7 +353,7 @@ if ('serviceWorker' in navigator) {
 {{- if eq $index 0 -}}
 {{- partial "get-yt-thumb.html" . -}}
 {{- end -}}
-<div class="entry-title">Lirik Lagu {{ .Title }}</div>
+<div class="title-post">Lirik Lagu {{ .Title }}</div>
 </a>
 </li>
 {{- end -}}
@@ -375,7 +375,7 @@ if ('serviceWorker' in navigator) {
 {{- if eq $index 0 -}}
 {{- partial "get-yt-thumb.html" . -}}
 {{- end -}}
-<div class="entry-title">Lirik Lagu {{ .Title }}</div>
+<div class="title-post">Lirik Lagu {{ .Title }}</div>
 </a>
 </li>
 {{- end -}}
