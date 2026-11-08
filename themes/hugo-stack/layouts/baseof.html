@@ -334,8 +334,10 @@ if ('serviceWorker' in navigator) {
 <div class='primary hfeed'>
 {{- block "main" . -}}
 {{- end -}}
-</div><div class='secondary'>
+</div>
+<div class='secondary'>
 {{- if and .IsPage (ne .File.BaseFileName "archives") -}}
+
 {{/*  SIDEBAR FEATURED - ANTI SELF-LINK & TETEP UTUH TAMPIL 10   */ -}}
 {{/* Jupuk kabeh postingan featured nanging langsung SAKALIGUS NGE-SKIP artikel sing lagi dibukak nganggo .Permalink */ -}}
 {{- $filtered_featured := where (where .Site.RegularPages "Section" "post") "Permalink" "ne" .Permalink -}}
@@ -365,7 +367,7 @@ if ('serviceWorker' in navigator) {
 {{- $sidebar_recent := $filtered_recent | first 10 -}}
 {{- if gt (len $sidebar_recent) 0 -}}
 <div class="recent-posts">
-<h2>Recent Posts</h2>
+<h2>Recent Lyrics Songs</h2>
 <ul>
 {{- range $index, $element := $sidebar_recent -}}
 <li>
