@@ -3,7 +3,7 @@ author: Katrok
 title: "Boga Rasa - Nanih | Sunda"
 date: 2026-11-07T01:24:00Z
 slug: boga-rasa-nanih-sunda
-featured: false
+featured: true
 draft: false
 categories: 
   - "Sunda"
