@@ -7,7 +7,7 @@
 {{- $paginator := .Paginate $all_posts 10 }}
 {{- /* 2. BAGIAN FEATURED (MUNG TAMPIL MURNI ING HALAMAN 1) */ -}}
 {{- if eq $paginator.PageNumber 1 -}}
-{{- $featured_posts := where (where .Site.RegularPages "Section" "post") ".Params.featured" true | first 50  -}}
+{{- $featured_posts := where (where .Site.RegularPages "Section" "post") ".Params.featured" true | first 10  -}}
 {{- if gt (len $featured_posts) 0 -}}
 <div class="featured">
 <h2>Postingan Pilihan</h2>
@@ -37,7 +37,7 @@
 {{- if eq $paginator.PageNumber 1 -}}
 <h2>Postingan Terbaru</h2>
 {{- $regular_posts := where $all_posts ".Params.featured" "!=" true -}}
-{{- $limit_posts := first 50 $regular_posts -}}
+{{- $limit_posts := first 10 $regular_posts -}}
 <ul>
 {{- range $limit_posts -}}
 <li>
