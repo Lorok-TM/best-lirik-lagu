@@ -3,7 +3,7 @@ author: Katrok
 title: "Dua Roha Dang Holsoan - Arghado Trio | Batak"
 date: 2026-11-08T00:31:00Z
 slug: dua-roha-dang-holsoan-arghado-trio-batak
-featured: false
+featured: true
 draft: false
 categories: 
   - "Batak"
