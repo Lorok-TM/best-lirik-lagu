@@ -3,7 +3,7 @@ author: Katrok
 title: "Hadia Tenga Sihufa Wofanömö - Dandy Mendrofa | Nias"
 date: 2026-11-08T14:23:00Z
 slug: hadia-tenga-sihufa-wofanomo-dandy-mendrofa-nias
-featured: false
+featured: true
 draft: false
 categories: 
   - "Nias"
