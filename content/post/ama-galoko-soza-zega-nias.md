@@ -3,7 +3,7 @@ author: Katrok
 title: "Ama Galökö - Soza Zega | Nias"
 date: 2026-11-08T14:29:00Z
 slug: ama-galoko-soza-zega-nias
-featured: false
+featured: true
 draft: false
 categories: 
   - "Nias"
