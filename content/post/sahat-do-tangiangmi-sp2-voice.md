@@ -3,7 +3,7 @@ author: Katrok
 title: "Sahat Do Tangiangmi - SP2 Voice"
 date: 2026-11-09T17:54:00Z
 slug: sahat-do-tangiangmi-sp2-voice
-featured: false
+featured: true
 draft: false
 categories: 
   - "Batak"
