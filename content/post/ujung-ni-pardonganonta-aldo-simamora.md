@@ -3,7 +3,7 @@ author: Katrok
 title: "Ujung Ni Pardonganonta - Aldo Simamora"
 date: 2026-11-09T18:03:00Z
 slug: ujung-ni-pardonganonta-aldo-simamora
-featured: false
+featured: true
 draft: false
 categories: 
   - "Batak"
