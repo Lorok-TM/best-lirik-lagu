@@ -3,7 +3,7 @@ author: Katrok
 title: "Didia Ho - Friska Sihite"
 date: 2026-11-09T17:59:00Z
 slug: didia-ho-friska-sihite
-featured: false
+featured: true
 draft: false
 categories: 
   - "Batak"
