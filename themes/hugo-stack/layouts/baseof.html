@@ -220,9 +220,9 @@ if ('serviceWorker' in navigator) {
 {{- else if and (.IsSection) (eq .Section "page") -}}
 <div class='hero-cover' data-bg='https://bestliriklagu.com/image/pages.webp'></div>
 {{- else if and (eq .Type "post") (not .IsPage) -}}
-<div class='hero-cover' data-bg='https://bestliriklagu.com/image/posts.webp'></div>
+<div class='hero-cover' data-bg='https://bestliriklagu.com/image/posts.webp'><div class='bg-1'></div></div>
 {{- else if and (eq .Type "post") .IsPage -}}
-<div class='hero-cover' data-bg='https://bestliriklagu.com/image/bestliriklagu.webp'></div>
+<div class='hero-cover' data-bg='https://bestliriklagu.com/image/bestliriklagu.webp'><div class='bg-2'></div></div>
 {{- else if strings.Contains .RelPermalink "/archives/" -}}
 <div class='hero-cover' data-bg='https://bestliriklagu.com/image/archives.webp'></div>
 {{- else if eq .Title "Aceh" -}}
