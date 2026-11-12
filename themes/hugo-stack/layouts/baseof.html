@@ -1,6 +1,13 @@
 <!DOCTYPE html><html lang="{{ .Site.Language.Locale }}" dir="{{ default `ltr` .Language.Direction }}"><head>
 {{- partial "head/head.html" . -}}
 {{- block "head" . -}}{{- end -}}
+
+{{$ytID := ""}}
+{{$match := findRE `<div class="youtube-player" data-id="([^"]+)"` .RawContent 1}}
+{{if $match}}
+{{$ytID = index $match 0 | replaceRE `<div class="youtube-player" data-id="([^"]+)"` "$1"}}
+{{end}}
+  
 <link rel="manifest" href="https://bestliriklagu.com/manifest.json">
 <link rel="shortcut icon" href="https://bestliriklagu.com/favicon.ico" type="image/x-icon">
 <link rel="icon" href="https://bestliriklagu.com/favicon.svg" type="image/svg+xml">
@@ -222,7 +229,11 @@ if ('serviceWorker' in navigator) {
 {{- else if and (eq .Type "post") (not .IsPage) -}}
 <div class='hero-cover' data-bg='https://bestliriklagu.com/image/posts.webp'></div>
 {{- else if and (eq .Type "post") .IsPage -}}
-<div class='hero-cover' data-bg='https://bestliriklagu.com/image/bestliriklagu.webp'><div class='bg-single'></div></div>
+<div class='hero-cover' data-bg='https://bestliriklagu.com/image/bestliriklagu.webp'>
+{{if $ytID}}
+  <div class='bg-single' data-bg='https://i.ytimg.com/vi_webp/{{$ytID}}/hqdefault.webp'></div>
+{{end}}
+</div>
 {{- else if strings.Contains .RelPermalink "/archives/" -}}
 <div class='hero-cover' data-bg='https://bestliriklagu.com/image/archives.webp'></div>
 {{- else if eq .Title "Aceh" -}}
