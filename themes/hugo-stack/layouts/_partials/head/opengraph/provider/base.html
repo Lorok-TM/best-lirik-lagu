@@ -1,7 +1,7 @@
 {{- $title := partialCached "data/title" . .RelPermalink -}}
 {{- $description := partialCached "data/description" . .RelPermalink -}}
 
-{{- /* =====JSON SINGLE POST===== 
+{{- /* =====JSON SINGLE POST SEMBUNYIKAN DULU===== 
 {{- if and .IsPage (strings.HasSuffix .RelPermalink "/author/katrok/") -}}
 {{- else if and .IsPage (ne .Section "page") -}}
 <script type='application/ld+json'>
@@ -200,6 +200,10 @@ website
 {{- $image := partial "helper/image" (dict "Image" .Params.image "Resources" .Resources "Context" .) -}}
 {{- if $image -}}
 <meta property='og:image' content='{{ absURL $image.Permalink }}'>
+{{- else if and .IsPage (strings.HasSuffix .RelPermalink "/author/katrok/") -}}
+<meta property='og:image' content='https://bestliriklagu.com/image/gudang-lirik-lagu-indonesia.webp'>
+{{- else if and .IsPage (ne .Section "page") -}}
+{{- /* KONSIDI SINGLE POST BIARKAN KOSONG  */ -}}
 {{- else -}}
 <meta property='og:image' content='https://bestliriklagu.com/image/gudang-lirik-lagu-indonesia.webp'>
 {{- end -}}
