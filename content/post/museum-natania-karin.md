@@ -3,7 +3,7 @@ author: Katrok
 title: "Museum - Natania Karin"
 date: 2026-11-07T12:57:00Z
 slug: museum-natania-karin
-featured: true
+featured: false
 draft: false
 categories: 
   - "Indo"
