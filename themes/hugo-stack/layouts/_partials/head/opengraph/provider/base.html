@@ -1,7 +1,7 @@
 {{- $title := partialCached "data/title" . .RelPermalink -}}
 {{- $description := partialCached "data/description" . .RelPermalink -}}
 
-{{- /* =====JSON SINGLE POST===== */ -}}
+{{- /* =====JSON SINGLE POST===== 
 {{- if and .IsPage (strings.HasSuffix .RelPermalink "/author/katrok/") -}}
 {{- else if and .IsPage (ne .Section "page") -}}
 <script type='application/ld+json'>
@@ -41,6 +41,7 @@
   }
 </script>
 {{- end -}}
+*/ -}}
 
 {{- /* =====JSON HOME===== */ -}}
 {{- if .IsHome -}}
