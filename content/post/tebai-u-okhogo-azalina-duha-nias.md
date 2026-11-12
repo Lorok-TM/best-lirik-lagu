@@ -3,7 +3,7 @@ author: Katrok
 title: "Tebai U Okhögö - Azalina Duha | Nias"
 date: 2026-11-10T16:01:00Z
 slug: tebai-u-okhogo-azalina-duha-nias
-featured: true
+featured: false
 draft: false
 categories: 
   - "Nias"
