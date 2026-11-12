@@ -45,8 +45,7 @@
     
 {{- if or $showTime $showTranslations $showTags -}}
 <div class="entry-meta">
-<span class="posted-by author vcard">By <a href="/author/katrok/" rel="author" class="url fn n">Katrok</a></span> / 
-{{ if $showTime }}
+<span class="posted-by author vcard">By <a href="/author/katrok/" rel="author" class="url fn n">Katrok</a></span> / {{ if $showTime -}}
 <span class="posted-on">
 {{- if $showDate -}}
 {{- /* partial "helper/icon" "date" */ -}}
