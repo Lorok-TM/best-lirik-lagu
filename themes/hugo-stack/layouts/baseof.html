@@ -443,7 +443,7 @@ if ('serviceWorker' in navigator) {
 {{- partial "footer/footer" . -}}
 {{- partial "footer/include.html" . -}}
 */ -}}
-<footer class="site-footer" id="colophon" itemtype="https://schema.org/WPFooter" itemscope="itemscope" itemid="#colophon">
+<footer class="site-footer">
 <div class="footer container"><div class='sharethis-inline-share-buttons'></div><div class="copyright">&copy; {{ if and (.Site.Params.footer.since) (ne .Site.Params.footer.since (int (now.Format "2006"))) }}{{ .Site.Params.footer.since }} - {{ end }}{{ now.Format "2006" }} {{ default .Site.Title .Site.Copyright }}</div></div>
 {{- /* SCRIPT ALL */ -}}  
 <script>
