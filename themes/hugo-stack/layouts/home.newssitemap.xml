@@ -18,12 +18,6 @@
     {{- $newsPages = $newsPages | first $limit -}}
 {{- end -}}
 
-{{$ytID := ""}}
-{{$match := findRE `<div class="youtube-player" data-id="([^"]+)"` .RawContent 1}}
-{{if $match}}
-{{$ytID = index $match 0 | replaceRE `<div class="youtube-player" data-id="([^"]+)"` "$1"}}
-{{end}}
-
 {{- printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>\n<?xml-stylesheet type=\"text/xsl\" href=\"/sitemap-news-style.xsl\"?>" | safeHTML -}}
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
@@ -42,6 +36,11 @@
             <news:title><![CDATA[Lirik Lagu {{ .Title }}]]></news:title>
         </news:news>
         {{- /* Proses Gambar Dinamis + Gambar Cadangan */ -}}
+{{- $ytID := "" -}}
+{{- $match := findRE `<div class="youtube-player" data-id="([^"]+)"` .RawContent 1 -}}
+{{- if $match -}}
+{{- $ytID = index $match 0 | replaceRE `<div class="youtube-player" data-id="([^"]+)"` "$1" -}}
+{{- end -}}
         {{- $image := partial "helper/image" (dict "Image" .Params.image "Resources" .Resources "Context" .) -}}
         {{- $imageUrl := "" -}}
         
