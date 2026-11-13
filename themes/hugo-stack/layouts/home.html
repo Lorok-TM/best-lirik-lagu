@@ -16,9 +16,9 @@
 <li>
 <a href="{{ .Permalink }}">
 {{- partial "get-yt-thumb.html" . -}}
-<div class="entry-title">Lirik Lagu {{ .Title }}</div>
+<div class="post-title">Lirik Lagu {{ .Title }}</div>
 </a>
-<div class="entry-meta">
+<div class="post-meta">
 {{- if .Params.categories -}}
 {{- range .Params.categories -}}<span class="category-tag">{{ . }}</span> / {{ end -}}
 {{- end -}}
@@ -43,9 +43,9 @@
 <li>
 <a href="{{ .Permalink }}">
 {{- partial "get-yt-thumb.html" . -}}
-<div class="entry-title">Lirik Lagu {{ .Title }}</div>
+<div class="post-title">Lirik Lagu {{ .Title }}</div>
 </a>
-<div class="entry-meta">
+<div class="post-meta">
 {{- if .Params.categories -}}
 {{- range .Params.categories -}}<span class="category-tag">{{ . }}</span> / {{ end -}}
 {{- end -}}
@@ -62,9 +62,9 @@
 <li>
 <a href="{{ .Permalink }}">
 {{- partial "get-yt-thumb.html" . -}}
-<div class="entry-title">Lirik Lagu {{ .Title }}</div>
+<div class="post-title">Lirik Lagu {{ .Title }}</div>
 </a>
-<div class="entry-meta">
+<div class="post-meta">
 {{- if .Params.categories -}}
 {{- range .Params.categories -}}<span class="category-tag">{{ . }}</span> / {{ end -}}
 {{- end -}}
