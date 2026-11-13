@@ -41,7 +41,13 @@ function readDir(dir) {
             const slug = data.slug || path.basename(file, '.md');
             const permalink = `${domain}/${slug}/`;
             const formattedDate = postDate.toISOString();
-            const imgUrl = data.image || "https://bestliriklagu.com/image/gudang-lirik-lagu-indonesia.webp";
+
+            // 2. Golek data-id saka <div class="youtube-player" data-id="..."> ing isi postingan
+            const ytMatch = content.match(/youtube-player[^>]+data-id=["']([^"']+)["']/i);
+            const ytImage = ytMatch ? `https://i.ytimg.com/vi_webp/{ytMatch[1]}/hqdefault.webp` : null;
+
+            // 3. Prioritas: Gambar Frontmatter -> Gambar YouTube -> Gambar Cadangan
+            const imgUrl = data.image || ytImage || "https://bestliriklagu.com/image/gudang-lirik-lagu-indonesia.webp";
 
             urlsToNotify.push(permalink);
             xmlEntries += `  <url>
