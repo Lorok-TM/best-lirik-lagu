@@ -1,4 +1,4 @@
-<div class="entry-content">
+<div class="post-body entry-content" id="post-{{ .File.UniqueID }}">
 {{- $w := printf "<div class=\"table-wrapper\">${1}</div>" -}}
 {{- $c := .Content | replaceRE "(<table>(?:.|\n)+?</table>)" $w -}}
 {{- $c = $c | replaceRE "(</p>)\\s+(<p>)" "${1}${2}" -}}
