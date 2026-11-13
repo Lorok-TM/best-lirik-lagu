@@ -2,10 +2,10 @@
 {{- if and (eq .Type "post") -}}
 <a href="{{ .RelPermalink }}">
 {{- partial "get-yt-thumb.html" . -}}
-<div class="entry-title">Lirik Lagu {{ .Title }}</div>
+<div class="post-title">Lirik Lagu {{ .Title }}</div>
 </a>
 {{- else -}}
-<div class="entry-title">          
+<div class="post-title">          
 <a href="{{ .RelPermalink }}">
 {{- if and (eq .Type "author") -}}
 {{ .Title }}
@@ -34,7 +34,7 @@ Lirik Lagu {{ .Title }}
                     {{- if or $IsTerm .Date.IsZero -}}
                         <span class="description">{{- $description -}}</span>
                     {{- else if not .Date.IsZero -}}
-<div class="entry-meta">
+<div class="post-meta">
 {{- if .Params.categories -}}
 {{- range .Params.categories -}}<span class="category-tag">{{ . }}</span> / {{ end -}}
 {{- end -}}
