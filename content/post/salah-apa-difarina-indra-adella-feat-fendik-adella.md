@@ -3,7 +3,7 @@ author: Katrok
 title: "Salah Apa - Difarina Indra Adella feat. Fendik Adella"
 date: 2026-09-07T17:20:00Z
 slug: salah-apa-difarina-indra-adella-feat-fendik-adella
-featured: false
+featured: true
 draft: false
 categories: 
   - "Dangdut"
