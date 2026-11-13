@@ -45,7 +45,7 @@ function readDir(dir) {
 
             // 2. Golek data-id saka <div class="youtube-player" data-id="..."> ing isi postingan
             const ytMatch = content.match(/youtube-player[^>]+data-id=["']([^"']+)["']/i);
-            const ytImage = ytMatch ? `https://i.ytimg.com/vi_webp/{ytMatch[1]}/hqdefault.webp` : null;
+            const ytImage = ytMatch ? "https://i.ytimg.com/vi_webp/{ytMatch[1]}/hqdefault.webp" : null;
 
             // 3. Prioritas: Gambar Frontmatter -> Gambar YouTube -> Gambar Cadangan
             const imgUrl = data.image || ytImage || "https://bestliriklagu.com/image/gudang-lirik-lagu-indonesia.webp";
