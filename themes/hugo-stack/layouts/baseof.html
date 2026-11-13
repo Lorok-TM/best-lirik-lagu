@@ -118,9 +118,9 @@ main,aside,footer{position:relative}.breadcrumbs{margin:0 0 15px 0;padding:0;wid
 .ast-row .post,.ast-row ul li{padding:15px;line-height:1.35;display:flex;flex-direction:column;background-color:var(--bg-basic);box-shadow:var(--shadow-1);border-radius:10px;overflow:hidden}
   
 {{- /* HEADER META */ -}}
-.entry-title,.page-title{margin:0 0 5px 0;font-weight:bold}
-.entry-meta,.meta,.date,time{font-size:13px}
-.entry-meta a{font-weight:bold}
+.post-title,.page-title{margin:0 0 5px 0;font-weight:bold}
+.post-meta,.meta,.date,time{font-size:13px}
+.post-meta a{font-weight:bold}
 
 {{- /* BLOCKQUOTE - SHARE */ -}}
 .sharethis-inline-share-buttons{margin:24px 0}
@@ -382,7 +382,7 @@ if ('serviceWorker' in navigator) {
 <div class='hero-cover' data-bg='https://yt3.googleusercontent.com/Dzmk2NYM4NDZZaahUFi7KA36o45Z4JfIWiuRMys0EqlPAhMV4QE8GSCABaPKuC-8p33a881Y=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj'></div>
 {{- end -}}
 <div class='container'>
-<div class='primary hfeed'>
+<div class='primary'>
 {{- block "main" . -}}
 {{- end -}}
 </div>
