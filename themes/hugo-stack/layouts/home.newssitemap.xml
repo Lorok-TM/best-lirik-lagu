@@ -3,7 +3,7 @@
 {{- /* Saringan 48 jam sing bener kanggo Hugo */ -}}
 {{- $newsPages := slice -}}
 {{- $wongsoSaiki := now.Unix -}}
-{{- $patangPuluhWoluJam := mul 48 3600 -}} {{- /* 48 jam didadekne hitungan detik */ -}}
+{{- $patangPuluhWoluJam := mul 48 3600 -}}
 {{- $cutoffUnix := sub $wongsoSaiki $patangPuluhWoluJam -}}
 
 {{- range $pages -}}
@@ -24,7 +24,6 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
 {{- range $newsPages -}}
-
     <url>
         <loc><![CDATA[{{ .Permalink }}]]></loc>
         <news:news>
@@ -35,23 +34,27 @@
             <news:publication_date><![CDATA[{{ .PublishDate.Format "2006-01-02T15:04:05-07:00" }}]]></news:publication_date>
             <news:title><![CDATA[Lirik Lagu {{ .Title }}]]></news:title>
         </news:news>
-        {{- /* Proses Gambar Dinamis + Gambar Cadangan */ -}}
-{{- $ytID := "" -}}
-{{- $match := findRE `<div class="youtube-player" data-id="([^"]+)"` .RawContent 1 -}}
-{{- if $match -}}
-{{- $ytID = index $match 0 | replaceRE `<div class="youtube-player" data-id="([^"]+)"` "$1" -}}
-{{- end -}}
+
+        {{- /* 1. Nangkep data-id saka tag <div class="youtube-player" data-id="..."> ing .md */ -}}
+        {{- $ytID := "" -}}
+        {{- $pattern := `youtube-player[^>]+data-id=["']([^"']+)["']` -}}
+        {{- $match := findRE $pattern .RawContent 1 -}}
+        {{- if $match -}}
+            {{- $ytID = index $match 0 | replaceRE $pattern "$1" -}}
+        {{- end -}}
+
+        {{- /* 2. Cek gambar saka frontmatter */ -}}
         {{- $image := partial "helper/image" (dict "Image" .Params.image "Resources" .Resources "Context" .) -}}
         {{- $imageUrl := "" -}}
         
         {{- if $image -}}
-            {{- /* Yen artikel ana gambare, nganggo gambar kuwi */ -}}
+            {{- /* Yen artikel ana gambar khusus ing frontmatter */ -}}
             {{- $imageUrl = $image.Permalink | absURL -}}
         {{- else if $ytID -}}
-            {{- /* Yen artikel ana id youtube, nganggo gambar youtube */ -}}
-            {{- $imageUrl = "https://i.ytimg.com/vi_webp/{{$ytID}}/hqdefault.webp" | absURL -}}
+            {{- /* Yen ana <div class="youtube-player" data-id="..."> ing .md */ -}}
+            {{- $imageUrl = printf "https://ytimg.com" $ytID -}}
         {{- else -}}
-            {{- /* Kene panggonan gambar cadangan/default yen artikel kosongan */ -}}
+            {{- /* Gambar cadangan yen ora ana gambar & ora ana video YouTube */ -}}
             {{- $imageUrl = "https://bestliriklagu.com/image/gudang-lirik-lagu-indonesia.webp" | absURL -}}
         {{- end -}}
         
@@ -60,5 +63,5 @@
             <image:title><![CDATA[{{ .Title }}]]></image:title>
         </image:image>
     </url>
-    {{- end -}}
+{{- end -}}
 </urlset>
