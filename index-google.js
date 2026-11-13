@@ -29,7 +29,7 @@ function readDir(dir) {
     } else if (file.endsWith('.md')) {
       try {
         const fileContent = fs.readFileSync(filePath, 'utf8');
-        const { data } = matter(fileContent);
+        const { data, content } = matter(fileContent);
         
         if (data.date) {
           const postDate = new Date(data.date);
