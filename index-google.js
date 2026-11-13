@@ -41,7 +41,7 @@ function readDir(dir) {
             const slug = data.slug || path.basename(file, '.md');
             const permalink = `${domain}/${slug}/`;
             const formattedDate = postDate.toISOString();
-            const imgUrl = data.image || "https://bestliriklagu.com/image/gudang-lirik-lagu-indonesia.webp";
+            const imgUrl = data.image || "https://i.ytimg.com/vi_webp/{{$ytID}}/hqdefault.webp" || "https://bestliriklagu.com/image/gudang-lirik-lagu-indonesia.webp";
 
             urlsToNotify.push(permalink);
             xmlEntries += `  <url>
