@@ -29,6 +29,7 @@ function readDir(dir) {
     } else if (file.endsWith('.md')) {
       try {
         const fileContent = fs.readFileSync(filePath, 'utf8');
+        // 1. Jupuk 'data' (frontmatter) LAN 'content' (isi artikel .md)
         const { data, content } = matter(fileContent);
         
         if (data.date) {
