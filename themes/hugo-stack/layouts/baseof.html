@@ -253,7 +253,7 @@ if ('serviceWorker' in navigator) {
 </script>
 
 </head>
-<body itemtype='https://schema.org/Blog' itemscope='itemscope'>
+<body class="{{ if .IsHome }}home blog{{ else if .IsPage }}single single-{{ .Type }} postid-{{ with .File }}{{ .UniqueID }}{{ end }}{{ else if .IsSection }}archive category category-{{ .Section }}{{ else if eq .Kind "taxonomy" }}archive tag{{ else }}page{{ end }}{{ range .Params.categories }} category-{{ . | urlize }}{{ end }}{{ range .Params.tags }} tag-{{ . | urlize }}{{ end }}">
 {{- $hasWidget := false -}}
 {{- range .Site.Params.widgets -}}
 {{- if gt (len .) 0 -}}
