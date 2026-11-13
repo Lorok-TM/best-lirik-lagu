@@ -1,11 +1,11 @@
-<header class="site-header" id="masthead" itemtype="https://schema.org/WPHeader" itemscope="itemscope" itemid="#masthead">
+<header class="site-header">
     <div class='container'>
         <div class='header-left'><input class='visually-hidden' id='toggle' role='switch' type='checkbox' aria-label='Toggle Menu'><label class='toggleMenu' for='toggle'><span class='icon-btn'><svg aria-hidden='true' fill='currentColor' focusable='false' height='24' viewBox='0 0 24 24' width='24'><path d='M21 6H3V5h18v1zm0 5H3v1h18v-1zm0 6H3v1h18v-1z'></path></svg></span><span class='visually-hidden'>Buka Menu</span></label>
-            <div class="site-branding" itemtype="https://schema.org/Organization" itemscope="itemscope">
+            <div class="site-branding">
 {{- if .IsPage -}}
-<span class="site-title" itemprop="name"><a rel="home" itemprop="url" href="{{ .Site.Home.RelPermalink }}">{{ .Site.Title }}</a></span>
+<span class="site-title"><a href="{{ .Site.Home.RelPermalink }}">{{ .Site.Title }}</a></span>
 {{- else -}}
-<h1 class="site-title" itemprop="name"><a rel="home" itemprop="url" href="{{ .Site.Home.RelPermalink }}">{{ .Site.Title }}</a></h1>
+<h1 class="site-title"><a href="{{ .Site.Home.RelPermalink }}">{{ .Site.Title }}</a></h1>
 {{- end -}}
            </div>
         </div>
