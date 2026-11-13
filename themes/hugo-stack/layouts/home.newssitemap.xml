@@ -18,6 +18,12 @@
     {{- $newsPages = $newsPages | first $limit -}}
 {{- end -}}
 
+{{$ytID := ""}}
+{{$match := findRE `<div class="youtube-player" data-id="([^"]+)"` .RawContent 1}}
+{{if $match}}
+{{$ytID = index $match 0 | replaceRE `<div class="youtube-player" data-id="([^"]+)"` "$1"}}
+{{end}}
+
 {{- printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>\n<?xml-stylesheet type=\"text/xsl\" href=\"/sitemap-news-style.xsl\"?>" | safeHTML -}}
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
@@ -42,6 +48,9 @@
         {{- if $image -}}
             {{- /* Yen artikel ana gambare, nganggo gambar kuwi */ -}}
             {{- $imageUrl = $image.Permalink | absURL -}}
+        {{- else if $ytID -}}
+            {{- /* Yen artikel ana id youtube, nganggo gambar youtube */ -}}
+            {{- $imageUrl = "https://i.ytimg.com/vi_webp/{{$ytID}}/hqdefault.webp" | absURL -}}
         {{- else -}}
             {{- /* Kene panggonan gambar cadangan/default yen artikel kosongan */ -}}
             {{- $imageUrl = "https://bestliriklagu.com/image/gudang-lirik-lagu-indonesia.webp" | absURL -}}
