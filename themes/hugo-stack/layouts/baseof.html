@@ -444,7 +444,7 @@ if ('serviceWorker' in navigator) {
 {{- partial "footer/include.html" . -}}
 */ -}}
 <footer class="site-footer">
-<div class="footer container"><div class='sharethis-inline-share-buttons'></div><div class="copyright">&copy; {{ if and (.Site.Params.footer.since) (ne .Site.Params.footer.since (int (now.Format "2006"))) }}{{ .Site.Params.footer.since }} - {{ end }}{{ now.Format "2006" }} {{ default .Site.Title .Site.Copyright }}</div></div>
+<div class="footer container"><div class="copyright">&copy; {{ if and (.Site.Params.footer.since) (ne .Site.Params.footer.since (int (now.Format "2006"))) }}{{ .Site.Params.footer.since }} - {{ end }}{{ now.Format "2006" }} {{ default .Site.Title .Site.Copyright }}</div></div>
 {{- /* SCRIPT ALL */ -}}  
 <script>
 window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'G-GRQX8Z5L3R');
@@ -459,7 +459,6 @@ let timerMunyuk;const munyuk = () => {["mousemove", "mousedown", "touchstart", "
 yTp.forEach(wVideo => {const idVideo = wVideo.getAttribute('data-id');if (idVideo) {const kodeEmbed = `<iframe width="100%" height="100%" src="https://www.youtube.com/embed/${idVideo}" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`;wVideo.innerHTML = kodeEmbed;}});
 {{- end -}}
 
-var share=document.createElement("script");share.defer = true;share.type="text/javascript";share.src="//platform-api.sharethis.com/js/sharethis.js#property=5f5e6cc99486490011bc399d&amp;product=inline-share-buttons";document.head.appendChild(share);
 var gtm=document.createElement("script");gtm.defer = true;gtm.type="text/javascript";gtm.src="https://www.googletagmanager.com/gtm.js?id=GTM-N77QV8DD";document.head.appendChild(gtm);
 var gtag=document.createElement("script");gtag.defer = true;gtag.type="text/javascript";gtag.src="https://www.googletagmanager.com/gtag/js?id=G-GRQX8Z5L3R";document.head.appendChild(gtag);
 var script=document.createElement('script');script.src = 'http' + (location.protocol === 'https:' ? 's' : '') + '://bauval.org/22/7607678f9aa53b7eec49c711faa429bb';document.getElementsByClassName('ads-sidebar')[0].appendChild(script);
