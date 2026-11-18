@@ -1,4 +1,21 @@
-<article class="post">
+{{- $postID := .File.UniqueID | default (md5 .Permalink) -}}
+{{- $classes := slice "post" (printf "post-%s" $postID) (printf "type-%s" .Type) "status-publish" "format-standard" "hentry" -}}
+
+{{- /* Tambah class category secara dinamis */ -}}
+{{- with .Params.categories -}}
+  {{- range . -}}
+    {{- $classes = $classes | append (printf "category-%s" (. | urlize)) -}}
+  {{- end -}}
+{{- end -}}
+
+{{- /* Tambah class tag secara dinamis */ -}}
+{{- with .Params.tags -}}
+  {{- range . -}}
+    {{- $classes = $classes | append (printf "tag-%s" (. | urlize)) -}}
+  {{- end -}}
+{{- end -}}
+
+<article id="post-{{ $postID }}" class="{{ delimit $classes " " }}">
 {{- partial "article/components/header" (dict "Page" . "IsList" false) -}}
 {{- if .Scratch.Get "TOCEnabled" -}}
     <div class="article-toc">
