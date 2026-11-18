@@ -1,10 +1,10 @@
 {{- define "main" -}}
 {{- partial "breadcrumbs.html" . -}}
 <div class="ast-row">
-<header class="page-header">
+<div class="page-header">
 <h2 class="page-title">{{ .Title }}</h2>
 <span class="count">{{ T "list.page" (len .Pages) }}</span>
-</header>
+</div>
     {{- $pages := partial "helper/pages.html" . -}}
     {{- $subsections := .Sections -}}
     {{- if and (eq (len $pages) (len $subsections)) (eq $pages $subsections) -}}
