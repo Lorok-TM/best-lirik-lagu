@@ -31,7 +31,7 @@
                 <news:name>{{ "<![CDATA[" | safeHTML }}{{ $.Site.Title }}{{ "]]>" | safeHTML }}</news:name>
                 <news:language>{{ "<![CDATA[" | safeHTML }}{{ site.Language.Locale | default "id" }}{{ "]]>" | safeHTML }}</news:language>
             </news:publication>
-            <news:publication_date>{{ "<![CDATA[" | safeHTML }}{{ .PublishDate.Format "2006-01-02T15:04:05-07:00" }}{{ "]]>" | safeHTML }}</news:publication_date>
+            <news:publication_date>{{ printf "<![CDATA[%s]]>" (.PublishDate.Format "2006-01-02T15:04:05-07:00") | safeHTML }}</news:publication_date>
             <news:title>{{ "<![CDATA[" | safeHTML }}Lirik Lagu {{ .Title }}{{ "]]>" | safeHTML }}</news:title>
         </news:news>
 
