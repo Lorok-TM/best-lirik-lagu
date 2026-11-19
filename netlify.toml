@@ -1,5 +1,5 @@
 [build]
-  command = "hugo --gc --minify && rm -f public/404.html"
+  command = "rm -rf public && hugo --gc --minify && node index-google.js && rm -f public/404.html"
   publish = "public"
 
 [build.environment]
