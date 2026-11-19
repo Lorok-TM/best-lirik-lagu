@@ -54,18 +54,18 @@ function readDir(dir) {
             
             urlsToNotify.push(permalink);
             xmlEntries += `  <url>
-    <loc><![CDATA[${permalink}]]></loc>
+    <loc>{{ "<![CDATA[" | safeHTML }}${permalink}{{ "]]>" | safeHTML }}</loc>
     <news:news>
       <news:publication>
-        <news:name><![CDATA[${mediamu}]]></news:name>
-        <news:language><![CDATA[id]]></news:language>
+        <news:name>{{ "<![CDATA[" | safeHTML }}${mediamu}{{ "]]>" | safeHTML }}</news:name>
+        <news:language>{{ "<![CDATA[" | safeHTML }}id{{ "]]>" | safeHTML }}</news:language>
       </news:publication>
-      <news:publication_date><![CDATA[${formattedDate}]]></news:publication_date>
-      <news:title><![CDATA[Lirik Lagu ${data.title || "No Title"}]]></news:title>
+      <news:publication_date>{{ "<![CDATA[" | safeHTML }}${formattedDate}{{ "]]>" | safeHTML }}</news:publication_date>
+      <news:title>{{ "<![CDATA[" | safeHTML }}Lirik Lagu ${data.title || "No Title"}{{ "]]>" | safeHTML }}</news:title>
     </news:news>
     <image:image>
-      <image:loc><![CDATA[${imgUrl}]]></image:loc>
-      <image:title><![CDATA[${data.title || "No Title"}]]></image:title>
+      <image:loc>{{ "<![CDATA[" | safeHTML }}${imgUrl}{{ "]]>" | safeHTML }}</image:loc>
+      <image:title>{{ "<![CDATA[" | safeHTML }}${data.title || "No Title"}{{ "]]>" | safeHTML }}</image:title>
     </image:image>
   </url>\n`;
           }
