@@ -52,7 +52,7 @@
             {{- $imageUrl = $image.Permalink | absURL -}}
         {{- else if $ytID -}}
             {{- /* Yen ana <div class="youtube-player" data-id="..."> ing .md */ -}}
-            {{- $imgUrl = print "https://i.ytimg.com/vi/$ytID/hqdefault.jpg" -}}
+            {{- $imageUrl = print "https://i.ytimg.com/vi/$ytID/hqdefault.jpg" -}}
         {{- else -}}
             {{- /* Gambar cadangan yen ora ana gambar & ora ana video YouTube */ -}}
             {{- $imageUrl = "https://bestliriklagu.com/image/gudang-lirik-lagu-indonesia.webp" | absURL -}}
