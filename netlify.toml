@@ -1,5 +1,5 @@
 [build]
-  command = "hugo --gc --minify && npm run build && rm -f public/404.html"
+  command = "hugo --gc --minify && rm -f public/404.html"
   publish = "public"
 
 [build.environment]
