@@ -96,12 +96,13 @@ if (fs.existsSync('./public')) {
 // ⚠️ PROSES AMAN (SAFE EXIT): Supoyo Vercel anti-gagal
 if (urlsToNotify.length > 0 && process.env.GOOGLE_SERVICE_ACCOUNT_KEY) {
   try {
-    const keyData = JSON.parse(process.env.GOOGLE_SERVICE_ACCOUNT_KEY);
-    const jwtClient = new google.auth.JWT(
-      keyData.client_email, null, keyData.private_key,
-      ['https://googleapis.com'], null
-    );
-
+const keyData = JSON.parse(process.env.GOOGLE_SERVICE_ACCOUNT_KEY);
+const jwtClient = new google.auth.JWT({
+  email: keyData.client_email,
+  key: keyData.private_key.replace(/\\n/g, '\n'),
+  scopes: ['https://googleapis.com']
+});
+    
     jwtClient.authorize(async (err, tokens) => {
       if (err) {
         console.error("Gagal otentikasi Google API:", err.message);
