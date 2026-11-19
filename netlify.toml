@@ -21,6 +21,12 @@
 # 2. Fallback / Catch-all (Mirip aturan terakhir di vercel.json)
 # File yang ada di filesystem (seperti /offline.html, gambar, artikel) otomatis dilayani lebih dulu oleh Netlify sebelum kena aturan ini
 [[redirects]]
+  from = "/404.html"
+  to = "/"
+  status = 301
+  force = true
+
+[[redirects]]
   from = "/*"
   to = "/"
   status = 301
