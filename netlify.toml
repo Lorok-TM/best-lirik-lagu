@@ -1,5 +1,5 @@
 [build]
-  command = "hugo --gc --minify"
+  command = "hugo --gc --minify && rm -f public/404.html"
   publish = "public"
 
 [build.environment]
@@ -20,12 +20,6 @@
 
 # 2. Fallback / Catch-all (Mirip aturan terakhir di vercel.json)
 # File yang ada di filesystem (seperti /offline.html, gambar, artikel) otomatis dilayani lebih dulu oleh Netlify sebelum kena aturan ini
-[[redirects]]
-  from = "/404.html"
-  to = "/"
-  status = 301
-  force = true
-
 [[redirects]]
   from = "/*"
   to = "/"
