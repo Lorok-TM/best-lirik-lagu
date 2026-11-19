@@ -11,21 +11,6 @@
 [build.processing.html]
   pretty_urls = true
 
-# 1. Redirect /index.xml ke /sitemap.rss (301)
-[[redirects]]
-  from = "/index.xml"
-  to = "/sitemap.rss"
-  status = 301
-  force = true
-
-# 2. Fallback / Catch-all (Mirip aturan terakhir di vercel.json)
-# File yang ada di filesystem (seperti /offline.html, gambar, artikel) otomatis dilayani lebih dulu oleh Netlify sebelum kena aturan ini
-[[redirects]]
-  from = "/*"
-  to = "/"
-  status = 301
-  force = false
-
 # 3. Header khusus untuk /sitemap.rss
 [[headers]]
   for = "/sitemap.rss"
