@@ -22,3 +22,4 @@ Tuhan Nan Kuaso Barilah jalan denai ko Untuak marasokan dicinto diharagoi
 Jauah jauahkanlah luko Nan acok datang manyeso Antah bilo masonyo denai punyo Pandamping hiduik ko Antah bilo masonyo denai punyo Pandamping hiduik ko
 
 #Credits: Judul : Antah Bilo Masonyo Voc : Afrizal Cipt : Afrizal Arr : Satria Wandra
+
