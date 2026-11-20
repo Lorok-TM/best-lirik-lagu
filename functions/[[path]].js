@@ -1,7 +1,7 @@
 export async function onRequest(context) {
   const response = await context.next();
   if (response.status === 404) {
-    return Response.redirect("https://bestliriklagu.com", 301);
+    return Response.redirect("https://bestliriklagu.com/", 301);
   }
   return response;
 }
