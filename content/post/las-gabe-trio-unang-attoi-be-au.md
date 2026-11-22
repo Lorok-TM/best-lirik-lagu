@@ -3,7 +3,7 @@ author: Katrok
 title: "Las Gabe Trio - Unang Attoi Be Au"
 date: 2026-06-16T03:30:00Z
 slug: las-gabe-trio-unang-attoi-be-au
-featured: true
+featured: false
 draft: false
 categories: 
   - "Batak"

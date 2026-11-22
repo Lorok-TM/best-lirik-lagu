@@ -3,7 +3,7 @@ author: Katrok
 title: "Basadoi Trio - Siholni Roha"
 date: 2026-07-31T03:02:00Z
 slug: basadoi-trio-siholni-roha
-featured: true
+featured: false
 draft: false
 categories: 
   - "Batak"

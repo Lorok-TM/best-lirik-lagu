@@ -3,7 +3,7 @@ author: Katrok
 title: "Laira Munthe - Pemere Dibata"
 date: 2025-11-06T23:04:00Z
 slug: laira-munthe-pemere-dibata
-featured: true
+featured: false
 draft: false
 categories: 
   - "Karo"
